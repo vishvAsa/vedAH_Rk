@@ -4,7 +4,7 @@ title = "09"
 +++
 The form kariṣyā́is problematic for several reasons. Despite its sandhi position before k, it seems best to assume it represents 2nd sg. kariṣyā́s out of sandhi, even though kariṣyā́ḥ would be the proper sandhi form in this context. (The Pp.
 
-simply reads kariṣyā́like the Saṃhitā text, but the standard tr. and comm [e.g., Oldenberg, going back to BR] take it as 2nd sg.) Moreover, this form must be a subjunctive to the future stem, an unusual morphological combination at best (but see Whitney, Gr.
+simply reads kariṣyā́like the Saṃhitā text, but the standard tr. and comm [e.g., Oldenberg, going back to BR] take it as 2nd sg.) Moreover, this form must be a subjunctive to the future stem, an unusual morphological combination at best (but see Whitney, Grassmann
 
 §938). Reading the transmitted kariṣyā́won’t help: that would simply be a 1st sg. subj.
 

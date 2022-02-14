@@ -12,7 +12,7 @@ Either of these interpr. seems to require that the yád in c actually have domai
 
 In b it is not clear to me what flaws the Maruts needed to purify; Geldner (n. 4b) suggests it’s the unnatural pregnancy and birth, and he may well be right.
 
-Gr (and Lub) assign ukṣámānāḥ to √ukṣ ‘sprinkle’, but ‘grow’ seems more likely (so also Geldner, Renou).
+Grassmann (and Lubotsky) assign ukṣámānāḥ to √ukṣ ‘sprinkle’, but ‘grow’ seems more likely (so also Geldner, Renou).
 
 Our problematic expression may have spawned the two ánu forms (in c and d) from áyā nú. The first is in the familiar expression ánu jóṣam (II.21.3, etc.) “according to / at pleasure”; the latter I construe with tanvàm (cf. I.147.4 ánu mrk̥ ṣīṣta tanvàm, with similar discontinuity). Neither √vakṣ / ukṣ nor √mṛc otherwise ánu.
 

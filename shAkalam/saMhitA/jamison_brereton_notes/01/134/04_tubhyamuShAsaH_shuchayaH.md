@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-I take dáṃsu here and in I.141.4 as the loc. pl. of the root noun dám- ‘house’ (so also Witzel Gotō) rather than as adv. ‘wondrously’ (Gr, Renou). Geldner refuses to tr.
+I take dáṃsu here and in I.141.4 as the loc. pl. of the root noun dám- ‘house’ (so also Witzel Gotō) rather than as adv. ‘wondrously’ (Grassmann, Renou). Geldner refuses to tr.
 
 As with raśmíbhiḥ in I.132.5 I take raśmíṣu here as a temporal expr., contrary to the standard tr. The extended phrases in I.135.3, 137.2 support this view.
 

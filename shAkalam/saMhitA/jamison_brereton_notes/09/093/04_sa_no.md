@@ -6,5 +6,5 @@ Geldner takes vāvaśānáḥ in b to ‘desire’ (√vaś), but the same form 
 
 The hapax rathirāyátām (3rd sg. mid. impv., with Oldenberg, etc., not gen. pl. pres.
 
-part., with Gr) is baroque in formation. It’s worth noting that 3 of the 11 forms of its presumed base rathirá- ‘charioteer, chariot rider’ are found in nearby IX.97 (vss. 37, 46, 48) with a further occurrence in IX.76.2.
+part., with Grassmann) is baroque in formation. It’s worth noting that 3 of the 11 forms of its presumed base rathirá- ‘charioteer, chariot rider’ are found in nearby IX.97 (vss. 37, 46, 48) with a further occurrence in IX.76.2.
 

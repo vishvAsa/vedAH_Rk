@@ -4,7 +4,7 @@ title = "07"
 +++
 I take this entire verse as dependent on vs. 6. It is full of rare and unclear words, but the pile-up of descriptors of the violently moving fire is exhilarating.
 
-In b hvārá- (to √hvar ‘move crookedly, twist’; cf. hvárate in 1c) is taken by Geldner and Renou as ‘bird’, but I am persuaded by Roth’s suggestion, enshrined in Gr (and see Oldenberg [Noten]), that the referent is a snake -- the creature of “twisting/serpentine motion.” The quality held in common between the hvārá and fire is vákva-, derived from the root √vañc ‘undulate, curl, meander’, and the image is that of fire winding its way through the dried-up plants that serve as its fuel. From this tr. it is clear that I take jaráṇā as jaráṇāḥ, with the Pp., and as an acc. pl. fem. ‘old (things = plants’). Gr.
+In b hvārá- (to √hvar ‘move crookedly, twist’; cf. hvárate in 1c) is taken by Geldner and Renou as ‘bird’, but I am persuaded by Roth’s suggestion, enshrined in Grassmann (and see Oldenberg [Noten]), that the referent is a snake -- the creature of “twisting/serpentine motion.” The quality held in common between the hvārá and fire is vákva-, derived from the root √vañc ‘undulate, curl, meander’, and the image is that of fire winding its way through the dried-up plants that serve as its fuel. From this tr. it is clear that I take jaráṇā as jaráṇāḥ, with the Pp., and as an acc. pl. fem. ‘old (things = plants’). Grassmann
 
 identifies it as an instr. sg., and this interpr. is followed by others (most recently by Witzel Gotō), but the sandhi situation, with -ā before a- essentially excludes it (though see Oldenberg [Noten] who finds it barely possible).
 

@@ -6,7 +6,7 @@ title = "06"
 
 With Oldenberg and Geldner I take gavyā́as instr. to gavyā́- ‘longing for cows’, rather than neut.
 
-pl. with Gr and Lub. Renou sits on the fence.
+pl. with Grassmann and Lubotsky Renou sits on the fence.
 
 Although vidé is ordinarily passive, there are a few precedents for ‘know (as) one’s own’; see VII.40.5, VIII.62.9.
 

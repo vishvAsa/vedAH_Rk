@@ -6,11 +6,11 @@ As in 3c, Hoffmann (184) reads sácā han in c rather than Pp. sácā ahan, whic
 
 For whatever reason the injunctive to this stem was avoided -- or, perhaps better phrased, ā́va- was treated as the injunctive stem.
 
-I do not entirely understand what sácā is doing here; it seems to add little and have no obvious syntactic connection to the rest. As discussed ad IV.31.5, sácā with loc. is regularly a pleonastic+++(=redundant)+++ marker of the loc. abs., but there is no loc. here. Gr cites our passage here as an ex. of sácā after a dat. meaning “zu seinen Gunsten,” but I don’t understand how this meaning would have developed from ‘together with’. The same sequence (sácā han) is found two vss. later (6d) in the same general context: Indra’s smiting of an enemy on behalf of a mortal friend, and I.63.3 tváṃ śúṣṇam … kútsāya dyumáte sácā han shows the same configuration. In all three passages I tr. it ‘in partnership’ as an adverbial. Perhaps sácā signals an esp. close relationship between Indra and his mortal beneficiary. The voc. epithet of Indra in 7c, hapax sadhavīra ‘you who have our heroes as companions’ in my tr., might support this view, and see also 8ab. I am not entirely persuaded by my own interpr., however.
+I do not entirely understand what sácā is doing here; it seems to add little and have no obvious syntactic connection to the rest. As discussed ad IV.31.5, sácā with loc. is regularly a pleonastic+++(=redundant)+++ marker of the loc. abs., but there is no loc. here. Grassmann cites our passage here as an ex. of sácā after a dat. meaning “zu seinen Gunsten,” but I don’t understand how this meaning would have developed from ‘together with’. The same sequence (sácā han) is found two vss. later (6d) in the same general context: Indra’s smiting of an enemy on behalf of a mortal friend, and I.63.3 tváṃ śúṣṇam … kútsāya dyumáte sácā han shows the same configuration. In all three passages I tr. it ‘in partnership’ as an adverbial. Perhaps sácā signals an esp. close relationship between Indra and his mortal beneficiary. The voc. epithet of Indra in 7c, hapax sadhavīra ‘you who have our heroes as companions’ in my tr., might support this view, and see also 8ab. I am not entirely persuaded by my own interpr., however.
 
-On tūtos, tūtot as belonging to a redup. aor., not the perfect (contra Wh Rts, Macdonell VGS), see detailed disc. by Kü (220-21); Hoffmann also identifies it as an aor.
+On tūtos, tūtot as belonging to a redup. aor., not the perfect (contra Wh Rts, Macdonell VGS), see detailed disc. by Kümmel (220-21); Hoffmann also identifies it as an aor.
 
-(183); Gr already took it as a caus. aor., and see also Schaeffer (Intens. 129-30).
+(183); Grassmann already took it as a caus. aor., and see also Schaeffer (Intens. 129-30).
 
 
 

@@ -4,7 +4,7 @@ title = "12"
 +++
 This vs. consisting entirely of nominals is surprisingly hard to interpret, primarily because of the unclear grammatical identity of anarváṇaḥ and the lack of parallelism between the animates of ab and the neut. aneháḥ of c.
 
-To deal with the first problem first, beside the -n-stem anarván- we must reckon with a thematized form anarváṇa- (so Gr, Lub), the latter of which is attested twice as apparent nom. sg. masculine anarváṇaḥ (V.51.11 [or pl?] and this passage) and once as apparent acc. sg. masculine anarváṇam (X.92.14). Unfortunately all three forms immediately follow feminine singulars (áditiḥ, arámatiḥ, áditim respectively). Despite this clear pattern, I was reluctant to interpr. the apparent masc.
+To deal with the first problem first, beside the -n-stem anarván- we must reckon with a thematized form anarváṇa- (so Grassmann, Lubotsky), the latter of which is attested twice as apparent nom. sg. masculine anarváṇaḥ (V.51.11 [or pl?] and this passage) and once as apparent acc. sg. masculine anarváṇam (X.92.14). Unfortunately all three forms immediately follow feminine singulars (áditiḥ, arámatiḥ, áditim respectively). Despite this clear pattern, I was reluctant to interpr. the apparent masc.
 
 forms as fem., esp. in the case of the nominative forms, and therefore contrived ad hoc fixes for those passages. Here the fix is not too difficult: the immediately following word (beginning the next pāda) is masc. víśvaḥ. I take this as referring to another entity who should come here, with anarváṇaḥ modifying it, rather than arámatiḥ. The referent is in fact open-ended: “every” or “any” one with the mind of a god. Note the evocation of the All Gods through the phrase víśvo devásya, though the words are in different cases.
 

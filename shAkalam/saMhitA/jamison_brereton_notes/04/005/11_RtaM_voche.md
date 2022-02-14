@@ -2,7 +2,7 @@
 title = "11"
 
 +++
-Geldner and Renou interpret pāda b as having three finite verbs: śáṃsāti, yájate, and ví … dhāḥ, subjunctive, pres. indicative, and injunctive respectively. The first and third go well together (esp. if the injunctive is imperatival, as dhāḥ so often is), but the indicative does not sit well between them. By contrast Gr interprets yájate as the dat. sg. of the act. pres. part., rather than as a middle 3rd sg. With Oldenberg (SBE) and Witzel Gotō, I follow Gr in the morphological analysis, but both Oldenberg and Witzel Gotō construe the part.
+Geldner and Renou interpret pāda b as having three finite verbs: śáṃsāti, yájate, and ví … dhāḥ, subjunctive, pres. indicative, and injunctive respectively. The first and third go well together (esp. if the injunctive is imperatival, as dhāḥ so often is), but the indicative does not sit well between them. By contrast Grassmann interprets yájate as the dat. sg. of the act. pres. part., rather than as a middle 3rd sg. With Oldenberg (SBE) and Witzel Gotō, I follow Grassmann in the morphological analysis, but both Oldenberg and Witzel Gotō construe the part.
 
 with vy ū̀dhāḥ. I think it belongs rather with śáṃsati, both because of the position of the ū and because of a nearby parallel passage also in an Agni hymn, IV.16.2 śáṃsāti ukthám … cikitúṣe … “He will recite his solemn speech to the one who attends to it,” with a dat. participle in this formula. The referent of yájate is Agni; note that he is called the superior sacrificer (yájīyān) in 1b, so yájate forms a ring with that first mention.
 

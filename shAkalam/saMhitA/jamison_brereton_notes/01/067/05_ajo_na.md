@@ -6,5 +6,5 @@ Tr. of the subj. ajáḥ vary between ‘unborn’ (Geldner, Renou) and ‘goat�
 
 In our passage the word padá- appears in the next verse and gestures toward the epithet.
 
-The pf. dādhā́ra is ordinarily always presential (Kü 261); Kü cannot decide whether the pf. of √stambh is presential or preterital, but at least in this context I think it matches dadhā́ra in value.
+The pf. dādhā́ra is ordinarily always presential (Kümmel 261); Kümmel cannot decide whether the pf. of √stambh is presential or preterital, but at least in this context I think it matches dadhā́ra in value.
 

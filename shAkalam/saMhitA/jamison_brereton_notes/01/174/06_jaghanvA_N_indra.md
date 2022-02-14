@@ -6,7 +6,7 @@ This vs. joins Indra’s overwhelming aggressive power with the moral force of t
 
 I take the pf. part. jaghanvā́n here as the equivalent of a pluperfect (in the English grammatical sense), a past anterior, since there are no finite forms with that function.
 
-The standard tr. take both mitréru- and codá- as PNs. This is certainly the easy, and tempting, way out. But both can be (and in my opinion should be) given lexical weight. The easier one is codá-, a transparent derivative of √cud ‘bestir, incite’. Gr’s interpr. of the compound (< Roth), that codá- ‘inciting, goading’ is used of soma, makes good sense in context, since Indra performs his feats of strength under the influence of soma.
+The standard tr. take both mitréru- and codá- as PNs. This is certainly the easy, and tempting, way out. But both can be (and in my opinion should be) given lexical weight. The easier one is codá-, a transparent derivative of √cud ‘bestir, incite’. Grassmann’s interpr. of the compound (< Roth), that codá- ‘inciting, goading’ is used of soma, makes good sense in context, since Indra performs his feats of strength under the influence of soma.
 
 As for mitréru-, my interpr. is based on, but modifies, Oldenberg’s suggested mitrāī́ru- “die Mitra (zur Rache ihrer Treulosigkeit) in Bewegung setzen.” He seems to envision the god Mitra being sent to punish the disloyal, but those who send Mitra to effect this punishment should be on the side of good, not subject to Indra’s smiting as here. I take mitra- here as the common noun ‘ally” and the -īr(u)- as expressing a hostile dispatching of their erstwhile allies. Both those who dishonor their alliances in this way and those who lack piety (ádāsūn, b) violate the norms of Ārya society that are overseen by the Ādityas.
 

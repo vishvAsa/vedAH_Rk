@@ -6,7 +6,7 @@ On pā́ntam see Oldenberg’s lengthy n. ad loc. The stem pā́nt(a)-, generall
 
 part. of the root aor. of √pā ‘drink’. The noun is the more common (6x), while the part. is most likely found only in vs. 4 of this same hymn (du. pā́ntā) and as nom. pl.
 
-in IX.98.8 (q.v.). This distribution of forms is found in Lub, with the part. listed under √pā (‘drink’) and the nom. stem pā́nta- separate.
+in IX.98.8 (q.v.). This distribution of forms is found in Lubotsky, with the part. listed under √pā (‘drink’) and the nom. stem pā́nta- separate.
 
 The construction of the second hemistich is much discussed, including the function of the instrumentals. See esp. Oldenberg and Renou
 

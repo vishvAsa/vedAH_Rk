@@ -2,7 +2,7 @@
 title = "09"
 
 +++
-sū́raḥ: Although most take this as nom. sg. (Gr, Geldner, Thieme, Lü), Renou makes a good case for it as gen. sg. (followed, it seems, by Witzel Gotō), also adducing V.31.11 sū́raś cid rátham.
+sū́raḥ: Although most take this as nom. sg. (Grassmann, Geldner, Thieme, Lüders), Renou makes a good case for it as gen. sg. (followed, it seems, by Witzel Gotō), also adducing V.31.11 sū́raś cid rátham.
 
 
 

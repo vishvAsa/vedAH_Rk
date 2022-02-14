@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-The morphological identity of the forms gṛṇīṣé and stuṣé is disputed. Geldner takes them as 2nd sg. passives (favored also by Oldenberg), though he mentions the possibility that they are 1st sg. -se forms in his n.; Lub identifies them as 1st singulars.
+The morphological identity of the forms gṛṇīṣé and stuṣé is disputed. Geldner takes them as 2nd sg. passives (favored also by Oldenberg), though he mentions the possibility that they are 1st sg. -se forms in his n.; Lubotsky identifies them as 1st singulars.
 
 I take them as infinitives rather than 1st sgs, primarily because they are accented.
 

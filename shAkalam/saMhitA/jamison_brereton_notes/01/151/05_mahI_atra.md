@@ -4,7 +4,7 @@ title = "05"
 +++
 The standard tr. take mahī́in pāda a as a loc sg. (Geldner ‘auf Erden’). Since loc. sg. -ī is extremely rare, I prefer to take it as the du. nom./acc. it appears to be, referring to the two world halves (see ródasī in 1c) in an unmarked simile.
 
-In b the root noun tújaḥ is grammaticaly ambiguous; with Gr, Geldner, Witzel Gotō, Schindler (RtNoun) I take it as nom. pl., against Renou (gen. sg.). (Oldenberg considers both nom. and acc. pl., without deciding.) The image, in my view, is of a herd of cows milling around in confusion on the ritual ground, but not raising dust as a real herd would do -- because, after all, the “cows” are really milk.
+In b the root noun tújaḥ is grammaticaly ambiguous; with Grassmann, Geldner, Witzel Gotō, Schindler (RtNoun) I take it as nom. pl., against Renou (gen. sg.). (Oldenberg considers both nom. and acc. pl., without deciding.) The image, in my view, is of a herd of cows milling around in confusion on the ritual ground, but not raising dust as a real herd would do -- because, after all, the “cows” are really milk.
 
 In cd, following Renou’s interpr., I see reference to the times of the three soma pressings. With Renou I tr. uparátāti as zenith, referring to the sun’s position at the Midday Pressing; ā́nimrúcaḥ is an abl. with ā́“until its setting,” referring to the Third (or evening) Pressing. Unlike Renou I do not take uṣásaḥ as ‘à l’aurore’ (as if a loc. sg.), but rather as an acc. of extent of time, “through the dawns,” though an abl. sg.
 

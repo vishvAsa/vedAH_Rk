@@ -10,7 +10,7 @@ preceding paiprayántam) and leaving its twigs behind.
 
 On the other hand, Geldner’s explan. of suṣaṃsádam ‘keeping good company’ is persuasive; it refers either to the gods and priests or to the water and the milk (or, I would add, both).
 
-The standard tr. (not, however, Scar [608]) construe diváḥ in c with vā́cam in d; cf., e.g., Renou “… lance la voix (venue) du ciel,” which is then further interpr. as thunder (see Geldner’s n. 8d, Ober II.209). But I prefer to take diváḥ with immed.
+The standard tr. (not, however, Scarlatta [608]) construe diváḥ in c with vā́cam in d; cf., e.g., Renou “… lance la voix (venue) du ciel,” which is then further interpr. as thunder (see Geldner’s n. 8d, Ober II.209). But I prefer to take diváḥ with immed.
 
 preceding ūrmíṇā for several reasons: 1) a pāda boundary and the verb intervene between diváḥ and vā́cam; 2) the ūrmí- from heaven is found in IX.49.1 apā́m ūrmíṃ divás pári; 3) the formulaic VP íyarti vā́cam (II.42.1, III.8.5, 34.2, IV.21.5, etc.) does not otherwise appear with a source of the speech specified. Surely the point here is that when the soma is being ritually prepared he/it inspires ritual speech.
 

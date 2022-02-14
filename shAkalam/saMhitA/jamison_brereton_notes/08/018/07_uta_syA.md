@@ -6,5 +6,5 @@ The naḥ of pāda a was careless omitted in the publ. tr., which should be chan
 
 Although as a noun, we would expect śáṃtāti to be feminine, hence *śáṃtātim in context, I prefer to take it here as a nonce neuter noun, rather than as a nonce neuter adjective modifying máyaḥ, contra Geldner’s “beglückende Freude.” Perhaps instead of a neuter, we might consider it an honorary indeclinable, matching its base śám ‘weal’, which opens 8b and all three pādas in vs. 9; our śáṃtāti … karat would be entirely parallel to 8b śám … karataḥ and 9a śám … karat.
 
-Gr identifies a lexeme ápa √kṛ for just this passage, on the basis of the sequence … karad ápa srídhaḥ, but ápa srídhaḥ is the refrain of this tṛca and must therefore be independent of what precedes it.
+Grassmann identifies a lexeme ápa √kṛ for just this passage, on the basis of the sequence … karad ápa srídhaḥ, but ápa srídhaḥ is the refrain of this tṛca and must therefore be independent of what precedes it.
 

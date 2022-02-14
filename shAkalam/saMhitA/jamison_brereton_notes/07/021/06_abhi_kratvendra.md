@@ -8,7 +8,7 @@ The particle ádha is once again oddly positioned; cf. VII.20.5. In this case, h
 
 Pāda b contains one of the standardly cited examples of neut. pl. subject with singular verb: … vivyak … rájāṃsi.
 
-The verb in d, vividat, is morphologically slightly problematic. Following Gr I interpret it as a subjunctive to the act. pf. of √vid ‘find’, but we ought then to have full-gr. root syllable *vivedat. Kü (493) takes it as an injunctive “in komprehensivem Gebrauch,” but the perfect injunctive ought not to be thematic, but rather *vivet (like vivyak in b). In the end I take it as a wrongly formed subjunctive.
+The verb in d, vividat, is morphologically slightly problematic. Following Grassmann I interpret it as a subjunctive to the act. pf. of √vid ‘find’, but we ought then to have full-gr. root syllable *vivedat. Kümmel (493) takes it as an injunctive “in komprehensivem Gebrauch,” but the perfect injunctive ought not to be thematic, but rather *vivet (like vivyak in b). In the end I take it as a wrongly formed subjunctive.
 
 Geldner construes the enclitic te with ántam: “… dein Ende finden,” but the enclitic seems wrongly positioned for this interpretation (insofar as we understand the positioning of adnominal enclitics - but see te asuryā̀ya in 7a), and at least one parallel passage suggests that it is the end of his śávas- that is at issue: I.100.15 ná … śávaso ántam āpuḥ.
 

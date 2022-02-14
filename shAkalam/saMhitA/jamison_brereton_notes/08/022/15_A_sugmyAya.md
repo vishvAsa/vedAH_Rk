@@ -4,7 +4,7 @@ title = "15"
 +++
 The vs. begins with an echo of the first vs., or rather the first pragātha, in which the poet called on the Aśvins’ chariot (1a ó tyám ahva ā́rátham), here reprised by ā́… súgmyam … / huvé “I call the easily moving (chariot).” But in pāda b the poet thinks better of it and addresses the Aśvins directly. This change of heart is signalled by vā ‘or’.
 
-Geldner, flg. Sāyaṇa, takes sakṣáṇī to √sac ‘accompany’, but as Renou points out, all other forms of sakṣáṇi- (incl. those separated by Gr into a separate lemma derived from √sac) belong to √sah, and this etymon works fine here.
+Geldner, flg. Sāyaṇa, takes sakṣáṇī to √sac ‘accompany’, but as Renou points out, all other forms of sakṣáṇi- (incl. those separated by Grassmann into a separate lemma derived from √sac) belong to √sah, and this etymon works fine here.
 
 The echo of the first pragātha continues with the poet’s self-identification as sóbharī at the end of the verse, echoing his self-address with voc. sobhare at the end of 2c. sóbharī here is one of two occurrences of this PN that have apparently fem.
 

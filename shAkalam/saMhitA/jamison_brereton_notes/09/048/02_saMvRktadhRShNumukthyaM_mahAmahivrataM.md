@@ -4,7 +4,7 @@ title = "02"
 +++
 This vs. is couched in the acc. and entirely dependent on vs. 1, qualifying Soma.
 
-Contra Gr, the cmpd sáṃvṛkta-dhṛṣṇu- must be a bahuvrīhi; cf. esp. Oldenberg and Scar (504).
+Contra Grassmann, the cmpd sáṃvṛkta-dhṛṣṇu- must be a bahuvrīhi; cf. esp. Oldenberg and Scarlatta (504).
 
 The cmpd mahā́mahivrata- is unusual in having three members, esp. since the first two are etym. identical. With AiG II.1.236 it’s best to take mahā́as ‘very’ (cf. also Schmidt, vrata p. 100).
 

@@ -6,7 +6,7 @@ In b both Geldner and Renou take uṣásaḥ as a nom. pl. rather than a gen. sg
 
 However, in IV.1.17 in the phrase uṣáso bhānúḥ (like our uṣáso ná bhānúnā), uṣásaḥ has to be gen. sg. and Geldner so interprets it there.
 
-In c and d I take the crucial terms with double reference, in both simile and frame. In c this term is the pres. part. tū́rvan: in the frame it refers to Agni and is construed with loc. yā́man “going in triumph on his course”; in the simile it is construed with loc. ráṇe “like the victor in the battle.” The battle with (lit. of) Etaśa is a reference to the conflict between Indra and the Sun involving the Sun’s horse Etaśa in some unfortunately puzzling way. To make this clear, “battle over Etaśa would be a better rendering, as MLW points out to me. A further resonance of this phrase tū́rvan ná yā́man is the PN Tūrvayāṇa found several times in the RV, incl.
+In c and d I take the crucial terms with double reference, in both simile and frame. In c this term is the pres. part. tū́rvan: in the frame it refers to Agni and is construed with loc. yā́man “going in triumph on his course”; in the simile it is construed with loc. ráṇe “like the victor in the battle.” The battle with (lit. of) Etaśa is a reference to the conflict between Indra and the Sun involving the Sun’s horse Etaśa in some unfortunately puzzling way. To make this clear, “battle over Etaśa would be a better rendering, as Michael Weiss points out to me. A further resonance of this phrase tū́rvan ná yā́man is the PN Tūrvayāṇa found several times in the RV, incl.
 
 nearby VI.18.13.
 

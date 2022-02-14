@@ -10,4 +10,4 @@ The meaning and etymology of the s-stem āhanás- are deeply uncertain. In conte
 
 (2018). The word has gained a certain notoriety in IEist discourse because it is argued that it preserves the old suffixal accent of s-stem bahuvrīhis (see Stüber, sstems [2002] 27, 189). However, it is dangerous to pin the reconstruction of a whole category on a word whose meaning, structure, and etymology are radically uncertain.
 
-For disc. of the word, as well as demolition of the accentual theory it is supposed to support, see JL “αἰνοπαθής.” On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.
+For disc. of the word, as well as demolition of the accentual theory it is supposed to support, see Jesse Lundquist “αἰνοπαθής.” On vakṣáṇā- ‘belly’ as a pl. tantum, see comm. ad X.27.16.

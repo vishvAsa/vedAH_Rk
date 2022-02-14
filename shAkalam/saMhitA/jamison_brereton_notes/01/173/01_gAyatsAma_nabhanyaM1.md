@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-IH suggests tr. gā́yat and árcāma as Engl. progressives: “he is singing .. we are chanting.” He points out that the (implied) presential nature of the nominal cl. of c and the future-referring final clause that depends on it in d support this interpr.
+Ian Hollenbaugh suggests tr. gā́yat and árcāma as Engl. progressives: “he is singing .. we are chanting.” He points out that the (implied) presential nature of the nominal cl. of c and the future-referring final clause that depends on it in d support this interpr.
 
 The standard tr. take véḥ as a nom. sg. In Geldner’s tr., however, the bird seems to be compared to the sāman, not the singer: “Er stimme den Gesang an, der hervorschiesst wie ein Vogel.” So also Renou, it seems. Hoffmann (/Witzel Gotō) make the more natural (and grammatically correct) comparison with the singer. Although it requires some extra machinery, I prefer to take véḥ as gen. sg. I think Geldner is on the right track, that the comparison is not the rather banal one between singer and bird, but the quality of “bursting forth” (nabhanyàm) characteristic of bird song, a natural effusion.
 

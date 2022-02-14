@@ -2,9 +2,9 @@
 title = "05"
 
 +++
-svávṛṣṭi- is found only here (and 14c below, in the same phrase), and the etymological identity of vṛṣṭi- is not clear. Easiest (with Gr) would be to take the second member as vṛṣṭí- ‘rain’, but ‘having his own rain’ doesn’t make much sense.
+svávṛṣṭi- is found only here (and 14c below, in the same phrase), and the etymological identity of vṛṣṭi- is not clear. Easiest (with Grassmann) would be to take the second member as vṛṣṭí- ‘rain’, but ‘having his own rain’ doesn’t make much sense.
 
-Geldner (n. to 14bc) connects it with várṣman- ‘height’, várṣiṣṭha- ‘highest’, vṛ́ṣan- ‘bull’, tacitly positing a root √vṛṣ ‘be high/great’ and tr. ‘Eigengrösse’. One of the difficulties with this interpretation is that the word should be a bahuvrīhi (so Oldenberg) not a karmadhāraya, judging from parallel formations (cf. svá-yukti, svá-vṛkti [pace Gr, Oldenberg]). I prefer the interpretation that links the word to the IE root *uer̯ ǵ ‘work’, found in Aves. varəz (and of course Engl. work, Grk. ἔργον)(see EWA s.v. svávṛṣṭi-).
+Geldner (n. to 14bc) connects it with várṣman- ‘height’, várṣiṣṭha- ‘highest’, vṛ́ṣan- ‘bull’, tacitly positing a root √vṛṣ ‘be high/great’ and tr. ‘Eigengrösse’. One of the difficulties with this interpretation is that the word should be a bahuvrīhi (so Oldenberg) not a karmadhāraya, judging from parallel formations (cf. svá-yukti, svá-vṛkti [pace Grassmann, Oldenberg]). I prefer the interpretation that links the word to the IE root *uer̯ ǵ ‘work’, found in Aves. varəz (and of course Engl. work, Grk. ἔργον)(see EWA s.v. svávṛṣṭi-).
 
 So, evidently, Renou: “son action propre,” though Renou also takes it as a karmadhāraya.
 

@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-In pāda a the grammatical problem is svàr (to be read as a monosyllable, [almost] uniquely in the RV). Gr identifies it as an acc., Macdonell (followed implicitly by Doniger and Maurer) as an endingless loc., sim. Renou However, the phraseology, esp.
+In pāda a the grammatical problem is svàr (to be read as a monosyllable, [almost] uniquely in the RV). Grassmann identifies it as an acc., Macdonell (followed implicitly by Doniger and Maurer) as an endingless loc., sim. Renou However, the phraseology, esp.
 
 the accented asyá (which identifies asyá as an adjectival demon., not a pronoun) and the placement of ca (áśvasyā́tra jánimāsyá ca svàḥ, invite, indeed almost impose, a genitive interpr. Geldner achieves this by pronouncing svàr indeclinable (n. 6a). However, it is possible to see it as an archaic genitive with zero-grade ending *-s, as in Aves.
 

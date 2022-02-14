@@ -4,7 +4,7 @@ title = "04"
 +++
 Geldner (fld. by Klein, DGRV I: 250) takes váriṣṭhaḥ as an ex. of hypallage.
 
-standing for *váriṣṭhām and characterizing the dákṣiṇā. This must be because they take the adj. as meaning ‘broadest’, splv. to urú- (though I don’t quite see why the priestly gift could be broad if Indra cannot be). By contrast I follow Gr in consider some forms of the stem váriṣṭha- as ‘choicest, most excellent’, a splv. to vára- ‘choice’, though of course that adj. should not, originally, produce a primary splv.
+standing for *váriṣṭhām and characterizing the dákṣiṇā. This must be because they take the adj. as meaning ‘broadest’, splv. to urú- (though I don’t quite see why the priestly gift could be broad if Indra cannot be). By contrast I follow Grassmann in consider some forms of the stem váriṣṭha- as ‘choicest, most excellent’, a splv. to vára- ‘choice’, though of course that adj. should not, originally, produce a primary splv.
 
 (Note, however, that *váratama- would be metrically unfavorable.) AiG II.2.452-53 allows such a splv. in late Vedic, though not for our period, but I see no reason why it can’t be early, encouraged by semantically and phonologically parallel vásiṣṭḥa- ‘best’ (à Vasiṣṭha).
 

@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-The impv. mimikṣa probably belongs to √myakṣ ‘provide, etc’. See Kü (387-88).
+The impv. mimikṣa probably belongs to √myakṣ ‘provide, etc’. See Kümmel (387-88).
 
 
 

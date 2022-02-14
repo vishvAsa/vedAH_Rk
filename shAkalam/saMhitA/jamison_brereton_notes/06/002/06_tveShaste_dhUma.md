@@ -6,5 +6,5 @@ Just as in VI.1.2 there is a nom. sg. masc. pres. part. sán without any obvious
 
 I have no idea why √as should exhibit this behavior; it cannot be due to (lack of) accent, since several of the ruki-ed forms are accented (including the one here).
 
-MLW comments: “But maybe it was despite its accent somehow a clitic just as there are accented 2nd pos. clit. This reminds me of the loss of s in Oldenberg Latin comedy which is especially well attested before the verb ‘to be’.”
+Michael Weiss comments: “But maybe it was despite its accent somehow a clitic just as there are accented 2nd pos. clit. This reminds me of the loss of s in Oldenberg Latin comedy which is especially well attested before the verb ‘to be’.”
 

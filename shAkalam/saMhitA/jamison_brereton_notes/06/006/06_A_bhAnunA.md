@@ -4,7 +4,7 @@ title = "06"
 +++
 This vs. has a number of connections with phraseology elsewhere in this Agni cycle: ā́… bhānumádbhiḥ … tatántha (VI.4.6): ā́bhānúnā … tatantha (6a); dhṛṣatā́(3d, 6b); spṛ́dho bādhasva (VI.5.6): bādhasva … spṛ́dhaḥ (6cd, though with the two forms belonging to separate clauses, not a VP as in 5.6); vanuṣyā́t (VI.5.4): vanuṣyán vanúṣaḥ (6d).
 
-The referent of the gen. phrase mahás todásya ‘great goad’ is not entirely clear -- some take it as some feature of Agni (e.g., Geldner), others as the sun (e.g., Mau).
+The referent of the gen. phrase mahás todásya ‘great goad’ is not entirely clear -- some take it as some feature of Agni (e.g., Geldner), others as the sun (e.g., Maurer).
 
 Most construe it with bhānúnā (as I do), though Renou takes it with pā́rthivāni jráyāṃsi.
 

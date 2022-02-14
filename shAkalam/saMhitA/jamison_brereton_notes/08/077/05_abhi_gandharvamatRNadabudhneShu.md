@@ -11,7 +11,7 @@ Geldner takes bundám in c as the object of nír āvidhyat ‘pierced’ that op
 
 I take the phrase giríbhya ā́as expressing the freeing of the odanám from the mountains (pāda b), but it could also be read with pāda a with the sense of ā́+ abl.
 
-“all the way to,” though in that sense the ablative usually follows (see Gr s.v. ā́), hence “He pierced the boar all the way to/through the mountains.” As noted ad vs. 5, bundá- is reminiscent of (a)budhná- in the immediately preceding mysterious Gandharva verse.
+“all the way to,” though in that sense the ablative usually follows (see Grassmann s.v. ā́), hence “He pierced the boar all the way to/through the mountains.” As noted ad vs. 5, bundá- is reminiscent of (a)budhná- in the immediately preceding mysterious Gandharva verse.
 
 
 

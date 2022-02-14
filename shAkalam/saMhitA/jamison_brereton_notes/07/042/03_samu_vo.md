@@ -8,7 +8,7 @@ mahayam. Noting that small differences between otherwise identical passages are 
 
 subjects of mahayan, this produces a clash. The emendation of -n to -ṃ is of course trivial.
 
-The prá of vs. 1 returns in d, though in the common idiom prá √ric ‘project, extend beyond, surpass’. The medial pf. of this root, acdg. to Kü (426-27), is always presential and has the stative sense ‘hervorhinausragen über Abl.” The ablative is of course missing here. In our passage I think the sense is primarily physical: the ritual fire is gaining strength and its flames project outward on the ritual ground (“in the nearness” upāké), though the fire’s surpassing superiority may also be referenced.
+The prá of vs. 1 returns in d, though in the common idiom prá √ric ‘project, extend beyond, surpass’. The medial pf. of this root, acdg. to Kümmel (426-27), is always presential and has the stative sense ‘hervorhinausragen über Abl.” The ablative is of course missing here. In our passage I think the sense is primarily physical: the ritual fire is gaining strength and its flames project outward on the ritual ground (“in the nearness” upāké), though the fire’s surpassing superiority may also be referenced.
 
 The physical image is found, differently expressed, in the companion hymn VII.42 in vs. 2d ūrdhvā́śocī́ṃṣi … asthuḥ “The flames have stood up erect.” Given the prá here, this might be taken as a reference to the movement of the ritual fire to the east, but the fire seems to me to be already established in its location.
 

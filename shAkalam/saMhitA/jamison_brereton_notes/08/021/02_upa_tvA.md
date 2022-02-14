@@ -6,7 +6,7 @@ dhṛṣát is ordinarily an adverb, originally probably the neut. of a VIth cla
 
 dhṛṣát has been misanalyzed and pressed into service as a finite form or that yáḥ is serving as a loose izafe connecting this adverbial qualifier with the subject.
 
-On metrically bad vavṛmahe, see comm. ad Kü (459) and comm. ad VI.4.7.
+On metrically bad vavṛmahe, see comm. ad Kümmel (459) and comm. ad VI.4.7.
 
 Oldenberg suggests that the “youth” is King Citra, whose dānastuti ends the hymn.
 

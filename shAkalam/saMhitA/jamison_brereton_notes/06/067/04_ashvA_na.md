@@ -14,6 +14,6 @@ The two yā́clauses are nominal. The first (a) presents no problems. In the 2nd
 
 However, I take jā́yamānā as a predicated pres. part. and máhi as an intensifier of mahā́ntā.
 
-In d the sense of the verb ní dīdhaḥ is unclear, and the lexeme ní √dhṛ is not common. Gr glosses this passage as ‘machen’ with double acc.; Geldner tr. ‘hatte … getragen’, Renou ‘avait placé en secret’. In the three other passages containing ní (ā́) √dhṛ that I know of (IV.2.12, VI.17.6, ní-ā́VIII.17.13), the idiom means something like ‘fix’ or ‘secure’, but here I think it applies to the process of birth: ‘bear down’.
+In d the sense of the verb ní dīdhaḥ is unclear, and the lexeme ní √dhṛ is not common. Grassmann glosses this passage as ‘machen’ with double acc.; Geldner tr. ‘hatte … getragen’, Renou ‘avait placé en secret’. In the three other passages containing ní (ā́) √dhṛ that I know of (IV.2.12, VI.17.6, ní-ā́VIII.17.13), the idiom means something like ‘fix’ or ‘secure’, but here I think it applies to the process of birth: ‘bear down’.
 
 Although I know of no other such exx., this kind of technical birth context doesn't come up very often in the RV. The birth process interpr. fits well with the predicated pres. part. of c: “who were being born” as well as with the indication in b that Aditi had reached her precise time for giving birth.

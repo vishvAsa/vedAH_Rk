@@ -4,7 +4,7 @@ title = "09"
 +++
 The vs. contains three phonologically similar splvs., stationed at pāda edge: \#váriṣṭhe ... #váhiṣṭhayoḥ ... / ... várṣiṣṭhām#. This is somewhat reminiscent of the phonological/morphological figure in 4ab varimā́ṇam … varṣmā́ṇam, esp. since váriṣṭhe and várṣiṣṭhām belong to the same roots as the two forms in 4.
 
-In b the Holland & van Nooten Rig Veda edition text should read śatāvann. This voc. is variously interpr. (see Oldenberg for some reff.), but I follow Geldner, and implicitly the Pp., in taking it as (metrically) lengthened *śata-van, to a -van-stem, contra Gr’s śata-ava(n)t-, with the pres. part.
+In b the Holland & van Nooten Rig Veda edition text should read śatāvann. This voc. is variously interpr. (see Oldenberg for some reff.), but I follow Geldner, and implicitly the Pp., in taking it as (metrically) lengthened *śata-van, to a -van-stem, contra Grassmann’s śata-ava(n)t-, with the pres. part.
 
 of √av ‘help’. This śatā-van- would be a byform of better attested śatá-vant-. It needs to belong to a -van- rather than a -vant- stem because otherwise the expected voc. would be -vas. But we find -vant- and -van- stems side-by-side, notably in maghávan(t)-. Debrunner (AiG II.2, most clearly p. 904, citing this passage) argues that -vant-stems are “sachlich” while -van-stems are “persönlich,” which would work for śatávant- versus our śatāvan-, but not, obviously, for maghávan(t)-.
 

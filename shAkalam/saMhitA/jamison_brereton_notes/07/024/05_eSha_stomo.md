@@ -2,11 +2,11 @@
 title = "05"
 
 +++
-Uncompounded vṛddhied vā́h- to √vah ‘convey’ is attested only here, but it is common in compounds, e.g., indra-vā́h- (4x). See Scar (473-80; for the grade of the root, esp. 479).
+Uncompounded vṛddhied vā́h- to √vah ‘convey’ is attested only here, but it is common in compounds, e.g., indra-vā́h- (4x). See Scarlatta (473-80; for the grade of the root, esp. 479).
 
 The two different simile markers in b (iva … ná) may be highlighting two different aspects of the complex simile.
 
-The genitive of goods with √īḍ ‘invoke’ is somewhat aberrant. Although for this root Gr allows acc., dat., or gen. of the material desired, the only other genitive passage he cites is VIII.31.14, where the genitive is otherwise to be construed.
+The genitive of goods with √īḍ ‘invoke’ is somewhat aberrant. Although for this root Grassmann allows acc., dat., or gen. of the material desired, the only other genitive passage he cites is VIII.31.14, where the genitive is otherwise to be construed.
 
 However, there seems nothing else to do with vásūnām, and the construction is reminiscent of nearby VII.32.5 ... śrútkarṇa īyate vásūnām “he of listening ears is implored for goods.” Moreover, in X.20.2 agním īḷe bhujā́m, the gen. pl. bhujā́m is best interpr. this way (“I invoke Agni for delights”), contra the standard interpr.
 

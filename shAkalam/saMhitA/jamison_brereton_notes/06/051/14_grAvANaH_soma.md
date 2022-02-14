@@ -4,7 +4,7 @@ title = "14"
 +++
 The unusual position of hí, normally a 2nd position element, is due to immediately following kam. For whatever reason (and I don’t know it), hí kam is a phrasal unit, whether it occurs in expected 2nd position (I.98.1, II.28.8, VIII.11.10) or not (VIII.44.24, IX.49.4, X.100.5). II.37.5 may provide a transition between the two, since the hí kam sequence is not pāda-initial there, but it is in 2nd position in its clause.
 
-The standard treatments (Gr, Geldner, Renou) take vāvaśúḥ to √vaś ‘wish for’, but Kü (477-80) has argued persuasively that morphological factors favor instead a connection with √vāś ‘bellow’ -- though he allows for a secondary contamination from the former root for a sense “sehnsüchtig brüllen.” I am in complete agreement.
+The standard treatments (Grassmann, Geldner, Renou) take vāvaśúḥ to √vaś ‘wish for’, but Kümmel (477-80) has argued persuasively that morphological factors favor instead a connection with √vāś ‘bellow’ -- though he allows for a secondary contamination from the former root for a sense “sehnsüchtig brüllen.” I am in complete agreement.
 
 The most salient feature of the pressing stones is their noise, and so bellowing for Soma’s companionship like the bovines that are the usual subjects of √vāś makes perfect sense.
 

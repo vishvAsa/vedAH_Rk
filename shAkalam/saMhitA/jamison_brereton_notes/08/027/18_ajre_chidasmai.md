@@ -4,7 +4,7 @@ title = "18"
 +++
 The 2nd hemistich presents some niggling syntactic and lexical problems.
 
-To start with the latter, by most interpr. ásredhantī is transitive (Geldner “ohne Schaden anzurichten,” Renou “sans causer de nuisance”). But the verb to which this negated participle belongs is consistently intransitive, meaning ‘fail’, not ‘cause to fail’, and though Gr glosses ásredhant- (and related stems) as transitive ‘nicht schädigend’, hence ‘heilsam’, all passages are compatible with intransitive ‘unfailing, unfaltering’.
+To start with the latter, by most interpr. ásredhantī is transitive (Geldner “ohne Schaden anzurichten,” Renou “sans causer de nuisance”). But the verb to which this negated participle belongs is consistently intransitive, meaning ‘fail’, not ‘cause to fail’, and though Grassmann glosses ásredhant- (and related stems) as transitive ‘nicht schädigend’, hence ‘heilsam’, all passages are compatible with intransitive ‘unfailing, unfaltering’.
 
 Although in this particular case ‘not harming’ might be tempting, the point here must be that the missile should go to destruction without pause or deviation in its trajectory.
 

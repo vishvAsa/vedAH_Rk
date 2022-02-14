@@ -6,5 +6,5 @@ The repetitions and lexical and phonological echoes that have served Nodhas well
 
 All other tr. take this verse as a single sentence with 2nd ps. subj. However, as I have shown (1992: “sa figé”), sá with 2nd ps. reference is limited to imperatives and should not appear with an injunctive like darayaḥ. I therefore consider the first hemistich to continue the 3rd ps. reference of vs. 3, with a switch to 2nd ps. in the second half. This type of switch is quite common in the RV.
 
-In c I do not take saraṇyú- and phaligá- as personal names, pace Geldner et al. The tr. ‘bolt’ for the latter follows Hiersche (Asp., ‘Riegel, Vershluss’), based on a possible connection with parigha- (Up+) ‘iron bar for shutting a door/gate’; see EWA s.v. However, as ET points out, a less specific sense such as ‘barrier’ would fit the contexts better and would also make fewer assumptions about early technology.
+In c I do not take saraṇyú- and phaligá- as personal names, pace Geldner et al. The tr. ‘bolt’ for the latter follows Hiersche (Asp., ‘Riegel, Vershluss’), based on a possible connection with parigha- (Up+) ‘iron bar for shutting a door/gate’; see EWA s.v. However, as Elizabeth Tucker points out, a less specific sense such as ‘barrier’ would fit the contexts better and would also make fewer assumptions about early technology.
 

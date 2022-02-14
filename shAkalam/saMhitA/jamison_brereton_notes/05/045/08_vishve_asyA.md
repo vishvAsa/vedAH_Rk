@@ -6,7 +6,7 @@ The subordinator yád comes quite late (2nd position pāda b) in the subordinate
 
 It is possible that b is a conversion into a subordinate clause of IV.3.11b sám áṅgiraso navanta góbhiḥ with pāda a acting as a preposed afterthought.
 
-The 2nd hemistich brings another syntactic problem: in c the Pp. interprets útsa (before a vowel) as nom. -aḥ, a grammatical ident. that in turn requires that c be an independent clause. The Pp. reading is defended by Oldenberg and fld. by many, incl. Geldner, Hoffmann (Injunk. 165), Witzel Gotō. With Lü (385 n. 2; fld. by Schmidt p. 177, Janert p.
+The 2nd hemistich brings another syntactic problem: in c the Pp. interprets útsa (before a vowel) as nom. -aḥ, a grammatical ident. that in turn requires that c be an independent clause. The Pp. reading is defended by Oldenberg and fld. by many, incl. Geldner, Hoffmann (Injunk. 165), Witzel Gotō. With Lüders (385 n. 2; fld. by Schmidt p. 177, Janert p.
 
 10) I prefer the loc. útse, parallel to paramé sadhásthe, and defining the place where Saramā found the cows in d.
 

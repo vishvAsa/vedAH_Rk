@@ -4,7 +4,7 @@ title = "01"
 +++
 The problem in this vs. is rathyèva in c. Contextually the most obvious interpr. is as a nom. sg. fem., subject of yāti, but assuming the correctness of the Pp.
 
-reading, rathyā̀iva (and there is no other viable alternative), it is difficult to find a way to get there morphologically. If it belongs to the vṛkī-inflected rathī́- ‘charioteer’, the nom. sg. should of course be rathī́s. Gr assigns it to this stem, but as an instr. sg., but who would this other charioteer in the instr. be? Geldner/Renou also interpr.
+reading, rathyā̀iva (and there is no other viable alternative), it is difficult to find a way to get there morphologically. If it belongs to the vṛkī-inflected rathī́- ‘charioteer’, the nom. sg. should of course be rathī́s. Grassmann assigns it to this stem, but as an instr. sg., but who would this other charioteer in the instr. be? Geldner/Renou also interpr.
 
 as an instr., but to a stem rathyā̀- ‘Fahrstrasse’ / ‘une route-carrosable’. See Geldner’s somewhat opaque comm. in the 4th vol. of his tr. (p. 252, col. 3, ad II.4.6b) and Oldenberg’s more illuminating one, interpreting a previous, but similar formulation of Geldner’s (ZDMG 61 [1907] 831-32 = Kl.Sch.262-63). Oldenberg himself prefers an interpr. as an acc. pl. rathyàḥ with double application of sandhi (to nom./acc. pl. *rathyàs iva).
 

@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-There is some lexical chaining here: in pāda a the standing epithet of Indra, maghavan, picks up the pl. maghávatsu in 2a (in the same metrical position), thus implicitly asserting an identification of the human patrons of 2 with Indra. The quasiinf. deṣṇám (trisyllabic, to be read dayiṣṇám), also in pāda a, echoes dayadhvam at the end of vs. 2. Although deṣṇá- is standardly taken as a deriv. of √dā ‘give’ (so already Gr., also AiG II.2.927-28, EWA s.v. DĀ, II.714), it is at least secondarily associated with √day ‘distribute’ here. A more distant, and less telling, lexical echo is pūrṇā́‘full’ with 1d pṛṇadhvam ‘fill!’.
+There is some lexical chaining here: in pāda a the standing epithet of Indra, maghavan, picks up the pl. maghávatsu in 2a (in the same metrical position), thus implicitly asserting an identification of the human patrons of 2 with Indra. The quasiinf. deṣṇám (trisyllabic, to be read dayiṣṇám), also in pāda a, echoes dayadhvam at the end of vs. 2. Although deṣṇá- is standardly taken as a deriv. of √dā ‘give’ (so already Grassmann, also AiG II.2.927-28, EWA s.v. DĀ, II.714), it is at least secondarily associated with √day ‘distribute’ here. A more distant, and less telling, lexical echo is pūrṇā́‘full’ with 1d pṛṇadhvam ‘fill!’.
 
 Note the abundance of vásu- forms (vásunaḥ b, vásunā c, vasavyā̀d).
 

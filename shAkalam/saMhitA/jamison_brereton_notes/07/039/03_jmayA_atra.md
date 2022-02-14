@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-There is almost universal agreement that jmayā́represents an adverbial instr. of exactly that shape, despite the hiatus, rather than Pp. jmayā́ḥ. See, e.g., Oldenberg, Renou, Scar 421, with lit.
+There is almost universal agreement that jmayā́represents an adverbial instr. of exactly that shape, despite the hiatus, rather than Pp. jmayā́ḥ. See, e.g., Oldenberg, Renou, Scarlatta 421, with lit.
 
 With Sāyaṇa., cited by Geldner, the Maruts must be the referents of śubhrā́ḥ in b: pl.
 

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The 1st sg. pf. dīdhayā is taken by all as a straight indicative; the Pp. reads dīdhaya with short final vowel. My tr. “I ponder” reflects this analysis (Kü [257-60] having demonstrated that the indic. pf. of this root is always presential). However, I now wonder if this form could be a subjunctive with the unextended 1st sg. subj.
+The 1st sg. pf. dīdhayā is taken by all as a straight indicative; the Pp. reads dīdhaya with short final vowel. My tr. “I ponder” reflects this analysis (Kümmel [257-60] having demonstrated that the indic. pf. of this root is always presential). However, I now wonder if this form could be a subjunctive with the unextended 1st sg. subj.
 
 ending -ā. Although lengthened forms of the indic. pf. ending -a do exist (e.g., védā 9x), they are relatively uncommon. And a subjunctive “I shall ponder …” would open this speculative hymn nicely.
 

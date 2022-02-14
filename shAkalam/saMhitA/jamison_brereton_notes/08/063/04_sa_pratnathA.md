@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-vakṣáṇi- is derivationally ambiguous: Gr takes it to √vakṣ ‘grow, increase’, Geldner to √vah ‘convey’, though not with entire confidence (“Wortführer (?)”), AiG II.2.207 allows both. Both are possible in the realm of RVic discourse. I opt for √vakṣ because the expression is parallel to kavivṛdháḥ ‘strengthener of poets’, but I certainly don’t rule out a derivation from √vah.
+vakṣáṇi- is derivationally ambiguous: Grassmann takes it to √vakṣ ‘grow, increase’, Geldner to √vah ‘convey’, though not with entire confidence (“Wortführer (?)”), AiG II.2.207 allows both. Both are possible in the realm of RVic discourse. I opt for √vakṣ because the expression is parallel to kavivṛdháḥ ‘strengthener of poets’, but I certainly don’t rule out a derivation from √vah.
 
-Another ambiguous word is hóman- in c; this stem can mean either ‘invocation’ (to √hū) or ‘pouring, oblation’ (to √hu). Gr takes it to the latter, Geldner, apparently (‘Darbringung’) to the former. I agree with Geldner: the trope of pouring out praise is common in the RV.
+Another ambiguous word is hóman- in c; this stem can mean either ‘invocation’ (to √hū) or ‘pouring, oblation’ (to √hu). Grassmann takes it to the latter, Geldner, apparently (‘Darbringung’) to the former. I agree with Geldner: the trope of pouring out praise is common in the RV.
 

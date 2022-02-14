@@ -8,7 +8,7 @@ The stem govindú- ‘cow-finding’ is found only here in the RV and nowhere el
 
 The weapons of 16a (and 12d) return here.
 
-I follow Lü (273) and Renou in taking samudrám in c as part of a double acc. phrase with vivakti in d: “declares the sea to be the fourth domain” - rather than as taking it as a 2nd obj. with sácamānaḥ as Geldner does (“… der Meerflut sich gesellend”).
+I follow Lüders (273) and Renou in taking samudrám in c as part of a double acc. phrase with vivakti in d: “declares the sea to be the fourth domain” - rather than as taking it as a 2nd obj. with sácamānaḥ as Geldner does (“… der Meerflut sich gesellend”).
 
-Accepting Lü’s interpr. of the syntax does not, however, require accepting his view that this is the heavenly ocean, higher than heaven. Again, I think it’s a ritual ref. - perhaps to the waters that accompany him in pāda c.
+Accepting Lüders’s interpr. of the syntax does not, however, require accepting his view that this is the heavenly ocean, higher than heaven. Again, I think it’s a ritual ref. - perhaps to the waters that accompany him in pāda c.
 

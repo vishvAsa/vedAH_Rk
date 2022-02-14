@@ -6,7 +6,7 @@ Each pāda in this vs. contains a simile marked by ná comparing the Maruts to d
 
 In b opinion is divided on the sense of yakṣa-dṛ́ś-. Geldner takes -dṛ́ś- as active, with the first member in an acc. relationship with it (“Geisterseher”), flg. Sāyaṇa. in his analysis of the syntax of the cmpd., though not of the meaning of the first member.
 
-So also Renou However, Geldner considers the possibility of a pass. sense in his n. (16b), and Oldenberg opts for the pass. interpr. For disc. of this cmpd. see Scar (232); of his choices I opt for the bahuvrīhi.
+So also Renou However, Geldner considers the possibility of a pass. sense in his n. (16b), and Oldenberg opts for the pass. interpr. For disc. of this cmpd. see Scarlatta (232); of his choices I opt for the bahuvrīhi.
 
 Another oblation to the Maruts at the Sākamedha, besides the Gṛhamedha mentioned above (vs. 14), is made to the krīḍin- (‘playful’) Maruts on the 2nd day of the sacrifice (see, e.g., ŚB II: 20 and Eggeling, SBE XII.408). The characterization of them in d as prakrīḷínaḥ obviously makes ref. to this oblation.
 

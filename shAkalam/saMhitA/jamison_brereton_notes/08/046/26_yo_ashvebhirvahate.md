@@ -8,5 +8,5 @@ Following Oldenberg I take b as further specifying the horses in a (áśvebhiḥ
 
 In c I supply a form of √mad/mand to be construed with the instr.; so also Geldner (ermuntert).
 
-In d I supply a form such as maṃhase ‘you are ready’, which is common with dānā́ya, although Geldner’s solution, to have the infinitive depend only on the “ermuntert” is certainly possible and probably neater. See also Scar 313.
+In d I supply a form such as maṃhase ‘you are ready’, which is common with dānā́ya, although Geldner’s solution, to have the infinitive depend only on the “ermuntert” is certainly possible and probably neater. See also Scarlatta 313.
 

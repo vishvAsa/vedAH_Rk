@@ -8,7 +8,7 @@ In ab note the return of several lexical items: vibhū́- (13b) and sadhryàñc-
 
 I do not understand why Indra is called dámūnāḥ ‘master of the house’. The word is generally an epithet of Agni (understandably), and there is nothing in this passage that seems to me to link Indra to the domestic sphere. In c mádhvaḥ is taken by most as fem. acc. pl. (by Schmidt as masc. nom. pl.).
 
-Several exx. of this form are analyzed by Gr as either masc. nom. pl. or fem.
+Several exx. of this form are analyzed by Grassmann as either masc. nom. pl. or fem.
 
 nom./acc. pl. However, none of these supposed examples is convincing, and it is best to take it here as the gen. sg. it usually is. It then needs a head noun. Oldenberg adduces nearby III.36.7 mádhvaḥ punanti dhā́rayā pavítraiḥ “they purify it in a stream of honey with purifying filters,” which is very similar to our pāda c. I therefore supply, with Oldenberg, a form of dhā́rā- ‘stream’ upon which gen. mádhvaḥ depends. The precise form I supply is acc. pl. dhā́rāḥ, modified by the (fem. acc.) part. punānā́ḥ and coreferential with dhánutrīḥ ‘runners’ at the end of the vs. The conceit in the phrase hinvanti … dhánutrīḥ is that the priests are spurring on the streams of soma (like) horses. As for the subj. of hinvanti, I take it as (the current) priests (as in the sim.
 

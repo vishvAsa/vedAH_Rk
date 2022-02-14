@@ -12,7 +12,7 @@ In the 2nd hemistich, Soma is not asked directly for benefits, but rather urged 
 
 There is further displacement here. The “sacred formulation bringing offspring” (bráhma prajā́vat) that we want Soma to get Indra to give us is not a direct request for Indra to bestow offspring on us, but rather for him to inspire in us a formulation that we can then offer to him, which will, only then, result in offspring.
 
-It’s a long and winding road to what we want! The interpr. of the hapax bahuvr. áśva-pastya- is disputed. My tr. “consisting of horses in the homestead” essentially follows Gr’s ‘Rosse im Stalle habend’, though it would be more lit. as ‘having a homestead that has horses in it’ - a vájrabāhu- type cmpd. Geldner’s tr. “an vielen Rossen” seems to evade the issue, but his statement in n. 41c “wie später -śālin-” is more forthcoming: -śālin- means lit.
+It’s a long and winding road to what we want! The interpr. of the hapax bahuvr. áśva-pastya- is disputed. My tr. “consisting of horses in the homestead” essentially follows Grassmann’s ‘Rosse im Stalle habend’, though it would be more lit. as ‘having a homestead that has horses in it’ - a vájrabāhu- type cmpd. Geldner’s tr. “an vielen Rossen” seems to evade the issue, but his statement in n. 41c “wie später -śālin-” is more forthcoming: -śālin- means lit.
 
 ‘having a house/room’, but develops to ‘abounding in’. Nonetheless, I find it hard to believe that a RVic poet would go to the trouble of using a fairly rare word as 2nd member, only in order to bleach it of its particular meaning. Renou’s “la richesse qui réside dans les chevaux” (and Ober’s “dessen fester Wohnsitz Pferde sind” [I.537 n.
 

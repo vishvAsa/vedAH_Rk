@@ -10,5 +10,5 @@ In b, with most, I take soma to be the referent of ṛtásya nā́bhiḥ. See co
 
 The subj. of cd are in the first instance the priests, but in d esp. there is a double reading, with the Maruts pissing rain, as the priests “piss” down streams of soma by their ritual activity.
 
-On péru- see EWA s.v.; ‘swelling’ is based on Lü -- see reff. in EWA.
+On péru- see EWA s.v.; ‘swelling’ is based on Lüders -- see reff. in EWA.
 

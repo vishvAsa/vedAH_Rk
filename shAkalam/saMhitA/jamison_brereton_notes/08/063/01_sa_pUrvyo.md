@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The two parallel perfects ānaje and ānajé, each final in its hemistich, require two different functional interpretations, the first passive, the second transitive, with a double accusative. Kü (95-96) recognizes more or less the same two functions (patientiv and agentiv-reflexiv) for this perfect stem, but curiously claims that the perfect to this root is found only in Maṇḍalas I and X, though offering no alternative interpretation of these forms here.
+The two parallel perfects ānaje and ānajé, each final in its hemistich, require two different functional interpretations, the first passive, the second transitive, with a double accusative. Kümmel (95-96) recognizes more or less the same two functions (patientiv and agentiv-reflexiv) for this perfect stem, but curiously claims that the perfect to this root is found only in Maṇḍalas I and X, though offering no alternative interpretation of these forms here.
 
 Various referents have been suggested for the vená-: Indra (Oldenberg), Soma (Geldner).
 

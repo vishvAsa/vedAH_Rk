@@ -10,7 +10,7 @@ The l’s of the names bhalānás- and álina- and the unmotivated retroflex -�
 
 If we accept the Schmidt/Witzel distribution of the allegiances of the various named forces, those named in ab are complaining about the defection of the sadhamā́d- who led them to the battle but has now gone over to the Tṛtsu (/Sudās) side and has turned to attack the nṝ̥́n (‘superior men’), by which they mean themselves. The sadhamā́d- is most likely Indra, and so losing him as an ally would be a serious blow.
 
-On the unexpected form sadhamā́s, if the nom. sg. to sadhamā́d-, see Scar (381) with lit. I think it unlikely that it’s an acc. pl., a possibility Oldenberg considers by assigning it to a diff. root. As noted above (vs. 6) with regard to puroḷā́s, the rhyme with king Sudās may have played a part.
+On the unexpected form sadhamā́s, if the nom. sg. to sadhamā́d-, see Scarlatta (381) with lit. I think it unlikely that it’s an acc. pl., a possibility Oldenberg considers by assigning it to a diff. root. As noted above (vs. 6) with regard to puroḷā́s, the rhyme with king Sudās may have played a part.
 
 Geldner’s interpr. of the syntax of cd is impossible: it contains an embedded main clause! His rel. cl. consists of ā́yó ‘nayat … yudhā́nṛ́̄n “… der seine Mannen unter Kampf heranführte” -- the beginning of c and the end of d. While his main clause is the end of c and the beginning of d, … sadhamā́ā́ryasya, gavyā́tṛ́tsubhyo ajagan … “Der Mahlgenossen des Ariers … ist aus Verlangen nach Kühen den Tr̥tsu's (zu Hilfe) gekommen.” My tr. follows Oldenberg’s, which is slightly adjusted by Schmidt.
 

@@ -10,7 +10,7 @@ The syntax is somewhat clotted in the 2nd hemistich. With Geldner I take yébhi�
 
 The siñcán of d causes some conceptual problems. Active forms of this very common stem are transitive (‘pour x’), but if the subject remains the drop (índuḥ), a passive ‘being poured’ would seem to make more sense. However, this attribution of agency to the drop -- to pour himself, as it were -- fits with the general tendency to animatize soma and attribute exceptional powers to him.
 
-Witzel Gotō take jaráṇā as a nom. sg. fem., an abstract “Langlebigkeit,” conceived of as a goddess, as opposed to its standard interpr. as a neut. pl. adj. modifying dhā́ma and essentially identical to differently accented jaraṇá- ‘old’ (Geldner, Renou, though not Gr).
+Witzel Gotō take jaráṇā as a nom. sg. fem., an abstract “Langlebigkeit,” conceived of as a goddess, as opposed to its standard interpr. as a neut. pl. adj. modifying dhā́ma and essentially identical to differently accented jaraṇá- ‘old’ (Geldner, Renou, though not Grassmann).
 
 For Witzel Gotō this goddess is the one who pours with the spoon and reaches the seat. This is clever but runs into difficulties. First, forms to √jṛ generally convey a negative sense of ‘age’ -- not ‘long life’. And it interferes with a standard soma trope, of the pressed soma going to / reaching his “domains,” which is straightforwardly present here as long as índuḥ remains the subject. And as far as I know, there is no other evidence for this goddess.
 

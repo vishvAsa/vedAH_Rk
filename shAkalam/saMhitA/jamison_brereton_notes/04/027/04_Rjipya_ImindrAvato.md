@@ -4,7 +4,7 @@ title = "04"
 +++
 The adj. ṛjipyá- = Aves. ərəzifiia- (and other Iranian forms). I favor the old notion that it contains a Caland form of ‘straight’ (ṛjú-, etc.) + *pt-ya-, with a zero-gr.
 
-of √pat ‘fly’. See EWA s.v., though Mayrhofer considers the etym. “unsicher.” (The lack of -iya- readings, indicating that the root-final laryngeal was lost without leaving a trace, might be problematic, but -iya- and -ya- adjectives tend to become confused.) Scar. (318) suggests rather a derivation from √pā3 ‘go’, but the existence of such a root is in question.
+of √pat ‘fly’. See EWA s.v., though Mayrhofer considers the etym. “unsicher.” (The lack of -iya- readings, indicating that the root-final laryngeal was lost without leaving a trace, might be problematic, but -iya- and -ya- adjectives tend to become confused.) Scarlatta. (318) suggests rather a derivation from √pā3 ‘go’, but the existence of such a root is in question.
 
 If we accept the transmitted índrāvataḥ, it would most likely be an acc. pl. and refers to the companions of Indra who will ritually prepare the soma for him to drink.
 

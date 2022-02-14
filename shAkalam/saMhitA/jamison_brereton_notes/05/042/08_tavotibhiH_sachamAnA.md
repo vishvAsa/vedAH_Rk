@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The standard tr. (incl. also Schmidt, B+I 84 and Scar 202) take ab as a separate nominal cl. The difference is trivial.
+The standard tr. (incl. also Schmidt, Bṛhaspati und Indra 84 and Scarlatta 202) take ab as a separate nominal cl. The difference is trivial.
 
 Less trivial is the difference between my rendering of the last part of d and that of all the others. They take subhágās téṣu rā́yaḥ as the nominal main clause to the rel. cl. (yé aśvadā́ḥ …) that occupies the rest of the hemistich. Cf., e.g., Geldner “denen gehören die beglückenden Reichtümer.” In contrast I take subhágāḥ with the rel. cl., qualifying the givers, and rā́yaḥ as acc. pl. in the main cl., and in the main cl.
 

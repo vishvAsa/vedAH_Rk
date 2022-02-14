@@ -8,5 +8,5 @@ I do not know what “enveloped within the limitless” (ananté antáḥ páriv
 
 In d the standard tr. take ari yáḥ as nom. sg. to the thematic stem aryá- (e.g., Geldner ‘Herr’). I follow Thieme (Fremdling, 77-78) in interpr. it as gen. sg. to arí-.
 
-Among other things, as Gr points out, this would be the only ex. of aryá- with distraction, while arí- does have a few other distracted forms. There is no compelling formulaic evidence either way, but V.34.9 ketúm aryáḥ “the beacon for the stranger,” adduced by Thieme, resembles our passage thematically.
+Among other things, as Grassmann points out, this would be the only ex. of aryá- with distraction, while arí- does have a few other distracted forms. There is no compelling formulaic evidence either way, but V.34.9 ketúm aryáḥ “the beacon for the stranger,” adduced by Thieme, resembles our passage thematically.
 

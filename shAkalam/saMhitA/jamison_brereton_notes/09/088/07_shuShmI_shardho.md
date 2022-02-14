@@ -10,5 +10,5 @@ The final simile of the vs., “like a sacrifice that conquers in battle” (p�
 
 Note that pṛtanāṣā́ṭ forms a ring with bhuriṣā́ṭ in 2a.
 
-The retroflex initial of -ṣā́h- in this cmpd is the result of the assimilation of -sto the retroflex final in the nom. sg. -ṣā́ṭ; see Schindler (Rt. Nouns p. 48): 5 of the 9 forms of this cmpd are nom. sg. The retroflex is then spread throughout the paradigm (acc. sg. 3x, gen. sg. 1x) and also into the deriv. pṛtanāṣā́ya- (III.37.1). On the variable length of the root syllable in the oblique (-ṣā́ham 1x, -ṣáham, -as 3x), see Scar (612-13).
+The retroflex initial of -ṣā́h- in this cmpd is the result of the assimilation of -sto the retroflex final in the nom. sg. -ṣā́ṭ; see Schindler (Rt. Nouns p. 48): 5 of the 9 forms of this cmpd are nom. sg. The retroflex is then spread throughout the paradigm (acc. sg. 3x, gen. sg. 1x) and also into the deriv. pṛtanāṣā́ya- (III.37.1). On the variable length of the root syllable in the oblique (-ṣā́ham 1x, -ṣáham, -as 3x), see Scarlatta (612-13).
 

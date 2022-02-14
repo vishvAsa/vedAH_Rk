@@ -8,7 +8,7 @@ Agni’s eagerness for the sacrifice is expressed by pāda b, where he pursues (
 
 In b Geldner (/Witzel Gotō) supply ‘nourishment’ (die Nahrung) as object of véṣi with mánuṣaḥ as gen. sg., but this seems unnecessary.
 
-There is no consensus about the meaning or etymology of the word akrá- (5x), generally a descriptor of Agni; see EWA s.v. Gr glosses ‘Herrzeichen, Banner’, but since it is once called navajā́- ‘new-born’ (IV.6.3), an animal (or at least a living thing) is more likely. Since several of the contexts refer to the kindling of the fire, it seems likely to be a young animal, an identification that navajā́- of course favors.
+There is no consensus about the meaning or etymology of the word akrá- (5x), generally a descriptor of Agni; see EWA s.v. Grassmann glosses ‘Herrzeichen, Banner’, but since it is once called navajā́- ‘new-born’ (IV.6.3), an animal (or at least a living thing) is more likely. Since several of the contexts refer to the kindling of the fire, it seems likely to be a young animal, an identification that navajā́- of course favors.
 
 And marmṛjénya- ‘to be groomed’ in our passage suggests a horse, since the root √mṛj generally takes a horse or something so conceived as its object. Hence the tr.
 

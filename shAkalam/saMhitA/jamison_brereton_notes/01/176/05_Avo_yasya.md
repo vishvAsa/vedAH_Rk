@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-This vs. has elicited an extraordinary amount of discussion and disagreement, which cannot be fully rehearsed here. I will only sketch my own interpr., which is closest to Oldenberg’s. I take the ā́vaḥ that opens the verse as the verb of the main clause and the only surface word of that clause. The obj. ‘him’ (*tám), referent of the following rel. prn., has been gapped, exactly as in 3c. The cmpd. sānuṣák in b I analyze as sā́nu-ṣác- (rather than sa-ānuṣák- with Gr and others); it is a reference to soma, which famously grows in the mountains. For detailed disc. of the cmpd and the passage see Scar (594), though I cannot follow his suggestion that the 2nd member belongs to √sañj ‘hang’ and refers to a quiver ‘hanging on the back’.
+This vs. has elicited an extraordinary amount of discussion and disagreement, which cannot be fully rehearsed here. I will only sketch my own interpr., which is closest to Oldenberg’s. I take the ā́vaḥ that opens the verse as the verb of the main clause and the only surface word of that clause. The obj. ‘him’ (*tám), referent of the following rel. prn., has been gapped, exactly as in 3c. The cmpd. sānuṣák in b I analyze as sā́nu-ṣác- (rather than sa-ānuṣák- with Grassmann and others); it is a reference to soma, which famously grows in the mountains. For detailed disc. of the cmpd and the passage see Scarlatta (594), though I cannot follow his suggestion that the 2nd member belongs to √sañj ‘hang’ and refers to a quiver ‘hanging on the back’.
 
 In d the publ. tr. “helped him to prizes” goes a little too fluently into English.
 

@@ -8,5 +8,5 @@ As for the tā́m … rītím paraśór iva, most comm. appositely compare V.7.8
 
 But the arc of sparks that sprinkle the mace in 3b (by my interpr.) would look like a stream, and anyone who has ever watched a person swing an ax (properly) would recognize the image: the fluent movement in a stream-like curve. (There are numerous You-tube videos.) For bhárahūti- see comm. ad I.129.2, V.29.8.
 
-Geldner, flg. Gr., reverses 4cd and 5ab. I do not see the necessity for this. It puts the two forms of (-)ánīka- in the same vs. and continues the description of Agni begun in 4ab, but leaving the hemistichs in their transmitted order certainly causes less thematic disruption than most changes of topic in the RV.
+Geldner, flg. Grassmann, reverses 4cd and 5ab. I do not see the necessity for this. It puts the two forms of (-)ánīka- in the same vs. and continues the description of Agni begun in 4ab, but leaving the hemistichs in their transmitted order certainly causes less thematic disruption than most changes of topic in the RV.
 

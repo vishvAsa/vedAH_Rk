@@ -2,7 +2,7 @@
 title = "12"
 
 +++
-I am in agreement with most of the standard interpr. that the referent of the subj. of ab is the troop of Aṅgirases, expressed by the neut. s-stem śárdhaḥ (pace Gr, who takes it as a thematic masc. nom. sg., referring to Agni, sim. Schmidt [B+I, 43 n.
+I am in agreement with most of the standard interpr. that the referent of the subj. of ab is the troop of Aṅgirases, expressed by the neut. s-stem śárdhaḥ (pace Grassmann, who takes it as a thematic masc. nom. sg., referring to Agni, sim. Schmidt [Bṛhaspati und Indra, 43 n.
 
 21]), though this word generally refers to the Marut troop.
 
@@ -14,7 +14,7 @@ The recycling of this characterizing vocabulary seems to me a clue that the subj
 
 I take this nominal clause (/subclause) as annunciatory of the gapped object of d.
 
-Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Geldner “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and Witzel Gotō. The form is an injunctive, contra the Pp.; so already Gr; see Oldenberg (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
+Geldner, Renou, and Oldenberg (SBE) take janayanta in d as intrans. ‘be born’ (e.g., Geldner “Dem Bullen wurden die sieben Freunde geboren”), but this medial form is a standard ex. of -anta replacement of the undercharacterized act. -an and is therefore transitive. See my “Voice fluctuation in the Rig Veda: Medial 3rd plural -anta in active paradigms,” IIJ 21 (1979) 146-69. It is correctly interpr. by Hoffmann (Injunk., 176) and Witzel Gotō. The form is an injunctive, contra the Pp.; so already Grassmann; see Oldenberg (Noten), Hoffmann. The “seven dear ones” (saptá priyā́saḥ) are most likely the Aṅgirases, here referred to in the plural rather than the collective neut. sg. in pāda a. III.31.5 contains “seven inspired poets” (saptá víprāḥ) in a clear Aṅgiras/Vala context. It is also possible that the phrase refers to the Aṅgirases’ music, since saptá vā́ṇīḥ ‘seven voices’ is a common phrase. The adj. priyā́saḥ could be either masc. or fem.
 
 
 

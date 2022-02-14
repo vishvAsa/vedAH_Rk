@@ -8,5 +8,5 @@ Pāda b is repeated verbatim from 3d, but because it has an object (the flood) i
 
 The reason for the doubled ā́in c is not clear to me.
 
-cākantu is taken, plausibly, as haplologized from *cākanantu. See, most recently, Kü (131).
+cākantu is taken, plausibly, as haplologized from *cākanantu. See, most recently, Kümmel (131).
 

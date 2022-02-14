@@ -2,7 +2,7 @@
 title = "15"
 
 +++
-girā́jātáḥ “born on a mountain” is in the first instance a phrasal variant of giriṣṭhā́ḥ ‘mountain-abiding’ in 4b, with girā́showing the i-stem loc. in -ā regular before consonants (see, e.g., Lanman, Noun Inflect, 385). This interpr. is followed by Geldner and Renou in their tr. (see also Ober II.13). However, girā́can also be, as Oldenberg and Geldner (n. 15a) point out, the instr. sg. of gír- ‘hymn’; in fact Gr puts it there. The alt. given in the publ. tr. “[/begotten by a hymn]” reflects this other possible analysis; that soma is produced to the accompaniment of hymns would make this statement true in ritual logic. It is also possible that girā́‘by a hymn’ could be construed with stutáḥ ‘praised’ later in the pāda. And to make things even more complex, stutáḥ might also evoke sutáḥ ‘pressed’.
+girā́jātáḥ “born on a mountain” is in the first instance a phrasal variant of giriṣṭhā́ḥ ‘mountain-abiding’ in 4b, with girā́showing the i-stem loc. in -ā regular before consonants (see, e.g., Lanman, Noun Inflect, 385). This interpr. is followed by Geldner and Renou in their tr. (see also Ober II.13). However, girā́can also be, as Oldenberg and Geldner (n. 15a) point out, the instr. sg. of gír- ‘hymn’; in fact Grassmann puts it there. The alt. given in the publ. tr. “[/begotten by a hymn]” reflects this other possible analysis; that soma is produced to the accompaniment of hymns would make this statement true in ritual logic. It is also possible that girā́‘by a hymn’ could be construed with stutáḥ ‘praised’ later in the pāda. And to make things even more complex, stutáḥ might also evoke sutáḥ ‘pressed’.
 
 The pass. dhīyate in b might weakly support taking hitáḥ in 10a to √dhā as well.
 

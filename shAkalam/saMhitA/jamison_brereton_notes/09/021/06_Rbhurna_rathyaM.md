@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-The adj. ráthya- generally modifies either chariot horses or chariot wheels; here, with the presence of a craftsman, the latter is most likely. So also Gr, Geldner, and Renou
+The adj. ráthya- generally modifies either chariot horses or chariot wheels; here, with the presence of a craftsman, the latter is most likely. So also Grassmann, Geldner, and Renou
 
 As was just noted, pāda b dádhātā kétam ādíśe is almost identical to 5b dádhātā venám ādíśe. Nonetheless, Geldner and Renou unaccountably (at least to me) take the VP entirely differently here from 5b: they take návaṃ, dádhātā as a phrasal verb “renew, make new,” with ādíśe filling a different syntactic role. E.g., “Erneuet, um (ihn) zu mahnen, seinen Vorsatz …” (Sim. Keydana, Inf., 318, who shows no awareness of the parallel in the immed.
 

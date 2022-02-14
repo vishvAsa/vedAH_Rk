@@ -4,7 +4,7 @@ title = "05"
 +++
 The disjunction between pf. dadharṣa in the main clause of b and impf.
 
-ávindaḥ in the subord. cl. of d is likewise a bit disturbing. Flg. Kü (266), the publ. tr.
+ávindaḥ in the subord. cl. of d is likewise a bit disturbing. Flg. Kümmel (266), the publ. tr.
 
 renders the perfect presentially as “ventures against,” but I might be tempted to change that now to “has ventured against” (cf. Geldner’s “… hat noch keiner angetastet”).
 

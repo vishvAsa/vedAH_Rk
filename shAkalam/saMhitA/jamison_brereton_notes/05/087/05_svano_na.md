@@ -8,7 +8,7 @@ The caus. injunc. rejayat needs an obj. I supply ‘earth’ on the basis of int
 
 rejate passages with bhū́mi-, pṛthivī́, et sim. as subj., but any standard cosmic feature will do (Renou ‘l’univers’, Witzel Gotō ‘alles’).
 
-Pace Gr, ṛñjáta is better analyzed as a 3rd pl. mid. athem. form than a 2nd pl.
+Pace Grassmann, ṛñjáta is better analyzed as a 3rd pl. mid. athem. form than a 2nd pl.
 
 act. them. All the standard tr. follow the 3rd pl. mid. interpr.
 

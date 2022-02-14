@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-Though Gr refuses to tr., katpayám seems to contain the pejorative kaprefix; see EWA s.v. ká1 , p. 285.
+Though Grassmann refuses to tr., katpayám seems to contain the pejorative kaprefix; see EWA s.v. ká1 , p. 285.
 
 For ápa √gṝ ‘taunt’ see comm. ad V.29.4. As Oberlies (Relig. I.401) points out, this gerund depicts a pre-battle boasting/insulting match -- trash talk (needless to say, this last is not Oberlies’s formulation).
 

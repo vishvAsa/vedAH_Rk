@@ -10,5 +10,5 @@ The syntax of c is slightly unusual, in that the obj. of nudásva is a nominal r
 
 yā́ḥ parispṛ́dhaḥ “(those) who are the challengers all around,” with the main cl. referent (*tā́ḥ ‘those’) gapped. (See also 3c below.) Generally the gapping of the antecedent to nominal relative clauses is found in “X and which Y” constructions, not when the rel. cl. is not conjoined. It’s worth noting that this pāda is very close semantically to IX.52.3a in the immediately preceding hymn: carúr ná yás tám īṅkhaya “Who is like a pot, give him a shove,” but there the nom. rel. clause carúr ná yáḥ that defines the obj. of the main verb does have an expressed antecedent tám in the main cl. Note that, IX.52 is also attributed to Ucathya, like IX.50, and both hymns contain expressions on which Avatsāra seems to be ringing changes.
 
-On parispṛ́dh- see Scar 666.
+On parispṛ́dh- see Scarlatta 666.
 

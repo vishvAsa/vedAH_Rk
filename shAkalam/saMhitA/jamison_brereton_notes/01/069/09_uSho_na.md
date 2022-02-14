@@ -4,7 +4,7 @@ title = "09"
 +++
 The first pāda is identical to 1b and thus forms a ring.
 
-Gr, Geldner, Renou (apparently), and Lub take usráḥ as gen. to uṣár-, but since there exists a robust stem usrá- ‘ruddy’, I see no reason not to take it as nom. sg. to that stem, esp. since vibhā́van- doesn’t otherwise take a gen.: the three passages Geldner adduces are not compelling.
+Grassmann, Geldner, Renou (apparently), and Lubotsky take usráḥ as gen. to uṣár-, but since there exists a robust stem usrá- ‘ruddy’, I see no reason not to take it as nom. sg. to that stem, esp. since vibhā́van- doesn’t otherwise take a gen.: the three passages Geldner adduces are not compelling.
 
 As discussed in the publ. intro., I do not follow the standard interpr. of sáṃjñāta-rūpa-, i.e., “having (his) well-known form,” since the idiom sám √jñā has a quite specific meaning ‘come to agreement’. The idiom is distinctive enough, and the compound is heavy enough, that that idiom is surely meant, esp. because it appears in finite form in I.68.8. Instead of being an anodyne description of the fire, this is a meaningful characterization of the shared clan-fire as the symbol of, and the product of, the mutual and unified ritual activity of the clans. Unfortunately, to render this comprehensibly in English requires a heavy and awkward locution.
 

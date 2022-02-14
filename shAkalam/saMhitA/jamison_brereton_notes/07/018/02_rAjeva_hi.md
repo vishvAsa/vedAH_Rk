@@ -4,9 +4,9 @@ title = "02"
 +++
 As I interpr. it, the first hemistich presents us with a causal hí clause followed by an imperatival non-sequitur. What is immediately striking is that it is emphasized that Indra is dwelling in peace and domestic harmony -- not always the first picture of Indra we conjure up -- in a hymn that is about to become very very martial. In the imperatival clause of b, he is also identified as a wise kaví, again not a militant role for Indra. Perhaps the connection between the causal hí clause and the imperatival ones that follow is that Indra has the leisure to pay due attention to our hymns and reward our poetic offerings (which, as a kaví, he has the connoisseurship to appreciate) with aid and material goods.
 
-The interpr. just given assumes that áva opening b and piśā́opening c are both imperatives. Both of these identifications have been questioned. Some (e.g., Lub) take áva as the preverb (Gr by implication, since he does not list it under √av), but both Geldner and Oldenberg (the latter after some hesitation) interpr. it as an impv. to √av ‘help’.
+The interpr. just given assumes that áva opening b and piśā́opening c are both imperatives. Both of these identifications have been questioned. Some (e.g., Lubotsky) take áva as the preverb (Grassmann by implication, since he does not list it under √av), but both Geldner and Oldenberg (the latter after some hesitation) interpr. it as an impv. to √av ‘help’.
 
-As for piśā́, Gr takes it as the instr. of a root noun, but most subsequent interpr. as the impv. to an otherwise unattested them. aor. to √piś ‘adorn, ornament’ (see, e.g., Oldenberg, Geldner, Schindler [Rt. Noun], Lub). Our form could well be a thematic substitute for a form of the root aor., found once in the part. piśāná-, since the expected root aor.
+As for piśā́, Grassmann takes it as the instr. of a root noun, but most subsequent interpr. as the impv. to an otherwise unattested them. aor. to √piś ‘adorn, ornament’ (see, e.g., Oldenberg, Geldner, Schindler [Rt. Noun], Lubotsky). Our form could well be a thematic substitute for a form of the root aor., found once in the part. piśāná-, since the expected root aor.
 
 impv. should be the quite opaque *pīḍhí.
 

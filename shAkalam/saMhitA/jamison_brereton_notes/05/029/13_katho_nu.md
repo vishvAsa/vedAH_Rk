@@ -2,7 +2,7 @@
 title = "13"
 
 +++
-Gr, Geldner (/Witzel Gotō), and Klein (DGRV I.219) interp. pári √car as ‘serve’.
+Grassmann, Geldner (/Witzel Gotō), and Klein (DGRV I.219) interp. pári √car as ‘serve’.
 
 Although this sense is found in later Vedic, the RVic instances of this lexeme only have the literal meaning ‘go around’ (e.g., III.7.2) with the developed sense ‘encompass’. (I.127.9 comes closest to ‘serve’, but the ‘surround’ sense is dominant.) Interpreting pári carāṇi here as ‘serve’ requires the part. vidvā́n to take an obj.
 

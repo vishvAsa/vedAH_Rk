@@ -4,7 +4,7 @@ title = "03"
 +++
 This vs. does not contain a main cl., simply a subord. yád cl. in ab, extended by a participial expression in cd. The vs. can depend either on the previous vs. or the following one - or (though in my view less likely) the part. bhū́ṣan in c can be the predicate of the main cl.
 
-The cadence of pāda a is bad; Gr suggests reading subj. *bharāte, which would fix the problem, but as Oldenberg comments, this is “natürlich ganz unsicher” - esp.
+The cadence of pāda a is bad; Grassmann suggests reading subj. *bharāte, which would fix the problem, but as Oldenberg comments, this is “natürlich ganz unsicher” - esp.
 
 since both the opening and the break are likewise irregular (see Holland & van Nooten Rig Veda edition metrical comm. ad loc.).
 
@@ -18,5 +18,5 @@ Soma’s journey across the ritual ground gives him the same kind of control ove
 
 As pointed out by Oldenberg inter alia, in c the transmitted mártāya is best emended to *márti yāya, since a four-syllable reading is called for.
 
-The dual focus on the cosmic and the ritual continues in c, where Soma exerts himself “among the gods” (that is, in his cosmic dimension) on behalf of glory for the mortal, presumably the priest or poet. The expression (yáśo) *mártyāya bhū́ṣan# may play off amṛ́tāya bhū́ṣan# (III.25.2, 34.2) “exerting oneself for the immortal (one).” The rt. noun cmpd puru-bhū́(-tama)- is otherwise used of the Aśvins (4x); I interpr. it to mean ‘appearing in many places’ (see comm. ad IV.44.4). The apparent loc. pl. occurrence here has been variously and only tentatively interpr.; see Geldner, Renou, Ober (II.229), Scar (362). Given the context, in a participial clause headed by bhū́ṣan, I suggest that our purubhū́ṣu does not in fact belong to puru-bhū́- but rather to an otherwise unattested puru-*bhū́ṣ- -- hence *puru-bhū́ṣ-ṣu, with the geminate sibilant simplified to -ṣ-. Although a root noun to the secondary root √bhūṣ is not found elsewhere, it would not be difficult to generate in this context.
+The dual focus on the cosmic and the ritual continues in c, where Soma exerts himself “among the gods” (that is, in his cosmic dimension) on behalf of glory for the mortal, presumably the priest or poet. The expression (yáśo) *mártyāya bhū́ṣan# may play off amṛ́tāya bhū́ṣan# (III.25.2, 34.2) “exerting oneself for the immortal (one).” The rt. noun cmpd puru-bhū́(-tama)- is otherwise used of the Aśvins (4x); I interpr. it to mean ‘appearing in many places’ (see comm. ad IV.44.4). The apparent loc. pl. occurrence here has been variously and only tentatively interpr.; see Geldner, Renou, Ober (II.229), Scarlatta (362). Given the context, in a participial clause headed by bhū́ṣan, I suggest that our purubhū́ṣu does not in fact belong to puru-bhū́- but rather to an otherwise unattested puru-*bhū́ṣ- -- hence *puru-bhū́ṣ-ṣu, with the geminate sibilant simplified to -ṣ-. Although a root noun to the secondary root √bhūṣ is not found elsewhere, it would not be difficult to generate in this context.
 

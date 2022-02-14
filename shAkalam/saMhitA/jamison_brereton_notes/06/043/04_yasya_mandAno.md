@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scar (689). Scar construes vaḥ with this form (“der nicht auf euch einschlägt”) as well as with gṛṇīṣé (“… will ich für euch preisen”). I take vaḥ only with gṛṇīṣé and supply ‘us’ with the root noun cmpd.; Geldner likewise takes vaḥ with the verb and supplies “keiner” as obj. of the cmpd. There is no way to choose and no reason to do so, since all three are more or less equivalent: Indra is all powerful but does not threaten the community to which the poet belongs.
+On áprahan- (or, less likely, áprahaṇa-), see Oldenberg, Scarlatta (689). Scarlatta construes vaḥ with this form (“der nicht auf euch einschlägt”) as well as with gṛṇīṣé (“… will ich für euch preisen”). I take vaḥ only with gṛṇīṣé and supply ‘us’ with the root noun cmpd.; Geldner likewise takes vaḥ with the verb and supplies “keiner” as obj. of the cmpd. There is no way to choose and no reason to do so, since all three are more or less equivalent: Indra is all powerful but does not threaten the community to which the poet belongs.
 
 
 

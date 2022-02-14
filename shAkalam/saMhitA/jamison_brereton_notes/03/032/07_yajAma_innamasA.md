@@ -8,5 +8,5 @@ The two forms of the perfect to √mā ‘measure’ in the 2nd hemistich, act.
 
 mamátuḥ and med. mamā́te, share the same subj. and obj., with the 1st clause positive and the second negated. Clearly the poet is playing with two different senses of √mā.
 
-Gr, Geldner, and Oldenberg neatly convert the word play to “messen” (‘measure’) versus “ermessen” (‘gauge, grasp, realize’)(or so I understand them). My “measure” / “measure up to” is a similar attempt whose purport is close to Kü (378) and Witzel Gotō: “sich messen.”
+Grassmann, Geldner, and Oldenberg neatly convert the word play to “messen” (‘measure’) versus “ermessen” (‘gauge, grasp, realize’)(or so I understand them). My “measure” / “measure up to” is a similar attempt whose purport is close to Kümmel (378) and Witzel Gotō: “sich messen.”
 

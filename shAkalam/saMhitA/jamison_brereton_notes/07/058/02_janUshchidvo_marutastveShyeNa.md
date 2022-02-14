@@ -4,7 +4,7 @@ title = "02"
 +++
 Like the gen. phrase in 1b, the instr. tveṣyèṇa has insufficient syntactic grounding in its clause. Like Geldner “(geschieht)” and Renou “(s’est produite),” I see no choice but to supply a verb to link the subject janū́ḥ and the instr.
 
-I have no opinion on the morphology of janū́ḥ. Gr calls it a masculine nom. sg.
+I have no opinion on the morphology of janū́ḥ. Grassmann calls it a masculine nom. sg.
 
 to the -us-stem janús-, an interpr. bolstered by the acc. form janúṣam (3x). AiG II.2.490 posits a paradigm of alternating gender, with m. or f. in the (nom./acc.) singular, but neuter in the dual and plural, which accords with the distribution of forms in the RV (du. janúṣī, pl. janū́ṃṣi) but fails to account for the gender switch. In the same vol. (II.2.496-97) Debrunner suggests that our janū́ḥ belongs to a -ū-stem (though acc. janúṣam would still need to be a masc. [or fem.] form to an -us-stem).
 

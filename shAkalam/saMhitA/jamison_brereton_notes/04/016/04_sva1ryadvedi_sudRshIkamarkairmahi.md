@@ -4,7 +4,7 @@ title = "04"
 +++
 The Vala myth takes full hold in this vs. Instr. arkaíḥ is a pun, referring not only to the chants of the singers but also to the rays of the sun itself.
 
-The 3rd pl. rurucur has trans./caus. sense here and generally in its other occurrences (see Kü 431), though not VIII.3.20. In several of those passages it’s in the cadence and would be better read *rūrucur (IV.7.1, X.122.5), and here and in the other case (VI.62.2, but not the trans./caus. opt. rurucyā́ḥ VI.35.4) a heavy initial syl.
+The 3rd pl. rurucur has trans./caus. sense here and generally in its other occurrences (see Kümmel 431), though not VIII.3.20. In several of those passages it’s in the cadence and would be better read *rūrucur (IV.7.1, X.122.5), and here and in the other case (VI.62.2, but not the trans./caus. opt. rurucyā́ḥ VI.35.4) a heavy initial syl.
 
 is possible (though not metrically good in VI.62.2). The 3rd sg. act. pf. ruroca (1x: IV.5.15) and act. pf. part. (1x: I.149.3) are intransitive by contrast, as are the medial forms. The anomalous trans. rurucuḥ forms also have the ending characteristic of the perfect 3rd pl. act., not the -an expected for a redupl. aor. (e.g., (á)jījanan).
 

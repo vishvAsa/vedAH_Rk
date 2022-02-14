@@ -4,7 +4,7 @@ title = "32"
 +++
 The “domain for the cows” is echoed here by the “domain of the immortal one” (amṛ́tasya dhā́ma). As with the same phrase in IX.94.2 (q.v.), I suggest that the immortal one is the sun, and perhaps specifically milk as representative of the sun.
 
-The role of the sun in the surrounding vss. (31d, 33d) supports this interpr. For alternative interpr. of the phrase, see comm. ad IX.94.2. In our passage Renou (sim. Lü 467) suggests that it is actually nom. and refers to Soma, but in IX.94.2 it must be an acc. obj. (also acdg. to Renou).
+The role of the sun in the surrounding vss. (31d, 33d) supports this interpr. For alternative interpr. of the phrase, see comm. ad IX.94.2. In our passage Renou (sim. Lüders 467) suggests that it is actually nom. and refers to Soma, but in IX.94.2 it must be an acc. obj. (also acdg. to Renou).
 
 The cadence of c is bad as transmitted, but can be easily fixed by reading
 

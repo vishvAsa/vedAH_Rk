@@ -2,9 +2,9 @@
 title = "10"
 
 +++
-The imagery is somewhat mixed here: it is hard to see how either a missile (nom. aśániḥ) or a lance (instr. hetī́[contra Pp. hetíḥ, as seen already by Gr etc.]) can burn down anything. I assume it’s a transferred visual image from the fire simile, since flames can have a lance-like shape and shoot out dramatically.
+The imagery is somewhat mixed here: it is hard to see how either a missile (nom. aśániḥ) or a lance (instr. hetī́[contra Pp. hetíḥ, as seen already by Grassmann etc.]) can burn down anything. I assume it’s a transferred visual image from the fire simile, since flames can have a lance-like shape and shoot out dramatically.
 
-The fem. instr. adj. phrase gambhīráya ṛṣváyā lacks an overt referent. Geldner supplies Stimme without disc. In the absence of any obvious choices, I follow Gr in assuming hetī́from pāda b. Neither ṛṣvá- nor gambhīrá- has a standard fem. referent.
+The fem. instr. adj. phrase gambhīráya ṛṣváyā lacks an overt referent. Geldner supplies Stimme without disc. In the absence of any obvious choices, I follow Grassmann in assuming hetī́from pāda b. Neither ṛṣvá- nor gambhīrá- has a standard fem. referent.
 
 The obj. of rurója is likewise unexpressed. Geldner supplies Burgen (púraḥ, a common obj. of this verb), but (n. 10cd) suggests that rákṣaḥ from b is also possible.
 

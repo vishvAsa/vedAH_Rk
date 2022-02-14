@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The identity of the verb ávet in b is disputed. Gr takes it as an opt. to √av ‘help’; Oldenberg rejects that analysis but suggests that either √vid ‘know’ or √vī ‘pursue’ is possible. Geldner and Witzel Gotō (see also Oberlies RdV I.535) opt for √vid and take the rest of the ab as indirect discourse controlled by this verb (“when he found out that …”).
+The identity of the verb ávet in b is disputed. Grassmann takes it as an opt. to √av ‘help’; Oldenberg rejects that analysis but suggests that either √vid ‘know’ or √vī ‘pursue’ is possible. Geldner and Witzel Gotō (see also Oberlies RdV I.535) opt for √vid and take the rest of the ab as indirect discourse controlled by this verb (“when he found out that …”).
 
 This is possible, but I find it hard to integrate subordinate yád clause in ab (with plupf.) with the hí cl. of c (with root aor.) and the main cl. of d (with pres. indic.). I find that the sequence of tense works better if ab is a separate unit, with subord. yád cl. in a and main clause in b (ávet accented because pāda-initial). Then c is the causal grounds for the main cl. in d and expresses immed. past.
 

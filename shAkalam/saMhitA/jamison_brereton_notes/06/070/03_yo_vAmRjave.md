@@ -10,7 +10,7 @@ The abundant references to real liquids in vss. 1-2 find their metaphorical expr
 
 picks up the imperative rétaḥ siñcatam “pour the semen” addressed to H+E in 2d.
 
-However, I take the implicit subj. of siktā́to be bhúvanā ‘creatures’ vel sim. (see 1a), not, with Gr, rétāṃsi ‘semens’. prajā́ḥ ‘progeny, offspring’ from the previous pāda would also be possible; it would only require altering the Pp reading siktā́to fem. pl.
+However, I take the implicit subj. of siktā́to be bhúvanā ‘creatures’ vel sim. (see 1a), not, with Grassmann, rétāṃsi ‘semens’. prajā́ḥ ‘progeny, offspring’ from the previous pāda would also be possible; it would only require altering the Pp reading siktā́to fem. pl.
 
 siktā́ḥ, but no alteration to the Saṃhitā text.
 

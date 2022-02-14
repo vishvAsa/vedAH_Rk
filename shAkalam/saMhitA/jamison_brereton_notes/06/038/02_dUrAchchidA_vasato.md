@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-In b ghóṣāt is morphologically ambiguous: it can be a subjunctive to the them. pres. ghóṣa- (accented because first in its pāda) or the abl. to the them. noun ghóṣa- (so Gr). For possible interpr. involving this abl., see Oldenberg By contrast I follow Geldner (and Lub) in taking it as a verb form, parallel to tanyati later in the pāda. The major problem this interpr. poses is how to construe gen. índrasya. Under the abl.
+In b ghóṣāt is morphologically ambiguous: it can be a subjunctive to the them. pres. ghóṣa- (accented because first in its pāda) or the abl. to the them. noun ghóṣa- (so Grassmann). For possible interpr. involving this abl., see Oldenberg By contrast I follow Geldner (and Lubotsky) in taking it as a verb form, parallel to tanyati later in the pāda. The major problem this interpr. poses is how to construe gen. índrasya. Under the abl.
 
 interpr. of ghóṣāt, the gen. is dependent on that noun, but without that support it must find another role in the following clause (to which it must belong, because tanyati is unaccented and cannot start a new clause). With Geldner (n. 2b) I take it as loosely construed with bruvāṇáḥ, though in a different sense from Geldner’s “der sich zu Indra Bekennende” -- rather as the topic of the speech.
 

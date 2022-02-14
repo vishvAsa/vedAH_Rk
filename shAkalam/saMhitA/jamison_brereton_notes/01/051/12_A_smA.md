@@ -2,7 +2,7 @@
 title = "12"
 
 +++
-Another verse with tricky constructions. In the first pāda the loc. vṛṣapā́ṇesu goes misleadingly easily into English (“you mount the chariot to…” like “the bus to town”). Despite my tr. I think it more likely that vṛṣapā́ṇesu is functionally a loc. absolute of the type “when bullish drinks (are available)” à “on the occasion of bullish drinks / when there are bullish drinks.” In pāda b most tr. (Gr, Geldner, Renou, Witzel Gotō) take prábhṛtā as representing -āḥ out of sandhi - following the Pp., hence a nom. pl. m. past participle - but as Oldenberg points out, this is very disruptive to the syntax. Better, with Oldenberg, to interpret it as a loc. sg. to the
+Another verse with tricky constructions. In the first pāda the loc. vṛṣapā́ṇesu goes misleadingly easily into English (“you mount the chariot to…” like “the bus to town”). Despite my tr. I think it more likely that vṛṣapā́ṇesu is functionally a loc. absolute of the type “when bullish drinks (are available)” à “on the occasion of bullish drinks / when there are bullish drinks.” In pāda b most tr. (Grassmann, Geldner, Renou, Witzel Gotō) take prábhṛtā as representing -āḥ out of sandhi - following the Pp., hence a nom. pl. m. past participle - but as Oldenberg points out, this is very disruptive to the syntax. Better, with Oldenberg, to interpret it as a loc. sg. to the
 
 -i-stem prábhṛti- ‘presentation’, a possibility suggested by Pischel (see Oldenberg) and
 mentioned by Geldner in his n.

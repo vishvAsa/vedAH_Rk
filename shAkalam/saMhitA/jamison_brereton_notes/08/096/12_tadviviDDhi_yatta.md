@@ -6,5 +6,5 @@ I use two different English tr. for namanti, ‘bend’ and ‘bow’, depending
 
 In cd I supply ‘cry out’ (√svar) on the basis of 11a sám … asvaran (note the sám in 12d) and 12b (abhi)svárā.
 
-Geldner takes tarasvínaḥ as nom. pl., which is grammatically possible, but I prefer Oldenberg’s gen. sg. (an alternative also for Gr), since the same adj. modifies Indra in 10d.
+Geldner takes tarasvínaḥ as nom. pl., which is grammatically possible, but I prefer Oldenberg’s gen. sg. (an alternative also for Grassmann), since the same adj. modifies Indra in 10d.
 

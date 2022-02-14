@@ -4,7 +4,7 @@ title = "01"
 +++
 jyók cid atti gárbho yád ácyutam “For a long time the embryo eats just what is immovable.” Renou supplies a different verb in a from the one he supplies in b: “(tu ébranles) … comme le bétail (dévore) …” But this violates the structure of the RVic simile.
 
-The problem in the 2nd hemistich is the form dhā́mā. Gr, fld. by Lub, interprets it as a 1st pl. root aor. injunctive, but though a 1st person would work in some hymns, there seems to be no personal intrusion in this one -- nor can I figure out how a 1st pl. “we establish(ed)” would fit here. Both Geldner and Renou take it as a neut.
+The problem in the 2nd hemistich is the form dhā́mā. Grassmann, fld. by Lubotsky, interprets it as a 1st pl. root aor. injunctive, but though a 1st person would work in some hymns, there seems to be no personal intrusion in this one -- nor can I figure out how a 1st pl. “we establish(ed)” would fit here. Both Geldner and Renou take it as a neut.
 
 pl. to dhā́man- and therefore the subject of vṛścánti. However, this requires an interpr.
 

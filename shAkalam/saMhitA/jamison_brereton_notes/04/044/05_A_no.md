@@ -6,4 +6,4 @@ By my rule (see “Vedic anyá- 'another, the other': syntactic disambiguation,�
 
 On sám … dadé and the idiom it expresses see comm. ad I.139.1. Although dadé here is usually ascribed to √dā ‘give’, the idiom sam √dā belong to √dā ‘cut’.
 
-See Kü 242 for the three forms dadé / dade that belong to ‘cut’.
+See Kümmel 242 for the three forms dadé / dade that belong to ‘cut’.

@@ -6,7 +6,7 @@ Geldner takes b as parenthetical. Although I agree that the 1st sg. subject of c
 
 tuturváṇi- is a hapax, but it can hardly be anything but a pleonastically+++(=redundant)+++ redupl.
 
-form of turváṇi- (8x)(though it should be admitted that this latter stem is used only of gods). The redupl. form is sometimes credited with a desiderative sense (‘zu erlangen strebend’ versus turváṇi- ‘siegreich’, etc.: Gr; ‘zu gewinnen strebend’ versus turváṇi- ‘überwältigend’: AiG II.2.906, reproduced in EWA s.v. TŪRV; ‘cherche à l’emporter’: Renou), but I see no contextual or morphological justification for this.
+form of turváṇi- (8x)(though it should be admitted that this latter stem is used only of gods). The redupl. form is sometimes credited with a desiderative sense (‘zu erlangen strebend’ versus turváṇi- ‘siegreich’, etc.: Grassmann; ‘zu gewinnen strebend’ versus turváṇi- ‘überwältigend’: AiG II.2.906, reproduced in EWA s.v. TŪRV; ‘cherche à l’emporter’: Renou), but I see no contextual or morphological justification for this.
 
 Witzel Gotō’s iterative/repetitive “immer wieder überwältigend” is probably closer to the mark, and it would fit with the repetitive ritual actions indicated by the āmreḍitas yajñā́-yajñā and dhíyam-dhiyam. I would be inclined to emend the publ. tr. to “(am I) ever victorious” or “continually victorious.” I do not understand Geldner’s ‘zuvorkommend’.
 

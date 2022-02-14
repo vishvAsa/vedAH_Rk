@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-Both Oldenberg (ZDMG 55.320 and Noten) and Geldner (fld. by Klein DGRV II.92- 93) strongly argue that paprā́tha belongs to √prath ‘spread’, not √prā ‘fill’, to which Gr assigns it. I find their insistence puzzling. On their side, ví √prath is a fairly common lexeme, used often of the earth, whereas ví is rare to non-existent with √prā.
+Both Oldenberg (ZDMG 55.320 and Noten) and Geldner (fld. by Klein DGRV II.92- 93) strongly argue that paprā́tha belongs to √prath ‘spread’, not √prā ‘fill’, to which Grassmann assigns it. I find their insistence puzzling. On their side, ví √prath is a fairly common lexeme, used often of the earth, whereas ví is rare to non-existent with √prā.
 
 But the actual verb form is wrong for all sorts of reasons. First, the indic. pf. of √prath is otherwise only middle, but this would be act. Second, the root √prath  never otherwise has vṛddhi forms, but the root syllable here is prāth. Then, if it is a 3rd sg. (so Geldner “Er breitete …”), it opens a cosmogonic sequence of 2nd sg. expressions, and such formulaic cosmogonies tend to be consistent in ps. and no. (though see 9cd below). Recognizing this last problem, Oldenberg suggests it’s a 2nd sg., standing for
 

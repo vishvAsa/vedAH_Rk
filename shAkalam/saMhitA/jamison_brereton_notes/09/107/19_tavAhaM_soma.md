@@ -2,13 +2,13 @@
 title = "19"
 
 +++
-The indic. pf. of √ran is presential in value; see Kü (413). The form here echoes raṇyati in 18b.
+The indic. pf. of √ran is presential in value; see Kümmel (413). The form here echoes raṇyati in 18b.
 
 The lexeme ní √car (or ní áva √car) is found nowhere else in the RV or later.
 
 The context clearly requires a negative sense; I’ve used the colloquial English idiom “get (s.o.) down,” meaning ‘discourage, demoralize’. There are two ways to interpr.
 
-áva at the end of the pāda. With Gr (and implicitly Geldner and Renou), I take it as a 2nd preverb with caranti. Since ní and áva both mean ‘down’, it reinforces by variation, hence my “—way down.” As Geldner reports (n. 19c), Ludwig takes áva rather as the impv. to √av ‘help’, accented because it starts a new clause. This is perfectly possible and would fit the context, but I prefer the more unusual semantic doubling of the preverbs in this emotional context.
+áva at the end of the pāda. With Grassmann (and implicitly Geldner and Renou), I take it as a 2nd preverb with caranti. Since ní and áva both mean ‘down’, it reinforces by variation, hence my “—way down.” As Geldner reports (n. 19c), Ludwig takes áva rather as the impv. to √av ‘help’, accented because it starts a new clause. This is perfectly possible and would fit the context, but I prefer the more unusual semantic doubling of the preverbs in this emotional context.
 
 There are various suggestions about what to supply with purū́ṇi: Sāyaṇa. rákṣāṃsi, fld. tentatively by Geldner (“böse Geister?”), Renou “choses (dangereuses).” Leaving it open seems to me the better solution: the poet is besieged by multiple things he cannot even name.
 

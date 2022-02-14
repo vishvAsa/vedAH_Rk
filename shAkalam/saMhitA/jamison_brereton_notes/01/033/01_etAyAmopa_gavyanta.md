@@ -4,7 +4,7 @@ title = "01"
 +++
 There is no overt interrogative marker in b, but the kuvíd of c may suggest a similar question in b.
 
-The transitive thematic subjunctive vāvṛdhāti is assigned to the “Aorist des Caus.” by Gr, but the properly formed redupl. caus. aorist ávīvṛdha- occupies that slot. Other than our form, all forms belonging to the vāvṛdha- stem are medial, and it seems best to follow Kü (471) in seeing this thematic stem as built to the perfect in order to allow the root-final consonant to be maintained in forms like 2nd sg. impv.
+The transitive thematic subjunctive vāvṛdhāti is assigned to the “Aorist des Caus.” by Grassmann, but the properly formed redupl. caus. aorist ávīvṛdha- occupies that slot. Other than our form, all forms belonging to the vāvṛdha- stem are medial, and it seems best to follow Kümmel (471) in seeing this thematic stem as built to the perfect in order to allow the root-final consonant to be maintained in forms like 2nd sg. impv.
 
 vāvṛdhásva (since athem. *vāvṛtsvá could be taken to the root √vṛt ‘turn’); see now further my 2017 art. on perf. impv (García Ramón Fs.). These medial intrans./reflex.
 

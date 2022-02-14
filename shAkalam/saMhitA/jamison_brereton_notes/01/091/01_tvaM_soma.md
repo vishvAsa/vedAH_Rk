@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The multiple possible meanings of the root(s) √cit and the unclear morphological identity of (prá) cikitaḥ make the interpretation of the first pāda somewhat difficult. I follow Thieme’s solution (Plusq.), adopted also by Kü (176-77), that it is underlyingly a medial injunctive to the perfect stem (that is, an unaugmented pluperfect), patterning with pf. cikité, etc. But the underspecification of this posited
+The multiple possible meanings of the root(s) √cit and the unclear morphological identity of (prá) cikitaḥ make the interpretation of the first pāda somewhat difficult. I follow Thieme’s solution (Plusq.), adopted also by Kümmel (176-77), that it is underlyingly a medial injunctive to the perfect stem (that is, an unaugmented pluperfect), patterning with pf. cikité, etc. But the underspecification of this posited
 
 *cikita caused it to be re-marked with an active ending (like root presents of the type
 aduha-t). It should not be a subjunctive, despite its thematic appearance, because of the zero-grade root syllable, and, pace Witzel Gotō, it should not be a trans./caus.

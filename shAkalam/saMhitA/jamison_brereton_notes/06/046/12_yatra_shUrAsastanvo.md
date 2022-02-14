@@ -6,7 +6,7 @@ The publ. tr. contains a grammatical error. It takes priyā́as modifying fem.
 
 pl. tanvàḥ, but the sandhi context of priyā́makes this impossible: it would have to be
 
-*priyā́ḥ. It must modify śárma (as Geldner takes it, also Gr), which must then be a neut.
+*priyā́ḥ. It must modify śárma (as Geldner takes it, also Grassmann), which must then be a neut.
 
 plural to the -an-stem. This tr. should be corrected to “… stretch wide their own bodies as dear shelters …” Geldner takes tanvàḥ and śárma as implicitly conjoined (“Wo die Tapferen ihre Leiber breit machen (and) die lieben Schilde des Vaters”), but I think it more likely that the champions are stretching their bodes to serve as shelters/shields. Under this interpr. the plural of śárma makes sense: multiple bodies multiple shields.
 

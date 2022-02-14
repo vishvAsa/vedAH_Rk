@@ -4,7 +4,7 @@ title = "12"
 +++
 This vs. contains two exx. of case disharmony between simile and frame, one each in ab and cd.
 
-Though Gr takes ájā as a 2nd sg. impv., both Geldner and Renou interpr. it as a 1st sg.
+Though Grassmann takes ájā as a 2nd sg. impv., both Geldner and Renou interpr. it as a 1st sg.
 
 subjunctive, as do I. This would bring the count to three in this hymn, by my interpr.
 

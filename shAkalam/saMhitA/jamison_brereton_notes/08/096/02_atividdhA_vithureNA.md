@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Geldner tr. ávyayam as ‘ohne Einbusse’ (loss), rather than ‘ovine, belonging to sheep’ (contra Gr, etc.), presumably because of its initial accent (against the normal accent in avyáya- ‘ovine’). This seems unnecessary. The other occurrence of ávyaya- (IX.86.34) modifies the soma filter and Geldner renders it “aus Schafwolle” without comment. In our passage he is following Sāyaṇa’s vyayarahitam, but vyaya- ‘disappearance, loss, outlay’ is not attested until the epic/Classical language, as far as I know. Furthermore, sheep fit nicely into this equine and bovine context, with the three terms áśvaṃ gā́m bhāgáṃ ávyayam displaying a classic Behagel’s Law configuration. As for the aberrant accent, Debrunner (AiG II.2.213) attributes it to the influence of semantically identical ávya-.
+Geldner tr. ávyayam as ‘ohne Einbusse’ (loss), rather than ‘ovine, belonging to sheep’ (contra Grassmann, etc.), presumably because of its initial accent (against the normal accent in avyáya- ‘ovine’). This seems unnecessary. The other occurrence of ávyaya- (IX.86.34) modifies the soma filter and Geldner renders it “aus Schafwolle” without comment. In our passage he is following Sāyaṇa’s vyayarahitam, but vyaya- ‘disappearance, loss, outlay’ is not attested until the epic/Classical language, as far as I know. Furthermore, sheep fit nicely into this equine and bovine context, with the three terms áśvaṃ gā́m bhāgáṃ ávyayam displaying a classic Behagel’s Law configuration. As for the aberrant accent, Debrunner (AiG II.2.213) attributes it to the influence of semantically identical ávya-.
 
 Geldner takes the locative phrase in c with ab, “Welches Ross und Rind du … als Anteil … bestimmt hat für den Opfernden …” Again this seems odd and unnecessary.
 

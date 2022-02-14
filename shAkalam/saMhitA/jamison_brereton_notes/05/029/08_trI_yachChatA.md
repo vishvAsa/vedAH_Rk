@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-Gr and Geldner [/Witzel Gotō] take both ághaḥ and ápāḥ as 3rd sg. Since ághas belongs to the root pres. to √ghas, either 2nd or 3rd sg. is grammatically possible. But for ápāḥ to be 3rd sg., an s-aor. stem ápās- has to be posited, for which there is no other support save for a med. pāsta in a mā́-prohibitive in the AV (XII.3.43). Nevertheless, Narten does set up such a stem (Sig.Aor. 168). I see no reason to do so; the presence of nom. sg. maghávā, adduced as evidence by Narten, is not sufficient, since nom. sg.
+Grassmann and Geldner [/Witzel Gotō] take both ághaḥ and ápāḥ as 3rd sg. Since ághas belongs to the root pres. to √ghas, either 2nd or 3rd sg. is grammatically possible. But for ápāḥ to be 3rd sg., an s-aor. stem ápās- has to be posited, for which there is no other support save for a med. pāsta in a mā́-prohibitive in the AV (XII.3.43). Nevertheless, Narten does set up such a stem (Sig.Aor. 168). I see no reason to do so; the presence of nom. sg. maghávā, adduced as evidence by Narten, is not sufficient, since nom. sg.
 
 appositives to 2nd sg. subjects are common. Also common is abrupt shifting between 2nd and 3rd ps., found already in this hymn between vss. 1 and 2, 4 and 5, 5 and 6. In our vs. we must assume that a shift happens between the hemistichs, given the 3rd sg.
 

@@ -11,7 +11,7 @@ refers to Indra.
 
 As noted just above, Earth herself serves as the foundation from which Indra can launch his attack. Our passage is very similar to I.102.7 ... tvā dhiṣáṇā titviṣe mahy, ádhā vrtr̥ ā́ṇi jighnase ... “The great (Earth), the Holy Place has sparked you ….
 
-So you keep smashing obstacles ...,” with the same mahī́… dhiṣáṇā as here and even a form of √tviṣ, like tvíṣīmat in 12b; cf. also VI.19.2 índram evá dhiṣáṇā sātáye dhāt “The Holy Place positioned just Indra for winning,” with √dhā + inf. as here. The same √dhā + inf. construction is found in 19d below: svàś ca naḥ … sātáye dhāḥ “and set us up to win the sun.” Although Gr assigns the hapax śíśnathe to a them. stem śiśnátha-, as Oldenberg clearly states we expect a datival infinitive here, and so it more likely belongs to an athem. stem śiśnáth-; cf. abhiśnáth-.
+So you keep smashing obstacles ...,” with the same mahī́… dhiṣáṇā as here and even a form of √tviṣ, like tvíṣīmat in 12b; cf. also VI.19.2 índram evá dhiṣáṇā sātáye dhāt “The Holy Place positioned just Indra for winning,” with √dhā + inf. as here. The same √dhā + inf. construction is found in 19d below: svàś ca naḥ … sātáye dhāḥ “and set us up to win the sun.” Although Grassmann assigns the hapax śíśnathe to a them. stem śiśnátha-, as Oldenberg clearly states we expect a datival infinitive here, and so it more likely belongs to an athem. stem śiśnáth-; cf. abhiśnáth-.
 
 Renou takes b as describing Vṛtra, Schmidt Indra; Geldner’s tr. is not clear, though Schmidt (169 n.) claims it’s to Vṛtra. I follow Schmidt in assigning the phrase to Indra, though the poet may have intended its referent to be ambiguous, indicating that the opponents are almost evenly balanced.
 

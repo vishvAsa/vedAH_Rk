@@ -2,7 +2,7 @@
 title = "13"
 
 +++
-Another opaque vs., whose difficulties begin with the first word vidā́. This is taken as the 2nd pl. pf. by Gr, Geldner, Witzel Gotō. (Renou unaccountably takes it as a 1st sg. ‘Je sais …’, without comment -- presumably a careless error for véda.) I follow Oldenberg in taking it as the instr. of the root noun to the same root.
+Another opaque vs., whose difficulties begin with the first word vidā́. This is taken as the 2nd pl. pf. by Grassmann, Geldner, Witzel Gotō. (Renou unaccountably takes it as a 1st sg. ‘Je sais …’, without comment -- presumably a careless error for véda.) I follow Oldenberg in taking it as the instr. of the root noun to the same root.
 
 The phrase yé va évā(ḥ) recurs from 5d though in a different metrical position.
 

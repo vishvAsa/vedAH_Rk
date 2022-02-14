@@ -8,7 +8,7 @@ to the root pres. of √vī ‘pursue’, a solution that does not require emend
 
 Although we ideally would expect a long root vowel (*vītā́), she adduces the 2nd sg.
 
-impv. vihí (3x), beside more common vīhí, as a model. This solution is accepted by Lub, though it is rejected by Baum (Impv. in RV 93, although he hesitates p. 167); Klein (DGRV I.166, 167; II.39) implicitly accepts the Pp. reading, but he does not cite the following pāda containing the infinitive phrase.
+impv. vihí (3x), beside more common vīhí, as a model. This solution is accepted by Lubotsky, though it is rejected by Baum (Impv. in RV 93, although he hesitates p. 167); Klein (DGRV I.166, 167; II.39) implicitly accepts the Pp. reading, but he does not cite the following pāda containing the infinitive phrase.
 
 The accent on the 2nd pl. impv. sádatā presumably results from its juxtaposition and contrast with adjacent vitā́.
 

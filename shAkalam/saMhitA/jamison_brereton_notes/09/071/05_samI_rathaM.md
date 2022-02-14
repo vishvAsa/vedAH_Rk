@@ -6,7 +6,7 @@ On bhuríj- see comm. ad IX.26.4.
 
 Though chariot-making is a common trope and regular comparandum in the RV, it is not usual (at least as far as I can recall) to compare the preparation of soma with the assembling of a chariot. It may appear here because the thus-prepared Soma is about to follow the track of the cow, at least in my interpr.
 
-The grammatical identity of jígāt in c is disputed. It appears to be, and is usually taken as, an injunc. to the redupl. pres. jígāti (Gr, Macdonell [VGr, p. 342], Lub, Hoffmann. [Inj. 271 n. 12, but hesitantly]; by implication Geldner and Renou), but Oldenberg (and by implication Lü 252) suggests that it’s a nom. sg. pres. part. and, on the grounds of pā́nt- and yā́nt-, sees no difficulty with this analysis. But, of course, for a redupl.
+The grammatical identity of jígāt in c is disputed. It appears to be, and is usually taken as, an injunc. to the redupl. pres. jígāti (Grassmann, Macdonell [VGr, p. 342], Lubotsky, Hoffmann. [Inj. 271 n. 12, but hesitantly]; by implication Geldner and Renou), but Oldenberg (and by implication Lüders 252) suggests that it’s a nom. sg. pres. part. and, on the grounds of pā́nt- and yā́nt-, sees no difficulty with this analysis. But, of course, for a redupl.
 
 pres. the weak form of the participial suffix is expected even in “strong” forms, and is in fact found in participles to other redupl. pres. to roots in -ā, √dā and √dhā, with well-attested nom. sg. m. dádat-, dádhat-. Though I accepted Oldenberg’s word (as I so often do) in the publ. tr., I now think jígāt is better taken as an injunc., though this need not change the actual tr.: “As he goes, he extends …,” with implicitly subordinated 1st verb in a two-verb sequence. “He goes, he extends …” is of course also possible.
 

@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-Though Gr and Lub take tiráḥ as the prepositional adverb, standard tr.
+Though Grassmann and Lubotsky take tiráḥ as the prepositional adverb, standard tr.
 
 interpret it as the 2nd sg. injunctive to tiráti, which is surely the correct analysis.
 

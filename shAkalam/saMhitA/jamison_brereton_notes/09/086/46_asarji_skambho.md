@@ -12,7 +12,7 @@ In d yádi would be best read yád *ī, both for sense and for meter, since an o
 
 Geldner tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based, he says (n.
 
-46d), on śúbhaṃ yā. I see no reason to attenuate the sense of nirṇíj-. As Scar (284- 85) argues, this stem can be both a concrete noun ‘garment’ and an infin. ‘to array’.
+46d), on śúbhaṃ yā. I see no reason to attenuate the sense of nirṇíj-. As Scarlatta (284- 85) argues, this stem can be both a concrete noun ‘garment’ and an infin. ‘to array’.
 
 The infinitival usages he cites are mostly the dat. nirṇíje (which, in all quoted cases, I take as a noun) and he is uncertain about the usage of this acc. ex. But since the analysis just proposed of yád *ī provides us with an acc. obj., infinitival usage seems best here.
 

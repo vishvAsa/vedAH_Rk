@@ -6,7 +6,7 @@ The rendering of vavṛtsva in the publ. tr. (“let yourself be turned hither�
 
 The rendering of the phrase apó árṇā as “the flooding waters” in the publ tr.
 
-assumes an emendation to fem. pl. árṇāḥ, with Gr and numerous others (see Oldenberg), contra the Pp and not reflecting the expected sandhi of such a form, which should be árṇāḥ. As Oldenberg points out, the emendation is not nec.: árṇā could easily be a neut. pl.
+assumes an emendation to fem. pl. árṇāḥ, with Grassmann and numerous others (see Oldenberg), contra the Pp and not reflecting the expected sandhi of such a form, which should be árṇāḥ. As Oldenberg points out, the emendation is not nec.: árṇā could easily be a neut. pl.
 
 to the thematic stem árṇa-. In this case the tr. would better read “the waters, the floods.”
 
