@@ -2,7 +2,7 @@
 title = "+061"
 
 +++
-Indra For general discussion of the intricate structure of this hymn, see the publ.
+Indra For general discussion of the intricate structure of this hymn, see the published
 
-intro. as well as Jamison 2007: 60-68.
+introduction. as well as Jamison 2007: 60-68.
 

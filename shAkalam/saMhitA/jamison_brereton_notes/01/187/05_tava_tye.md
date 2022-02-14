@@ -2,5 +2,5 @@
 title = "05"
 
 +++
-For the interpr. of this vs., see publ. intro.
+For the interpr. of this vs., see published introduction.
 

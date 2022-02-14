@@ -2,7 +2,7 @@
 title = "09"
 
 +++
-As indicated in the publ. intro., this verse, which treats Indra’s theft of the sun’s wheel and his visit to Uśanā Kāvya, is quite opaque. The first pāda straightforwardly announces the mythical deed at issue, but things disintegrate after that.
+As indicated in the published introduction, this verse, which treats Indra’s theft of the sun’s wheel and his visit to Uśanā Kāvya, is quite opaque. The first pāda straightforwardly announces the mythical deed at issue, but things disintegrate after that.
 
 The next two pādas (bc) introduce a theft of speech and a figure identified as aruṇá- (‘ruddy’) that are not elsewhere associated with the myth. However, since the verb muṣāyá- ‘steal’ and the temporal expression prapitvé are found in other accounts of the myth (I.175.4, IV.30.4, VI.31.3 and IV.16.12, VI.31.3 respectively), these pādas must contain at least some covert reference to the myth. However, I treat them as parenthetical because pādas de seem to follow directly from a, and the present tense muṣāyati does not fit well with the injunctive prá vṛhat of a and the plupf. ájagan in e.
 

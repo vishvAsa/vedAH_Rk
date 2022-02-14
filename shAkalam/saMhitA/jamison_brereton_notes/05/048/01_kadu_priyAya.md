@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-My interpr. follows that of Oldenberg in most particulars, but is also informed by my view that the hymn as a whole is a Dawn hymn (see publ. intro.). I therefore think that in the 1st hemistich the dative recipient of the poets’ compositions is Agni, not, per Oldenberg, Varuṇa, nor, per Renou, Indra. (Geldner and Witzel Gotō do not identify the recipient.) Although the descriptors in b are not strongly typical of Agni, the “own dear foundation” (priyā́ya dhā́m(a)ne) in pāda a would be appropriate for the establishment of the offering fire at the beginning of the morning sacrifice.
+My interpr. follows that of Oldenberg in most particulars, but is also informed by my view that the hymn as a whole is a Dawn hymn (see published introduction.). I therefore think that in the 1st hemistich the dative recipient of the poets’ compositions is Agni, not, per Oldenberg, Varuṇa, nor, per Renou, Indra. (Geldner and Witzel Gotō do not identify the recipient.) Although the descriptors in b are not strongly typical of Agni, the “own dear foundation” (priyā́ya dhā́m(a)ne) in pāda a would be appropriate for the establishment of the offering fire at the beginning of the morning sacrifice.
 
 With Oldenberg I take the subject of cd, identified as feminine by nom. māyínī, as Dawn, and I also follow him in considering the hapax āmenyá- as dissimilated from
 

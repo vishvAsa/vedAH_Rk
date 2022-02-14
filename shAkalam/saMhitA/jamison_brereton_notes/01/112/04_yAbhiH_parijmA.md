@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-As discussed in the publ. intro., this verse seems to display extended double reference between three gods associated with the morning pressing and the Aśvins’ chariot, an association produced by shared epithets, though I must admit that there are many loose ends in this interpretation. See also Renou’s n.
+As discussed in the published introduction, this verse seems to display extended double reference between three gods associated with the morning pressing and the Aśvins’ chariot, an association produced by shared epithets, though I must admit that there are many loose ends in this interpretation. See also Renou’s n.
 
 In pāda a párijman- ‘earth-encircler’ is a standard epithet of their chariot (I.20.3, IV.45.1, X.39.1, X.41.1, IV.3.6)(and, in the dual, of the Aśvins themselves: I.46.14, X.106.3). In a verse in an Aśvin hymn in which this is the first real word, it is hard to imagine that an audience would not first think of their chariot. However, the term also qualifies the Wind (e.g., VII.40.6, II.38.2), and the rest of pāda a, tánayasya majmánā, fits a divinity better than a chariot.
 

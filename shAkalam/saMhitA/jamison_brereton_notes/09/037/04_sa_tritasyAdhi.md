@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-On the sense of this vs., see publ. intro. As indicated there, there is much disagreement about the referents. To my disc. there I will only add a few comments.
+On the sense of this vs., see published introduction. As indicated there, there is much disagreement about the referents. To my disc. there I will only add a few comments.
 
 Relevant for the whole vs. is IX.26.5 tám sā́nāv ádhi jāmáyo, hárim hinvanti ádribhiḥ “Him do the siblings [=fingers] impel with the stones on the back (of the filter),” which contains both jāmáyaḥ and sā́nu- as here, with the ‘siblings’ being the fingers and the ‘back’ the filter. The ‘back’ (sā́nu-) in soma hymns is basically always the filter, whatever else it may cosmically represent. Moreover, Trita is an archetypal soma-preparer; for this role see, inter alia, Geldner’s n. to IX.34,4 and Ober I.197-98, esp. on the similar role that Θrita fulfills atq the haoma pressing in the Hom Yašt. In at least two other places in IX his ‘maidens’ (yóṣanaḥ), the fingers, are involved: see in the next hymn. IX.38.2 etáṃ trítasya yóṣaṇaḥ, háriṃ hinvanti ádribhiḥ “This tawny one do the maidens of Trita [=fingers] impel with the stones” and almost identical IX.32.2. That the b pāda in these vss. with “Trita’s maidens” as subj.
 

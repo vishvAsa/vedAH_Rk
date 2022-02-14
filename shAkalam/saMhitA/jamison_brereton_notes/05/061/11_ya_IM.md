@@ -2,7 +2,7 @@
 title = "11"
 
 +++
-As indicated in the publ. intro., this vs. marks the beginning of the second, more conventional hymn in this composite, at least in my analysis.
+As indicated in the published introduction, this vs. marks the beginning of the second, more conventional hymn in this composite, at least in my analysis.
 
 Technically speaking ‘horses’ should be in parens.
 

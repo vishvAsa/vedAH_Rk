@@ -2,4 +2,4 @@
 title = "05"
 
 +++
-Geldner (n. 5c) insists that āhanáso víhāyasaḥ is gen. sg. with te, rather than nom. pl. with mádāḥ (Grassmann, Renou, publ. tr.). That is of course possible, but the difference is fairly minor whether the phrase modifies Soma or his exhilarating drinks.
+Geldner (n. 5c) insists that āhanáso víhāyasaḥ is gen. sg. with te, rather than nom. pl. with mádāḥ (Grassmann, Renou, published translation). That is of course possible, but the difference is fairly minor whether the phrase modifies Soma or his exhilarating drinks.

@@ -10,7 +10,7 @@ reference, and its -ī- is not simply an Erweiterung (pace Debrunner, AiG II.2.4
 
 See disc. ad I.48.6.
 
-Since pāda c lacks a main verb, it could belong either with ab or with d. Geldner takes it with ab, seeming to refer to VI.46.1 as a parallel, and the publ. tr. follows suit.
+Since pāda c lacks a main verb, it could belong either with ab or with d. Geldner takes it with ab, seeming to refer to VI.46.1 as a parallel, and the published translation follows suit.
 
 On the basis of VI.25.6c with contrastive locatives of the stake, one of which is vṛtré (see comm. immed. above), I am now inclined to reassign it to d, with vṛtréṣu (c) and góṣu (d) the stakes. The revised tr. would be “… secured; to you … when obstacles (are at stake), to you when cows (are at stake) does the fistfighter look as he fights.”
 

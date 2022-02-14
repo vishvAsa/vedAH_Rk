@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-In the publ. tr. “with a rich prize” is slightly misleading, since it represents only vā́jena, but “prize-giver with a prize” sounded flat.
+In the published translation “with a rich prize” is slightly misleading, since it represents only vā́jena, but “prize-giver with a prize” sounded flat.
 
 “Young woman from of old” (purāṇī́… yuvatíḥ) reflects the usual paradox that Dawn is both new every day and the same every day from the beginning of time.
 

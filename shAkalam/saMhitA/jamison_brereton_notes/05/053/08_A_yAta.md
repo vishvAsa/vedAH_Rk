@@ -4,7 +4,7 @@ title = "08"
 +++
 The abl. parāvátaḥ is somewhat odd with mā́va sthāta “don’t stay away”; we would expect loc. parāváti, which is quite well-attested. It may be that parāvátaḥ has simply been harmonized with the ablatives in ab: divá(ḥ) … antárikṣād amā́t.
 
-However, it’s also possible to take mā́va sthāta in c as a parenthetical exclamation and parāvátaḥ as a continuation of the abl. phrase of ab: “Drive hither, Maruts, from heaven, from the midspace, from nearby -- don’t stay away! -- and from a distance.” This might also explain the unusual pāda-final utá of b. I therefore offer this as an alternative to the publ. tr.
+However, it’s also possible to take mā́va sthāta in c as a parenthetical exclamation and parāvátaḥ as a continuation of the abl. phrase of ab: “Drive hither, Maruts, from heaven, from the midspace, from nearby -- don’t stay away! -- and from a distance.” This might also explain the unusual pāda-final utá of b. I therefore offer this as an alternative to the published translation
 
 There is also the question of what the lexeme áva √sthā means here.
 

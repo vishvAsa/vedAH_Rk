@@ -8,5 +8,5 @@ It is not clear whether a contrast is also meant between the acc. sómam with p�
 
 The verb ā́vivāsanti lacks an object here, though it usually is construed with one. Geldner (/Witzel Gotō) interpret it as ‘invite’ (presumably supplying ‘you’), while Renou supplies the gods as object. I think the object slot has been intentionally left blank: with Indra’s guidance and in his shelter they hope to win whatever they fancy, hence my somewhat awk. tr. “seek their win.” Oberlies (Rel.RV I.403) suggests that this is a poetic contest, but I don’t see any evidence of this beyond the plural.
 
-Given the usual rendering of kaví- elsewhere in the publ. tr., I would change the tr. here to ‘sage poets’ or just ‘poets’.
+Given the usual rendering of kaví- elsewhere in the published translation, I would change the tr. here to ‘sage poets’ or just ‘poets’.
 

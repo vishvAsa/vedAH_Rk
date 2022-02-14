@@ -6,5 +6,5 @@ This verse as it stands poses a number of problems, but some of them disappear i
 
 With Oldenberg and Geldner I take abhí with náyaḥ, but unlike them don’t supply ‘heaven’ as the goal (on the basis of AV XII.3.16, 17). In the RV the lexeme abhí √nī can take as goal vásu ‘goods’ (VI.53.2) or vásyaḥ ‘better state’ (VI.61.14, I.31.18), and since this verse inaugurates the dānastuti, goods would be at issue.
 
-As noted in the intro., there are various tales or tale fragments in Vedic prose (see esp. JB III.233-35. also ŚB III.3.4.18) linking Indra as ram and Medhātithi, but to my mind they are later and not particularly successful rationalizations of this obscure verse.
+As noted in the introduction, there are various tales or tale fragments in Vedic prose (see esp. JB III.233-35. also ŚB III.3.4.18) linking Indra as ram and Medhātithi, but to my mind they are later and not particularly successful rationalizations of this obscure verse.
 

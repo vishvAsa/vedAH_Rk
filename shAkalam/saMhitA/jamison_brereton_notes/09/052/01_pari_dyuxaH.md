@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As was pointed out in the publ. intro., two parallel governing compounds, sanádrayiḥ 'gaining wealth' (1a) and maṃhayád-rayiḥ 'readying wealth' (5c), open and close the hymn. The former also resonates with the adjacent expression across the pāda boundary, bhárad vā́jam. This phrase cannot help but remind us of the personal name bharádvāja-, which is of course in form also a governing cmpd. This stem is primarily confined to Maṇḍala VI, which is attributed to this ṛṣi and his family, but it would surely be known throughout RVic circles. Note also that some vss. and hymns in IX are attributed by the Anukramaṇī to Bharadvāja or a Bhāradvāja: Bharadvāja IX.67.1-3, Vasu Bhāradvāja IX.80-82, Ṛjiśvan Bhāradvāja IX.98 (jointly with Ambarīṣa Vārṣāṅgira), 108.6-7.
+As was pointed out in the published introduction, two parallel governing compounds, sanádrayiḥ 'gaining wealth' (1a) and maṃhayád-rayiḥ 'readying wealth' (5c), open and close the hymn. The former also resonates with the adjacent expression across the pāda boundary, bhárad vā́jam. This phrase cannot help but remind us of the personal name bharádvāja-, which is of course in form also a governing cmpd. This stem is primarily confined to Maṇḍala VI, which is attributed to this ṛṣi and his family, but it would surely be known throughout RVic circles. Note also that some vss. and hymns in IX are attributed by the Anukramaṇī to Bharadvāja or a Bhāradvāja: Bharadvāja IX.67.1-3, Vasu Bhāradvāja IX.80-82, Ṛjiśvan Bhāradvāja IX.98 (jointly with Ambarīṣa Vārṣāṅgira), 108.6-7.
 
 The grammatical identify of the bhárat part of this phrase can be questioned. The standard view (Grassmann, Geldner, Renou, Lubotsky, Hoffmann [Injunk. 123], Lowe [Partic. 281]) is that it is a 3rd sg.
 

@@ -8,7 +8,7 @@ I take them as infinitives rather than 1st sgs, primarily because they are accen
 
 However, it is possible that a finite verb would bear the accent after the accented initial voc. índra, and that the second form would be accented contrastively, so 1st sg.
 
-is certainly not excluded. Since the “you” of the publ. tr. (/ “dich” of Geldner’s tr.) is not overtly expressed, either interpretation fits the text. ## 066 Indra
+is certainly not excluded. Since the “you” of the published translation (/ “dich” of Geldner’s tr.) is not overtly expressed, either interpretation fits the text. ## 066 Indra
 
 
 

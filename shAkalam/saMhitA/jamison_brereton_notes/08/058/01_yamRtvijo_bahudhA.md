@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As indicated in the publ. intro., this verse probably treats the Tānūnaptra.
+As indicated in the published introduction, this verse probably treats the Tānūnaptra.
 
 Although Geldner suggests that the yám and yáḥ simply show the free use of the relative pronoun for general subordination, tr. both as ‘wenn’, I think tátra in d is the correlative of both: the Sacrificer has a compact with both the sacrifice itself (ab) and the priest who carries it out (c).
 

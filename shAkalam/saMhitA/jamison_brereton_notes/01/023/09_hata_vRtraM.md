@@ -8,5 +8,5 @@ On the analysis of fairly common 3rd sg. īśata (always with mā́(kiḥ)) as a
 
 injunctive to such a present.
 
-I.23.13-15: As noted in the intro., I take the “king” that Pūṣan is returning as Agni, not, with most tr., Soma. The theme of the finding and returning of the god-in-hiding in 14 is much more appropriate for Agni than for Soma, and the “glitttering barhis” is also more likely to be associated with Agni. Both Agni and Soma are called “buttress, support” (13) (Agni in V.15.1-2) and both are called king (14). The drops (índu-) in 15 might seem rather to indicate Soma, but in VI.16.16 Agni is strengthened by drops (índubhiḥ), which must be drops of ghee.
+I.23.13-15: As noted in the introduction, I take the “king” that Pūṣan is returning as Agni, not, with most tr., Soma. The theme of the finding and returning of the god-in-hiding in 14 is much more appropriate for Agni than for Soma, and the “glitttering barhis” is also more likely to be associated with Agni. Both Agni and Soma are called “buttress, support” (13) (Agni in V.15.1-2) and both are called king (14). The drops (índu-) in 15 might seem rather to indicate Soma, but in VI.16.16 Agni is strengthened by drops (índubhiḥ), which must be drops of ghee.
 

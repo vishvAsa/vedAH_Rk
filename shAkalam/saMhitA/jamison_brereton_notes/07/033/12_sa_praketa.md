@@ -4,7 +4,7 @@ title = "12"
 +++
 As Geldner points out (n. 12a), praketá- is otherwise only a noun, and so it is best to go against the Pp’s reading praketáḥ in favor of the loc. praketé. (Geldner also entertains the possibility of reading *sapraketáḥ.) The “both” are presumably both births; so Geldner
 
-The weaving in pāda c is repeated almost verbatim from 9c, but with the single Vasiṣṭha, not the pl. Vasiṣṭhas as subject. As noted in the publ. intro., I assume that this refers to the production of the sacrifice. See comm. ad vs. 14 below.
+The weaving in pāda c is repeated almost verbatim from 9c, but with the single Vasiṣṭha, not the pl. Vasiṣṭhas as subject. As noted in the published introduction, I assume that this refers to the production of the sacrifice. See comm. ad vs. 14 below.
 
 The hapax sádāna- is not entirely clear. Geldner suggests that it stands for
 

@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-The publ. tr. contains a clear error — ‘father’ instead of ‘lord’, for pátiḥ in b — a regrettable lapse. It should be corrected to “speaker and lord,” and “father” in the publ. intro. should likewise be changed.
+The published translation contains a clear error — ‘father’ instead of ‘lord’, for pátiḥ in b — a regrettable lapse. It should be corrected to “speaker and lord,” and “father” in the published introduction. should likewise be changed.
 
 Oldenberg finds “tongue” as a descriptor of Soma “bizarr,” but given how much emphasis is placed in IX on Soma’s noise-making capabilities and association with speech, I don’t see why. This vs. depicts Soma as the origin and controller of speech and name-giving, while in vs. 1 (ab) in complementary fashion he aims towards and is nourished by the names given him by others, or so I interpr. it.
 

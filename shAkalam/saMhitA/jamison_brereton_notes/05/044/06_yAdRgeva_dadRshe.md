@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-As I pointed out in the publ. intro., the first pāda is both a cruel joke -- insisting on the utter transparency of the subject of the hymn -- and a claim on the poet’s part that his verbal formulations about the subject are in complete conformity with the underlying reality, however obscure they may at first seem.
+As I pointed out in the published introduction, the first pāda is both a cruel joke -- insisting on the utter transparency of the subject of the hymn -- and a claim on the poet’s part that his verbal formulations about the subject are in complete conformity with the underlying reality, however obscure they may at first seem.
 
 My interpr. of the rest of this vs. differs significantly in both syntax and semantics from the standard ones, which I will not treat in detail. I take pāda b as having an unexpressed masc. sg. obj., with cd further characterizing that obj. The object is simultaneously Agni and Soma, and it is in this pāda that the identification of the two is most clearly expressed in the hymn (until the last 2 vss.). The unidentified subj. ‘they’ -- most likely the poets and/or priests -- put together / unite the one (of Agni and Soma) with the other, his counterpart or ‘shadow’ (chāyā́-). As the two central deified ritual elements, they are mirror images of each other. The union takes place in the waters (apsú) for several reasons. Both Soma and Agni have significant presence in the waters -- Soma of course through the ritual use of waters both to swell the dessicated soma plant and to rinse it, Agni in two mythological guises, both as Apāṃ Napāt and as the runaway ritual fire that hid in the waters.
 

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As noted in the publ. intro., the clichéd́ intro. “I shall proclaim (prá √vac) the manly deeds …” associated esp. with Indra hymns (esp. I.32) is here directed to both gods. The “real” subjunctive vocā is found only here in the RV, in contrast to the more common injunctive / functional subjunctive vocam.
+As noted in the published introduction, the clichéd́ introduction. “I shall proclaim (prá √vac) the manly deeds …” associated esp. with Indra hymns (esp. I.32) is here directed to both gods. The “real” subjunctive vocā is found only here in the RV, in contrast to the more common injunctive / functional subjunctive vocam.
 
 The enclitic vām is unusually stationed pāda-final, but in fact it occupies 2nd position in its small clause, the loc. absol. sutéṣu vām “on (the soma-drinks) having been pressed for you two.” Geldner takes vām with following vīryā̀(“euren Heldentaten”), but the pāda break that separates them makes that less likely. Renou ignores the vām in his tr. and attaches the loc. absol. to the rel. cl., which is syntactically unlikely. Pādafinal vām is in fact a tic of this hymn; see 2a, 4a, and 5a besides our 1a. Perhaps it echoes the 2nd syllable of yuvám ‘you two’, found at pāda end in 1d, 2c.
 

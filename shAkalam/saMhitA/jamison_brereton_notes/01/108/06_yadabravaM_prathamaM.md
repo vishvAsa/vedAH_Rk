@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-See the publ. intro. for the place of this vs. in the structure of the hymn.
+See the published introduction. for the place of this vs. in the structure of the hymn.
 
 The “choosing” of pāda a reinforces the priestly roles of Agni (and Indra) in the preceding vs., since the sacrificer’s choosing of the priests is one of the first actions of the sacrifice -- particularly common is choosing Agni as Hotar.
 

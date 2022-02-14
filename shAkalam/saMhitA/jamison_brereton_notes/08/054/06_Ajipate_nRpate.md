@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-I take pāda a as a nominal clause, with b separate, in order to account for the unaccented verb in b following hí in a. This requires taking ā́jipate nṛpate as predicated vocatives, a rare but still attested construction; see, e.g., I.15.2. This should also require naḥ at the end of pāda a to be construed with that clause, which the publ. tr. does not do. I would now add “for us” after “lord of men” and in the second clause make “us” parenthetical. Geldner takes ab as a single sentence, which avoids the predicated vocative but has an unaccented verb in a hí clause. Oldenberg mentions the problem but decides that the lack of accent can be attributed to faulty transmission of the Vālakhilya. This is of course possible.
+I take pāda a as a nominal clause, with b separate, in order to account for the unaccented verb in b following hí in a. This requires taking ā́jipate nṛpate as predicated vocatives, a rare but still attested construction; see, e.g., I.15.2. This should also require naḥ at the end of pāda a to be construed with that clause, which the published translation does not do. I would now add “for us” after “lord of men” and in the second clause make “us” parenthetical. Geldner takes ab as a single sentence, which avoids the predicated vocative but has an unaccented verb in a hí clause. Oldenberg mentions the problem but decides that the lack of accent can be attributed to faulty transmission of the Vālakhilya. This is of course possible.
 
 Both Oldenberg and Geldner accept the Kashmir ā́bhakṣi for ā́vakṣi, though Oldenberg admits that the latter also works. I do not see the need to change the text.
 

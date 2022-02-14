@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-As indicated in the publ. intro., I take this verse as the speech of Indra’s mother, picking up from the dialogue in vss. 1-2 that began (1a) jajñānó nú “just born,” which is echoed here by sadyó jātáḥ (“just born right now”). In VIII.45.4 Indra took the Bunda bow just before his dialogue with his mother, and in VIII.69.14-15 he's a tiny child when he gets the porridge and cooks the buffalo for his mother and father.
+As indicated in the published introduction, I take this verse as the speech of Indra’s mother, picking up from the dialogue in vss. 1-2 that began (1a) jajñānó nú “just born,” which is echoed here by sadyó jātáḥ (“just born right now”). In VIII.45.4 Indra took the Bunda bow just before his dialogue with his mother, and in VIII.69.14-15 he's a tiny child when he gets the porridge and cooks the buffalo for his mother and father.
 
 I supply odanám ‘rice porridge’ as the object of ā́bhara (and áttave). Note that in the summary verse 10 various foodstuffs, including odanám, are objects of ā́bharat.
 

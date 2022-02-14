@@ -4,7 +4,7 @@ title = "07"
 +++
 A complex vs. esp. in the 2nd hemistich.
 
-In the publ. tr. I take pāda a as a nominal sentence with párā as predicate: “far away is …” I now think a verb of motion, almost surely from √i, should be supplied: “Away (goes) the ruddy poet …” The lexeme párā √i is matched by parāyatī(ḥ) in pāda c, by my analysis (for which see below). The reference is once again to Soma’s journey from the filter to the rendezvous with the milk.
+In the published translation I take pāda a as a nominal sentence with párā as predicate: “far away is …” I now think a verb of motion, almost surely from √i, should be supplied: “Away (goes) the ruddy poet …” The lexeme párā √i is matched by parāyatī(ḥ) in pāda c, by my analysis (for which see below). The reference is once again to Soma’s journey from the filter to the rendezvous with the milk.
 
 “Three-backed” (tripṛṣṭha-) is probably to be interpr. like tridhā́tu in nearby IX.70.8. Pace Lüders (708-9) I very much doubt it refers to his threefold heavenly Soma.
 

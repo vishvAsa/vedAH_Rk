@@ -10,5 +10,5 @@ How to distribute yáḥ and yáthā and whether to interpr. the latter as a sub
 
 have diff. solutions. I take yáḥ as marking a generalizing rel. cl. (‘whoever …’) and yáthā as a simile marker, with c a nominal cl. functioning as the main clause to ab.
 
-The verb in b, dádat is a short-vowel subjunctive (“whoever will give …”) but can also be interpr. as a thematized injunc., which in turn can be read with Vaiśvadaśvi (“as V. did”). If I had had the courage of my convictions, “did” would not be in parens. in the publ. tr.
+The verb in b, dádat is a short-vowel subjunctive (“whoever will give …”) but can also be interpr. as a thematized injunc., which in turn can be read with Vaiśvadaśvi (“as V. did”). If I had had the courage of my convictions, “did” would not be in parens. in the published translation
 

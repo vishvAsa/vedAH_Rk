@@ -2,7 +2,7 @@
 title = "14"
 
 +++
-My semantic reasons for rendering áditim as ‘boundlessness’ here, rather than as the PN of the goddess (contra Geldner/Renou), are given in the publ. intro. I would add here that √dāś almost never otherwise takes an acc. of the recipient of the pious service (except V.41.16 and possibly VI.48.2), but does occasionally take an acc. of the offering (e.g., I.71.6, 93.3). It’s also the case that áditim makes an irregular cadence: it should have an initial heavy syllable, though I don’t know what to make of that or how to repair it. There is also some phonetic play between pāda-final áditim and the final of 13a (havy)ádātibhiḥ.
+My semantic reasons for rendering áditim as ‘boundlessness’ here, rather than as the PN of the goddess (contra Geldner/Renou), are given in the published introduction. I would add here that √dāś almost never otherwise takes an acc. of the recipient of the pious service (except V.41.16 and possibly VI.48.2), but does occasionally take an acc. of the offering (e.g., I.71.6, 93.3). It’s also the case that áditim makes an irregular cadence: it should have an initial heavy syllable, though I don’t know what to make of that or how to repair it. There is also some phonetic play between pāda-final áditim and the final of 13a (havy)ádātibhiḥ.
 
 Geldner, flg. Sāyaṇa, takes víśvā (< víśvéd, i.e., víśvā+íd) with jánān and explains its neut. pl. form as attraction to udnáḥ, “das trotz der maskulinen Form doch Neutr. ist”
 

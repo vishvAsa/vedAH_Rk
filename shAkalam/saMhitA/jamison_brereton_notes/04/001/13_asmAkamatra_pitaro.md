@@ -2,7 +2,7 @@
 title = "13"
 
 +++
-This is the first of the Vala myth vss. As noted in the publ. intro., the actors throughout must be the Aṅgirases, but they are never named.
+This is the first of the Vala myth vss. As noted in the published introduction, the actors throughout must be the Aṅgirases, but they are never named.
 
 The curious phrase ṛtám āśuṣānā́ḥ “panting over the truth” occurs three times in IV.1-2 (also 2.14, 16). It expresses the energy and effort of the Aṅgirases in singing the true song that opened the Vala cave and freed the cows. See Lüders (514-15).
 

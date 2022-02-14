@@ -2,11 +2,11 @@
 title = "07"
 
 +++
-As noted in the publ. intro., the chariot journey in this vs. echoes the mythological one in vs. 6 but updated to a wish for the present day.
+As noted in the published introduction, the chariot journey in this vs. echoes the mythological one in vs. 6 but updated to a wish for the present day.
 
 Geldner divides the 2nd hemistich into two separate clauses, by pāda. In this interpr.
 
-the nouns in d are in the nom. pl. and follow the Aśvins’ chariot that was launched in c (“viele Labsale … folgen ihm”). The publ. tr. takes the two pādas as a single cl., with the nouns in d in the acc. pl. and the chariot following them. Neither of these conjures up an entirely comfortable picture if ánu is strictly ‘following’ - either all the good stuff got left behind and has been sent after the chariot, or it’s all zipping along ahead. But my accusative alternative could be taken to mean that the refreshments et al. are already at the ritual ground. This would be supported by ab, esp. b. But it is contra-indicated by VI.62.4 in the immediately preceding Aśvin hymn, where pŕkṣam and íṣam are two of the things the Aśvins are bringing.
+the nouns in d are in the nom. pl. and follow the Aśvins’ chariot that was launched in c (“viele Labsale … folgen ihm”). The published translation takes the two pādas as a single cl., with the nouns in d in the acc. pl. and the chariot following them. Neither of these conjures up an entirely comfortable picture if ánu is strictly ‘following’ - either all the good stuff got left behind and has been sent after the chariot, or it’s all zipping along ahead. But my accusative alternative could be taken to mean that the refreshments et al. are already at the ritual ground. This would be supported by ab, esp. b. But it is contra-indicated by VI.62.4 in the immediately preceding Aśvin hymn, where pŕkṣam and íṣam are two of the things the Aśvins are bringing.
 
 However, if iṣídh- is a variant of niṣṣídh- ‘tribute’ (see below), the first of these alternatives is the more likely.
 

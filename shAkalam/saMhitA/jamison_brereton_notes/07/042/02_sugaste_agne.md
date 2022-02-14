@@ -6,5 +6,5 @@ The ‘road’ of Agni, ádhvan-, in pāda a picks up its etymological relative 
 
 This would make fine sense -- and ní √sad is a very common idiom for Agni’s seating at the ritual when acting as Hotar -- but it again requires emending a text that makes sense on its own.
 
-As indicated in the publ. intro., the vari-colored horses in bc are Agni’s flames. The “I” of d is presumably the poet impersonating Agni as Hotar.
+As indicated in the published introduction, the vari-colored horses in bc are Agni’s flames. The “I” of d is presumably the poet impersonating Agni as Hotar.
 

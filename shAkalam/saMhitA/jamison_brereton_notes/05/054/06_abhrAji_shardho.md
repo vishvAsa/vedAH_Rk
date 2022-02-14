@@ -12,7 +12,7 @@ The point of comparison in b between the Maruts and the caterpillar is that viol
 
 The sequence vṛkṣáṃ kap(anéva) is oddly reminiscent of Vṛṣākapi, the randy monkey in X.86, but this must be accidental.
 
-In the publ. tr. the voc. sajoṣasaḥ is not rendered as a voc., since the Engl.
+In the published translation the voc. sajoṣasaḥ is not rendered as a voc., since the Engl.
 
 would be awkward.
 

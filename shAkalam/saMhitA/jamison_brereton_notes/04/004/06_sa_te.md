@@ -10,5 +10,5 @@ pls. víśvāni … sudínāni … dyumnā́ni as subjs. of the sg. verb dyaut, 
 
 I supply ‘days’ with sudínāni on the basis of passages like VII.11.2 áhāny asmai sudínā bhavanti.
 
-rāyáḥ can be either acc. pl. (so Oldenberg, Geldner, Renou) or gen. sg. dependent on víśvāni … sudínāni (so Thieme [Fremdl. 61] “All die Sonnentage des Reichtums,” Witzel Gotō). In the publ. tr. I took it as acc. pl. but, to my mind, nothing rides on it either way.
+rāyáḥ can be either acc. pl. (so Oldenberg, Geldner, Renou) or gen. sg. dependent on víśvāni … sudínāni (so Thieme [Fremdl. 61] “All die Sonnentage des Reichtums,” Witzel Gotō). In the published translation I took it as acc. pl. but, to my mind, nothing rides on it either way.
 

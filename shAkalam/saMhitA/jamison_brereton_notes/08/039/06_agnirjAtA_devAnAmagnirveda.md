@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-As pointed out in the publ. intro., pādas ab contain a pun -- which Geldner fails to note and Renou mentions in his n. but fails to render in his translation. Agni “knows the races” (jātā́… veda) of gods and men. Those two words in that order produce his common epithet Jātavedas. I take apīcyàm ‘hidden, secret’ at the end of b as a separate clause, alluding to this pun: “(this is his) secret (name).” (The publ. tr.
+As pointed out in the published introduction, pādas ab contain a pun -- which Geldner fails to note and Renou mentions in his n. but fails to render in his translation. Agni “knows the races” (jātā́… veda) of gods and men. Those two words in that order produce his common epithet Jātavedas. I take apīcyàm ‘hidden, secret’ at the end of b as a separate clause, alluding to this pun: “(this is his) secret (name).” (The published translation
 
 should have “name” in parentheses.) apīcyàm (-āni) almost always qualifies ‘name’, including two hymns later by the same poet (VIII.41.5 … apīcyā̀/ véda nā́māni gúhyā). Both Geldner and Renou instead take apīcyàm as a separate object of veda, construed with márt(i y)ānām, while jātā́is limited only by devā́nām (“knows the races of the gods and the secret [/Renou ‘specificity’] of mortals”), though gods and mortals are frequently a merism. My view that apīcyàm is a separate clause is supported by the meter. Mahāpaṅkti consists only of 8-syllable pādas, and 6b should end after márt(i y)ānām. In fact, Oldenberg in his Prol. suggested deleting the following apīcyàm, but in the Noten thinks better of it, allowing a 4-syllable pendant to this line. This pendant is, in my interpr., syntactically independent and a sort of meta-comment.
 

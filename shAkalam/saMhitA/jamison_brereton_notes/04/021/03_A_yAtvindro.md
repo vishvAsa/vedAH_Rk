@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As noted in the publ. intro., this vs. also recalls the opening vs. of the preceding hymn. There the verb ā́… yāsat ‘he will drive here’ is construed with two ablatives of place-from-which (near and far), plus ávase ‘for help’ + naḥ. Here ā́yātu, also with ávase naḥ, is construed with no fewer than six ablatives of the same type, elaborating on the near/far contrast to provide a universe of choices.
+As noted in the published introduction, this vs. also recalls the opening vs. of the preceding hymn. There the verb ā́… yāsat ‘he will drive here’ is construed with two ablatives of place-from-which (near and far), plus ávase ‘for help’ + naḥ. Here ā́yātu, also with ávase naḥ, is construed with no fewer than six ablatives of the same type, elaborating on the near/far contrast to provide a universe of choices.
 
 On púrīṣa- see comm. ad I.163.1.
 

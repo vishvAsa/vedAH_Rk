@@ -4,7 +4,7 @@ title = "10"
 +++
 As Geldner points out (n. 10a), the three divinized principles in pāda a—Good Fortune, Insight, and Plenitude—are what the poet needs for success.
 
-As the layout of the publ. tr. shows, I take pāda b as a parenthetical insertion in the sentence that includes a, cd. It would be possible to take vājáyantaḥ as a predicated pres. part. and a separate cl., though this seems less likely to me.
+As the layout of the published translation shows, I take pāda b as a parenthetical insertion in the sentence that includes a, cd. It would be possible to take vājáyantaḥ as a predicated pres. part. and a separate cl., though this seems less likely to me.
 
 Although gnā́spáti- presumably contains the old gen. sg. of gnā́- (e.g., AiG III.119, 129), I tr. it as a pl., since we usually hear of “wives (of the gods)” - though, since I don’t exactly know what Narāśaṃsa (=Agni?) is doing here, perhaps there’s only one wife. It is also not clear if there are two figures here or if gnā́spátiḥ characterizes Narāśaṃsa as I have taken it (so also Geldner, Witzel Gotō). Renou does so in tr., but suggests in his n. that it might identify a separate individual, perhaps Tvaṣṭar, whose association with divine females is well established. I now am inclined in that direction and would provide an alternate tr. “Narāśaṃsa (and) the Husband of the (divine) Wives should help us.” That the verb is singular is not an impediment, since a series of sg. subjects can take a sg. verb.
 

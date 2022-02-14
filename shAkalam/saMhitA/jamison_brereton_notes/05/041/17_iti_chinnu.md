@@ -2,7 +2,7 @@
 title = "17"
 
 +++
-As noted in the publ. intro., vss. 16-17, in a different meter from what precedes (and follows), seem to provide a summary of the preceding hymn, esp. 17, with its self-conscious internal quote íti cin nú “in just these (words) now.” See Janert (Dhāsi, pp. 16-17), who argues this position in some detail.
+As noted in the published introduction, vss. 16-17, in a different meter from what precedes (and follows), seem to provide a summary of the preceding hymn, esp. 17, with its self-conscious internal quote íti cin nú “in just these (words) now.” See Janert (Dhāsi, pp. 16-17), who argues this position in some detail.
 
 All the standard tr. (as well as Janert, 42) agree in taking d and e as separate clauses and supplying a verb for c. All consider the clauses contrastive: in d I hope to be granted a pleasant or benevolent dhāsí- for my body, while in e I express the wish that Nirṛti should swallow my old age. But this is directly contrary to what was said in 15ab, where the securing of his old age was an occasion for celebration by the poet.
 

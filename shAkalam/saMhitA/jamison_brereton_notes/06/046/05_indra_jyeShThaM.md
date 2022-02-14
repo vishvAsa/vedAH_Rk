@@ -6,7 +6,7 @@ The voc. phrase in c, citra vajrahasta, is repeated from 2a.
 
 The verb prā́ḥ must be read disyllabically. It could therefore technically be a subjunctive (so apparently Grassmann), and in fact the light first syllable required could reflect the loss of root-final laryngeal before the subjunctive suffixal vowel.
 
-Hoffmann insistently calls it an injunc. (215 n. 201, 221), fld. by Lubotsky, and the publ.
+Hoffmann insistently calls it an injunc. (215 n. 201, 221), fld. by Lubotsky, and the published
 
 tr. (“you … fill”) reflects an injunctive interpr. But since this is not a cosmogonic act
 

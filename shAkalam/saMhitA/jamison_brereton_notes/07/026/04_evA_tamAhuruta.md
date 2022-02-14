@@ -6,7 +6,7 @@ The utá of pāda a is echoed by ūtáyo in c, which in turn is picked up by ūt
 
 Pāda b opens with ékaḥ ‘one, single’ and c ends with pūrvī́ḥ ‘many’, a contrast that appears to be hightlighted.
 
-The verb saścata in d is morphologically ambiguous. My publ. tr. follows Geldner in rendering it as a modal (Geldner “… sollen … zufallen,” SWJ “will be companions”).
+The verb saścata in d is morphologically ambiguous. My published translation follows Geldner in rendering it as a modal (Geldner “… sollen … zufallen,” SWJ “will be companions”).
 
 Geldner does not, however, comment on the form. Grassmann identifies it as a 3rd pl. to an athematic redupl. stem saśc-; since this stem precedes and is distinct from his “schwaches Perf. saśc-,” he must consider it a redupl. pres., as Whitney and Macdonell (VGS) do; Hoffmann (Injunc. 260) likewise calls our form an injunctive.
 

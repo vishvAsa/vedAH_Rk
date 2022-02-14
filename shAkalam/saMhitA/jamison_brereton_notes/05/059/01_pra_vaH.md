@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As was indicated in the publ. intro., the referent of the ‘spy’ (spáṭ) is unclear.
+As was indicated in the published introduction, the referent of the ‘spy’ (spáṭ) is unclear.
 
 Geldner suggests a number of possibilities, none compelling; Witzel Gotō take it as the singer. Most bizarrely, Oldenberg interprets the word as an interjection. I think it possible that it is the sun. One clue is the repetition of the phrase suvitā́ya dāváne “to give good faring,” which is used of the Maruts in 4d. I therefore think the ‘spy’ must be a being that can function in the same way as the Maruts and provide the same type of benefit. The sun is elsewhere called a spy (X.35.8), provides light for creatures to move about, and appears before and, more importantly, after a storm.
 

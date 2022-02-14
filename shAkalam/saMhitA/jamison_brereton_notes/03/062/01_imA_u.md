@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-For the sense of this complex vs. and its relation to the rest of the hymn, see publ. intro. The point of the verse appears be that our hymns, however frenetic (a), are no longer effective (b), and therefore the activity of Indra and Varuṇa on behalf of their partners [=us] is in abeyance (cd).
+For the sense of this complex vs. and its relation to the rest of the hymn, see published introduction. The point of the verse appears be that our hymns, however frenetic (a), are no longer effective (b), and therefore the activity of Indra and Varuṇa on behalf of their partners [=us] is in abeyance (cd).
 
 With the standard tr. I supply ‘hymns’ with the opening imā́(ḥ): imā́gíraḥ is pretty common.
 

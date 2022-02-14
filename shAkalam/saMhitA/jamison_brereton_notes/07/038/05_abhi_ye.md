@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-On this assortment of minor divinities, see publ. intro. In particular, ékadhenu- ‘having one milk-cow’ is a hapax, and who these beings are is otherwise unknown.
+On this assortment of minor divinities, see published introduction. In particular, ékadhenu- ‘having one milk-cow’ is a hapax, and who these beings are is otherwise unknown.
 
 The structure of the vs. is quite loose. The initial abhí invites us to group the vs. with the preceding one, where abhí opens three of the four pādas (a, c, d) as the preverb with two forms of the root √gṝ (gṛṇā́ti a, gṛṇanti c). This is indeed how I construe it, with the main cl. represented only by abhí and a gapped *gṛṇanti (hence 60 my “(as do) those”), and the rest of the first hemistich occupied by the rel. cl.
 

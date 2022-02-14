@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The publ. tr. should read “manfully” with adverbial nṛvát.
+The published translation should read “manfully” with adverbial nṛvát.
 
 On possible configurations of the terms connected by utá, see Klein DGRV I.341.
 

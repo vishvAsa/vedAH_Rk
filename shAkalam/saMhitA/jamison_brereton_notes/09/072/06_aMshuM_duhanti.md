@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-There is a sharp split of opinion on the grammatical identity of punarbhúvaḥ. Grassmann, Scarlatta (361), and the publ. tr. - as well as, probably, Geldner (his “immer aufs neue” is not totally clear) - take it as a nom. pl. fem. with the cows and the thoughts; Renou and Lüders (224-25), the latter cited verbatim by Ober (II.149), as gen. sg.
+There is a sharp split of opinion on the grammatical identity of punarbhúvaḥ. Grassmann, Scarlatta (361), and the published translation - as well as, probably, Geldner (his “immer aufs neue” is not totally clear) - take it as a nom. pl. fem. with the cows and the thoughts; Renou and Lüders (224-25), the latter cited verbatim by Ober (II.149), as gen. sg.
 
 masc. dependent on sádane and referring to Soma. Not surprisingly Lüders is esp.
 

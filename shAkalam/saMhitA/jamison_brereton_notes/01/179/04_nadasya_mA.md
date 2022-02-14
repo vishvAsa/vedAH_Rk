@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-As noted in the publ. intro., with the Anukramaṇī and Sāyaṇa as well as Thieme, I take Agastya as the speaker of this vs., contra the standard modern assignment to Lopāmudrā (Geldner, Renou, Doniger, Witzel Gotō). The question is of some importance, because it determines the identity of the “me” whom desire has overcome. I see the verse as expressing Agastya’s sudden surrender to his own latent and then aroused sexual desire; others must see Lopāmudrā as continuing to assert her desire as in vss. 1-2 to the chaste Agastya. But in that case I don’t see how the sex would have taken place, since Agastya was unwaveringly against it in vs. 3.
+As noted in the published introduction, with the Anukramaṇī and Sāyaṇa as well as Thieme, I take Agastya as the speaker of this vs., contra the standard modern assignment to Lopāmudrā (Geldner, Renou, Doniger, Witzel Gotō). The question is of some importance, because it determines the identity of the “me” whom desire has overcome. I see the verse as expressing Agastya’s sudden surrender to his own latent and then aroused sexual desire; others must see Lopāmudrā as continuing to assert her desire as in vss. 1-2 to the chaste Agastya. But in that case I don’t see how the sex would have taken place, since Agastya was unwaveringly against it in vs. 3.
 
 Certainly assigning it to Agastya makes for a more psychologically complex portrait.
 

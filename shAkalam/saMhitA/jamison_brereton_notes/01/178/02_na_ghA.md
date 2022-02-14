@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-See publ. intro. for the mismatch in b between the dual subj. svásārā and the pl. verb kṛṇávanta, with the possible semantic explanations given there (multiple days and nights or multiple fingers on the two hands). It’s also worth noting that the verb we expect, the middle 3rd dual athematic subjunctive, may not have been thoroughly anchored in the poets’ Sprachgefühl, since relatively few such forms are attested to any stem type. We should expect *kṛṇávaite (or -ete), which is not found, though we once get kṛṇvaíte (VI.25.4) with the wrong grade of the suffix. In the absence of a firmly established form in this slot in the paradigm, the poet may have opted to fall back on a more familiar and easily generated one, the 3rd pl.
+See published introduction. for the mismatch in b between the dual subj. svásārā and the pl. verb kṛṇávanta, with the possible semantic explanations given there (multiple days and nights or multiple fingers on the two hands). It’s also worth noting that the verb we expect, the middle 3rd dual athematic subjunctive, may not have been thoroughly anchored in the poets’ Sprachgefühl, since relatively few such forms are attested to any stem type. We should expect *kṛṇávaite (or -ete), which is not found, though we once get kṛṇvaíte (VI.25.4) with the wrong grade of the suffix. In the absence of a firmly established form in this slot in the paradigm, the poet may have opted to fall back on a more familiar and easily generated one, the 3rd pl.
 
 Grassmann assigns aveṣan to a separate root √viṣ ‘sich ergiessen’, not to the wellattested √viṣ ‘labor’. This division is tentatively accepted by Mayrhofer (EWA s.v. VEṢ), argued for by Narten (s-aor., 245), and accepted by Gotō (1st class, 299). The tr.
 

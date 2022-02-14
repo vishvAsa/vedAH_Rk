@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As disc. in the publ. intro., this vs. is full of gender ambiguity and gender switching, in service of the Vedic love of paradox. Although the subject of the first hemistich is surely Parjanya, he is not identified by name, and a masc. gender pronoun only appears as the very last word of the half-vs. (… eṣáḥ) -- while the state and activity ascribed to the subject of pāda a are quintessentially female.
+As disc. in the published introduction, this vs. is full of gender ambiguity and gender switching, in service of the Vedic love of paradox. Although the subject of the first hemistich is surely Parjanya, he is not identified by name, and a masc. gender pronoun only appears as the very last word of the half-vs. (… eṣáḥ) -- while the state and activity ascribed to the subject of pāda a are quintessentially female.
 
 In the 2nd hemistich the referents probably align well with the implied genders, unlike pāda a: by most interpr. the mother is Earth, the father is Heaven, as usual.
 

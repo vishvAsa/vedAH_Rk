@@ -14,7 +14,7 @@ Unfortunately divyā́ḥ and abhy ànūṣata point in different directions: th
 
 And another well-established referent is ‘waters’ (VII.49.2, 103.2; cf. X.98.5), “heavenly waters” being rain. These are all possible, but not particularly compelling, referents here, esp. because they would have to be contemplating friendship with Soma as well as roaring to him. What divyá- does not generally seem to qualify is heavenly beings in the form of gods (except possibly in contrast to pā́rthivāḥ - ‘earthly’ [=humans?]), which seems to be the default interpr. of the standard tr.
 
-(including mine); my remark in the publ. intro. about “the gods’ yearnig for soma” in vs. 6 is therefore probably incorrect. I’ve reached an impasse. Although I think I’m asking the right questions, they don’t produce satisfactory answers.
+(including mine); my remark in the published introduction. about “the gods’ yearnig for soma” in vs. 6 is therefore probably incorrect. I’ve reached an impasse. Although I think I’m asking the right questions, they don’t produce satisfactory answers.
 
 My interpr. of the final pāda differs from the standard, which takes deváḥ savitā́as solely constituting the simile: “he uncovers a desirable thing like god Savitar.” But this seems pretty flat. Moreover, the simile particle ná is to the left of both parts of the putative simile ( … ná deváḥ savitā́). A better constructed simile would include the portion to the left of ná, namely vā́ram. And I think it does: in my view vā́ram is a perfect pun; the word means both fleece (filter) and desirable object.
 

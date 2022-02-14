@@ -2,7 +2,7 @@
 title = "17"
 
 +++
-The publ. tr. does not make it clear that “your” is pl. (enclitic vaḥ) and must refer to the poet/officiants.
+The published translation does not make it clear that “your” is pl. (enclitic vaḥ) and must refer to the poet/officiants.
 
 What is striking stylistically in this vs. is the sequence of three heavy nom. pl.
 

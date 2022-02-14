@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-See publ. intro. for the init. práti here echoed by that beginning 11c and forming a ring defining vss. 7-11 as a subsection. Since práti ‘against’ is not otherwise found with √smṛ (or with √śuṣ, see vs. 11), I think the preverb has been stationed at both ends of this section to focus attention on the targeted victim. See disc. in publ. intro.
+See published introduction. for the init. práti here echoed by that beginning 11c and forming a ring defining vss. 7-11 as a subsection. Since práti ‘against’ is not otherwise found with √smṛ (or with √śuṣ, see vs. 11), I think the preverb has been stationed at both ends of this section to focus attention on the targeted victim. See disc. in published introduction.
 
 The NP rakṣáso bhaṅgurā́vataḥ is entirely ambiguous between gen./abl. sg.
 

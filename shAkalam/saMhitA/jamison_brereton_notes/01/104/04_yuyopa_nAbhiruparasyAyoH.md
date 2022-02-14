@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-Likewise consult the publ. intro. for my interpr. of this verse.
+Likewise consult the published introduction. for my interpr. of this verse.
 
 In b prá … tirate, whose regular object is ā́yus- ‘lifetime’ (which I supply here), plays off the name Āyu in the previous pāda. With Oldenberg and Witzel Gotō I supply ‘dawns’ with pū́rvābhiḥ, on the basis of V.48.2, adduced by Oldenberg
 

@@ -2,5 +2,5 @@
 title = "08"
 
 +++
-On pl. vájrāsaḥ see publ. intro.
+On pl. vájrāsaḥ see published introduction.
 

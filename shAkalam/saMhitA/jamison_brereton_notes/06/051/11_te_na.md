@@ -2,7 +2,7 @@
 title = "11"
 
 +++
-The publ. tr. seems to suggest an etymological relationship between “earthly realm” and “Earth,” but in fact they are lexically distinct: kṣā́ma and pṛthivī́, though adjacent.
+The published translation seems to suggest an etymological relationship between “earthly realm” and “Earth,” but in fact they are lexically distinct: kṣā́ma and pṛthivī́, though adjacent.
 
 The list of strengtheners in ab is oddly assorted, but up till the last term they are all divinities or (pṛthivī́) capable of being so configured; I therefore don’t understand the presence of the “five peoples” (páñca jánāḥ), who are humans. Geldner’s ref. to X.53.4 is no help (at least to me).
 

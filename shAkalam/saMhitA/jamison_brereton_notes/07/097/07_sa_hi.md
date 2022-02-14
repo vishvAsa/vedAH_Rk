@@ -6,7 +6,7 @@ It is difficult to wring a causal sense out of hí here. The vs. continues the d
 
 On śundhyú- see comm. ad V.52.9.
 
-I would now be inclined to tr. the bahuvrīhi híraṇya-vāśīḥ (for the inflection see AiG II.2.408) as implicitly pl. (‘having golden axes’, rather than the publ.
+I would now be inclined to tr. the bahuvrīhi híraṇya-vāśīḥ (for the inflection see AiG II.2.408) as implicitly pl. (‘having golden axes’, rather than the published
 
 ‘having a golden axe’ flg. Geldner/Renou) because it seems to refer to Agni’s flames. HPS tr.
 

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-For my interpr. of the context of this vs. see the publ. intro., where I suggest that the vs. depicts the primal situation before the ritual was first instituted, with the gods existing without a sacrificial compact. I take purā́… ā́san as existential, “existed previously,” as I do almost the same construction (but with pf., not impf.) in IV.51.7 purā́suḥ -- but not purā́-āsitha in VI.45.11, where the purā́is contrasted with nūnám in disjunctive vā clauses. The existential reading seems to me preferable to a predicative one, whether vṛdhā́saḥ or anavadyā́saḥ were to be predicated.
+For my interpr. of the context of this vs. see the published introduction, where I suggest that the vs. depicts the primal situation before the ritual was first instituted, with the gods existing without a sacrificial compact. I take purā́… ā́san as existential, “existed previously,” as I do almost the same construction (but with pf., not impf.) in IV.51.7 purā́suḥ -- but not purā́-āsitha in VI.45.11, where the purā́is contrasted with nūnám in disjunctive vā clauses. The existential reading seems to me preferable to a predicative one, whether vṛdhā́saḥ or anavadyā́saḥ were to be predicated.
 
 The construction of kuvíd is unusual, in that it appears on the surface that the kuvíd construction consists of a rel. clause introduced by yé without a main clause.
 

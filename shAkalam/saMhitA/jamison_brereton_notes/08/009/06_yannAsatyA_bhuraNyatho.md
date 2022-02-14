@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-The rendering of ná vindhate in the publ. tr. is opaque. By “does not get enough” I meant something like “produces in superfluity” -- from Vatsa’s point of view, there can never be enough praises for the Aśvins.
+The rendering of ná vindhate in the published translation is opaque. By “does not get enough” I meant something like “produces in superfluity” -- from Vatsa’s point of view, there can never be enough praises for the Aśvins.
 
 The sense relation between the yád clauses of ab and the main clause in c is not clear. I think the idea is that even when the Aśvins are preoccupied with some other activity, Vatsa keeps praising them on the assumption that they will pay attention at some point.
 

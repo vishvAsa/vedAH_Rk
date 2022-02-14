@@ -2,5 +2,5 @@
 title = "16"
 
 +++
-Śyumarśmi in the publ. tr. is a typo for Śyumaraśmi.
+Śyumarśmi in the published translation is a typo for Śyumaraśmi.
 

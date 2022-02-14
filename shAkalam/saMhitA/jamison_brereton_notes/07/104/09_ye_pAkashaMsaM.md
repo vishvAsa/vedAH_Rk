@@ -6,5 +6,5 @@ The hapax pāka-śaṃsá- is taken by some as a bahuvrīhi (implicitly, Grassma
 
 As Renou points out, ví √hṛ probably refers to distortion of ritual speech.
 
-Since pāka-śaṃsá- is a thing, not a person, the parallel bhadrám in b should also likewise be a thing (so Geldner, Whitney, Lommel, Brown), not, as the publ. tr. (“an auspicious one”) has it, a person. I would thus take the form as a neut. acc. sg., not a masc. and slightly emend the publ. tr. to “something auspicious.” This something is probably also connected with ritual performance.
+Since pāka-śaṃsá- is a thing, not a person, the parallel bhadrám in b should also likewise be a thing (so Geldner, Whitney, Lommel, Brown), not, as the published translation (“an auspicious one”) has it, a person. I would thus take the form as a neut. acc. sg., not a masc. and slightly emend the published translation to “something auspicious.” This something is probably also connected with ritual performance.
 

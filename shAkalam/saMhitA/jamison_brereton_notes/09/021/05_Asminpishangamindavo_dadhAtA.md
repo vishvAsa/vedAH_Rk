@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-On my interpr. of this vs., see publ. tr. Both Geldner and Renou have quite different views.
+On my interpr. of this vs., see published translation Both Geldner and Renou have quite different views.
 
 Geldner takes the asmin to be the sacrificer (flg. Sāyaṇa.), with the piśáṅgam … venám (my “tawny tracker,” his “den goldenen Seher”) “ein innerer Mahner” of this would-be stingy man. This anticipation of an Upaniṣadic-type Inner Controller seems anachronistic to me. Renou simply -- in my opinion over-simplistically -- takes all elements to be soma in one form or another: the soma drops are urged to put “le (Soma) Veilleur à couleur-d’or” into the soma liquid.
 

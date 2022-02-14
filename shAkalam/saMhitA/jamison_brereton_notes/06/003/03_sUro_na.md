@@ -8,7 +8,7 @@ It might also be pointed out that pāda a, which is the most straightforward par
 
 In c, with Geldner and Lüders inter alia, I assume that a new clause begins with nā́yám and, also with Lüders, that héṣasvant- means ‘possessing arms, armed’. The opening of this pāda héṣasvataḥ śurúdhaḥ then is a nominal clause, with the gen. héṣasvataḥ expressing possession. Cf. III.38.5 imā́asya śurúdhaḥ santi pūrvī́ḥ “here are his many proliferating riches”; sim. IV.23.8 ṛtásya hí śurúdhaḥ sánti pūrvī́ḥ “Of truth there exist many riches.” The rich spoils that fall to Agni are presumbly the various materials he burns.
 
-The published tr. importantly omits aktóḥ. It should be corrected to “(But) on his own, by night, this one here …” This temporal adverb implicit contrasts with sū́ro ná of pāda a. That is, the appearance of the militant Agni is compared to the sun, the light of day, whereas the benign Agni described in the second half of c + d is a phenomenon of night.
+The published translation importantly omits aktóḥ. It should be corrected to “(But) on his own, by night, this one here …” This temporal adverb implicit contrasts with sū́ro ná of pāda a. That is, the appearance of the militant Agni is compared to the sun, the light of day, whereas the benign Agni described in the second half of c + d is a phenomenon of night.
 
 On the famous crux nā́yám see comm. ad VIII.2.28 and my 2013 Fs. Hock article. Pace Thieme (1949: 51-52) and Lubotsky, who classifies this passage separately, I believe that nā́yám here belongs with the other occurrences of this syntagm.
 

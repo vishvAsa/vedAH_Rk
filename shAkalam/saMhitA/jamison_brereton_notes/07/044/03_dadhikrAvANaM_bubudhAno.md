@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As discussed in the publ. intro., in the middle of a hymn of utmost simplicity and banality, this vs. -- or a single pāda, c -- is utterly baffling and has given rise to competing interpr. This pāda contains two color terms, bradhná- ‘coppery’ and babhrú- ‘brown’, and a hapax mām̐ścatóḥ (or better maṃ̐ścatóḥ; see Oldenberg): bradhnám mām̐ścatór váruṇasya babhrúm. Most comm. assume that the two color terms refer to horses (see, e.g., Geldner n. 3c, also Oldenberg), because of the presence of Dadhikrā and because color terms often designate horses. (Cf., e.g., Renou “au (coursier) couleur-fauve de Mitra, au (coursier) brun de Varuṇa.”) But the introduction of two extraneous horses seems unlikely to me, in a hymn that barely strays from the dawn ritual context.
+As discussed in the published introduction, in the middle of a hymn of utmost simplicity and banality, this vs. -- or a single pāda, c -- is utterly baffling and has given rise to competing interpr. This pāda contains two color terms, bradhná- ‘coppery’ and babhrú- ‘brown’, and a hapax mām̐ścatóḥ (or better maṃ̐ścatóḥ; see Oldenberg): bradhnám mām̐ścatór váruṇasya babhrúm. Most comm. assume that the two color terms refer to horses (see, e.g., Geldner n. 3c, also Oldenberg), because of the presence of Dadhikrā and because color terms often designate horses. (Cf., e.g., Renou “au (coursier) couleur-fauve de Mitra, au (coursier) brun de Varuṇa.”) But the introduction of two extraneous horses seems unlikely to me, in a hymn that barely strays from the dawn ritual context.
 
 The old and once widespread interpr. of māṃ̐ścatú-/ maṃ̐ścatóḥ is as a cmpd.
 

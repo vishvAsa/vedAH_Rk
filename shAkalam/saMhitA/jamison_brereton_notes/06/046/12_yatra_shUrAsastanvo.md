@@ -2,7 +2,7 @@
 title = "12"
 
 +++
-The publ. tr. contains a grammatical error. It takes priyā́as modifying fem.
+The published translation contains a grammatical error. It takes priyā́as modifying fem.
 
 pl. tanvàḥ, but the sandhi context of priyā́makes this impossible: it would have to be
 

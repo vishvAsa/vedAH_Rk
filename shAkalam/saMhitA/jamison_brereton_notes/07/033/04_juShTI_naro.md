@@ -12,5 +12,5 @@ The action Indra performs in response to the Vasiṣṭhas’ employment of the 
 
 As Geldner points out (n. 4c), śákvarī- is the name of a meter with martial associations. As he also points out, this fairly rare meter is found in the first three vss.
 
-of X.133, a hymn to Indra attributed to Sudās Paijavana, that is, the royal hero of the Ten Kings Battle, though there is no particular ref. to that battle in X.133. Since śákvarīṣu is plural here, it would be better tr. “in Sakvarī (verses)” than “in Śakvarī (meter),” as in the publ. tr. 39
+of X.133, a hymn to Indra attributed to Sudās Paijavana, that is, the royal hero of the Ten Kings Battle, though there is no particular ref. to that battle in X.133. Since śákvarīṣu is plural here, it would be better tr. “in Sakvarī (verses)” than “in Śakvarī (meter),” as in the published translation 39
 

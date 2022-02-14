@@ -14,5 +14,5 @@ I think the point is a cleverer one: the poet suggests that if the Maruts pay at
 
 By my rules, we might expect that anyáḥ in d should be definite (‘the other’) rather than the indefinite ‘another’ that better fits the passage (unless we assume that the anyáḥ is a rival poet). However, I suggest that nū́cid … anyáḥ is a composite negative indefinite expression like ná káś cid anyáh. Cf. VIII.24.11 nū́anyátrā cid … The cadence of d is bad. It is tempting to emend injunc. ādábhat to subj.
 
-ādábhāt, which would fix the meter and fit the sense (in fact, the publ. tr. renders the verb as if a subj.: ‘will … swindle’), though no doubt the temptation should be resisted.
+ādábhāt, which would fix the meter and fit the sense (in fact, the published translation renders the verb as if a subj.: ‘will … swindle’), though no doubt the temptation should be resisted.
 

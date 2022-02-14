@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-Although the general semantic range of the root-noun cmpd niḥsṛ́jaḥ in bc is fairly clear -- it refers to the releasing of the cows enclosed in the cowpen -- its grammatical identity is not. It can be either a transitive nom. pl., as I take it in the publ. tr. (so also tentatively Oldenberg and, it seems, Renou, Narten [SigAor. 266-67]), or a gen. or abl. infinitive (so Scarlatta, Witzel Gotō). In a sense it scarcely matters.
+Although the general semantic range of the root-noun cmpd niḥsṛ́jaḥ in bc is fairly clear -- it refers to the releasing of the cows enclosed in the cowpen -- its grammatical identity is not. It can be either a transitive nom. pl., as I take it in the published translation (so also tentatively Oldenberg and, it seems, Renou, Narten [SigAor. 266-67]), or a gen. or abl. infinitive (so Scarlatta, Witzel Gotō). In a sense it scarcely matters.
 
 I follow Narten (Sig.Aor. 266-67) in taking sákṣanta(ḥ) [-aḥ so Pp., not -e] to √sah ‘conquer, be victorious’ rather than √sac ‘accompany’ (so Grassmann; Geldner’s and Renou’s tr.
 

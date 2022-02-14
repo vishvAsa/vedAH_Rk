@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-Whatever the reason for the previous vs., syá vājy àruṣaḥ “this reddish race horse here” contrasts with the áruṣī(ḥ) ‘reddish (mares)’ in 6a. Although in the publ.
+Whatever the reason for the previous vs., syá vājy àruṣaḥ “this reddish race horse here” contrasts with the áruṣī(ḥ) ‘reddish (mares)’ in 6a. Although in the published
 
 tr. I identified the referent as Agni (and I still think he is a possible secondary referent), I now accept the view of Sāyaṇa., Geldner, and Renou that it is the Beipferd of the Maruts (see the parallels adduced by Geldner in n. 7a); otherwise the 2nd half of the vs. makes little sense. The mā́prohibitive in c contains what looks like a root aor. subjunctive karat.
 

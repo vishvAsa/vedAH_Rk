@@ -4,5 +4,5 @@ title = "12"
 +++
 On ṛjīpin see comm. ad IV.26.6.
 
-“In the waters” in the publ. tr. should be corrected to “in the rivers.” Geldner and Kümmel (256) take dadhanve as transitive (Geldner “… liess … laufen,” Kümmel “… hat laufenlassen…”), but the other examples of this medial perfect are intransitive (VIII.19.1, also taken by Kümmel as transitive, can be interpreted in the same way as this one), and the accusative can easily be a goal.
+“In the waters” in the published translation should be corrected to “in the rivers.” Geldner and Kümmel (256) take dadhanve as transitive (Geldner “… liess … laufen,” Kümmel “… hat laufenlassen…”), but the other examples of this medial perfect are intransitive (VIII.19.1, also taken by Kümmel as transitive, can be interpreted in the same way as this one), and the accusative can easily be a goal.
 

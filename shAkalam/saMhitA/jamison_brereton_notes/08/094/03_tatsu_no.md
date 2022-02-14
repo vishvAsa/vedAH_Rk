@@ -8,5 +8,5 @@ Any interpr. that requires aryáḥ to be some other case than abl. sg. needs to
 
 “All the bards” (víśve … kārávaḥ) here contrasts with “all the gods” (devā́ḥ … víśve) in the preceding verse, both sets of beings operating in the same territory, the ritual ground.
 
-The publ. tr. fails to tr. sádā ‘always’; it should read “… always sing them here …”
+The published translation fails to tr. sádā ‘always’; it should read “… always sing them here …”
 

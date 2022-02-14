@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-śávīra- rendered as ‘powerful’ in the publ. tr. But see disc. below ad I.30.17.
+śávīra- rendered as ‘powerful’ in the published translation But see disc. below ad I.30.17.
 
 dhíṣṇya- and related forms are obscure and much discussed; indeed Geldner
 

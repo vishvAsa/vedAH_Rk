@@ -4,5 +4,5 @@ title = "14"
 +++
 Geldner takes ohate as reflexive, but I prefer a passive interpretation here.
 
-The second half of the verse segues into the Emuṣa myth prominent in this part of VIII. For disc. see publ. intro.
+The second half of the verse segues into the Emuṣa myth prominent in this part of VIII. For disc. see published introduction.
 

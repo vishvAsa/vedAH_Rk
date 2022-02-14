@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-On the introductory gen. asyá referring to Indra, even though Indra is otherwise in the nominative in this verse (as subj. of papivā́n [b] and of vídhyat [d]), see disc. in intro. and in Jamison 2007 noted above.
+On the introductory gen. asyá referring to Indra, even though Indra is otherwise in the nominative in this verse (as subj. of papivā́n [b] and of vídhyat [d]), see disc. in introduction. and in Jamison 2007 noted above.
 
 The verse concerns Indra’s surreptitious drinking of his father’s soma right after birth, an act enabled by his mother (ab), and Indra and Viṣṇu’s vanquishing of the Emuṣa boar (cd), a rarely told tale. For Indra’s mother’s complicity in the soma drinking, see esp. III.48.2-3. In our passage Indra’s father is not directly referred to (only by initial maháḥ ‘of the great [one]’ in b), but the beginning of the next word promises the genitive of ‘father’ (i.e., pitúr), and only the final consonant of pitúm removes that possibility — one of the many tricks Nodhas plays on us in this hymn.
 

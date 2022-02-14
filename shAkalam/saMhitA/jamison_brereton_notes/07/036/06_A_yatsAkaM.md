@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-According to Oldenberg and Geldner, this vs. consists only of dependent clauses, and this is certainly true descriptively: there are two subordinate clauses marked by the subordinating conj. yád ‘when’ (a) and the rel. prn. yā́ḥ (c), one accented verb (suṣváyanta) in the rel. cl. of c, and no main verbs. In the publ. tr. I take d as a covert main clause, signalled only by the preverb abhí, with which I supply a verb of motion. However, it is perfectly possible that d is simply a continuation of the rel. cl.
+According to Oldenberg and Geldner, this vs. consists only of dependent clauses, and this is certainly true descriptively: there are two subordinate clauses marked by the subordinating conj. yád ‘when’ (a) and the rel. prn. yā́ḥ (c), one accented verb (suṣváyanta) in the rel. cl. of c, and no main verbs. In the published translation I take d as a covert main clause, signalled only by the preverb abhí, with which I supply a verb of motion. However, it is perfectly possible that d is simply a continuation of the rel. cl.
 
 of c, though I do not then know what to do with the abhí init. in d. Under the interpr.
 

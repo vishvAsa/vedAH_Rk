@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As noted in the publ. intro., this vs. is the hardest in the hymn and, as the middle vs., serves as an omphalos. It contains several temporal expressions and thus continues the theme of the passage of time found in the 2nd half of vs. 2, but the rest is rather unclear. My rendering is tentative and also differs considerably from those of others, the details of which cannot be fully covered here.
+As noted in the published introduction, this vs. is the hardest in the hymn and, as the middle vs., serves as an omphalos. It contains several temporal expressions and thus continues the theme of the passage of time found in the 2nd half of vs. 2, but the rest is rather unclear. My rendering is tentative and also differs considerably from those of others, the details of which cannot be fully covered here.
 
 Already in pāda a the alternation of days and nights is alluded to with the polarized expression ahanyèbhir aktúbhiḥ. Although the adjectival form of ahanyàseems to invite an interpr. whereby the word modifies the adjacent instr. pl.
 

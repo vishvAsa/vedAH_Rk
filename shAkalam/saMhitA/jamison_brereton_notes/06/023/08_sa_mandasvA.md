@@ -6,7 +6,7 @@ As in III.41.6 (=VI.45.27) mandasvā is not accented despite following hí; see 
 
 Pāda c lacks a verb, but the close parallelism of b and c (prá […] imé) and the semantic connection of the two nom. pl.s yajñā́saḥ and hávāsaḥ impose aśnuvantu from b.
 
-In c the 1st pl. prn. asmé, which could be either dat. or loc., doesn’t work very well as either. Geldner tr. “von uns,” which makes contextual sense but ill fits either possible case form. The publ. tr. takes it as loc., though the tr. is awkward.
+In c the 1st pl. prn. asmé, which could be either dat. or loc., doesn’t work very well as either. Geldner tr. “von uns,” which makes contextual sense but ill fits either possible case form. The published translation takes it as loc., though the tr. is awkward.
 
 I don’t know why the modal temperature has been raised, as it were, by precative yamyāḥ in d -- though it is the case that there are no 3rd sg. root aor. impvs. attested to √yam, perhaps because a putative *yaṃtu or *yantu would coincide with the much more common 3rd pl. root pres. impv. to √i ‘go’.
 

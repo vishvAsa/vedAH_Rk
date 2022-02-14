@@ -4,7 +4,7 @@ title = "41"
 +++
 On the relation between the first hemistich and vs. 40 see immed. above.
 
-The publ. tr. “… all blessings, consisting of offspring and easy to bear” is awkward and hard to parse. It might be better as “… all blessings, consisting of offspring - a light burden -,” with subhára- used in almost jocular fashion. It can simultaneously also refer to “easy birth,” with ref. to prajā́vatīḥ.
+The published translation “… all blessings, consisting of offspring and easy to bear” is awkward and hard to parse. It might be better as “… all blessings, consisting of offspring - a light burden -,” with subhára- used in almost jocular fashion. It can simultaneously also refer to “easy birth,” with ref. to prajā́vatīḥ.
 
 The unusually formed (pseudo-)āmreḍita áhar-divi ‘every day, day upon day’ is esp. interesting in light of the discussion of the two ‘day’ words ad vs. 19 above. It must be a substitute for the more orthodox āmreḍita áhar-ahar (6x) for metrical reasons: the standard cmpd. is metrically awk. With three light syllables in a row, it certainly won’t fit in any cadence and would be difficult anywhere in the vs. line but where it’s always found, pāda-initial (which isn’t all that great either - openings with light syllables in both 2 and 3, not to mention 1 and possibly 4, are quite irregular; see Arnold pp 194-95). It is puzzling, however, that the well-attested (47x) (also somewhat aberrantly formed) āmreḍita to the second ‘day’ stem here, namely divédive, was not used in our vs., since it would fit the cadence perfectly and is quite common in Jagatī cadences. In any case, at least áhar-divi suggests that there’s no clearcut difference of meaning or reference between áhar- and the forms of div-/dyuthat mean ‘day’.
 

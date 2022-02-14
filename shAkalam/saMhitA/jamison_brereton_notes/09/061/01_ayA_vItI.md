@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The publ. tr. fails to render the demon. ayā́that opens the hymn; more literal would be “flow around in this pursuit (of him) …” Geldner (n. 1) considers ayā́a kind of attraction from
+The published translation fails to render the demon. ayā́that opens the hymn; more literal would be “flow around in this pursuit (of him) …” Geldner (n. 1) considers ayā́a kind of attraction from
 
 *asya ‘of him’, the missing antecedent to yáḥ in b, but the prominent position of ayā́should
 be registered. Presumably ayā́vītī́is gesturing towards the physical ritual activity happening right now.

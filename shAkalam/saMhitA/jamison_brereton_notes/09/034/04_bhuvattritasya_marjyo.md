@@ -9,7 +9,7 @@ yád góbhiḥ ... samajyáse, IX.72.1 sáṃ dhenúbhiḥ ... ajyate; without s
 
 (“de formes-concrètes”). That this vs. is sandwiched between two vss. that contain the verb ‘milk’, 3c duhanti, 5b duhaté, further supports this interpr., though in both 3 and 5 the milk is not literal milk, but soma itself.
 
-The publ. tr. does not reflect the possible pun on sám … ajyate that was noted in
+The published translation does not reflect the possible pun on sám … ajyate that was noted in
 
 
 

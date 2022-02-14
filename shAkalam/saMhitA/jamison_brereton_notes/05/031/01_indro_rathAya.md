@@ -10,5 +10,5 @@ Note the stylistic quirk of post-verbal preverb in ásrjo ̥ [/sṛjó] ví OBJ 
 
 In c the usual placement of the rel. pronoun after at most one constituent is precariously observed (if at all), and in any case the yád is descriptively found deep in its clause. However, its placement (almost) conforms to the letter of the law: the voc. indra is extraclausal for these purposes, and mahā́ntam … párvatam though heavy is a single constituent. It’s the ví that may tip the balance towards noncompliance. On the other hand, the configuration PREV yá- VERB is so standard that this may determine the position of yád here.
 
-Technically speaking the opening clause of d may be part of the dependent clause in c (“when you pried apart … (and) set loose …”), with áva dānaváṃ han the sole main clause, but since in Vṛtra narratives there’s usually a cause-and-effect relationship between opening the mountain and letting the waters flow, I think the publ. tr. is the better choice.
+Technically speaking the opening clause of d may be part of the dependent clause in c (“when you pried apart … (and) set loose …”), with áva dānaváṃ han the sole main clause, but since in Vṛtra narratives there’s usually a cause-and-effect relationship between opening the mountain and letting the waters flow, I think the published translation is the better choice.
 
