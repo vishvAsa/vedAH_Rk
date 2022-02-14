@@ -18,32 +18,32 @@ unicode_script = "devanagari"
 
 ## पाठः
 देववचनम् -
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/01_mahattadulbaM_sthaviraM.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/01_mahattadulbaM_sthaviraM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 +++(“Fire is the equinoctial colure.” - Santillana and Dechend "The point where he enters the waters is the intersection with the celestial equator. They mention that the Aztecs took Castor and Pollux to be the fire sticks from which men learned to make fire.")+++
 
 अग्निवचनम् -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/02_ko_mA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/02_ko_mA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 +++(विषुवस्थानस्थो ऽनुराधास्थो मित्रः, उत्तरायणारम्भस्थानस्थः शतभिषक्स्थो वरुणः।)+++
 
 वरुणो ऽवदत् -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/03_aichChAma_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/03_aichChAma_tvA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++(विषुवस्थानस्थं कृत्तिकास्थम् अग्निम् भरणिस्थो यमो ऽचिकद् इति +उत्तरायणारम्भस्थानस्थः शतभिषक्स्थो वरुणो वक्ति! अथवा कृत्तिकाभिरग्नेस् सम्बन्धः केवलं ४३०० वर्षेभ्यः पूर्वम् अजायत। ततः प्राक् खलु रोहिण्याम् अग्निरवर्तत। किञ्च तदपि स्थानं युक्तम् - अश्मन्वतीतरणप्रकरणम् अग्रे वक्ष्यमाणम् अभिलक्ष्य।)+++
 
 अग्निः -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/04_hotrAdahaM_varuNa.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/04_hotrAdahaM_varuNa.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 वरुणः -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/05_ehi_manurdevayuryajnakAmo_araMkRtyA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/05_ehi_manurdevayuryajnakAmo_araMkRtyA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 अग्निः -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/06_agneH_pUrve.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/06_agneH_pUrve.md"  newLevelForH1="2" includeTitle="false"> </div>  
 +++("The mention of the archer shooting at the bull is important. It is an ancient motif in myth that is depicted in Egypt on the Dendera Zodiac. Here the goddess Satit shoots at Sirius which is the head of the Sothis cow! But in this instance the gaur bull is likely to be Taurus fleeing from the archer who is mR^igavyAdha (or could he gaur be another name for the antelope mR^iga?) for the Indo-Aryans.")+++
 
 देवाः -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/07_kurmasta_AyurajaraM.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/07_kurmasta_AyurajaraM.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/08_prayAjAnme_anuyAjA_Nshcha.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/08_prayAjAnme_anuyAjA_Nshcha.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 +++(The fore- and after-offerings are the pra-yAjas and anu-yAja oblations made in the aprI rite. The kevala is the agni-only offering in the main course of the ritual.)+++
 

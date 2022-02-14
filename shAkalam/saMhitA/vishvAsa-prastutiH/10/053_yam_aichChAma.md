@@ -6,32 +6,32 @@ unicode_script = "devanagari"
 (५२ इत्यस्यानुवर्तनम्। परिचयो ५१ इत्यस्मिन् दृश्यताम्।)
 
 मानुषाः -  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/01_yamaichChAma_manasA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/01_yamaichChAma_manasA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/02_arAdhi_hotA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/02_arAdhi_hotA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/03_sAdhvImakardevavItiM_no.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/04_tadadya_vAchaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/04_tadadya_vAchaH.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/05_pancha_janA.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/05_pancha_janA.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/06_tantuM_tanvanrajaso.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 यज्ञजिगमिषवो देवाः परस्परं ब्रुवते-  
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/07_axAnaho_nahyatanota.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/07_axAnaho_nahyatanota.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++("Yet the axle and ropes here allude to the world frame being set in place")+++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/08_ashmanvatI_rIyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/08_ashmanvatI_rIyate.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++( It clearly mentions crossing of the river ashmanvatI to the other side where the auspicious lies. This means that the new equinoctial position laid on the other side the ashmanvatI- the heavenly river the Milky Way... One can note that if the Milky was crossed by the equinoctial colure as indicated in the picture, the period was likely in a period after 4000 BC, possibly around 3700 BC by which the crossing was definitely over. - [MT](https://manasataramgini.wordpress.com/2006/11/26/the-crossing-of-ashmanvati/))+++
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/09_tvaShTA_mAyA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/09_tvaShTA_mAyA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/10_sato_nUnaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/10_sato_nUnaM.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/11_garbhe_yoShAmadadhurvatsamAsanyapIchyena.md"  newLevelForH1="2" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/053/11_garbhe_yoShAmadadhurvatsamAsanyapIchyena.md"  newLevelForH1="2" includeTitle="false"> </div>  
 
 +++("The yoShA being placed in the garbha is more obscure. Possibly it means Virgo, the yuvati being deposed from her place at the top of the ecliptic and being moved to the descent [Tilak mentions the Virgo full moon in the solsticial year beginning at an early era].")+++
 

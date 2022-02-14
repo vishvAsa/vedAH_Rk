@@ -6,19 +6,19 @@ unicode_script = "devanagari"
 (५१ इत्यस्यानुवर्तनम्। परिचयो ५१ इत्यस्मिन् दृश्यताम्।)
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/09_tava_prayAjA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/051/09_tava_prayAjA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/01_vishve_devAH.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/01_vishve_devAH.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/02_ahaM_hotA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/02_ahaM_hotA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/03_ayaM_yo.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/03_ayaM_yo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/04_mAM_devA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/04_mAM_devA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/05_A_vo.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/05_A_vo.md"  newLevelForH1="2" includeTitle="false"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/06_trINi_shatA.md"  newLevelForH1="2" includeTitle="false"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/vishvAsa-prastutiH/10/052/06_trINi_shatA.md"  newLevelForH1="2" includeTitle="false"> </div>
 
 (अङ्ग्रिमे ऽनुवर्तते।)
 

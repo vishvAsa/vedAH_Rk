@@ -1,5 +1,5 @@
 +++
-title = "+कैषितकम्"
+title = "+कौषितकम्"
 unicode_script = "devanagari"
 +++
 
