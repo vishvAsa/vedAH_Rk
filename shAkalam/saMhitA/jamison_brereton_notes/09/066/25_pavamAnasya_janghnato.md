@@ -2,9 +2,9 @@
 title = "25"
 
 +++
-With Ge and Re, I supply ‘darkness(es)’ (támāṃsi) as obj. of jáṅghnataḥ on the basis of 24c.
+With Geldner and Renou, I supply ‘darkness(es)’ (támāṃsi) as obj. of jáṅghnataḥ on the basis of 24c.
 
-I supply ‘drops’ with candrā́ḥ on the basis of III.40.4 candrā́sa índavaḥ, though Ge’s “Güsse” and Re’s “coulées de soma” certainly fit the context, too. My “drops” is indirectly supported by the additional descriptor jīrā́ḥ ‘lively’, which is most commonly found in the cmpd. jīrá-dānu- ‘having lively drops’, with a different word for drop.
+I supply ‘drops’ with candrā́ḥ on the basis of III.40.4 candrā́sa índavaḥ, though Geldner’s “Güsse” and Renou’s “coulées de soma” certainly fit the context, too. My “drops” is indirectly supported by the additional descriptor jīrā́ḥ ‘lively’, which is most commonly found in the cmpd. jīrá-dānu- ‘having lively drops’, with a different word for drop.
 
 Note the play jīrā́ajirá-. The cmpd ajirá-śocis- is a bit difficult to fit into context.
 

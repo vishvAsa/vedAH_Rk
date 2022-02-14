@@ -8,7 +8,7 @@ In pāda a sácamāna ūrmíṇā “keeping company with the wave” echoes 1c 
 
 There it most likely referred to the mixing of the soma juice with water, after the pressing. Here because of aṃśúḥ I think it refers to the initial soaking of the plant before pressing. This is supported by b, where it, namely the soaking water, swells the skin (pinvati tvácam) - the skin being, in my view, the outer surface of the plant.
 
-The adj. devāvī́- modifying ‘skin’ usually modifies soma itself (see Scar 498), referring to the juice’s journey after pressing to the place where it will be offered to the gods. Here the various moments in the ritual are collapsed: it is not the skin, but the juice pressed from the skin, that seeks the gods.
+The adj. devāvī́- modifying ‘skin’ usually modifies soma itself (see Scarlatta 498), referring to the juice’s journey after pressing to the place where it will be offered to the gods. Here the various moments in the ritual are collapsed: it is not the skin, but the juice pressed from the skin, that seeks the gods.
 
 However, in b the skin may also be the waterskin=cloud from which rain is produced (see, e.g., V.83.7) and in that case the plant of a could also be a cloud, roaring with thunder.
 

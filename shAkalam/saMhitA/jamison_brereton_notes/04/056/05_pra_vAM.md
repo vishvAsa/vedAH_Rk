@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-The phrase máhi dyávī is very problematic morphologically. It echoes the first two words of the hymn: mahī́dyā́vāpṛthivī “great Heaven and Earth,” but in a very refracted form. I do not have a solution for how it came to take the form it has (for various suggestions, see Old and the standard tr., as well as lit. cit. therein, e.g.
+The phrase máhi dyávī is very problematic morphologically. It echoes the first two words of the hymn: mahī́dyā́vāpṛthivī “great Heaven and Earth,” but in a very refracted form. I do not have a solution for how it came to take the form it has (for various suggestions, see Oldenberg and the standard tr., as well as lit. cit. therein, e.g.
 
 AiG III.52, 226). I can get a certain distance, quite speculatively, but no further. I tentatively suggest that we start with an alternative dual dvandva *dyā́vā-mahī́, with mahī́‘the great (fem.)’ substituting for ‘earth’. I then suggest that something like a Vāyav Indraś ca construction was created to it, with the 2nd member properly providing the first term of the construction (see my “Vāyav Indraś ca Revisited”).
 

@@ -13,4 +13,4 @@ The position of té is highly unusual; this pronominal stem overwhelmingly takes
 *tejana- as instr.: ‘who brings (all) to readiness *with his sharp (goad)’. But I now
 prefer a different value for -śrī́- ‘splendid with his sharp (goad)’ vel sim., more in keeping with my interpr. of other -śrī́- cmpds like ghṛta-śrī́- ‘splendid with ghee’.
 
-On the multiple semantic possibilities of -śrī́- cmpds see Scar (544-54); on this cmpd in particular, Scar (551): my interpr. is basically his choice B (though of course with jana- rather than tejana- as 1st member).
+On the multiple semantic possibilities of -śrī́- cmpds see Scarlatta (544-54); on this cmpd in particular, Scarlatta (551): my interpr. is basically his choice B (though of course with jana- rather than tejana- as 1st member).

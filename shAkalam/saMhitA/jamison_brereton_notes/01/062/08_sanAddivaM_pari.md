@@ -10,7 +10,7 @@ punarbhū́- later (already in the AV) has a specialized legal application as a 
 
 Though most take aktā́(which only appears here) as the ppl. of √añj ‘anoint’, serving as a poetic designation for ‘night’, I favor a root connection with the ‘night’ word, with zero-grade in the root syllable, esp. since aktú- ‘night’ is probably so connected (pace EWA s.v.). See EWA s.v. and AiG III.234, though both are skeptical. Of course secondary association with √añj would be natural.
 
-JL notes the chiasmic kṛṣṇébhir aktā́-uṣā́rúśadbhiḥ of c; for a similar chiasmus see 11c.
+Jesse Lundquist notes the chiasmic kṛṣṇébhir aktā́-uṣā́rúśadbhiḥ of c; for a similar chiasmus see 11c.
 
-JTK suggests that vápus- here and in other dawn/night passages refers to bridal clothing and suggests a tr. ‘finery’.
+Joshua T. Katz suggests that vápus- here and in other dawn/night passages refers to bridal clothing and suggests a tr. ‘finery’.
 

@@ -6,4 +6,4 @@ My “may you please placate” is meant to capture the precative (áva) yāsis�
 
 Note the phonetic figure straddling the hemistich boundary: b yāsisīṣṭhāḥ / c yájiṣṭhaḥ.
 
-In 4c, likewise 6b, HvN note the caesura after three (4c yájiṣṭho váhnitamaḥ, 6b devásya citrátamā). I wonder if the splv. suffix -tama- here is semi-detachable for metrical purposes, yielding an opening of 5 in both cases.
+In 4c, likewise 6b, Holland & van Nooten Rig Veda edition note the caesura after three (4c yájiṣṭho váhnitamaḥ, 6b devásya citrátamā). I wonder if the splv. suffix -tama- here is semi-detachable for metrical purposes, yielding an opening of 5 in both cases.

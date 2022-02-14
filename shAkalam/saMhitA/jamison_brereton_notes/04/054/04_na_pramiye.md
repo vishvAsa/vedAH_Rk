@@ -6,5 +6,5 @@ The standard tr. supply as subj. of pramíye and referent of tád the whole yát
 
 I then take the yáthā clause as a purpose clause. We shouldn’t violate Savitar’s commandment because we want him to (continue to) support the world.
 
-Although we generally expect the subjunctive in such clauses, the future is beginning to supercede the subjunctive in general and would make fine sense here. (Re states that this is the only ex. of yáthā with the future.)
+Although we generally expect the subjunctive in such clauses, the future is beginning to supercede the subjunctive in general and would make fine sense here. (Renou states that this is the only ex. of yáthā with the future.)
 

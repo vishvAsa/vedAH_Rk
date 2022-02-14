@@ -6,5 +6,5 @@ Note the alliteration in ab … putráḥ pita róḥ pavítravān, punā́ti �
 
 The “blazing milk” that the Sun milks is presumbly sunlight. I take the asya here as referring to the Sun and thus coreferential with the subject of the sentence. As discussed ad I.145.2, overt reflexive forms are not required in this syntactic situation.
 
-By contrast Ge thinks asya refers to Heaven and Earth (/the cow and the bull), but conceived of as a single person and hence represented by a singular pronoun. Re takes asya as referring only to the bull.
+By contrast Geldner thinks asya refers to Heaven and Earth (/the cow and the bull), but conceived of as a single person and hence represented by a singular pronoun. Renou takes asya as referring only to the bull.
 

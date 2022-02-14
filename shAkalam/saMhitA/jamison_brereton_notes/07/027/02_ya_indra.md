@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-The relative clause in the first pāda has no overt referent in the main clause of b, but I supply an instr. téna (see also Ge’s n.; his first alternative, to supply tám, is less attractive because śikṣa- doesn’t ordinarily take an acc.).
+The relative clause in the first pāda has no overt referent in the main clause of b, but I supply an instr. téna (see also Geldner’s n.; his first alternative, to supply tám, is less attractive because śikṣa- doesn’t ordinarily take an acc.).
 
 I interpret c as containing an implicit pun. The form vícetā(ḥ), masc. nom. sg.
 

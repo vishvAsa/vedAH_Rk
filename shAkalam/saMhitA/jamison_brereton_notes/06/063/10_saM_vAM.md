@@ -8,4 +8,4 @@ The voc. nāsatyā was omitted in the publ. tr.
 
 The voc. vīra is stubbornly sg., though the reference must be to the du. Aśvins.
 
-Perhaps, as MLW suggests, simply a shortened du. voc. 
+Perhaps, as Michael Weiss suggests, simply a shortened du. voc. 

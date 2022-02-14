@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-Old is disturbed by aramṇāḥ ‘brought to peace / to a stop’, when we would expect Indra to releasing the waters to flow. I’m not sure this is a problem: since the floods were hard pressed (badbadhānā́n), Indra could be soothing and quieting the tormented waters. Cf. also in the previous hymn V.31.8 apáḥ … áramayaḥ “you brought the waters to rest,” the same sentiment with the same root. However, it could also be an example of alluding to a sub-surface word by the overt use of its opposite, like bodháya- for *svāpáya in I.103.7; see comm. ad loc. In other words, aramṇāḥ could be signaling ‘set in motion’ by opposition to its literal sense ‘bring to a stop’.
+Oldenberg is disturbed by aramṇāḥ ‘brought to peace / to a stop’, when we would expect Indra to releasing the waters to flow. I’m not sure this is a problem: since the floods were hard pressed (badbadhānā́n), Indra could be soothing and quieting the tormented waters. Cf. also in the previous hymn V.31.8 apáḥ … áramayaḥ “you brought the waters to rest,” the same sentiment with the same root. However, it could also be an example of alluding to a sub-surface word by the overt use of its opposite, like bodháya- for *svāpáya in I.103.7; see comm. ad loc. In other words, aramṇāḥ could be signaling ‘set in motion’ by opposition to its literal sense ‘bring to a stop’.
 
 In any case the expected action is expressed later in the vs.: d sṛjó ví dhā́rā(h) “you set loose the streams,” in a species of poetic repair. See also comm. on vs. 2.
 

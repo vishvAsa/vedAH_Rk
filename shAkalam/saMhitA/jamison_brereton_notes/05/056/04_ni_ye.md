@@ -8,5 +8,5 @@ of √ri (though without preverb) takes trees as subj.: riṇaté vánāni “th
 
 What then does the simile in b have to do with this? Even unruly oxen are unlikely to dissolve trees. Because the images don’t easily harmonize, I now think that the simile in b should go with the 2nd hemistich: unruly oxen can cause the ground to shake. This is somewhat difficult to convey in tr. -- I might rearrange it to “like oxen averse to the yoke / they shake …” The phrase gā́vaḥ … durdhúraḥ echoes dudhró gaúḥ of 3d phonologically, even though the adjectives are entirely unrelated.
 
-As often Ge takes cid in c as a simile marker, a function for which there is no good evidence.
+As often Geldner takes cid in c as a simile marker, a function for which there is no good evidence.
 

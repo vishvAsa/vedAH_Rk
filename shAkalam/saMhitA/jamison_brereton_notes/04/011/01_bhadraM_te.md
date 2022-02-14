@@ -6,5 +6,5 @@ The second hemistich is full of phonological and etymological figures: drś̥ é
 
 árūkṣitam ... ā́rūpé.
 
-As Ge points out, Agni’s ‘not coarse’ (árūkṣita-) food must be ghee.
+As Geldner points out, Agni’s ‘not coarse’ (árūkṣita-) food must be ghee.
 

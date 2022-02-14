@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-As should be clear from the immed. preceding discussion, as elsewhere in IX I take dhā́māni ‘domains’ as referring to the filter and subsequent locales that the soma traverses, not, with Ge, Soma’s forms. (What Re means by “structures” is uninterpretable to me.) The physical locations on the ritual ground can also be viewed as the cosmic domains over which Soma has dominion - hence the hyperbolic statement in d, attributing universal rule to Soma.
+As should be clear from the immed. preceding discussion, as elsewhere in IX I take dhā́māni ‘domains’ as referring to the filter and subsequent locales that the soma traverses, not, with Geldner, Soma’s forms. (What Renou means by “structures” is uninterpretable to me.) The physical locations on the ritual ground can also be viewed as the cosmic domains over which Soma has dominion - hence the hyperbolic statement in d, attributing universal rule to Soma.
 
 On víśvasya bhúvanasya rājasi, see the identical phrase in 28b.
 

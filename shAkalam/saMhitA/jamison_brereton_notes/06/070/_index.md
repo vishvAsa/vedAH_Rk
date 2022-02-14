@@ -2,4 +2,4 @@
 title = "+070"
 
 +++
-Heaven and Earth Re XVP.121ff.
+Heaven and Earth Renou XVP.121ff.

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-This gods listed in this vs. are dual divinities, each with Indra as the first part of the pair and all expressed in dual dvandvas. All have the expected double accent except indrāgnī́in pāda a, which always lacks an accent on the first member in its numerous occurrences. Re suggests this is because the putative dual ending on
+This gods listed in this vs. are dual divinities, each with Indra as the first part of the pair and all expressed in dual dvandvas. All have the expected double accent except indrāgnī́in pāda a, which always lacks an accent on the first member in its numerous occurrences. Renou suggests this is because the putative dual ending on
 
 *índrā- is not perceived because of its coalescence with the initial vowel of agnī́.
 

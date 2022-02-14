@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-This first vs. is in Anuṣṭubh, as opposed to the rest of the hymn, which is Triṣṭubh, and it reads like a scene-setting introduction. Old suggests that it’s an addition.
+This first vs. is in Anuṣṭubh, as opposed to the rest of the hymn, which is Triṣṭubh, and it reads like a scene-setting introduction. Oldenberg suggests that it’s an addition.
 
 The natural history phenomenon corresponding to the “year-long vow” (saṃvatsarám … vrata-[cāríṇaḥ]) undertaken by the frogs is surely estivation, as was already suggested by H. H. Bender in 1917 (“On the Naturalistic Background of the ‘Frog-Hymn,’ RV VII. 103,” JAOS 37: 186-91). The rains (here embodied in Parjanya) trigger the emergence of the frogs, in a frenzy to mate—what is known as “explosive breeding.” A loud chorus of male vocalizations attends the mating, calling females to the breeding place.
 

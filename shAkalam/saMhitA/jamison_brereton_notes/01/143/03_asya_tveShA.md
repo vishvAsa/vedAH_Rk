@@ -6,9 +6,9 @@ The bahuvrīhi bhā́tvakṣasaḥ in c is generally taken as a gen. sg., modify
 
 The rest of pāda c presents other difficulties: it contains two apparent nominatives, sg. aktúḥ and pl. síndhavaḥ, both apparently part of the same simile.
 
-Moreover the prep./prev. áti has nothing to govern or construe with. Old allows an emendation to acc. pl. *aktū́n, producing the prep. phrase áti *aktū́n “across the nights,” which produces good sense. Ge refines this by suggesting that there is really a word haplology from *áty aktúm aktúr, with aktúr and síndhavaḥ forming what he calls elsewhere a loose karmadhāraya, tr. “gleich dem Farbenspiel der Flüsse” (sim.
+Moreover the prep./prev. áti has nothing to govern or construe with. Oldenberg allows an emendation to acc. pl. *aktū́n, producing the prep. phrase áti *aktū́n “across the nights,” which produces good sense. Geldner refines this by suggesting that there is really a word haplology from *áty aktúm aktúr, with aktúr and síndhavaḥ forming what he calls elsewhere a loose karmadhāraya, tr. “gleich dem Farbenspiel der Flüsse” (sim.
 
-Re “comme la surface-ointe (des) fleuves”). Since both also render the haplologized
+Renou “comme la surface-ointe (des) fleuves”). Since both also render the haplologized
 
 *aktúm/aktū́n as ‘night(s)’, they are also silently assuming a pun on aktú-, both ‘night’
 and a derivative of √añj ‘anoint, adorn’. My interpr. also assumes a haplology of

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The injunc sarji would probably be better tr. “has been sent surging,” per IH.
+The injunc sarji would probably be better tr. “has been sent surging,” per Ian Hollenbaugh.
 
 In c ā́pac chlókam indriyám seems illuminated by X.94.1 (one of the pressing stone hymns) ślókaṃ ghóṣam bhárathéndrāya “you bear your signal-call, your cry to Indra.” The ślóka- ‘signal call’ is the audible sign to Indra that soma is being prepared for him; in our passage I assume that the noisy journey of the soma after the filtering produces this ślóka-, just as the noise of the pressing stones in X.94.1 serves that purpose.
 

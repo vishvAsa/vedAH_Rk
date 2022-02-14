@@ -4,7 +4,7 @@ title = "20"
 +++
 The opening mó ṣú matches ó ṣú of 19a.
 
-On first glance this verse appears to contain a mā́prohibitive with a subjunctive karat (so tr. Ge), which would be grammatically quite anomalous.
+On first glance this verse appears to contain a mā́prohibitive with a subjunctive karat (so tr. Geldner), which would be grammatically quite anomalous.
 
 Hoffmann (1967: 92) claims that in the Sprachgefühl karat is an injunctive, but this seems extremely unlikely to me because the root aor. of √kr̥is one of the best attested of such formations, and though the stem kára- is well established, there is no evidence that it is not interpreted as a subjunctive. There's no augmented ákara- for example, and no thematic part. *kárant- or *káramāṇa-. I therefore take pāda a as an independent clause, with gapped prohibitive copula (“don’t be”) with mā́. Since the root √as doesn't form injunctives (or an aorist), there is in fact no way to make a prohibitive copular sentence in any other way.
 

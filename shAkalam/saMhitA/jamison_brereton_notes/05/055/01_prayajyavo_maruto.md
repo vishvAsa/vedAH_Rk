@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-The question about práyajyu- is how technically it is meant; I here follow Re.
+The question about práyajyu- is how technically it is meant; I here follow Renou
 
 The first hemistich recalls vs. 11 in the previous hymn, esp. in the bahuvrīhi rukmá-vakṣas- ‘with brilliants on their breasts’ (lit. ‘having breasts with brillants on them’, of the vájra-bāhu- type), which matches the nominal phrase V.54.11b vákṣassu rukmā́, but also in bhrā́jad-ṛṣti- ‘having glinting spears’, whose members are distributed differently in 54.11a áṃseṣu … ṛṣṭáyaḥ and b agníbhājasaḥ.
 

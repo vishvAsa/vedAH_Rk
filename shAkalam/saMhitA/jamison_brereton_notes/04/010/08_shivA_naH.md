@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The second pāda should read sántu bhrātrā́gne, with coalescence of the avowels. This also entails reading, out of sandhi, unaccented agne, contra Pp and HvN.
+The second pāda should read sántu bhrātrā́gne, with coalescence of the avowels. This also entails reading, out of sandhi, unaccented agne, contra Pp and Holland & van Nooten Rig Veda edition.
 
 The impv. sántu is accented because it’s initial in the pāda.
 

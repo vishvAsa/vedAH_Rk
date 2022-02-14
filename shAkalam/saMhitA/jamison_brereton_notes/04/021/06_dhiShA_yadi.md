@@ -4,7 +4,7 @@ title = "06"
 +++
 As indicated in the intro., I think vs. 6 simultaneously depicts the gods’ approach to the ritual ground and the Aṅgirases’ journey to the Vala cave. The rock (ádri-) to which they hasten is the pressing stone in the case of the gods and the Vala cave in the case of the Aṅgirases.
 
-In pāda a I interpret yádi as yád *ī, parallel to yád īm in 7a and 7c and yád(#)ī in 8d. For this phenomenon, see my 2002 "RVic sīm and īm.” With Ge I take ádrim as the goal of saraṇyā́n rather than construing it with sádantaḥ, allowing the latter participle to be construed with the loc. góhe (a stem found only here, in the three vss.
+In pāda a I interpret yádi as yád *ī, parallel to yád īm in 7a and 7c and yád(#)ī in 8d. For this phenomenon, see my 2002 "RVic sīm and īm.” With Geldner I take ádrim as the goal of saraṇyā́n rather than construing it with sádantaḥ, allowing the latter participle to be construed with the loc. góhe (a stem found only here, in the three vss.
 
 6-8).
 

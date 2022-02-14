@@ -6,5 +6,5 @@ The convoluted but rhetorically balanced expression sváḥ svā́ya dhā́yase 
 
 Most tr. struggle to construe stómaṃ yajñáṃ ca with the closest verb, vanéma.
 
-Somewhat against my principles, I instead take ā́d áraṃ, vanéma as parenthetical and construe the first NP with rarimā́. (I have displaced the tr. of the ā́d clause to the right, because the parenthetical tr. was difficult to parse.) In favor of this interpr. is the fact that the standard tr. require ā́d to be in a highly unusual position, in the middle of its supposed clause. As it happens, WG interpr. the syntax as I do.
+Somewhat against my principles, I instead take ā́d áraṃ, vanéma as parenthetical and construe the first NP with rarimā́. (I have displaced the tr. of the ā́d clause to the right, because the parenthetical tr. was difficult to parse.) In favor of this interpr. is the fact that the standard tr. require ā́d to be in a highly unusual position, in the middle of its supposed clause. As it happens, Witzel Gotō interpr. the syntax as I do.
 

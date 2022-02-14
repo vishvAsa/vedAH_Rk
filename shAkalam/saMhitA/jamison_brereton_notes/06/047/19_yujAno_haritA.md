@@ -4,7 +4,7 @@ title = "19"
 +++
 This vs. makes a small ring with vs. 15, both containing káḥ + SUBJUNCTIVE. The fact that this vs. is in a different meter (Bṛhatī, not Triṣṭubh) from the whole hymn that precedes it may also signal the end of a section. As indicated in the publ. intro., I think this vs. is meant as reassurance: in contrast to the endlessly multiplying Indra of vs. 18 (and the fickle Indra of the previous vss.), Tvaṣṭar has now taken control, yoking only a single team (for Indra’s journey, in my opinion) and exerting his dominion over forms, thus reining in Indra’s excess shape-shifting.
 
-Although the word rūpá- does not appear in the vs., it can be easily supplied with bhū́ri on the basis of Tvaṣṭar’s well-known role as shaper of forms (cf. Macd., Ved.
+Although the word rūpá- does not appear in the vs., it can be easily supplied with bhū́ri on the basis of Tvaṣṭar’s well-known role as shaper of forms (cf. Macdonell, Ved.
 
 Myth. 116, and passages like I.188.9, VIII.10.28, X.100.9, 184.1).
 

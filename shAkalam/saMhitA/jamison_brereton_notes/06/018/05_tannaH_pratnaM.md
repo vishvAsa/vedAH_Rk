@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-As the opening words of pāda b, itthā́vádadbhiḥ, indicate, the previous pāda is the direct speech of the Aṅgirases. In keeping with the two immediately preceding vss., I take astu as an existential: “let that partnership (still) exist.” The wording is otherwise very like IV.10.8 śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé. The clear loc. devéṣu in that passage anchors the loc. identity of yuṣmé both in that passage and this one. The loc. is somewhat odd: generally sakhyá- is construed with gen. or instr., as already set forth by Gr s.v. However, cf. VII.22.9 (=X.23.7), which also contains a pl.
+As the opening words of pāda b, itthā́vádadbhiḥ, indicate, the previous pāda is the direct speech of the Aṅgirases. In keeping with the two immediately preceding vss., I take astu as an existential: “let that partnership (still) exist.” The wording is otherwise very like IV.10.8 śivā́naḥ sakhyā́sántu ... devéṣu yuṣmé. The clear loc. devéṣu in that passage anchors the loc. identity of yuṣmé both in that passage and this one. The loc. is somewhat odd: generally sakhyá- is construed with gen. or instr., as already set forth by Grassmann s.v. However, cf. VII.22.9 (=X.23.7), which also contains a pl.
 
 ps. prn. in -e: asmé te santu sakhyā́śivā́ni. In the publ. tr. I take the asmé there as a dat.: “Let there be friendly fellowship of you for us.” But in light of the two parallel structures with yuṣmé, I think it must be a loc., and these three passages, each of which is rendered differently in the publ. tr., should be harmonized. I now think that all three are existential (although the two with śivá- could be equational, with a pred.
 

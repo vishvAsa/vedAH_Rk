@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-Although the adverb avár ‘downward’ occurs only here, beside more common avás, it is probably not the result of secondary alteration of avás-, since it has an Old Aves. correspondent auuarə̄(Y. 29.11).
+Although the adverb avár ‘downward’ occurs only here, beside more common avás, it is probably not the result of secondary alteration of avás-, since it has an Oldenberg Aves. correspondent auuarə̄(Y. 29.11).
 
 The accent on dādṛhí must be owing to its juxtaposition with immediately following śrudhí.
 

@@ -6,5 +6,5 @@ This verse displays a type of “poetic repair”: the first hemistich has a gra
 
 The spatial contrast in b between filling the midpace, but being himself enclosed by his own powers (muscle-bound?) is nice.
 
-jávana- occurs only here in the RV, but the -ana-suffix ordinarily makes transitive nominals (pace Ge’s “raschhandeln,” Re’s “véloce”).
+jávana- occurs only here in the RV, but the -ana-suffix ordinarily makes transitive nominals (pace Geldner’s “raschhandeln,” Renou’s “véloce”).
 

@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The usual tr. of this vs. tend towards the euphemistic -- e.g., Ge “Dieses Befrüchtungsmittel soll … sich fruchtbar zeigen”; Kulikov (-ya-pres., 153 with nn.
+The usual tr. of this vs. tend towards the euphemistic -- e.g., Geldner “Dieses Befrüchtungsmittel soll … sich fruchtbar zeigen”; Kulikov (-ya-pres., 153 with nn.
 
 373, 374) “Let this increase increase in these cows.” But √pṛc means ‘fill, engorge, mingle’, and with úpa, the preverb of intimacy, it takes on a distinctly sexual sense. I take it as ‘inseminate’ in this passage, especially because of the bull’s semen in c.
 

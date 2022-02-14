@@ -2,7 +2,7 @@
 title = "14"
 
 +++
-I supply loc. upahvaré(ṣu) in a because ádhi doesn’t take the genitive (so can’t be directly construed with girīṇā́m as Ge does), on the basis of the immediately preceding hymn VIII.6.28 upahvaré girīṇā́m and the Marut hymn I.87.2 upahvaréṣu yád ácidhvaṃ yayím, whose phraseology is very close to this.
+I supply loc. upahvaré(ṣu) in a because ádhi doesn’t take the genitive (so can’t be directly construed with girīṇā́m as Geldner does), on the basis of the immediately preceding hymn VIII.6.28 upahvaré girīṇā́m and the Marut hymn I.87.2 upahvaréṣu yád ácidhvaṃ yayím, whose phraseology is very close to this.
 
 I do not entirely understand what iva is doing here. Perhaps their wandering in the distant parts of the mountains is implicitly compared to their journey here.
 

@@ -4,13 +4,13 @@ title = "03"
 +++
 On the double etym. figure prá prajā́bhir jāyate, see comm. ad VIII.27.16.
 
-With Re I take dhármaṇas pári with a full lexical sense of each element, rather than, with Ge, as a weakened adverbial “pflichtgemäss” (dutifully). Heaven and Earth provide the physical foundation (dhárman-) starting from which the pious man can found his family line, just as Heaven and Earth themselves took their places (apart) according to the dhárman- of Varuṇa in 1c.
+With Renou I take dhármaṇas pári with a full lexical sense of each element, rather than, with Geldner, as a weakened adverbial “pflichtgemäss” (dutifully). Heaven and Earth provide the physical foundation (dhárman-) starting from which the pious man can found his family line, just as Heaven and Earth themselves took their places (apart) according to the dhárman- of Varuṇa in 1c.
 
 The abundant references to real liquids in vss. 1-2 find their metaphorical expression in the creatures ‘poured out’ (siktā́) from Heaven and Earth (d). This ppl.
 
 picks up the imperative rétaḥ siñcatam “pour the semen” addressed to H+E in 2d.
 
-However, I take the implicit subj. of siktā́to be bhúvanā ‘creatures’ vel sim. (see 1a), not, with Gr, rétāṃsi ‘semens’. prajā́ḥ ‘progeny, offspring’ from the previous pāda would also be possible; it would only require altering the Pp reading siktā́to fem. pl.
+However, I take the implicit subj. of siktā́to be bhúvanā ‘creatures’ vel sim. (see 1a), not, with Grassmann, rétāṃsi ‘semens’. prajā́ḥ ‘progeny, offspring’ from the previous pāda would also be possible; it would only require altering the Pp reading siktā́to fem. pl.
 
 siktā́ḥ, but no alteration to the Saṃhitā text.
 

@@ -2,4 +2,4 @@
 title = "+073"
 
 +++
-Bṛhaspati Re EVP XV.66-67.
+Bṛhaspati Renou EVP XV.66-67.

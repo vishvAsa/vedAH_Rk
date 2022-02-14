@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Both Ge and Re take the aor. injunc. paniṣṭa in c as modal, but the aor.
+Both Geldner and Renou take the aor. injunc. paniṣṭa in c as modal, but the aor.
 
 injunc. ánu dāt in d as general pres. (e.g., “Jetzt sei … gepriesen; … ordnet …”). But there is no reason that the first needs to be assigned modal value: the temporal adv.
 

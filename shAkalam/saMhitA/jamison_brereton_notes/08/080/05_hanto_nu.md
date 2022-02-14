@@ -8,5 +8,5 @@ imperative to √han ‘smite’ (flg. Thieme, Fremdl. 2-3, though EWA s.v. expr
 
 Metre) as popular. Here it continues the slangy tone set by baḍā́(1) and the questions in 3.
 
-Ge supplies a verb in c: “(uns bring) … Ruhm,” while I take the acc. neuter phrase there as a loose goal: “put … first for … fame.” Note that the vājayú qualifying śrávaḥ reappears in the next verse as a masc. modifying rátham.
+Geldner supplies a verb in c: “(uns bring) … Ruhm,” while I take the acc. neuter phrase there as a loose goal: “put … first for … fame.” Note that the vājayú qualifying śrávaḥ reappears in the next verse as a masc. modifying rátham.
 

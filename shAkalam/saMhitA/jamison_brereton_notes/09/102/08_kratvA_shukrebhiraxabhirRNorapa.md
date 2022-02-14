@@ -6,6 +6,6 @@ As noted several times above, this is the first and only time that Soma is refer
 
 On ṛṇóti + ápa / ví see comm. ad I.58.3. In our passage Soma has been made the protagonist of the Vala myth (see Ober II.217).
 
-In the publ. tr. I tr. the verb as a preterite, but I would now be inclined to render it as a general pres. (sim. to KH’s view, Injunk. 122), as a repeated ritual action performed by Soma reenacting the Vala myth.
+In the publ. tr. I tr. the verb as a preterite, but I would now be inclined to render it as a general pres. (sim. to Hoffmann’s view, Injunk. 122), as a repeated ritual action performed by Soma reenacting the Vala myth.
 
 On the 4-syl. afterthought pāda prā́dhvaré, which is found several times in Uṣṇih or its equivalent, see comm. ad VIII.12.31-33. I argue there that it is a truncated version of the fairly widespread loc. absol. prayaty àdhvaré “while the ceremony is pro(ceeding).” I would now change the tr. here to “… spurring the visionary power of truth while the ceremony is pro(ceeding).” Once again the final pāda is a semi-separable unit.

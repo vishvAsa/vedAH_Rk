@@ -8,4 +8,4 @@ On duróṣa- see EWA s.v. This rare and unclear word, appearing 3x in the RV (I
 
 it so, I’m assuming a Vedic-internal folk etymology from an opaque inherited word; the tr. therefore has no implications for the meaning of the Avestan word or for IIr.
 
-etymology. Sāy’s interpr. of the word in two of the three passages falls squarely in this realm: VIII.1.13 oṣitum anyair dagdham aśaktyā(ḥ), IX.101.3 … durdahaṃ durvadhaṃ vā
+etymology. Sāyaṇa’s interpr. of the word in two of the three passages falls squarely in this realm: VIII.1.13 oṣitum anyair dagdham aśaktyā(ḥ), IX.101.3 … durdahaṃ durvadhaṃ vā

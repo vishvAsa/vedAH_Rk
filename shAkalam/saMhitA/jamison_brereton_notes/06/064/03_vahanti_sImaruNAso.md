@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As Ge points out (n. 3cd), the acc. śátrūn must be read as the obj. of both similes and acc. támaḥ ‘darkness’ as the obj. of both frames, though the former only appears in c and the latter in d. The two similes compare Dawn not only to a male figure, but to a skillful, highly trained male warrior: archer and chariot-driver.
+As Geldner points out (n. 3cd), the acc. śátrūn must be read as the obj. of both similes and acc. támaḥ ‘darkness’ as the obj. of both frames, though the former only appears in c and the latter in d. The two similes compare Dawn not only to a male figure, but to a skillful, highly trained male warrior: archer and chariot-driver.
 
 In c the simile marker iva occurs after the 2nd term, not the 1st (might expect
 
