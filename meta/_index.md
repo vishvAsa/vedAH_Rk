@@ -1,13 +1,11 @@
 +++
-title = "+अधिवेदम्"
+title = "+अध्य्-ऋग्वेदम्"
 unicode_script = "devanagari"
 +++
 
 
-## Ignorance and distasteful recommendations
-- There is a lot of good knowledge (ie. jjnAna), but also a bit of ignorance (ajJNAna) and distasteful (to modern people) recommendations in the veda-s (which are not necessarily wrong).
-- muNDaka upaniShat denounces pravRtti-dharma.
-
-## Boundaries of the veda
-- Arya-samAja founder dayAnanda-sarasvatI paraphrased- "चार वेद संहिता अपौरुषेय हैं और ब्राह्मण,आरण्यक, षड्दर्शन,उपनिषद् और अष्टाध्यायी वगैरह ऋषियों के बनाये ग्रन्थ हैं।"
-- Certain sects consider a few other works as equal to the veda-s.
+## खिलानि
+परम्परायां यथा अधीयते तथा स्वराः शास्त्रीयेण अर्थनियमेन न मिलन्ति बहुत्र ।
+खिलत्वात् ऋग्वेदेऽपि निर्दिष्टः स्वरः न निर्धारित इव भाति । (पाठभेदाः श्रूयन्ते)
+काशीकर महाभागैः स्वीय मुद्रणे बहुकोशसमीक्षापुरस्सरं वैविध्यमेव दृश्यत इति कथितम्।
+वैदिकसंशोधनमण्डलस्य खिलभागे पश्यन्तु ।
