@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-My understanding of this difficult and disputed vs. is set forth in the publ. tr.
+My understanding of this difficult and disputed vs. is set forth in the published translation
 
 I will not engage here in detail with the various alternative interpr. offered by others.
 
@@ -12,5 +12,5 @@ In my interpr. of b, with dawns as subj., one could expect a fem. agent noun
 
 *viyotrī́-, but -tár- forms can serve for fem. as well, esp. as an attributive (so better tr.
 
-“they (the dawns) as discriminators …”). As pointed out in the publ. tr., the dawns “discriminate” because they separate night and day. Oldenberg has a clever, but I think ultimately incorrect, suggestion that instead of uchā́n we should read *yuchā́n to √yu ‘separate’, providing an etymological figure ví … *yuchā́n viyotā́raḥ, exactly parallel to vidhātā́ro ví … dadhuḥ in the flg. pāda. (Oldenberg seems also to consider only to reject this idea.) The grammatical identity of rurucanta is unclear. Lubotsky calls it a pf. subjunctive, and Geldner and Thieme (Plusq. 46) interpr. it as hortative. But the zero-grade would be anomalous for a subjunctive. Kümmel (430-31) takes it rather as an injunctive, although he does not see a clear injunctive context (though generell-erwähnende Funktion seems possible). I also interpr. it as injunctive, in the publ. tr. with preterial sense, though “shine” would work as well in context.
+“they (the dawns) as discriminators …”). As pointed out in the published translation, the dawns “discriminate” because they separate night and day. Oldenberg has a clever, but I think ultimately incorrect, suggestion that instead of uchā́n we should read *yuchā́n to √yu ‘separate’, providing an etymological figure ví … *yuchā́n viyotā́raḥ, exactly parallel to vidhātā́ro ví … dadhuḥ in the flg. pāda. (Oldenberg seems also to consider only to reject this idea.) The grammatical identity of rurucanta is unclear. Lubotsky calls it a pf. subjunctive, and Geldner and Thieme (Plusq. 46) interpr. it as hortative. But the zero-grade would be anomalous for a subjunctive. Kümmel (430-31) takes it rather as an injunctive, although he does not see a clear injunctive context (though generell-erwähnende Funktion seems possible). I also interpr. it as injunctive, in the published translation with preterial sense, though “shine” would work as well in context.
 

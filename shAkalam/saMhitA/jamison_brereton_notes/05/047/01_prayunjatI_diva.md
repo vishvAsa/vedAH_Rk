@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As noted in the publ. intro., I take the subj. of this riddling vs. to be manīṣā́ ‘poetic inspiration’, but until this word appears (end of pāda c), the vs. both invites an identification of the subject with Dawn and makes that impossible. The nom. sg.
+As noted in the published introduction, I take the subj. of this riddling vs. to be manīṣā́ ‘poetic inspiration’, but until this word appears (end of pāda c), the vs. both invites an identification of the subject with Dawn and makes that impossible. The nom. sg.
 
 participles prayuñjatī́and bodháyantī are characteristic Dawn vocabulary, but Dawn is also regularly identified as “the daughter of heaven,” which phrase is here in the genitive: diváḥ … duhitúḥ. It is her “great mother” (mahī́mātā́) who is the grammatical subj.
 

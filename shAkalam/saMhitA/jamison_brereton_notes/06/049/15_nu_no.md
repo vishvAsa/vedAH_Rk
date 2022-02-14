@@ -2,7 +2,7 @@
 title = "15"
 
 +++
-The publ. tr. should read “the herdsman of great truth,” since gopā́m modifies rayím.
+The published translation should read “the herdsman of great truth,” since gopā́m modifies rayím.
 
 With Oldenberg I read cakrámāma, a pf. subj., not ca krámāma, pace Klein (DGRV I.188, 190). This reading is accepted by Kümmel (147 and n. 146).
 

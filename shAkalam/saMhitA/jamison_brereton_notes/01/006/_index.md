@@ -2,7 +2,7 @@
 title = "+006"
 
 +++
-Indra and the Maruts (per Anukr.) As noted in the intro. the Anukramaṇī’s identification of the divinities as Indra (1-3, 10), Maruts (4, 6, 8-9), and Indra and Maruts (5, 7) does not conform to the content of the hymn, which is quite disjointed, but appears to concern, at least in part, the Vala myth. The Maruts do not seem to figure at all in the hymn; the plural entities with Indra are probably the Aṅgirases. For my view of the structure (which is informed by the discussions of Geldner and Oldenberg), see publ. intro.
+Indra and the Maruts (per Anukr.) As noted in the introduction. the Anukramaṇī’s identification of the divinities as Indra (1-3, 10), Maruts (4, 6, 8-9), and Indra and Maruts (5, 7) does not conform to the content of the hymn, which is quite disjointed, but appears to concern, at least in part, the Vala myth. The Maruts do not seem to figure at all in the hymn; the plural entities with Indra are probably the Aṅgirases. For my view of the structure (which is informed by the discussions of Geldner and Oldenberg), see published introduction.
 
 I.6.1-2: These verses begin identically (yuñjánti ‘they yoke’), inviting the audience to equate the action of the two verses.
 

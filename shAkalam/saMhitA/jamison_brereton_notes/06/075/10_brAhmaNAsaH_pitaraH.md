@@ -2,7 +2,7 @@
 title = "10"
 
 +++
-This is the last vs. of the first part of the hymn (see publ. intro.), at least by content, though the next vs. is also in trimeter meter, and it has a typically eclectic group of addressees and divine name-checks.
+This is the last vs. of the first part of the hymn (see published introduction.), at least by content, though the next vs. is also in trimeter meter, and it has a typically eclectic group of addressees and divine name-checks.
 
 Pāda b could be simply a nominal sentence: “H+E (are) kindly to us,” but the hortatory cast of the 2nd hemistich makes this unlikely.
 

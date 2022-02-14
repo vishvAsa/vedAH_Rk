@@ -4,7 +4,7 @@ title = "12"
 +++
 The first hemistich of this vs. is structured exactly like the more expansive 10a-c above: with a vocative soma in the 1st pāda and a following 3rd ps.
 
-verb (pipye), which owes its 3rd ps. to attraction to the simile surrounding it, síndhur ná … árṇasā. Geldner (n. 12b) explicitly attributes the 3rd ps. pipye to “Attraktion an den Vergleich,” though he keeps the 2nd and 3rd ps. strictly separate in vs. 10. The 2nd ps. in the publ. tr., “you have swollen forth,” should, strictly speaking, be in parens.
+verb (pipye), which owes its 3rd ps. to attraction to the simile surrounding it, síndhur ná … árṇasā. Geldner (n. 12b) explicitly attributes the 3rd ps. pipye to “Attraktion an den Vergleich,” though he keeps the 2nd and 3rd ps. strictly separate in vs. 10. The 2nd ps. in the published translation, “you have swollen forth,” should, strictly speaking, be in parens.
 
 Geldner and Renou make heavier weather of the 2nd hemistich than I think nec. or desirable. Because they strictly break the syntax at the end of b, they need to find something to do with the instr. phrase that opens c, aṃśóḥ páyasā, which then leads them to interpr. jā́gṛviḥ as (unprecedentedly) transitive, which then leads them to supply an obj. for it - way too much machinery for something that can be far more simply interpr. The impetus for all this, the instr. phrase in c, can easily be taken as part of the simile/frame construction starting in b, with páyasā corresponding to árṇasā in the simile.
 

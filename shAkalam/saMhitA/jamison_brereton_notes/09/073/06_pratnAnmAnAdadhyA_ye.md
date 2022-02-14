@@ -4,7 +4,7 @@ title = "06"
 +++
 Geldner interpr. mā́na- as “Tonweise” and then imposes a musical-mode interpr.
 
-on the whole 1st hemistich, an interpr. that infects Renou as well. With Oldenberg I find this “zweifelhaft.” In the publ. tr. it is rendered ‘edifice’; for mā́na- as some sort of building see VII.88.5, where JPB tr. ‘mansion’. Because of the structural parallelism with 5a (see comm. above), I would prefer that this abl. phrase refer to a place. The “ancient edifice” can be both soma’s seat in heaven and the place, or seat, on the ritual ground where soma mixes with the milk and the priest-poets sing their hymns.
+on the whole 1st hemistich, an interpr. that infects Renou as well. With Oldenberg I find this “zweifelhaft.” In the published translation it is rendered ‘edifice’; for mā́na- as some sort of building see VII.88.5, where JPB tr. ‘mansion’. Because of the structural parallelism with 5a (see comm. above), I would prefer that this abl. phrase refer to a place. The “ancient edifice” can be both soma’s seat in heaven and the place, or seat, on the ritual ground where soma mixes with the milk and the priest-poets sing their hymns.
 
 For a similar phrase see I.107.5 pratnáṃ sadhástham ā́sadat “he [=Soma] has taken his ancient seat.” As for ślóka-yantra-, in my view it simply expresses the fact that sound - both the sound of the soma streams and the sound of the hymns of the priest-poets - guides and accompanies the soma along the journey of its preparation.
 

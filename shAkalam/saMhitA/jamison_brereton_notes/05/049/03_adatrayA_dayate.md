@@ -9,7 +9,7 @@ The hapax adatrayā́is universally taken as an adverbial instr. built to a fem.
 
 would refer to the standard journey of gods to the sacrifice, bringing goods to distribute to the sacrificers; note the presence of the same root √yā in prayā́ṇam ‘advance’ in the preceding vs. 2a, referring to the same advent of the god(s) at the sacrifice.
 
-As noted in the publ. intro., the vs. seems to refer to the distribution of dakṣiṇās, a ritual event that in RVic times happened at the dawn sacrifice (as here: vásta usráḥ), not at the Midday Pressing as in classical śrauta ritual.
+As noted in the published introduction, the vs. seems to refer to the distribution of dakṣiṇās, a ritual event that in RVic times happened at the dawn sacrifice (as here: vásta usráḥ), not at the Midday Pressing as in classical śrauta ritual.
 
 This phrase vásta usráḥ is found 3 other times, all pāda final, with the other three occurrences (IV.25.2, VII.69.5, VIII.46.26; cf. also VI.3.6 vasta usrā́ḥ) containing usrā́ḥ. Although Grassmann classifies vásta as the 3rd sg. med. pres. of √vas ‘wear’ (that is, pausal form váste; so Pp.), it is clear from the phraseology that it must belong with √vas ‘dawn’, and is most likely a form of the loc. to vástu- ‘dawning’; see AiG III.153-54 with lit. cited there. I do not entirely understand the mechanism that produced the form we have, and in fact several different pathways have been suggested. Wackernagel simply attributes it to shortening of -ā in *vástā usr… <
 

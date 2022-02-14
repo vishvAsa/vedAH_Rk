@@ -2,7 +2,7 @@
 title = "16"
 
 +++
-Each pāda in this vs. contains a simile marked by ná comparing the Maruts to domestic animals (a, d), spirits (b), and children (c). Except in c, the simile begins the pāda. The vs. contains only one finite verb, śubháyanta, in b; the functional role of the finite verb is filled instead by the adjectives that are the point of 85 contact between the simile and the frame. In the publ. tr. I deliberately failed to render ab as the rel. cl. it technically is because the “which Maruts … they …” structure would have intruded upon the succession of similes.
+Each pāda in this vs. contains a simile marked by ná comparing the Maruts to domestic animals (a, d), spirits (b), and children (c). Except in c, the simile begins the pāda. The vs. contains only one finite verb, śubháyanta, in b; the functional role of the finite verb is filled instead by the adjectives that are the point of 85 contact between the simile and the frame. In the published translation I deliberately failed to render ab as the rel. cl. it technically is because the “which Maruts … they …” structure would have intruded upon the succession of similes.
 
 In b opinion is divided on the sense of yakṣa-dṛ́ś-. Geldner takes -dṛ́ś- as active, with the first member in an acc. relationship with it (“Geisterseher”), flg. Sāyaṇa. in his analysis of the syntax of the cmpd., though not of the meaning of the first member.
 

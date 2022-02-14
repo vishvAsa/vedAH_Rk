@@ -2,7 +2,7 @@
 title = "13"
 
 +++
-I don’t understand the point and syntactic status of the (pseudo-)izafe construction paramám yát sadhástham, and I therefore left out the yád in the publ. tr.
+I don’t understand the point and syntactic status of the (pseudo-)izafe construction paramám yát sadhástham, and I therefore left out the yád in the published translation
 
 It may simply be a relative clause “what is his highest seat” with the main verb fronted around it.
 

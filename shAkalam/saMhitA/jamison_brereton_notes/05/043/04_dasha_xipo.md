@@ -6,7 +6,7 @@ In b the agent noun śamitár- most naturally belongs with the forms of √śam 
 
 In the 2nd hemistich Geldner and Witzel Gotō (cf. also Oldenberg) take c and d as separate clauses, utilizing the verb duduhe for both and supplying a priest (Geldner: Adhvaryu) as subj. of c.
 
-The reason is nom. sugábhastiḥ lit. ‘having good fists’, which must otherwise modify aṃśú- ‘plant’. With Renou, in the publ. tr. I take cd as a single clause with sugábhastiḥ … aṃśúḥ a single NP, assuming that ‘having good fists’ of the soma plant means that the plant has received good handling from the fists of its preparer. (Renou, by contrast, tr.
+The reason is nom. sugábhastiḥ lit. ‘having good fists’, which must otherwise modify aṃśú- ‘plant’. With Renou, in the published translation I take cd as a single clause with sugábhastiḥ … aṃśúḥ a single NP, assuming that ‘having good fists’ of the soma plant means that the plant has received good handling from the fists of its preparer. (Renou, by contrast, tr.
 
 “aux beaux rameaux,” with gábhasti- referring metaphorically to the growth habits of the plant.) I now think my interpr. pushes the bahuvrīhi further than it should go, so I would now emend the tr. to “(The priest,) having good fists, has milked out the sap of the honey that dwells on the mountain; the plant has milked out its own shimmering, pure (sap).” It is likely that the verb underlying pāda c should be active (perhaps *dudoha); when middle forms like duduhe take an object, the subject is usually a cow or cow-substitute (as here) producing milk from itself.
 

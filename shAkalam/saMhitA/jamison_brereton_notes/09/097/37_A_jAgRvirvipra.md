@@ -14,7 +14,7 @@ The standard tr. also construe gen. pl. matīnā́m with ṛtā́, whatever sens
 > 107.24
 víprāso matíbhiḥ, X.6.5 víprāso matíbhiḥ, X.25.10 matíṃ víprasya, X.64.16 matíbhiḥ … vípraḥ, X.123.1 víprā matíbhiḥ; cf. also IX.71.3, X.11.6 vépate matī.
 
-I therefore construe matī̃nā́m with vípraḥ in the publ. tr., as a loosely descriptive gen. In cd the phrase mithunā́saḥ … adhvaryávaḥ is taken by Geldner (fld. by Renou) as referring to the pair (or presumably multiple pairs, given the pl.) of Adhvaryu and Hotar. Although at least I.83.2, which he adduces for this sense, does seem to refer to that pair of two priests, in the dual, I think the pl. here instead refers to rivalrous priests at competing sacrifices, which must be implicit in Geldner’s rendering, given the pl. They could be pairs of Adhvaryu and Hotar or (more likely in my opinion) just multiple Adhvaryus, each performing in a separate sacrifice.
+I therefore construe matī̃nā́m with vípraḥ in the published translation, as a loosely descriptive gen. In cd the phrase mithunā́saḥ … adhvaryávaḥ is taken by Geldner (fld. by Renou) as referring to the pair (or presumably multiple pairs, given the pl.) of Adhvaryu and Hotar. Although at least I.83.2, which he adduces for this sense, does seem to refer to that pair of two priests, in the dual, I think the pl. here instead refers to rivalrous priests at competing sacrifices, which must be implicit in Geldner’s rendering, given the pl. They could be pairs of Adhvaryu and Hotar or (more likely in my opinion) just multiple Adhvaryus, each performing in a separate sacrifice.
 
 
 

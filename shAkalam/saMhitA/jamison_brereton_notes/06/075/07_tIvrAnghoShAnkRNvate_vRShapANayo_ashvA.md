@@ -4,7 +4,7 @@ title = "07"
 +++
 The middle of kṛṇvate is nicely appropriate.
 
-The publ. tr. follows Renou in taking vājáyantaḥ as belonging to the denom. stem ‘seek the prize’, despite the accent (expect *vājayántaḥ), since we would otherwise expect the part. to have an object. See also Oldenberg, ZDMG 55.294 (=KlSch 753).
+The published translation follows Renou in taking vājáyantaḥ as belonging to the denom. stem ‘seek the prize’, despite the accent (expect *vājayántaḥ), since we would otherwise expect the part. to have an object. See also Oldenberg, ZDMG 55.294 (=KlSch 753).
 
 In its other RVic occurrence (X.163.4) prápada- means ‘front of the foot’, but here I find it hard to assume that the horses are daintily trampling the soldiers with their tippy-toes and so tr. “with their forefeet.” However, since technically it seems that horses do walk/run on their toes, perhaps that’s what the poet intended.
 

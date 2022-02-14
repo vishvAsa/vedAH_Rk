@@ -6,5 +6,5 @@ I take ví … ceti to √ci ‘pile’; see comm. ad I.90.4. Renou assigns it t
 
 stem.
 
-The final word of the vs., várūtham, recalls varūtā́, the final word of the 1st pāda of the hymn (1a). As indicated in the publ. intro., I consider vss. 3-5 to be a response to the question posed in the hymn’s first pāda.
+The final word of the vs., várūtham, recalls varūtā́, the final word of the 1st pāda of the hymn (1a). As indicated in the published introduction, I consider vss. 3-5 to be a response to the question posed in the hymn’s first pāda.
 

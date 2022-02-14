@@ -6,5 +6,5 @@ As noted ad loc., the first hymn of Maṇḍala IV begins identically (IV.1.1.a)
 
 Geldner construes the gen. asyā́dhiyáḥ with both manótā and hótā, but the latter doesn’t usually govern a genitive.
 
-The sīm in c presumably refers to the dhī́- of b. The publ. tr. could be slightly altered to “made it into power …”; so Geldner “… machtest es zu … Macht.” On the infinitival construction in cd, see also Keydana (253). Note the attraction of the object of sáhadhyai into the dative case (víśvasmai sáhase). Pāda d is also noteworthy in having three forms of √sah, though two belong to the same s-stem.
+The sīm in c presumably refers to the dhī́- of b. The published translation could be slightly altered to “made it into power …”; so Geldner “… machtest es zu … Macht.” On the infinitival construction in cd, see also Keydana (253). Note the attraction of the object of sáhadhyai into the dative case (víśvasmai sáhase). Pāda d is also noteworthy in having three forms of √sah, though two belong to the same s-stem.
 

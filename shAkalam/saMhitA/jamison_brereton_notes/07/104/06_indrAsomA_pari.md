@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-As disc. in the publ. intro., this vs. closes the first section of the hymn, at least as I understand the structure. 140 The preverb pári appears with √hi ‘impel’ only here in the RV (and, acdg. to Mon Wms., all of Skt.). It seems to have been suggested by the pári in pāda a, construed with √bhū, in the meaning ‘encircle’. The idiom pari √hi ‘impel around’ does not make much sense, unless the image is of hótrā- compared to horses made to circle a race track. Renou thinks rather that it reprises pári bhūtu in a: “l’offrande que (je ceins) autour (de vous en la) poussant” -- but this seems more trouble than it’s worth: he is forced to supply the crucial verb (je ceins: ‘gird, buckle on’) while relegating the actual verb stem hinomi to a participial adjunct (“en … poussant”).
+As disc. in the published introduction, this vs. closes the first section of the hymn, at least as I understand the structure. 140 The preverb pári appears with √hi ‘impel’ only here in the RV (and, acdg. to Mon Wms., all of Skt.). It seems to have been suggested by the pári in pāda a, construed with √bhū, in the meaning ‘encircle’. The idiom pari √hi ‘impel around’ does not make much sense, unless the image is of hótrā- compared to horses made to circle a race track. Renou thinks rather that it reprises pári bhūtu in a: “l’offrande que (je ceins) autour (de vous en la) poussant” -- but this seems more trouble than it’s worth: he is forced to supply the crucial verb (je ceins: ‘gird, buckle on’) while relegating the actual verb stem hinomi to a participial adjunct (“en … poussant”).
 
 hótrā- is of course completely -- and not very interestingly -- ambiguous between ‘libation’ and ‘invocation’.
 

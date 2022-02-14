@@ -2,9 +2,9 @@
 title = "09"
 
 +++
-In pāda a the publ. tr. reads “And (let) these (convey me)”; the “me” should not be in parens.
+In pāda a the published translation reads “And (let) these (convey me)”; the “me” should not be in parens.
 
-The bahuvrīhi krátvāmagha- is curiously formed, with instr. krátvā as its first member, and the publ. tr. “the bounty of his intentions” oversimplifies its structure in order to avoid impossibly awkward English: a full tr. of b would be “(the horses displaying/constituting) the bounty (produced) by his intention at the time of giving in[/of] the ceremony.” In other words, the horses that the poet receives possess (that is, embody) Mārutāśva’s bounty effected by his intention (to give). See 8d.
+The bahuvrīhi krátvāmagha- is curiously formed, with instr. krátvā as its first member, and the published translation “the bounty of his intentions” oversimplifies its structure in order to avoid impossibly awkward English: a full tr. of b would be “(the horses displaying/constituting) the bounty (produced) by his intention at the time of giving in[/of] the ceremony.” In other words, the horses that the poet receives possess (that is, embody) Mārutāśva’s bounty effected by his intention (to give). See 8d.
 
 Geldner takes vidáthasya as a PN, the patron whose patronymic is Mārutāśva, and Mayrhofer (PN s.v.) seems to agree. But there seems no reason not to interpr. it as an example of the well-attested common noun ‘ceremony (of distribution)’, esp. since it fits this context so well. Witzel Gotō do not follow Geldner
 

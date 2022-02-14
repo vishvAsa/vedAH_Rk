@@ -2,9 +2,9 @@
 title = "10"
 
 +++
-As noted in the publ. intro., the second part of the hymn begins here, but it clearly pivots on the sun, which figured in the two preceding vss.
+As noted in the published introduction, the second part of the hymn begins here, but it clearly pivots on the sun, which figured in the two preceding vss.
 
-My interpr. of this much discussed vs. is presented in the publ. intro., but in compressed fashion. As noted there, I think this has to do with the separation of noxious liquid from beneficial liquid, a feat ascribed in natural terms to the sun and in mythological terms to Indra. When “I fasten the poison on the sun” (pāda a), I am counting on the purificatory power of the sun to neutralize or banish the poison. This ritualistic action is matched in pāda b by fastening the skin onto the house of the surā-possessor. Surā is an alcoholic beverage of some sort (generally tr.
+My interpr. of this much discussed vs. is presented in the published introduction, but in compressed fashion. As noted there, I think this has to do with the separation of noxious liquid from beneficial liquid, a feat ascribed in natural terms to the sun and in mythological terms to Indra. When “I fasten the poison on the sun” (pāda a), I am counting on the purificatory power of the sun to neutralize or banish the poison. This ritualistic action is matched in pāda b by fastening the skin onto the house of the surā-possessor. Surā is an alcoholic beverage of some sort (generally tr.
 
 ‘Branntwein’, ‘brandy’, et sim., though, acdg. to James McHugh [p.c.], it is unlikely that the technology of distilling was known to Vedic India, so probably some sort of beer; see now McHugh forthcoming [JAOS], “The Ancient Indian Alcoholic Drink Called Surā: Vedic Evidence”) and a universally condemned evil twin to soma, though it gets used in some śrauta rituals, particularly the Sautrāmaṇī. The appearance of the surā-possessor (súrāvant-) in b is owing to two factors: on the one hand, as just noted, surā is a taboo drink and is therefore equivalent to the poison (viṣá-) in pāda a. On the other, the word súrā- is phonologically reminiscent of ‘sun’ sū́rya- in pāda a.
 

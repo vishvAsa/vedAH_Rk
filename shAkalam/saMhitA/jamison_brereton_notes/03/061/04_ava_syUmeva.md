@@ -12,7 +12,7 @@ is similar, “letting her reins drop downward,” though he thinks it refers to
 
 + PREVERB tend to show fairly extreme idiomaticity.
 
-Arnold (Ved. Met., 300) suggests reading uṣā́ā́yāti for simple uṣā́yāti, which would yield an 11-syl. line. Oldenberg is tempted but seems to favor the transmitted reading; Renou, however, is convinced. Holland & van Nooten Rig Veda edition reject it without explan. (“a rest at the 5th place seems preferable”). I would follow Arnold and Renou, and therefore the publ. tr.
+Arnold (Ved. Met., 300) suggests reading uṣā́ā́yāti for simple uṣā́yāti, which would yield an 11-syl. line. Oldenberg is tempted but seems to favor the transmitted reading; Renou, however, is convinced. Holland & van Nooten Rig Veda edition reject it without explan. (“a rest at the 5th place seems preferable”). I would follow Arnold and Renou, and therefore the published translation
 
 should be emended to “drives here.” Pāda d is taken by Geldner and Renou (and me) as containing one of the relatively rare RVic occurrences of ā́+ following abl. in the meaning ‘all the way to’. The source of this counterintuitive use of the abl. can be seen in passages like this, where ‘all the way to’ and ‘all the way from’ are essentially identical in sense: the light of dawn stretches throughout the midspace, and the directionality (from/to heaven/earth) is irrelevant.
 

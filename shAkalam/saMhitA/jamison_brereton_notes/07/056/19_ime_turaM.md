@@ -2,7 +2,7 @@
 title = "19"
 
 +++
-As was noted above, this vs. contains three examples of the near-deictic imé, opening the first three pādas. The publ. tr. only fully renders the first one, as three examples of “these here” seemed too heavy. It is also worth noting that, though the imé forms might suggest the presence of the Maruts right here at the sacrifice (as was suggested above), the clauses in which they are found describe general activities of those gods, which would almost necessarily be performed away from the ritual ground.
+As was noted above, this vs. contains three examples of the near-deictic imé, opening the first three pādas. The published translation only fully renders the first one, as three examples of “these here” seemed too heavy. It is also worth noting that, though the imé forms might suggest the presence of the Maruts right here at the sacrifice (as was suggested above), the clauses in which they are found describe general activities of those gods, which would almost necessarily be performed away from the ritual ground.
 
 Both Geldner and Renou follow the Pp. reading sáhasaḥ. Renou interpr. it rather loosely as an abl., whereas Geldner takes it as a gen. and as if it were the differently accented poss.
 

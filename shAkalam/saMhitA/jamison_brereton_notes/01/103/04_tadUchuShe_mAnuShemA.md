@@ -14,5 +14,5 @@ The referent of tád in the first clause is unclear. Though it may be nā́ma, a
 
 In d the expected epithet “son of strength” is truncated, lacking the śávasaḥ, but the phonologically and derivationally parallel śrávase that immediately follows sūnúḥ would evoke it.
 
-On this verse as an omphalos, see publ. intr.
+On this verse as an omphalos, see published intr.
 

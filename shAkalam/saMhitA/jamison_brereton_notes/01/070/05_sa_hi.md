@@ -7,7 +7,7 @@ The interpretation of kṣapā́vant- as ‘earth-protector’, containing a zer
 With a suggestion of Scarlatta (1999: 303), we could then analyze kṣapā́vant- as based on a syntagm with original predicative instrumental (kṣapā́“[he is] with night”), which was then provided with a -vant- possessive suffix. Scarlatta (1999: 303) also suggests other ways to incorporate kṣáp-‘night’, e.g., by haplology from
 
 *kṣápā + pā́- ‘protecting by night’ (his reconstructed initial accent reflects a posited
-adverbial accent shift from inst. kṣapā́; see p. 303 and n. 452). The exact details matter less than the fact that the Vedic audience could likely see a pun in this word, between kṣa- as a combining form of kṣám- ‘earth’ and kṣap- ‘night’. The publ. tr.
+adverbial accent shift from inst. kṣapā́; see p. 303 and n. 452). The exact details matter less than the fact that the Vedic audience could likely see a pun in this word, between kṣa- as a combining form of kṣám- ‘earth’ and kṣap- ‘night’. The published translation
 
 “protector of riches on earth” reflects the standard Western interpr., though with an adjustment to incorporate rayīṇā́m; I do believe that the pun on ‘night’ was available to the audience, however. (See also X.29.1 and Jamison 2015 [Gerow Fs., IJHS 19].) It should also be noted, however, that the analysis ‘earth-protector’ for kṣapā́vān is reinforced in the next vs. (6ab) by an apparent paraphrase etā́… bhūmā ní pāhi “protect these worlds.” The poet seems to be even-handedly offering alternative views of kṣapā́vān.
 

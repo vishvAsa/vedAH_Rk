@@ -2,5 +2,5 @@
 title = "+112"
 
 +++
-As noted in the publ. intro., this hymn has no apparent connection with soma except for the refrain.
+As noted in the published introduction, this hymn has no apparent connection with soma except for the refrain.
 

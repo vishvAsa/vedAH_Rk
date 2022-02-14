@@ -8,5 +8,5 @@ In c eṣām is hard to construe. I follow Oldenberg in accepting the BR emendat
 
 *eṣám ‘quick’. Oldenberg cites the parallel in the very next hymn VII.40.5 víṣṇor eṣásya.
 
-As Oldenberg points out, the corruption can have arisen on the basis of likewise pāda-final eṣām in 2a. There are of course no metrical consequences. The emendation was not explicitly signaled in the publ. tr., which should read “… Viṣṇu, *the quick.” Neither Geldner nor Renou accepts (or even takes note of) this emendation.
+As Oldenberg points out, the corruption can have arisen on the basis of likewise pāda-final eṣām in 2a. There are of course no metrical consequences. The emendation was not explicitly signaled in the published translation, which should read “… Viṣṇu, *the quick.” Neither Geldner nor Renou accepts (or even takes note of) this emendation.
 

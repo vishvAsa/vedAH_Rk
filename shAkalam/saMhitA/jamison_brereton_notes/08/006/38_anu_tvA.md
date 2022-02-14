@@ -2,7 +2,7 @@
 title = "38"
 
 +++
-The publ. tr. of a and c may be difficult to parse in English: “after you (roll)…” does not contain a temporal conjunction (“after”) followed by a subject + verb, but rather a prepositional phrase (“after you,” that is, “following you”) followed by a verb with postposed subject (“both worlds” / “the drops”).
+The published translation of a and c may be difficult to parse in English: “after you (roll)…” does not contain a temporal conjunction (“after”) followed by a subject + verb, but rather a prepositional phrase (“after you,” that is, “following you”) followed by a verb with postposed subject (“both worlds” / “the drops”).
 
 The isolated verb form varti is, curiously, identified as an injunctive by Lubotsky, despite the apparent primary ending. Grassmann considers it a development of *vart-ti, which is phonologically possible. I don’t have a firmly founded analysis of it, but I wonder, since outside of the perfect, intransitive forms of √vṛt are medial, if this is actually a “passive aorist,” which displays the expected strong form and -i ending, in which case Lubotsky’s inj. label would be correct.
 

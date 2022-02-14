@@ -16,5 +16,5 @@ The standard interpr. (see Geldner, etc.) of mithunā́ni nā́ma is that their 
 
 and pṛthivī́fem. But they are also paired sisters, with the fem. du. designation ródasī.
 
-This seems correct, and the publ. tr. should probably have reflected this sense of mithuná- better. I am somewhat puzzled by why the names are in the plural, however.
+This seems correct, and the published translation should probably have reflected this sense of mithuná- better. I am somewhat puzzled by why the names are in the plural, however.
 

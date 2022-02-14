@@ -2,7 +2,7 @@
 title = "30"
 
 +++
-As noted in the publ. intro., this vs. is extremely puzzling and my tr. and interpr.
+As noted in the published introduction, this vs. is extremely puzzling and my tr. and interpr.
 
 are at best speculative. Oldenberg’s comments are useful in clearing away the detritus of the more fanciful interpr., but neither he nor the other standard comm. have cracked the code: see Geldner’s n. 30a with lit. The syntax and the sequence of events are quite straightforward: someone’s axe has disappeared (contra Grassmann, nanāśa must belong to ‘disappear’, not ‘reach’; the ‘disappear’ association is now generally agreed upon), and Soma is asked to bring it back through his purification (the common idiom ā́√pū). But whose axe? and why an axe in this context? and what does a rat have to do with it? To begin with the 1st question: most take alā́yyasya as a PN (“the axe of Alāyya”), which saves trouble but doesn’t help us in deciphering the verse. Grassmann derives it from √lī and tr. ‘sich nicht duckend’; Mayr (EWA s.v.) simply pronounces it “unklar.” I suggest that it belongs to √rā ‘come to / be at rest’, with an l-form like iláyati (see Narten, “Ved. iláyati …,” 1968; Jamison, -áya-, 48-49, EWA s.v. RĀ3 ). I would interpr. it as a gerundive like - pā́yya- (√pā both ‘drink’ and ‘protect’), as well as the more numerous extended stems of the type śravā́yya-, whose -ā- does not belong to the root. A parallel negated form (though again not to a ā-root) may be found in atasā́yya- ‘unshakeable’; see comm. ad I.63.6. I suggest that alā́yya- means ‘not able to be brought to rest, not to be stilled’.
 

@@ -8,5 +8,5 @@ The function of the word in its pāda is also unclear, as there is no obvious ne
 
 cakṣaṇam from b in a, and the neut. adj. dharṇasí from a in b.
 
-The publ. tr. fails to tr. vaḥ in a, so modify the tr. to “Is your (vision) of truth steadfast?” This helps solve one of the small puzzles of the verse: given Varuṇa in b and Aryaman in c, we might expect Mitra in a -- but instead we have “you,” as in 5c, referring to the gods in general. As for the larger meaning of the questions, it may be that the poet is asking whether rt̥á is always the same (= pūrvyám r̥tám of 4c and pratnā́... ā́hutiḥ of 5d) or whether the gods change the rules on us.
+The published translation fails to tr. vaḥ in a, so modify the tr. to “Is your (vision) of truth steadfast?” This helps solve one of the small puzzles of the verse: given Varuṇa in b and Aryaman in c, we might expect Mitra in a -- but instead we have “you,” as in 5c, referring to the gods in general. As for the larger meaning of the questions, it may be that the poet is asking whether rt̥á is always the same (= pūrvyám r̥tám of 4c and pratnā́... ā́hutiḥ of 5d) or whether the gods change the rules on us.
 

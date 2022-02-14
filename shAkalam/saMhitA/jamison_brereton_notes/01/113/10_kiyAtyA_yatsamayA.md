@@ -2,7 +2,7 @@
 title = "10"
 
 +++
-As noted in the publ. intro., this is the most challenging verse of the hymn.
+As noted in the published introduction, this is the most challenging verse of the hymn.
 
 Note the phonetic figure kíyāti(y) ā́yát samáyā bhávāti, which may help account for the unusual lengthening in kíyāti (for expected kíyati, which is the Pp.
 

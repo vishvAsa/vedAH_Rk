@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As noted in the publ. intro., the “pot” that is to be kicked is mostly likely an stingy patron, as Geldner suggests. The whole vs. has a slangy and informal feel.
+As noted in the published introduction, the “pot” that is to be kicked is mostly likely an stingy patron, as Geldner suggests. The whole vs. has a slangy and informal feel.
 
 The problematic pāda is b. On the one hand, if we take the voc. indo seriously, this leaves ná badly positioned for a simile marker: it should follow dā́nam. But if dā́nam is supposed to be a simile, the expression is pretty slack: if dā́nam is ‘gift’, we want Soma to push the gift itself, not something compared to a gift. For both reasons Geldner suggests that ná marks not a standard simile but an Utprekṣā, and, even so, that ná is in the wrong position.
 

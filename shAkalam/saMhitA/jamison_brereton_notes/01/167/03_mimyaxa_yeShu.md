@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-For the punning and diametrically opposed, negative and positive readings of this vs. mediated by sabhā́vatī, see the publ. intro. Rodasī is depiced both as fit for the sabhā (gaming hall) like a young woman who goes there in secret [=whore], but also fit for the sabhā (assembly) like speech to be publicly uttered there (cf. the sabhéyo vípraḥ “the inspired poet appropriate to the sabhā in II.24.13). For the association between the sabhā and licentious sexual activity, see Falk (Bruderschaft, 90-92).
+For the punning and diametrically opposed, negative and positive readings of this vs. mediated by sabhā́vatī, see the published introduction. Rodasī is depiced both as fit for the sabhā (gaming hall) like a young woman who goes there in secret [=whore], but also fit for the sabhā (assembly) like speech to be publicly uttered there (cf. the sabhéyo vípraḥ “the inspired poet appropriate to the sabhā in II.24.13). For the association between the sabhā and licentious sexual activity, see Falk (Bruderschaft, 90-92).
 
 Geldner (/Hoffmann, Witzel Gotō) take úparā … ṛṣṭíḥ as the lower part of the spear and consider the shared characteristic between simile and frame to be híraṇyanirṇik ‘garbed in gold’, presumably referring to the decorated hilt or handle of the spear.
 

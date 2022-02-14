@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-For the image in pāda a see the publ. intro.
+For the image in pāda a see the published introduction.
 
 The point of the simile in the final pāda is somewhat obscure. The frame -- “to be extolled by the mouth” (āsā́… vándyāsaḥ) -- is unimpeachable, referring to the poet’s oral praise, but why would gods be compared to cows and/or oxen for this quality? Surely the Maruts are inherently more praiseworthy than cows! Geldner suggests that it’s like the praise of bovines at work (like the horses in I.27.1, though this passage does not seem similar); Witzel Gotō tr. “(sie sind) die Kühe mit dem Mund, wie die zu lobenden Jungstiere” and suggest that such cows are esp. sichtlich. This interpr.
 

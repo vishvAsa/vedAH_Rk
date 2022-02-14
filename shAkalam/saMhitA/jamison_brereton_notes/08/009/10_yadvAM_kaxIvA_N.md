@@ -6,5 +6,5 @@ The final pāda here is a variant of 3c and 9d, but the circumstances differ fro
 
 They are both models and, to a certain extent, rivals.
 
-Pṛthi in the publ. tr. should be corrected to Pṛthī.
+Pṛthi in the published translation should be corrected to Pṛthī.
 

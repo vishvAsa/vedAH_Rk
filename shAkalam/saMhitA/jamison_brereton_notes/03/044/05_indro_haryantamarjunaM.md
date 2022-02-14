@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-As noted in the publ. intro., the insistently golden vajra of vs. 4 (háritam … ā́yudham … vájram … hárim) is transformed into a silvery one (árjunaṃ, vájram), but keeps the har phonology in the participle haryántam ‘gladdening’, also modifying the vajra. A different color-type term, śukrá- ‘gleaming, bright’ is also used of the accoutrements of the weapon; the instr. pl. śukraíḥ is again a surprise: we would expect háribhiḥ.
+As noted in the published introduction, the insistently golden vajra of vs. 4 (háritam … ā́yudham … vájram … hárim) is transformed into a silvery one (árjunaṃ, vájram), but keeps the har phonology in the participle haryántam ‘gladdening’, also modifying the vajra. A different color-type term, śukrá- ‘gleaming, bright’ is also used of the accoutrements of the weapon; the instr. pl. śukraíḥ is again a surprise: we would expect háribhiḥ.
 
 And in fact we get two forms of the latter in the last hemistich. In one of them the poet uses the sandhi trick he employed in 3c to produce an initial dh: (ápāvṛṇod) dháribhiḥ, which allows the sequence dháribhiḥ ádribhiḥ to read as a virtual anagram.
 

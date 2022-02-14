@@ -12,5 +12,5 @@ The form viśíkṣu- in d is taken by Grassmann as belonging to the desid. of �
 
 This may also be the view of Witzel Gotō, who tr. “Du bist williger Verteiler,” again without disc., so they may in fact simply reproduce Grassmann’s understanding of the semantics. Oldenberg does not sketch out the morphology, but it presumably rests on *śi-śs-su-, with zerograde root and simplification of the medial sibilant cluster śss arising from the two radical sibilants and the desiderative suffix. The finite verb ví śikṣa in IV.35.3 (also a Ṛbhus context) belongs here as well. Heenen (Desid., 232-33) mentions this possibility though without great enthusiasm (“La possiblité … n’est pas exclue”).
 
-The publ. tr. “seek to carve up and to stretch out the sacrifice” implies that ātániḥ is desiderative. This was not meant, and the tr. should perhaps be emended to “seek to carve up the sacrifice, as the one who stretches it out” or “… as you stretch it out.”
+The published translation “seek to carve up and to stretch out the sacrifice” implies that ātániḥ is desiderative. This was not meant, and the tr. should perhaps be emended to “seek to carve up the sacrifice, as the one who stretches it out” or “… as you stretch it out.”
 

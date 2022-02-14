@@ -12,7 +12,7 @@ adj. and take ūtī́separately.
 
 As in 4a this clause contains both a full 1st pl. pronoun (asmé) and the enclitic 2nd pl. vaḥ. As there, I think the 2nd ps. referent is the patrons, in addition to the 1st ps.
 
-ritual officiants, but, once again, a tr. “be preeminent among us for you” seems clumsy, and I did not render the vaḥ in the publ. tr.
+ritual officiants, but, once again, a tr. “be preeminent among us for you” seems clumsy, and I did not render the vaḥ in the published translation
 
 I take the fem. subject of d-g to be personified durmatí-, with Geldner Others, going back to Sāyaṇa, take it to be the jūrṇí- of g (see Geldner n. 8d), but I think that belongs to a simile.
 

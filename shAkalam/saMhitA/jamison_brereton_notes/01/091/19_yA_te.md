@@ -8,5 +8,5 @@ Note the disharmony in number between the neut. pl. subj. (tā́viśvā) and the
 
 as if in a mass. English “all this” can be similarly used, after a listing of discrete entities. The Sanskrit has just been more punctilious about maintaining number agreement.
 
-Geldner, Renou, Witzel Gotō all supply ‘lifetime’ as the implicit object of pratáraṇaḥ, rather than my ‘us’; they are most likely correct, given how common the idiom ā́yus- prá √tṝ is. I might change the publ. tr. to “lengthening (our lifetime).”
+Geldner, Renou, Witzel Gotō all supply ‘lifetime’ as the implicit object of pratáraṇaḥ, rather than my ‘us’; they are most likely correct, given how common the idiom ā́yus- prá √tṝ is. I might change the published translation to “lengthening (our lifetime).”
 

@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-Renou tr. pāda a “Que cet (acte) de Pavamāna se réalise donc ...” I would prefer this rendering of satyám to the “true” of Geldner and the publ. tr., but it is even harder to square with the augmented impf. akṛṇot (c) (and probably prā́vat in d, since √av has no injunctives) that expresses the content of the satyám (“true” is bad enough).
+Renou tr. pāda a “Que cet (acte) de Pavamāna se réalise donc ...” I would prefer this rendering of satyám to the “true” of Geldner and the published translation, but it is even harder to square with the augmented impf. akṛṇot (c) (and probably prā́vat in d, since √av has no injunctives) that expresses the content of the satyám (“true” is bad enough).
 
 Perhaps the poet is suggesting that some have expressed doubt that Soma accomplished the deeds described in cd, even though kārú-s are agreed that he did, and that he (our poet) wants them to be true. This covert skepticism might well be justified, since all the deeds in cd are attributed elsewhere to other gods. On the other hand, see nearby IX.94.5, where Soma is urged to “make broad light” (urú jyótiḥ kṛṇuhi).
 

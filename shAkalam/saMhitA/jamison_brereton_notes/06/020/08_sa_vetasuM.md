@@ -22,5 +22,5 @@ Although the 6th cl. pres. sṛja- is predominately active, there are a few midd
 
 I take the inf. iyádhyai to √i ‘go’, or more particularly to the stem ī́yate ‘speeds’ (√i or √yā), rather than to √yā ‘implore, beg’ with Lubotsky It simply completes the action of the main verb “release/depatch them to go …” The preverb ā́beginning the 2nd hemistich is more likely to go with this inf. than with úpa srjai (pace Grassmann, also Geldner, who thinks [n. 8c] it could go with either one), simply because we’d otherwise expect the order úpa+ā́(cf. VIII.27.11 úpa … ā́m̐, ásṛkṣi …).
 
-After all this, the alterations of the publ. tr. would be minimal: “Indra showed the favor of his dominance to Vetasu [=Kutsa?] of the ten tricks and ten arms and to the thrusting (Tuji), (saying) ‘Tugra as perpetual vassal for brilliant (Vetasu=Kutsa?) shall I dispatch, like (calves) to their mother, to speed (to him).’”
+After all this, the alterations of the published translation would be minimal: “Indra showed the favor of his dominance to Vetasu [=Kutsa?] of the ten tricks and ten arms and to the thrusting (Tuji), (saying) ‘Tugra as perpetual vassal for brilliant (Vetasu=Kutsa?) shall I dispatch, like (calves) to their mother, to speed (to him).’”
 

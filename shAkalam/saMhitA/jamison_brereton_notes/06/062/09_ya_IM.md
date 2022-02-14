@@ -2,7 +2,7 @@
 title = "09"
 
 +++
-As noted in the publ. intro., the syntax of this vs. is unregulated. However, the sense is quite clear. The first hemistich consists of a rel. clause, whose rel. prn.
+As noted in the published introduction, the syntax of this vs. is unregulated. However, the sense is quite clear. The first hemistich consists of a rel. clause, whose rel. prn.
 
 and finite verb are both in the 3rd sg.: yáḥ … cíketat “who will keep watch”; it also contains another verbal form, vidádhat, which I take, with Geldner and Oldenberg, as a pres.
 

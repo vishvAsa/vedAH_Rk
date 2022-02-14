@@ -8,7 +8,7 @@ The voc. phrase in b, pájrāyā garbha, likewise causes a problem, though not o
 
 The standard interpr. of prá carā in c is as 2nd sg. impv. addressed to Soma, and this is certainly possible. But I think it is equally possible that, in this 1st ps.
 
-context, it’s a 1st sg. subjunctive, and the contents of the poet’s direct speech announced in immed. preceding brávīmi te. This is how it is rendered in the publ. tr.
+context, it’s a 1st sg. subjunctive, and the contents of the poet’s direct speech announced in immed. preceding brávīmi te. This is how it is rendered in the published translation
 
 The sú in c is in an unusual position, but it is in the same position as sú in the preceding hymn, IX.81.3, attributed to the same poet. There Oldenberg suggested (and I followed) reading it with the following noun as cmpd. *sucetúnā. I follow the same path here, reading *sujīváse, though this time without Oldenberg’s imprimatur. The case here is not as strong. With regard to IX.81.3 the putative cmpd sucetú- exists independently, while the transmitted stem cetú- does not. Here the opposite is true: the infinitival dat. jīváse is quite well attested, whereas sujīvás- is not found. This gives me pause about the emendation, but even without it, I think that sú should be read with jīváse and with its lexical value, not merely as a particle: “… to live well.”
 

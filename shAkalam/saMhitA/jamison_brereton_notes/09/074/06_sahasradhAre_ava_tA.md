@@ -8,6 +8,6 @@ The interpr. of the 2nd hemistich is complicated by the unclear hapax nā́bha�
 
 Why “four” is not entirely clear. Our passage might be illuminated by IX.89.5 cátasra īṃ ghrtad ̥ úhaḥ sacante “four, yielding ghee as their milk, accompany him” if there is any illumination to be gotten from that passage. Cf. also I.62.6, VIII.100.10, both with fem. ‘four’ and varieties of liquid nourishment. The most likely explanation for the “four” is suggested by Geldner’s tr of nā́bhaḥ as “Zitzen(?)” (see also his n. 6c). Although I do not think that nā́bh- means ‘teat’ directly, I think the number four suggests that the streams here are likened to them: cows generally have four teats.
 
-Another similarity between this passage and IX.89.5 leads me to alter the publ. tr. here. The four in our passage are níhitāḥ (ní √dhā), which, with Renou, I tr.
+Another similarity between this passage and IX.89.5 leads me to alter the published translation here. The four in our passage are níhitāḥ (ní √dhā), which, with Renou, I tr.
 
 “hidden.” But this ppl. is paralleled in IX.89.5 by the fuller phrase samāné antár dharúṇe níṣattāḥ “set down within the same support,” with an almost synonymous ppl. cmpd ní-ṣatta-: ní √sad), also characterizing the four. There I take níṣatta- in its literal sense and suggest that the “same support” might be the udder itself. I now wonder if níhitāḥ should also be taken literally here and mean “the four, deposited (in the udder), bursting …”

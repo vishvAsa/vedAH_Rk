@@ -4,7 +4,7 @@ title = "05"
 +++
 sárgeṇa … taktáḥ is a decomposed variant of sárga-takta- (III.33.4, 11)(or, vice versa, the cmpd is compounded from this phrase).
 
-Geldner terms this a “dunkler Sagenzug,” but I’m not sure why it can’t just be a snippet of the Vṛtra myth, after the serpent has been killed and Indra has released the pent-up waters, as I say in the publ. intro. Although vss. 2-3 concern the Vala myth, Vala and Vṛtra themes often appear in the same hymns. Geldner also considers it difficult to supply the missing verb in b, but given sárgeṇa in a and the passively used aor.
+Geldner terms this a “dunkler Sagenzug,” but I’m not sure why it can’t just be a snippet of the Vṛtra myth, after the serpent has been killed and Indra has released the pent-up waters, as I say in the published introduction. Although vss. 2-3 concern the Vala myth, Vala and Vṛtra themes often appear in the same hymns. Geldner also considers it difficult to supply the missing verb in b, but given sárgeṇa in a and the passively used aor.
 
 part. sṛjānā́ḥ in c, implicitly modifying the waters, the missing verb is most likely a transitive form of √sṛj, with acc. apáḥ as obj., rather than Geldner’s “hat … (geleitet).” Among the many such passages, see very nearby VI.30.4 ávāsṛjo apó áchā samudrám, also with Indra as subj. Sim. Sāyaṇa.’s visṛjati.
 

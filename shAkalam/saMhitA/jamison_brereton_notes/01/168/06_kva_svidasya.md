@@ -4,7 +4,7 @@ title = "06"
 +++
 Geldner (/Witzel Gotō) take c with ab, with d independent, while Renou configures the vs. as I do. There are no implications either way.
 
-The publ. tr. doesn’t render the ā́‘here’ with the verb in the rel. cl. āyayá. The point is that they have arrived here despite the vastness of the space in which they were driving, but “in which you have driven here” doesn’t work in English.
+The published translation doesn’t render the ā́‘here’ with the verb in the rel. cl. āyayá. The point is that they have arrived here despite the vastness of the space in which they were driving, but “in which you have driven here” doesn’t work in English.
 
 The frame and the simile in c do not agree in number: sg. sáṃhitam, pl.
 

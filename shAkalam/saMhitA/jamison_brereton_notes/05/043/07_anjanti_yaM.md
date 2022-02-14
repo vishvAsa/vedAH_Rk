@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-On the position of this vs. in the hymn and its significance, see publ. intro. If the vs. is an omphalos, it may focus attention on the mysteries of the Pravargya ritual.
+On the position of this vs. in the hymn and its significance, see published introduction. If the vs. is an omphalos, it may focus attention on the mysteries of the Pravargya ritual.
 
 The vs. is structured as a riddle, with the referent of yám (pāda a) withheld till d, with three similes and several technical references to ritual activities in between.
 

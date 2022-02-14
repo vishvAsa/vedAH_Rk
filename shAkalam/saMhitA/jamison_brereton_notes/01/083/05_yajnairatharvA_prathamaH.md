@@ -2,9 +2,9 @@
 title = "05"
 
 +++
-This verse seems to jumble together a lot of primal mythology that does not seem to be connected (or, rather, whose connection eludes me). As noted in the publ.
+This verse seems to jumble together a lot of primal mythology that does not seem to be connected (or, rather, whose connection eludes me). As noted in the published
 
-intro., vss. 4-5 describe the first institution of the sacrifice and touch on a number of the primordial players. It is esp. noteworthy (but I don’t quite know what to do with it) that vs. 4 contains the Aṅgirases and vs. 5 Atharvan, reminding us of the old designation for the Atharva Veda, atharvāṅgirasaḥ (see, e.g., Bloomfield, Intro. to Hymns of the Atharvarveda [SBE 42, 1897]).
+introduction, vss. 4-5 describe the first institution of the sacrifice and touch on a number of the primordial players. It is esp. noteworthy (but I don’t quite know what to do with it) that vs. 4 contains the Aṅgirases and vs. 5 Atharvan, reminding us of the old designation for the Atharva Veda, atharvāṅgirasaḥ (see, e.g., Bloomfield, Intro. to Hymns of the Atharvarveda [SBE 42, 1897]).
 
 The form tate is a pseudo-perfect to √tan; at this period we would expect
 

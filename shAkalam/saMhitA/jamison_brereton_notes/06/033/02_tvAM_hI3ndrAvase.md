@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-In c I tr. ví paṇī́m̐r aśāyaḥ as “you dispersed the niggards.” I now think this probably is wrong, in that I cannot find a semantic pathway there from ví √(n)aś ‘reach through’, etc. The closest passage to ours that contains this multivalent lexeme is X.29.8 vy ā̀naḷ índraḥ pṛ̥́tanāḥ svójāḥ “The very powerful Indra has penetrated the battling hosts.,” and I would alter the publ. tr. to “you penetrated through the niggards …” The only thing that gives me pause is the very similar passage adduced by Geldner, VII.19.9 … ví paṇī́ṃr ádāsan#, which I tr. “They … have distanced the niggards through ritual service” (for which see comm. ad loc.).
+In c I tr. ví paṇī́m̐r aśāyaḥ as “you dispersed the niggards.” I now think this probably is wrong, in that I cannot find a semantic pathway there from ví √(n)aś ‘reach through’, etc. The closest passage to ours that contains this multivalent lexeme is X.29.8 vy ā̀naḷ índraḥ pṛ̥́tanāḥ svójāḥ “The very powerful Indra has penetrated the battling hosts.,” and I would alter the published translation to “you penetrated through the niggards …” The only thing that gives me pause is the very similar passage adduced by Geldner, VII.19.9 … ví paṇī́ṃr ádāsan#, which I tr. “They … have distanced the niggards through ritual service” (for which see comm. ad loc.).
 
 As the above disc. suggests, I take aśāya- as belonging to the root √(n)aś, but the morphology is not straightforward. With Whitney’s tentative suggestion (Skt. Grassmann
 

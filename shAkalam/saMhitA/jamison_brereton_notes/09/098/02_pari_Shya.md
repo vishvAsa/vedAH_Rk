@@ -6,7 +6,7 @@ On the instr. drúṇā and the phrase drúṇā hitá- see comm. ad IX.1.2. One
 
 The pāda-final avyáyam (a) and avyata (b) echo each other.
 
-The actual target of the simile in b, the nominative equivalent of Soma in the frame, is gapped, being represented only by the adjuncts ráthe and várma: “like (a man/warrior) on a chariot his armor.” In the publ. tr. “a man” should be in parens.
+The actual target of the simile in b, the nominative equivalent of Soma in the frame, is gapped, being represented only by the adjuncts ráthe and várma: “like (a man/warrior) on a chariot his armor.” In the published translation “a man” should be in parens.
 
 
 

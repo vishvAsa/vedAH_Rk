@@ -6,7 +6,7 @@ This verse, by contrast, clearly concerns the Vṛtra myth and is for the most p
 
 At best we’re left with an attenuated meaning like “help out.” Or — a long shot — this is an expression like I.103.7 sasántaṃ … abodhayó ‘him “you ‘awakened’ the sleeping serpent,” where abodhayaḥ is meant to evoke its opposite, ‘put to sleep’.
 
-See intro. to that hymn and Jamison 1982/83. In that case ‘hold fast’ would evoke ‘let go’. For a possibly similar passage with Indra “bringing to rest” the waters rather than releasing them, see V.32.1 and comm. thereto. However, the formulaic nexus between √budh ‘awake’ and √sas / svap ‘sleep’ is very strong, whereas √dhṛ is not regularly paired with, say, forms of √sṛj ‘release’, and so I advance this possibility only very tentatively. Elizabeth Tucker offers another intriguing suggestion. She cites the wellknown Oldenberg Persian PN Dāraya-vahu (corresponding phonologically to Skt.
+See introduction. to that hymn and Jamison 1982/83. In that case ‘hold fast’ would evoke ‘let go’. For a possibly similar passage with Indra “bringing to rest” the waters rather than releasing them, see V.32.1 and comm. thereto. However, the formulaic nexus between √budh ‘awake’ and √sas / svap ‘sleep’ is very strong, whereas √dhṛ is not regularly paired with, say, forms of √sṛj ‘release’, and so I advance this possibility only very tentatively. Elizabeth Tucker offers another intriguing suggestion. She cites the wellknown Oldenberg Persian PN Dāraya-vahu (corresponding phonologically to Skt.
 
 *dhāráya- + vásu, and wonders “Could the poet be deliberately using, perhaps even
 punning on, an inherited Indo-Iranian collocation of the verb *dhṛ with object *vásu?”

@@ -8,5 +8,5 @@ As noted above, nom. sg. fem. ávātā ‘unvanquished, unsurpassable’ plays o
 
 Both Geldner and Renou take cd as a unified rel. cl. (e.g., “die du als Göttin ...
 
-erschienen bist”), but this is impossible, because bhūḥ is unaccented. I instead attach c to ab, and take d as an independent imperatival clause. I now see that it would be possible to take cd together, with the nominal rel. cl. yā́ha devī́acting as an izafe; as noted elsewhere (passim) such izafe-like rel. phrases can be embedded. This would produce a tr. “You, who are a goddess, o daughter of heaven, become worthy to be seen …,” with no appreciable difference in meaning. It might then be better to stick with the arrangement of the publ. tr.
+erschienen bist”), but this is impossible, because bhūḥ is unaccented. I instead attach c to ab, and take d as an independent imperatival clause. I now see that it would be possible to take cd together, with the nominal rel. cl. yā́ha devī́acting as an izafe; as noted elsewhere (passim) such izafe-like rel. phrases can be embedded. This would produce a tr. “You, who are a goddess, o daughter of heaven, become worthy to be seen …,” with no appreciable difference in meaning. It might then be better to stick with the arrangement of the published translation
 

@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-On the difficulties of interpr. of this verse, see publ. intro.
+On the difficulties of interpr. of this verse, see published introduction.
 
 In f Geldner and Renou take aryamā́as subject of duhre and are then at pains to assemble enough other personnel to count, at least conceptually, as a plural with pl.
 

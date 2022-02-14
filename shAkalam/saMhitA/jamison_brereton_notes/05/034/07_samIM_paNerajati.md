@@ -12,5 +12,5 @@ The last issue is the use of caná. Geldner (/Witzel Gotō) take it as neg. ‘n
 
 Thus by their interpr. durgá- is a desirable, fortress-like location for the offending people, but they can’t hold onto it. But durgá- is always otherwise an undesirable place, where no one wants to be -- where we wish Indra to send our enemies (VII.25.2) but from which we want to be rescued. I therefore think that the point of this clause is that Indra’s antagonists get confined to such a place and therefore caná does not have a negative sense here. Twice loc. durgé is followed by cid ‘even’ (VIII.27.18, 93.10), and durgé caná here may be a variant of this usage. Although he unfortunately does not discuss this passage, Klein’s general disc. of caná (DGRV I.285-92) as essentially borrowing negative value from the negative contexts in which it’s ordinarily found allows for an original underlying positive value ‘even’.
 
-The publ. tr. should be slightly altered to “Even in a (place) …,” though I’m not sure what sense ‘even’ adds -- perhaps that not only are the people confined but they are confined in a really nasty place.
+The published translation should be slightly altered to “Even in a (place) …,” though I’m not sure what sense ‘even’ adds -- perhaps that not only are the people confined but they are confined in a really nasty place.
 

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As noted in the publ. intro., this hymn plays on the two senses of niyút- in Vāyu context: his teams of wind-horses and our teams of poetic thoughts. This ambiguity is fully on display in pāda c váha vāyo niyúto yāhy áchā, where acc. pl.
+As noted in the published introduction, this hymn plays on the two senses of niyút- in Vāyu context: his teams of wind-horses and our teams of poetic thoughts. This ambiguity is fully on display in pāda c váha vāyo niyúto yāhy áchā, where acc. pl.
 
 niyútaḥ is stationed between the two imperatives. váha and yāhy. The latter is interpr.
 

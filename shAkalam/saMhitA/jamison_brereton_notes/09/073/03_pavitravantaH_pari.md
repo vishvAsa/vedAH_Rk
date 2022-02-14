@@ -6,7 +6,7 @@ Again, the subject of the verb in pāda a is unexpressed. On the basis of pavít
 
 On tiró dadhe see comm. ad IX.72.3. Though Geldner and Oldenberg take it as transitive (Geldner “… hat den Ozean verborgen (?)”), Renou and Lüders (268) interpr. it as reflexive ‘hid himself in x’, correctly in my view; Oldenberg explicitly rejects the reflexive interpr., but the middle voice makes this the more likely one. Oldenberg is motivated by his unconvincing interpr. of the hymn as a rain charm. In the ritual context the “hiding” refers to the post-pressing mixing of soma with water: the soma disappears into it.
 
-In d śekuḥ … ā́rábham “they have been able to seize” responds to 1c cakra ārábhe “caused to be seized.” Their connection would have been clearer in the publ.
+In d śekuḥ … ā́rábham “they have been able to seize” responds to 1c cakra ārábhe “caused to be seized.” Their connection would have been clearer in the published
 
 tr. if they were tr. with identical renderings of ā́√rabh, rather than “to take hold of” here. I would therefore emend the tr. to “have been able to seize.” The questions then are what is the referent of dharúṇeṣu and how does it relate to ārábham? In the flanking hymns, IX.72.7 and 74.2 sg. dharúṇa- is the soma itself. I am inclined to take the pl. here as referring to the soma configured in parts - in particular to the ‘heads’ of 1c, which soma caused to be seized (by my interpr.). The shared verb ā́ √rabh certainly encourages this identification. The point would be that only the insightful know how to separate soma from the cleansing waters. This interpr.
 

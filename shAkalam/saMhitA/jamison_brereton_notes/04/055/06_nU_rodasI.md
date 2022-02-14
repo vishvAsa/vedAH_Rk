@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-This vs. is close to impenetrable. For my view of its function in the hymn, see publ. intro. I am still baffled by the concentration on water in bcd and by the proper disposition of the parts of cd.
+This vs. is close to impenetrable. For my view of its function in the hymn, see published introduction. I am still baffled by the concentration on water in bcd and by the proper disposition of the parts of cd.
 
 The first question to approach is the root identity and referent of iṣṭá- in b.
 

@@ -2,7 +2,7 @@
 title = "10"
 
 +++
-We might have expected an unaccented gen. pl. *narām in the voc. phrase with nṛtama, but don’t get it. There are no unaccented occurrences of this genitive. It would be possible instead to read narā́m with eté stómāḥ (“these praises of men”), but nṛ́tama- + gen. pl. of nṛ́- is a fixed phrase, though usually with nṛṇā́m (I.77.4, III.51.4, IV.25.4, etc.). I am now inclined to read narā́m with both stómā(ḥ) and nṛtama. It is positioned between them, adjacent to both. The publ. tr. could be modified to “These praises of men are for you, o most manly of men.” The first gen. is subjective. Note the co-occurrence of narā́m, the older gen. pl. to nṛ́-, and the newer one nṛṇā́m in this verse.
+We might have expected an unaccented gen. pl. *narām in the voc. phrase with nṛtama, but don’t get it. There are no unaccented occurrences of this genitive. It would be possible instead to read narā́m with eté stómāḥ (“these praises of men”), but nṛ́tama- + gen. pl. of nṛ́- is a fixed phrase, though usually with nṛṇā́m (I.77.4, III.51.4, IV.25.4, etc.). I am now inclined to read narā́m with both stómā(ḥ) and nṛtama. It is positioned between them, adjacent to both. The published translation could be modified to “These praises of men are for you, o most manly of men.” The first gen. is subjective. Note the co-occurrence of narā́m, the older gen. pl. to nṛ́-, and the newer one nṛṇā́m in this verse.
 
 Geldner takes b as an independent nominal clause, while I consider it a sort of definitional relative clause manqué, that is, lacking the relative pronoun yé which would find its referent in the initial téṣām of c.
 

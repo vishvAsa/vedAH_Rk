@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-As disc. in the publ. intro., this is an omphalos vs., which provides the solution to the paradoxes set up in the earlier vss. of the hymn, albeit in veiled form -
+As disc. in the published introduction, this is an omphalos vs., which provides the solution to the paradoxes set up in the earlier vss. of the hymn, albeit in veiled form -
 
 - veiling that has kept its actual contents obscure (and may still do).
 
@@ -17,7 +17,7 @@ understandably follow this path, with the sg. subj. of ab supplied as obj. of th
 
 of √as in the nominative is usually concessive, but “although being young” doesn't make much sense here. I assume Geldner’s “Als” is his only recognition of the participle; Renou’s “jeunes encores” must be his (see also Lüders’s “Als sie jung waren,” 275). But none of these renderings really accounts for why the participle is there, or for why H+E are identified as youths.
 
-I have a less straightforward interpr. of this pāda -- inspired in great part by Geldner’s interpr. of pāda d, which he takes (n. 5d) as depicting the two births of Soma, the heavenly and the earthly. I think these two forms of Soma are already present in pāda c, in the accusative phrase yū́nā … sántā, and the subj. of the dual verb ví jajñatuḥ is Heaven and Earth, not overtly present but referred to as the yamā́in b (as well as in vss. 3-4). Under this interpr. the participle sántā has a reason to be there: it is an existential in a predicated proposition after ví √jñā ‘recognize’ -- rendered in the publ. tr. by “that there were two youths.” And of course it makes sense that Heaven and Earth would be the first to notice this, because the two births were located in those two places. It also makes sense that the two forms of Soma would be identified as ‘youths’, since they were recently born.
+I have a less straightforward interpr. of this pāda -- inspired in great part by Geldner’s interpr. of pāda d, which he takes (n. 5d) as depicting the two births of Soma, the heavenly and the earthly. I think these two forms of Soma are already present in pāda c, in the accusative phrase yū́nā … sántā, and the subj. of the dual verb ví jajñatuḥ is Heaven and Earth, not overtly present but referred to as the yamā́in b (as well as in vss. 3-4). Under this interpr. the participle sántā has a reason to be there: it is an existential in a predicated proposition after ví √jñā ‘recognize’ -- rendered in the published translation by “that there were two youths.” And of course it makes sense that Heaven and Earth would be the first to notice this, because the two births were located in those two places. It also makes sense that the two forms of Soma would be identified as ‘youths’, since they were recently born.
 
 Following Geldner on pāda d, the first mentioned birth “deposited in secret” (gúhā hitám) is the heavenly one (picking up níhito yamā́paráḥ in b), while a bit paradoxically (because of the úd ‘up’), the one “held aloft” (údyatam) is the earthly one, referring to the ritual presentation of the soma.
 

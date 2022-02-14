@@ -2,7 +2,7 @@
 title = "17"
 
 +++
-The pū́rva-/ápara- binary returns from 15, but here I think it not only refers to those ahead and behind positionally (as there), but also has a temporal sense (not represented in the publ. tr.): his previous allies in pāda a he dumps in favor of newer ones in b.
+The pū́rva-/ápara- binary returns from 15, but here I think it not only refers to those ahead and behind positionally (as there), but also has a temporal sense (not represented in the published translation): his previous allies in pāda a he dumps in favor of newer ones in b.
 
 The hapax ánānubhūtīḥ is not entirely clear, but two things must be kept in mind: 1) it’s a fem. pl., presumably acc.; 2) its sense must be derived from ánu √bhū, which generally means ‘come close to, give way to’. Because of 1), it should modify śarádaḥ ‘autumns’, a fem. cons. stem (so Geldner). But Geldner’s rendering “dass sie an ihm nicht wahrgenommen werden” seems distant in sense from the verbal lexeme; Oldenberg’s “(alles) Sichnichtanschliessen …” seems closer. I take the cmpd as a bahuvrīhi meaning ‘having no intimacy’ and interpr. it as proleptic in an expression of purpose: Indra shakes off the years so that they do not come close/attach themselves to him.
 

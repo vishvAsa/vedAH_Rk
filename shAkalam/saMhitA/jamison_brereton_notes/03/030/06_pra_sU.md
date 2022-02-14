@@ -6,5 +6,5 @@ Sāyaṇa. supplies ‘chariot’ as the subj. of pāda a, and in this he is fol
 
 supplied subject -- ā́tú prá yāhi … háribhyām -- also supports my assumption that the default subject is Indra.
 
-Unfortunately the voc. indra in 6a was omitted in the publ. tr. The pāda should read “(Come) forth along an easy slope with your two fallow bays, o Indra.”
+Unfortunately the voc. indra in 6a was omitted in the published translation The pāda should read “(Come) forth along an easy slope with your two fallow bays, o Indra.”
 

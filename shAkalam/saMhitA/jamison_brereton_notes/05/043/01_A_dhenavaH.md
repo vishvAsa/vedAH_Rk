@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-On mahó rāyé see comm. ad IV.31.11. Again the publ. tr. carelessly follows Geldner’s tr., which takes the two forms together, as if they were an adjective-noun syntagm despite the difference in case. I would now take maháḥ adverbially with Oldenberg
+On mahó rāyé see comm. ad IV.31.11. Again the published translation carelessly follows Geldner’s tr., which takes the two forms together, as if they were an adjective-noun syntagm despite the difference in case. I would now take maháḥ adverbially with Oldenberg
 
 See further ad VI.1.2.
 

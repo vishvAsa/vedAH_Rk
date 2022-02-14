@@ -8,7 +8,7 @@ The tr. “rosy (fingers)” is of course an unauthorized allusion to Homer’s 
 
 The next pāda, with its fem. subj. svásāro jāmáyaḥ “kindred sisters” is a standard way of referring to the fingers of the priests that prepare the soma (cf., e.g., IX.89.4). Thus the first two pādas superimpose two images: the ruddy Dawn(s) impelling the sun, the fingers impelling the soma - allowing each to participate in the imagery of the other. Because of the erotic relationship sometimes depicted between Dawn and the Sun, it would be better to tr.
 
-pátim in b as “their husband” (with Geldner, Renou), not ‘lord’ as in the publ. tr. - making one more link between the imagery of pādas a and b.
+pátim in b as “their husband” (with Geldner, Renou), not ‘lord’ as in the published translation - making one more link between the imagery of pādas a and b.
 
 Note that Geldner nodded (slightly) in tr. mahā́n índum as “den grossen Indra,” enabled by the constant association between those two words in IX.
 

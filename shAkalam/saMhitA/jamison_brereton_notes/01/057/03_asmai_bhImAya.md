@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-The phrase úṣo ná śubhre is quite problematic. In the first place, it is syntactically odd to have a voc. in a simile (“X like o Dawn”). úṣaḥ may be vocative by attraction from an underlying nominative, as in I.30.21 áśve ná citre aruṣi “O you, dappled bright and ruddy like a(n o) mare.” Then, for reasons given in the intro., I am certain that the fem. voc. śubhre in b cannot be addressed to the Sacrificer’s Wife, despite the standard view, but that leaves the identity of the addressee baffling. Fem.
+The phrase úṣo ná śubhre is quite problematic. In the first place, it is syntactically odd to have a voc. in a simile (“X like o Dawn”). úṣaḥ may be vocative by attraction from an underlying nominative, as in I.30.21 áśve ná citre aruṣi “O you, dappled bright and ruddy like a(n o) mare.” Then, for reasons given in the introduction, I am certain that the fem. voc. śubhre in b cannot be addressed to the Sacrificer’s Wife, despite the standard view, but that leaves the identity of the addressee baffling. Fem.
 
 śubhrā́- is ordinarily used of Dawn herself, not someone or something like Dawn.
 

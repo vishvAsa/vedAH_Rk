@@ -6,7 +6,7 @@ This vs. shows a clever twist on ring composition. Like vss. 1 and 2 it contains
 
 Moreover, although in the 1st two vss. heaven and earth functioned as a pair, though expressed as two singulars, here they have nothing to do with each other, and indeed earth is found only in a negative simile (sádaso ná bhū́ma, which in Engl. has to be awkwardly rendered by “any more than …”).
 
-On the tangled paternity here, see publ. intro.
+On the tangled paternity here, see published introduction.
 
 
 

@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As noted in the publ. intro., this hymn begins with the quintessential command of the Soma maṇḍala: pávasva ‘purify yourself’, found in the previous hymn at the beginning of the 2nd pāda (IX.1.1b).
+As noted in the published introduction, this hymn begins with the quintessential command of the Soma maṇḍala: pávasva ‘purify yourself’, found in the previous hymn at the beginning of the 2nd pāda (IX.1.1b).
 
 The 2nd word devavī́ḥ ‘pursuing the gods’ also matches up with the previous hymn:
 

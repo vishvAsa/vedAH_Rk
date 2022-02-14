@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The voc. ágne was omitted in the publ. tr. I would insert “o Agni” after “purpose.” Note that the first hemistich begins with krátvā and ends with kṛ́tvi yaḥ.
+The voc. ágne was omitted in the published translation I would insert “o Agni” after “purpose.” Note that the first hemistich begins with krátvā and ends with kṛ́tvi yaḥ.
 
 This vs. displays the same verbal intricacy as the immediately preceding vs. 7.
 

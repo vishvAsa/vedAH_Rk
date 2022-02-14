@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-I am not certain how to construe śrávobhiḥ. The publ. tr. takes it with the voc. puruhūta: “much invoked with acclamations.” But I am not entirely happy about construing a full noun with a voc. that ordinarily stands alone (as in, e.g., 7d, 8a). Geldner tr. “rühmlich,” which seems designed to be as untethered to the sentence as possible.
+I am not certain how to construe śrávobhiḥ. The published translation takes it with the voc. puruhūta: “much invoked with acclamations.” But I am not entirely happy about construing a full noun with a voc. that ordinarily stands alone (as in, e.g., 7d, 8a). Geldner tr. “rühmlich,” which seems designed to be as untethered to the sentence as possible.
 
 Renou takes it with the speaking of pāda b: “… seul avec tes remons tu as parlé (un langage) ferme,” but I don’t understand what that means; Witzel Gotō like Renou, except tr. “mit Ruhmes(taten),” which again I don’t follow.
 

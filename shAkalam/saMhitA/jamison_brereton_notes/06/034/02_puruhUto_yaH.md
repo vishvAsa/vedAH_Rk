@@ -6,5 +6,5 @@ The heavy presence of puru-PAST PART. cmpds in the first hemistich (puruhūtá�
 
 It is difficult to render the gerundive + injunctive phrase anumā́dyo bhūt; “has become one to be cheered on” is excessively fussy.
 
-The instr. asmā́bhiḥ was unaccountably omitted in the publ. tr.: I correct to “… to be cheered on by us.”
+The instr. asmā́bhiḥ was unaccountably omitted in the published translation: I correct to “… to be cheered on by us.”
 

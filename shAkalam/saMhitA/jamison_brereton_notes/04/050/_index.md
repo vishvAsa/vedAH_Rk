@@ -2,7 +2,7 @@
 title = "+050"
 
 +++
-Bṛhaspati On the divisions of the hymn, see publ. intro. Oldenberg and H.-P. Schmidt (cf. esp.
+Bṛhaspati On the divisions of the hymn, see published introduction. Oldenberg and H.-P. Schmidt (cf. esp.
 
 Bṛhaspati und Indra 215) consider it to be three separate hymns; I instead see it as a unified composition with three parts. So also Gonda (Vedic Lit., 191) and, implicitly, Geldner
 

@@ -8,7 +8,7 @@ apásā návena: the suffixal accent of apásā should rule out a tr. ‘work’
 
 Alternatively, we might follow Oldenberg (SBE), who alone paid attention to the accent and tr. “with the help of the young active (Agni).” The introduction of Heaven and Earth as recipients of our prayers in the last pāda of this vs. is odd, giving the vs. the appearance of a hymn-final vs., since extraneous gods are often brought in at that point. The fact that the vs. is in Triṣṭubh, rather than the Jagatī that prevails in the hymn (save for 16 and 18) also supports the view that this vs. marks at least an internal boundary, and though the initial tváṃ (no) agne sequence continues in the vss. that follow, the subject matter subtly changes.
 
-See publ. intro.
+See published introduction.
 
 Note the phonological play in bc (… kārúṃ kṛṇuhi … kárma), which may imply a folk-etymological connection of kārú- ‘bard’ with √kṛ, and in d (devair dyāvā pṛthivī prā́vatam) I.31.9-11: Some patterned responsion in these two verses: 9 tanū-kṛ́t … prámatiḥ / 10 prámatiḥ … vayas-kṛ́t. However, although these two verses are roughly in the middle of the hymn and patterned responsion is characteristic of omphalos verses, the repetitions do not seem sufficiently important to constitute an omphalos. On the relationship between prámati- and váyas- and between tanū- and váyas- see disc. ad I.71.7, where it is suggested that tanū́- and váyas- are the tangible and intangible elements that together make up a living being.
 

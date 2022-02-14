@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-This vs. does not contain an overt referent for the rel. cl. of the previous vs. Geldner, Renou, and the publ. tr. all supply both this antecedent and a verb: “to him come.” This makes sense, but the only (indirect) support for it is abhí ‘towards’. I would be more comfortable if abhí were initial.
+This vs. does not contain an overt referent for the rel. cl. of the previous vs. Geldner, Renou, and the published translation all supply both this antecedent and a verb: “to him come.” This makes sense, but the only (indirect) support for it is abhí ‘towards’. I would be more comfortable if abhí were initial.
 
 There are several candidates for the identity of the “two mothers of truth” ṛtásya mātárā. The exact phrase yahvī́ṛtásya mātárā refers both to Night and Dawn (I.142.7, V.5.6) and to the two World Halves (VI.17.6, X.59.8). In IX.33.5 in the plural it refers to sacred formulations configured as cows. On the phrase see Lüders (631), who rightly disputes Geldner’s “… (Tochter) und Mütter”; Lüders thinks the ref. here is to the World Halves, but gives no evidence that I could see. However, this identification is likely to be correct, in that samīciné in all three of its other occurrences, incl. 2 in this maṇḍala (IX.74.2, 90.4, X.44.8), is used of the World Halves.
 

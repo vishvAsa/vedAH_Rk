@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-As discussed ad I.151.8, I take ná práyuktiḥ (-ir in sandhi) as short for mánaso ná práyukti-, as in that passage and X.30.1. I would in fact now go further and suggest that the nom. sg. práyuktir here is a redactional change for práyukti, the short-vowel instr. found at VI.11.1, X.30.1, and I would change the publ. tr. to “as if
+As discussed ad I.151.8, I take ná práyuktiḥ (-ir in sandhi) as short for mánaso ná práyukti-, as in that passage and X.30.1. I would in fact now go further and suggest that the nom. sg. práyuktir here is a redactional change for práyukti, the short-vowel instr. found at VI.11.1, X.30.1, and I would change the published translation to “as if
 
 *with the yoking up (of mind).” The form would have been changed to match the two
 other nom. sg.s to -ti-stems in this hemistich, prástutir and suvṛktíḥ (both given in their sandhi forms), and it would also avoid hiatus over the pāda boundary.

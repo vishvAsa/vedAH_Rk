@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-I’d be inclined to take samānyā́not as an adv. (‘altogether’) as in the publ. tr., but as a fem. instr. sg. forming part of the phrase káyā śubhā́, hence “with what joint/common beauty?” -- with the sense “what’s their joint insignia? how shall I recognize them?” Note that samāná- is differently formed from the two preceding phonologically similar adjectives sávayasaḥ sánīḷāḥ, which do match each other.
+I’d be inclined to take samānyā́not as an adv. (‘altogether’) as in the published translation, but as a fem. instr. sg. forming part of the phrase káyā śubhā́, hence “with what joint/common beauty?” -- with the sense “what’s their joint insignia? how shall I recognize them?” Note that samāná- is differently formed from the two preceding phonologically similar adjectives sávayasaḥ sánīḷāḥ, which do match each other.
 
 Note also following sám m... The adj. samāná- returns in 7b in a charged context.
 

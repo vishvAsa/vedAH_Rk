@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As indicated in the publ. intro., this vs. significantly enlarges Soma’s domain: in vs. 2 he circles around the filter at the ritual; in vs. 3 he journeys across the two world halves, Heaven and Earth -- and in fact makes them swell up with his “imperishable milk” (the soma juice itself, presumably).
+As indicated in the published introduction, this vs. significantly enlarges Soma’s domain: in vs. 2 he circles around the filter at the ritual; in vs. 3 he journeys across the two world halves, Heaven and Earth -- and in fact makes them swell up with his “imperishable milk” (the soma juice itself, presumably).
 
 ákṣitā is most likely instr. sg. with páyasā, on the basis of IX.31.5 páyaḥ ...
 

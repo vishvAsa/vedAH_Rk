@@ -4,7 +4,7 @@ title = "11"
 +++
 This verse nicely juxtaposes a well-known deed of Indra’s, when he stops the waters to make a ford for his client(s), with the even better known deed of releasing the stopped waters in the Vṛtra myth, treated in the preceding vs. (10). On the playful transition between these two myths here, see Jamison 2007: 113-14 n. 20. The stopping of the waters causes mild surprise immediately after a verse concerning their release.
 
-tveṣásā is universally taken as belonging to Indra, whereas my published tr.
+tveṣásā is universally taken as belonging to Indra, whereas my published translation
 
 ascribes it to the rivers. I would now probably correct this, also to take it as Indra’s: “just this one - with his turbulence/glittering,” because of the parallelism between 10a asyéd evá śávasā and 11a asyéd u tveṣáśā. But I am still disturbed by the form.
 

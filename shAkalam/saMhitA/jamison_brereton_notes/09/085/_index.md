@@ -2,7 +2,7 @@
 title = "+085"
 
 +++
-For the four-vs. sequences and their contents, see publ. intro.
+For the four-vs. sequences and their contents, see published introduction.
 
 
 
