@@ -6,7 +6,7 @@ The construction of the vs. is uncertain in several regards, which center on the
 
 This is perfectly possible and seems to be the standard interpr. Although we prefer to avoid interpr. with embedded relatives, once again the rel. cl. in this instance is nominal (whichever finer grained interpr. we follow), and nominal relatives are systematic exceptions to this rule. However, I prefer to take d as a continuation of the rel. cl. introduced by yásya, with oppositional nominal expressions, contrasting Bṛhaspati’s dark seat with his horses which take on “ruddy form.” This interpr.
 
-allows the ‘ruddy’ in d to be more than a pleonastic repetition of the same word in pāda a and gives more punch to the nī́lavat sadhástham of c by making it part of a contrastive pair. If this interpr. is correct, the part. vásānāḥ would be predicated.
+allows the ‘ruddy’ in d to be more than a pleonastic+++(=redundant)+++ repetition of the same word in pāda a and gives more punch to the nī́lavat sadhástham of c by making it part of a contrastive pair. If this interpr. is correct, the part. vásānāḥ would be predicated.
 
 Ge (n. 6bc) notes the word play between semantically and etymologically distinct saha- (b) and sáhaḥ (c). In fact the play is more tightly constructed than he indicates, with the chiastic figure saha-vā́ho vahanti / sáhaḥ, with the hemistich boundary isolating the semantically non-conforming word.
 

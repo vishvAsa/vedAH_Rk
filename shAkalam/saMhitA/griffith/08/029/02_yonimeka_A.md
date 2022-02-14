@@ -2,4 +2,4 @@
 title = "०२ योनिमेक आ"
 
 +++
-Another, luminous, occupies the place of sacritice, Sage, among the Gods.
+Another, luminous, occupies the place of sacrifice, Sage, among the Gods.

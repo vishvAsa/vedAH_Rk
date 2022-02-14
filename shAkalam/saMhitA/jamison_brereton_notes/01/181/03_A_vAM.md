@@ -8,7 +8,7 @@ The second hemistich consists entirely of a nominal relative clause referring to
 
 pronoun yáḥ, which ends the clause. This is a remarkably odd position for a rel.
 
-pronoun, and since this supposed rel. cl. consists of nominative qualifiers of the subject of the main clause, ráthaḥ, it need not have been a relative clause at all: the whole of the vs. could simply be a main clause. I think the yáḥ got stuck pleonastically on the end of this pāda to provide a monosyllable to make a Triṣṭubh cadence. (Cf. VI.63.6, a Triṣṭubh that ends dhiṣṇi yā vām, likewise with a final monosyllable.) No harm is done by this last-ditch conversion of the string of epithets in cd into a nominal rel. clause, but it is a metrically driven afterthought in my opinion. It should certainly not be taken as a standard ex. of rel. cl. word order.
+pronoun, and since this supposed rel. cl. consists of nominative qualifiers of the subject of the main clause, ráthaḥ, it need not have been a relative clause at all: the whole of the vs. could simply be a main clause. I think the yáḥ got stuck pleonastically+++(=redundant)+++ on the end of this pāda to provide a monosyllable to make a Triṣṭubh cadence. (Cf. VI.63.6, a Triṣṭubh that ends dhiṣṇi yā vām, likewise with a final monosyllable.) No harm is done by this last-ditch conversion of the string of epithets in cd into a nominal rel. clause, but it is a metrically driven afterthought in my opinion. It should certainly not be taken as a standard ex. of rel. cl. word order.
 
 The phrase mánaso jávīyān is an analytic version of manojū́- in 2c, there applied to the horses, not the chariot.
 

@@ -11,7 +11,7 @@ is also subject: kṛṇuhí, īśē. I suggest 10b should be interpr. in the sa
 
 The 1st sg. cyavam is the only non-causative active form to this root.
 
-Hoffmann (Injunk. 247-48) takes it as a subjunctive, an ersatz for the unenlarged 1st sg. subj. ending -ā. I agree that the form has been tampered with, but would suggest that what really underlies the form may be medial subjunctive 1st sg. *cyavai, which should have yielded *cyavā in this sandhi position. The -m serves as a pleonastic hiatus filler (perhaps originally -m̐). An alternative that would work better phonologically is to assume a 1st sg. indicative *cyave, not a subjunctive. This would yield *cyava in sandhi, to which the -m could be added without adjusting the vowel length. Since the verb in the main cl., īśe, is likewise present indicative (as opposed to impv. kṛṇuhí in 9d and subjunctive kṛṇávai in 10b), an indicative in the subord. cl.
+Hoffmann (Injunk. 247-48) takes it as a subjunctive, an ersatz for the unenlarged 1st sg. subj. ending -ā. I agree that the form has been tampered with, but would suggest that what really underlies the form may be medial subjunctive 1st sg. *cyavai, which should have yielded *cyavā in this sandhi position. The -m serves as a pleonastic+++(=redundant)+++ hiatus filler (perhaps originally -m̐). An alternative that would work better phonologically is to assume a 1st sg. indicative *cyave, not a subjunctive. This would yield *cyava in sandhi, to which the -m could be added without adjusting the vowel length. Since the verb in the main cl., īśe, is likewise present indicative (as opposed to impv. kṛṇuhí in 9d and subjunctive kṛṇávai in 10b), an indicative in the subord. cl.
 
 would match.
 
