@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-On the benevolent Rudra see comm. ad vss. 5-8. It is not clear why or how Rudra is the giver of the oblation. Oldenberg (see also WG’s n.) suggests that it is in his capacity as paśupati-: he provides the beast for sacrifice. This is possible: though he is not so called in the RV (where the word is not found), this epithet is applied to him in AV (e.g., XI.2.28) and VS (e.g., XXVI.28).
+On the benevolent Rudra see comm. ad vss. 5-8. It is not clear why or how Rudra is the giver of the oblation. Oldenberg (see also Witzel Gotō’s n.) suggests that it is in his capacity as paśupati-: he provides the beast for sacrifice. This is possible: though he is not so called in the RV (where the word is not found), this epithet is applied to him in AV (e.g., XI.2.28) and VS (e.g., XXVI.28).
 
 In c rétaḥ ‘semen’ is somewhat surprising, esp. if it is to be construed as the object of brávaḥ -- so much so that Gr (tr., not Wö.) suggested emendation to répaḥ ‘stain’, an emendation accepted by Oldenberg (SBE, Noten) and Lü (622) and maintained tentatively by Scar (214). Renou keeps the transmitted form but interprets it as a way of referring to negative speech: “Quelle semence (de blâme dirais-tu) …?” But in a culture so fixated on fertility, semen is basically always a positive concept. Important is the fact noted by Geldner (n. 7c) that Viṣṇu is elsewhere the protector of semen (cf., e.g., VII.36.9 víṣṇuṃ niṣiktapā́m “Viṣṇu, protector of the poured-out [semen]”). In his n.
 

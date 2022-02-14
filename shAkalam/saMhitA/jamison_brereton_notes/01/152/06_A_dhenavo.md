@@ -4,7 +4,7 @@ title = "06"
 +++
 The son of Mamatā is, of course, Dīrghatamas, our poet.
 
-In my view, the verse is describing the feeding of the fire with streams of ghee, the milk-cows (dhenávaḥ) of pāda a; the “same udder” (sásmin ū́dhan) is the fire place. Geldner (/WG) see the cows instead as the rains and give a more cosmic spin to the whole verse. But pāda c esp. supports a ritual interpr., as does the instr. ‘by mouth’ (āsā́) in d, so characteristic of the ritual Agni.
+In my view, the verse is describing the feeding of the fire with streams of ghee, the milk-cows (dhenávaḥ) of pāda a; the “same udder” (sásmin ū́dhan) is the fire place. Geldner (/Witzel Gotō) see the cows instead as the rains and give a more cosmic spin to the whole verse. But pāda c esp. supports a ritual interpr., as does the instr. ‘by mouth’ (āsā́) in d, so characteristic of the ritual Agni.
 
 For my transitive interpr. of brahma-prī́- ‘pleasing x with the formulation’ (contra ‘loving the formulation’ or ‘friend of the formulation’ of all others, including Scar [338]), see comm. on I.83.2. In that passage the transitive value is strongly favored by context; here, given Agni’s usual middle-man role as both sacrificer and sacrificed to, it is less clear. I could accept ‘loving the formulation, pleased by the formulation’ here.
 

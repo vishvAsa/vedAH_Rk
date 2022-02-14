@@ -2,7 +2,7 @@
 title = "19"
 
 +++
-Geldner and Renou take gómatīḥ as a ref. to the Gomatī river; WG to “cow-rich lands.” I think it’s likely a pun, and I supply víśaḥ ‘clans’ for one half of the pun.
+Geldner and Renou take gómatīḥ as a ref. to the Gomatī river; Witzel Gotō to “cow-rich lands.” I think it’s likely a pun, and I supply víśaḥ ‘clans’ for one half of the pun.
 
 [V.62-78 JPB]
 

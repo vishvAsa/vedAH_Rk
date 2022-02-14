@@ -6,7 +6,7 @@ As in vs. 1, the pair heaven and earth are expressed by two singulars (dyaúḥ,
 
 BR suggest reading dyaúr éjad for Pp. dyaúḥ / réjat. Although rejected by Oldenberg, this reading (which does not require changing the Saṃhitā text) is accepted by Geldner, Hoffmann (Injunk. 179, 181), and Gotō (1st class, 271-72), as well as by me. The stem réja- is almost entirely medial (see rejata in pāda a), while éja- is act. It is easy to see how the misparsing could have arisen, due to the presence of immediately preceding rejata.
 
-With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus parallel to manyóḥ. It would also be possible to take tviṣáḥ as an abl. of cause (so Hoffmann 179, WG).
+With Geldner, I take tviṣáḥ as a gen. dependent on bhiyásā in b, thus parallel to manyóḥ. It would also be possible to take tviṣáḥ as an abl. of cause (so Hoffmann 179, Witzel Gotō).
 
 Note the phonetic figure táva tviṣáḥ. Note also that the reflex. adj. svásya must reference táva and therefore have 2nd ps. value (as well as not referring to the grammatical subj., as is sometimes claimed for reflexives).
 

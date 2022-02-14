@@ -19,4 +19,4 @@ The honeyed soma and hot milk of vs. 4 return here.
 
 Geldner (also Lü), flg. Ludwig, takes átharvaṇi rather bizarrely as a nominative, but there seems no reason not to interpr. it as the loc. it appears to be (so, e.g., Oldenberg).
 
-Nor does there seem any reason not to take it as the name of a priest, as it is elsewhere (pace Sāy., Oldenberg). I take it as a loc. absol. without an overt participle marking it.
+Nor does there seem any reason not to take it as the name of a priest, as it is elsewhere (pace Sāyaṇa., Oldenberg). I take it as a loc. absol. without an overt participle marking it.

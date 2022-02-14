@@ -14,7 +14,7 @@ The distribution of elements in pāda b is odd, with the subordinating yád in n
 
 īśāna-kṛ́t- is variously interpreted, either with the 1st member in a direct object relationship with the 2nd -- “zum Herrscher, mächtig machend” (Scar’s tr; sim.
 
-also Geldner, Renou, WG) - or in a sort of appositive subject relationship, “als Herrscher handelnd” (Scar’s tr.; sim. Gr). Because the first member īśāna- is itself a participial form ‘being lord, showing mastery’, I prefer the 2nd alternative. Note also that independent ī́śāna- is used three times of Indra in this hymn (6d, 12b, 15b), and it is more likely that the same form in the compound refers to Indra’s masterful ways, not to someone else whom he makes masterful. Scar allows both, though somewhat preferring the 2nd.
+also Geldner, Renou, Witzel Gotō) - or in a sort of appositive subject relationship, “als Herrscher handelnd” (Scar’s tr.; sim. Gr). Because the first member īśāna- is itself a participial form ‘being lord, showing mastery’, I prefer the 2nd alternative. Note also that independent ī́śāna- is used three times of Indra in this hymn (6d, 12b, 15b), and it is more likely that the same form in the compound refers to Indra’s masterful ways, not to someone else whom he makes masterful. Scar allows both, though somewhat preferring the 2nd.
 
 More phonological play: c dāśúṣe daśasyan; d turvī́taye … turváṇiḥ.
 

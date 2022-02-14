@@ -8,9 +8,9 @@ What is most notable here is the carefully balanced construction of ab, with dou
 
 expressions svásyā árātyā(h) … anyásyā árātyā(ḥ), and finally the similarly parallel but contrastive nominal clausettes arír hí ṣá(ḥ) and vṛ́ko hí ṣaḥ. It is (almost) impossible to escape concluding that the poet was contrasting two similar but very distinct sources of hostility. Unfortunately, Thieme (Fremd. 45-46) does escape this conclusion, deciding that the two gen. phrases and the two annunciatory nominal clauses are merely a way of generalizing to “everybody.” His tr. simply ignores the signposted construction of the two pādas and jumbles the parallel phrases together.
 
-This was not Thieme’s finest hour. Without an idée fixe to prove (as was the case of Th), the construction imposes an analysis: a hostile person belong to our side is an arí, one on the other is a wolf. Now elsewhere in Indo-European and indeed elsewhere in the RV, “wolf” can be used of a human who is outside social boundaries, an outlaw (see, e.g., my “Function of Animals in the RV, 2016: 208-9).
+This was not Thieme’s finest hour. Without an idée fixe to prove (as was the case of Thieme), the construction imposes an analysis: a hostile person belong to our side is an arí, one on the other is a wolf. Now elsewhere in Indo-European and indeed elsewhere in the RV, “wolf” can be used of a human who is outside social boundaries, an outlaw (see, e.g., my “Function of Animals in the RV, 2016: 208-9).
 
-Here the outlaw is contrasted with the arí-; with Th. I take him as a “stranger,” but against Th. as a stranger who belongs to the larger Ārya community, who is “one of ours.” The hostile person outside of that community, the “other,” is a wolf. With Th.
+Here the outlaw is contrasted with the arí-; with Thieme I take him as a “stranger,” but against Thieme as a stranger who belongs to the larger Ārya community, who is “one of ours.” The hostile person outside of that community, the “other,” is a wolf. With Thieme
 
 again, I’d say that the ultimate intent of ab is universal, to counter the threats from any possible source, but this universality is achieved by an implicitly conjoined contrast between the two opposites that make up the whole.
 

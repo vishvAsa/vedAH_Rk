@@ -8,5 +8,5 @@ However, IX.18.2 mádhu prá jātám ándhasaḥ “the honey born from the stal
 
 The function of the two yáthā clauses is not altogether clear. I assume that they refer to the two prerequisites for the soma sacrifice: the verbal portion with its praise of the god Soma and the physical production of the ritual substance soma. With both accomplished, the god Soma can take his place on the ritual ground.
 
-On injunc. sadaḥ as a functional impv. see comm. ad IX.2.2 and KH (Injunk. 263).
+On injunc. sadaḥ as a functional impv. see comm. ad IX.2.2 and Hoffmann (Injunk. 263).
 

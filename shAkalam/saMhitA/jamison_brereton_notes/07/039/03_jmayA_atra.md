@@ -4,7 +4,7 @@ title = "03"
 +++
 There is almost universal agreement that jmayā́represents an adverbial instr. of exactly that shape, despite the hiatus, rather than Pp. jmayā́ḥ. See, e.g., Oldenberg, Renou, Scar 421, with lit.
 
-With Sāy., cited by Geldner, the Maruts must be the referents of śubhrā́ḥ in b: pl.
+With Sāyaṇa., cited by Geldner, the Maruts must be the referents of śubhrā́ḥ in b: pl.
 
 forms of this adj. generally modify the Maruts, and the midspace is especially associated with them.
 

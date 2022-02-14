@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-The first hemistich has 11 syllables and is best interpreted as a Triṣṭubh, with HvN.
+The first hemistich has 11 syllables and is best interpreted as a Triṣṭubh, with Holland & van Nooten Rig Veda edition.
 
 The verse is otherwise problematic, and my interpretation differs sharply from that of others. The crucial point of difference is áhan, which is universally taken as the 2nd sg. impf. of √han ‘smite’. This seems to me contextually very unlikely: √han is a very rare verb with Agni as subject, and when it is found, it is almost always of Agni’s special form as rakṣo-hán- (see IV.3.14, V.2.10, VI.16.29, and with a different object V.4.5). The context does not favor a verb of violence, and I find it hard to believe that √han would be attributed to Agni out of the blue, esp.
 

@@ -4,7 +4,7 @@ title = "02"
 +++
 I take kratu-prā́- as referring to the poet’s own krátu- ‘intention, conception’
 
--- that is, producing the praise-hymn he has envisioned. So also Renou and (partly) WG.
+-- that is, producing the praise-hymn he has envisioned. So also Renou and (partly) Witzel Gotō.
 
 Others consider it the krátu- of others or of all, and Oldenberg suggests an emendation to
 

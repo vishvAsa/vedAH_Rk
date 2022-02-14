@@ -10,7 +10,7 @@ The context clearly requires a negative sense; I’ve used the colloquial Englis
 
 áva at the end of the pāda. With Gr (and implicitly Geldner and Renou), I take it as a 2nd preverb with caranti. Since ní and áva both mean ‘down’, it reinforces by variation, hence my “—way down.” As Geldner reports (n. 19c), Ludwig takes áva rather as the impv. to √av ‘help’, accented because it starts a new clause. This is perfectly possible and would fit the context, but I prefer the more unusual semantic doubling of the preverbs in this emotional context.
 
-There are various suggestions about what to supply with purū́ṇi: Sāy. rákṣāṃsi, fld. tentatively by Geldner (“böse Geister?”), Renou “choses (dangereuses).” Leaving it open seems to me the better solution: the poet is besieged by multiple things he cannot even name.
+There are various suggestions about what to supply with purū́ṇi: Sāyaṇa. rákṣāṃsi, fld. tentatively by Geldner (“böse Geister?”), Renou “choses (dangereuses).” Leaving it open seems to me the better solution: the poet is besieged by multiple things he cannot even name.
 
 In the last pāda it is Soma who is urged to “go past the barriers” (paridhī́n); we might have expected the poet to ask Soma for help in getting past them himself (but see next vs.). For Soma’s journey past the paridhī́n Geldner and Renou cite IX.96.11 paridhī́m̐r áporṇu “open up the barriers.” In both passages the paridhí- are presumably obstacles to Soma’s progress on his ritual journey, perhaps the tufts of the fleece filter.
 

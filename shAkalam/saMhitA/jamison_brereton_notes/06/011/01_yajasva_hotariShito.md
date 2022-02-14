@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-Although the vs. seems superficially straightforward, it presents a number of small difficulties. We might start with the meter of pāda c: in order to reach 11 syllables, something has to be distracted. HvN suggest nā́satiyā, but this produces a bad cadence: - ⏑ ⏑ ×. Oldenberg (ZDMG 55.300 and Noten) instead suggests distracting the initial preverb ā́, which produces an even worse cadence (-ṇā nā́satyā
+Although the vs. seems superficially straightforward, it presents a number of small difficulties. We might start with the meter of pāda c: in order to reach 11 syllables, something has to be distracted. Holland & van Nooten Rig Veda edition suggest nā́satiyā, but this produces a bad cadence: - ⏑ ⏑ ×. Oldenberg (ZDMG 55.300 and Noten) instead suggests distracting the initial preverb ā́, which produces an even worse cadence (-ṇā nā́satyā
 
 - - - ×). And the third possibility, náasatyā, produces a third type of bad cadence
 (⏑⏑ - ×). Only if we could read the first vowel of nā́satyā as distracted - ⏑ can we fix the cadence, but there is no real license for this.

@@ -2,4 +2,4 @@
 title = "09"
 
 +++
-Geldner (/WG) take ūtī́as dual nom. (WG “beide Hilfen”), but Geldner allows the possibility of an instr. and Renou takes it as instr., as do I. I think it likely that Heaven and Earth have resurfaced here, in anticipation of their appearance in vss. 10-11, and they are the subj. of sacetām.
+Geldner (/Witzel Gotō) take ūtī́as dual nom. (Witzel Gotō “beide Hilfen”), but Geldner allows the possibility of an instr. and Renou takes it as instr., as do I. I think it likely that Heaven and Earth have resurfaced here, in anticipation of their appearance in vss. 10-11, and they are the subj. of sacetām.

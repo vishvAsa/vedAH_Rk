@@ -8,5 +8,5 @@ The use of a passive inf. in the 1st half, contrasting with an active usage (tho
 
 The use of the derived adj. ráthya- ‘belonging to the chariot’ rather than its base noun rátha- recalls pā́rthivasya in 1c substituting for a form of the noun pṛthivī́-.
 
-Geldner (flg. Sāy.) identifies the “lord of heaven” (divó ásura-) as Rudra, on the basis of parallels (see his n. 3c).
+Geldner (flg. Sāyaṇa.) identifies the “lord of heaven” (divó ásura-) as Rudra, on the basis of parallels (see his n. 3c).
 

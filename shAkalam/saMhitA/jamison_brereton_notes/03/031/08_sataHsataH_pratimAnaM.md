@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-Geldner (/WG) take this vs. as a quotation of the Aṅgirases’ praise-song of Indra.
+Geldner (/Witzel Gotō) take this vs. as a quotation of the Aṅgirases’ praise-song of Indra.
 
 I do not see why. The vs. seems to follow easily from the preceding one, and in fact at the end of vs. 7 it’s Indra who’s singing (/chanting), not the Aṅgirases. We might expect such a quotation to be signposted in some way. I do not consider the 1st pl.
 

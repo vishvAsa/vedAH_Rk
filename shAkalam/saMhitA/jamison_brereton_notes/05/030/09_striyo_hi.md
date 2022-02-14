@@ -6,7 +6,7 @@ For women as weapons see not only I.104.3 mentioned in the publ. intro. but also
 
 635ff.]) to the Sautrāmaṇī ritual and its two separate oblations, milk and surā.
 
-Schmidt (Ged. Nyberg), more or less flg. Bloomfield, suggests that Indra recognizes two streams within himself, songs and libations, but this linkage of the literal and metaphorical through an elliptical dual seems quite unlikely. WG’s “Darunter aber hat er dessen beide Ströme erblickt” is literally close to mine, but they provide no guidance on what they mean by “his two streams.” My own tr. (“distinguished both his [=Dāsa’s?] streams”) is also not as informative as it might be. One problem is the meaning of the lexeme antár √khyā.
+Schmidt (Ged. Nyberg), more or less flg. Bloomfield, suggests that Indra recognizes two streams within himself, songs and libations, but this linkage of the literal and metaphorical through an elliptical dual seems quite unlikely. Witzel Gotō’s “Darunter aber hat er dessen beide Ströme erblickt” is literally close to mine, but they provide no guidance on what they mean by “his two streams.” My own tr. (“distinguished both his [=Dāsa’s?] streams”) is also not as informative as it might be. One problem is the meaning of the lexeme antár √khyā.
 
 To √khyā ‘see’ antár should add the sense of either ‘look within’ or ‘distinguish between’. The similarly formed antár √paś seems to have both these meanings: ‘look within’ in I.132.3 and ‘distinguish between’ in II.27.3. (In the latter passage JPB tr.
 

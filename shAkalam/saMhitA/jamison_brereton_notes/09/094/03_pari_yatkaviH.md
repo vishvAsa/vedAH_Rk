@@ -6,7 +6,7 @@ This vs. does not contain a main cl., simply a subord. yád cl. in ab, extended 
 
 The cadence of pāda a is bad; Gr suggests reading subj. *bharāte, which would fix the problem, but as Oldenberg comments, this is “natürlich ganz unsicher” - esp.
 
-since both the opening and the break are likewise irregular (see HvN metrical comm. ad loc.).
+since both the opening and the break are likewise irregular (see Holland & van Nooten Rig Veda edition metrical comm. ad loc.).
 
 Note the emphatic return of the poet, with kavíḥ kā́vyā in pāda a picking up kavīyán in 1a.
 

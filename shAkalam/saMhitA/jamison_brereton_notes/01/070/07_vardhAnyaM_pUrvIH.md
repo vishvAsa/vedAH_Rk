@@ -8,4 +8,4 @@ expressing extent of time, supplying a pronominal subj. ‘they’, picking up �
 
 With essentially all Western commentators starting with Benfey, I read carátham for the Pp. ca rátham, producing yet again Parāśara’s beloved, but morphologically troubled, merism “the still and the moving.” With most tr. I take it as neut. sg. and a second subject of várdhān (adjusted for number), though Geldner interprets it as a gen. dependent on the “Keim” he supplies.
 
-The ppl. právīta- always means ‘impregnated’ (of females) or, as here, ‘conceived’ (see Scar p. 501); WG’s “den vom Ṛta gesuchten” seemingly rests on the root etymology to √vī ‘pursue’, without taking into account the idiom.
+The ppl. právīta- always means ‘impregnated’ (of females) or, as here, ‘conceived’ (see Scar p. 501); Witzel Gotō’s “den vom Ṛta gesuchten” seemingly rests on the root etymology to √vī ‘pursue’, without taking into account the idiom.

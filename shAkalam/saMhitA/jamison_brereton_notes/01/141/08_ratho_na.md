@@ -8,7 +8,7 @@ Pāda c is full of difficulties, esp. the unaccented dakṣi and the semanticall
 
 As for the “black patrons” I take this to be, as it were, a two-part phrase: “black” first refers to the plumes of smoke, picking up kṛṣṇájaṃhas- ‘having black plumage’ in 7c; the clouds of smoke surrounding the fire are then implicitly likened to the sacrificial patrons who would gather around the ritual fire.
 
-What then to do with dakṣi? Two main solutions are found in the lit.: it is a 2nd sg. impv. (or si-imperative) to √dah ‘burn’ as it is in II.1.10 (Renou), or it is a voc. of a nominal stem of unclear formation likewise built to √dah (Oldenberg, WG). Geldner refuses to tr.
+What then to do with dakṣi? Two main solutions are found in the lit.: it is a 2nd sg. impv. (or si-imperative) to √dah ‘burn’ as it is in II.1.10 (Renou), or it is a voc. of a nominal stem of unclear formation likewise built to √dah (Oldenberg, Witzel Gotō). Geldner refuses to tr.
 
 and AiG II.1.408 floats both possibilities. The first (impv.) has the merit of matching an actual existing form, but otherwise has little to recommend it. In particular, if it forms a parenthetical independent clause it should be accented. The second (voc.) does not create syntactic problems but leaves the question of the morphology unresolved. I do not favor either of them, because either one requires 2nd ps.
 

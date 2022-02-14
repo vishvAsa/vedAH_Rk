@@ -2,12 +2,12 @@
 title = "08"
 
 +++
-Though this vs. follows thematically on vs. 7, it seems disjointed and has given rise to much discussion (see esp. Oldenberg and his skepticism about Geldner’s interpr.; Bl RR) and incompatible interpretations, which I will not treat in detail further here.
+Though this vs. follows thematically on vs. 7, it seems disjointed and has given rise to much discussion (see esp. Oldenberg and his skepticism about Geldner’s interpr.; Bloomfield Rig-Veda Repetitions) and incompatible interpretations, which I will not treat in detail further here.
 
 The first question that arises is who is the 1st
 
 -ps. speaker in pāda a. Geldner
-suggests that it is Namuci himself, a suggestion rejected by both Oldenberg and Bl. I think the root aor. ákṛthāḥ is the clue. It is rare that the aorist, esp. the root aorist, is used as a narrative tense, esp. to a root well outfitted with other preterital possibilities. I take pāda a as a parenthetical interruption of the Namuci story, prompted by the last pāda of vs. 7, esp. the mention of Manu. With Oldenberg I take “me” as referring to the present-day priest, and in my view he is asserting his ancestral and vocational connection with the primal priest and representative Ārya, Manu. The speaker suggests that Indra’s current partnership with him (“for you have made me your yokemate” with the aorist of the recent past) is evidence of Indra’s active concern for his ancestor Manu in the mythological past. After this interruption ā́d íd functions as a resumptive expression, returning us to and carrying on the story of the myth narrated in 7cd.
+suggests that it is Namuci himself, a suggestion rejected by both Oldenberg and Bloomfield I think the root aor. ákṛthāḥ is the clue. It is rare that the aorist, esp. the root aorist, is used as a narrative tense, esp. to a root well outfitted with other preterital possibilities. I take pāda a as a parenthetical interruption of the Namuci story, prompted by the last pāda of vs. 7, esp. the mention of Manu. With Oldenberg I take “me” as referring to the present-day priest, and in my view he is asserting his ancestral and vocational connection with the primal priest and representative Ārya, Manu. The speaker suggests that Indra’s current partnership with him (“for you have made me your yokemate” with the aorist of the recent past) is evidence of Indra’s active concern for his ancestor Manu in the mythological past. After this interruption ā́d íd functions as a resumptive expression, returning us to and carrying on the story of the myth narrated in 7cd.
 
 In 8c the referent of the “whizzing stone” (áśmānam … svaryàm) is disputed.
 

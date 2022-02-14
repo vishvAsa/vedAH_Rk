@@ -2,8 +2,8 @@
 title = "04"
 
 +++
-Starting with this vs., the pári has no organic connection to the rest of the vs. Here I supply arṣati on the basis of vss. 2-3. So also Renou, KH (133).
+Starting with this vs., the pári has no organic connection to the rest of the vs. Here I supply arṣati on the basis of vss. 2-3. So also Renou, Hoffmann (133).
 
 On viśvádevo ádābhyaḥ as a clever variant on IX.102.5 víśve devā́so ádruhaḥ, see publ. intro.
 
-Geldner takes injunc. viśat as model (“… möge sich … niederlassen”), but with Renou and KH (133-34) I take it as a general present referring to Soma’s standard ritual action.
+Geldner takes injunc. viśat as model (“… möge sich … niederlassen”), but with Renou and Hoffmann (133-34) I take it as a general present referring to Soma’s standard ritual action.

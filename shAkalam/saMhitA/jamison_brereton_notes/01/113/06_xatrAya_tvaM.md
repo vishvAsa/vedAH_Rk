@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-Geldner takes ártham iva as a real simile, containing a pun on ártha- (though he does not call attention to it): “um (an sein Geschäft) wie nach einem Reiseziel zu gehen,” with ártha- ‘business’ in the frame and ‘goal’ in the simile. This is clever and may well be right. In my publ. tr. I take iva as a sort of indefinitizer: “whatever his goal.” WG by contrast seem to take it as a definitizer: “um just zum Ziel zu gehen,” which seems an odd use of iva.
+Geldner takes ártham iva as a real simile, containing a pun on ártha- (though he does not call attention to it): “um (an sein Geschäft) wie nach einem Reiseziel zu gehen,” with ártha- ‘business’ in the frame and ‘goal’ in the simile. This is clever and may well be right. In my publ. tr. I take iva as a sort of indefinitizer: “whatever his goal.” Witzel Gotō by contrast seem to take it as a definitizer: “um just zum Ziel zu gehen,” which seems an odd use of iva.
 
 The standard tr. construe c with d and the phrase vísadṛśā jīvitā́as object of abhipracákṣe (e.g., Renou “Afins qu’ils considèrent les (modes d’) existence divers, l’Aurore a éveillé toutes les créatures”). I am skeptical of the syntax, because the dpāda is a refrain. Although in some refrain hymns, the refrain is sometimes integrated into the verse as a whole, this refrain does not seem to work that way.
 

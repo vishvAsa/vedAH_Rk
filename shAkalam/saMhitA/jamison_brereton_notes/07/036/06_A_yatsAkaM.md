@@ -11,9 +11,9 @@ with cd as rel. clause the 2nd hemistich would simply be “who are richly ferti
 The first hemistich lacks a finite verb, and in my view the participle vāvaśānā́ḥ (whether pf. or intens.; Kü 488 [and Schaeffer by omission] favor the former) serves as predicate. However, both Geldner and Renou supply a verb of motion, presumably on the basis of initial ā́: “her(kommen)” and “ar(rivent).” This is of course possible. Both Geldner and Renou also take the part. vāvaśānā́ḥ as belonging to the pf.
 
 of √vaś ‘desire’, whose participle is homonymous with that of √vāś: “zusammenverlangend” and “riches en désirs” respectively. Although this cannot be faulted formally, the well-known noise-making quality of rivers (embodied in the very word nadī́-) provides a more vivid image and, on the other hand, it is not clear what the rivers would be eager for. 55 On the near-hapax suṣváyanta see my -áya-Formations (52-53), where I argue that the other occurrence of the stem, act. part. suṣváyantī (X.110.6=AV V.27.8) is founded upon this passage and that the form here has been generated in the playful and alliterative context of this vs. (see esp. the following su- adjectives sudúghāḥ sudhārā́ḥ) loosely to suṣū́- ‘well-bearing’, a connection already suggested by Weber (see Oldenberg). Such a derivation matches the theme of the rivers’ burgeoning fertility that dominates the vs. ### 07
-HvN’s restoration of the pausal form at the end of c as caránti is incorrect; it must be carántī, as the Pp. has it.
+Holland & van Nooten Rig Veda edition’s restoration of the pausal form at the end of c as caránti is incorrect; it must be carántī, as the Pp. has it.
 
-Geldner suggests that the ‘imperishable’ (ákṣarā), an esoteric designation for ‘cow’, is the Dakṣiṇā, while Sāy. thinks rather of Vāc. In this Marut vs. I wonder if it doesn’t refer to their mother Pṛśni.
+Geldner suggests that the ‘imperishable’ (ákṣarā), an esoteric designation for ‘cow’, is the Dakṣiṇā, while Sāyaṇa. thinks rather of Vāc. In this Marut vs. I wonder if it doesn’t refer to their mother Pṛśni.
 
 For the phrase yújyam … rayím see VIII.46.19.
 

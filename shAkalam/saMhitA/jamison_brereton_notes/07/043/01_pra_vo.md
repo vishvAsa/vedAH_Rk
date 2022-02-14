@@ -6,7 +6,7 @@ The inf. iṣádhyai is a hapax and variously interpr.: e.g., Geldner “dass si
 
 víprā in c, modifying bráhmāṇi, is the only neut. N/A form of this stem, but the stem does modify a different word for thought/poetic formulation, matí-, as fem.
 
-víprā (VII.66.8, VIII.25.24). The Pp. analyzes it instead as nom. pl. m. víprāḥ, which is of course a possible form underlying the sandhi, but which cannot be easily fitted into the sentence. Sāy. does it by sleight of hand: he glosses the first part of pāda c as yeṣāṃ viprāṇāṃ medhāvināṃ brahmāṇi, converting the supposed nom. pl. viprāḥ into a gen. pl., and then supplies viprāḥ as subj. of pra … arcan in the main clause in a: te viprāḥ prārcann pūrveṇa saṃbandhaḥ, an attempt to justify the nom. in the rel.
+víprā (VII.66.8, VIII.25.24). The Pp. analyzes it instead as nom. pl. m. víprāḥ, which is of course a possible form underlying the sandhi, but which cannot be easily fitted into the sentence. Sāyaṇa. does it by sleight of hand: he glosses the first part of pāda c as yeṣāṃ viprāṇāṃ medhāvināṃ brahmāṇi, converting the supposed nom. pl. viprāḥ into a gen. pl., and then supplies viprāḥ as subj. of pra … arcan in the main clause in a: te viprāḥ prārcann pūrveṇa saṃbandhaḥ, an attempt to justify the nom. in the rel.
 
 cl. Needless to say, this doesn’t work.
 

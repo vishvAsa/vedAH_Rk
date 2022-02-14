@@ -4,9 +4,9 @@ title = "03"
 +++
 yájasva … devā́n. It is forms (both act. and mid.) compounded with ā́that acquire the meaning ‘obtain by sacrifice’. I therefore think the abstract qualities fellowship and vitality must be the objects of our sacrifice/worship, standing in for their divine possessor.
 
-I take ṛtásya dhā́man “domain of truth” as referring to the ritual ground (as does Sāy.).
+I take ṛtásya dhā́man “domain of truth” as referring to the ritual ground (as does Sāyaṇa.).
 
-Geldner’s tr. of bābadhe tentatively connects it with √bandh ‘bind’ (flg. Sāy.), not √bādh ‘(op)press’ (see his n. 5c). But √bandh otherwise lacks a pf. in the RV and beginning in the AV its weak forms have a base bedh-. The standard weak 3rd sg. pf.
+Geldner’s tr. of bābadhe tentatively connects it with √bandh ‘bind’ (flg. Sāyaṇa.), not √bādh ‘(op)press’ (see his n. 5c). But √bandh otherwise lacks a pf. in the RV and beginning in the AV its weak forms have a base bedh-. The standard weak 3rd sg. pf.
 
 to √bādh is babādhé; see Kü 330-31. Schaeffer (156) takes bābadhe as an intens.
 

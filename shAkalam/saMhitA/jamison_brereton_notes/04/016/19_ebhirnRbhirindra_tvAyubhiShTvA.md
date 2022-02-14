@@ -2,7 +2,7 @@
 title = "19"
 
 +++
-The standard tr. supply a verb in ab: Geldner “rufe ich,” WG “bitten … wir.” This seems unnecessary: the instr. phrases in ab can be parallel to dyumnaíḥ in the simile in c, all controlled by the participial phrase abhí sántaḥ “(we) dominating” in c.
+The standard tr. supply a verb in ab: Geldner “rufe ich,” Witzel Gotō “bitten … wir.” This seems unnecessary: the instr. phrases in ab can be parallel to dyumnaíḥ in the simile in c, all controlled by the participial phrase abhí sántaḥ “(we) dominating” in c.
 
 One of the factors that might support supplying a verb in ab is the otherwise apparently orphaned acc. encl. tvā at the end of pāda a, but even as Geldner advances this reason for supplying a verb (n. 19a), he also suggests that tvā could be dependent on immediately preceding tvāyúbhiḥ, an explanation that the close sandhi of the two words (tvāyúbhiṣ ṭvā) might favor.
 

@@ -6,7 +6,7 @@ This vs. describes the changes in color and form of the kindled fire as a sight 
 
 vanád- ‘wood-eater’ assumes a root noun 1st member ván-, preserved in a few forms such as loc. pl. váṃsu (see Schindler, Rt. Noun), against the overwhelming number of forms to thematic vána-.
 
-I do not understand the simile in b, uśígbhyo ná “as if for the fire-priests.” Perhaps the point is that the fire-tending performed by Uśij-priests would cause the smoke to dissipate and the flames to appear, but that in their absence this change comes about anyway. Note that in X.46.2, quoted above ad vs. 2, the Bhṛgus seem to be identified as uśíj-priests, so the simile here may be referring to ritual behavior in ancestral time. WG tr. “wie den (danach) Verlangenden,” but uśíj- is elsewhere the designation of a priest (and cf. Oldenberg Aves. usij-) and is so tr. by them elsewhere (e.g., I.60.4).
+I do not understand the simile in b, uśígbhyo ná “as if for the fire-priests.” Perhaps the point is that the fire-tending performed by Uśij-priests would cause the smoke to dissipate and the flames to appear, but that in their absence this change comes about anyway. Note that in X.46.2, quoted above ad vs. 2, the Bhṛgus seem to be identified as uśíj-priests, so the simile here may be referring to ritual behavior in ancestral time. Witzel Gotō tr. “wie den (danach) Verlangenden,” but uśíj- is elsewhere the designation of a priest (and cf. Oldenberg Aves. usij-) and is so tr. by them elsewhere (e.g., I.60.4).
 
 For ráṃsu as adverbial loc. pl. to the root noun ráṇ- see Schindler Rt. Noun and EWA, both s.v. raṇ. And note raṇvá- in the preceding and following vss. (4a, 6c).
 

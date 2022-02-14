@@ -6,4 +6,4 @@ As disc. in the publ. intro., this vs. forms a notional ring with vs. 1, with bo
 
 (hárim) -- though this is not really problematic, given the ubiquitous variation between sg.
 
-and pl. soma(s) in these hymns. However, it could also be addressed to the gods arriving at the ritual ground (so Sāy), the gods whose location was specified in 1c.
+and pl. soma(s) in these hymns. However, it could also be addressed to the gods arriving at the ritual ground (so Sāyaṇa), the gods whose location was specified in 1c.

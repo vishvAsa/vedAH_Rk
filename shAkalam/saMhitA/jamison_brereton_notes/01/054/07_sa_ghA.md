@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-As Geldner notes, práti inoti is not otherwise attested, and so its sense here is unclear (Geldner “der sich an das Gebot hält,” Renou “qui … va au-devant de l’ordonnance,” WG “der … das Gebot entgegensendet”). I prefer to read the práti as adverbial ‘in turn’, not as a preverb, and ínvati in its usual transitive sense ‘drive, advance [smtg]’.
+As Geldner notes, práti inoti is not otherwise attested, and so its sense here is unclear (Geldner “der sich an das Gebot hält,” Renou “qui … va au-devant de l’ordonnance,” Witzel Gotō “der … das Gebot entgegensendet”). I prefer to read the práti as adverbial ‘in turn’, not as a preverb, and ínvati in its usual transitive sense ‘drive, advance [smtg]’.
 
 See I.55.4.
 

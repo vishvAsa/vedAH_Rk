@@ -15,5 +15,5 @@ So you keep smashing obstacles ...,” with the same mahī́… dhiṣáṇā as
 
 Renou takes b as describing Vṛtra, Schmidt Indra; Geldner’s tr. is not clear, though Schmidt (169 n.) claims it’s to Vṛtra. I follow Schmidt in assigning the phrase to Indra, though the poet may have intended its referent to be ambiguous, indicating that the opponents are almost evenly balanced.
 
-I follow the current standard view (represented already by Geldner and Renou) that ánutta- is the ppl. to the lexeme ánu √dā ‘concede’; Schmidt and WG follow the older deriv. from √nud ‘push’, hence ‘unpushable’ vel sim.
+I follow the current standard view (represented already by Geldner and Renou) that ánutta- is the ppl. to the lexeme ánu √dā ‘concede’; Schmidt and Witzel Gotō follow the older deriv. from √nud ‘push’, hence ‘unpushable’ vel sim.
 

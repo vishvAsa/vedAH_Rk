@@ -7,5 +7,5 @@ My interpretation of pāda a is quite different from Geldner’s and starts from
 implicitly equates neut. sg. kád with fem. pl. táviṣīḥ. These problems can be fixed by taking kád as a question marker, not an interrogative pronoun, and by assuming that the powers in question are not Indra’s (as Geldner takes them), but those of Indra’s enemies. The implied answer to the rhetorical question is “no, there exist no powers that Indra can’t assail.” For táviṣī belonging to others, see, e.g., I.80.10 índro vṛtrásya táviṣīṃ nír ahan … The hapax bekanā́ṭa- is an almost textbook example of non-Indo-Aryan phonology (see Kuiper, Aryans), and it seems safest to take it as the name of a people, rather than in the traditional interpretation (going back to the Nirukta VI.26 bekanāṭāḥ khalu kusīdino bhavanti) as “Wucherer” (usurer, profiteer) as Geldner does.
 
 For disc. see KEWA and EWA s.v. ### 11
-ápūrvyā [sic, not, as in Aufrecht and HvN, ápūrvya] and purūtámāsaḥ play off each other. We may be the latest of many, but our formulations have no predecessors - a variation on the usual theme of the “newest hymn.”
+ápūrvyā [sic, not, as in Aufrecht and Holland & van Nooten Rig Veda edition, ápūrvya] and purūtámāsaḥ play off each other. We may be the latest of many, but our formulations have no predecessors - a variation on the usual theme of the “newest hymn.”
 

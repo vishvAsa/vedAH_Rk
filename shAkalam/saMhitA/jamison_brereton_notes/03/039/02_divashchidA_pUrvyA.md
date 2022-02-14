@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Geldner (/WG), Scar (142) take diváḥ as temporal (“noch vor Tag geboren”).
+Geldner (/Witzel Gotō), Scar (142) take diváḥ as temporal (“noch vor Tag geboren”).
 
 This is possible and would fit with the jā́gṛviḥ ‘wakeful’ and, perhaps, with the silvery garments of c (if they refer to dawn). Nonetheless, with Renou (see also Geldner’s n.
 

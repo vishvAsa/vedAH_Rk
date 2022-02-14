@@ -4,9 +4,9 @@ title = "01"
 +++
 This vs. signals the dedicands of the hymn obliquely: viśvā́naraḥ ‘belonging to all men’ in b evokes its opposite number “all gods,” esp. since the sg. deváḥ occurs later in the same pāda. ‘All’ appears again in d, but with a different referent, ‘world’ (víśvaṃ jágat ‘the whole moving world’). The gods are presumably the addressees of pāda c, but only under the designation ‘youths’ (yuvānaḥ).
 
-The initial ápi of c is somewhat puzzling. Geldner (/WG) render it ‘auch’, which is harmless. Renou takes it “au sense de abhí” (on what grounds?), as a perfectivizing preverb (again, on what grounds?). I am inclined to take it as a locational ‘nearby’, construed loosely with naḥ, despite the distance between the two words.
+The initial ápi of c is somewhat puzzling. Geldner (/Witzel Gotō) render it ‘auch’, which is harmless. Renou takes it “au sense de abhí” (on what grounds?), as a perfectivizing preverb (again, on what grounds?). I am inclined to take it as a locational ‘nearby’, construed loosely with naḥ, despite the distance between the two words.
 
-In d manīṣā́can be nom. or instr. I follow Geldner in taking it as the former, while Renou and WG take it as the latter, with Renou taking Savitar as implied subject and WG víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
+In d manīṣā́can be nom. or instr. I follow Geldner in taking it as the former, while Renou and Witzel Gotō take it as the latter, with Renou taking Savitar as implied subject and Witzel Gotō víśvaṃ jágat. There is general agreement that a verb ‘come’ should be supplied in d.
 
 
 

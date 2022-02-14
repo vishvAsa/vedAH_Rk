@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-Unlike 4a where I separate the identically positioned enclitic gen. from the following instr., I do take asya here with krátubhiḥ, which, unlike svadháyā, is frequently found with a gen. With Geldner I think the referent is Indra (contra WG, who take it to be Vṛtra-Śuṣṇa).
+Unlike 4a where I separate the identically positioned enclitic gen. from the following instr., I do take asya here with krátubhiḥ, which, unlike svadháyā, is frequently found with a gen. With Geldner I think the referent is Indra (contra Witzel Gotō, who take it to be Vṛtra-Śuṣṇa).
 
 I take níṣattam as proleptic, depicting Vṛtra’s position after the action of ní jaghāna in the immediately preceding pāda (4d). With Geldner I consider 5a essentially a continuation of 4d and supply the same verb.
 

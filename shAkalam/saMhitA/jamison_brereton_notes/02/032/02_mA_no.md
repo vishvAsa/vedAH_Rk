@@ -6,7 +6,7 @@ The first pāda of this vs. is esp. puzzling. As usual in the RV, Āyu sows conf
 
 subjunctives, but here the mā́requires an injunctive. Formally the root aor. injunctive should have a zero-grade root, *dbhan, but obviously such a form is not viable. With full-grade restored, the injunctive is identical to the subjunctive. On these forms see Hoffman (Injunk. 242-43), who suggests that a new injunc. dabhur was created to avoid this functional coincidence.
 
-sakhyā́occurs several times with ví √yu ‘keep away’. Narten (Sig. Aor. 214) states that the s-aor. to this root is intrans., and Geldner (/WG) render it thus here: “Nicht soll sich unserer Freundschaft lösen,” presumably with neut. pl. sakhyā́as subj. of the sg. verb. However, VIII.86.1 mā́no ví yauṣṭam sakhyā́, with dual verb seems to me decisive for a transitive interpr. of this idiom. In the publ. tr. (“Do not keep us far away from your companionship”) I take sakhyā́as an instr. (sg.) of separation.
+sakhyā́occurs several times with ví √yu ‘keep away’. Narten (Sig. Aor. 214) states that the s-aor. to this root is intrans., and Geldner (/Witzel Gotō) render it thus here: “Nicht soll sich unserer Freundschaft lösen,” presumably with neut. pl. sakhyā́as subj. of the sg. verb. However, VIII.86.1 mā́no ví yauṣṭam sakhyā́, with dual verb seems to me decisive for a transitive interpr. of this idiom. In the publ. tr. (“Do not keep us far away from your companionship”) I take sakhyā́as an instr. (sg.) of separation.
 
 However, it is also possible that it is an acc. pl., with the tr. “Do not keep your companionship(s) far away from us.” See IV.16.20.
 

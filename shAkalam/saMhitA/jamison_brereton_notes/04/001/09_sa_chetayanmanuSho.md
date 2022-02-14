@@ -8,7 +8,7 @@ I think yajñábandhuḥ has a more specific sense than simply ‘Opfergenosse�
 
 Rather, Agni is literally our ‘tie’ (bándhu-) to the primal sacrifice instituted by Manu because he has always been present, always the same, at every sacrifice since then.
 
-The referent of asya in c is taken as the mortal (márta-) in d by Geldner (implicitly also Renou), as Agni by WG. Either is possible, both grammatically and contextually.
+The referent of asya in c is taken as the mortal (márta-) in d by Geldner (implicitly also Renou), as Agni by Witzel Gotō. Either is possible, both grammatically and contextually.
 
 There is no requirement that a possessive coreferential with the subject be expressed by a reflexive (svásya in this case), and though, technically speaking, an unaccented oblique form of ayám should have an antecedent, the close proximity of mártasya and the fact that the subject of the preceding verb (nayanti), though pl., is clearly mortal would make asya = mortal unproblematic. And given the ritual intimacy of Agni and his worshipper(s), the house belongs to both.
 

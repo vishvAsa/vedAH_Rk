@@ -6,7 +6,7 @@ The very first hemistich of this hymn presents us with a syntactic problem: alth
 
 (This seems to be one possibility that Oldenberg floats, though he is rather sketchy about it.) Though Geldner does not mention the lack of accent, he tr. the whole as a rel clause.
 
-The other two ways to deal with the problem involve having the rel. clause end at the end of the first pāda. Oldenberg also suggested the possibility that the rel. cl. is limited to yó ha śúṣmaiḥ. Renou, Hoffmann (1967: 181), and WG all follow this path, with tr. of the type “You are great, Indra, who are (so) because of your śúṣma.” I rejected that because of its awkwardness, although I recognized that it solves the accentless verb problem, since the main clause can occupy pāda b without problem.
+The other two ways to deal with the problem involve having the rel. clause end at the end of the first pāda. Oldenberg also suggested the possibility that the rel. cl. is limited to yó ha śúṣmaiḥ. Renou, Hoffmann (1967: 181), and Witzel Gotō all follow this path, with tr. of the type “You are great, Indra, who are (so) because of your śúṣma.” I rejected that because of its awkwardness, although I recognized that it solves the accentless verb problem, since the main clause can occupy pāda b without problem.
 
 A third way, also ending the relative clause with the end of the first pāda, seems to me to be less clumsy, and that is to make all of the first pāda the relative clause.
 

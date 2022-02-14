@@ -6,5 +6,5 @@ With Geldner and Renou I (reluctantly) supply imperative ‘give’ in ab. It is
 
 vavákṣa, etc., and the just cited pres. forms.
 
-The hapax ávitāriṇī- is clearly derived from ví √tṝ, but its meaning is variously rendered. Gr (Sāy) ‘enduring, lasting’, Geldner “die nicht auf sich warten lässt” (doesn’t keep (s.o.) waiting), on the basis of X.34.6. However, I take that passage in the Gambler hymn to mean ‘run counter’ (adopting the tr. of Macdonell), or more pointedly ‘doublecross’, the tr. I use here, though something like ‘thwart’ would convey the sense of this idiom as well.
+The hapax ávitāriṇī- is clearly derived from ví √tṝ, but its meaning is variously rendered. Gr (Sāyaṇa) ‘enduring, lasting’, Geldner “die nicht auf sich warten lässt” (doesn’t keep (s.o.) waiting), on the basis of X.34.6. However, I take that passage in the Gambler hymn to mean ‘run counter’ (adopting the tr. of Macdonell), or more pointedly ‘doublecross’, the tr. I use here, though something like ‘thwart’ would convey the sense of this idiom as well.
 

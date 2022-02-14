@@ -10,8 +10,8 @@ The simplex root pres. always takes the acc. of the garment, while the causative
 
 in d) and the “harsh ellipsis” required makes this interpr. unlikely. Lü himself in his tr. (146) implies the waters are bringing the ghee with their cloaks, though in the n.
 
-he sees them as “in Schmelzbutter gekleidet.” Acdg. to Renou the waters fly around him “avec des vêtements (qu’elles se sont donnés) elles-mêmes,” an expression I don’t entirely understand. WG appear to separate svayám and átkaiḥ but, with Lü, Renou, and me, also take the garments as belonging to the waters: “um ihn fliegen die jugendfrischen Wasser von sich selbst mit (ihren) Reisemänteln herum.” The further (and perhaps unjustified) step I take in my tr. is in interpreting svayám so closely with átkaiḥ, with the waters themselves becoming cloaks for him.
+he sees them as “in Schmelzbutter gekleidet.” Acdg. to Renou the waters fly around him “avec des vêtements (qu’elles se sont donnés) elles-mêmes,” an expression I don’t entirely understand. Witzel Gotō appear to separate svayám and átkaiḥ but, with Lü, Renou, and me, also take the garments as belonging to the waters: “um ihn fliegen die jugendfrischen Wasser von sich selbst mit (ihren) Reisemänteln herum.” The further (and perhaps unjustified) step I take in my tr. is in interpreting svayám so closely with átkaiḥ, with the waters themselves becoming cloaks for him.
 
-In b ‘paths’ is to be supplied with adhvasmábhiḥ ‘unbesmirched’ on the basis of II.34.5 adhvasmábhiḥ pathíbhiḥ in the adjacent hymn, at least by my interpr. The standard tr. (Geldner [/WG, Renou, also Lü, 146) supply ‘flames’ instead (though Renou in his n.
+In b ‘paths’ is to be supplied with adhvasmábhiḥ ‘unbesmirched’ on the basis of II.34.5 adhvasmábhiḥ pathíbhiḥ in the adjacent hymn, at least by my interpr. The standard tr. (Geldner [/Witzel Gotō, Renou, also Lü, 146) supply ‘flames’ instead (though Renou in his n.
 
 suggests that “chemins” could be supplied). Where exactly he is located (“highest footprint” generally implies high heaven) and which pathways are meant are unclear to me.

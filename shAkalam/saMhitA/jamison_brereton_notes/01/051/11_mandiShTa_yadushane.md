@@ -2,7 +2,7 @@
 title = "11"
 
 +++
-vaṅkū́vaṅkutárā is generally taken as characterizing the speed of the two horses, and I agree that that is the general idea -- but think this meaning arises indirectly. Geldner takes it as ‘flying’, Renou as ‘rapid’, Hoffmann (Inj. 221) ‘ever faster moving’, WG ‘ever faster galloping’, but this basic meaning does not fit the root to which it most likely belongs, √vañc ‘move crookedly’, or the other occurrences of vaṅkú-, esp. I.114.4. I think the nuance here is the same one found in the deriv. adj.
+vaṅkū́vaṅkutárā is generally taken as characterizing the speed of the two horses, and I agree that that is the general idea -- but think this meaning arises indirectly. Geldner takes it as ‘flying’, Renou as ‘rapid’, Hoffmann (Inj. 221) ‘ever faster moving’, Witzel Gotō ‘ever faster galloping’, but this basic meaning does not fit the root to which it most likely belongs, √vañc ‘move crookedly’, or the other occurrences of vaṅkú-, esp. I.114.4. I think the nuance here is the same one found in the deriv. adj.
 
 vákva(n)- ‘billowing’ à ‘surging’. The non-linear movement of the root is here concretized as a wave motion, with the attendant speed and power associated with waves.
 

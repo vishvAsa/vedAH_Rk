@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-For my view of the Gandharva as another instantiation of soma/the sun see publ. intro. This more or less agrees with Geldner (n. 4a: the sun, acdg. to Sāy.) and Renou (Soma-Gandharva). I do not see this vs. as referring to the Somaraub as Ober does (II.162).
+For my view of the Gandharva as another instantiation of soma/the sun see publ. intro. This more or less agrees with Geldner (n. 4a: the sun, acdg. to Sāyaṇa.) and Renou (Soma-Gandharva). I do not see this vs. as referring to the Somaraub as Ober does (II.162).
 
 As indicated in the publ. intro., with the 2nd hemistich we return to the world of ritual and to the filter specifically.
 

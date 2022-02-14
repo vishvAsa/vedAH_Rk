@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-Though Sāy., Oldenberg, and Renou identify the weaver as Night, this seems unlikely, if the hymn really depicts the evening. More likely a real human weaver, finishing her daily work.
+Though Sāyaṇa., Oldenberg, and Renou identify the weaver as Night, this seems unlikely, if the hymn really depicts the evening. More likely a real human weaver, finishing her daily work.
 
 Note the unetym. phonetic echoes in avyat … váyantī.
 

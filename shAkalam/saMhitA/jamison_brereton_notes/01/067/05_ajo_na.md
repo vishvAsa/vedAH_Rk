@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-Tr. of the subj. ajáḥ vary between ‘unborn’ (Geldner, Renou) and ‘goat’ (Oldenberg SBE, WG), but parallel passages show that it must be the shadowy divinity Aja Ekapad (“One-footed Aja”), whatever the ajá- signifies in that conjunction. (Oldenberg recognizes as much in his n.) Cf. esp. AV XIII.1.6 tátra śiśriye 'já ékapādó 'dr̥ṃhad dyā́vāprthiv ̥ ī bálena; also RV X.65.13 where ékapād ajáḥ is adjacent to divó dhartā́.
+Tr. of the subj. ajáḥ vary between ‘unborn’ (Geldner, Renou) and ‘goat’ (Oldenberg SBE, Witzel Gotō), but parallel passages show that it must be the shadowy divinity Aja Ekapad (“One-footed Aja”), whatever the ajá- signifies in that conjunction. (Oldenberg recognizes as much in his n.) Cf. esp. AV XIII.1.6 tátra śiśriye 'já ékapādó 'dr̥ṃhad dyā́vāprthiv ̥ ī bálena; also RV X.65.13 where ékapād ajáḥ is adjacent to divó dhartā́.
 
 In our passage the word padá- appears in the next verse and gestures toward the epithet.
 

@@ -4,7 +4,7 @@ title = "04"
 +++
 In b the agent noun śamitár- most naturally belongs with the forms of √śam referring to ritual labor. See, e.g., in the preceding hymn V.42.10 śámīṃ śaśamānásya “the (ritual) labor of the one laboring.” However, already in the Aśvamedha hymn of the RV it has acquired the euphemistic meaning ‘queller’, that is, slaughterer, of the sacrificial beast; cf. I.162.9-10, as well as the simile in V.85.1 ví yó jaghā́na śamitéva cárma “who like a butcher a hide split apart …” in this maṇḍala. I think it likely that both senses are meant here; in post-RVic ritual texts Soma is regularly presented as a sacrificial victim.
 
-In the 2nd hemistich Geldner and WG (cf. also Oldenberg) take c and d as separate clauses, utilizing the verb duduhe for both and supplying a priest (Geldner: Adhvaryu) as subj. of c.
+In the 2nd hemistich Geldner and Witzel Gotō (cf. also Oldenberg) take c and d as separate clauses, utilizing the verb duduhe for both and supplying a priest (Geldner: Adhvaryu) as subj. of c.
 
 The reason is nom. sugábhastiḥ lit. ‘having good fists’, which must otherwise modify aṃśú- ‘plant’. With Renou, in the publ. tr. I take cd as a single clause with sugábhastiḥ … aṃśúḥ a single NP, assuming that ‘having good fists’ of the soma plant means that the plant has received good handling from the fists of its preparer. (Renou, by contrast, tr.
 

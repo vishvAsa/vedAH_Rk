@@ -9,7 +9,7 @@ Geldner (also Kü 306) takes pāda a separately from b and supplies ‘give’, 
 
 For bhágam √pṛc, see comments ad 6b. bhága- also participates in a nexus with the previous verse: in 10d it appears in a simile, but here it has been promoted to the “real” object to which other entities are compared. In the first hemistich the common noun usage of the stem is dominant, but in the 2nd it is the god Bhaga.
 
-Contrary to Geldner (/WG/Kü) but with Oldenberg (SBE) and Renou, I take dámūnasam as an adj. with rayím rather than as an independent nominal referring to the master of the house (Geldner ‘Hausgebieter’).
+Contrary to Geldner (/Witzel Gotō/Kü) but with Oldenberg (SBE) and Renou, I take dámūnasam as an adj. with rayím rather than as an independent nominal referring to the master of the house (Geldner ‘Hausgebieter’).
 
 Note devā́nāṃ śáṃsam here matching mártaṃ śáṃsam in 6d. As there, the object of the verb yámati here involves a zeugma, of animates (the races of gods and men) and the inanimate laud of the gods.
 

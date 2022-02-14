@@ -10,7 +10,7 @@ Geldner (n. 4b) identifies amṛ́tasya cā́ruṇaḥ as a reference to the dri
 
 However, he also wants it to be a type of partitive genitive (“eine Art von Genit.
 
-partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of partitive gen. could be construed with ‘beget’. I see no reason why this gen. cannot depend on dhárman as ṛtásya does (Sāy.’s solution).
+partit.”) dependent on ájījanaḥ; it is difficult to imagine what sort of partitive gen. could be construed with ‘beget’. I see no reason why this gen. cannot depend on dhárman as ṛtásya does (Sāyaṇa.’s solution).
 
 
 

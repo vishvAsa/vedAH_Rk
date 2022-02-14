@@ -6,7 +6,7 @@ See publ. intro. for the mismatch in b between the dual subj. svásārā and the
 
 Gr assigns aveṣan to a separate root √viṣ ‘sich ergiessen’, not to the wellattested √viṣ ‘labor’. This division is tentatively accepted by Mayrhofer (EWA s.v. VEṢ), argued for by Narten (s-aor., 245), and accepted by Gotō (1st class, 299). The tr.
 
-of both Geldner and WG reflect this analysis, though Renou’s does not. Since ‘labor, toil’ works fine for the three forms that Gr assigns to this other root (nearby I.181.6 and VIII.75.11 in addition to this one) and for the one added by Narten (X.114.1), I see no reason to make the separation.
+of both Geldner and Witzel Gotō reflect this analysis, though Renou’s does not. Since ‘labor, toil’ works fine for the three forms that Gr assigns to this other root (nearby I.181.6 and VIII.75.11 in addition to this one) and for the one added by Narten (X.114.1), I see no reason to make the separation.
 
 Geldner unaccountably tr. sakhyā́váyaś ca as instr. The reasons he gives (n. 2d) seem insufficient, esp. as a conjoined acc. phrase makes perfect sense.
 

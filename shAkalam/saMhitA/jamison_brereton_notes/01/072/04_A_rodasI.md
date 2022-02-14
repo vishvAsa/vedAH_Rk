@@ -8,7 +8,7 @@ The intensive part. vévidānāḥ could technically belong either to √vid ‘
 
 The Pp. reads rudríyā (neut. pl.), not -āḥ with most tr. As Geldner and Oldenberg (Noten) point out, the Pp. reading is not impossible, but the masc. pl. works better. If the first pāda makes reference to Rodasī, a nom. pl. referring to the Maruts makes better sense. Tr. differ on the interpretation of nemádhitā; I render it as close to my interpr.
 
-of its other three occurrences, ‘when facing the other side’, used of battle arrays (VI.33.4, VII.27.1, X.93.13). That it refers to men and gods being divided (so Geldner, WG) seems farfetched and ignores the evidence of the other identical occurrences and inserts a referent (men and gods) that is simply not there.
+of its other three occurrences, ‘when facing the other side’, used of battle arrays (VI.33.4, VII.27.1, X.93.13). That it refers to men and gods being divided (so Geldner, Witzel Gotō) seems farfetched and ignores the evidence of the other identical occurrences and inserts a referent (men and gods) that is simply not there.
 
 The last pāda echoes 2d, except it is Agni standing on the highest track, not his pursuers.
 

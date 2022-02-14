@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-Geldner (/WG) treat this verse as containing an anacoluthon, with the plural pres.
+Geldner (/Witzel Gotō) treat this verse as containing an anacoluthon, with the plural pres.
 
 part. stṛṇānā́saḥ modifying the 1st singular pres. vṛñjé: “(We) strewing …, I twist …” This seems unnecessary to me. I take the participle as predicated in a main clause, with the vṛñjé clause parallel: “They … are strewing the ritual grass; I twist (the grass) …” Although predicated present participles are much rarer than their past participle equivalents, they are not non-existent: the commentary so far as identified a fair number of examples that can be so interpr. and whose alternative interpretations are forced.
 

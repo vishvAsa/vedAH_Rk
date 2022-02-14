@@ -8,5 +8,5 @@ Very unusually, pāda b is a verbatim repetition of 2d. Except in refrains, repe
 
 Although the intens. dávidhu- (also dódhu-) generally takes an object, it is often an internal one (that is, a body part of the subj., e.g., lips, horns), and in this passage I think it is simply intransitive (though Schaeffer, Intens. 138, supplies lips).
 
-Geldner (/WG) supply ‘darkness’ as obj. on the basis of IV.13.4 dávidhvataḥ … támaḥ, but if, as seems likely, horses are the subject, I have trouble envisioning them shaking anything with their hooves.
+Geldner (/Witzel Gotō) supply ‘darkness’ as obj. on the basis of IV.13.4 dávidhvataḥ … támaḥ, but if, as seems likely, horses are the subject, I have trouble envisioning them shaking anything with their hooves.
 

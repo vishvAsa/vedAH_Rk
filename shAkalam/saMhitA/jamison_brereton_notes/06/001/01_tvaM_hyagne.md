@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-As noted ad loc., the first hymn of Maṇḍala IV begins identically (IV.1.1.a): tváṃ hí agne, with the same puzzling use of ordinarily causal hí in the first pāda of a hymn. It might be possible here to tr. the first hemistich as a causal clause subordinate to cd: “Because … you became the first minder of this insightful thought and the Hotar, you made …” On the stem manótar- see comm. ad II.9.4 and IV.1.16, 5.10. Note also that the HvN pausal resolution of the word as manóta is faulty; it should end in a long -ā.
+As noted ad loc., the first hymn of Maṇḍala IV begins identically (IV.1.1.a): tváṃ hí agne, with the same puzzling use of ordinarily causal hí in the first pāda of a hymn. It might be possible here to tr. the first hemistich as a causal clause subordinate to cd: “Because … you became the first minder of this insightful thought and the Hotar, you made …” On the stem manótar- see comm. ad II.9.4 and IV.1.16, 5.10. Note also that the Holland & van Nooten Rig Veda edition pausal resolution of the word as manóta is faulty; it should end in a long -ā.
 
 Geldner construes the gen. asyā́dhiyáḥ with both manótā and hótā, but the latter doesn’t usually govern a genitive.
 

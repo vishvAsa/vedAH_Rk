@@ -4,7 +4,7 @@ title = "05"
 +++
 On my interpr. of this vs., see publ. tr. Both Geldner and Renou have quite different views.
 
-Geldner takes the asmin to be the sacrificer (flg. Sāy.), with the piśáṅgam … venám (my “tawny tracker,” his “den goldenen Seher”) “ein innerer Mahner” of this would-be stingy man. This anticipation of an Upaniṣadic-type Inner Controller seems anachronistic to me. Renou simply -- in my opinion over-simplistically -- takes all elements to be soma in one form or another: the soma drops are urged to put “le (Soma) Veilleur à couleur-d’or” into the soma liquid.
+Geldner takes the asmin to be the sacrificer (flg. Sāyaṇa.), with the piśáṅgam … venám (my “tawny tracker,” his “den goldenen Seher”) “ein innerer Mahner” of this would-be stingy man. This anticipation of an Upaniṣadic-type Inner Controller seems anachronistic to me. Renou simply -- in my opinion over-simplistically -- takes all elements to be soma in one form or another: the soma drops are urged to put “le (Soma) Veilleur à couleur-d’or” into the soma liquid.
 
 This endless loop doesn’t seem to get us anywhere. I do agree with Renou that soma/Soma is represented by two of the elements: the drops that are addressed (indavaḥ) are soma the substance and the “tawny tracker” is Soma the god. The drops are urged to put Soma the god into Indra (my interpr. of the referent of asmin); cf., from the same poet, IX.11.6 índum índre dadhātana.
 

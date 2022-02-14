@@ -2,7 +2,7 @@
 title = "15"
 
 +++
-I follow Geldner’s suggestion (in n. to 15a, followed by WG) that the unexpressed subject that is being conceded to Indra is the soma-drink. The parallel he adduces, V.29.5, contains the gods, the soma-drink, the concession, and Etaśa: ádha krátvā maghavan túbhyaṃ devā́ánu víśve adaduḥ somapéyam yát sū́ryasya harítaḥ pátantīḥ puráḥ satī́r úparā étaśe káḥ Then according to your will, o bounteous one, all the gods conceded the soma-drinking to you, when you put the flying golden mares of the Sun behind, though they were in front, in Etaśa('s presence).
+I follow Geldner’s suggestion (in n. to 15a, followed by Witzel Gotō) that the unexpressed subject that is being conceded to Indra is the soma-drink. The parallel he adduces, V.29.5, contains the gods, the soma-drink, the concession, and Etaśa: ádha krátvā maghavan túbhyaṃ devā́ánu víśve adaduḥ somapéyam yát sū́ryasya harítaḥ pátantīḥ puráḥ satī́r úparā étaśe káḥ Then according to your will, o bounteous one, all the gods conceded the soma-drinking to you, when you put the flying golden mares of the Sun behind, though they were in front, in Etaśa('s presence).
 
 In the publ. tr. I take eṣām as a genitival agent, somewhat reluctantly. However, ET suggests a much more attractive solution, which rescues the syntax: that eṣā́m is dependent on asmaí “just to this one of them [=gods].” The singularity of Indra would then be emphasized by the ékaḥ that begins the next pāda.
 

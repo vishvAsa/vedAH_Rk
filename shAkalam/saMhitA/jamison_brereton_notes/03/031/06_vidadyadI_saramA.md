@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-Geldner (/WG) interpret ab as a direct quotation from the gods, for reasons that are unclear to me. Although an immediate past reading might help account for the injunctive aorists vidát (a) and kaḥ (b), in fact the second hemistich also contains two injunctives, nayat (c) and gāt (d), the latter of which is also an aorist. So there is no clear grammatical distinction between the two half-verses, and the subject (Saramā) also remains the same throughout (by most interpr.), with all four pādas focusing on the same narrative. Other interpreters (Renou, Lü, Schmidt) ignore this odd decision of Geldner’s.
+Geldner (/Witzel Gotō) interpret ab as a direct quotation from the gods, for reasons that are unclear to me. Although an immediate past reading might help account for the injunctive aorists vidát (a) and kaḥ (b), in fact the second hemistich also contains two injunctives, nayat (c) and gāt (d), the latter of which is also an aorist. So there is no clear grammatical distinction between the two half-verses, and the subject (Saramā) also remains the same throughout (by most interpr.), with all four pādas focusing on the same narrative. Other interpreters (Renou, Lü, Schmidt) ignore this odd decision of Geldner’s.
 
 In a yádī should be read yád ī; see 2c above.
 

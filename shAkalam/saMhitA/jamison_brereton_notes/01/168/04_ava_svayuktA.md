@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-I supply ‘horses’ as subj. of a and obj. of b. Geldner (/WG) take codata in b as intransitive/absolute/reflexive [it is somewhat difficult to tell from the tr.] ‘treibt selbst … an’, but this verb otherwise takes an obj., and if it were reflexive we would expect middle voice. Renou supplies the same obj. as I do.
+I supply ‘horses’ as subj. of a and obj. of b. Geldner (/Witzel Gotō) take codata in b as intransitive/absolute/reflexive [it is somewhat difficult to tell from the tr.] ‘treibt selbst … an’, but this verb otherwise takes an obj., and if it were reflexive we would expect middle voice. Renou supplies the same obj. as I do.
 
 I interpr. tmánā in its full lexical sense ‘with breath’, as sometimes elsewhere (see also 5b). The “breath” of the Maruts would of course be the storm winds.
 

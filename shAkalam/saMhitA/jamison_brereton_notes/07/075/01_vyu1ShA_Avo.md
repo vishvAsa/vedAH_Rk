@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-Although the Saṃhitā form āvo in pāda a (Pp. āvaḥ) is assigned to √vṛ ‘cover’ by Gr, it clearly belongs to √vas ‘shine, dawn’. See, e.g., AiG I.335. It is rightly glossed by Sāy. with vyaucchat. Both roots occur regularly with the preverb ví as here (‘dawn widely’ / ‘uncover’) and both are regularly found in dawn contexts.
+Although the Saṃhitā form āvo in pāda a (Pp. āvaḥ) is assigned to √vṛ ‘cover’ by Gr, it clearly belongs to √vas ‘shine, dawn’. See, e.g., AiG I.335. It is rightly glossed by Sāyaṇa. with vyaucchat. Both roots occur regularly with the preverb ví as here (‘dawn widely’ / ‘uncover’) and both are regularly found in dawn contexts.
 
 Here ví … āvas explicitly contrasts with ápa … āvar (√vṛ) ‘uncovered’ in c.
 

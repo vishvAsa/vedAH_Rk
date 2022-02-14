@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-I take the two occurrences of īyate in b as passives to √yā ‘implore, beseech’ (with putative underlying accent īyáte)(so also WG), not to ī́yate ‘speeds’ as most do.
+I take the two occurrences of īyate in b as passives to √yā ‘implore, beseech’ (with putative underlying accent īyáte)(so also Witzel Gotō), not to ī́yate ‘speeds’ as most do.
 
 This echoes tám pṛchata “ask him!” that opens the verse and the two forms of √pṛch opening vs. 2.
 

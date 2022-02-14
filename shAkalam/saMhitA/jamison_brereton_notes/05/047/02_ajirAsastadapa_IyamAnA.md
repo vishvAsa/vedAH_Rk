@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Again I take the vs. as having one referent, while Geldner, Renou, and WG split it into two sentences with two different subjects. In my view, the intent is again to mislead -- that is, in this riddle hymn, to suggest one referent to the audience and then spring a different one on them towards the end of the verse, in this case the very last word pánthāḥ ‘paths’. These are presumably the paths that connect heaven and earth and enable the gods to come to the sacrifice and the sacrificial offerings to make their way to heaven. Although paths are not ordinarily credited with much agency -- and the descriptions in the first hemistich attribute bustling activity to their referents -- the lively traffic between heaven and earth can spill over onto the paths that bear this traffic.
+Again I take the vs. as having one referent, while Geldner, Renou, and Witzel Gotō split it into two sentences with two different subjects. In my view, the intent is again to mislead -- that is, in this riddle hymn, to suggest one referent to the audience and then spring a different one on them towards the end of the verse, in this case the very last word pánthāḥ ‘paths’. These are presumably the paths that connect heaven and earth and enable the gods to come to the sacrifice and the sacrificial offerings to make their way to heaven. Although paths are not ordinarily credited with much agency -- and the descriptions in the first hemistich attribute bustling activity to their referents -- the lively traffic between heaven and earth can spill over onto the paths that bear this traffic.
 
 tádapaḥ is most likely adverbial here (so already Gr), though Geldner suggests it is nom. pl. “mit Abfall der Endung,” for which there is no motivation.
 

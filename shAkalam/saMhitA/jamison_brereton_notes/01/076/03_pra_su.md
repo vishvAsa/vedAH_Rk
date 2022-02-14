@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-The accent on dhákṣi is unmotivated. WG label it as antithetical accent, but that is only found in sequences that are more tightly bound rhetorically than this one.
+The accent on dhákṣi is unmotivated. Witzel Gotō label it as antithetical accent, but that is only found in sequences that are more tightly bound rhetorically than this one.
 
 (If all imperatives in sequence received “antithetical accent,” there would be many more of them, beginning with ní ṣīda and bhavā in 2ab.) Geldner and Renou both assert that the referent of asmai in d, the recipient of the guest reception (ātithyám), is Agni. This seems perverse to me, though grammatically possible. Agni is urged to bring Indra (“the lord of soma”) to the ritual ground; the guest reception is surely for this new arrival and will consist of the usual ritual offerings given to Indra, including soma. It is of course true that Agni is regularly called ‘guest’ (átithi-), but that doesn’t seem relevant here.
 

@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-Geldner takes śaktím as an infinitive, governing a dat. vṛ́ṣṇe (flg. the Pp.): “… dem Bullen einen Dienst zu leisten wünschen.” This somewhat wayward interpr. is not followed by the other standard tr., where śaktí- receives its usual abstract sense -- though WG do preserve the datival interpr. of the ambig. Saṃhitā vṛ́ṣna (“die dem Stier das Kraftvermögen wünschen”). The more natural interpr. is Renou’s, with underlying gen. vṛ́ṣṇaḥ: “qui recherchent la force-active du taureau,” and my tr.
+Geldner takes śaktím as an infinitive, governing a dat. vṛ́ṣṇe (flg. the Pp.): “… dem Bullen einen Dienst zu leisten wünschen.” This somewhat wayward interpr. is not followed by the other standard tr., where śaktí- receives its usual abstract sense -- though Witzel Gotō do preserve the datival interpr. of the ambig. Saṃhitā vṛ́ṣna (“die dem Stier das Kraftvermögen wünschen”). The more natural interpr. is Renou’s, with underlying gen. vṛ́ṣṇaḥ: “qui recherchent la force-active du taureau,” and my tr.
 
 reflects that.
 

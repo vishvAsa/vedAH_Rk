@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-As Bl (RVReps) and Geldner point out, this vs. appears to have been constructed from textual blocks found in I.14.12 and I.134.3. Our pāda a yuṅgdhváṃ hy áruṣī ráthe is identical to I.14.12a except for the sg. impv. yukṣvā́hí rather than our pl.
+As Bloomfield (RVReps) and Geldner point out, this vs. appears to have been constructed from textual blocks found in I.14.12 and I.134.3. Our pāda a yuṅgdhváṃ hy áruṣī ráthe is identical to I.14.12a except for the sg. impv. yukṣvā́hí rather than our pl.
 
 yuṅgdhvám hí. If our pāda is modeled on I.14.12 (or a similar source) it could explain both the hí with no obvious function and the sg. chariot ráthe for the plural Maruts; this mismatch in number is repaired in the next pāda yuṅgdhvám rátheṣu rohítaḥ.
 

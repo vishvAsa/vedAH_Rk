@@ -8,5 +8,5 @@ of this vs. here find a way to incorporate our 5d into the syntax of the verse, 
 
 We can only discover so much. As for grammar, I take the yā́of d as a neut. pl.
 
-referring to sádāṃsi in c (so also Renou, though with a slightly different interpr. of the rest). Geldner (/WG) instead take it as a fem. nom. sg. referring to the pathyā̀in b, with c as parenthetical. I do not entirely understand the vratéṣu in d. The hidden commandments may be the laws that govern the further reaches of the cosmos.
+referring to sádāṃsi in c (so also Renou, though with a slightly different interpr. of the rest). Geldner (/Witzel Gotō) instead take it as a fem. nom. sg. referring to the pathyā̀in b, with c as parenthetical. I do not entirely understand the vratéṣu in d. The hidden commandments may be the laws that govern the further reaches of the cosmos.
 

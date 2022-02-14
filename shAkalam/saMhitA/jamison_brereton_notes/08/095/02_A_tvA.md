@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-HvN restore the sandhi in a (asyā́ndhasa) as asya ándhasa, but asyá should surely be accented, with the Pp., because it modifies ándhasaḥ rather than being used pronominally.
+Holland & van Nooten Rig Veda edition restore the sandhi in a (asyā́ndhasa) as asya ándhasa, but asyá should surely be accented, with the Pp., because it modifies ándhasaḥ rather than being used pronominally.
 
 I follow Geldner in supplying vikṣú with the fem. víśvāsu in c, on the basis of 3d.
 

@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-On reṇú-kakāṭa- see EWA s.v. kakā́ṭikā-, kṛ́kāṭa-. Some part of the back of the head/neck is meant. What exact threat the dusty-necked steed poses to the cows isn’t exactly clear. Sāy. explains árvā as yuddhārtham āgato ‘śvaḥ. I would limit the “intent to fight” more narrowly to a cattle raid, but there is no further evidence to bring to bear. See immed. below.
+On reṇú-kakāṭa- see EWA s.v. kakā́ṭikā-, kṛ́kāṭa-. Some part of the back of the head/neck is meant. What exact threat the dusty-necked steed poses to the cows isn’t exactly clear. Sāyaṇa. explains árvā as yuddhārtham āgato ‘śvaḥ. I would limit the “intent to fight” more narrowly to a cattle raid, but there is no further evidence to bring to bear. See immed. below.
 
 saṃskṛtatrám is also somewhat problematic. It is generally referred to the root √kṛt ‘cut’ (see AiG II.2.170 and, most recently, EWA p. 316 s.v. KART1 ), but this affiliation is disputed by Whitney (Roots, p. 23) and, most vigorously, by Oldenberg, who assigns it to √kṛ for both formal and semantic reasons. The standard rendering is ‘Schlachtbank’ (slaughter or, Whitney [AV, despite Rts], slaughterhouse). Against this interpr., Oldenberg makes the reasonable point that in this pre-ahiṃsā era there’s no reason why a cow-owner wouldn’t have his cows slaughtered when he wanted to.
 

@@ -16,5 +16,5 @@ passage III.36.7 just quoted; also III.46.5, where Adhvaryus are the subj. of hi
 
 It could also be, with Renou, the Aṅgirases, who have been operating as priests in the Sattra depicted earlier.
 
-Geldner (/WG) take kavíbhiḥ as an adjective with pavítraiḥ (Geldner: “mit geistigen Filtern”), but in my opinion there are no adjectival uses of kaví-. Instead it is used as a defining appositive (poets as filters), as I take it, sim. Renou, or it is a separate agent with punānā́ḥ (“being purified by poets with filters”), with Schmidt (170).
+Geldner (/Witzel Gotō) take kavíbhiḥ as an adjective with pavítraiḥ (Geldner: “mit geistigen Filtern”), but in my opinion there are no adjectival uses of kaví-. Instead it is used as a defining appositive (poets as filters), as I take it, sim. Renou, or it is a separate agent with punānā́ḥ (“being purified by poets with filters”), with Schmidt (170).
 

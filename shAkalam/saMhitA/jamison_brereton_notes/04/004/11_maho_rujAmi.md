@@ -8,7 +8,7 @@ Oldenberg (SBE), Renou think that the poet’s lineage (bandhútā) is with Agni
 
 The next question is what to do with maháḥ. Oldenberg (SBE) takes it as acc. pl.
 
-object of rujāmi; Geldner (/WG) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
+object of rujāmi; Geldner (/Witzel Gotō) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
 ... áṅgiraso bhavema, ádriṃ rujema ...
 
 > “Might we become Aṅgirases; might

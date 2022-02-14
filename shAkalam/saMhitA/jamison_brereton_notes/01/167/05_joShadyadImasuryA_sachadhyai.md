@@ -8,7 +8,7 @@ jóṣat is an aor. subjunctive. As the first word of the verse, it introduces t
 
 The bahuvrīhi nṛmáṇas- usually means ‘manly minded’ and so it is interpr.
 
-here by most (Geldner [/Hoffmann/WG] ‘mannhaftgesinnt’; Renou ‘l’âme virile’). But though she does display a fair amount of gumption, I find this an odd characterization of the very feminine Rodasī. In this context I take it rather as ‘having her mind on (the) men’ (that is, the Maruts, who are regularly called nṛ́-). See vṛ́ṣamaṇas- in 7c.
+here by most (Geldner [/Hoffmann/Witzel Gotō] ‘mannhaftgesinnt’; Renou ‘l’âme virile’). But though she does display a fair amount of gumption, I find this an odd characterization of the very feminine Rodasī. In this context I take it rather as ‘having her mind on (the) men’ (that is, the Maruts, who are regularly called nṛ́-). See vṛ́ṣamaṇas- in 7c.
 
 Pāda c presents the crucial moment in the RV svayaṃvara, the bride’s mounting the chariot of the groom (see Jamison 2001, Fs. Parpola). On a possible preterital tr. of ā́… gāt see comm. on the next vs. ### 06
 The decisive moment of mounting is repeated immediately in this verse, in the causative ā́sthāpayanta. The -anta form can be simply an -anta replacement of act. -an of the usual type (Jamison 1979), but it might also be semantically justified: “They cause(d) her to mount (their own chariot).” As Hoffmann points out, ā́sthāpayanta need not be read as impf. ā́ asthāpayanta with the Pp., but can be an injunctive ā́sthāpayanta. The publ. tr. has preterital “caused … to mount.,” and I still think that is correct, though a general present could provide an easy transition to the here-and-now of the ritual found in cd.

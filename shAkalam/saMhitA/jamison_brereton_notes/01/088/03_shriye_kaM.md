@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As indicated in the publ. tr., I take the so-far-unnamed poets (who appear as the Gotamas in the next verse) as the subject of kṛṇavante. They are erecting their thoughts like trees for the Maruts to chop down with the axes in pāda a. By contrast, most tr. take the Maruts as subject of kṛṇavante (so explicitly Renou, implicitly WG; Geldner hesitates between the Maruts and the poets).
+As indicated in the publ. tr., I take the so-far-unnamed poets (who appear as the Gotamas in the next verse) as the subject of kṛṇavante. They are erecting their thoughts like trees for the Maruts to chop down with the axes in pāda a. By contrast, most tr. take the Maruts as subject of kṛṇavante (so explicitly Renou, implicitly Witzel Gotō; Geldner hesitates between the Maruts and the poets).
 
 The simile in pāda b causes some minor grammatical problems. The Pp reads medhā́, but if this word belongs to medhā́- (fem.) ‘wise thought’, we should rather read medhā́ḥ (so Geldner, Gr.). This is of course possible in this sandhi context, but pādafinal ūrdhvā́is not amenable to such an analysis: it must be neuter plural and therefore can’t modify a fem. medhā́ḥ. Gr sets up a neut. medhá- ‘Schaft’ for just this passage, presumably to deal with the apparent gender disharmony. But it is simpler to assume that ūrdhva- has been attracted into the neuter by the vánā in the simile (so Oldenberg).
 

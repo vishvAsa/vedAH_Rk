@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-With Geldner (/WG) I supply “to those two” in b, to provide both a goal for icháñ carati and an antecedent for yáyoḥ in c.
+With Geldner (/Witzel Gotō) I supply “to those two” in b, to provide both a goal for icháñ carati and an antecedent for yáyoḥ in c.
 
 III.54.3-4: The co-occurrence of ṛtá- and satyá- in these two vss. (3a, 4b) is striking.
 

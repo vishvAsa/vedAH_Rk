@@ -6,7 +6,7 @@ In pāda a the Pp reads śriyé for the Saṃhitā śriyá ā́. Geldner concurs
 
 “… est issu de la gloire,” with an apparent ablative - which is how I interpr. the form. The lexeme nír √i ‘come out, come forth’ generally takes an abl., and the gesture towards a versified paradigm (śriyé … śriyás [a], śríyam [b]) speak in favor of the abl.
 
-The pl. subj. of c may be the singers, the only plural entitiy overt in the vs. so far. So Sāy. and by implication (see his n. 4c) Geldner However, I think that Renou is correct is supplying instead “les sucs-de-soma,” since vasāná-, common in IX, is applied only to soma. The interchange between sg. and pl. in reference to soma and its streams/drops, etc., is of course ubiquitous in this maṇḍala.
+The pl. subj. of c may be the singers, the only plural entitiy overt in the vs. so far. So Sāyaṇa. and by implication (see his n. 4c) Geldner However, I think that Renou is correct is supplying instead “les sucs-de-soma,” since vasāná-, common in IX, is applied only to soma. The interchange between sg. and pl. in reference to soma and its streams/drops, etc., is of course ubiquitous in this maṇḍala.
 
 The final pāda is quite unclear and its interpr. depends in part on identity of the ref. of the loc. mitádrau ‘of measured pace’. Geldner and Renou both take it to be Soma.
 

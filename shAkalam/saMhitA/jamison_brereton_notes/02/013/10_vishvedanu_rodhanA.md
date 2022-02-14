@@ -5,7 +5,7 @@ title = "10"
 Although víśved … rodhanā́(ḥ) must belong together semantically, it is difficult to make this work grammatically: rodhanā́in this sandhi pos. can’t be neut.
 
 -ā, but must stand for -ā(ḥ) -- so Pp. -- (or, far less likely, -ai). It therefore can’t
-properly be modified by a víśvā extracted from víśvéd. Oldenberg sees the problem, but Gr simply lists the form as neut. -ā; Geldner [/WG], Renou don’t mention and tr. as a phrase. The sandhi of either víśvéd or rodhanā́asya has to be tampered with to harmonize the two words; I have no opinion on how to make this work. The only other RVic occurrence of the noun is differently accented: ródhanā, a neut. pl. (I.121.7); AiG II.2.190 considers our form a fem. stem rodhanā́- beside root-accented neut. ródhana-, acdg.
+properly be modified by a víśvā extracted from víśvéd. Oldenberg sees the problem, but Gr simply lists the form as neut. -ā; Geldner [/Witzel Gotō], Renou don’t mention and tr. as a phrase. The sandhi of either víśvéd or rodhanā́asya has to be tampered with to harmonize the two words; I have no opinion on how to make this work. The only other RVic occurrence of the noun is differently accented: ródhanā, a neut. pl. (I.121.7); AiG II.2.190 considers our form a fem. stem rodhanā́- beside root-accented neut. ródhana-, acdg.
 
 to an existing pattern.
 

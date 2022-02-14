@@ -2,7 +2,7 @@
 title = "09"
 
 +++
-Geldner (WG), following Gr, tr. sáhasā as an adj. modifying Indra (“mit dem starken Indra”), but this is of course impossible. With that accent it must be a neut.; accent shift to *sahás- would turn it into an adjective, but this form is unattested (versus, e.g., yáśas- ‘glory’à yaśás- ‘glorious’).
+Geldner (Witzel Gotō), following Gr, tr. sáhasā as an adj. modifying Indra (“mit dem starken Indra”), but this is of course impossible. With that accent it must be a neut.; accent shift to *sahás- would turn it into an adjective, but this form is unattested (versus, e.g., yáśas- ‘glory’à yaśás- ‘glorious’).
 
 On the analysis of fairly common 3rd sg. īśata (always with mā́(kiḥ)) as an injunc. to a reduplicated aor., see Hoffmann 1967 (Injunk.): 64-66 (seemingly accepted by Lub, Concordance). Although he adduces semantic and syntactic factors that impose this interpretation, it nonetheless does not seem entirely satisfying, because the thematic stem envisioned (īśa- [never accented]) seems insufficiently distinguished from the presential perfect stem ī́ś-, and Hoffmann does not suggest a mechanism for deriving such an aorist stem from either the presential perfect stem or directly from the root. Moreover, his argument that mā́preventive clauses should have an aorist might falter in the face of a root that simply lacks an aorist. (See now IH’s work demonstrating just that.) I prefer Debrunner’s explanation, rejected by Hoffmann, that īśata represents a re-marking of īśa with -ta to make it more clearly a 3rd sg. Judging from the accent (ī́śe, ī́śāna- [versus īśāná-]), the old presential perfect had been mostly reanalyzed as a root present, and īśa would be an anomalous 3rd sg.
 

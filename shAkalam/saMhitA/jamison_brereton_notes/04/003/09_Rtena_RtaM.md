@@ -4,7 +4,7 @@ title = "09"
 +++
 This vs. expresses the beloved paradox about cows and milk, that the cow is “raw” but her milk “cooked” (that is, ready to consume), and further that a black cow can still give white milk. These paradoxes describe in the first instance the production of the ritual offering, the milk that will produce the ghee to be poured into the ritual fire. But it may also (esp. the 2nd hemistich) characterize the transition from the night (black cow) to dawn (the gleaming milk) at the dawn sacrifice; see Janert (Dhāsi, 29ff.).
 
-The standard interpr. (save for WG) take ṛténa as the agent with the ppl.
+The standard interpr. (save for Witzel Gotō) take ṛténa as the agent with the ppl.
 
 níyatam (e.g., Renou “L’Ordre a été fixé par l’Ordre (même)”). Because the flg. 3 vss.
 

@@ -6,5 +6,5 @@ As in the last verse the usual ritual roles of god and mortal are reversed, with
 
 tvám aṅgá reprises the tag of vss. 7-9, índro aṅgá, with of course the same referent.
 
-I follow Geldner (/WG) in taking vs. 20 as the quoted vácaḥ of pāda d, though it would be equally possible to interpret vácaḥ as referring to what precedes, indeed even to the whole of the hymn.
+I follow Geldner (/Witzel Gotō) in taking vs. 20 as the quoted vácaḥ of pāda d, though it would be equally possible to interpret vácaḥ as referring to what precedes, indeed even to the whole of the hymn.
 

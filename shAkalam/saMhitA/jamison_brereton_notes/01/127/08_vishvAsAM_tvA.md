@@ -4,7 +4,7 @@ title = "08"
 +++
 This verse begins straightforwardly enough but its syntax deteriorates (or gets more convoluted) towards the end.
 
-The three-member cmpd. satyágirvāhas- in c is implicitly analyzed by Geldner as satyágir-vāhas- (“ihn den wahrhafte Reden anziehen”; sim. WG), but, on the one hand, gírvāhas- is an established bahuvrīhi (8x; “whose vehicle is songs” -- that is, the god [Indra] who is conveyed to the sacrifice by the songs dedicated to him) and, on the other, satyá- never modifies gír- as far as I can tell. Oldenberg (SBE) tr. “who truly art carried by prayers as by a vehicle,” with the correct internal structure, in my opinion. My “trusty” for satyá- may be pushing the term a bit, but the idea is that the song-vehicle is real and so a trustworthy conveyance.
+The three-member cmpd. satyágirvāhas- in c is implicitly analyzed by Geldner as satyágir-vāhas- (“ihn den wahrhafte Reden anziehen”; sim. Witzel Gotō), but, on the one hand, gírvāhas- is an established bahuvrīhi (8x; “whose vehicle is songs” -- that is, the god [Indra] who is conveyed to the sacrifice by the songs dedicated to him) and, on the other, satyá- never modifies gír- as far as I can tell. Oldenberg (SBE) tr. “who truly art carried by prayers as by a vehicle,” with the correct internal structure, in my opinion. My “trusty” for satyá- may be pushing the term a bit, but the idea is that the song-vehicle is real and so a trustworthy conveyance.
 
 The ca in f is generally rendered ‘also’, and it is one of only three examples (out of approx. 1100) of ca to which Klein (DGRV I.212-13) attributes that value.
 

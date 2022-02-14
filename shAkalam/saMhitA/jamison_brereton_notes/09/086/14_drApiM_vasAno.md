@@ -6,7 +6,7 @@ I would now tr. the pf. part. jajñānáḥ with past value, “once having been
 
 I take nábhasā as instr. of extent of space, rather than accompaniment (Geldner, Lowe) or, even less likely, agent (Renou “s’est élancé par la nuée,” despite the absence of any verbal form that could be interpr. as passive).
 
-The identify of the “age-old father” isn’t clear, and various candidates have been suggested: Sāy.: Indra; Geldner (n. 14d): Parjanya or Heaven; Renou: Heaven. I’m generally inclined towards Heaven, though of course bringing Heaven here is not physcially possible.
+The identify of the “age-old father” isn’t clear, and various candidates have been suggested: Sāyaṇa.: Indra; Geldner (n. 14d): Parjanya or Heaven; Renou: Heaven. I’m generally inclined towards Heaven, though of course bringing Heaven here is not physcially possible.
 
 
 

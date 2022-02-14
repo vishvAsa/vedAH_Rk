@@ -4,7 +4,7 @@ title = "05"
 +++
 A complex vs., esp. in its earlier parts, with a variety of tr. I will treat only my own. But first a few textual adjustments. In b I read (with most interpr., going back to Ludwig; see Oldenberg and Geldner’s n. 5b) agné ráveṇa rather than Pp. agnér áveṇa.
 
-Note also that the sandhi between b and c has been wrongly resolved by HvN into bhojíye / a… rather than bhojíyā / i… (here Pp. is correct). And the first word of c has the wrong sibilant in the HvN text: it’s correctly iṣirā́ya, not iśirā́ya.
+Note also that the sandhi between b and c has been wrongly resolved by Holland & van Nooten Rig Veda edition into bhojíye / a… rather than bhojíyā / i… (here Pp. is correct). And the first word of c has the wrong sibilant in the Holland & van Nooten Rig Veda edition text: it’s correctly iṣirā́ya, not iśirā́ya.
 
 Also in b I take the simile as consisting only of marútāṃ ná rather than including bhojyā̀. This genitive modifies ráveṇa and is parallel to agné(r). The roaring of Agni is being compared to the roaring of the Maruts, personifications of the thunderstorm. This syntactic distribution is found in Oldenberg SBE, but subsequent tr.
 

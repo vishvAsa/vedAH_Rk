@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-Geldner follows Sāy. in interpr. this vs. as referring to rain and river waters.
+Geldner follows Sāyaṇa. in interpr. this vs. as referring to rain and river waters.
 
 Although this would accord better with the enigmatic gush (dhāsí-) of 6d, it doesn’t fit the vocabulary or apparent sense of this enigmatic vs. The best clue we have is pāda a, where “to fill the belly” (jaṭháram pṛṇádhyai) belongs to a phrase for drinking soma to satiation (cf. nearby VI.69.7 and V.34.2, X.104.2, as well as other locutions involving soma and the belly). (Both Oldenberg and Renou also take the pāda as referring to soma.) Once the poet has established the soma context with this reasonably clear phraseology, he can (and does) treat the subject in a more obscure fashion.
 

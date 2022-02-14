@@ -6,7 +6,7 @@ With the repeated prá-pra I supply a form of the copula for the idiom prá √a
 
 Note the common use of instr. pl. adj. (here sváyaśobhiḥ) with (apparent) sg.
 
-pāda-final ūtī́. This interpr. seems preferable to WG, who supply “gods” with the pl.
+pāda-final ūtī́. This interpr. seems preferable to Witzel Gotō, who supply “gods” with the pl.
 
 adj. and take ūtī́separately.
 
@@ -14,7 +14,7 @@ As in 4a this clause contains both a full 1st pl. pronoun (asmé) and the enclit
 
 ritual officiants, but, once again, a tr. “be preeminent among us for you” seems clumsy, and I did not render the vaḥ in the publ. tr.
 
-I take the fem. subject of d-g to be personified durmatí-, with Geldner Others, going back to Sāy, take it to be the jūrṇí- of g (see Geldner n. 8d), but I think that belongs to a simile.
+I take the fem. subject of d-g to be personified durmatí-, with Geldner Others, going back to Sāyaṇa, take it to be the jūrṇí- of g (see Geldner n. 8d), but I think that belongs to a simile.
 
 The opening of d, svayáṃ sā́echoes that of 6d svayáṃ só.
 

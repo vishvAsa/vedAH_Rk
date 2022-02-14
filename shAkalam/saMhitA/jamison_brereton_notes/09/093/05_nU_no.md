@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-The vs. shows a number of metrical disturbances; see Arnold p. 317, Oldenberg ad loc., HvN p. 649. Arnold suggests reading *māsvā in pāda a, which would fix the cadence. Pāda b has an opening of 3; note, however, that the apparently bad cadence viśváścandram with four heavy syllables is not in fact a problem, since all cmpds in - ścandra- are better read *-candra- (see comm. ad I.165.8), yielding the light antepenult required. On the metrical shape of vātā́pyam see immed. below and comm. ad I.121.8. Pāda c has 10 syllables. Pāda d, the Nodhas Gautama refrain (I.58.9, etc.), has an unusual break.
+The vs. shows a number of metrical disturbances; see Arnold p. 317, Oldenberg ad loc., Holland & van Nooten Rig Veda edition p. 649. Arnold suggests reading *māsvā in pāda a, which would fix the cadence. Pāda b has an opening of 3; note, however, that the apparently bad cadence viśváścandram with four heavy syllables is not in fact a problem, since all cmpds in - ścandra- are better read *-candra- (see comm. ad I.165.8), yielding the light antepenult required. On the metrical shape of vātā́pyam see immed. below and comm. ad I.121.8. Pāda c has 10 syllables. Pāda d, the Nodhas Gautama refrain (I.58.9, etc.), has an unusual break.
 
 The adj. vātā́pyam presents problems of both form and meaning. There are three (or more) possible scansions of this stem—vāatā́pya- (or vaatā́pya-), vātaā́pya-, and vātā́pi ya—each of which has its champions. See comm. ad I.121.8.
 

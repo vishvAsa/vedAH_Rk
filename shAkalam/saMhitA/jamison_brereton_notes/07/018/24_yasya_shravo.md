@@ -4,7 +4,7 @@ title = "24"
 +++
 The śrávas- in pāda a echoes the one in 23d.
 
-Geldner, flg. Sāy., takes ab as separate clauses, supplying “(sich ausbreitet)” as the verb in pāda a. This is unnecessary: the hemistich can be a single clause, with the accent on vibabhā́jā in b conditioned by the rel. yásya in a. (Geldner considers this possibility in n. 24ab.) Kü (333) also follows the single clause interpr.
+Geldner, flg. Sāyaṇa., takes ab as separate clauses, supplying “(sich ausbreitet)” as the verb in pāda a. This is unnecessary: the hemistich can be a single clause, with the accent on vibabhā́jā in b conditioned by the rel. yásya in a. (Geldner considers this possibility in n. 24ab.) Kü (333) also follows the single clause interpr.
 
 Note the lengthened 3rd sg. pf. ending in babhā́jā, guaranteed (and required) by the cadence. On lengthening of the pf. endings see the brief remarks by Kü (42), though without any indication of the relative frequency; it is my impression that lengthening of the 1st/3rd sg. -a is quite rare in the RV, but I haven’t made a count.
 

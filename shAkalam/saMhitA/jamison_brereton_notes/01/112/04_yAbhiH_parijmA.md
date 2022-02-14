@@ -12,5 +12,5 @@ In c vicakṣaná- ‘wide-gazing’ is otherwise esp. found as an epithet of So
 
 Note that there is an implicit numerical ordering of the subjects of the three pādas: (párijman = 1), dvimātár-, trimántu-.
 
-In sum, although the vocabulary of this verse has tantalizing resonances with other passages and although I am fairly certain there is a pervasive double meaning, I do not feel I (or anyone else) has entirely “cracked” this verse. The tack taken by Geldner (/WG) of simply taking Parijman, Dvimātar, and Trimantu as PNs is the easy way out but does not advance the interpretation.
+In sum, although the vocabulary of this verse has tantalizing resonances with other passages and although I am fairly certain there is a pervasive double meaning, I do not feel I (or anyone else) has entirely “cracked” this verse. The tack taken by Geldner (/Witzel Gotō) of simply taking Parijman, Dvimātar, and Trimantu as PNs is the easy way out but does not advance the interpretation.
 

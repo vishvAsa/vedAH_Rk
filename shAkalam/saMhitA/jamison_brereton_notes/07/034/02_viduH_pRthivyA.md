@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Geldner (n. 2a), flg. Sāy., takes the waters as subj. of vidúḥ and suggests that the point is that the waters are older even than Heaven and Earth: they are the Urelement.
+Geldner (n. 2a), flg. Sāyaṇa., takes the waters as subj. of vidúḥ and suggests that the point is that the waters are older even than Heaven and Earth: they are the Urelement.
 
 They therefore were around for the creation of H+E and know all about it. In the absence of any other obvious subject, this seems reasonable.
 

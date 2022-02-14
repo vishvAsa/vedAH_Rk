@@ -2,7 +2,7 @@
 title = "10"
 
 +++
-WG take Trita as the persona of the 1st ps. speaker of astoṣi (“ich, als Trita …”), whereas I follow Geldner and Renou in supplying a 3rd ps. form of √stu for b.
+Witzel Gotō take Trita as the persona of the 1st ps. speaker of astoṣi (“ich, als Trita …”), whereas I follow Geldner and Renou in supplying a 3rd ps. form of √stu for b.
 
 The form etárī is, of course, problematic, but is most likely a loc. sg.; for disc.
 
