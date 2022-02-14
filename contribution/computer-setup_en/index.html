@@ -263,20 +263,20 @@ get <a href="https://github.com/XYZ/vedAH_Rk">https://github.com/XYZ/vedAH_Rk</a
 <ul>
 <li>Having followed &ldquo;Going to the right place in your computer&rdquo;, doe the below</li>
 </ul>
-<pre><code>git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_Rk.git vedAH-master
-cd vedAH-master
+<pre><code>git clone --single-branch --depth 1 --branch master https://github.com/XYZ/vedAH_Rk.git vedAH_Rk-master
+cd vedAH_Rk-master
 git remote add upstream https://github.com/vishvAsa/vedAH_Rk.git
 git submodule update --init  themes/sanskrit-documentation-theme-hugo
 cd ..
 
-git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_Rk.git vedAH-content
-cd vedAH-content
+git clone --single-branch --depth 1 --branch content https://github.com/XYZ/vedAH_Rk.git vedAH_Rk-content
+cd vedAH_Rk-content
 git remote add upstream https://github.com/vishvAsa/vedAH_Rk.git
 git pull upstream content
 cd ..
 
-git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_Rk.git vedAH-static
-cd vedAH-static
+git clone --single-branch --depth 1 --branch static_files https://github.com/XYZ/vedAH_Rk.git vedAH_Rk-static
+cd vedAH_Rk-static
 git remote add upstream https://github.com/vishvAsa/vedAH_Rk.git
 git pull upstream static_files
 cd ..
@@ -286,7 +286,7 @@ cd ..
 <li>do the below to run <code>hugo</code> to build the website on your computer (so that you can verify that everything appears as it
 should).</li>
 </ul>
-<pre><code>cd vedAH-master
+<pre><code>cd vedAH_Rk-master
 git pull upstream master
 cd themes/sanskrit-documentation-theme-hugo/
 git pull origin master
@@ -294,7 +294,7 @@ cd ../..
 hugo server --renderToDisk --config ./config_dev.toml
 </code></pre><h2 id="submitting-file-changes">Submitting file changes</h2>
 <ul>
-<li>If you&rsquo;re chaning files in <code>vedAH-content</code> :
+<li>If you&rsquo;re chaning files in <code>vedAH_Rk-content</code> :
 <ul>
 <li>Make sure that you&rsquo;re working on the latest files by running: <code>git pull upstream content</code> .</li>
 <li>Then, commit and push your changes (using atom editor, or github desktop or commands
@@ -302,7 +302,7 @@ like <code>git commit -am &quot;Some message&quot;</code> and <code>git push</co
 <li>Then go to <a href="https://github.com/XYZ/vedAH_Rk/tree/content">https://github.com/XYZ/vedAH_Rk/tree/content</a> and send a pull request .</li>
 </ul>
 </li>
-<li>If you&rsquo;re changing files in <code>vedAH-static</code> :
+<li>If you&rsquo;re changing files in <code>vedAH_Rk-static</code> :
 <ul>
 <li>Make sure that you&rsquo;re working on the latest files by running: <code>git pull upstream static_files</code> .</li>
 <li>Then, commit and push your changes (using atom editor, or github desktop or commands
@@ -361,7 +361,7 @@ document.getElementById("transformId").onclick = function(e) {
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
       
-      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Feb 14 14:06:52 UTC. (<a href="http://google.com/search?q=14%3a06%3a52%20UTC to IST">IST</a>)
+      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Feb 14 16:27:14 UTC. (<a href="http://google.com/search?q=16%3a27%3a14%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
