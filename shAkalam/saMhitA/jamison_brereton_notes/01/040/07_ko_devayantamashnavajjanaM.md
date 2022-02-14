@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-Although the standard tr. take antarvā́vat as referring to territory “in between” (e.g., Ge “das dazwischen liegende (Land)”), I follow Schmidt’s (B+I, 102; see also Old ad loc., AiG II.2.893) suggestion that it is a pleonastically marked variant of antárvant- ‘pregnant’, an interpretation that works nicely with the following verse.
+Although the standard tr. take antarvā́vat as referring to territory “in between” (e.g., Ge “das dazwischen liegende (Land)”), I follow Schmidt’s (B+I, 102; see also Old ad loc., AiG II.2.893) suggestion that it is a pleonastically+++(=redundant)+++ marked variant of antárvant- ‘pregnant’, an interpretation that works nicely with the following verse.
 
 Although my translation implies that antarvā́vat modifies kṣáyam, this cannot be true because kṣáya- is masc. My rendering is an abbreviated form of “made his dwelling place into (something) pregnant” (cf. Schmidt “seinen Wohnsitz hat er zu etwas gemacht, das … schwanger ist”).
 

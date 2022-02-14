@@ -4,7 +4,7 @@ title = "01"
 +++
 Ge takes b as parenthetical. Although I agree that the 1st sg. subject of cd is also the subj. of pāda a, I think it less awkward to take pāda a as a nominal sentence, given the sheer amount of material that intervenes between it and the verb in d, vavṛtyām.
 
-tuturváṇi- is a hapax, but it can hardly be anything but a pleonastically redupl.
+tuturváṇi- is a hapax, but it can hardly be anything but a pleonastically+++(=redundant)+++ redupl.
 
 form of turváṇi- (8x)(though it should be admitted that this latter stem is used only of gods). The redupl. form is sometimes credited with a desiderative sense (‘zu erlangen strebend’ versus turváṇi- ‘siegreich’, etc.: Gr; ‘zu gewinnen strebend’ versus turváṇi- ‘überwältigend’: AiG II.2.906, reproduced in EWA s.v. TŪRV; ‘cherche à l’emporter’: Re), but I see no contextual or morphological justification for this.
 

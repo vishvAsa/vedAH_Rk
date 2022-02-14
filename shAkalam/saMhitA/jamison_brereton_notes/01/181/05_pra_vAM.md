@@ -4,7 +4,7 @@ title = "05"
 +++
 nicerú- is a hapax (though cf. céru- VIII.61.7). It almost surely belongs to √ci ‘observe, discern’, with Debrunner (AiG II.860), despite Mayrhofer’s doubts (EWA s.v. céru-). The Aśvins are themselves called nícetar- in nearby I.184.2.
 
-The 2nd member rūpa- in piśáṅga-rūpa- seems pleonastic, but it perhaps should have been rendered in tr., ‘whose form is tawny’, vel sim.
+The 2nd member rūpa- in piśáṅga-rūpa- seems pleonastic+++(=redundant)+++, but it perhaps should have been rendered in tr., ‘whose form is tawny’, vel sim.
 
 Pāda c causes several problems, both in grammar and in interpretation. To start with the latter, anyásya is universally taken as referring to one of the two Aśvins, as the paired anyáḥ-s of 4ab do. However, as noted in the publ. intro., I think the referent of this stem has shifted. Both Aśvins together are referred to in the first hemistich of 5, with the dual pronoun vām. They are contrasted with a new “the other” in c, who can only be Indra: the presence of the two fallow bays (hárī) guarantees his presence, since these horses are uniquely Indra’s.
 
