@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-Exactly what this vs. is trying to tell us is unclear. Most tr. and comm. take paricákṣya- as referring to something blameworthy (tadelnswert); so, e.g., Ge (“Was war an dir zu tadeln …?”), Old, KH (Injunc. 78-79). But the other example of this gerundive in VI.52.14 modifies vácas- specifically and seems to mean ‘to be disregarded, overlooked’: mā́vo vácāṃsi paricákṣyāṇi vocam “let me not speak words to you that can be disregarded.” Esp. because the verb in the dependent cl.
+Exactly what this vs. is trying to tell us is unclear. Most tr. and comm. take paricákṣya- as referring to something blameworthy (tadelnswert); so, e.g., Geldner (“Was war an dir zu tadeln …?”), Oldenberg, KH (Injunc. 78-79). But the other example of this gerundive in VI.52.14 modifies vácas- specifically and seems to mean ‘to be disregarded, overlooked’: mā́vo vácāṃsi paricákṣyāṇi vocam “let me not speak words to you that can be disregarded.” Esp. because the verb in the dependent cl.
 
 belongs to √vac, pf. vavakṣé, it seems reasonable to supply ‘speech’ here as well.
 

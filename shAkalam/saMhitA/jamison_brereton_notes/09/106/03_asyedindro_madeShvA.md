@@ -4,7 +4,7 @@ title = "03"
 +++
 The etym. figure grābháṃ gṛbhṇīta seems to belong to dicing vocab.; see comm. ad VIII.81.1 and Lü (Würfelspiel, 49-50).
 
-Ge seems to take gṛbhṇīta as opt. (which, of course, it can be), but this reading makes it even less compatible with the already loosely connected injunc.
+Geldner seems to take gṛbhṇīta as opt. (which, of course, it can be), but this reading makes it even less compatible with the already loosely connected injunc.
 
 bharat conjoined by ca (see Klein, DGRV I.233). The publ. tr. takes both verbs as preterital injunctives, but I would now be inclined to see them, with KH (Injunk.
 

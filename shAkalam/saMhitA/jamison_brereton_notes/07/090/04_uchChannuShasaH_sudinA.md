@@ -8,5 +8,5 @@ On the basis of the next hymn, VII.91.4 náraḥ … dī́dhyānāḥ (and see a
 
 I did not render cid in c in the publ. tr. Cf. V.29.12, where the same phrase opens the pāda and cid likewise appears to be functionless. It could perhaps mean ‘also’ here, as a second action after finding the light.
 
-On ánu pradívaḥ see Old’s extensive disc.
+On ánu pradívaḥ see Oldenberg’s extensive disc.
 

@@ -2,11 +2,11 @@
 title = "05"
 
 +++
-A complex vs., esp. in its earlier parts, with a variety of tr. I will treat only my own. But first a few textual adjustments. In b I read (with most interpr., going back to Ludwig; see Old and Ge’s n. 5b) agné ráveṇa rather than Pp. agnér áveṇa.
+A complex vs., esp. in its earlier parts, with a variety of tr. I will treat only my own. But first a few textual adjustments. In b I read (with most interpr., going back to Ludwig; see Oldenberg and Geldner’s n. 5b) agné ráveṇa rather than Pp. agnér áveṇa.
 
 Note also that the sandhi between b and c has been wrongly resolved by HvN into bhojíye / a… rather than bhojíyā / i… (here Pp. is correct). And the first word of c has the wrong sibilant in the HvN text: it’s correctly iṣirā́ya, not iśirā́ya.
 
-Also in b I take the simile as consisting only of marútāṃ ná rather than including bhojyā̀. This genitive modifies ráveṇa and is parallel to agné(r). The roaring of Agni is being compared to the roaring of the Maruts, personifications of the thunderstorm. This syntactic distribution is found in Old SBE, but subsequent tr.
+Also in b I take the simile as consisting only of marútāṃ ná rather than including bhojyā̀. This genitive modifies ráveṇa and is parallel to agné(r). The roaring of Agni is being compared to the roaring of the Maruts, personifications of the thunderstorm. This syntactic distribution is found in Oldenberg SBE, but subsequent tr.
 
 have not followed him.
 
@@ -16,7 +16,7 @@ form is transitive -- cf. ā́… pṛcīmahi in the next hymn (I.129.7) -- in w
 
 I tentatively take Indra as the referent for iṣirā́ya in c, as he is addressed as iṣira in the first vs. of the next hymn (I.129.1) and is several times the referent of this stem elsewhere. But I do not insist on this identification.
 
-The ca in de is problematic, and this problem is connected with the question of the affiliation of vásūnām. Ge (fld. by Klein, DGRV I.234) takes ca as a clausal conjunction and supplies a 2nd verb “(beschenkt)” in d, parallel to ínvati in c. This requires that vásūnām be construed with majmánā (“mit einer Fülle von Gütern”).
+The ca in de is problematic, and this problem is connected with the question of the affiliation of vásūnām. Geldner (fld. by Klein, DGRV I.234) takes ca as a clausal conjunction and supplies a 2nd verb “(beschenkt)” in d, parallel to ínvati in c. This requires that vásūnām be construed with majmánā (“mit einer Fülle von Gütern”).
 
 But majmánā does not take a genitive of specification but only of possession and in any case its contexts favor ‘might’ over ‘abundance’. Several times it appears parallel with krátvā (including nearby I.141.6, 143.2) in the collocation “with resolve and with might,” as it would here, though at some remove (see krátvā in pāda a).
 

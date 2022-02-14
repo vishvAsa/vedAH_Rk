@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-Ge takes cd to be the answer to the question in ab, but since vs. 2 seems more directly responsive to the question, I take cd here as simply further specification of the subject of the question.
+Geldner takes cd to be the answer to the question in ab, but since vs. 2 seems more directly responsive to the question, I take cd here as simply further specification of the subject of the question.
 
 Unusually, īm has no acc. function; there is no possible accusative role it could fill.
 

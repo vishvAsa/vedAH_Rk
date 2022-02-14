@@ -8,5 +8,5 @@ Note also following sám m... The adj. samāná- returns in 7b in a charged cont
 
 JPB’s tr. cleverly reads étāsaḥ twice, once as the nom. pl. ‘antelopes’, once as the nom. pl. of the ppl. ā́-ita- ‘come here’.
 
-In d śúṣṃam may be adverbial as JPB takes it (‘explosively’), but it may be a real obj. of árcanti (“chant their explosive power”). I’m inclined to follow the latter course, because śúṣma- must be a real noun in 4b. But in this case I interpr. it as an Inhaltsakk., further specifying the chant (*“chant their chant” à “chant their explosive force”) not the object of their praise as Ge, for example, does: “preisen den Kampfmut” (sim. WG).
+In d śúṣṃam may be adverbial as JPB takes it (‘explosively’), but it may be a real obj. of árcanti (“chant their explosive power”). I’m inclined to follow the latter course, because śúṣma- must be a real noun in 4b. But in this case I interpr. it as an Inhaltsakk., further specifying the chant (*“chant their chant” à “chant their explosive force”) not the object of their praise as Geldner, for example, does: “preisen den Kampfmut” (sim. WG).
 

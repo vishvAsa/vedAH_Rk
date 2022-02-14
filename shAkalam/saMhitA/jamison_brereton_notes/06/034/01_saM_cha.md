@@ -6,7 +6,7 @@ The first hemistich of this vs. (and thus of the hymn) contains a compact summar
 
 Another ex. of phrasal echoes among the Indra hymns in this cycle: purā́ nūnáṃ ca “previously and now” plays off against nūnám … aparā́ya ca “now and for the future” in the immediately preceding hymn (VI.33.5). See also possibly VI.35.5.
 
-The Saṃhitā prevocalic form stutáya is universally read/interpr. as underlying nom. pl. -aḥ, beginning with the Pp. (also Gr, Ge, Lub, Kü 584), but HvN unaccountably restore -e, which must simply be a lapse.
+The Saṃhitā prevocalic form stutáya is universally read/interpr. as underlying nom. pl. -aḥ, beginning with the Pp. (also Gr, Geldner, Lub, Kü 584), but HvN unaccountably restore -e, which must simply be a lapse.
 
 The dvandva ukthārkā́(to be distracted to uktha-arkā́) is most likely a neut.
 

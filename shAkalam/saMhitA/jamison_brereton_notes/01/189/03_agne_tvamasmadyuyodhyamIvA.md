@@ -6,5 +6,5 @@ The verb in b, abhy ámanta, is accented; though there is no overt subordinator,
 
 The 2nd hemistich lacks a verb. I supply kaḥ; the idiom púnar √kṛ ‘make new, renew’ is fairly common (see Gr., s.v. púnar, 2), and see also Agastya’s I.174.7 kṣā́m … kaḥ, with the same object as here though with a very different sense. The publ. tr.
 
-should signal the lack of verb by a device like “Re(new) …” or “(Make) new …”
+should signal the lack of verb by a device like “Renou(new) …” or “(Make) new …”
 

@@ -6,7 +6,7 @@ The first hemistich can be interpr. as a rough repair of the problematic 5a: wha
 
 The referent of the acc. pl. neut. adjs. in cd is unspecified; either the pressings or the formulations -- or, better, both -- would work. Both are elsewhere qualified as śáṃtama-: cf. VIII.33.15 sávanā santu śáṃtamā and V.73.10 imā́bráhmāṇi várdhanā … santu śáṃtamā.
 
-A rare ex. of variant readings, the hapax rā́ṇdya-/rā́ndrya- is unclear. Ge refuses to tr. it. The publ. tr. ‘enjoyable’ (which should be marked with ?) rests on Hoffmann’s suggestion (reported in EWA s.v. rā́ṇḍya-), deriving it from √raṇ (or √ram). Certainty of course is impossible, but some such meaning fits the context.
+A rare ex. of variant readings, the hapax rā́ṇdya-/rā́ndrya- is unclear. Geldner refuses to tr. it. The publ. tr. ‘enjoyable’ (which should be marked with ?) rests on Hoffmann’s suggestion (reported in EWA s.v. rā́ṇḍya-), deriving it from √raṇ (or √ram). Certainty of course is impossible, but some such meaning fits the context.
 
 vákṣana- in d serves as a synonymous substitute for várdhana- (5d, 6a).
 

@@ -4,11 +4,11 @@ title = "08"
 +++
 What quality of a chariot is expressed by the ppl. yātá- to √yā ‘drive’ is unclear. Because of the phrase “made by dexterous (men),” which seems to refer to the chariot as object rather than to its current situation, I suggest that it’s a particular type of chariot, perhaps one made for long journeys. But it is also possible that it refers to the current situation, in which case it could mean “like a driven chariot” (i.e., one that is speeding).
 
-Pāda c is full of difficulties, esp. the unaccented dakṣi and the semantically anomalous sūráyaḥ ‘patrons’. There is also the question whether the pāda is syntactically independent or forms a clause with d. With Ge (but contra most other interpr.) I take cd together. Otherwise pāda c would be a nominal clause of some sort, but the introductory ā́d (recalling ā́d íd of 5a, 6a) seems to call for a dynamic verb.
+Pāda c is full of difficulties, esp. the unaccented dakṣi and the semantically anomalous sūráyaḥ ‘patrons’. There is also the question whether the pāda is syntactically independent or forms a clause with d. With Geldner (but contra most other interpr.) I take cd together. Otherwise pāda c would be a nominal clause of some sort, but the introductory ā́d (recalling ā́d íd of 5a, 6a) seems to call for a dynamic verb.
 
 As for the “black patrons” I take this to be, as it were, a two-part phrase: “black” first refers to the plumes of smoke, picking up kṛṣṇájaṃhas- ‘having black plumage’ in 7c; the clouds of smoke surrounding the fire are then implicitly likened to the sacrificial patrons who would gather around the ritual fire.
 
-What then to do with dakṣi? Two main solutions are found in the lit.: it is a 2nd sg. impv. (or si-imperative) to √dah ‘burn’ as it is in II.1.10 (Re), or it is a voc. of a nominal stem of unclear formation likewise built to √dah (Old, WG). Ge refuses to tr.
+What then to do with dakṣi? Two main solutions are found in the lit.: it is a 2nd sg. impv. (or si-imperative) to √dah ‘burn’ as it is in II.1.10 (Renou), or it is a voc. of a nominal stem of unclear formation likewise built to √dah (Oldenberg, WG). Geldner refuses to tr.
 
 and AiG II.1.408 floats both possibilities. The first (impv.) has the merit of matching an actual existing form, but otherwise has little to recommend it. In particular, if it forms a parenthetical independent clause it should be accented. The second (voc.) does not create syntactic problems but leaves the question of the morphology unresolved. I do not favor either of them, because either one requires 2nd ps.
 
@@ -20,7 +20,7 @@ reference to him in the same pāda. Unfortunately I do not have an acceptable so
 
 The grammar of d is scarcely less contorted than that of c. The verb īṣate belongs to a clear thematic stem and should therefore of course be 3rd sg., but the apparent subject, váyaḥ, is ordinarily a nom. pl. ‘birds’ to the stem ví-. To make the grammar work, it needs to be interpreted as a neut. s-stem collective in the nom. sg.
 
-(‘bird flesh, poultry’; cf. Re’s ‘la gent-ailée’), a formation that is found later (already AV) but not otherwise in the RV. Moreover, if pāda c is to be construed with d, its pl.
+(‘bird flesh, poultry’; cf. Renou’s ‘la gent-ailée’), a formation that is found later (already AV) but not otherwise in the RV. Moreover, if pāda c is to be construed with d, its pl.
 
 subj. kṛṣṇā́saḥ … sūráyaḥ also clashes in number with the verb īṣate. My somewhat uneasy solution to this is to assume that váyaḥ here has been reinterpreted as a singular collective and, as the noun closest to the verb, has determined the number of the verb. But since váyaḥ refers to the collectivity of birds, the pl. kṛṣṇā́saḥ … sūráyaḥ can match it in sense and therefore function as subj. of īṣate as well.
 

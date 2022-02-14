@@ -6,5 +6,5 @@ This verse is structurally a mess. It seems at first to have made the same shift
 
 vayám in c.
 
-Ge (followed by Scar 225) takes vā́je as part of the voc. phrase in b: “du im Kampf Sieghafter, Ratreicher.” This is possible, I suppose, and even favored by the pāda boundary, but I take it as one of those locative absolutes without expressed participle, like common dháne “when the stake (is set).”
+Geldner (followed by Scar 225) takes vā́je as part of the voc. phrase in b: “du im Kampf Sieghafter, Ratreicher.” This is possible, I suppose, and even favored by the pāda boundary, but I take it as one of those locative absolutes without expressed participle, like common dháne “when the stake (is set).”
 

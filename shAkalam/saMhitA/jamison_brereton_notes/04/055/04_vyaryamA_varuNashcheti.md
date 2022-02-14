@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-I take ví … ceti to √ci ‘pile’; see comm. ad I.90.4. Re assigns it to √cit ‘perceive’ (so also Gr); WG to √ci ‘perceive’ as an Augenblicksbildung to the aor.
+I take ví … ceti to √ci ‘pile’; see comm. ad I.90.4. Renou assigns it to √cit ‘perceive’ (so also Gr); WG to √ci ‘perceive’ as an Augenblicksbildung to the aor.
 
 stem.
 

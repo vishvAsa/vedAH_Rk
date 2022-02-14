@@ -16,7 +16,7 @@ again, I’d say that the ultimate intent of ab is universal, to counter the thr
 
 By my rules (“Vedic anyá-, Fs. Beekes 1997), anyá- here should be definite because it is in non-initial position - hence “the other.” This works well with the interpr. just elaborated, that the two contrastive phrases define the whole.
 
-One further syntactic issue: what is the gen.-abl. in svásyā árātyā(h) … anyásyā árātyā(ḥ) doing? Ge supplies “protect” to govern an abl., on the basis of VIII.71.1 pāhí víśvasyā árāteḥ. This is certainly possible - and is endorsed by Old.
+One further syntactic issue: what is the gen.-abl. in svásyā árātyā(h) … anyásyā árātyā(ḥ) doing? Geldner supplies “protect” to govern an abl., on the basis of VIII.71.1 pāhí víśvasyā árāteḥ. This is certainly possible - and is endorsed by Oldenberg
 
 However, because of the starkness of the expression, which underlines the contrasts between each matching element, I am reluctant to introduce any extraneous words and take the two phrases as independent gen.-abl. in loosely causal/circumstantial usage. Not very satisfactory, I admit.
 

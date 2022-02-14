@@ -10,5 +10,5 @@ The adj. sthirá- ‘taut, firm’, esp. when obj. of áva √tan, presupposes �
 
 The more usual interpr. of cmpds with final root noun is OBJ + TRANS. VERB, and this seems to be the sense of many of the fairly numerous cmpds in -jū- (e.g., vasū-jū́- ‘speeding goods’), though Scar (166-77) hesitates in several cases.
 
-However, in yātu-jū́- the final member must be read passively with agentive 1st member: ‘incited by sorcerers’, as VII.21.5, adduced by both Ge and Scar (173), definitively shows: ná yātáva indra jūjuvur naḥ “Sorcerers do not incite us, Indra.” On the number disharmony in the obj. phrase in d, jāmím ájāmim … śátrūn, see comm. ad VI.44.17.
+However, in yātu-jū́- the final member must be read passively with agentive 1st member: ‘incited by sorcerers’, as VII.21.5, adduced by both Geldner and Scar (173), definitively shows: ná yātáva indra jūjuvur naḥ “Sorcerers do not incite us, Indra.” On the number disharmony in the obj. phrase in d, jāmím ájāmim … śátrūn, see comm. ad VI.44.17.
 

@@ -6,5 +6,5 @@ I take b with c, rather than with a as do the standard tr., since “the yoking 
 
 “Yoking of mind” actually contains the pl. práyuktiṣu, but the pl. form is probably the result of a mechanical metrical adjustment: mánaso ná práyukti (shortvowel instr.) is found at pāda end in X.30.1 in a Triṣṭubh cadence, and this phrase was converted into a Jagatī cadence here by the addition of -su. The other two occurrences of the stem práyukti- are likewise pāda-final in Triṣṭubh and end in -ti(ḥ).
 
-One of these, … ná práyuktiḥ, is found two hymns after this one, in I.153.2, where I (so also Re) take the phrase as abbreviated from *mánaso ná práyukti-, as here.
+One of these, … ná práyuktiḥ, is found two hymns after this one, in I.153.2, where I (so also Renou) take the phrase as abbreviated from *mánaso ná práyukti-, as here.
 

@@ -2,9 +2,9 @@
 title = "07"
 
 +++
-As usual, aryáḥ has a number of possible interpr. Ge takes it as nom. pl.
+As usual, aryáḥ has a number of possible interpr. Geldner takes it as nom. pl.
 
-identical to the sūráyaḥ in d. Old suggests either acc. pl. or abl. sg. without choosing one. Thieme (Fremdling, 73-74) opts for the abl. sg., which he construes (as does Old) with the splv. nṛ́tamāsaḥ: “… als unsere, im Vergleich zum Fremdling sehr heldenhaften Schutzherren …” But of course an ablative with a superlative would be highly unusual (though Old offers a single parallel and a ref. to Delbrück’s Vgl.
+identical to the sūráyaḥ in d. Oldenberg suggests either acc. pl. or abl. sg. without choosing one. Thieme (Fremdling, 73-74) opts for the abl. sg., which he construes (as does Oldenberg) with the splv. nṛ́tamāsaḥ: “… als unsere, im Vergleich zum Fremdling sehr heldenhaften Schutzherren …” But of course an ablative with a superlative would be highly unusual (though Oldenberg offers a single parallel and a ref. to Delbrück’s Vgl.
 
 Syn.). I also take it as an abl., but suggest construing it with puráḥ. I now see that this is also problematic, since it is not clear that puráḥ ever takes the abl. Gr gives two exx.: but in IV.7.9 the supposed abl. is a gen. and construed elsewhere; in III.53.23 the form in question (áśvān) could be either an abl. sg. or an acc. pl. in sandhi.
 

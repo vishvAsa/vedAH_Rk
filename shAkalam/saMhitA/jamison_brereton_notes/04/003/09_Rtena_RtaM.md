@@ -6,15 +6,15 @@ This vs. expresses the beloved paradox about cows and milk, that the cow is “r
 
 The standard interpr. (save for WG) take ṛténa as the agent with the ppl.
 
-níyatam (e.g., Re “L’Ordre a été fixé par l’Ordre (même)”). Because the flg. 3 vss.
+níyatam (e.g., Renou “L’Ordre a été fixé par l’Ordre (même)”). Because the flg. 3 vss.
 
 also begin with ṛténa, interpreting the first one outside of the pattern established by the rest seems misguided, esp. given the usual function of initial ṛténa (see comm. above on vss. 9-12).
 
-I take the ṛtám that I reverently invoke (īḍe) to represent the paradoxes just discussed -- the mystical truth of the cow’s nature -- and I interpr. ā́góḥ as an ablative phrase, referring to the source of this truth. Most take góḥ as a gen., but this makes ā́hard to construe. (The phrase ā́góḥ occurs 3x elsewhere, always pāda final, twice in this maṇḍala [IV.22.4, 23.6] and once in X [X.100.12]; nowhere is it clear.) At least acdg. to Old (SBE) and Ge, the ṛtám is actually a reference to the milk. I am skeptical.
+I take the ṛtám that I reverently invoke (īḍe) to represent the paradoxes just discussed -- the mystical truth of the cow’s nature -- and I interpr. ā́góḥ as an ablative phrase, referring to the source of this truth. Most take góḥ as a gen., but this makes ā́hard to construe. (The phrase ā́góḥ occurs 3x elsewhere, always pāda final, twice in this maṇḍala [IV.22.4, 23.6] and once in X [X.100.12]; nowhere is it clear.) At least acdg. to Oldenberg (SBE) and Geldner, the ṛtám is actually a reference to the milk. I am skeptical.
 
 On dhāsí- see comm. ad I.62.3, 140.1.
 
-The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis (Dhāsi, 33ff.), that it is a secondary derivative to jām-ara- “die die Nachkommen Nährende.” Ge’s suggestion (n. 9d) that it is related to YAves. zǝmar ‘on/in the earth’ (in zǝmar-gūz-), hence ‘earthly’ (versus heavenly milk = rain), fits the passage less well.
+The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis (Dhāsi, 33ff.), that it is a secondary derivative to jām-ara- “die die Nachkommen Nährende.” Geldner’s suggestion (n. 9d) that it is related to YAves. zǝmar ‘on/in the earth’ (in zǝmar-gūz-), hence ‘earthly’ (versus heavenly milk = rain), fits the passage less well.
 
 
 

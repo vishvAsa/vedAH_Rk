@@ -14,7 +14,7 @@ Alternatively we could assume the gapping of a noun like sambháraṇam ‘assem
 
 In d the śrómatam is presumably the ‘hearing” that gods extend to men’s hymns. See VII.32.5 just cited for a similar sentiment.
 
-The simile divī̀va dyā́m is opaque to me. Ge tr. “Wie Tag auf Tag,” but neither of these case forms of div-/dyu- is used temporally, but only spatially of ‘heaven’.
+The simile divī̀va dyā́m is opaque to me. Geldner tr. “Wie Tag auf Tag,” but neither of these case forms of div-/dyu- is used temporally, but only spatially of ‘heaven’.
 
-Placing “heaven upon heaven” must refer to Indra’s cosmogonic deeds, but the connection with Indra’s activity in the frame is vague. Old believes that setting heaven on heaven means that Indra is fixing heaven in its proper place.
+Placing “heaven upon heaven” must refer to Indra’s cosmogonic deeds, but the connection with Indra’s activity in the frame is vague. Oldenberg believes that setting heaven on heaven means that Indra is fixing heaven in its proper place.
 

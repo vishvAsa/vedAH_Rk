@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-satáḥ in c is somewhat puzzling. Both Ge and Re take it as adverbial: “in gleicher Weise,” “pareillement.” Ge makes no comment; Re adduces sató-mahant-, -vīra-. For this 1st cmpd member see comm. ad VII.104.21. As I point out there, though I think the cmpds in question contain this adverbial element, I do not think it exists as an independent word.
+satáḥ in c is somewhat puzzling. Both Geldner and Renou take it as adverbial: “in gleicher Weise,” “pareillement.” Geldner makes no comment; Renou adduces sató-mahant-, -vīra-. For this 1st cmpd member see comm. ad VII.104.21. As I point out there, though I think the cmpds in question contain this adverbial element, I do not think it exists as an independent word.
 
 Supposed exx. of it belong instead to the pres. part. of √as, either gen./abl. sg. or acc. pl.
 

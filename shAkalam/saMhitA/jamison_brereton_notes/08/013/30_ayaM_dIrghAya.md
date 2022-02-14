@@ -8,7 +8,7 @@ Who is ayám? This near demonstrative should mean that the referent is actually 
 
 That Indra himself “measures the sacrifice” is consistent with his being urged to “stretch the thread” in 14c above.
 
-Ge’s interpretation of ab is quite different from mine, and seems to envisage the sacrifice receding in the distance as the subject keeps gazing further out towards it. This doesn’t make much sense to me, and the similarity of the expression in b to the cliched prá adhvaré (see just above), which refers to the temporal progress of the ritual (and in this case, perhaps the carrying of the Āhavanīya fire eastward), makes his interpretation unlikely.
+Geldner’s interpretation of ab is quite different from mine, and seems to envisage the sacrifice receding in the distance as the subject keeps gazing further out towards it. This doesn’t make much sense to me, and the similarity of the expression in b to the cliched prá adhvaré (see just above), which refers to the temporal progress of the ritual (and in this case, perhaps the carrying of the Āhavanīya fire eastward), makes his interpretation unlikely.
 
 The only other occurrence of dīrghā́ya cákṣase is in I.7.3, where Indra puts the sun in the sky for this purpose. See remarks ad loc., where I point out that the expression can be either temporal or locational or both.
 

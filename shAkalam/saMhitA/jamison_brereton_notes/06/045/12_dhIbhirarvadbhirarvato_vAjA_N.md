@@ -6,5 +6,5 @@ The phrase hitá- dhána- is repeated from 11b and also picks up the same phrase
 
 See further 15c. Note also that 2b contains an instr. árvatā “with a steed” (in that case an unsatisfactory one) like árvadbhiḥ in 12a.
 
-The opening of the vs. is called “stark elliptisch” by Ge, who sees two different possible constructions (n. 12a): “with insights (might we overcome) (the insights of other poets) and with steeds (might we overcome) steeds” or “with insights (as) steeds …” His tr. seems to reflect the first (though without supplying any further material), while I prefer the second.
+The opening of the vs. is called “stark elliptisch” by Geldner, who sees two different possible constructions (n. 12a): “with insights (might we overcome) (the insights of other poets) and with steeds (might we overcome) steeds” or “with insights (as) steeds …” His tr. seems to reflect the first (though without supplying any further material), while I prefer the second.
 

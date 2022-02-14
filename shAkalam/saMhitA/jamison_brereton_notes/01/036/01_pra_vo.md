@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-purūṇā́m is generally construed as qualifying yahvám, but this requires taking the latter as an implicit superlative (Ge “den Jüngsten unter vielen”), which it is not.
+purūṇā́m is generally construed as qualifying yahvám, but this requires taking the latter as an implicit superlative (Geldner “den Jüngsten unter vielen”), which it is not.
 
 (JL points out that a derivative of the real superlative, yáviṣṭhya, appears twice in the hymn, vss. 6, 15.) Better to take it as parallel to viśā́m, though, since víś- is fem., not modifying it as Proferes (2007: 31) does.
 

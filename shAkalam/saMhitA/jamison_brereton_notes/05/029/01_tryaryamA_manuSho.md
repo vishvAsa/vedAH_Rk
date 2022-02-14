@@ -6,5 +6,5 @@ I follow Brereton (Ādityas, 165-66), who in turn followed Thieme (Mitra and Ary
 
 Pāda-initial trī́, found here in a and b, recurs in 7c, 8a, b (also non-initial in 7b).
 
-In c pūtá-dakṣa- (/pūtá-dakṣas-) is ordinarily Ādityan vocabulary (though used of the Maruts also in VIII.94.7, 10). Ge (/WG) supply the Ādityas as the subj. of dhārayanta in b and of course take Aryaman as the subject of pāda a. By contrast, I think the Maruts are subjects of all three pādas -- but they are identified with the Ādityas throughout, as the use of pūtádakṣa-, ordinarily a qualifier of the Ādityas, makes clear.
+In c pūtá-dakṣa- (/pūtá-dakṣas-) is ordinarily Ādityan vocabulary (though used of the Maruts also in VIII.94.7, 10). Geldner (/WG) supply the Ādityas as the subj. of dhārayanta in b and of course take Aryaman as the subject of pāda a. By contrast, I think the Maruts are subjects of all three pādas -- but they are identified with the Ādityas throughout, as the use of pūtádakṣa-, ordinarily a qualifier of the Ādityas, makes clear.
 

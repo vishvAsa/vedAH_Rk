@@ -2,11 +2,11 @@
 title = "16"
 
 +++
-Following Old, I supply the verb “sing to” (abhí … gāya) from 14 to govern the accusatives here.
+Following Oldenberg, I supply the verb “sing to” (abhí … gāya) from 14 to govern the accusatives here.
 
-In the publ. tr. I also followed a suggestion of Old in taking kṛpayatáḥ as acc. pl. governed by áti, rather than gen. sg. dependent on várpasaḥ (Ge: “über diese Gestalt des Erbarmenden”). But the syntactic distribution of elements in this verse is very uncertain, due in part to the unclarity of the meter, where even pāda boundaries cannot be certainly determined. In coming to the version found in the publ tr. I reasoned that what confronts us here is a sort of syntactic śleṣa of irajyánt-, with the uncompounded participle as usual governing the genitive in pādas a and b (víśveṣām … vásūnām and asyá várpasaḥ), while with áti in pāda c it takes the accusative. Cf., with √rāj, a root with which irajyá- becomes entangled, III.10.7 ví rājasi áti srídhaḥ.
+In the publ. tr. I also followed a suggestion of Oldenberg in taking kṛpayatáḥ as acc. pl. governed by áti, rather than gen. sg. dependent on várpasaḥ (Geldner: “über diese Gestalt des Erbarmenden”). But the syntactic distribution of elements in this verse is very uncertain, due in part to the unclarity of the meter, where even pāda boundaries cannot be certainly determined. In coming to the version found in the publ tr. I reasoned that what confronts us here is a sort of syntactic śleṣa of irajyánt-, with the uncompounded participle as usual governing the genitive in pādas a and b (víśveṣām … vásūnām and asyá várpasaḥ), while with áti in pāda c it takes the accusative. Cf., with √rāj, a root with which irajyá- becomes entangled, III.10.7 ví rājasi áti srídhaḥ.
 
-I am now not so certain: I think kṛpayatáḥ may in fact be a gen. as Ge takes it, but that it’s construed directly with irajyánt-, not dependent on várpasaḥ -- with the tr.
+I am now not so certain: I think kṛpayatáḥ may in fact be a gen. as Geldner takes it, but that it’s construed directly with irajyánt-, not dependent on várpasaḥ -- with the tr.
 
 “(and has control) over the one who yearns (for him) in addition.” Under this interpr.
 

@@ -13,7 +13,7 @@ Revising my understanding of the morphology requires revising the translation as
 
 stámbhīt of 2a.
 
-Ge takes aruṇī́ḥ as nom. sg. fem., appositive to rā́ṭ, which must then be fem.
+Geldner takes aruṇī́ḥ as nom. sg. fem., appositive to rā́ṭ, which must then be fem.
 
-and mean ‘queen’ (“die Morgenröte, die Königin”). Both of these are grammatically possible: rā́ṭ must be fem. in V.46.8; aruṇī́ḥ must be nom. sg. in IV.1.16, 14.3. But this leaves the apparent masc. nom. sg. adj. turáḥ without a head. I therefore take aruṇī́ḥ as acc. pl., loosely construed with hávam. See Old. The ruddy ones are presumably the cows imprisoned in the Vala cave, who reappear (with a different color term, usríya-) in vs. 4.
+and mean ‘queen’ (“die Morgenröte, die Königin”). Both of these are grammatically possible: rā́ṭ must be fem. in V.46.8; aruṇī́ḥ must be nom. sg. in IV.1.16, 14.3. But this leaves the apparent masc. nom. sg. adj. turáḥ without a head. I therefore take aruṇī́ḥ as acc. pl., loosely construed with hávam. See Oldenberg The ruddy ones are presumably the cows imprisoned in the Vala cave, who reappear (with a different color term, usríya-) in vs. 4.
 

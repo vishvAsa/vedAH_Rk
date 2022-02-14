@@ -2,7 +2,7 @@
 title = "07"
 
 +++
-The balance of opinion (Gr, Kü, Lub, etc.) takes apīpema to √pī ‘swell’, which morphologically makes sense. But Ge seems to take it rather as a redupl. aor.
+The balance of opinion (Gr, Kü, Lub, etc.) takes apīpema to √pī ‘swell’, which morphologically makes sense. But Geldner seems to take it rather as a redupl. aor.
 
 to √pā ‘drink’ (“Wir haben ihn … hier getränkt…”), though without explicitly saying so. See also the very parallel passage VIII.99.1, with ápīpyan. Despite the difficulties (amply treated by Kü), I prefer to associate these two forms with √pā.
 

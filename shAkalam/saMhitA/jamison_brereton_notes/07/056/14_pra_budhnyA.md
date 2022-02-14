@@ -2,7 +2,7 @@
 title = "14"
 
 +++
-Ge suggests (n. 14a) that the budhnyā̀… máhāṃsi “deep-grounded powers” are the “verborgenen Herrlichkeiten” (niṇyā́) concealed in Pṛśni’s udder in vs. 4. Even leaving aside the fact that, as was discussed above, ū́dhaḥ in vs. 4 should not be a loc., this interpr. seems both unnec. and too specific, esp. since 10 vss.
+Geldner suggests (n. 14a) that the budhnyā̀… máhāṃsi “deep-grounded powers” are the “verborgenen Herrlichkeiten” (niṇyā́) concealed in Pṛśni’s udder in vs. 4. Even leaving aside the fact that, as was discussed above, ū́dhaḥ in vs. 4 should not be a loc., this interpr. seems both unnec. and too specific, esp. since 10 vss.
 
 intervene. budhnyà- here may refer to the powers that the Maruts, gods associated with the midspace, derive from the earth below, or it may simply mean something like ‘fundamental’, by a semantic development parallel to that of the Engl. word.
 

@@ -8,7 +8,7 @@ The verb ávāsṛjanta lacks an overt object. This may be because it is middle,
 
 They “let go” -- the stuffing just went out of them, as it were.
 
-The usual problem with bhúvaḥ -- injunctive (so apparently Ge, also the publ.
+The usual problem with bhúvaḥ -- injunctive (so apparently Geldner, also the publ.
 
 tr.) or subjunctive (so apparently WG). I assume that this verb refers to what happened after the event of pāda a: with the gods out of contention, Indra comes into his own as the universal monarch (samrā́j-) and takes his true and proper place (satyáyoni-). The use of -yoni- here is reminiscent of the passage in a nearby Indra hymn, IV.16.10, where Indra is urged to sit down on his own yóni- (své yónau) so that he can be recognized.
 

@@ -6,5 +6,5 @@ On ṛdhád-rī/i- see Thieme 1958 (Fs. Turner): 157, EWA 118 (s.v. ARDH). Thiem
 
 Their tails are presumably straight because they are going so fast their tails are horizontal.
 
-Ge takes mathrá- as a geographical designation: Mathra horses. But I see no reason not to connect it with √math ‘churn, agitate’, hence ‘skittish’. See also I.181.5.
+Geldner takes mathrá- as a geographical designation: Mathra horses. But I see no reason not to connect it with √math ‘churn, agitate’, hence ‘skittish’. See also I.181.5.
 

@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-dādhā́ra here is the only intransitive form of this perfect; see Re’s n. and Kü (261).
+dādhā́ra here is the only intransitive form of this perfect; see Renou’s n. and Kü (261).
 
 The root √dhṛ is prominent here (see the immed. following phrase dhármṇas páteḥ ‘master of support’) and echoes rāyó dhartā́in 2c.
 

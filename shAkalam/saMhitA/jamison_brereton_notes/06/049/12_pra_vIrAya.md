@@ -4,13 +4,13 @@ title = "12"
 +++
 This vs. contains two exx. of case disharmony between simile and frame, one each in ab and cd.
 
-Though Gr takes ájā as a 2nd sg. impv., both Ge and Re interpr. it as a 1st sg.
+Though Gr takes ájā as a 2nd sg. impv., both Geldner and Renou interpr. it as a 1st sg.
 
 subjunctive, as do I. This would bring the count to three in this hymn, by my interpr.
 
 (8a, 10b, 12b).
 
-This verb takes a straightforward acc. obj. yūthā́‘herds’ in the simile, as well as an adverbial acc. goal ástam ‘home’. But in the frame it lacks an overt obj.: I supply ‘praise’, Ge ‘Lied’, Re ‘mon hymne’. And the goal is the personal dative of the divinity (vīrā́ya, etc.).
+This verb takes a straightforward acc. obj. yūthā́‘herds’ in the simile, as well as an adverbial acc. goal ástam ‘home’. But in the frame it lacks an overt obj.: I supply ‘praise’, Geldner ‘Lied’, Renou ‘mon hymne’. And the goal is the personal dative of the divinity (vīrā́ya, etc.).
 
 The mismatch between simile and frame is greater in cd, and once again the simile is the more straighforwardly expressed. The poet exploits the syntactic ambiguity of intrans./trans. -áya- formations, in the form here of the redupl. aor.
 

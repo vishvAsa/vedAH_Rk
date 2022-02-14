@@ -4,7 +4,7 @@ title = "04"
 +++
 The vs. is nicely framed with vocc., #bṛ́haspate … indra#, thus inviting their identification.
 
-Ge (/WG) take vṛ́kadvaras- as a PN, but Wackernagel’s explan. (KlSchr.
+Geldner (/WG) take vṛ́kadvaras- as a PN, but Wackernagel’s explan. (KlSchr.
 
 325-26), adducing Aves. duuar, a daevic way of moving, is quite convincing.
 

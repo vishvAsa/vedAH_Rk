@@ -6,5 +6,5 @@ On the vaśā́cow, see my Hyenas (258-60), building on H. Falk, “Zur Tiersuch
 
 My tr. here, “mated cows,” is not fully accurate but far less awkward than accuracy would require.
 
-WG supply “verses” with aṣṭā́padībhiḥ, though they allow the possibility of a cow in their n. Although this pun is probably lurking here -- eight-footed verses would of course be pādas with eight syllables -- the primary reading must be some sort of bovine, given the words with which it is parallel. See Old’s comment on this vs. (SBE).
+WG supply “verses” with aṣṭā́padībhiḥ, though they allow the possibility of a cow in their n. Although this pun is probably lurking here -- eight-footed verses would of course be pādas with eight syllables -- the primary reading must be some sort of bovine, given the words with which it is parallel. See Oldenberg’s comment on this vs. (SBE).
 

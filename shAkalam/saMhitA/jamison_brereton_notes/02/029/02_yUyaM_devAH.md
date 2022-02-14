@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-The sequence in pāda c, abhikṣattā́ro abhí ca kṣámadhvam, invites interpr. as an etymological figure, but the agent noun, as it stands, must belong to √kṣad ‘mete out, apportion.’ Old tentatively suggests an emendation to abhikṣantā́r- (√kṣam), though he also allows that the transmitted reading may be correct and the poet is playing with Gleichklang. This seems the better course, esp. given that the stem is found once elsewhere (VII.21.8), though abhí is not otherwise attested with this root.
+The sequence in pāda c, abhikṣattā́ro abhí ca kṣámadhvam, invites interpr. as an etymological figure, but the agent noun, as it stands, must belong to √kṣad ‘mete out, apportion.’ Oldenberg tentatively suggests an emendation to abhikṣantā́r- (√kṣam), though he also allows that the transmitted reading may be correct and the poet is playing with Gleichklang. This seems the better course, esp. given that the stem is found once elsewhere (VII.21.8), though abhí is not otherwise attested with this root.
 
 It’s worth noting that abhí √kṣam is found only in this little group of hymns (II.28.3, II.33.1, 7, in addition to this).
 

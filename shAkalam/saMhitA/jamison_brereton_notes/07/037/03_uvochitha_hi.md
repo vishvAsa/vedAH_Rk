@@ -6,9 +6,9 @@ There is some lexical chaining here: in pāda a the standing epithet of Indra, m
 
 Note the abundance of vásu- forms (vásunaḥ b, vásunā c, vasavyā̀d).
 
-For d Ge (n. 3d) appositely cites VIII.32.15 nákir asya … niyantā́sūnṛ́tānām, which he tr. ad loc. as “Keiner tut … seinen Gnadegaben Einhalt,” with sūnṛ́tānām an objective gen. with niyantā́. I am therefore puzzled as to why he does not take sūnṛ́tā here as standing for acc. pl. sūnṛ́tāḥ in sandhi, as the obj. of ní yamate, the same lexeme as in VIII.32.15. Instead he follows the Pp. in taking it as nom. sg.
+For d Geldner (n. 3d) appositely cites VIII.32.15 nákir asya … niyantā́sūnṛ́tānām, which he tr. ad loc. as “Keiner tut … seinen Gnadegaben Einhalt,” with sūnṛ́tānām an objective gen. with niyantā́. I am therefore puzzled as to why he does not take sūnṛ́tā here as standing for acc. pl. sūnṛ́tāḥ in sandhi, as the obj. of ní yamate, the same lexeme as in VIII.32.15. Instead he follows the Pp. in taking it as nom. sg.
 
-sūnṛ́tā, subj. of the verb: “Deine Grossmut hält die Schätze nicht zurück” (sim. Re).
+sūnṛ́tā, subj. of the verb: “Deine Grossmut hält die Schätze nicht zurück” (sim. Renou).
 
 My tr. takes account of VIII.32.15 and goes against the Pp.
 

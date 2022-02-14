@@ -8,7 +8,7 @@ Pāda a continues the theme of competitive invocations embodied in the lexeme v�
 
 I interpret bráhma in b as plural rather than singular because of pl. bráhmā in 1a and because there are multiple seers in 2b.
 
-I take c with ab, contrary to Ge, who takes it with d. His is technically possible, but it seems to imply a backwards sequence of events: Indra is born only when he has taken the mace in his hand. Ge avoids the problem by radically bleaching the meaning of janiṣṭhāḥ to make it an auxiliary or copula substitute (“wardst”) with áṣāḷhaḥ: “so wardst du unbezwinglich.” This seems too high a price, esp. as jajñé appears in the next verse, where Ge gives it its full lexical value (“er ist … geboren”).
+I take c with ab, contrary to Geldner, who takes it with d. His is technically possible, but it seems to imply a backwards sequence of events: Indra is born only when he has taken the mace in his hand. Geldner avoids the problem by radically bleaching the meaning of janiṣṭhāḥ to make it an auxiliary or copula substitute (“wardst”) with áṣāḷhaḥ: “so wardst du unbezwinglich.” This seems too high a price, esp. as jajñé appears in the next verse, where Geldner gives it its full lexical value (“er ist … geboren”).
 
 With janiṣṭhā áṣāḷhaḥ compare VII.20.3 janúṣem áṣāḷhaḥ.
 

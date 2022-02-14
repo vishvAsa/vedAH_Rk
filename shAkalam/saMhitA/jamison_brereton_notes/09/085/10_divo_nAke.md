@@ -6,7 +6,7 @@ The cosmic/natural and the earthly/ritual double vision is played out simultaneo
 
 On the basis of the shared verb (duhate in 9d, duhanti in 10b) the venā́ḥ here appear to be identical to the subjects of 9d, as suggested above.
 
-Pāda b is identical to IX.73.4. As noted in the comm. thereon, there is good reason to supply “streams” (dhā́rāḥ) as the referent for the pl. adjs. mádhujihvā(ḥ) and asaścátaḥ, which are therefore fem. acc. pl. Curiously Ge takes the former as nom. pl. m. here, though fem. in 73.4, while Ober (II.13149-50, ) takes them both as nom. pl. m.; Re tr. as I do.
+Pāda b is identical to IX.73.4. As noted in the comm. thereon, there is good reason to supply “streams” (dhā́rāḥ) as the referent for the pl. adjs. mádhujihvā(ḥ) and asaścátaḥ, which are therefore fem. acc. pl. Curiously Geldner takes the former as nom. pl. m. here, though fem. in 73.4, while Ober (II.13149-50, ) takes them both as nom. pl. m.; Renou tr. as I do.
 
 
 

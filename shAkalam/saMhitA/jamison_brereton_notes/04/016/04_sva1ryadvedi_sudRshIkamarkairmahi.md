@@ -8,9 +8,9 @@ The 3rd pl. rurucur has trans./caus. sense here and generally in its other occur
 
 is possible (though not metrically good in VI.62.2). The 3rd sg. act. pf. ruroca (1x: IV.5.15) and act. pf. part. (1x: I.149.3) are intransitive by contrast, as are the medial forms. The anomalous trans. rurucuḥ forms also have the ending characteristic of the perfect 3rd pl. act., not the -an expected for a redupl. aor. (e.g., (á)jījanan).
 
-Nonetheless I am inclined to believe that these forms originally belonged to a proper redupl. aor. paradigm (á)rūruca-, found in árūrucat (3x), with the heavy redupl. proper to a redupl. aor., and that the 3rd pl. forms first adopted the -ur ending of the pf. and then, quite possibly redactionally, shortened the reduplicating vowel. It should be noted, however, that Old (ZDMG 60: 163) rejects this, an idea originating with Gaedicke.
+Nonetheless I am inclined to believe that these forms originally belonged to a proper redupl. aor. paradigm (á)rūruca-, found in árūrucat (3x), with the heavy redupl. proper to a redupl. aor., and that the 3rd pl. forms first adopted the -ur ending of the pf. and then, quite possibly redactionally, shortened the reduplicating vowel. It should be noted, however, that Oldenberg (ZDMG 60: 163) rejects this, an idea originating with Gaedicke.
 
-Because rurucuḥ is unaccented, the first part of pāda b must be the main cl., with the following yád introducing a nominal cl. -- pace Ge, who simply declares it an unaccented subordinate cl. verb (n. 4b).
+Because rurucuḥ is unaccented, the first part of pāda b must be the main cl., with the following yád introducing a nominal cl. -- pace Geldner, who simply declares it an unaccented subordinate cl. verb (n. 4b).
 
 Note the periphrastic caus. vicákṣe … cakāra, on which see Zehnder (Periphras. Kausativ, passim, esp. 51). He suggests that it is parallel to the perfect rurucuḥ in b. If agreement in tense stem is really at issue, this would be another arg.
 

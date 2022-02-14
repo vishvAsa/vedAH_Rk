@@ -6,7 +6,7 @@ The med. part. dádhānāḥ is generally tr. ‘receiving’, as the middle voi
 
 With most interpr. I take ánedyaḥ as a nom. sg. m. implicitly modifying an unexpressed gaṇáḥ ‘troop’, a construcio ad sensum with the pl. dádhānāḥ. I would like to find some way to ally it with nédīyas- ‘nearer’, as a neut. sg. modifying śrávaḥ, but this seems beyond the realm of possibility.
 
-The saṃcákṣyā of the Saṃhitā text is read saṃcakṣya by the Pp. and taken as a gerund, an interpr. followed by Old inter alia. The meaning would be “having looked upon (me)” vel sim. Gr (fld. by Ge [WG], etc., incl. the publ. tr.) takes it as a gerundive, whose pausal form would be saṃcákṣyāḥ. Both forms are possible. I do not have a strong feeling either way.
+The saṃcákṣyā of the Saṃhitā text is read saṃcakṣya by the Pp. and taken as a gerund, an interpr. followed by Oldenberg inter alia. The meaning would be “having looked upon (me)” vel sim. Gr (fld. by Geldner [WG], etc., incl. the publ. tr.) takes it as a gerundive, whose pausal form would be saṃcákṣyāḥ. Both forms are possible. I do not have a strong feeling either way.
 
 On -ś candrá- see disc. ad 8c.
 

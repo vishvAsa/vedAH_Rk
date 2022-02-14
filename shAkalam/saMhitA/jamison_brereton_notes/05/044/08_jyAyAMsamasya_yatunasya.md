@@ -2,7 +2,7 @@
 title = "08"
 
 +++
-Old’s stark statement about this vs., “Ich wage keine Erklärung,” is somewhat lowering to the spirit. Nonetheless, I think some sense can be wrung from it. As I said in the publ. intro., I think a new figure enters the scene at this, the midpoint of the hymn -- namely the poet, learning and perfecting his craft -- and in my opinion he is the subject of the vs., though Agni and Soma are still very much present.
+Oldenberg’s stark statement about this vs., “Ich wage keine Erklärung,” is somewhat lowering to the spirit. Nonetheless, I think some sense can be wrung from it. As I said in the publ. intro., I think a new figure enters the scene at this, the midpoint of the hymn -- namely the poet, learning and perfecting his craft -- and in my opinion he is the subject of the vs., though Agni and Soma are still very much present.
 
 By my interpr. the unnamed would-be poet “pursues/proceeds towards/practices” (carati) “the older (/superior) sonority of the seers” (jyā́yāṃsam … ṛṣisvarám), that is, he imitates and aspires to the sound of the legendary poet-seers who preceded him. He does so by means of asyá yatúnasya ketúnā “by the beacon of this yatúna.” Unfortunately yatúna- is a hapax, and there is no agreement on its meaning or etym. (see, e.g., EWA s.v.). However, we can approach the sense of this phrase from several angles. The most promising of these, in my opinion, is the recognition that the phrase yajñásya ketú- “beacon of the sacrifice” is a very common expression in the RV (I.96.16, I.113.19, etc. etc., incl. in this maṇḍala V.11.1).
 

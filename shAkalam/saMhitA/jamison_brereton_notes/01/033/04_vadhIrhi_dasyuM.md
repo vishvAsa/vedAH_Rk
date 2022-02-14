@@ -10,5 +10,5 @@ upaśāká- is only here, but śāká- is several times used of the Maruts or A�
 
 Other tr. take sanaká- as the name of a group, but it seems a perfectly wellformed -ka-suffixed form of sána- ‘old’, with a pejorative diminutive sense appropriate to belittling one’s enemies. So Edgerton (1911 [k-suffixes]): 53): “the old rascals.” My “old codgers” is also an attempt to capture the slangy and deprecatory tone. On the demotic value of -ka- see Jamison 2009 (IIJ 52).
 
-Ge takes prétim īyuḥ as an idiom “gingen in den Tod,” but despite the later such usage of pra √i, this idiom does not appear in the RV. As indicated in the intro., I take this as referring to the separation of sacrificers from non-sacrificers.
+Geldner takes prétim īyuḥ as an idiom “gingen in den Tod,” but despite the later such usage of pra √i, this idiom does not appear in the RV. As indicated in the intro., I take this as referring to the separation of sacrificers from non-sacrificers.
 

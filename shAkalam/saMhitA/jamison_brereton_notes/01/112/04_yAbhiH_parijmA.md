@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-As discussed in the publ. intro., this verse seems to display extended double reference between three gods associated with the morning pressing and the Aśvins’ chariot, an association produced by shared epithets, though I must admit that there are many loose ends in this interpretation. See also Re’s n.
+As discussed in the publ. intro., this verse seems to display extended double reference between three gods associated with the morning pressing and the Aśvins’ chariot, an association produced by shared epithets, though I must admit that there are many loose ends in this interpretation. See also Renou’s n.
 
 In pāda a párijman- ‘earth-encircler’ is a standard epithet of their chariot (I.20.3, IV.45.1, X.39.1, X.41.1, IV.3.6)(and, in the dual, of the Aśvins themselves: I.46.14, X.106.3). In a verse in an Aśvin hymn in which this is the first real word, it is hard to imagine that an audience would not first think of their chariot. However, the term also qualifies the Wind (e.g., VII.40.6, II.38.2), and the rest of pāda a, tánayasya majmánā, fits a divinity better than a chariot.
 
@@ -12,5 +12,5 @@ In c vicakṣaná- ‘wide-gazing’ is otherwise esp. found as an epithet of So
 
 Note that there is an implicit numerical ordering of the subjects of the three pādas: (párijman = 1), dvimātár-, trimántu-.
 
-In sum, although the vocabulary of this verse has tantalizing resonances with other passages and although I am fairly certain there is a pervasive double meaning, I do not feel I (or anyone else) has entirely “cracked” this verse. The tack taken by Ge (/WG) of simply taking Parijman, Dvimātar, and Trimantu as PNs is the easy way out but does not advance the interpretation.
+In sum, although the vocabulary of this verse has tantalizing resonances with other passages and although I am fairly certain there is a pervasive double meaning, I do not feel I (or anyone else) has entirely “cracked” this verse. The tack taken by Geldner (/WG) of simply taking Parijman, Dvimātar, and Trimantu as PNs is the easy way out but does not advance the interpretation.
 

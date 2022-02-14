@@ -6,7 +6,7 @@ Both jaritré and gómaghā are repeated from the previous vs. (where they were 
 
 pl., while in 4a the same sandhi form is fem. pl. and represents underlying gómaghā(ḥ). This bahuvrīhi has spawned two parallel descriptors: áśva-ścandrā(ḥ) and vā́ja-śravasaḥ, all three modifying fem. pl. pṛ́kṣaḥ.
 
-The tr. ‘lay on’ (that is, provide, often lavishly, often of meals or feasts) is an English idiom that precisely calques ádhi dhehi. I take íṣah … dhenúm as a double acc. with √pī ‘swell’ -- lit., ‘swell the cow the refreshments’, that is, ‘swell the cow with refreshments’. Ge hesitates (n. 4c), but in the tr. opts for two acc. in parallel (‘swell the refreshments, (swell) the cow’), as does Schmidt (p. 153).
+The tr. ‘lay on’ (that is, provide, often lavishly, often of meals or feasts) is an English idiom that precisely calques ádhi dhehi. I take íṣah … dhenúm as a double acc. with √pī ‘swell’ -- lit., ‘swell the cow the refreshments’, that is, ‘swell the cow with refreshments’. Geldner hesitates (n. 4c), but in the tr. opts for two acc. in parallel (‘swell the refreshments, (swell) the cow’), as does Schmidt (p. 153).
 
 The root-noun cmpd surúc- (9x) is generally a bahuvrīhi meaning ‘having good light, very bright’, as in II.2.4 tám … candrám iva surúcam “him [=Agni] very bright like gold.” For just this passage Gr posits a substantivization: f. ‘heller Glanz’.
 

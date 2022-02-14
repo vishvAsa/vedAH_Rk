@@ -8,5 +8,5 @@ I tr. “your (Maruts)”; it could also be a dat. with áyujran “they have hi
 
 The simplest way to construe cd is to take hā́samānā as a predicated pres. part.
 
-(so Ge), but it is possible with Re to supply a verb (“va,” in his case) or with WG to take it as a nominal clause of possession (“Den Marut gehört Kampfaktion …”).
+(so Geldner), but it is possible with Renou to supply a verb (“va,” in his case) or with WG to take it as a nominal clause of possession (“Den Marut gehört Kampfaktion …”).
 

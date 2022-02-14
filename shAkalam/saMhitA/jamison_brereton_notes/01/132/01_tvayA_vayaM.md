@@ -6,5 +6,5 @@ In the publ. tr. I treat the first member of the three-member cmpd índratvotā�
 
 The verb ádhi vocā could also be a 1st sg. subj., but with most tr. I take it as 2nd sg. impv.; “I” am a less likely advocate for the presser than Indra is.
 
-With Ge I consider ví cayema bháre kṛtám (f) a gambling expression; for another such expression see the previous hymn, I.131.5d.
+With Geldner I consider ví cayema bháre kṛtám (f) a gambling expression; for another such expression see the previous hymn, I.131.5d.
 

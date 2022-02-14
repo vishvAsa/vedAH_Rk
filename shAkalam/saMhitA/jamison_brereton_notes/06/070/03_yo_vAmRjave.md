@@ -4,7 +4,7 @@ title = "03"
 +++
 On the double etym. figure prá prajā́bhir jāyate, see comm. ad VIII.27.16.
 
-With Re I take dhármaṇas pári with a full lexical sense of each element, rather than, with Ge, as a weakened adverbial “pflichtgemäss” (dutifully). Heaven and Earth provide the physical foundation (dhárman-) starting from which the pious man can found his family line, just as Heaven and Earth themselves took their places (apart) according to the dhárman- of Varuṇa in 1c.
+With Renou I take dhármaṇas pári with a full lexical sense of each element, rather than, with Geldner, as a weakened adverbial “pflichtgemäss” (dutifully). Heaven and Earth provide the physical foundation (dhárman-) starting from which the pious man can found his family line, just as Heaven and Earth themselves took their places (apart) according to the dhárman- of Varuṇa in 1c.
 
 The abundant references to real liquids in vss. 1-2 find their metaphorical expression in the creatures ‘poured out’ (siktā́) from Heaven and Earth (d). This ppl.
 

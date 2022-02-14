@@ -4,7 +4,7 @@ title = "09"
 +++
 The yáthā purpose clauses of this vs. are to be roughly construed with the initial evā́of 8a.
 
-Inspired by Ge, I read instr. ena in two different ways, as accompaniment in pāda a and as indirect agent in b.
+Inspired by Geldner, I read instr. ena in two different ways, as accompaniment in pāda a and as indirect agent in b.
 
 Note also the decomposed narā́ṃ ná śáṃsaiḥ (also 10a) recalling nárā-śáṃsa-.
 

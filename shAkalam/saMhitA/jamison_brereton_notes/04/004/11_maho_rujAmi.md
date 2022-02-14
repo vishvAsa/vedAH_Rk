@@ -4,11 +4,11 @@ title = "11"
 +++
 This vs. concerning the poet’s poetic gifts and his lineage, spoken in the 1st ps. sg., seems out of place in this hymn and anticipates the enigmatic hymn IV.5 that follows immediately, which focuses on the mysterious sources of poetic power. Of course, given the mechanical arrangement of the RVic hymn collections, we cannot assume that the hymns had anything to do with each other originally.
 
-Old (SBE), Re think that the poet’s lineage (bandhútā) is with Agni: Old “through my kinship (with thee).” But the next pāda, where the line of descent is traced from his father Gotama, makes that unlikely.
+Oldenberg (SBE), Renou think that the poet’s lineage (bandhútā) is with Agni: Oldenberg “through my kinship (with thee).” But the next pāda, where the line of descent is traced from his father Gotama, makes that unlikely.
 
-The next question is what to do with maháḥ. Old (SBE) takes it as acc. pl.
+The next question is what to do with maháḥ. Oldenberg (SBE) takes it as acc. pl.
 
-object of rujāmi; Ge (/WG) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Re I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
+object of rujāmi; Geldner (/WG) as gen. sg. with vácobhiḥ, referring to the poet’s great (father). With Renou I prefer to take maháḥ as adverbial. Although this leaves rujāmi without an object, an object is easily supplied: the root √ruj is typed for the breaking of the Vala cave, particularly in this group of hymns so dominated by that myth. Cf. > 2.15
 ... áṅgiraso bhavema, ádriṃ rujema ...
 
 > “Might we become Aṅgirases; might

@@ -10,4 +10,4 @@ The inclusion of ‘ladies’ (nā́ribhyaḥ) alongside superior men (nṛ̥bhy
 
 Here it seems to have a more restricted sense and could actually refer to the gods and their wives: nṛ́- is often used of divinities. For goddesses beside gods see nearby VIII.80.10, though it is attributed to a different poet.
 
-The voc. ṛbhuṣṭhira is a little surprising. Both Gr and Ge take it as implicitly comparative: Gr ‘stark, tüchtig wie Ṛbhu’, Ge ‘… stark wie die Ṛbhu’s’. I take it rather as parallel to ṛbhukṣán- ‘master of the Ṛbhus’, which is regularly an epithet of Indra.
+The voc. ṛbhuṣṭhira is a little surprising. Both Gr and Geldner take it as implicitly comparative: Gr ‘stark, tüchtig wie Ṛbhu’, Geldner ‘… stark wie die Ṛbhu’s’. I take it rather as parallel to ṛbhukṣán- ‘master of the Ṛbhus’, which is regularly an epithet of Indra.

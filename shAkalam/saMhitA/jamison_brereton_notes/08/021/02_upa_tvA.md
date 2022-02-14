@@ -8,7 +8,7 @@ dhṛṣát has been misanalyzed and pressed into service as a finite form or th
 
 On metrically bad vavṛmahe, see comm. ad Kü (459) and comm. ad VI.4.7.
 
-Old suggests that the “youth” is King Citra, whose dānastuti ends the hymn.
+Oldenberg suggests that the “youth” is King Citra, whose dānastuti ends the hymn.
 
 This seems perfectly plausible but nonetheless unprovable.
 

@@ -6,7 +6,7 @@ As noted ad vs. 4, the person changes from 2nd to 3rd in the middle of this vers
 
 intrusions of 4cd-5ab.
 
-The inundation of the skin in pāda 4 presumably refers to the wetting of hides in the tanning process (so Ge).
+The inundation of the skin in pāda 4 presumably refers to the wetting of hides in the tanning process (so Geldner).
 
 
 

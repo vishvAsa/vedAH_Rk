@@ -6,4 +6,4 @@ The first hemistich préndrasya vocam prathamā́kṛtā́ni, prá nū́tanā ma
 
 Nonetheless the distribution of elements between clauses and the word order in each clause are significantly different. This variation is typical of RVic formulae, which 127 generally do not follow a fixed template and are not sensitive to meter alone (both vss. in question are Triṣṭubhs).
 
-Re comments on VII.99-102 in ÉVP XV: 99-100 pp. 39-43, 101-2 pp. 113-14.
+Renou comments on VII.99-102 in ÉVP XV: 99-100 pp. 39-43, 101-2 pp. 113-14.

@@ -10,7 +10,7 @@ Pāda c aṃśúṃ rihanti matáyaḥ pánipnatam is identical to 31d, save for
 
 In d yádi would be best read yád *ī, both for sense and for meter, since an opening with light syllables in positions 3 and 4 before an early caesura is very rare (see Arnold 194).
 
-Ge tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based, he says (n.
+Geldner tr. nirṇíjam … yayúḥ as “Staat machen” (make a show), based, he says (n.
 
 46d), on śúbhaṃ yā. I see no reason to attenuate the sense of nirṇíj-. As Scar (284- 85) argues, this stem can be both a concrete noun ‘garment’ and an infin. ‘to array’.
 

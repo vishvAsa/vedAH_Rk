@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-The nominal rel. cl. yó vídānaḥ, interrupting a string of accusatives, is syntactically curious. It seems to represent a sort of izafe, rather than a real embedded relative cl. I have tr. it as if acc. índram were the predicate of the participle (“who is known as “Indra”), despite the difference in cases. Ge, in contrast: “der bekannt ist.” My interpr. might be better represented as “I will praise him — Indra, as he is known — whose …” This interpr. fits well with the doubts expressed about Indra later in the hymn, esp. vs. 4. See also vídānaḥ in 12b.
+The nominal rel. cl. yó vídānaḥ, interrupting a string of accusatives, is syntactically curious. It seems to represent a sort of izafe, rather than a real embedded relative cl. I have tr. it as if acc. índram were the predicate of the participle (“who is known as “Indra”), despite the difference in cases. Geldner, in contrast: “der bekannt ist.” My interpr. might be better represented as “I will praise him — Indra, as he is known — whose …” This interpr. fits well with the doubts expressed about Indra later in the hymn, esp. vs. 4. See also vídānaḥ in 12b.
 
 The instr. gīrbhíḥ in b might be better construed with the verb stuṣe in a: “I will praise him with songs”; it has been displaced to the right to be nearer to gírvāhasam.
 

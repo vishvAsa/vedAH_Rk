@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Ge and Re take náro as the nom. sg. of a thematic form of the ‘man’ stem, a nom. sg. that is otherwise not found in the RV (save possibly in svàrṇara-) and only very sparingly in the rest of Vedic (see AiG III.212). I follow Gr, Old, and WG in taking it as a gen. sg. of the athematic ‘man’ stem, even though the other two occurrences registered by Gr are better taken as nom. pl. It replaces expected *nur (cf. Aves. nərəš). It is parallel here to góḥ, and this gen. expression characterizes the type of dráviṇa- that Indra is providing as a prize. Since dráviṇa- is a derivative of √dru ‘run’, it really is ‘moveable wealth’, and both cattle and men would qualify.
+Geldner and Renou take náro as the nom. sg. of a thematic form of the ‘man’ stem, a nom. sg. that is otherwise not found in the RV (save possibly in svàrṇara-) and only very sparingly in the rest of Vedic (see AiG III.212). I follow Gr, Oldenberg, and WG in taking it as a gen. sg. of the athematic ‘man’ stem, even though the other two occurrences registered by Gr are better taken as nom. pl. It replaces expected *nur (cf. Aves. nərəš). It is parallel here to góḥ, and this gen. expression characterizes the type of dráviṇa- that Indra is providing as a prize. Since dráviṇa- is a derivative of √dru ‘run’, it really is ‘moveable wealth’, and both cattle and men would qualify.
 
 The pair náro góḥ is echoed by the more conventional expression cátuṣpade … dvipā́de in 3d, which also contains the qualifier náryāya.
 

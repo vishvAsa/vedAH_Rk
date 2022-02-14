@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-The syntax and purport of this verse are somewhat murky, and my interpretation differs from the various other standard ones (though it is closest to Re).
+The syntax and purport of this verse are somewhat murky, and my interpretation differs from the various other standard ones (though it is closest to Renou).
 
 I will only present mine here, without cataloguing the differences from the others.
 

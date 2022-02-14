@@ -6,9 +6,9 @@ The fem. gender of citrā́is a problem. The standard solution (see, e.g., Gr) i
 
 saṃdṛ́k and agrees with the latter.
 
-Gr takes sū́raḥ as the nom. sg. of the thematic stem sū́ra-; in this he is apparently followed by Re: “(propre à la) vision (des hommes) comme le soleil.” I find this unlikely, since saṃdṛ́ś- regularly takes the gen., incl. sū́ryasya (II.33.1, X.37.6, X.59.5). I therefore take sū́raḥ as gen. of svàr-, with, apparently, Ge (/WG).
+Gr takes sū́raḥ as the nom. sg. of the thematic stem sū́ra-; in this he is apparently followed by Renou: “(propre à la) vision (des hommes) comme le soleil.” I find this unlikely, since saṃdṛ́ś- regularly takes the gen., incl. sū́ryasya (II.33.1, X.37.6, X.59.5). I therefore take sū́raḥ as gen. of svàr-, with, apparently, Geldner (/WG).
 
 More problematic is ā́yur ná prāṇáḥ, where the first word should be the neut.
 
-noun ā́yus- ‘lifetime’, since Gr’s supposed adjectival stem ā́yu- ‘beweglich’ does not exist (only the neut. noun ā́yu-, also ‘lifetime’). Thus, properly speaking, we should have an equational simile “breath like lifetime,” represented in Re’s “souffle-animé comme la vie (même)” and WG “der Atem gleichsam als Leben.” Nonetheless I consider the interpretation as an improper compound, as in Ge’s “wie der Lebenshauch,” to make more sense.
+noun ā́yus- ‘lifetime’, since Gr’s supposed adjectival stem ā́yu- ‘beweglich’ does not exist (only the neut. noun ā́yu-, also ‘lifetime’). Thus, properly speaking, we should have an equational simile “breath like lifetime,” represented in Renou’s “souffle-animé comme la vie (même)” and WG “der Atem gleichsam als Leben.” Nonetheless I consider the interpretation as an improper compound, as in Geldner’s “wie der Lebenshauch,” to make more sense.
 

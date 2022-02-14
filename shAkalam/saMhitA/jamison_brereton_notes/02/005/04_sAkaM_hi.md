@@ -2,7 +2,7 @@
 title = "04"
 
 +++
-The standard tr. construe śúcinā with krátunā (e.g., Ge “mit lauterem Sinne”).
+The standard tr. construe śúcinā with krátunā (e.g., Geldner “mit lauterem Sinne”).
 
 This is certainly possible -- though śúci- krátu- is not a standard collocation -- but not necessary.
 

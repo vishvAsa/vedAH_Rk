@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Ge takes ánarśanim and ahīśúvam as PNs, in addition to sṛ́bindum and the familiar píprum. Mayrhofer (2003, Personennamen) is uncertain about ánarśani-.
+Geldner takes ánarśanim and ahīśúvam as PNs, in addition to sṛ́bindum and the familiar píprum. Mayrhofer (2003, Personennamen) is uncertain about ánarśani-.
 
 Scar (538-39) tr. all as PNs as well, but discusses the possible interpretations of ahīśū́-. On the basis of the parallel he cites in IV.16.13 píprum mṛ́gayaṃ śūśuvā́ṃsam “Pipru Mrgaya, ̥ swollen with power,” with the pf. part. to √śū, I prefer to take ahīśū́- as a meaningful epithet. The question is then what the first member ahī- represents.
 

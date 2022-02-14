@@ -6,7 +6,7 @@ Most take kīstá- in pāda as a PN, a further specification of the Bhṛgus, an
 
 I take mathnántaḥ in c as a pun on √math ‘steal’ (referring to the Bhṛgus’ theft of fire; see Narten, KlSch. 23-24) and ‘churn, rub’, a common word for the production of the fire on the ritual ground.
 
-The identity of the “dear coverings” is not clear. Ge suggest, for example, that they are what keep Agni within the kindling sticks, WG that they are everything a fire burning in a field would incorporate in itself. Since Agni is identified as the holder (dharṇí-) of goods in e, I wonder if the coverings are the enclosure itself -- though what this means physically I’m not sure.
+The identity of the “dear coverings” is not clear. Geldner suggest, for example, that they are what keep Agni within the kindling sticks, WG that they are everything a fire burning in a field would incorporate in itself. Since Agni is identified as the holder (dharṇí-) of goods in e, I wonder if the coverings are the enclosure itself -- though what this means physically I’m not sure.
 
 On the isolated precative vaniṣīṣṭa see Narten (SigAor. 236-37), who points out that its object is also a hapax and considers it an “Augenblicksbildung des Dichters.” The “wise one” (médhira-) is probably Agni himself, as often, and the med. form of the verb would support this identification.
 

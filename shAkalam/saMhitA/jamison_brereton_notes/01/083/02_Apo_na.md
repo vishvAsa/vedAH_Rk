@@ -4,7 +4,7 @@ title = "02"
 +++
 This verse presents a number of small problems of interpretation, and it helps first to determine what the verse is about in general. It seems to involve the gods’ ritual approach to the place of the soma pressing. They are compared to the goddess waters in a because waters are brought at the soma-pressing to mix with the pressed soma (cf. IX.69.4, e.g.). The identity of “the one who seeks the gods” (devayú-) in c is not entirely clear, but my assumption is that it is soma. I also assume that the acc. in d does not refer to the soma, but rather to the priest-poet, though it is not impossible that the two accusatives have the same referent, most likely in that case the priest-poet.
 
-In b (with Ge [/WG]) I take the shared term of the simile to be vítatam ‘extended, extensive’. Both Ge and WG supply “Opfer” in the frame, but I would suggest that it is, more specifically, the soma-filter, which is elsewhere so qualified.
+In b (with Geldner [/WG]) I take the shared term of the simile to be vítatam ‘extended, extensive’. Both Geldner and WG supply “Opfer” in the frame, but I would suggest that it is, more specifically, the soma-filter, which is elsewhere so qualified.
 
 Cf. IX.83.2 tápoṣ pavítraṃ vítataṃ divás padé, where the filter has cosmic dimensions, as it would here.
 

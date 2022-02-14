@@ -4,7 +4,7 @@ title = "17"
 +++
 salalū́ka- is yet another peculiar word that brings our interpr. to a standstill.
 
-The current standard interpr. is “indulgence, patience” vel sim. (Ge [/WG] “Nachsicht”). I do not understand where such a meaning would come from.
+The current standard interpr. is “indulgence, patience” vel sim. (Geldner [/WG] “Nachsicht”). I do not understand where such a meaning would come from.
 
 Mayrhofer (KEWA s.v.) suggests √sṛ in the meaning ‘sich erstrecken’, but the semantic channel from one to the other seems blocked to me. Although a deriv. from √sṛ seems likely, a more literal sense of that root, ‘run, flow’, provides better sense.
 

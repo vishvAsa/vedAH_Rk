@@ -2,7 +2,7 @@
 title = "18"
 
 +++
-The morphological ambiguity of bhúvaḥ (injunctive or subjunctive) allows for several possible interpretations of the first half-vs. Ge takes bhúvaḥ as imperatival “sei,” though this is unlikely given the morphology. Hoffmann (Injunk.
+The morphological ambiguity of bhúvaḥ (injunctive or subjunctive) allows for several possible interpretations of the first half-vs. Geldner takes bhúvaḥ as imperatival “sei,” though this is unlikely given the morphology. Hoffmann (Injunk.
 
 262) takes it as a “generell oder resulativ konstatierend” injunctive and tr. “du bist” (so also WG). By contrast, I think these two fronted bhúvaḥ are subjunctives and questions. There is of course no way to tell. However, the purpose clause with subjunctive in 20cd .. yáthā … ásan naḥ ... avitā “so that he will be our helper,” matching our pāda a bhúvo ‘vitā́, suggests that bhúvaḥ is indeed a subjunctive and that further we are not at this point certain that Indra will become what we want him to -- hence a question rather that a statement is more appropriate. As for how bhúvas,
 

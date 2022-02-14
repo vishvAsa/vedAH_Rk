@@ -4,7 +4,7 @@ title = "04"
 +++
 The standard tr. take this vs. as a single clause, and it is certainly tempting.
 
-However, there are several problems. First, despite the hí the main verb vivāsasi is unaccented. It is true that this verb comes only at the end of the vs., while hí is in 2nd position in the first pāda. Old notes the problem but suggests that it’s the result of sliding into being a main clause, presumably because of distance. But the conditioning of verb accent by hí is a robust effect, which does not depend on proximity of the verb to the particle. Another problem is the sá … tvám that opens the vs. As I have demonstrated at length (“sa figé”), sá (+/- tvám) with 2nd ps.
+However, there are several problems. First, despite the hí the main verb vivāsasi is unaccented. It is true that this verb comes only at the end of the vs., while hí is in 2nd position in the first pāda. Oldenberg notes the problem but suggests that it’s the result of sliding into being a main clause, presumably because of distance. But the conditioning of verb accent by hí is a robust effect, which does not depend on proximity of the verb to the particle. Another problem is the sá … tvám that opens the vs. As I have demonstrated at length (“sa figé”), sá (+/- tvám) with 2nd ps.
 
 reference is ordinarily found only with imperatives, and the desid. pres. vivāsasi is therefore anomalous.
 

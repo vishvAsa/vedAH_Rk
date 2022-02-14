@@ -6,5 +6,5 @@ As noted in the publ. intro., this vs. also recalls the opening vs. of the prece
 
 On púrīṣa- see comm. ad I.163.1.
 
-Ge (/WG) take svàrṇara- as a PN, but this interpr. does not fit the pattern of the vs., and moreover svàrṇara- as PN seems to be confined to Maṇḍala VIII. See Mayrhofer (PN, s.v.), who also sees the name only in VIII.
+Geldner (/WG) take svàrṇara- as a PN, but this interpr. does not fit the pattern of the vs., and moreover svàrṇara- as PN seems to be confined to Maṇḍala VIII. See Mayrhofer (PN, s.v.), who also sees the name only in VIII.
 

@@ -6,7 +6,7 @@ The ritual application of this final ṛténa vs. is less clear than for the fir
 
 The athem. mid. part. -stubhāná- is isolated, beside the act. them. 1st cl. pres.
 
-stóbhati, and it is therefore impossible to determine its exact value -- including whether it is passive (so, e.g., Old [SBE], Ge, Re) or not. Gotō (1st cl., 332 and n.
+stóbhati, and it is therefore impossible to determine its exact value -- including whether it is passive (so, e.g., Oldenberg [SBE], Geldner, Renou) or not. Gotō (1st cl., 332 and n.
 
 808) argues against such a value, on the basis of the intrans. sense of the root, and I have followed him in the non-passive assessment. My tr. “beat a tattoo” reflects my sense that √stubh is associated esp. with rhythm. As for sárga-, lit. ‘surge, gush’, it can refer to the instant when the surge is released, hence here the start of a race.
 

@@ -8,6 +8,6 @@ satrāhám is a neut. sg. qualifying paúṃsyam. It looks like a them. neut. an
 
 as a them. neut. ending (see also Lanman, Noun inflection 478, AiG III.239). But it is the case that such nasalizations are rare within pādas and almost always concern long
 
--ā (see Old, Prol. 469-72). Moreover, the similarly formed neut. vṛtrahám in
+-ā (see Oldenberg, Prol. 469-72). Moreover, the similarly formed neut. vṛtrahám in
 VI.48.21 precedes a consonant with the -m making position.
 

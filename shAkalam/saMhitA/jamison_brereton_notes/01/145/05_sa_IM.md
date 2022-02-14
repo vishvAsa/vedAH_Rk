@@ -2,7 +2,7 @@
 title = "05"
 
 +++
-As noted in the publ. intro. this vs. forms a ring with vs. 1 (so already Ge n.
+As noted in the publ. intro. this vs. forms a ring with vs. 1 (so already Geldner n.
 
 5cd). Note also that vy àbravīd vayúnā … “he has declared the (ritual) patterns …” recalls vayúnā návādhita “he has established the new (ritual) patterns” in the preceding hymn (I.144.5).
 

@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-The second half-verse does not work as Dvipadā Virāj, since it would have pādas of 4 and 6 syllables. It has long been suggested (for reff. see Old SBE and HvN comm., both ad loc.) that putting devó devā́nām in the opposite order would fix this problem. However, Old argues in the Proleg. (97) that this is unnecessary, that Dvipadā Virāj has an affinity to Triṣṭubh, and that this line, though 10 syllables, configures itself nearly as a Triṣṭubh. See I.67.9 above.
+The second half-verse does not work as Dvipadā Virāj, since it would have pādas of 4 and 6 syllables. It has long been suggested (for reff. see Oldenberg SBE and HvN comm., both ad loc.) that putting devó devā́nām in the opposite order would fix this problem. However, Oldenberg argues in the Proleg. (97) that this is unnecessary, that Dvipadā Virāj has an affinity to Triṣṭubh, and that this line, though 10 syllables, configures itself nearly as a Triṣṭubh. See I.67.9 above.
 
 The verb pári … bhuvat lacks overt object, and various suggestions have been made. I assume that its object is the same as the object of 1cd “the still and the moving.” Hoffmann (sim. WG) tr. the verb simply as “überragt” (stands out), but this interpr. ignores the emphasis on “encompassing” in this set of hymn (see disc. ad I.65.3).
 

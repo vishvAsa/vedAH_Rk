@@ -10,7 +10,7 @@ maintained in WG. I find the morphological arg. persuasive, but the meaning some
 
 Pāda c contains another hapax, atharyàḥ. This is generally taken as the gen. sg.
 
-of a fem. atharī́-, often interpr. as a female animal, whose tooth is the object of comparison with Agni’s flame. See, e.g., Old’s extensive disc. ad VII.1.1 (Noten II, p.
+of a fem. atharī́-, often interpr. as a female animal, whose tooth is the object of comparison with Agni’s flame. See, e.g., Oldenberg’s extensive disc. ad VII.1.1 (Noten II, p.
 
 2), where he tentatively opts for a mare. Hoffmann suggests rather (registered in EWA I.805) that it belongs with atharvī́- ‘following the way’ (athar-vī́) (I.112.10), with the loss of v on metrical grounds, while WG take it simply as a fem. -ī-stem to áthar-, which they take as a root noun cmpd *h2at-h2ar-íh2, and tr. ‘Wegzieherin’.
 

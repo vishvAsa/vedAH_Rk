@@ -2,7 +2,7 @@
 title = "06"
 
 +++
-There are again a number of ways to construe this vs., and I will concentrate on my own. Given the alternation I see in this hymn between the actions of gods and men, I think (with most) that the 2nd pl. subj. of prá … kṛṇudhvam is back to the mortal ritual officiants (as in 3cd), rather than the gods (as in 5a). I also take prá kṛṇudhvam to be the verb of all of abc, reinforced by prá opening b. This further means that the nominatives of c (iṣudhyáva ṛtasā́paḥ) refer to the mortals and the púraṃdhīḥ is acc. pl., not nom. as many take it. Crucial to this interpr. is the parallel cited by Old, X.64.7 prá vo vā́yuṃ rathayújaṃ púraṃdhiṃ, stómaiḥ krṇ̥ udhvam sakhyā́ya pūṣáṇam. “Set in front with your praises Vāyu, who hitches up the chariot, Plenitude, (and) Pūṣan for partnership,” with clear acc. púraṃdhim a parallel obj.
+There are again a number of ways to construe this vs., and I will concentrate on my own. Given the alternation I see in this hymn between the actions of gods and men, I think (with most) that the 2nd pl. subj. of prá … kṛṇudhvam is back to the mortal ritual officiants (as in 3cd), rather than the gods (as in 5a). I also take prá kṛṇudhvam to be the verb of all of abc, reinforced by prá opening b. This further means that the nominatives of c (iṣudhyáva ṛtasā́paḥ) refer to the mortals and the púraṃdhīḥ is acc. pl., not nom. as many take it. Crucial to this interpr. is the parallel cited by Oldenberg, X.64.7 prá vo vā́yuṃ rathayújaṃ púraṃdhiṃ, stómaiḥ krṇ̥ udhvam sakhyā́ya pūṣáṇam. “Set in front with your praises Vāyu, who hitches up the chariot, Plenitude, (and) Pūṣan for partnership,” with clear acc. púraṃdhim a parallel obj.
 
 with vā́yuṃ rathayújam (as here) to prá … kṛṇudhvam.
 
@@ -10,5 +10,5 @@ I then take d as displaying the usual reciprocity found elsewhere in the hymn, b
 
 I do not entirely understand the position of ā́, which appears to be a preverb with dhuḥ (so Gr), but appears to have been moved in tmesis to a position adjacent neither to a metrical boundary nor to a syntactic one (though this would be easier to argue). It may have been flipped (from a putative *dhiyé ā́dhuḥ) to allow the figure just discussed (dhiyé dhuḥ picking up 5b dadhīta dhī́ḥ).
 
-On iṣudhyú-, see comm. ad I.128.6 and my forthcoming article “Vedic iṣudhyá- and Old Avestan išud-, išūidiia-: The Aim of Praise.”
+On iṣudhyú-, see comm. ad I.128.6 and my forthcoming article “Vedic iṣudhyá- and Oldenberg Avestan išud-, išūidiia-: The Aim of Praise.”
 

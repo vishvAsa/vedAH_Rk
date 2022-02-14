@@ -2,7 +2,7 @@
 title = "02"
 
 +++
-Like the gen. phrase in 1b, the instr. tveṣyèṇa has insufficient syntactic grounding in its clause. Like Ge “(geschieht)” and Re “(s’est produite),” I see no choice but to supply a verb to link the subject janū́ḥ and the instr.
+Like the gen. phrase in 1b, the instr. tveṣyèṇa has insufficient syntactic grounding in its clause. Like Geldner “(geschieht)” and Renou “(s’est produite),” I see no choice but to supply a verb to link the subject janū́ḥ and the instr.
 
 I have no opinion on the morphology of janū́ḥ. Gr calls it a masculine nom. sg.
 

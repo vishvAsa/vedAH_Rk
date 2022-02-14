@@ -6,5 +6,5 @@ This vs. is classified as Anuṣṭubgarbhā (5 8 / 8 8), the only such vs. in t
 
 The suffix-accented masc. dharmán- is rare and confined to the late RV, as opposed to the common neut. dhárman-. Here ‘supporter, upholder’ would be a more accurate tr. than ‘support’.
 
-I take víparva- here as proleptic: the result of Trita’s shaking of Vṛtra is that his joints go apart. Gr takes the ví- instead as privative (‘gelenklos’), which could make sense for a snake. But the passages adduced by Ge, like VIII.6.13 ví vr̥trám parvaśó ruján “breaking V. apart joint by joint,” demonstrate that Vṛtra is conceived of as having joints, which can be parted.
+I take víparva- here as proleptic: the result of Trita’s shaking of Vṛtra is that his joints go apart. Gr takes the ví- instead as privative (‘gelenklos’), which could make sense for a snake. But the passages adduced by Geldner, like VIII.6.13 ví vr̥trám parvaśó ruján “breaking V. apart joint by joint,” demonstrate that Vṛtra is conceived of as having joints, which can be parted.
 

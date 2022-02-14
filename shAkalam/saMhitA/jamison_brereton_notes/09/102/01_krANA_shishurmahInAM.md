@@ -2,7 +2,7 @@
 title = "01"
 
 +++
-On krāṇā́as instr. see comm. ad IX.86.19. It is echoed by the instr. krátvā in the ring-compositional final vs., 8a. As noted ad IX.86.19, with Lü and Re (see also Tichy Kl.Sch 210) but contra Ge, I construe mahī́nām with śíśuḥ here.
+On krāṇā́as instr. see comm. ad IX.86.19. It is echoed by the instr. krátvā in the ring-compositional final vs., 8a. As noted ad IX.86.19, with Lü and Renou (see also Tichy Kl.Sch 210) but contra Geldner, I construe mahī́nām with śíśuḥ here.
 
 As noted in the publ. intro., the phrase hinvánn ṛtásya dī́dhitim in b forms a ring with the same phrase in the final vs. of the hymn, 8c. Both occurrence fill a pāda, but the repetition in 8 is followed by the 4-syl. extension prā́dhavaré (i.e., prá adhvaré), which needs to be integrated into the clause.
 

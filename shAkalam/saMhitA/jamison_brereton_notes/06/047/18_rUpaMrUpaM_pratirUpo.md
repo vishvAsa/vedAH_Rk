@@ -8,7 +8,7 @@ It is a slightly more complex formulation of III.53.8 rūpám-rūpam maghávā b
 
 mean “he has become one having a form corresponding …,” this seemed awkward.
 
-Ge thinks the form in b is Indra’s true form, to be recognized behind the various disguises in pāda a; by contrast, I think each form Indra assumes is meant for display and none of them is the “real” one. práti √cakṣ is the lexeme used for the display of the girl at the svayaṃvara; see its use with Dawn in I.113.11 and 124.8.
+Geldner thinks the form in b is Indra’s true form, to be recognized behind the various disguises in pāda a; by contrast, I think each form Indra assumes is meant for display and none of them is the “real” one. práti √cakṣ is the lexeme used for the display of the girl at the svayaṃvara; see its use with Dawn in I.113.11 and 124.8.
 
 Each constituency is shown a different form—hence the āmreḍita rūpáṃ-rūpam in a and the thousand horses in d, which presumably take each different form of Indra in a different direction.
 

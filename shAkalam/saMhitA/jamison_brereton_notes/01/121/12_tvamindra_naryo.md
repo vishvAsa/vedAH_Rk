@@ -8,7 +8,7 @@ masc. of the rel. pronoun or pres. act. part., nom. sg. masc., to the root pres.
 
 ā́vaḥ (etc.) or subj. ávāḥ (etc.); this is an additional, if weak, argument for not taking it as a finite verb.
 
-The adj. mandínam ‘exhilarating’ in c seems semantically far enough from its apparent referent, vajrám in d, that Ge supplies a verb “(trink)” to produce a new clause and allow mandínam to qualify the expected soma (see the same adj. in 8c).
+The adj. mandínam ‘exhilarating’ in c seems semantically far enough from its apparent referent, vajrám in d, that Geldner supplies a verb “(trink)” to produce a new clause and allow mandínam to qualify the expected soma (see the same adj. in 8c).
 
 This is unnecessary. Uśanā Kāvya’s major job is to give Indra the mace (see also V.34.2) and for Indra to reach exhilaration in his company (I.51.11). In our passage it seems as if these are conflated, and the vajra itself is what provides the exhilaration (= the energy to kill Vṛtra bez. Śuṣṇa).
 

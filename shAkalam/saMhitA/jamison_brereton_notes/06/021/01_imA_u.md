@@ -6,5 +6,5 @@ As with hemistich initial #śataíḥ … #vadhaíḥ in VI.20.4 in the immediat
 
 The vertical NP just discussed unbalances syntactic constituency, and, unusually, the hemistich boundary cannot be respected.
 
-In d most take īyate to √yā / ī ‘implore, beg’; so, e.g., Ge “… wird … erbeten” (likewise Lub, Kulikov, -ya-presents 495). I assign it rather to ‘speeds’, though either is possible.
+In d most take īyate to √yā / ī ‘implore, beg’; so, e.g., Geldner “… wird … erbeten” (likewise Lub, Kulikov, -ya-presents 495). I assign it rather to ‘speeds’, though either is possible.
 

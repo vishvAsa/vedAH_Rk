@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-The aggrandizing of Soma’s role continues here, with 3 superlatives: varivodhā́tama- ‘best establisher of the wide realm’, máṃhistha- ‘most munificent’, and vṛtrahántama- ‘best smasher of obstacles’ -- the last of course borrowing Indra’s signature epithet, while máṃhiṣṭha- also regularly characterizes Indra. Re suggests that the three represent the three (Dumézilian) functions, but this does not seem particularly compelling.
+The aggrandizing of Soma’s role continues here, with 3 superlatives: varivodhā́tama- ‘best establisher of the wide realm’, máṃhistha- ‘most munificent’, and vṛtrahántama- ‘best smasher of obstacles’ -- the last of course borrowing Indra’s signature epithet, while máṃhiṣṭha- also regularly characterizes Indra. Renou suggests that the three represent the three (Dumézilian) functions, but this does not seem particularly compelling.
 
 Vs. 1 also began with two superlatives, svā́diṣṭha- ‘sweetest’ and mádiṣṭha- ‘most exhilarating’, but these are restricted to soma’s ritual role, whereas the three in this vs. attribute universal powers to him.
 

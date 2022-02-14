@@ -6,7 +6,7 @@ Although ūtyā́could be taken with the impv., the instr. of ūtí- has a robus
 
 vidā́in the Saṃhitā text can represent either a lengthened form of the impv.
 
-vida or a subj. vidā́ḥ (so Pp., also Gr, Lub). Both Ge and Re tr. as an impv. (as do I), which fits the imperatival tone of the hymn better than a subjunctive.; see esp.
+vida or a subj. vidā́ḥ (so Pp., also Gr, Lub). Both Geldner and Renou tr. as an impv. (as do I), which fits the imperatival tone of the hymn better than a subjunctive.; see esp.
 
 parallel codaya in b. Although neither Gr nor Lub gives other imperatives to this stem, most of the forms analyzed as vidā́ḥ are better taken as imperatives like this one (e.g., I.36.14, 71.7, VIII.61.7).
 

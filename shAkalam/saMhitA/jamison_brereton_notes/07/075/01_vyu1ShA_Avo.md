@@ -6,7 +6,7 @@ Although the Saṃhitā form āvo in pāda a (Pp. āvaḥ) is assigned to √v�
 
 Here ví … āvas explicitly contrasts with ápa … āvar (√vṛ) ‘uncovered’ in c.
 
-The latter form makes a bad Triṣṭubh cadence: … āvar ájuṣṭam#, where we would expect -var to be a heavy syllable. Old (Prol. 424 n. 1) persuasively suggests that this apparent light syllable may actually represent *āvarr (from original 3rd sg.
+The latter form makes a bad Triṣṭubh cadence: … āvar ájuṣṭam#, where we would expect -var to be a heavy syllable. Oldenberg (Prol. 424 n. 1) persuasively suggests that this apparent light syllable may actually represent *āvarr (from original 3rd sg.
 
 *āvart), with the same doubling of final resonant before initial vowel that we find in -
 nn from older *-nt. He suggests the same for kar (IX.92.5) and abibhar (X.69.10), both of which would be metrically better as *-arr. 97 āv- is something of a signature of this vs.: āvo …, āviṣ(kṛṇvānā́) … / āvar, reinforced by numerous other a-/ā-initial words: ā́gāt / ápa … ájuṣṭam, áṅgirastamā … ajīgaḥ.

@@ -10,7 +10,7 @@ The lexeme ví √hvā means ‘vie in invoking’, generally referring to our c
 
 The phrasing of pāda c is unusual, and the interpretation depends crucially on one’s interpretation of śraddhā́. As I have discussed elsewhere (1996: 176-84), I take this resonant term to mean ‘trust’, particularly the trust between the parties involved in a hospitality relationship (of which the sacrifice is a most important and fraught subtype). Here the trust (śraddhā́m) of the 1st ps. speaker that his choosing will bear fruit and his competitive invocation will be successful comes true (satyā́m) and serves as a concretized goal of the gods’ journey that demonstrates that the trust was not misplaced. satyá- is almost a proleptic adjective here. Most of the standard tr.
 
-approximate this interpr; Re’s is closest to mine.
+approximate this interpr; Renou’s is closest to mine.
 
 The hí in the refrain fragment ā́hí yātám (through vs. 12) is difficult to account for under its usual functional headings. I have tentatively taken it as emphatic (a cop-out, I realize) and tr. it as “yes!” I am not convinced by Hettrich’s treatment (Hypotaxe 376, 379-80) ascribing its use to a conditional structure.
 

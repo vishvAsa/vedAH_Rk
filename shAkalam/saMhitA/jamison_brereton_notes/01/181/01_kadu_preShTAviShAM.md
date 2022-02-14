@@ -9,5 +9,5 @@ subjunctive, but the mood sign of the subjunctive is absent. It can’t be an ex
 *ninītám with 2ndary ending, and therefore it takes a primary ending (a solution
 endorsed by WG). This seems needlessly complex and, pace Hoffmann (Injunc., 111), I find the notion that an injunctive would adopt primary endings for this purpose somewhat bizarre, since secondary endings are what define the injunctive. A simpler solution is to assume the form is a nonce present generated to ambiguous perfect forms like opt. ninīyāt (2x).
 
-How to construe the genitives iṣā́ṃ rayīṇā́m and apā́m is another problem. I take them as parallel partitive genitives, roughly flg. Old, rather than taking the former pair as dependent on préṣṭḥau and the latter as a pseudo-ablative as Ge does.
+How to construe the genitives iṣā́ṃ rayīṇā́m and apā́m is another problem. I take them as parallel partitive genitives, roughly flg. Oldenberg, rather than taking the former pair as dependent on préṣṭḥau and the latter as a pseudo-ablative as Geldner does.
 

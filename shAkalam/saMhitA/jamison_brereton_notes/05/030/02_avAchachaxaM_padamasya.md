@@ -6,7 +6,7 @@ WG take sasvár as ‘in sleep’, against the standard interpr. ‘in secret’
 
 The position of anyā́n in b should, by my rules, make it definite (“the others”).
 
-Though both Ge and WG render it as indefinite, there is no reason why it can’t be definite: the poet consults with his priestly/poetic colleagues or with those “who know” (vidváṃs-) Their answer, referring to “we men,” suggests that it is a defined group, quite possibly the priests performing the morning ritual. The action that qualifies them for attaining Indra -- waking up (early) -- is surely not simply reflecting a general sentiment like “the early bird gets the worm,” but refers to Indra’s attendance at the morning pressing; cf., e.g., IV.35.7 prātáḥ sutám apibo haryaśva “Early in the morning you drank the pressed (soma), you of the fallow bays.”
+Though both Geldner and WG render it as indefinite, there is no reason why it can’t be definite: the poet consults with his priestly/poetic colleagues or with those “who know” (vidváṃs-) Their answer, referring to “we men,” suggests that it is a defined group, quite possibly the priests performing the morning ritual. The action that qualifies them for attaining Indra -- waking up (early) -- is surely not simply reflecting a general sentiment like “the early bird gets the worm,” but refers to Indra’s attendance at the morning pressing; cf., e.g., IV.35.7 prātáḥ sutám apibo haryaśva “Early in the morning you drank the pressed (soma), you of the fallow bays.”
 
 
 

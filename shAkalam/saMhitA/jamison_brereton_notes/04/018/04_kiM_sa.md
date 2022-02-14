@@ -10,4 +10,4 @@ middle participles in his oeuvre) -- one might point to the ambiguous 3rd pl. ac
 
 uśánti (3x), which is presumably the 3rd pl. of the root pres., but could belong also to a 6th class present. (However, I note that the three 3rd pl. forms are found only in I and X.) I take ójaḥ as an acc. of respect with the part.
 
-Ge sees pāda d as reflecting the Winged Mountains story, but this doesn’t seem evident to me.
+Geldner sees pāda d as reflecting the Winged Mountains story, but this doesn’t seem evident to me.

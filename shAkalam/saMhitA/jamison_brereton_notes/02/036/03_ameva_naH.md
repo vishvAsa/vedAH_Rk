@@ -2,7 +2,7 @@
 title = "03"
 
 +++
-As sometimes elsewhere, hí with the first of two imperatives signals that the second action depends on the first. Despite the masc. gender of devébhiḥ, I do not think it identifies a different group from the wives (jánibhiḥ), but that the latter further specifies the neutral devébhiḥ. In this I follow Re ad VI.50.13, which contains the same phrase (also X.64.10). Tvaṣṭar is strongly associated with the wives of the gods and in all clear cases only with them. It is worth noting that the RV contains no examples of fem.
+As sometimes elsewhere, hí with the first of two imperatives signals that the second action depends on the first. Despite the masc. gender of devébhiḥ, I do not think it identifies a different group from the wives (jánibhiḥ), but that the latter further specifies the neutral devébhiḥ. In this I follow Renou ad VI.50.13, which contains the same phrase (also X.64.10). Tvaṣṭar is strongly associated with the wives of the gods and in all clear cases only with them. It is worth noting that the RV contains no examples of fem.
 
 instr. pl. devī́bhiḥ or indeed of any fem. oblique plural.
 

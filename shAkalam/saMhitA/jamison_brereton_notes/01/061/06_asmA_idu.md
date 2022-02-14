@@ -13,5 +13,5 @@ I’ve tr. the participle tuján as it were a finite verb, because the English o
 The unclear kiyedhā́- is found only here and in vs. 12. See EWA s.v. and Scar’s (250-52) discussions of previous attempts at explanation. I favor the suggestion registered (and dismissed) by Scar that it consists of the weak stem of kíyant-‘how much, how great’ + the root noun dhā́-, with the development *-nt̥-dh- >
 
 *-adzdh- > *-azdh- > -edh-, despite Hoffmann’s dismissal of the posited
-phonological development (Aufs. 400)—although I recognize the phonological problems of this solution. Re’s “lui qui confère (on ne sait) combien” represents this etymology one way or the other.
+phonological development (Aufs. 400)—although I recognize the phonological problems of this solution. Renou’s “lui qui confère (on ne sait) combien” represents this etymology one way or the other.
 

@@ -4,11 +4,11 @@ title = "09"
 +++
 The vs. contains three phonologically similar splvs., stationed at pāda edge: \#váriṣṭhe ... #váhiṣṭhayoḥ ... / ... várṣiṣṭhām#. This is somewhat reminiscent of the phonological/morphological figure in 4ab varimā́ṇam … varṣmā́ṇam, esp. since váriṣṭhe and várṣiṣṭhām belong to the same roots as the two forms in 4.
 
-In b the HvN text should read śatāvann. This voc. is variously interpr. (see Old for some reff.), but I follow Ge, and implicitly the Pp., in taking it as (metrically) lengthened *śata-van, to a -van-stem, contra Gr’s śata-ava(n)t-, with the pres. part.
+In b the HvN text should read śatāvann. This voc. is variously interpr. (see Oldenberg for some reff.), but I follow Geldner, and implicitly the Pp., in taking it as (metrically) lengthened *śata-van, to a -van-stem, contra Gr’s śata-ava(n)t-, with the pres. part.
 
 of √av ‘help’. This śatā-van- would be a byform of better attested śatá-vant-. It needs to belong to a -van- rather than a -vant- stem because otherwise the expected voc. would be -vas. But we find -vant- and -van- stems side-by-side, notably in maghávan(t)-. Debrunner (AiG II.2, most clearly p. 904, citing this passage) argues that -vant-stems are “sachlich” while -van-stems are “persönlich,” which would work for śatávant- versus our śatāvan-, but not, obviously, for maghávan(t)-.
 
-The tr. of d is disputed. Ge takes rā́yaḥ as nom. pl. (as it generally is) and the subj. of the sg. verb tārīt: “nicht sollen die Reichtümer eines hohen Herren die unseren überbieten.” This requires that the sg. verb take a masc. pl. subj. While the neut. pl. + sg. verb construction is fairly rare, but attested and inherited, I do not know of masculine pl. equivalents. Old (ZDMG 54: 170) thinks the incongruity of number is the result of the adjustment to the formulaic nature of rā́yo aryáḥ, tr.
+The tr. of d is disputed. Geldner takes rā́yaḥ as nom. pl. (as it generally is) and the subj. of the sg. verb tārīt: “nicht sollen die Reichtümer eines hohen Herren die unseren überbieten.” This requires that the sg. verb take a masc. pl. subj. While the neut. pl. + sg. verb construction is fairly rare, but attested and inherited, I do not know of masculine pl. equivalents. Oldenberg (ZDMG 54: 170) thinks the incongruity of number is the result of the adjustment to the formulaic nature of rā́yo aryáḥ, tr.
 
 “mögen uns nicht die Kargen den Reichtum überwinden,” with aryáḥ nom. pl. of arí-
 

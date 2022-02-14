@@ -6,7 +6,7 @@ The opening of pāda c is identical to 2c. The rest of this hemistich presents a
 
 phrase sárvayā viśā́“with your whole clan” in the next vs. (5d) may convey the same meaning. Taking tánā as ‘lineage’ here also has the merit of allowing a semantic connection with tánāya in 7a.
 
-I separate the two pādas (so also Re), in great part because of the position of nū́cid, which usually opens its clause (here after an extra-sentential voc. rúdrāsaḥ).
+I separate the two pādas (so also Renou), in great part because of the position of nū́cid, which usually opens its clause (here after an extra-sentential voc. rúdrāsaḥ).
 
-However, a tr. similar to Ge’s, “your might is never to be open to challenge,” would also be possible.
+However, a tr. similar to Geldner’s, “your might is never to be open to challenge,” would also be possible.
 
