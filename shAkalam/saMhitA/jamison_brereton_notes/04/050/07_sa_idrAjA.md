@@ -8,4 +8,4 @@ The sense of pūrvabhā́j- is limited by pū́rva eti in 8d and for that reason
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

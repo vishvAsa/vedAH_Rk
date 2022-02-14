@@ -19,4 +19,4 @@ Acdg. to Ge (n. 9cd), Re, Lü (267), pāda d depicts Soma as sun and moon.
 This may well be, but I wonder if the source of the contrastive image is not the Overnight (atirātrá) soma ritual.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

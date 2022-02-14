@@ -7,4 +7,4 @@ With Lü (266), I take ṛtáṃ bṛhát as a nom. in apposition to Soma, rathe
 But I would certainly accept an acc. interpr. as alternative.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

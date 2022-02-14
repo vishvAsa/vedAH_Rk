@@ -8,4 +8,4 @@ The simile in d has the same structure as the one in 2b: gapped nominative targe
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/098/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

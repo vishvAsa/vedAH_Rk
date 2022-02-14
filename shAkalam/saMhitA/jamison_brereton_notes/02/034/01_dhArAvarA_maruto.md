@@ -8,4 +8,4 @@ As Ge (and Re) point out, ‘well-ornamented’ (supéśas-) of hymns means not 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

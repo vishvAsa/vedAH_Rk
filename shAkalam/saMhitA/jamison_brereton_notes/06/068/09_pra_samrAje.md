@@ -6,4 +6,4 @@ Ge also (n. 8c) claims (fld. by Re) that this vs. is entirely Varuṇa’s. This
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/068/09-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

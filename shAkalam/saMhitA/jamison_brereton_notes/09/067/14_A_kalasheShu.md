@@ -8,4 +8,4 @@ What is the “armor” (várma) that soma “plunges through” (ví gāhate)? 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

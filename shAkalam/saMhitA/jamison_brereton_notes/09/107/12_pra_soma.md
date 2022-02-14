@@ -13,4 +13,4 @@ Now, as to their transitive jā́gṛvi-. To be fair, it is not only the instr. 
 See VII.103.7ab (the frog hymn), where the frogs are compared to brahmins, who are in turn compared to frogs. Or else the animatized Soma the god is compared to soma the drink. But in any case, I prefer to accept the simile at face value, however clumsy, rather than erecting a fantastic superstructure by reinterpretating standard somic descriptors.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

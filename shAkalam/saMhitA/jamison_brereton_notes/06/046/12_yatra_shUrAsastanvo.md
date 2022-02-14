@@ -15,4 +15,4 @@ Pādas abc strongly echo 9abc, with the c pādas esp. close, both containing the
 The last pādas of vss. 9 and 12 provide the final thread of connection between the two vss., since both contain the impv. yāváyā̆ ‘keep away’. In 12d the accent on the verb is anomalous, but I have no trouble assuming that it was adapted from 9d, where the initial position of the verb requires it.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

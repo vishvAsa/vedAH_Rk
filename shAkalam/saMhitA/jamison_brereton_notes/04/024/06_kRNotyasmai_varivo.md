@@ -13,4 +13,4 @@ Quite apart from the actual form is its referent. Old, who accepts the ávivenan
 This nominative is resumed by the appropriate correlative prn. tám in the acc. in d.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

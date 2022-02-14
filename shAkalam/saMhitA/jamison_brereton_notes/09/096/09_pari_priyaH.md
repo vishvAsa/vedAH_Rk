@@ -8,4 +8,4 @@ My “for Indra’s exhilaration” is a somewhat loose rendering of the double 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

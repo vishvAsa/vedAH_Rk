@@ -16,4 +16,4 @@ The sense of nimíṣi is unclear. My tr. “at (every) blink of the eye” take
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

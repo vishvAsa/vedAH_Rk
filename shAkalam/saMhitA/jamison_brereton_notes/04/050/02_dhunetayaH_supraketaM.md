@@ -11,4 +11,4 @@ The acc. phrase in c refers to the Vala cave and is the obj. of abhí … tatasr
 The “future impv.” rákṣatāt in d is somewhat surprising, in that it does not follow a previous impv., as is usual. I take it to imply that Bṛhaspati should do his guarding after the Aṅgirases have breached the cave and released the cows. For another unexpected future impv. see nearby suvatāt in IV.54.3
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/050/01-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

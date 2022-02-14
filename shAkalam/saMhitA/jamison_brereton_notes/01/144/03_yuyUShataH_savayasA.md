@@ -19,4 +19,4 @@ yatáḥ to contrast with act. transitive yámati. But in 144.3, because of the 
 Note that Old in SBE follows the syntactic division at pāda boundary in our 3cd, but in the Noten explicitly changes his view, taking asmád ā́with what follows as I do. I cannot follow his interpr. thereof, however: “Agni lenkt die Fahrt zu uns hin.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/144/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

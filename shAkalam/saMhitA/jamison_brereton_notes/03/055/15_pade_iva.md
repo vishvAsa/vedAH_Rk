@@ -12,4 +12,4 @@ The ‘pathway’ (pathyā̀) takes us back to III.54.5 where a question about �
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/055/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

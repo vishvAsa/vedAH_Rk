@@ -11,4 +11,4 @@ arṣati. I would now be inclined to supply ‘names’ (“he purifies himself 
 “towards his own dear (things).” Pāda c is also puzzling: the phrase “clothing himself in his foundations” (dhármāṇi … vásānaḥ) is not immediately interpretable, and there are no illuminating parallels (at least that I have found). The adverbial ṛtuthā́“according to the ritual order” suggests that the process of “clothing himself” involves following the orderly steps of the sacrifice - which in turn suggests that Soma is making his progress across the ritual ground, encountering first the waters, then the milk, before arriving at his destination. I therefore think that the “foundations” here are the waters and the milk - his supports, the materials of which the soma drink is built. But this cannot be demonstrated.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

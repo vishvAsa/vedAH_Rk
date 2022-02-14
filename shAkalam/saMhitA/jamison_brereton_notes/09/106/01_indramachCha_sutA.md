@@ -6,4 +6,4 @@ As Re points out, the exact nuance of śruṣṭī́is hard to pinpoint, but Ge�
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/106/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

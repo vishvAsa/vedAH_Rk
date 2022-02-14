@@ -12,4 +12,4 @@ If this gossamer suggestion is correct, then the first two pādas outline a twos
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

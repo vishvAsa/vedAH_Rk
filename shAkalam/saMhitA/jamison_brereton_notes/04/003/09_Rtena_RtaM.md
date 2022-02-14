@@ -18,4 +18,4 @@ The hapax jā́marya- is opaque; see EWA s.v. My tr. follows Janert’s analysis
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/003/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

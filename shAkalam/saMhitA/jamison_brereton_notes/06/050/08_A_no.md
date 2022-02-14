@@ -6,4 +6,4 @@ With Ge and Re, I take the simile uṣáso ná prátīkam as a nominative phrase
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/050/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

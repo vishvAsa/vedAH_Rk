@@ -15,4 +15,4 @@ There are two ways I can see to do this -- 1) take sá étaśaḥ as a parenthet
 That Savitar is identified with Etaśa in one of his aspects may be supported by the explicit identifications with other figures in the next two vss.: mitró bhavasi (4d), pūṣā́bhavasi (5b).
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/080/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,4 +6,4 @@ With Re (EVP 7: 75) I take vā in d not as the disjunctive ‘or’, but the enc
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/041/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

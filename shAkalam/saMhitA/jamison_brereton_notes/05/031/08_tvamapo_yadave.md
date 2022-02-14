@@ -15,4 +15,4 @@ Although most take atrá- as a PN, I still prefer the older derivation (see, e.g
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/031/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

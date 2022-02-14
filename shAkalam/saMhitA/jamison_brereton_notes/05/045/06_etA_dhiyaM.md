@@ -18,4 +18,4 @@ Even more so the “wandering merchant” (vaṇíg vaṅkúḥ) of d. On vaṅk
 interpr. were persuasive, it doesn’t explain what the material is doing in this hymn at this point.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/045/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

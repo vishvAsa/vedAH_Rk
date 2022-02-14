@@ -22,4 +22,4 @@ but also on the árātayaḥ of c. The point is: if the stranger’s hostilities
 As I just said, I don’t have a high degree of certainty about the correctness of this interpr. Those produced by the others just named, which all assign both verbs to ‘reach, attain’, are certainly not out of the question. Unfortunately I can’t endorse either of Old’s alternatives, however.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/078/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

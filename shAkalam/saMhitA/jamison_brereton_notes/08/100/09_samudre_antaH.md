@@ -7,4 +7,4 @@ The poet now plays another trick. The first pāda “within the sea he/it lies�
 As far as I know, this image of the submerged mace receiving tribute from the waters is found nowhere else in the Vṛtra myth complex, and seems to have been invented here for the purpose of verbal trickery.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

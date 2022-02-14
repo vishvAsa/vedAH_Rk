@@ -7,4 +7,4 @@ On Soma identified as “truth” (ṛtám), see IX.97.23, IX.108.8, and Lü 581
 The Pp. analyses árṣan opening c as injunc. árṣat, while the publ. tr. assumes a nom. sg. pres. part. árṣan. Either is of course possible, but the parallelism with vs. initial tárat may support the finite verb interpr., as Old points out. So an alt. tr. would be: “he rushes …” See Hoffmann (117) on this vs.; he is surely right that the two injunctives should receive the same interpr., rather than Re’s indic. pres. tárat, modal árṣat, and Hoffmann’s “general” pres. interpr. seems apt here for both.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/14-16.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

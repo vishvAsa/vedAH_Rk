@@ -6,4 +6,4 @@ In addition to the introduction of Savitar, we also get a slight rearrangement i
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/22-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

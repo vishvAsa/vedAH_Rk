@@ -32,4 +32,4 @@ Since ví ‘apart’ and sám ‘together’ are oppositional preverbs that fre
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/113/07-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

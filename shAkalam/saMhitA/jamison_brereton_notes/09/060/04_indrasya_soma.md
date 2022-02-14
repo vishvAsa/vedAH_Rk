@@ -6,4 +6,4 @@ In addition to the chaining with the previous vs. (on which see immediately abov
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,4 +6,4 @@ The 2nd hemistich contains three pairs of phonological and (partly) etymological
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

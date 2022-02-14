@@ -12,4 +12,4 @@ I don’t entirely understand the position of ca in c. Klein (DGRV I.222-23, 259
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/140/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

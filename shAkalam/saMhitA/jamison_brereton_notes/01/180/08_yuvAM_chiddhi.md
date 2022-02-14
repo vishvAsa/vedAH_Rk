@@ -18,4 +18,4 @@ But given the other intractable problems in this hymn, it seems one of the lesse
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

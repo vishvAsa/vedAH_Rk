@@ -6,4 +6,4 @@ I take ab as nominal rel. clause with a predicated grdv. prarā́dhyam, while Ge
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/039/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

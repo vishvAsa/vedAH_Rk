@@ -6,4 +6,4 @@ This final vs. is esp. close in phraseology to the Vena hymn, with pāda a ident
 
 Ge takes the part. praticákṣāṇaḥ as transitive/causative “seine Farben alle offenbarend” (though he questions this in n. 12b); sim. Ober (II.13) “erscheinen lassend.” Re’s tr. is like mine (“regardant-en-face toutes les formes siennes”), although in his n. he considers the opposite possibility, citing passages with práti √cakṣ that supposedly have this transitive sense. But his exx. are not probative, and the middle voice of the participle makes it esp. unlikely to have this sense.
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

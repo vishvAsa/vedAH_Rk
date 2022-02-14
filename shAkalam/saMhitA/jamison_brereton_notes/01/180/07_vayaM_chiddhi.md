@@ -7,4 +7,4 @@ The nonce verbal form vipanyā́mahe has attracted a remarkable amount of discus
 The phonological play of vipan(yā́mahe) ví paṇ(ír) clearly contributed to the word choice here, as Kulikov also notes. As for the sense of this hemistich, it simply rephrases the purport of vs. 6: because we singers are doing our job in the ritual economy by praising the gods, our patron is being generous to us and cannot be labeled a ‘niggard’.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/180/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

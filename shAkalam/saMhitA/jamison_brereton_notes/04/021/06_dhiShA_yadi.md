@@ -18,4 +18,4 @@ On the problematic duróṣāḥ (here apparently an -s-stem, as opposed to the 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

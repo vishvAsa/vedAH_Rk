@@ -8,4 +8,4 @@ There are several ways to construe the dual dvandva sū́ryāmā́sā of c. Ge t
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

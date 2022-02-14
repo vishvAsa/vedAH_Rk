@@ -6,4 +6,4 @@ The poet returns in his own voice to mock the new model, by imitating in the fir
 
 The poet then unleashes a devastating insult on his addressee, a brahman - that he has turned into a woman. I take this unfortunate figure to be the ritualist favoring the new model, and our poet is suggesting that too much association with and sympathy for women, too much emphasis on equality, will unman a man.
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -7,4 +7,4 @@ The summary evā́might be more emphatically rendered as “in just this way” 
 The ppl. in the periphrasis in d, smási hitā́ḥ, could belong either to √dhā or to √hi (so Sāy.). It is actually not clear to me which one Ge favors from his “denn wir sind in grossem Wettstreit begriffen” (and his n. 27c doesn’t entirely clarify). Re clear chose √dhā: “Avec ambition [maháś cid?] nous nous sommes en vérité placéś dans la compétition.” I favor √hi: I think the point is that we are “driven” / “hardpressed” in the hostile encounter, and we need divine help - which we will only get once they have partaken of our soma. But there are several logical steps missing in every interpr.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

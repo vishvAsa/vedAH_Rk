@@ -6,4 +6,4 @@ As indicated in the publ. intro. to both I.162 and I.163, I take ā́tman- in th
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/163/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,4 +6,4 @@ vanvántu ‘let them combat’ and vanúṣām ‘rapacious ones’ are presuma
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/021/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

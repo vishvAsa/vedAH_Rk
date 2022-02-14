@@ -9,4 +9,4 @@ Re points out two minor anomalies in word placement: ca in pāda a, ná in pāda
 As for ná, it ordinarily is also positioned after the first element in the simile, but it is highly unlikely (that is, quite impossible) that Agni is being compared to a king being born, with the simile comprising jā́yamāno ná rā́jā, but rather Agni, even as he is being kindled, is compared to the victorious (adult) king, with the simile just ná rā́jā. Such “wrong” positioning is not unprecedented — other examples have been noted in the comm. — and, as Re points out, it is “masked to the eyes” by jā́yamānaḥ, which matches rā́jā in number, gender, and case.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

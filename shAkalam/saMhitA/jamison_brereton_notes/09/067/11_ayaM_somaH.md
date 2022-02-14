@@ -6,4 +6,4 @@ kapardín- is used of Pūṣan in VI.55.2, though it is also applied to a few ot
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

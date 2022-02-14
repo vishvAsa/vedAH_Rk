@@ -7,4 +7,4 @@ The hymn began with unnamed dual feminines attending to the young fire; this ver
 Note the word play of pratīcī́… práti, with slightly different meanings.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/095/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

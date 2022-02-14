@@ -7,4 +7,4 @@ Both Ge and Re supply ‘wealth’ (rayím), found in d, as the referent of all 
 In c I supply a form of √as with abhí in the meaning ‘surmount, dominate, prevail over’.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

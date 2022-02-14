@@ -8,4 +8,4 @@ Even the gods are dependent on our dawn sacrifice, and, reading further between 
 
 The last hemistich has a curious etymological figure, repeated for emphasis: avatūtáye (i.e., avatu ūtáye) “let him help for help.”
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

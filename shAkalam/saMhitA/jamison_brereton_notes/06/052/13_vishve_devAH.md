@@ -6,4 +6,4 @@ The disjunctive pairing yé agnijihvā́utá vā yájatrāḥ is puzzling if we 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

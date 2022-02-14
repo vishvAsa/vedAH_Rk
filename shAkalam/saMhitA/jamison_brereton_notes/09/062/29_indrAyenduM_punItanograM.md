@@ -6,4 +6,4 @@ Although it may not be clear from the Engl. tr., the phrase beginning “the str
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

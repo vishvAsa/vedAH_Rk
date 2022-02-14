@@ -16,4 +16,4 @@ The initial sá in both our pāda and the one on which it is based does not foll
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

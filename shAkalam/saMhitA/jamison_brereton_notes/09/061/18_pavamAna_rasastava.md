@@ -13,4 +13,4 @@ This is certainly possible, and jyótir vaiśvānarám in 16c might support it. 
 nearby IX.48.4. My interpr. is shared with Re and Ober (I.457).
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

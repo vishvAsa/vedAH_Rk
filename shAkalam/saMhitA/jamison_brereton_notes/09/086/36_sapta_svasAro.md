@@ -7,4 +7,4 @@ Who the seven sisters (bzw. mothers) are is a matter of dispute: Sāy.: the stre
 On the expression in the last pāda, see similar phrases in vss. 5 and 28.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/34-36.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

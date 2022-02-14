@@ -6,4 +6,4 @@ sū́raḥ: Although most take this as nom. sg. (Gr, Ge, Th, Lü), Re makes a go
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/050/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

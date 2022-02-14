@@ -8,4 +8,4 @@ sacanā́vant- is construed with the instr. sumatíbhiḥ: “provided with favo
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/022/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

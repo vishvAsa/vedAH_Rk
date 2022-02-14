@@ -6,4 +6,4 @@ Ge and Re take gómatīḥ as a ref. to the Gomatī river; WG to “cow-rich lan
 
 [V.62-78 JPB]
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/061/17-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

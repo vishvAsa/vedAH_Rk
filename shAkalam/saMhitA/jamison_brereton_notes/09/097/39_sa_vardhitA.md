@@ -11,4 +11,4 @@ The expression gā́ádrim uṣṇán “burned the cows out of the rock” is, 
 A poet who could deploy the “placer of the sun” formula in the manner he did in the previous vs. is surely capable of such a sly play on words.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
