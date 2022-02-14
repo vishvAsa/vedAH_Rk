@@ -17,4 +17,4 @@ Hoffmann (Injunk. 163-64) tr. and discusses this pair of vss., with special refe
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/027/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

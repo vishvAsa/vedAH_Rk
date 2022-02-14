@@ -6,4 +6,4 @@ My interpretation requires matīnā́m to be construed with hávam “the call o
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/086/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

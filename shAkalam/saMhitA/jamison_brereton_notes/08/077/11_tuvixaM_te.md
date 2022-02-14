@@ -8,4 +8,4 @@ Although Mayrhofer explicitly rejects this suggestion (KEWA, s.v. sūkará-; EWA
 
 My interpretation of pāda d essentially follows Scar (301, 516); see also EWA, s.v. ARD.
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

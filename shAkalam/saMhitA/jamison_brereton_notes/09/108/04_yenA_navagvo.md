@@ -11,4 +11,4 @@ See comm. ad IX.70.2 and, on supposed masc. cā́ruṇaḥ, VIII.5.14. Re suppli
 I take the pl. śrávaṃsi as distributive: each one of the pl. subj. acquires his own śrávaḥ.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

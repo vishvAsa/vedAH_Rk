@@ -12,4 +12,4 @@ The simile in c is somewhat unsettling: “Sing what is weal for the able one as
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

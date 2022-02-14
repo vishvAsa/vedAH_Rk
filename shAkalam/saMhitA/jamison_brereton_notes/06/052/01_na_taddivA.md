@@ -9,4 +9,4 @@ The vs., at least its 2nd hemistich, has a slangy feel -- with the unusual phono
 The agent noun yaṣṭár- seems like a potential candidate for the role of technical term for ‘Sacrificer’, which was rejected in favor of yájamāna-.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

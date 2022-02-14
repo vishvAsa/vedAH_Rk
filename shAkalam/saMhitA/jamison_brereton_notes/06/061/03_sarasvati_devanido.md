@@ -11,4 +11,4 @@ Although this is probably the default explan., I am drawn to Re’s more content
 The hapless ‘them’ (ebhyaḥ) in d must be the ‘god-scorners’ (deva-níd-) of a, as is the general consensus.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/061/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

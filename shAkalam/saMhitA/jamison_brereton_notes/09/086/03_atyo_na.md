@@ -9,4 +9,4 @@ Although, as noted above, vss. 1 and 3 share the same goal, the kóśa-, the phy
 In the publ. tr. for ease of English parsing I moved the tr. of svarvíd from b to cd, but this mixes the levels: the sun-finding Soma is the one that reaches heaven, while the soma of cd is the substance purified in the sheep’s filter. Better (if somewhat awkward): “… rush to the prize, as the sun-finder (rush) to the cask of heaven …”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

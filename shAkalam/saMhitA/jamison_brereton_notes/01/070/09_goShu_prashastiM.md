@@ -7,6 +7,6 @@ Note the vocabulary associated with human kingship: práśasti- ‘panegryic, la
 For another instance of prá √śaṃs in Parāśara’s oeuvre, see I.73.2.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/070/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

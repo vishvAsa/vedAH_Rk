@@ -18,4 +18,4 @@ I take the two abl. in fg in different senses: víśvasmād bhúvanāt as a temp
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/134/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

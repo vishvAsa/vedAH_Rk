@@ -8,4 +8,4 @@ by Klein [DGRV I.248 n. 93, 251]) takes cá as subordinating, tr. ‘wenn’, th
 
 The phrase āśrāváyati ślókena is technically an etymological figure, somewhat obscured by the l-form of ślóka- and its highly lexicalized state.
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/082/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -9,4 +9,4 @@ táva smasi is a paraphrase of 4a (imé) te … té vayám
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

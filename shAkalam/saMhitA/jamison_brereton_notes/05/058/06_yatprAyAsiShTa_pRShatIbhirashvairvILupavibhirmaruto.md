@@ -9,6 +9,6 @@ Pāda c is cleverly constructed: ā́paḥ ‘waters’ would be a perfectly acc
 VIII.7.26, adduced by Ge, makes it clear that Heaven is roaring with fear, but the roaring must also represent thunder.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

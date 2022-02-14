@@ -6,4 +6,4 @@ The standard word for son-in-law is simply jā́mātar-; the ví- is presumably 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/109/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

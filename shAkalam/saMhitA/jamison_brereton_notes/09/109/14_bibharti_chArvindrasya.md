@@ -11,4 +11,4 @@ The second ambiguity is located in the 2nd hemistich and has two parts: what/who
 seems to take the referent of yéna to be “the name Indra” and the subj. of the verb to be Soma (though neither is explicit about it). I recognize that this would be a pleasing paradox, since Indra is the default agent in this formula. But I wonder if instead Indra is the subj. of his signature verb, and yéna refers to soma, with the name equivalent to the substance.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

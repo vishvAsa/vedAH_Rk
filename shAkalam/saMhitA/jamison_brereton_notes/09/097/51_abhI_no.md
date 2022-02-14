@@ -7,4 +7,4 @@ Ge again supplies “zu gewinnen” in both hemistichs. I once again see no reas
 arṣa (the play also noted by Ge, n. 51d). ārṣeyá- is found only here in the RV, though it is extremely common in Vedic prose.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/49-51.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

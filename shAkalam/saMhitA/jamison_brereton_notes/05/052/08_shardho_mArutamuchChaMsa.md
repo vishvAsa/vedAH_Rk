@@ -6,4 +6,4 @@ Ge takes syandrā́(ḥ) as acc. pl. fem. and supplies antelopes as the obj. of 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/052/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

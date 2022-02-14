@@ -6,4 +6,4 @@ The first pāda is a bare variant of 3d: both contain the complex verbal constru
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/046/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

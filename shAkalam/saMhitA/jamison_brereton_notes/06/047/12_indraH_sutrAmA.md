@@ -6,4 +6,4 @@ In addition to the repetition just described, 12b sumṛḷīkó bhavatu is a va
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/047/11-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

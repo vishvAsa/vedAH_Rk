@@ -6,4 +6,4 @@ vápanti is also echoed by vepayanti in the next pāda, and the whole verse is m
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

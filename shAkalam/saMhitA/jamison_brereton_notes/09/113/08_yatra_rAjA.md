@@ -6,4 +6,4 @@ The standard view of avaródhanam is that it defines a closed or fortified place
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/113/08-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

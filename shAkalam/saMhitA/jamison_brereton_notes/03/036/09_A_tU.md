@@ -7,4 +7,4 @@ Most tr. take Indra as the implied obj. of mā́kiḥ … pári ṣṭhāt, thus
 On the form of dátra- see comm. ad IV.17.6.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/03/036/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,6 +6,6 @@ The descriptor ásmera-, generally taken as a derivative of √smi ‘smile’, 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/02-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/034/01-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

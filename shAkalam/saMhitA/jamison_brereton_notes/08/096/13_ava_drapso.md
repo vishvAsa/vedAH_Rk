@@ -6,4 +6,4 @@ The ca in c is one of the rare examples of subordinating ca in the RV, as shown 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

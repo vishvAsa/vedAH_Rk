@@ -6,4 +6,4 @@ The last pāda of the verse (d) is identical with the last pāda of vs. 3 (c), b
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/009/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

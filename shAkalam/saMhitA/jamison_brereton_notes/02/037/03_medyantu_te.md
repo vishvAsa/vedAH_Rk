@@ -8,4 +8,4 @@ Note that the havirdhāna carts are the subject of the last tṛca of nearby II.
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/037/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

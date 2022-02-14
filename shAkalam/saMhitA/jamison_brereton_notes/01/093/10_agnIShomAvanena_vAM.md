@@ -12,4 +12,4 @@ All tr. take vanínaḥ as ‘trees’ (lit. ‘possessing wood’). This is dou
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/093/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

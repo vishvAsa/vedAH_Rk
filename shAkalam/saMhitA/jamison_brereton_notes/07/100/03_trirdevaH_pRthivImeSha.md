@@ -11,4 +11,4 @@ Old posits a masc. s-stem *arcás- ‘singer’, comparing VI.34.3 yádi stotā�
 Because of the lack of accent on asya, it should be pronominal, not adjectival; I would adjust the tr. to “of him, the stalwart.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/100/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,4 +8,4 @@ The augment in (a)vṛṇoḥ is quite insecure: the Pp restores it, but it is n
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

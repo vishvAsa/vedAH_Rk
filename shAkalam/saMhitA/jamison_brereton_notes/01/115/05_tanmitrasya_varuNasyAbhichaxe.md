@@ -12,4 +12,4 @@ Thus we can construct a consistent and convincingly naturalistic interpr. of the
 [I.116-20 JPB]
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/115/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -10,4 +10,4 @@ The second hemistich does continue the ritual and cosmic focus of the rest of th
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/047/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -6,4 +6,4 @@ The big question about this vs. is the identity of the speaker. The standard vie
 
 The standard tr. take c with d, e.g., Ge: “Wenn er die Feinde erschlagen hat, so soll er ihn mir zurückgeben.” The problem with this is that it assumes an anterior, specifically future anterior, value “(will) have smashed” for the intensive subjunctive jáṅghanat. For this reason I attach it to ab. However, it may make more sense to allow the future anterior and make the yadā́clause the prior condition for the return in pāda d. In this case the tr. would be “Who buys this Indra of mine with ten cows? When he [=Indra] will have smashed the obstacles, then will he [=buyer] return him [=Indra] to me?”
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/08-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

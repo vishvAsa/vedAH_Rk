@@ -8,4 +8,4 @@ Indra adroitly manipulates the wording here to contrast his own solitary state w
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

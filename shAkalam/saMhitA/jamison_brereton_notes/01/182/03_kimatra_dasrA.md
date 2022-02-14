@@ -6,4 +6,4 @@ The sense of pāda a would be better conveyed by “what are you doing there?”
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/182/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

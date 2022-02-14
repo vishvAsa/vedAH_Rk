@@ -6,4 +6,4 @@ I adopt Brugmann’s suggestion (presented and generally endorsed by Old, also S
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/038/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

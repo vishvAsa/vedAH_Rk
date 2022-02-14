@@ -9,6 +9,6 @@ Pāda b collects several words that have been prominent in the characterization 
 Note that though cd forms a single clause with two different subjects (“all the worlds” and “heaven and earth”), the dual verb rejete agrees with the nearer one, the decomposed dual dvandva dyā́vā … pṛthivī́ca.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/096/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

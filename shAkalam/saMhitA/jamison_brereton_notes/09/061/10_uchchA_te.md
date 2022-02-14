@@ -19,4 +19,4 @@ mid. pres.). Gr takes it as a 1st sg. pf., as does Ge (“Den im Himmel befindli
 that has no other place in the context, where the 1st pl. reigns.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

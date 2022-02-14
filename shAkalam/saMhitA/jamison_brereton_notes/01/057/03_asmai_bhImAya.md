@@ -20,4 +20,4 @@ In d nā́yase is analyzed (starting with the Pp.) as ná áyase, but this produ
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

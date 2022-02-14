@@ -8,4 +8,4 @@ In the first, the caus. redupl. aor. avīvaśat has two slightly different sense
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/032/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

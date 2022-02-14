@@ -9,4 +9,4 @@ The subject of cd is also left unspecified; again I assume Agni: if he is embark
 The pāda-final splv. citrátamaḥ produces a bad Triṣṭubh cadence. There is no obvious way to fix it, and the other 5 instances of this stem are found elsewhere in the line, where they work metrically.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/038/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -10,4 +10,4 @@ A similar problem arises with a gen. pl. interpr., acdg. to which it would modif
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/109/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

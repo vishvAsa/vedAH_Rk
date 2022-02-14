@@ -13,4 +13,4 @@ The phrase in d, súkṛtaḥ kartṛ́bhir bhūt “he was well made by his mak
 agent noun kartár- may refer to the soma drinks or to the priests who prepared and offered them to Indra. Because I think the reference is to the immediate past, I would slightly alter the tr. from “was well made” to “has been well made.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

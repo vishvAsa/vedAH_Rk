@@ -16,6 +16,6 @@ Perhaps it’s simply there to convert a putative Triṣṭubh cadence to a Jaga
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

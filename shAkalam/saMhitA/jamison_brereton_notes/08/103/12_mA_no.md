@@ -7,4 +7,4 @@ The mā́prohibitive here takes an apparent impv. hṛṇītām rather than the 
 Pāda-final eṣáḥ is less rare than I would have predicted, though the usual position of nom. sg. eṣá(ḥ) is pāda initial.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/103/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

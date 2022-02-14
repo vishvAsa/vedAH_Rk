@@ -6,4 +6,4 @@ Ge is understandably reluctant to construe avicetanā́ni with vádantī, since 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/10-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,4 +8,4 @@ With this pattern established, it seems reasonable to take áva tārīḥ in d a
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/024/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

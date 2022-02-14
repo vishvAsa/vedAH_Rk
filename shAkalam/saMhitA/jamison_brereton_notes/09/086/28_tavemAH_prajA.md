@@ -10,4 +10,4 @@ Since dhāma-dhā́- is an etymological figure, I have rendered it as one, rathe
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

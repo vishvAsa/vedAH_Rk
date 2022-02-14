@@ -9,4 +9,4 @@ On sácā as loc. absol. marker, see comm. ad IV.31.5.
 I have rendered the nom. pl. kāmínaḥ as an adverb (avidly) to avoid the somewhat heavy ‘having desire (for it)’.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/059/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

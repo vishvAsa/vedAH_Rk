@@ -6,4 +6,4 @@ I take the disgruntled speaker to be the poet and the subject of ráṇyati to b
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/033/16-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

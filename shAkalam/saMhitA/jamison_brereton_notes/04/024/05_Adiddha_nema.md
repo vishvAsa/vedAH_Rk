@@ -15,4 +15,4 @@ As Old notes, there are 3 forms of √ric in this hymn, all pf.: pf. part.
 ririkvāṃsaḥ (3b), pf. opt. riricyāt here, and a plupf. (probably) arirecīt (9c). They are all somewhat marked in form and have different contextual meanings. Old remarks “der Dichter liebte dies Verb.” Certainly he seems to be making a point with it.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/024/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

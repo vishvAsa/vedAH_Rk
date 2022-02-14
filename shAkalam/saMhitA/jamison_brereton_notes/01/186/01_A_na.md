@@ -10,4 +10,4 @@ In d manīṣā́can be nom. or instr. I follow Ge in taking it as the former, w
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/186/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

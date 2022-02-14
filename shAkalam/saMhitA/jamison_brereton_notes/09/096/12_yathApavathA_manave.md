@@ -7,4 +7,4 @@ As pointed out in the publ. intro., this vs. is strongly marked as a hymnfinal v
 The final pāda consists of two brief clauses, both somewhat aberrant. The first contains an idiom I have not found elsewhere, sám √sthā + LOC. My tr., “stand sideby-side by Indra,” is meant to capture this slightly off expression. The second clause, “beget/generate weapons,” is syntactically fine but semantically odd.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/096/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

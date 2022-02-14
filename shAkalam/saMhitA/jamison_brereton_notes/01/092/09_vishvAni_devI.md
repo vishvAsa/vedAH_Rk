@@ -10,4 +10,4 @@ I’m not entirely sure what pāda d refers to, but perhaps it means that by daw
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/092/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

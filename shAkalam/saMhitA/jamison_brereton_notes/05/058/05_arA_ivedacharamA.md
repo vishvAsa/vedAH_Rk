@@ -12,4 +12,4 @@ Flg. Hoffmann (Aufs. II.413 [=MSS 10 (1957) 61-62]), WG and Re (though Re rather
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -8,4 +8,4 @@ The last phrase of 14, the afterthought nominal rel. cl. utá yé yajñíyāsa�
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/035/14-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

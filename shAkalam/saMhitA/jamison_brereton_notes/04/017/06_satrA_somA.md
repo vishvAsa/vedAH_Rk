@@ -7,4 +7,4 @@ In pāda a the word víśve was omitted in the publ. tr., which should be emende
 3, to I.5 ll. 30-31.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/017/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

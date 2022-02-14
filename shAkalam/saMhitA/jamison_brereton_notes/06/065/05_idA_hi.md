@@ -18,4 +18,4 @@ The hapax stauná- is, as Re says, “ininterprétable” (which does not stop h
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/065/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

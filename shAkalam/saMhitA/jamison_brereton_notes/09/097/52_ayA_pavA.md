@@ -14,4 +14,4 @@ In d both Ge and Re take the hapax táku- as referring to a horse (Renner, cours
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

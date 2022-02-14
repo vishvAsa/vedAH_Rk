@@ -6,4 +6,4 @@ Ge and Re take the comparison to be between the partnership and the leather bag 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/048/14-19.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

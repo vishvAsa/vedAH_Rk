@@ -8,4 +8,4 @@ The gerundive atasā́yya- is taken by Ge as belonging to √at ‘wander’ and
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

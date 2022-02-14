@@ -7,4 +7,4 @@ The transition between the All God portion of the hymn and the dānastuti is eas
 The locc. pajré / śrutárathe priyárathe mark these men as givers, which makes some trouble, since Kakṣīvant’s family seems to be called Pajra (quite possibly in the next verse and in I.126.4-5) and Kakṣīvant himself pajriyá- (I.116.7, 117.6, 120.5). Nonetheless, grammar can’t be gainsaid, and they must be patrons here. See Ge’s n. 7bc for attempts to reconcile the discrepancies.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/122/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

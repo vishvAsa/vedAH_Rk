@@ -7,4 +7,4 @@ The form cakṣi (also VII.3.6) is in both of its occurrences pretty clearly an 
 And of course, assuming it belongs to √cakṣ, the form would have to be degeminated from *cakṣ-ṣi (though that would not be hard). The parallel passage IX.71.9 has a medial injunc. to the marginal thematic stem (see KH 122 n. 33): divyáḥ suparṇó 'va cakṣata kṣā́m. I have no explanation for this aberrant form; it is true that the proper med. impv. to the root pres. cakṣva (3x) would not fit this metrical slot, but that doesn’t seem reason enough to invent cakṣi.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

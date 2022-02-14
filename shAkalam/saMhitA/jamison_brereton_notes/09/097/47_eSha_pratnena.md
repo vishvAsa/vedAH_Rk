@@ -7,4 +7,4 @@ In pāda b my interpr. differs significantly from that of Ge (fld. by Re) and th
 The following pāda provides a different but parallel image of the mixing of soma with water, with the more widespread trope of “clothing himself in.” The last pāda provides a clever multilevel play, as long as rébhan is properly interpr. As I have often disc. (incl. ad vs. 8 above), √ribh does not mean ‘sing’ as it’s usually glossed, but rather expresses a variety of harsh sounds: rasp, creak, squawk, and crackle. In this pāda Soma is compared to a Hotar priest. But the quintessential Hotar is actually the god Agni, the ritual fire - and fires crackle. So the comparison is to the sound of a lively burning fire, but mediated through the priest.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

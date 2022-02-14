@@ -13,4 +13,4 @@ As noted above, vṛṇīmáhe sakhyā́ya is a permutation of 14c sakhitvám u�
 On vṛṇīmáhe yújyāya, see comm. ad IX.88.1. Given the other exx. of this lexeme, I would now alter the tr. to “we choose you for yoking [/use].”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

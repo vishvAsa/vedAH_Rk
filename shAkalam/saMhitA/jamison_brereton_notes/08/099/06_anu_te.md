@@ -15,4 +15,4 @@ The phrase itá ūtī́(also, as itá ūtī́ḥ I.119.8, I.130.5) cannot be sep
 Here in this Anhangslied it is likely that ūtí- ‘help’ has captured the de-compounded phrase, but that the phrase is still associated with the notion of constancy, hence my compromise “with enduring help.” Ge tr. “zu eurem unmittelbaren (immediate) Beistand,” but in n. allows “den durch Fortdauer (oder Verjüngung) Alterlosen.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/099/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

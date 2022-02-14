@@ -8,4 +8,4 @@ The use of yújya- in c is not entirely clear to me. I take it to mean that the 
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/052/07-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -11,4 +11,4 @@ His solution also does not mesh with passages like I.165.6 víśvasya śátror �
 The expression in pāda c, “encompassing the glistening color,” presumably refers to Soma’s incorporating the gleaming white milk - rendered clearly, if nonliterally, by Ge’s “weisse Farbe annehmend.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

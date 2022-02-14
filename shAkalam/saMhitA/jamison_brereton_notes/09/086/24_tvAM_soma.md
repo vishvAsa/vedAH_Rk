@@ -9,4 +9,4 @@ The impf. amadan in b is wrongly tr. as a present in the publ. tr.: correct to �
 Once again the Pp. analyzes ā́/ abharat, but the sequence could instead be ā́/ bharat with an injunc.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

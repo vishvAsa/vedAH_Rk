@@ -37,4 +37,4 @@ cleverly designed because of the discontinuous verb ápa … aca - the impv. aca
 That sense, and the same privative+√cit, is found instead in the negated rt noun cmpd. acít- in the acc. pl. The pāda provides an exceptionally tricky end to a dazzlingly frustrating tṛca.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/52-54.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

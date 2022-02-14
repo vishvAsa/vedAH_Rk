@@ -10,4 +10,4 @@ It is possible that the impv. didīhí ‘illuminate’ in the first hemistich i
 
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

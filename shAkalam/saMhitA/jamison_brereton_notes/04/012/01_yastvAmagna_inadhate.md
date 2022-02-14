@@ -9,4 +9,4 @@ The last word of the verse, the perf. part. cikitvā́n, is characteristically u
 In the publ. tr. I construe táva krátvā with the preceding pāda: may the man succeed “in accordance with your purpose,” but I now wonder if it is not another indication of the closed loop of reciprocity: the mortal worshiper is observant like Agni because it is Agni’s will or purpose that he should be. Of course it can be applicable to both pādas.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/012/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

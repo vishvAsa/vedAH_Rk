@@ -7,4 +7,4 @@ This vs. seems to unite Soma’s two theatres of operation, as laid out in vss. 
 Re’s characterization in his n. - “Soma-soleil …; en fait, l’image rituelle se combine avec l’image solaire” - expresses this rather nicely, though it’s hard to get it from his tr. On the likening of the soma liquid on the filter to the sun, see IX.10.5 and comm. thereon.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

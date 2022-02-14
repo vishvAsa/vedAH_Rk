@@ -9,4 +9,4 @@ In addition, pāda a is metrically deficient, even with this distracted reading.
 Old rather exasperatedly suggests that the metrical disturbances in this vs. (see also the Triṣṭubh cadence of c in a 12-syl. pāda) may result from “mangelhaftes Formgefühl des Vfs.”
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>

@@ -7,4 +7,4 @@ The punning continues here with a clever twist: even Bhaga himself should become
 This vs. forms a slight ring with vs. 1: the intensive verb johavīti provides one additional stem to the two forms of √hū in vs. 1, havāmahe and huvema.
 
 
-<div class="js_include" url="/vedAH/Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/041/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
