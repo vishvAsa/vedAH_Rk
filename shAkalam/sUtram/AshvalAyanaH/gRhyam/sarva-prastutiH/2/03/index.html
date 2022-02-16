@@ -36,7 +36,7 @@
       
     
 
-    <script src="/vedAH_Rk/webpack_dist/dir_tree-bundle.js"></script>
+    <script src="/vedAH_Rk/webpack_dist/dirTree-bundle.js"></script>
     <script type="text/javascript">
     
     let baseURL = "https:\/\/vishvAsa.github.io\/vedAH_Rk\/";
@@ -67,7 +67,7 @@
     <script src="/vedAH_Rk/webpack_dist/main-bundle.js"></script>
     <script src="/vedAH_Rk/webpack_dist/transliteration-bundle.js"></script>
     <script src="/vedAH_Rk/non_webpack_js/disqus.js"></script>
-    <script src="/vedAH_Rk/webpack_dist/ui_lib-bundle.js"></script>
+    <script src="/vedAH_Rk/webpack_dist/uiLib-bundle.js"></script>
     <script src="/vedAH_Rk/webpack_dist/search-bundle.js"></script>
     <script src="/vedAH_Rk/webpack_dist/utils-bundle.js"></script>
     <script src="/vedAH_Rk/webpack_dist/transliteration-bundle.js"></script>
@@ -140,7 +140,7 @@
 
     
 <header class="p-1 bg-yellow noPrint">
-    <nav role="navigation">
+    <nav role="navigation" class="col">
       <div id="div_top_bar" class="row">
         <div class="col-md-3 justify-content-start">
           <a  href="/vedAH_Rk/" class="btn col border">
@@ -188,7 +188,10 @@
           </select>
           <div><a id="expandAllButton" class="btn btn-secondary" onclick="module_main.default.query.setParamAndGo('expandAll', 'true')">↕️️</a></div>
           <div><a id="printButton" class="btn btn-secondary" onclick="module_main.default.query.setParamAndGo('printLayout', 'on')">🖨️️</a></div>
+        </div>
+        <div class="row col  d-flex justify-content-center">
           <div><a id="speakerButton" class="btn btn-secondary" onclick="module_main.default.handleSpeakToggle()">🎧️</a></div>
+          <button id="speakerPauseButton" class="btn btn-secondary">⏸</button>
         </div>
         <div class="row col  d-flex justify-content-center">
           <a href="/full_search"  class="btn btn-secondary">🥽🔦</a>
@@ -197,6 +200,24 @@
         </div>
         <ul id="top-bar-right-custom" class="list-group list-group-horizontal">
         </ul>
+      </div>
+      <div id="audioOptionsDiv" class="row justify-content-center" hidden>
+        <select id="voices" class="form-select bg-secondary text-light"></select>
+        <div>
+          <p class="lead">Vol</p>
+          <input type="range" min="0" max="1" value="1" step="0.1" id="volume" />
+          <span id="volume-label" class="ms-2">1</span>
+        </div>
+        <div class="mx-5">
+          <p class="lead">Rate</p>
+          <input type="range" min="0.1" max="10" value="1" id="rate" step="0.1" />
+          <span id="rate-label" class="ms-2">1</span>
+        </div>
+        <div>
+          <p class="lead">Pitch</p>
+          <input type="range" min="0" max="2" value="1" step="0.1" id="pitch" />
+          <span id="pitch-label" class="ms-2">1</span>
+        </div>
       </div>
     </nav>
 </header>
@@ -315,7 +336,7 @@
     <a class="btn btn-secondary" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
     <div class="btn small border">
       
-      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Feb 16 02:16:06 UTC. (<a href="http://google.com/search?q=02%3a16%3a06%20UTC to IST">IST</a>)
+      <a href="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml"><img src="https://github.com/vishvAsa/vedAH_Rk/actions/workflows/build.yml/badge.svg"> Built </a> on 2022 Feb 16 04:32:29 UTC. (<a href="http://google.com/search?q=04%3a32%3a29%20UTC to IST">IST</a>)
     </div>
   <ul id="footer-bar-right-custom" class="list-group list-group-horizontal">
   </ul>
