@@ -65,10 +65,4 @@ unicode_script = "devanagari"
 
 
 
-<details><summary>English</summary>
-
-> How late do you think is the पुरुष सूक्त?
-
-This question can be answered thus: the theology/framework presented in it is early-Indo-European having cognates in the Germanic world and Iranic (inferred via lateral transfer to Chinese). As a sUkta, the 1st 15 R^ik-s form an earlier stratum, with the 16th added later. The 1st
-</details>
 
