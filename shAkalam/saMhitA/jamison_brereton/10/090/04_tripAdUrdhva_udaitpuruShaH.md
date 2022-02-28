@@ -1,5 +1,5 @@
 +++
-title = "04"
+title = "०४ त्रिपादूर्ध्व उदैत्पुरुषः"
 
 +++
 With his three quarters the Man went upward, but a quarter of him  came to be here again.  

@@ -1,5 +1,5 @@
 +++
-title = "16"
+title = "१६ यज्ञेन यज्ञमयजन्त"
 
 +++
 With the sacrifice the gods performed the sacrifice for themselves: these  were the first foundations.  
