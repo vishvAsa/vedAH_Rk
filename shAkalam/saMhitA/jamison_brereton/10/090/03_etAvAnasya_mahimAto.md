@@ -1,5 +1,5 @@
 +++
-title = "03"
+title = "०३ एतावानस्य महिमातो"
 
 +++
 So much is his greatness, but the Man is more than this:  

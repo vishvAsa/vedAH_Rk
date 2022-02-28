@@ -1,5 +1,5 @@
 +++
-title = "02"
+title = "०२ पुरुष एवेदं"
 
 +++
 The Man alone is this whole (world): what has come into being and  what is to be.  
