@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 9.73.5"
+
++++
+-   *pitur* \< *pituḥ* \< *pitṛ*
+- \[noun\], genitive, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *mātur* \< *mātuḥ* \< *mātṛ*
+- \[noun\], genitive, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *adhy* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *samasvarann* \< *samasvaran* \< *saṃsvar* \< *√svar*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *ṛcā* \< *ṛc*
+- \[noun\], instrumental, singular, feminine
+- “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
+------------------------------------------------------------------------
+- *śocantaḥ* \< *śuc*
+- \[verb noun\], nominative, plural
+- “mourn; grieve; flame; glow; burn; repent.”
+------------------------------------------------------------------------
+- *saṃdahanto* \< *saṃdahantaḥ* \< *saṃdah* \< *√dah*
+- \[verb noun\], nominative, plural
+- “burn; heat.”
+------------------------------------------------------------------------
+- *avratān* \< *avrata*
+- \[noun\], accusative, plural, masculine
+- “disobedient; evil.”
+------------------------------------------------------------------------
+- *indradviṣṭām* \< *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indradviṣṭām* \< *dviṣṭām* \< *dviṣ*
+- \[verb noun\], accusative, singular
+- “hate; dislike.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *dhamanti* \< *dham*
+- \[verb\], plural, Present indikative
+- “heat; blow; fan; blow; ignite; blow; inflate.”
+------------------------------------------------------------------------
+- *māyayā* \< *māyā*
+- \[noun\], instrumental, singular, feminine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+------------------------------------------------------------------------
+- *tvacam* \< *tvac*
+- \[noun\], accusative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+------------------------------------------------------------------------
+- *asiknīm* \< *asiknī*
+- \[noun\], accusative, singular, feminine
+- “Asiknī; Vairiṇī; night.”
+------------------------------------------------------------------------
+- *bhūmano* \< *bhūmanaḥ* \< *bhūman*
+- \[noun\], ablative, singular, masculine
+- “abundance; wealth; success; Krishna; plural.”
+------------------------------------------------------------------------
+- *divas* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------

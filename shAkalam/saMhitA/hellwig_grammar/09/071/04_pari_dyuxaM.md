@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 9.71.4"
+
++++
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *dyukṣaṃ* \< *dyukṣam* \< *dyukṣa*
+- \[noun\], accusative, singular, masculine
+- “celestial; divine; divine; brilliant.”
+------------------------------------------------------------------------
+- *sahasaḥ* \< *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *parvatāvṛdham* \< *parvatāvṛdh*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *madhvaḥ* \< *madhu*
+- \[noun\], nominative, plural, feminine
+- “sweet; deft.”
+------------------------------------------------------------------------
+- *siñcanti* \< *sic*
+- \[verb\], plural, Present indikative
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *harmyasya* \< *harmya*
+- \[noun\], genitive, singular, neuter
+- “mansion; house; palace.”
+------------------------------------------------------------------------
+- *sakṣaṇim* \< *sakṣaṇi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yasmin* \< *yad*
+- \[noun\], locative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *gāvaḥ* \< *go*
+- \[noun\], nominative, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *suhutāda* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhutāda* \< *hutāde* \< *hutād*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *ūdhani* \< *ūdhas*
+- \[noun\], locative, singular, neuter
+- “udder; ūdhas \[word\]; night.”
+------------------------------------------------------------------------
+- *mūrdhañchrīṇanty* \< *mūrdhan*
+- \[noun\], locative, singular, masculine
+- “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
+------------------------------------------------------------------------
+- *mūrdhañchrīṇanty* \< *śrīṇanti* \< *śrī*
+- \[verb\], plural, Present indikative
+- “cook; boil; heat; cook; mix.”
+------------------------------------------------------------------------
+- *agriyaṃ* \< *agriyam* \< *agriya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *varīmabhiḥ* \< *varīman*
+- \[noun\], instrumental, plural, neuter
+------------------------------------------------------------------------

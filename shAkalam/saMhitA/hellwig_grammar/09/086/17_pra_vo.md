@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 9.86.17"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- \[noun\], nominative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *mandrayuvo* \< *mandrayuvaḥ* \< *mandrayu*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *vipanyuvaḥ* \< *vipanyu*
+- \[noun\], nominative, plural, feminine
+- “admiring; laudatory.”
+------------------------------------------------------------------------
+- *panasyuvaḥ* \< *panasyu*
+- \[noun\], nominative, plural, feminine
+- “brilliant.”
+------------------------------------------------------------------------
+- *saṃvasaneṣv* \< *saṃvasaneṣu* \< *saṃvasana*
+- \[noun\], locative, plural, neuter
+------------------------------------------------------------------------
+- *akramuḥ* \< *kram*
+- \[verb\], plural, Root aorist (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *manīṣā* \< *manīṣāḥ* \< *manīṣā*
+- \[noun\], nominative, plural, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *abhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *anūṣata* \< *nū*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “praise; shout.”
+------------------------------------------------------------------------
+- *stubho* \< *stubhaḥ* \< *stubh*
+- \[noun\], nominative, plural, feminine
+- “song; praise.”
+------------------------------------------------------------------------
+- *'bhi* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *payasem* \< *payasā* \< *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payasem* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *aśiśrayuḥ* \< *śri*
+- \[verb\], plural, Plusquamperfect
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------

@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 9.96.8"
+
++++
+-   *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *matsaraḥ* \< *matsara*
+- \[noun\], nominative, singular, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *pṛtsu* \< *pṛt*
+- \[noun\], locative, plural, feminine
+- “battle.”
+------------------------------------------------------------------------
+- *vanvann* \< *vanvan* \< *van*
+- \[verb noun\], nominative, singular
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *avātaḥ* \< *avāta*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *sahasraretā* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasraretā* \< *retāḥ* \< *retas*
+- \[noun\], nominative, singular, masculine
+- “semen; sperm.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *indrāyendo* \< *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāyendo* \< *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *pavamāno* \< *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *manīṣy* \< *manīṣī* \< *manīṣin*
+- \[noun\], nominative, singular, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+- *aṃśor* \< *aṃśoḥ* \< *aṃśu*
+- \[noun\], genitive, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+------------------------------------------------------------------------
+- *ūrmim* \< *ūrmi*
+- \[noun\], accusative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *īraya* \< *īray* \< *√īr*
+- \[verb\], singular, Present imperative
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *iṣaṇyan* \< *iṣaṇy*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------

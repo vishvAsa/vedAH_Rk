@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 9.87.6"
+
++++
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *ṣmā* \< *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *puruhūto* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruhūto* \< *hūtaḥ* \< *hvā*
+- \[verb noun\], nominative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *janānāṃ* \< *janānām* \< *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *viśvāsarad* \< *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “ginger; myrrh; universe.”
+------------------------------------------------------------------------
+- *viśvāsarad* \< *asarat* \< *sṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *bhojanā* \< *bhojana*
+- \[noun\], accusative, plural, neuter
+- “food; eating; foodstuff; meal; property; sevana; enjoyment.”
+------------------------------------------------------------------------
+- *pūyamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *athā* \< *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------
+- *bhara* \< *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *śyenabhṛta* \< *śyena*
+- \[noun\], masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *śyenabhṛta* \< *bhṛta* \< *bhṛ*
+- \[verb noun\], vocative, singular
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *prayāṃsi* \< *prayas*
+- \[noun\], accusative, plural, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *rayiṃ* \< *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *tuñjāno* \< *tuñjānaḥ* \< *tuj*
+- \[verb noun\], nominative, singular
+- “draw.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------

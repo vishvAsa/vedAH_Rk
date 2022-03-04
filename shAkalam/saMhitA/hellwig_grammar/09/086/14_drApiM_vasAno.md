@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 9.86.14"
+
++++
+-   *drāpiṃ* \< *drāpim* \< *drāpi*
+- \[noun\], accusative, singular, masculine
+- “garment; cape.”
+------------------------------------------------------------------------
+- *vasāno* \< *vasānaḥ* \< *vas*
+- \[verb noun\], nominative, singular
+- “wear.”
+------------------------------------------------------------------------
+- *yajato* \< *yajataḥ* \< *yajata*
+- \[noun\], nominative, singular, masculine
+- “holy; august; sacrificial.”
+------------------------------------------------------------------------
+- *divispṛśam* \< *divispṛś*
+- \[noun\], accusative, singular, masculine
+- “heavenward.”
+------------------------------------------------------------------------
+- *antarikṣaprā* \< *antarikṣa*
+- \[noun\], neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *antarikṣaprā* \< *prāḥ* \< *prā*
+- \[noun\], nominative, singular, masculine
+- “appreciated.”
+------------------------------------------------------------------------
+- *bhuvaneṣv* \< *bhuvaneṣu* \< *bhuvana*
+- \[noun\], locative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *arpitaḥ* \< *arpay*
+- \[verb noun\], nominative, singular
+- “shoot; give; direct; hide; put; insert.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *jajñāno* \< *jajñānaḥ* \< *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *nabhasābhy* \< *nabhasā* \< *nabhas*
+- \[noun\], instrumental, singular, neuter
+- “sky; cloud; ākāśa; air; abhra.”
+------------------------------------------------------------------------
+- *nabhasābhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *akramīt* \< *kram*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *pratnam* \< *pratna*
+- \[noun\], accusative, singular, masculine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pitaram* \< *pitṛ*
+- \[noun\], accusative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vivāsati* \< *vivās* \< *√van*
+- \[verb\], singular, Present indikative
+- “invite; endeavor; try for.”
+------------------------------------------------------------------------

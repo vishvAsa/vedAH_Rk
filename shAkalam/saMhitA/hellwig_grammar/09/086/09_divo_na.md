@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 9.86.9"
+
++++
+-   *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sānu*
+- \[noun\], nominative, singular, neuter
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- \[verb noun\], nominative, singular
+- “thunder; thunder.”
+------------------------------------------------------------------------
+- *acikradad* \< *acikradat* \< *krand*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *dyauś* \< *dyauḥ* \< *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *dharmabhiḥ* \< *dharman*
+- \[noun\], instrumental, plural, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *vivevidat* \< *vivevid* \< *√vid*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *punānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *kalaśeṣu* \< *kalaśa*
+- \[noun\], locative, plural, masculine
+- “jar.”
+------------------------------------------------------------------------
+- *sīdati* \< *sad*
+- \[verb\], singular, Present indikative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------

@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 9.96.6"
+
++++
+-   *brahmā* \< *brahman*
+- \[noun\], nominative, singular, masculine
+- “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
+    Brahmapurāṇa; Vishnu; Brihaspati.”
+------------------------------------------------------------------------
+- *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *padavīḥ* \< *padavī*
+- \[noun\], nominative, singular, feminine
+- “path; padavī \[word\].”
+------------------------------------------------------------------------
+- *kavīnām* \< *kavi*
+- \[noun\], genitive, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- \[noun\], nominative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *viprāṇām* \< *vipra*
+- \[noun\], genitive, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- \[noun\], nominative, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *mṛgāṇām* \< *mṛga*
+- \[noun\], genitive, plural, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+------------------------------------------------------------------------
+- *śyeno* \< *śyenaḥ* \< *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *gṛdhrāṇāṃ* \< *gṛdhrāṇām* \< *gṛdhra*
+- \[noun\], genitive, plural, masculine
+- “vulture.”
+------------------------------------------------------------------------
+- *svadhitir* \< *svadhitiḥ* \< *svadhiti*
+- \[noun\], nominative, singular, masculine
+- “ax; knife.”
+------------------------------------------------------------------------
+- *vanānāṃ* \< *vanānām* \< *vana*
+- \[noun\], genitive, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavitram* \< *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *aty* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *rebhan* \< *ribh*
+- \[verb noun\], nominative, singular
+- “moo; murmur; praise.”
+------------------------------------------------------------------------

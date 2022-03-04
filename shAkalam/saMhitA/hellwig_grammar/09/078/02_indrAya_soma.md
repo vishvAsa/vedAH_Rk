@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 9.78.2"
+
++++
+-   *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ṣicyase* \< *sicyase* \< *sic*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣā* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- \[noun\], nominative, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+- *ūrmiḥ* \< *ūrmi*
+- \[noun\], nominative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *kavir* \< *kaviḥ* \< *kavi*
+- \[noun\], nominative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ajyase* \< *añj*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *vane* \< *vana*
+- \[noun\], locative, singular, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *srutayaḥ* \< *sruti*
+- \[noun\], nominative, plural, feminine
+- “discharge; path; road; stream.”
+------------------------------------------------------------------------
+- *santi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yātave* \< *yā*
+- \[verb noun\]
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *sahasram* \< *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *aśvā* \< *aśvāḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *harayaś* \< *harayaḥ* \< *hari*
+- \[noun\], nominative, plural, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *camūṣadaḥ* \< *camūṣad*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------

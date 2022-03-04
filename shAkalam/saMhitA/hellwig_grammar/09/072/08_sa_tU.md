@@ -1,0 +1,102 @@
++++
+title = "Rig Veda 9.72.8"
+
++++
+-   *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tū* \< *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *pārthivaṃ* \< *pārthivam* \< *pārthiva*
+- \[noun\], accusative, singular, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *raja* \< *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *stotre* \< *stotṛ*
+- \[noun\], dative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *śikṣann* \< *śikṣan* \< *śikṣ*
+- \[verb noun\], nominative, singular
+- “help; give.”
+------------------------------------------------------------------------
+- *ādhūnvate* \< *ādhū* \< *√dhū*
+- \[verb noun\], dative, singular
+- “shake; brandish.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *sukrato* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukrato* \< *krato* \< *kratu*
+- \[noun\], vocative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *nir* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *bhāg* \< *bhāk* \< *bhaj*
+- \[verb\], singular, Aorist inj. (proh.)
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *vasunaḥ* \< *vasu*
+- \[noun\], ablative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *sādanaspṛśo* \< *sādana*
+- \[noun\], neuter
+- “home; dwelling; seat.”
+------------------------------------------------------------------------
+- *sādanaspṛśo* \< *spṛśaḥ* \< *spṛś*
+- \[noun\], ablative, singular, neuter
+- “touching.”
+------------------------------------------------------------------------
+- *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *piśaṅgam* \< *piśaṅga*
+- \[noun\], accusative, singular, masculine
+- “tawny; red; brown.”
+------------------------------------------------------------------------
+- *bahulaṃ* \< *bahulam* \< *bahula*
+- \[noun\], accusative, singular, masculine
+- “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
+    \[word\]; accompanied; prevailing.”
+------------------------------------------------------------------------
+- *vasīmahi* \< *vas*
+- \[verb\], plural, Present optative
+- “wear.”
+------------------------------------------------------------------------

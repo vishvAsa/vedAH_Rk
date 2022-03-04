@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 9.80.5"
+
++++
+-   *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hastino* \< *hastinaḥ* \< *hastin*
+- \[noun\], nominative, plural, masculine
+- “elephant; hastin \[word\]; Hastin; hastimeha.”
+------------------------------------------------------------------------
+- *madhumantam* \< *madhumat*
+- \[noun\], accusative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *adribhir* \< *adribhiḥ* \< *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *duhanty* \< *duhanti* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *apsu* \< *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- \[noun\], accusative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *daśa* \< *daśan*
+- \[noun\], nominative, plural, feminine
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *kṣipaḥ* \< *kṣip*
+- \[noun\], nominative, plural, feminine
+- “finger.”
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *mādayan* \< *māday* \< *√mad*
+- \[verb noun\], nominative, singular
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------
+- *daivyaṃ* \< *daivyam* \< *daivya*
+- \[noun\], accusative, singular, masculine
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *janaṃ* \< *janam* \< *jana*
+- \[noun\], accusative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *sindhor* \< *sindhoḥ* \< *sindhu*
+- \[noun\], genitive, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *ivormiḥ* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivormiḥ* \< *ūrmiḥ* \< *ūrmi*
+- \[noun\], nominative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *pavamāno* \< *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *arṣasi* \< *ṛṣ*
+- \[verb\], singular, Present indikative
+- “run.”
+------------------------------------------------------------------------

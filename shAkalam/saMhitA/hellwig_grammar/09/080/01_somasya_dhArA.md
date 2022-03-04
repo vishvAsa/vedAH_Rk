@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 9.80.1"
+
++++
+-   *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *dhārā*
+- \[noun\], nominative, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *nṛcakṣasa* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣasa* \< *cakṣasaḥ* \< *cakṣas*
+- \[noun\], genitive, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+- *ṛtena* \< *ṛta*
+- \[noun\], instrumental, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *havate* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *divas* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *bṛhaspate* \< *bṛhaspati*
+- \[noun\], vocative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *ravathenā* \< *ravathena* \< *ravatha*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *didyute* \< *dyut*
+- \[verb\], singular, Perfect indicative
+- “shine; inflame.”
+------------------------------------------------------------------------
+- *samudrāso* \< *samudrāsaḥ* \< *samudra*
+- \[noun\], nominative, plural, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *savanāni* \< *savana*
+- \[noun\], nominative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *vivyacuḥ* \< *vyac*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
