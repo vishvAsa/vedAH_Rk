@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 8.11.10"
+
++++
+-   *pratno* \< *pratnaḥ* \< *pratna*
+- \[noun\], nominative, singular, masculine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *kam* \< *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------
+- *īḍyo* \< *īḍyaḥ* \< *īḍ*
+- \[verb noun\], nominative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *adhvareṣu* \< *adhvara*
+- \[noun\], locative, plural, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *sanāc* \< *sanāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *navyaś* \< *navyaḥ* \< *navyas*
+- \[noun\], accusative, singular, neuter
+- “new.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *satsi* \< *sad*
+- \[verb\], singular, Present indikative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *svāṃ* \< *svām* \< *sva*
+- \[noun\], accusative, singular, feminine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *cāgne* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cāgne* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *tanvam* \< *tanū*
+- \[noun\], accusative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *piprayasvāsmabhyaṃ* \< *piprayasva* \< *prī*
+- \[verb\], singular, Perfect imperative
+- “delight; gladden; satisfy; nutrify; comfort.”
+------------------------------------------------------------------------
+- *piprayasvāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *saubhagam* \< *saubhaga*
+- \[noun\], accusative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yajasva* \< *yaj*
+- \[verb\], singular, Present imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------

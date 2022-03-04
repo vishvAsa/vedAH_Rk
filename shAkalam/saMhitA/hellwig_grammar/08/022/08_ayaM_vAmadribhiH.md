@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 8.22.8"
+
++++
+-   *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *adribhiḥ* \< *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *narā* \< *nṛ*
+- \[noun\], vocative, dual, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- \[noun\], vocative, dual, masculine
+- “affluent.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātaṃ* \< *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *somapītaye* \< *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapītaye* \< *pītaye* \< *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *pibataṃ* \< *pibatam* \< *pā*
+- \[verb\], dual, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *gṛhe* \< *gṛha*
+- \[noun\], locative, singular, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------

@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 8.49.5"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stomam* \< *stoma*
+- \[noun\], accusative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *dravaddhiyāno* \< *dravat* \< *dru*
+- \[verb\], singular, Present injunctive
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+------------------------------------------------------------------------
+- *dravaddhiyāno* \< *hiyānaḥ* \< *hi*
+- \[verb noun\], nominative, singular
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *aśvo* \< *aśvaḥ* \< *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sotṛbhiḥ* \< *sotṛ*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *svadhāvan* \< *svadhāvat*
+- \[noun\], vocative, singular, masculine
+- “autonomous; independent.”
+------------------------------------------------------------------------
+- *svadayanti* \< *svaday* \< *√svad*
+- \[verb\], plural, Present indikative
+- “sweeten.”
+------------------------------------------------------------------------
+- *dhenava* \< *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kaṇveṣu* \< *kaṇva*
+- \[noun\], locative, plural, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *rātayaḥ* \< *rāti*
+- \[noun\], nominative, plural, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------

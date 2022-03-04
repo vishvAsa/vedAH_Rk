@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 8.7.6"
+
++++
+-   *yuṣmāṃ* \< *yuṣmān* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *yuṣmān* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *divā* \< *div*
+- \[noun\], instrumental, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *havāmahe* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yuṣmān* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *prayaty* \< *prayati* \< *pre* \< *√i*
+- \[verb noun\], locative, singular
+- “die; proceed; advance; continue; begin; depart.”
+------------------------------------------------------------------------
+- *adhvare* \< *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------

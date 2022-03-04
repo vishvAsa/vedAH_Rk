@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 8.47.5"
+
++++
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ṇo* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vṛṇajann* \< *vṛṇajan* \< *vṛj*
+- \[verb\], plural, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *aghā* \< *agha*
+- \[noun\], nominative, plural, neuter
+- “sin; evil; impurity; agha \[word\].”
+------------------------------------------------------------------------
+- *durgāṇi* \< *durga*
+- \[noun\], accusative, plural, neuter
+- “fortress; stronghold; difficulty; danger; passage.”
+------------------------------------------------------------------------
+- *rathyo* \< *rathyaḥ* \< *rathī*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *syāmed* \< *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *syāmed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śarmaṇy* \< *śarmaṇi* \< *śarman*
+- \[noun\], locative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *ādityānām* \< *āditya*
+- \[noun\], genitive, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *utāvasy* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāvasy* \< *avasi* \< *avas*
+- \[noun\], locative, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *anehaso* \< *anehasaḥ* \< *anehas*
+- \[noun\], nominative, plural, feminine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *suūtayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

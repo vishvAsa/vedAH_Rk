@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.33.12"
+
++++
+-   *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *sotā* \< *sotṛ*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *sunotu* \< *su*
+- \[verb\], singular, Present imperative
+- “press out; su.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛṣann* \< *vṛṣan*
+- \[noun\], vocative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *ṛjīpinn* \< *ṛjīpin*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* \< *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *dadhanve* \< *dhanv*
+- \[verb\], singular, Perfect indicative
+- “run.”
+------------------------------------------------------------------------
+- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- \[noun\], accusative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *nadīṣv* \< *nadīṣu* \< *nadī*
+- \[noun\], locative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sthātar* \< *sthātṛ*
+- \[noun\], vocative, singular, masculine
+- “driver.”
+------------------------------------------------------------------------
+- *harīṇām* \< *hari*
+- \[noun\], genitive, plural, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------

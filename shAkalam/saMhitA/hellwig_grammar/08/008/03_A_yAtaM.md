@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 8.8.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātaṃ* \< *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *nahuṣas* \< *nahuṣaḥ* \< *nahus*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *āntarikṣāt* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *āntarikṣāt* \< *antarikṣāt* \< *antarikṣa*
+- \[noun\], ablative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *suvṛktibhiḥ* \< *suvṛkti*
+- \[noun\], instrumental, plural, feminine
+- “praise.”
+------------------------------------------------------------------------
+- *pibātho* \< *pibāthaḥ* \< *pā*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *kaṇvānāṃ* \< *kaṇvānām* \< *kaṇva*
+- \[noun\], genitive, plural, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *savane* \< *savana*
+- \[noun\], locative, singular, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *sutam* \< *su*
+- \[verb noun\], accusative, singular
+- “press out; su.”
+------------------------------------------------------------------------

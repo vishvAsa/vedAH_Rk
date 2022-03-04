@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 8.93.16"
+
++++
+-   *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb noun\], accusative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *vṛtrahantamam* \< *vṛtra*
+- \[noun\], masculine
+- “enemy.”
+------------------------------------------------------------------------
+- *vṛtrahantamam* \< *hantamam* \< *hantama*
+- \[noun\], accusative, singular, masculine
+- “killing.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *śardhaṃ* \< *śardham* \< *śardha*
+- \[noun\], accusative, singular, masculine
+- “troop.”
+------------------------------------------------------------------------
+- *carṣaṇīnām* \< *carṣaṇi*
+- \[noun\], genitive, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śuṣe* \< *śvas*
+- \[verb\], singular, Present indikative
+- “hiss; pant; sigh; breathe; blow.”
+------------------------------------------------------------------------
+- *rādhase* \< *rādhas*
+- \[noun\], dative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------

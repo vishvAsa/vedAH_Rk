@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 8.81.5"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *stoṣad* \< *stoṣat* \< *stu*
+- \[verb\], singular, Aorist conj./subj.
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *gāsiṣac* \< *gāsiṣat* \< *gā*
+- \[verb\], singular, Aorist conj./subj.
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *chravat* \< *śravat* \< *śru*
+- \[verb\], singular, Aorist conj./subj.
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *sāma* \< *sāman*
+- \[noun\], accusative, singular, neuter
+- “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
+------------------------------------------------------------------------
+- *gīyamānam* \< *gā*
+- \[verb noun\], accusative, singular
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *rādhasā* \< *rādhas*
+- \[noun\], instrumental, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *jugurat* \< *gur*
+- \[verb\], singular, Perfect conjunctive (subj.)
+------------------------------------------------------------------------

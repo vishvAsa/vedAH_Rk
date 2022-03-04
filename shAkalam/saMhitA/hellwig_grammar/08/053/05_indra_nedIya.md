@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 8.53.5"
+
++++
+-   *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *nedīya* \< *nedīyaḥ* \< *nedīyas*
+- \[noun\], accusative, singular, neuter
+- “nearer; nedīyas \[word\]; near.”
+------------------------------------------------------------------------
+- *ed* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ihi* \< *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *mitamedhābhir* \< *mita* \< *mā*
+- \[verb noun\]
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *mitamedhābhir* \< *medhābhiḥ* \< *medhā*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; medhā \[word\]; Medhā.”
+------------------------------------------------------------------------
+- *ūtibhiḥ* \< *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śantama* \< *śaṃtama*
+- \[noun\], vocative, singular, masculine
+- “beneficent.”
+------------------------------------------------------------------------
+- *śantamābhir* \< *śantamābhiḥ* \< *śaṃtama*
+- \[noun\], instrumental, plural, feminine
+- “beneficent.”
+------------------------------------------------------------------------
+- *abhiṣṭibhir* \< *abhiṣṭibhiḥ* \< *abhiṣṭi*
+- \[noun\], instrumental, plural, feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *svāpe* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svāpe* \< *āpe* \< *āpi*
+- \[noun\], vocative, singular, masculine
+- “friend.”
+------------------------------------------------------------------------
+- *svāpibhiḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svāpibhiḥ* \< *āpibhiḥ* \< *āpi*
+- \[noun\], instrumental, plural, masculine
+- “friend.”
+------------------------------------------------------------------------

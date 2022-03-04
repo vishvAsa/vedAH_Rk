@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 8.79.4"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *cittī* \< *citti*
+- \[noun\], instrumental, singular, feminine
+- “purpose.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dakṣair* \< *dakṣaiḥ* \< *dakṣa*
+- \[noun\], instrumental, plural, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ṛjīṣin*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *yāvīr* \< *yāvīḥ* \< *yu*
+- \[verb\], singular, Aorist inj. (proh.)
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *aghasya* \< *agha*
+- \[noun\], genitive, singular, masculine
+- “bad; dangerous; ill; iniquitous; bad.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *dveṣaḥ* \< *dveṣas*
+- \[noun\], accusative, singular, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------

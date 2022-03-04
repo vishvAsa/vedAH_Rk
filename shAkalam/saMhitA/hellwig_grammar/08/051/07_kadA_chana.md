@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 8.51.7"
+
++++
+-   *kadācana*
+- \[adverb\]
+- “ever; sometimes.”
+------------------------------------------------------------------------
+- *starīr* \< *starīḥ* \< *starī*
+- \[noun\], nominative, singular, feminine
+- “barren cow.”
+------------------------------------------------------------------------
+- *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *nendra* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nendra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *saścasi* \< *sac*
+- \[verb\], singular, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *upopen* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *upopen* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *upopen* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *bhūya* \< *bhūyaḥ* \< *bhūyas*
+- \[noun\], nominative, singular, neuter
+- “more(a); more(a); abounding in(p); stronger; bigger.”
+------------------------------------------------------------------------
+- *in* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dānaṃ* \< *dānam* \< *dāna*
+- \[noun\], nominative, singular, neuter
+- “giving; gift; bribery; performance; addition; yajña; fueling;
+    teaching.”
+------------------------------------------------------------------------
+- *devasya* \< *deva*
+- \[noun\], genitive, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *pṛcyate* \< *pṛc*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “mix; unite.”
+------------------------------------------------------------------------

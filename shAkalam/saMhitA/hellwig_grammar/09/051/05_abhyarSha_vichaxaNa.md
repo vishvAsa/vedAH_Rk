@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 9.51.5"
+
++++
+-   *abhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *vicakṣaṇa*
+- \[noun\], vocative, singular, masculine
+- “expert; wise; discerning; clear-sighted; conversant(p); bright.”
+------------------------------------------------------------------------
+- *pavitraṃ* \< *pavitram* \< *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *dhārayā* \< *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *śravaḥ* \< *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------

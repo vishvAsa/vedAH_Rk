@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 8.49.1"
+
++++
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *surādhasam* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *surādhasam* \< *rādhasam* \< *rādhas*
+- \[noun\], accusative, singular, masculine
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *arca* \< *arc*
+- \[verb\], singular, Present imperative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *vide* \< *vid*
+- \[verb\], singular, Present indikative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *jaritṛbhyo* \< *jaritṛbhyaḥ* \< *jaritṛ*
+- \[noun\], dative, plural, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *purūvasuḥ* \< *purūvasu*
+- \[noun\], nominative, singular, masculine
+- “rich.”
+------------------------------------------------------------------------
+- *sahasreṇeva* \< *sahasreṇa* \< *sahasra*
+- \[noun\], instrumental, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasreṇeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śikṣati* \< *śikṣ*
+- \[verb\], singular, Present indikative
+- “help; give.”
+------------------------------------------------------------------------

@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 8.51.8"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nanakṣe* \< *nakṣ*
+- \[verb\], singular, Perfect indicative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *abhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *kriviṃ* \< *krivim* \< *krivi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vadhaiḥ* \< *vadha*
+- \[noun\], instrumental, plural, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *śuṣṇaṃ* \< *śuṣṇam* \< *śuṣṇa*
+- \[noun\], accusative, singular, masculine
+- “Śuṣṇa.”
+------------------------------------------------------------------------
+- *nighoṣayan* \< *nighoṣay* \< *√ghuṣ*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *yaded* \< *yadā*
+- \[adverb\]
+- “once \[when\]; if.”
+------------------------------------------------------------------------
+- *yaded* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *astambhīt* \< *stambh*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+------------------------------------------------------------------------
+- *prathayann* \< *prathayan* \< *prathay* \< *√prath*
+- \[verb noun\], nominative, singular
+- “spread; proclaim.”
+------------------------------------------------------------------------
+- *amūṃ* \< *amūm* \< *adas*
+- \[noun\], accusative, singular, feminine
+- “that; John Doe; yonder; from here.”
+------------------------------------------------------------------------
+- *divam* \< *div*
+- \[noun\], accusative, singular, feminine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *ij* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *janiṣṭa* \< *jan*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *pārthivaḥ* \< *pārthiva*
+- \[noun\], nominative, singular, masculine
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------

@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 8.60.10"
+
++++
+-   *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- \[noun\], ablative, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- \[noun\], ablative, singular, masculine
+- “Rākṣasa.”
+------------------------------------------------------------------------
+- *arāvṇaḥ* \< *arāvan*
+- \[noun\], accusative, plural, masculine
+- “begrudging; hostile; stingy.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *vājeṣu* \< *vāja*
+- \[noun\], locative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'va* \< *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *iddhi* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *iddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *nediṣṭhaṃ* \< *nediṣṭham* \< *nediṣṭha*
+- \[noun\], accusative, singular, masculine
+- “following.”
+------------------------------------------------------------------------
+- *devatātaya* \< *devatātaye* \< *devatāti*
+- \[noun\], dative, singular, feminine
+- “deity; Deva.”
+------------------------------------------------------------------------
+- *āpiṃ* \< *āpim* \< *āpi*
+- \[noun\], accusative, singular, masculine
+- “friend.”
+------------------------------------------------------------------------
+- *nakṣāmahe* \< *nakṣ*
+- \[verb\], plural, Present indikative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *vṛdhe* \< *vṛdh*
+- \[verb noun\]
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------

@@ -1,0 +1,57 @@
++++
+title = "Rig Veda 8.12.17"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *śakra*
+- \[noun\], vocative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *parāvati* \< *parāvat*
+- \[noun\], locative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *samudre* \< *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *mandase* \< *mad*
+- \[verb\], singular, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *sute* \< *su*
+- \[verb noun\], locative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *raṇā* \< *raṇa* \< *ran*
+- \[verb\], singular, Present imperative
+- “rejoice.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *indubhiḥ* \< *indu*
+- \[noun\], instrumental, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------

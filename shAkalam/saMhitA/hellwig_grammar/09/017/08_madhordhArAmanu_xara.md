@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 9.17.8"
+
++++
+-   *madhor* \< *madhoḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *dhārām* \< *dhārā*
+- \[noun\], accusative, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *kṣara* \< *kṣar*
+- \[verb\], singular, Present imperative
+- “run; melt.”
+------------------------------------------------------------------------
+- *tīvraḥ* \< *tīvra*
+- \[noun\], nominative, singular, masculine
+- “intense; severe; pungent; acute; potent; loud.”
+------------------------------------------------------------------------
+- *sadhastham* \< *sadhastha*
+- \[noun\], accusative, singular, neuter
+- “dwelling; location; home.”
+------------------------------------------------------------------------
+- *āsadaḥ* \< *āsad* \< *√sad*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “approach; attack; sit down; approach; find; arrive.”
+------------------------------------------------------------------------
+- *cārur* \< *cāruḥ* \< *cāru*
+- \[noun\], nominative, singular, masculine
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *ṛtāya* \< *ṛta*
+- \[noun\], dative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *pītaye* \< *pā*
+- \[verb noun\]
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------

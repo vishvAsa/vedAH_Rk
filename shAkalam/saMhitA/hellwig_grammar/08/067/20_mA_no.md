@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 8.67.20"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hetir* \< *hetiḥ* \< *heti*
+- \[noun\], nominative, singular, feminine
+- “projectile; heti \[word\].”
+------------------------------------------------------------------------
+- *vivasvata* \< *vivasvataḥ* \< *vivasvant*
+- \[noun\], genitive, singular, masculine
+- “Surya; sun; Vivasvant; Vivasvant.”
+------------------------------------------------------------------------
+- *ādityāḥ* \< *āditya*
+- \[noun\], vocative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *kṛtrimā* \< *kṛtrima*
+- \[noun\], nominative, singular, feminine
+- “factitious; artificial; fake.”
+------------------------------------------------------------------------
+- *śaruḥ* \< *śaru*
+- \[noun\], nominative, singular, feminine
+- “arrow.”
+------------------------------------------------------------------------
+- *purā*
+- \[adverb\]
+- “once; earlier; first; purā \[indecl.\].”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *jaraso* \< *jarasaḥ* \< *jaras*
+- \[noun\], ablative, singular, feminine
+- “old age.”
+------------------------------------------------------------------------
+- *vadhīt* \< *vadh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “kill; assail; kick; māray; destroy; beat.”
+------------------------------------------------------------------------

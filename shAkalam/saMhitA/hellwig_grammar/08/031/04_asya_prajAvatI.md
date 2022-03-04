@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 8.31.4"
+
++++
+-   *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *prajāvatī* \< *prajāvat*
+- \[noun\], nominative, singular, feminine
+- “prolific.”
+------------------------------------------------------------------------
+- *gṛhe* \< *gṛha*
+- \[noun\], locative, singular, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *'saścantī* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'saścantī* \< *saścantī* \< *sac*
+- \[verb noun\], nominative, singular
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *dive* \< *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *dive* \< *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *iﾱā* \< *iḍā*
+- \[noun\], nominative, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *dhenumatī* \< *dhenumat*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *duhe* \< *duh*
+- \[verb\], singular, Present indikative
+- “milk.”
+------------------------------------------------------------------------

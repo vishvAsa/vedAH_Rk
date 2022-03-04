@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 8.1.29"
+
++++
+-   *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sūra* \< *sūre* \< *sūra*
+- \[noun\], locative, singular, masculine
+- “sun.”
+------------------------------------------------------------------------
+- *udite* \< *udi* \< *√i*
+- \[verb noun\], locative, singular
+- “rise; originate; rise; increase.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *madhyandine* \< *madhyaṃdina*
+- \[noun\], locative, singular, masculine
+- “noon; Pentapetes phoenicea Linn..”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *prapitve* \< *prapitva*
+- \[noun\], locative, singular, neuter
+- “beginning.”
+------------------------------------------------------------------------
+- *apiśarvare* \< *apiśarvara*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *vasav* \< *vaso* \< *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *stomāso* \< *stomāsaḥ* \< *stoma*
+- \[noun\], nominative, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *avṛtsata* \< *vṛdh*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------

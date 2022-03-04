@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 8.9.14"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *nūnaṃ* \< *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aśvinemā* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *aśvinemā* \< *imā* \< *idam*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *havyāni* \< *havya*
+- \[noun\], nominative, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *hitā* \< *dhā*
+- \[verb noun\], nominative, plural
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *somāso* \< *somāsaḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *turvaśe* \< *turvaśa*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *yadāv* \< *yadau* \< *yadu*
+- \[noun\], locative, singular, masculine
+- “Yadu; Yadu.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *kaṇveṣu* \< *kaṇva*
+- \[noun\], locative, plural, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *atha*
+- \[adverb\]
+- “now; then; furthermore; now; then.”
+------------------------------------------------------------------------

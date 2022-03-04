@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 9.57.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *asaścato* \< *asaścataḥ* \< *asaścat*
+- \[noun\], nominative, plural, feminine
+- “inexhaustible.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vṛṣṭayaḥ* \< *vṛṣṭi*
+- \[noun\], nominative, plural, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *vājaṃ* \< *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *sahasriṇam* \< *sahasrin*
+- \[noun\], accusative, singular, masculine
+- “thousandfold.”
+------------------------------------------------------------------------

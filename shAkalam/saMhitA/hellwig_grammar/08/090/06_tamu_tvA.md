@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 8.90.6"
+
++++
+-   *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *asura*
+- \[noun\], vocative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *pracetasaṃ* \< *pracetasam* \< *pracetas*
+- \[noun\], accusative, singular, masculine
+- “intelligent; mindful; attentive; wise; apt; observant.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *bhāgam* \< *bhāga*
+- \[noun\], accusative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+------------------------------------------------------------------------
+- *ivemahe* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivemahe* \< *īmahe* \< *ī* \< *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+- *mahīva* \< *mahī* \< *mah*
+- \[noun\], nominative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *mahīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *kṛttiḥ* \< *kṛtti*
+- \[noun\], nominative, singular, feminine
+- “hide.”
+------------------------------------------------------------------------
+- *śaraṇā* \< *śaraṇa*
+- \[noun\], nominative, singular, feminine
+- “protecting.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sumnā* \< *sumna*
+- \[noun\], nominative, plural, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aśnavan* \< *aś*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 8.9.4"
+
++++
+-   *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *gharmo* \< *gharmaḥ* \< *gharma*
+- \[noun\], nominative, singular, masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *stomena* \< *stoma*
+- \[noun\], instrumental, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ṣicyate* \< *sicyate* \< *sic*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *madhumān* \< *madhumat*
+- \[noun\], nominative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *vājinīvasū* \< *vājinīvasu*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- \[noun\], accusative, singular, masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *ciketathaḥ* \< *cit*
+- \[verb\], dual, Perfect conjunctive (subj.)
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------

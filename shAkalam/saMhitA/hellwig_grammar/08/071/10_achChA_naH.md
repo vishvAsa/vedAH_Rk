@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 8.71.10"
+
++++
+-   *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śīraśociṣaṃ* \< *śīra*
+- \[noun\]
+- “sharp; acerb.”
+------------------------------------------------------------------------
+- *śīraśociṣaṃ* \< *śociṣam* \< *śocis*
+- \[noun\], accusative, singular, masculine
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *giro* \< *giraḥ* \< *gir*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *darśatam* \< *darśata*
+- \[noun\], accusative, singular, masculine
+- “beautiful; visible; beautiful.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *yajñāso* \< *yajñāsaḥ* \< *yajña*
+- \[noun\], nominative, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *purūvasum* \< *purūvasu*
+- \[noun\], accusative, singular, masculine
+- “rich.”
+------------------------------------------------------------------------
+- *purupraśastam* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purupraśastam* \< *praśastam* \< *praśaṃs* \< *√śaṃs*
+- \[verb noun\], accusative, singular
+- “recommend; approve; praise; laud; favor; proclaim.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

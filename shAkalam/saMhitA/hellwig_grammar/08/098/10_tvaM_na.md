@@ -1,0 +1,52 @@
++++
+title = "Rig Veda 8.98.10"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indrā* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrā* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bharaṃ* \< *bharam* \< *bhara*
+- \[noun\], accusative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *ojo* \< *ojaḥ* \< *ojas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *nṛmṇaṃ* \< *nṛmṇam* \< *nṛmṇa*
+- \[noun\], accusative, singular, neuter
+- “manhood; power.”
+------------------------------------------------------------------------
+- *śatakrato* \< *śatakratu*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *vicarṣaṇe* \< *vicarṣaṇi*
+- \[noun\], vocative, singular, masculine
+- “excellent.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *pṛtanāṣaham* \< *pṛtanāṣah*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------

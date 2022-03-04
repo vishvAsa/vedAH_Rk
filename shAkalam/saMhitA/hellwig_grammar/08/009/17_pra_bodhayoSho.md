@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 8.9.17"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *bodhayoṣo* \< *bodhaya* \< *bodhay* \< *√budh*
+- \[verb\], singular, Present imperative
+- “awaken; ignite; advise; admonish; communicate.”
+------------------------------------------------------------------------
+- *bodhayoṣo* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], accusative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *devi* \< *devī*
+- \[noun\], vocative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *sūnṛte* \< *sūnṛta*
+- \[noun\], vocative, singular, feminine
+- “big; friendly.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], vocative, singular, feminine
+- “great; firm.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yajñahotar* \< *yajña*
+- \[noun\], masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *yajñahotar* \< *hotar* \< *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *ānuṣak*
+- \[adverb\]
+- “correctly; in sequence; punctually.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *madāya* \< *mada*
+- \[noun\], dative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *śravo* \< *śravaḥ* \< *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------

@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 9.19.7"
+
++++
+-   *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *śatroḥ* \< *śatru*
+- \[noun\], genitive, singular, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *vṛṣṇyaṃ* \< *vṛṣṇyam* \< *vṛṣṇya*
+- \[noun\], accusative, singular, neuter
+- “manfulness; virility.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- \[noun\], accusative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *vayas* \< *vayaḥ* \< *vayas*
+- \[noun\], accusative, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *tira* \< *tṛ*
+- \[verb\], singular, Present imperative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *dūre* \< *dūra*
+- \[noun\], locative, singular, neuter
+- “distance; distance; farness.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *sato* \< *sataḥ* \< *as*
+- \[verb noun\], genitive, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *anti*
+- \[adverb\]
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------

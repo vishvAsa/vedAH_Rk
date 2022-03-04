@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 8.18.1"
+
++++
+-   *idaṃ* \< *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *eṣāṃ* \< *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sumnam* \< *sumna*
+- \[noun\], accusative, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *bhikṣeta* \< *bhikṣ* \< *√bhaj*
+- \[verb\], singular, Present optative
+- “beg; beg.”
+------------------------------------------------------------------------
+- *martyaḥ* \< *martya*
+- \[noun\], nominative, singular, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *ādityānām* \< *āditya*
+- \[noun\], genitive, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *apūrvyaṃ* \< *apūrvyam* \< *apūrvya*
+- \[noun\], accusative, singular, neuter
+- “incomparable.”
+------------------------------------------------------------------------
+- *savīmani* \< *savīman*
+- \[noun\], locative, singular, neuter
+- “impulse.”
+------------------------------------------------------------------------

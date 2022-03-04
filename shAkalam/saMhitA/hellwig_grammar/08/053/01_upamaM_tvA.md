@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 8.53.1"
+
++++
+-   *upamaṃ* \< *upamam* \< *upama*
+- \[noun\], accusative, singular, masculine
+- “best; topmost.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *maghonāṃ* \< *maghonām* \< *maghavan*
+- \[noun\], genitive, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- \[noun\], accusative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vṛṣabhāṇām* \< *vṛṣabha*
+- \[noun\], genitive, plural, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *pūrbhittamam* \< *pūrbhittama*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *govidam* \< *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *govidam* \< *vidam* \< *vid*
+- \[noun\], accusative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *īśānaṃ* \< *īśānam* \< *īś*
+- \[verb noun\], accusative, singular
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *rāya* \< *rāyaḥ* \< *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *īmahe* \< *ī* \< *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------

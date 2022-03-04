@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 8.49.6"
+
++++
+-   *ugraṃ* \< *ugram* \< *ugra*
+- \[noun\], accusative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vīraṃ* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *namasopa* \< *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *namasopa* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *sedima* \< *sad*
+- \[verb\], plural, Perfect indicative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *vibhūtim* \< *vibhūti*
+- \[noun\], accusative, singular, masculine
+- “plentiful.”
+------------------------------------------------------------------------
+- *akṣitāvasum* \< *akṣitāvasu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *udrīva* \< *udrī* \< *udrin*
+- \[noun\], nominative, singular, masculine
+- “filled with water.”
+------------------------------------------------------------------------
+- *udrīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vajrinn* \< *vajrin*
+- \[noun\], vocative, singular, masculine
+- “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
+------------------------------------------------------------------------
+- *avato* \< *avataḥ* \< *avata*
+- \[noun\], nominative, singular, masculine
+- “well.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *siñcate* \< *sic*
+- \[verb noun\], dative, singular
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *kṣarantīndra* \< *kṣaranti* \< *kṣar*
+- \[verb\], plural, Present indikative
+- “run; melt.”
+------------------------------------------------------------------------
+- *kṣarantīndra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dhītayaḥ* \< *dhīti*
+- \[noun\], nominative, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------

@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 8.93.20"
+
++++
+-   *kasya* \< *ka*
+- \[noun\], genitive, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *sute* \< *suta*
+- \[noun\], locative, singular, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *niyutvān* \< *niyutvat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *raṇat* \< *raṇ*
+- \[verb\], singular, Present injunctive
+- “rejoice.”
+------------------------------------------------------------------------
+- *vṛtrahā* \< *vṛtrahan*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *somapītaye* \< *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapītaye* \< *pītaye* \< *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------

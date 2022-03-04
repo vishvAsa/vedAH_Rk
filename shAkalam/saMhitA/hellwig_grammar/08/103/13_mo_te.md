@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 8.103.13"
+
++++
+-   *mo* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mo* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *riṣan* \< *riṣ*
+- \[verb\], plural, Aorist inj. (proh.)
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *acchoktibhir* \< *acchoktibhiḥ* \< *acchokti*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *vaso* \< *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *'gne* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *kebhiścid* \< *kaścit*
+- \[noun\], instrumental, plural, masculine
+- “any(a); some(a); some(a); some(a); some(a).”
+------------------------------------------------------------------------
+- *evaiḥ* \< *eva*
+- \[noun\], instrumental, plural, masculine
+- “eva \[word\]; habit; manner; behavior; custom.”
+------------------------------------------------------------------------
+- *kīriś* \< *kīriḥ* \< *kīri*
+- \[noun\], nominative, singular, masculine
+- “pauper.”
+------------------------------------------------------------------------
+- *ciddhi* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ciddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *īṭṭe* \< *īḍ*
+- \[verb\], singular, Present indikative
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *dūtyāya* \< *dūtya*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *rātahavyaḥ* \< *rāta* \< *rā*
+- \[verb noun\]
+- “give; impart.”
+------------------------------------------------------------------------
+- *rātahavyaḥ* \< *havyaḥ* \< *havya*
+- \[noun\], nominative, singular, masculine
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *svadhvaraḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svadhvaraḥ* \< *adhvaraḥ* \< *adhvara*
+- \[noun\], nominative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------

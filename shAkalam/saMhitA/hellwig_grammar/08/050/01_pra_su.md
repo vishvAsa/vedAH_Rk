@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.50.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb noun\], accusative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *surādhasam* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *surādhasam* \< *rādhasam* \< *rādhas*
+- \[noun\], accusative, singular, masculine
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *arcā* \< *arca* \< *arc*
+- \[verb\], singular, Present imperative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *śakram* \< *śakra*
+- \[noun\], accusative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *abhiṣṭaye* \< *abhiṣṭi*
+- \[noun\], dative, singular, feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sunvate* \< *su*
+- \[verb noun\], dative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *stuvate* \< *stu*
+- \[verb noun\], dative, singular
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *kāmyaṃ* \< *kāmyam* \< *kāmya*
+- \[noun\], accusative, singular, neuter
+- “desirable; optional; beautiful.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *sahasreṇeva* \< *sahasreṇa* \< *sahasra*
+- \[noun\], instrumental, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasreṇeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *maṃhate* \< *mah*
+- \[verb\], singular, Present indikative
+- “give; accord.”
+------------------------------------------------------------------------

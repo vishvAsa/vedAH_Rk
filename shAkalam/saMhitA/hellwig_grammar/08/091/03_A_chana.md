@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 8.91.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *cikitsāmo* \< *cikitsāmaḥ* \< *cikits*
+- \[verb\], plural, Present indikative
+- “cure; understand; take care; heal.”
+------------------------------------------------------------------------
+- *'dhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nemasi* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nemasi* \< *imasi* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *śanair* \< *śanais*
+- \[adverb\]
+- “carefully; slowly; gently; quietly; lightly; gradually.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śanakair* \< *śanakais*
+- \[adverb\]
+- “cautiously; quietly; carefully; lightly; easily.”
+------------------------------------------------------------------------
+- *ivendrāyendo* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivendrāyendo* \< *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *ivendrāyendo* \< *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *srava* \< *sru*
+- \[verb\], singular, Present imperative
+- “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
+    disappear; leak; fester.”
+------------------------------------------------------------------------

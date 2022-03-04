@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 8.17.7"
+
++++
+-   *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vicarṣaṇe* \< *vicarṣaṇi*
+- \[noun\], vocative, singular, masculine
+- “excellent.”
+------------------------------------------------------------------------
+- *janīr* \< *janīḥ* \< *jani*
+- \[noun\], accusative, plural, feminine
+- “wife; jan; woman; jani \[word\]; birth.”
+------------------------------------------------------------------------
+- *ivābhi* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivābhi* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *saṃvṛtaḥ* \< *saṃvṛ* \< *√vṛ*
+- \[verb noun\], nominative, singular
+- “surround; cover; envelop; hide; close; protect.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *soma* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sarpatu* \< *sṛp*
+- \[verb\], singular, Present imperative
+- “crawl; spread; wander.”
+------------------------------------------------------------------------

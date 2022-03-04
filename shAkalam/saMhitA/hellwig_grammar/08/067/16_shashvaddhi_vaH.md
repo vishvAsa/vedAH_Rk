@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 8.67.16"
+
++++
+-   *śaśvaddhi* \< *śaśvat*
+- \[adverb\]
+- “always; repeatedly; continually; wholly.”
+------------------------------------------------------------------------
+- *śaśvaddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *sudānava* \< *sudānavaḥ* \< *sudānu*
+- \[noun\], vocative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *ādityā* \< *ādityāḥ* \< *āditya*
+- \[noun\], vocative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *purā*
+- \[adverb\]
+- “once; earlier; first; purā \[indecl.\].”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *bubhujmahe* \< *bhuj*
+- \[verb\], plural, Perfect indicative
+- “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
+------------------------------------------------------------------------

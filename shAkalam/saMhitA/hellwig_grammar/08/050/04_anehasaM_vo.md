@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 8.50.4"
+
++++
+-   *anehasaṃ* \< *anehasam* \< *anehas*
+- \[noun\], accusative, singular, masculine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *havamānam* \< *hvā*
+- \[verb noun\], accusative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *madhvaḥ* \< *madhu*
+- \[noun\], nominative, plural, feminine
+- “sweet; deft.”
+------------------------------------------------------------------------
+- *kṣaranti* \< *kṣar*
+- \[verb\], plural, Present indikative
+- “run; melt.”
+------------------------------------------------------------------------
+- *dhītayaḥ* \< *dhīti*
+- \[noun\], nominative, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vaso* \< *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *havamānāsa* \< *havamānāsaḥ* \< *hvā*
+- \[verb noun\], nominative, plural
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *indava* \< *indavaḥ* \< *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *stotreṣu* \< *stotra*
+- \[noun\], locative, plural, neuter
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *dadhire* \< *dhā*
+- \[verb\], plural, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------

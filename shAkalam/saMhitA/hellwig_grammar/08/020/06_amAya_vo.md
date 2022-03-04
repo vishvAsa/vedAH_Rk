@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.20.6"
+
++++
+-   *amāya* \< *ama*
+- \[noun\], dative, singular, masculine
+- “am; panic; power; ferocity.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *yātave* \< *yā*
+- \[verb noun\]
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *dyaur* \< *dyauḥ* \< *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *jihīta* \< *jihīte* \< *hā*
+- \[verb\], singular, Present indikative
+- “move over; yield; give way.”
+------------------------------------------------------------------------
+- *uttarā*
+- \[adverb\]
+- “north.”
+------------------------------------------------------------------------
+- *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *yatrā* \< *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *naro* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *dediśate* \< *dediś* \< *√diś*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *tanūṣv* \< *tanūṣu* \< *tanū*
+- \[noun\], locative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvakṣāṃsi* \< *tvakṣas*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *bāhvojasaḥ* \< *bāhu*
+- \[noun\], masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *bāhvojasaḥ* \< *ojasaḥ* \< *ojas*
+- \[noun\], nominative, plural, masculine
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------

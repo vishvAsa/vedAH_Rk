@@ -1,0 +1,97 @@
++++
+title = "Rig Veda 8.48.15"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *viśvato* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *vayodhās* \< *vayaḥ* \< *vayas*
+- \[noun\], neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *vayodhās* \< *dhāḥ* \< *dhā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *svarvid* \< *svar*
+- \[noun\], neuter
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarvid* \< *vid*
+- \[noun\], nominative, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśā* \< *viśa* \< *viś*
+- \[verb\], singular, Present imperative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *nṛcakṣāḥ* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣāḥ* \< *cakṣāḥ* \< *cakṣas*
+- \[noun\], nominative, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *inda* \< *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *ūtibhiḥ* \< *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *paścātād* \< *paścātāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------

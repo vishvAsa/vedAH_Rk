@@ -1,0 +1,96 @@
++++
+title = "Rig Veda 8.47.14"
+
++++
+-   *yac* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *goṣu* \< *go*
+- \[noun\], locative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *duṣṣvapnyaṃ* \< *duṣṣvapnyam* \< *duḥṣvapnya*
+- \[noun\], nominative, singular, neuter
+- “nightmare.”
+------------------------------------------------------------------------
+- *yac* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *cāsme* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cāsme* \< *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *duhitar* \< *duhitṛ*
+- \[noun\], vocative, singular, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *tritāya* \< *trita*
+- \[noun\], dative, singular, masculine
+- “Trita.”
+------------------------------------------------------------------------
+- *tad* \< *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vibhāvary* \< *vibhāvari* \< *vibhāvarī*
+- \[noun\], vocative, singular, feminine
+- “night; Vibhāvarī; woman.”
+------------------------------------------------------------------------
+- *āptyāya* \< *āptya*
+- \[noun\], dative, singular, masculine
+- “Āptya; Trita.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *vahānehaso* \< *vahā* \< *vah*
+- \[verb\], singular, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *vahānehaso* \< *anehasaḥ* \< *anehas*
+- \[noun\], nominative, plural, feminine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *suūtayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

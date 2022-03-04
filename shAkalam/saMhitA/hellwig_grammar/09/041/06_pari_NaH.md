@@ -1,0 +1,42 @@
++++
+title = "Rig Veda 9.41.6"
+
++++
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ṇaḥ* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śarmayantyā* \< *śarmay*
+- \[verb noun\], instrumental, singular
+------------------------------------------------------------------------
+- *dhārayā* \< *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *viśvataḥ* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *sarā* \< *sara* \< *sṛ*
+- \[verb\], singular, Aorist imperative
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *raseva* \< *rasā*
+- \[noun\], nominative, singular, feminine
+- “Rasā; Earth; Earth.”
+------------------------------------------------------------------------
+- *raseva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *viṣṭapam* \< *viṣṭap*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------

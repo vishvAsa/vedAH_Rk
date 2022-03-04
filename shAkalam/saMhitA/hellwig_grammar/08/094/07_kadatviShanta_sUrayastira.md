@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 8.94.7"
+
++++
+-   *kad* \< *ka*
+- \[noun\], accusative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *atviṣanta* \< *tviṣ*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *sūrayas* \< *sūrayaḥ* \< *sūri*
+- \[noun\], nominative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *tira* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *āpa* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *sridhaḥ* \< *sridh*
+- \[noun\], accusative, plural, feminine
+- “failure; damage.”
+------------------------------------------------------------------------
+- *arṣanti* \< *ṛṣ*
+- \[verb\], plural, Present indikative
+- “run.”
+------------------------------------------------------------------------
+- *pūtadakṣasaḥ* \< *pūta* \< *pū*
+- \[verb noun\]
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pūtadakṣasaḥ* \< *dakṣasaḥ* \< *dakṣas*
+- \[noun\], nominative, plural, masculine
+- “intelligent.”
+------------------------------------------------------------------------

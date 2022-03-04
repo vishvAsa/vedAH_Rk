@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 8.52.7"
+
++++
+-   *kadācana*
+- \[adverb\]
+- “ever; sometimes.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yucchasy* \< *yucchasi* \< *yu*
+- \[verb\], singular, Present indikative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], accusative, dual, neuter
+- “both(a).”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *pāsi* \< *pā*
+- \[verb\], singular, Present indikative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *janmanī* \< *janman*
+- \[noun\], accusative, dual, neuter
+- “birth; reincarnation; lineage; origin; race; metempsychosis;
+    parentage; descent; appearance; age; birthplace; beginning; being.”
+------------------------------------------------------------------------
+- *turīyāditya* \< *turīya*
+- \[noun\], vocative, singular, masculine
+- “fourth.”
+------------------------------------------------------------------------
+- *turīyāditya* \< *āditya*
+- \[noun\], vocative, singular, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *havanaṃ* \< *havanam* \< *havana*
+- \[noun\], nominative, singular, neuter
+- “yajña.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indriyam* \< *indriya*
+- \[noun\], accusative, singular, neuter
+- “aindra.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tasthāv* \< *tasthau* \< *sthā*
+- \[verb\], singular, Perfect indicative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- \[noun\], accusative, singular, neuter
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------

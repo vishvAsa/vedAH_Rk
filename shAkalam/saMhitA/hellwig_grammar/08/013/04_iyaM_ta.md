@@ -1,0 +1,52 @@
++++
+title = "Rig Veda 8.13.4"
+
++++
+-   *iyaṃ* \< *iyam* \< *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *rātiḥ* \< *rāti*
+- \[noun\], nominative, singular, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+- *kṣarati* \< *kṣar*
+- \[verb\], singular, Present indikative
+- “run; melt.”
+------------------------------------------------------------------------
+- *sunvataḥ* \< *su*
+- \[verb noun\], genitive, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *mandāno* \< *mandānaḥ* \< *mad*
+- \[verb noun\], nominative, singular
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *barhiṣo* \< *barhiṣaḥ* \< *barhis*
+- \[noun\], genitive, singular, masculine
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *rājasi* \< *rāj*
+- \[verb\], singular, Present indikative
+- “govern; shine; glitter; direct.”
+------------------------------------------------------------------------
