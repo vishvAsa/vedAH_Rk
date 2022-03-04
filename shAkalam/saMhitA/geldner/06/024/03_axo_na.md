@@ -2,4 +2,4 @@
 title = "03"
 
 +++
-Indra! Verwandte und fremde Neider haben wider uns gerüstet, mache deren Macht wanken, schlage ihre Stärke nieder, treib sie in die Flucht!
+Wie die Achse über die beiden, so ragt, o Held, deine hohe Größe an Umfang über beide Welten hinaus. Wie die Zweige des Baumes so wachsen nach allen Seiten deine Gnaden, vielgerufener Indra.

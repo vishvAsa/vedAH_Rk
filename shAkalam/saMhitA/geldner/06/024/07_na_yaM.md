@@ -2,4 +2,4 @@
 title = "07"
 
 +++
-Dann, wenn sich deine Völker in Bewegung setzen werden, o Indra, sei Schützer und Schirmer unserer mannhaftesten hohen Herren, die als Patrone uns an die Spitze gestellt haben, Indra!
+Zu Indra, den die Herbste nicht alt machen noch die Monate und Tage abmagern. Obwohl er schon ausgewachsen ist, soll sein Leib noch wachsen, wenn er mit Lobgesängen und Preisreden gefeiert wird.

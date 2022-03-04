@@ -1,0 +1,10 @@
++++
+title = "04"
+
++++
+## Strata
+Strophic
+
+## Pāda-label
+genre M;; repeated line  
+genre M
