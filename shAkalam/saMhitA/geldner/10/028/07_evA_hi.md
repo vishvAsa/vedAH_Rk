@@ -2,4 +2,4 @@
 title = "07"
 
 +++
-Vasukra:	"Denn also haben mich die Götter als den starken, gewaltigen Bullen bei jedem Unternehmen kennen gelernt, o Indra: Ich habe den Vritra mit der Keule somaberauscht erschlagen; ich habe für den Opferwilligen mit Macht die Kuhhürde geöffnet."
+Denn also haben mich die Götter als den starken, gewaltigen Bullen bei jedem Unternehmen kennen gelernt, o Indra: Ich habe den Vritra mit der Keule somaberauscht erschlagen; ich habe für den Opferwilligen mit Macht die Kuhhürde geöffnet.
