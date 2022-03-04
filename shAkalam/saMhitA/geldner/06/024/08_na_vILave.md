@@ -2,4 +2,4 @@
 title = "08"
 
 +++
-Dir ward zu großer indrischer Macht, dir ward alles auf einmal im Vritrakampf zugestanden, dir die Herrschaft, die Macht, o opferwürdiger Indra, wir von den Göttern in der Männerschlacht.
+Er weicht nicht dem Zähen noch dem Festen, nicht dem Übermächtigen, von den Dasyu´s Getriebenen, wenn er gepriesen wird. Auch die hohen Berge sind für Indra nur Ebenen, selbst im Tiefen findet er Grund.

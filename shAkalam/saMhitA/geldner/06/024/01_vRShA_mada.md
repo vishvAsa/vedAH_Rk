@@ -2,4 +2,4 @@
 title = "01"
 
 +++
-Was deine nächste Hilfe, deine fernste, deine mittlere ist, du ungestümer Indra, mit denen steh uns doch ja in der Feindschlacht bei, und mit diesen Erfolgen groß steh uns bei, Gewaltiger!
+Bullenhafter Rausch, Ruhmeslied und Lobgedichte gehören zu Indra, zu den Somatränken gehört der Somatrinker, der Trinker des Trestersafts. Als der Gabenreiche ist er in Liedern für die Männer zu preisen, der himmlische König der Lieder, dessen Gnade unerschöpflich ist.

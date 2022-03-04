@@ -2,4 +2,4 @@
 title = "02"
 
 +++
-Mit diesen Hilfen uns vor Schaden bewahrend bring die streitenden Gegner, des Feindes Eifer ins Wanken, Indra! Mit diesen treib alle Angriffe auseinander, unterwirf dem Arier die dasischen Stämme.
+Überwinder, Held, mannhaft, klug, Erhörer des Rufes des Sängers, weiten Schutz gewährend, gut, der Preis der Männer, den Dichter ernährend, als Sieger in der Opferrede gepriesen verleiht er den Siegerpreis.
