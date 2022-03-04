@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 8.7.5"
+
++++
+-   *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yāmāya* \< *yāma*
+- \[noun\], dative, singular, masculine
+- “prahara; watch; travel; path.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *girir* \< *giriḥ* \< *giri*
+- \[noun\], nominative, singular, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *vidharmaṇe* \< *vidharman*
+- \[noun\], dative, singular, neuter
+- “receptacle; enclosure.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *śuṣmāya* \< *śuṣma*
+- \[noun\], dative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *yemire* \< *yam*
+- \[verb\], plural, Perfect indicative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------

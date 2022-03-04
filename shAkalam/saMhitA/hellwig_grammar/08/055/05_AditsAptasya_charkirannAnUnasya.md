@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 8.55.5"
+
++++
+-   *ād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *sāptasya* \< *sāpta*
+- \[noun\], genitive, singular, neuter
+------------------------------------------------------------------------
+- *carkirann* \< *carkiran* \< *carkar* \< *√kṛ*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “praise; commemorate.”
+------------------------------------------------------------------------
+- *ānūnasya* \< *anūnasya* \< *anūna*
+- \[noun\], genitive, singular, masculine
+- “perfect; entire.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], nominative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *śravaḥ* \< *śravas*
+- \[noun\], nominative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *śyāvīr* \< *śyāvīḥ* \< *śyāva*
+- \[noun\], nominative, plural, feminine
+- “brown; dark; śyāva \[word\].”
+------------------------------------------------------------------------
+- *atidhvasan* \< *atidhvaṃs* \< *√dhvaṃs*
+- \[verb\], plural, Aorist inj. (proh.)
+------------------------------------------------------------------------
+- *pathaś* \< *pathaḥ* \< *pathin*
+- \[noun\], accusative, plural, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *cakṣuṣā* \< *cakṣus*
+- \[noun\], instrumental, singular, neuter
+- “eye; look; visual perception; cakṣus \[word\]; sight.”
+------------------------------------------------------------------------
+- *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *saṃnaśe* \< *saṃnaś* \< *√naś*
+- \[verb noun\]
+------------------------------------------------------------------------

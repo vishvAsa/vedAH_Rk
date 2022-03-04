@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 8.10.6"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *antarikṣe* \< *antarikṣa*
+- \[noun\], locative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *patathaḥ* \< *pat*
+- \[verb\], dual, Present indikative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *purubhujā* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purubhujā* \< *bhujā* \< *bhuj*
+- \[noun\], vocative, dual, masculine
+- “eating; consuming.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *veme* \< *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *veme* \< *ime* \< *idam*
+- \[noun\], accusative, dual, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *svadhābhir* \< *svadhābhiḥ* \< *svadhā*
+- \[noun\], instrumental, plural, feminine
+- “free will; offering; libation; nature; svadhā \[word\]; comfort;
+    power.”
+------------------------------------------------------------------------
+- *adhitiṣṭhatho* \< *adhitiṣṭhathaḥ* \< *adhiṣṭhā* \< *√sthā*
+- \[verb\], dual, Present indikative
+- “reach; board; repose on; govern; sit down; stand; prevail.”
+------------------------------------------------------------------------
+- *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ata* \< *atas*
+- \[adverb\]
+- “now; therefore; then; from there; hence; consequently; then; hence;
+    henceforth.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------

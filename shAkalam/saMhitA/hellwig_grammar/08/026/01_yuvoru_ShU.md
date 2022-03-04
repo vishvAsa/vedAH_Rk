@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 8.26.1"
+
++++
+-   *yuvor* \< *yuvoḥ* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣū* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *sadhastutyāya* \< *sadhastutya*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *sūriṣu* \< *sūri*
+- \[noun\], locative, plural, masculine
+- “guru.”
+------------------------------------------------------------------------
+- *atūrtadakṣā* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *atūrtadakṣā* \< *tūrta* \< *tṛ*
+- \[verb noun\]
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *atūrtadakṣā* \< *dakṣā* \< *dakṣa*
+- \[noun\], vocative, dual, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *vṛṣaṇā* \< *vṛṣan*
+- \[noun\], vocative, dual, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- \[noun\], vocative, dual, masculine
+- “affluent.”
+------------------------------------------------------------------------

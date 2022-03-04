@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 8.35.18"
+
++++
+-   *dhenūr* \< *dhenūḥ* \< *dhenu*
+- \[noun\], accusative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *jinvatam* \< *jinv*
+- \[verb\], dual, Present imperative
+- “enliven; animate.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *jinvataṃ* \< *jinvatam* \< *jinv*
+- \[verb\], dual, Present imperative
+- “enliven; animate.”
+------------------------------------------------------------------------
+- *viśo* \< *viśaḥ* \< *viś*
+- \[noun\], accusative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *hataṃ* \< *hatam* \< *han*
+- \[verb\], dual, Present imperative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *rakṣāṃsi* \< *rakṣas*
+- \[noun\], accusative, plural, neuter
+- “Rākṣasa; Rakṣas; rakṣas \[word\].”
+------------------------------------------------------------------------
+- *sedhatam* \< *sidh*
+- \[verb\], dual, Present imperative
+- “chase away; repel.”
+------------------------------------------------------------------------
+- *amīvāḥ* \< *amīvā*
+- \[noun\], accusative, plural, feminine
+- “disease; affliction.”
+------------------------------------------------------------------------
+- *sajoṣasā* \< *sajoṣasau* \< *sajoṣas*
+- \[noun\], nominative, dual, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *uṣasā* \< *uṣas*
+- \[noun\], instrumental, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *sūryeṇa* \< *sūrya*
+- \[noun\], instrumental, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sunvato* \< *sunvataḥ* \< *su*
+- \[verb noun\], genitive, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 8.48.10"
+
++++
+-   *ṛdūdareṇa* \< *ṛdūdara*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *sakhyā* \< *sakhi*
+- \[noun\], instrumental, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *saceya* \< *sac*
+- \[verb\], singular, Present optative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *riṣyeddharyaśva* \< *riṣyet* \< *riṣ*
+- \[verb\], singular, Present optative
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *riṣyeddharyaśva* \< *hari*
+- \[noun\]
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *riṣyeddharyaśva* \< *aśva*
+- \[noun\], vocative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *pītaḥ* \< *pā*
+- \[verb noun\], nominative, singular
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *ny* \< *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *adhāyy* \< *adhāyi* \< *dhā*
+- \[verb\], singular, Aorist passive
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tasmā* \< *tasmai* \< *tad*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pratiram* \< *pratṛ* \< *√tṛ*
+- \[verb noun\]
+- “traverse; prolong.”
+------------------------------------------------------------------------
+- *emy* \< *emi* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------

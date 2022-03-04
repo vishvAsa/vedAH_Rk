@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 8.13.15"
+
++++
+-   *yacchakrāsi* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacchakrāsi* \< *śakra*
+- \[noun\], vocative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *yacchakrāsi* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *parāvati* \< *parāvat*
+- \[noun\], locative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *arvāvati* \< *arvāvat*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *vṛtrahan*
+- \[noun\], locative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *samudre* \< *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *andhaso* \< *andhasaḥ* \< *andhas*
+- \[noun\], genitive, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *'vited* \< *avitā* \< *avitṛ*
+- \[noun\], nominative, singular, masculine
+- “favorable.”
+------------------------------------------------------------------------
+- *'vited* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

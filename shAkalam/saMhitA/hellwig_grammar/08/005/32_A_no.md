@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 8.5.32"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- \[noun\], instrumental, plural, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śravobhir* \< *śravobhiḥ* \< *śravas*
+- \[noun\], instrumental, plural, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rāyā* \< *rai*
+- \[noun\], instrumental, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *puruścandrā* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruścandrā* \< *ścandrā* \< *ścandra*
+- \[noun\], vocative, dual, masculine
+- “shining; glistening; brilliant.”
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------

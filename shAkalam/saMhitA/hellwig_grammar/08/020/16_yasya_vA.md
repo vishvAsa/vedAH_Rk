@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 8.20.16"
+
++++
+-   *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *vājino* \< *vājinaḥ* \< *vājin*
+- \[noun\], nominative, plural, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *nara* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *havyā* \< *havya*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *vītaye* \< *vīti*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *gatha* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ṣa* \< *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- \[noun\], instrumental, plural, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vājasātibhiḥ* \< *vājasāti*
+- \[noun\], instrumental, plural, feminine
+- “victory; battle.”
+------------------------------------------------------------------------
+- *sumnā* \< *sumna*
+- \[noun\], accusative, plural, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *dhūtayo* \< *dhūtayaḥ* \< *dhūti*
+- \[noun\], vocative, plural, masculine
+- “Marut.”
+------------------------------------------------------------------------
+- *naśat* \< *naś*
+- \[verb\], singular, Present injunctive
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------

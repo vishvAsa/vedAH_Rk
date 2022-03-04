@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 8.103.12"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hṛṇītām* \< *hṛ*
+- \[verb\], singular, Present imperative
+- “anger.”
+------------------------------------------------------------------------
+- *atithir* \< *atithiḥ* \< *atithi*
+- \[noun\], nominative, singular, masculine
+- “guest; atithi \[word\]; Atithi.”
+------------------------------------------------------------------------
+- *vasur* \< *vasuḥ* \< *vasu*
+- \[noun\], nominative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *agniḥ* \< *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *purupraśasta* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purupraśasta* \< *praśastaḥ* \< *praśaṃs* \< *√śaṃs*
+- \[verb noun\], nominative, singular
+- “recommend; approve; praise; laud; favor; proclaim.”
+------------------------------------------------------------------------
+- *eṣaḥ* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *suhotā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhotā* \< *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *svadhvaraḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svadhvaraḥ* \< *adhvaraḥ* \< *adhvara*
+- \[noun\], nominative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------

@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 8.79.9"
+
++++
+-   *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *sve* \< *sva*
+- \[noun\], locative, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *sadhasthe* \< *sadhastha*
+- \[noun\], locative, singular, neuter
+- “dwelling; location; home.”
+------------------------------------------------------------------------
+- *devānāṃ* \< *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *durmatīr* \< *durmatīḥ* \< *durmati*
+- \[noun\], accusative, plural, feminine
+- “hate; envy.”
+------------------------------------------------------------------------
+- *īkṣe* \< *īś*
+- \[verb\], singular, Present indikative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *rājann* \< *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *dviṣaḥ* \< *dviṣ*
+- \[noun\], accusative, plural, feminine
+- “hate; dviṣ; hostility; hostility.”
+------------------------------------------------------------------------
+- *sedha* \< *sidh*
+- \[verb\], singular, Present imperative
+- “chase away; repel.”
+------------------------------------------------------------------------
+- *mīḍhvo* \< *mīḍhvaḥ* \< *mīḍhvas*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *sridhaḥ* \< *sridh*
+- \[noun\], accusative, plural, feminine
+- “failure; damage.”
+------------------------------------------------------------------------
+- *sedha* \< *sidh*
+- \[verb\], singular, Present imperative
+- “chase away; repel.”
+------------------------------------------------------------------------

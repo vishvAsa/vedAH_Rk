@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 8.4.9"
+
++++
+-   *aśvī* \< *aśvin*
+- \[noun\], nominative, singular, masculine
+- “rich in horses; horsy.”
+------------------------------------------------------------------------
+- *rathī* \< *rathin*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *surūpa* \< *surūpaḥ* \< *surūpa*
+- \[noun\], nominative, singular, masculine
+- “fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *gomāṃ* \< *gomat*
+- \[noun\], nominative, singular, masculine
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sakhā* \< *sakhi*
+- \[noun\], nominative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *śvātrabhājā* \< *śvātra*
+- \[noun\], neuter
+------------------------------------------------------------------------
+- *śvātrabhājā* \< *bhājā* \< *bhāj*
+- \[noun\], instrumental, singular, neuter
+- “enjoying; consisting of.”
+------------------------------------------------------------------------
+- *vayasā* \< *vayas*
+- \[noun\], instrumental, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *sacate* \< *sac*
+- \[verb\], singular, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *candro* \< *candraḥ* \< *candra*
+- \[noun\], nominative, singular, masculine
+- “aglitter(p); shining.”
+------------------------------------------------------------------------
+- *yāti* \< *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *sabhām* \< *sabhā*
+- \[noun\], accusative, singular, feminine
+- “assembly hall; sabhā \[word\]; assembly; audience.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------

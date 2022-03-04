@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 8.47.8"
+
++++
+-   *yuṣme* \< *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *ṣmasi* \< *smasi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yudhyanta* \< *yudhyantaḥ* \< *yudh*
+- \[verb noun\], nominative, plural
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *varmasu* \< *varman*
+- \[noun\], locative, plural, neuter
+- “cuirass; armor; varman \[word\]; protective covering; Varman;
+    varman.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], ablative, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *enaso* \< *enasaḥ* \< *enas*
+- \[noun\], ablative, singular, neuter
+- “sin; calamity; blame.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *arbhād* \< *arbhāt* \< *arbha*
+- \[noun\], ablative, singular, neuter
+- “few; small; unimportant.”
+------------------------------------------------------------------------
+- *uruṣyatānehaso* \< *uruṣyata* \< *uruṣy*
+- \[verb\], plural, Present imperative
+- “protect; help.”
+------------------------------------------------------------------------
+- *uruṣyatānehaso* \< *anehasaḥ* \< *anehas*
+- \[noun\], nominative, plural, feminine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *suūtayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

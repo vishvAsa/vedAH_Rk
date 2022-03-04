@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.5.39"
+
++++
+-   *mākir*
+- \[adverb\]
+------------------------------------------------------------------------
+- *enā* \< *idam*
+- \[noun\], instrumental, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pathā* \< *pathin*
+- \[noun\], instrumental, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *gād* \< *gāt* \< *gā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *yeneme* \< *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yeneme* \< *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *cedayaḥ* \< *cedi*
+- \[noun\], nominative, plural, masculine
+- “Cedi.”
+------------------------------------------------------------------------
+- *anyo* \< *anyaḥ* \< *anya*
+- \[noun\], nominative, singular, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *net* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *net* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *sūrir* \< *sūriḥ* \< *sūri*
+- \[noun\], nominative, singular, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *ohate* \< *ūh*
+- \[verb\], singular, Present indikative
+- “diagnose.”
+------------------------------------------------------------------------
+- *bhūridāvattaro* \< *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūridāvattaro* \< *dāvattaraḥ* \< *dāvattara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *janaḥ* \< *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------

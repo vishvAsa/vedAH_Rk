@@ -1,0 +1,52 @@
++++
+title = "Rig Veda 8.92.1"
+
++++
+-   *pāntam* \< *pānta*
+- \[noun\], accusative, singular, masculine
+- “drink; beverage.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *andhasa* \< *andhasaḥ* \< *andhas*
+- \[noun\], genitive, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *gāyata* \< *gā*
+- \[verb\], plural, Present imperative
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *viśvāsāhaṃ* \< *viśvāsāham* \< *viśvāsah*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *śatakratum* \< *śatakratu*
+- \[noun\], accusative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *maṃhiṣṭhaṃ* \< *maṃhiṣṭham* \< *maṃhiṣṭha*
+- \[noun\], accusative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *carṣaṇīnām* \< *carṣaṇi*
+- \[noun\], genitive, plural, feminine
+- “people.”
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.60.8"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *martāya* \< *marta*
+- \[noun\], dative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *ripave* \< *ripu*
+- \[noun\], dative, singular, masculine
+- “punic; deceitful; unfriendly.”
+------------------------------------------------------------------------
+- *rakṣasvine* \< *rakṣasvin*
+- \[noun\], dative, singular, masculine
+- “malevolent; demoniac; obsessed.”
+------------------------------------------------------------------------
+- *māghaśaṃsāya* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māghaśaṃsāya* \< *agha*
+- \[noun\]
+- “bad; dangerous; ill; iniquitous; bad.”
+------------------------------------------------------------------------
+- *māghaśaṃsāya* \< *śaṃsāya* \< *śaṃsa*
+- \[noun\], dative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *rīradhaḥ* \< *radh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “subjugate.”
+------------------------------------------------------------------------
+- *asredhadbhis* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asredhadbhis* \< *sredhadbhiḥ* \< *sridh*
+- \[verb noun\], instrumental, plural
+------------------------------------------------------------------------
+- *taraṇibhir* \< *taraṇibhiḥ* \< *taraṇi*
+- \[noun\], instrumental, plural, masculine
+- “energetic; agile.”
+------------------------------------------------------------------------
+- *yaviṣṭhya*
+- \[noun\], vocative, singular, masculine
+- “youngest.”
+------------------------------------------------------------------------
+- *śivebhiḥ* \< *śiva*
+- \[noun\], instrumental, plural, masculine
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *pāyubhiḥ* \< *pāyu*
+- \[noun\], instrumental, plural, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------

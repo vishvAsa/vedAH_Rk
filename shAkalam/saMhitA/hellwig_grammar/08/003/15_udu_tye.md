@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 8.3.15"
+
++++
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tye* \< *tya*
+- \[noun\], nominative, plural, masculine
+- “that.”
+------------------------------------------------------------------------
+- *madhumattamā* \< *madhumattamāḥ* \< *madhumattama*
+- \[noun\], nominative, plural, masculine
+- “sweetest.”
+------------------------------------------------------------------------
+- *gira* \< *giraḥ* \< *gir*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *stomāsa* \< *stomāsaḥ* \< *stoma*
+- \[noun\], nominative, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *īrate* \< *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *satrājito* \< *satrājitaḥ* \< *satrājit*
+- \[noun\], nominative, plural, masculine
+- “Satrājit.”
+------------------------------------------------------------------------
+- *dhanasā* \< *dhanasāḥ* \< *dhanasā*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *akṣitotayo* \< *akṣita*
+- \[noun\]
+- “undecaying; uninjured.”
+------------------------------------------------------------------------
+- *akṣitotayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, masculine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *vājayanto* \< *vājayantaḥ* \< *vājay* \< *√vaj*
+- \[verb noun\], nominative, plural
+- “incite.”
+------------------------------------------------------------------------
+- *rathā* \< *rathāḥ* \< *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------

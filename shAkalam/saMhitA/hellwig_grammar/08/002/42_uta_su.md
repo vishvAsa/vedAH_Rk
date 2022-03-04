@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 8.2.42"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *tye* \< *tya*
+- \[noun\], accusative, dual, feminine
+- “that.”
+------------------------------------------------------------------------
+- *payovṛdhā* \< *payaḥ* \< *payas*
+- \[noun\], neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payovṛdhā* \< *vṛdhā* \< *vṛdh*
+- \[noun\], accusative, dual, feminine
+- “increasing.”
+------------------------------------------------------------------------
+- *mākī* \< *mākir*
+- \[adverb\]
+------------------------------------------------------------------------
+- *raṇasya* \< *raṇa*
+- \[noun\], genitive, singular, masculine
+- “battle; fight; pleasure; joy; war; combat.”
+------------------------------------------------------------------------
+- *naptyā* \< *naptī*
+- \[noun\], ablative, dual, feminine
+- “daughter; granddaughter.”
+------------------------------------------------------------------------
+- *janitvanāya* \< *janitvana*
+- \[noun\], dative, singular, neuter
+- “marriage.”
+------------------------------------------------------------------------
+- *māmahe* \< *mah*
+- \[verb\], singular, Perfect indicative
+- “give; accord.”
+------------------------------------------------------------------------

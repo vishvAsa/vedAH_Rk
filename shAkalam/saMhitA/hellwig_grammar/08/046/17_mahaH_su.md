@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 8.46.17"
+
++++
+-   *mahaḥ* \< *mah*
+- \[noun\], accusative, plural, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *aram*
+- \[adverb\]
+------------------------------------------------------------------------
+- *iṣe* \< *iṣ*
+- \[noun\], dative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *stavāmahe* \< *stu*
+- \[verb\], plural, Present indikative
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *mīﾱhuṣe* \< *mīḍhuṣe* \< *mīḍhvas*
+- \[noun\], dative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *araṅgamāya* \< *araṃgama*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *jagmaye* \< *jagmi*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *yajñebhir* \< *yajñebhiḥ* \< *yajña*
+- \[noun\], instrumental, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- \[noun\], instrumental, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *viśvamanuṣām* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvamanuṣām* \< *manuṣām* \< *manus*
+- \[noun\], genitive, plural, masculine
+- “Manu; man.”
+------------------------------------------------------------------------
+- *marutām* \< *marut*
+- \[noun\], genitive, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *iyakṣasi* \< *iyakṣ* \< *√yaj*
+- \[verb\], singular, Present indikative
+- “endeavor.”
+------------------------------------------------------------------------
+- *gāye* \< *gā*
+- \[verb\], singular, Present indikative
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *girā* \< *gir*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------

@@ -1,0 +1,100 @@
++++
+title = "Rig Veda 8.47.7"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tigmaṃ* \< *tigmam* \< *tigma*
+- \[noun\], nominative, singular, neuter
+- “sharp; pointed; fiery.”
+------------------------------------------------------------------------
+- *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *tyajo* \< *tyajaḥ* \< *tyajas*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *drāsad* \< *drāsat* \< *drā*
+- \[verb\], singular, Aorist conj./subj.
+- “run; run.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *guru*
+- \[noun\], nominative, singular, neuter
+- “heavy; guru; heavy; heavy; long; guru \[word\]; difficult;
+    vehement; full; impressive; serious.”
+------------------------------------------------------------------------
+- *yasmā* \< *yasmai* \< *yad*
+- \[noun\], dative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *sapratha* \< *saprathaḥ* \< *saprathas*
+- \[noun\], accusative, singular, neuter
+- “extensive; wide; extended.”
+------------------------------------------------------------------------
+- *ādityāso* \< *ādityāsaḥ* \< *āditya*
+- \[noun\], vocative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *arādhvam* \< *rā*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “give; impart.”
+------------------------------------------------------------------------
+- *anehaso* \< *anehasaḥ* \< *anehas*
+- \[noun\], nominative, plural, feminine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *suūtayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

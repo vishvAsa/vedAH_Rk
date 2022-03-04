@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 8.2.33"
+
++++
+-   *yasmin* \< *yad*
+- \[noun\], locative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viśvāś* \< *viśvāḥ* \< *viśva*
+- \[noun\], nominative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *carṣaṇaya* \< *carṣaṇayaḥ* \< *carṣaṇi*
+- \[noun\], nominative, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *cyautnā* \< *cyautna*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *jrayāṃsi* \< *jrayas*
+- \[noun\], nominative, plural, neuter
+- “expanse; area.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *ghen* \< *gha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ghen* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *mandī* \< *mandin*
+- \[noun\], nominative, singular, masculine
+- “intoxicant; exhilarating.”
+------------------------------------------------------------------------
+- *maghonaḥ* \< *maghavan*
+- \[noun\], accusative, plural, masculine
+- “big.”
+------------------------------------------------------------------------

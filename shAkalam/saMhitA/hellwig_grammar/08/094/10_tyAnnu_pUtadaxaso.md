@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 8.94.10"
+
++++
+-   *tyān* \< *tya*
+- \[noun\], accusative, plural, masculine
+- “that.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *pūtadakṣaso* \< *pūta* \< *pū*
+- \[verb noun\]
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pūtadakṣaso* \< *dakṣasaḥ* \< *dakṣas*
+- \[noun\], accusative, plural, masculine
+- “intelligent.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pītaye* \< *pā*
+- \[verb noun\]
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------

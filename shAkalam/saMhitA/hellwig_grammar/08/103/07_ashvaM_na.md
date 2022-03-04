@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 8.103.7"
+
++++
+-   *aśvaṃ* \< *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *gīrbhī* \< *gīrbhiḥ* \< *gir*
+- \[noun\], instrumental, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *rathyaṃ* \< *rathyam* \< *rathya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- \[noun\], nominative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *marmṛjyante* \< *marmṛj* \< *√mṛj*
+- \[verb\], plural, Present indikative
+- “groom; wash; rub.”
+------------------------------------------------------------------------
+- *devayavaḥ* \< *devayu*
+- \[noun\], nominative, plural, masculine
+- “devout; devoted.”
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], accusative, dual, neuter
+- “both(a).”
+------------------------------------------------------------------------
+- *toke* \< *toka*
+- \[noun\], accusative, dual, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *tanaye* \< *tanaya*
+- \[noun\], accusative, dual, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *dasma*
+- \[noun\], vocative, singular, masculine
+- “overlord.”
+------------------------------------------------------------------------
+- *viśpate* \< *viśpati*
+- \[noun\], vocative, singular, masculine
+- “overlord; head.”
+------------------------------------------------------------------------
+- *parṣi* \< *pṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *maghonām* \< *maghavan*
+- \[noun\], genitive, plural, masculine
+- “big.”
+------------------------------------------------------------------------

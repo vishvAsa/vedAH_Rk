@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 8.2.2"
+
++++
+-   *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *dhūtaḥ* \< *dhū*
+- \[verb noun\], nominative, singular
+- “shake; remove; chase away.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *aśnair* \< *aśnaiḥ* \< *aśna*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *avyo* \< *avyaḥ* \< *avya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vāraiḥ* \< *vāra*
+- \[noun\], instrumental, plural, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *paripūtaḥ* \< *paripū* \< *√pū*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *aśvo* \< *aśvaḥ* \< *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nikto* \< *niktaḥ* \< *nij*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *nadīṣu* \< *nadī*
+- \[noun\], locative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------

@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 8.2.13"
+
++++
+-   *revāṃ* \< *revat*
+- \[noun\], nominative, singular, masculine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *revata* \< *revataḥ* \< *revat*
+- \[noun\], genitive, singular, masculine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *stotā* \< *stotṛ*
+- \[noun\], nominative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *syāt* \< *as*
+- \[verb\], singular, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *tvāvato* \< *tvāvataḥ* \< *tvāvat*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *maghonaḥ* \< *maghavan*
+- \[noun\], genitive, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *pred* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pred* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *harivaḥ* \< *harivas* \< *harivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *śrutasya* \< *śru*
+- \[verb noun\], genitive, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------

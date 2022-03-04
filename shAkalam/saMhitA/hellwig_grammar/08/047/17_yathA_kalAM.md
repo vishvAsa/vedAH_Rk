@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 8.47.17"
+
++++
+-   *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *kalāṃ* \< *kalām* \< *kalā*
+- \[noun\], accusative, singular, feminine
+- “one-sixteenth; Kalā; kalā; sixteen; art; Kalā; manaḥśilā; part.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *śaphaṃ* \< *śapham* \< *śapha*
+- \[noun\], accusative, singular, masculine
+- “one-eighth; śapha \[word\].”
+------------------------------------------------------------------------
+- *yatha* \< *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *ṛṇaṃ* \< *ṛṇam* \< *ṛṇa*
+- \[noun\], accusative, singular, neuter
+- “debt; debt; ṛṇa \[word\].”
+------------------------------------------------------------------------
+- *saṃnayāmasi* \< *saṃnī* \< *√nī*
+- \[verb\], plural, Present indikative
+- “get.”
+------------------------------------------------------------------------
+- *evā* \< *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *duṣṣvapnyaṃ* \< *duṣṣvapnyam* \< *duḥṣvapnya*
+- \[noun\], accusative, singular, neuter
+- “nightmare.”
+------------------------------------------------------------------------
+- *sarvam* \< *sarva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *āptye* \< *āptya*
+- \[noun\], locative, singular, masculine
+- “Āptya; Trita.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *nayāmasy* \< *nayāmasi* \< *nī*
+- \[verb\], plural, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *anehaso* \< *anehasaḥ* \< *anehas*
+- \[noun\], nominative, plural, feminine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *suūtayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------

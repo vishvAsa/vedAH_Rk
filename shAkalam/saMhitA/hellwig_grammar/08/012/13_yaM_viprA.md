@@ -1,0 +1,49 @@
++++
+title = "Rig Veda 8.12.13"
+
++++
+-   *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viprā* \< *viprāḥ* \< *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *ukthavāhaso* \< *uktha*
+- \[noun\], neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ukthavāhaso* \< *vāhasaḥ* \< *vāhas*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *'bhipramandur* \< *abhipramanduḥ* \< *abhipramand* \< *√mand*
+- \[verb\], plural, Aorist inj. (proh.)
+------------------------------------------------------------------------
+- *āyavaḥ* \< *āyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- \[noun\], nominative, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pipya* \< *pipye* \< *pyā*
+- \[verb\], singular, Perfect indicative
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *āsany* \< *āsani* \< *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------

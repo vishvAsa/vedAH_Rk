@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 9.12.3"
+
++++
+-   *madacyut*
+- \[noun\], nominative, singular, feminine
+- “proud.”
+------------------------------------------------------------------------
+- *kṣeti* \< *kṣi*
+- \[verb\], singular, Present indikative
+- “govern; inhabit; dwell; stay; predominate; bide; own.”
+------------------------------------------------------------------------
+- *sādane* \< *sādana*
+- \[noun\], locative, singular, neuter
+- “home; dwelling; seat.”
+------------------------------------------------------------------------
+- *sindhor* \< *sindhoḥ* \< *sindhu*
+- \[noun\], genitive, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *ūrmā* \< *ūrmi*
+- \[noun\], locative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *vipaścit*
+- \[noun\], nominative, singular, masculine
+- “wise; expert.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *gaurī* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *śritaḥ* \< *śri*
+- \[verb noun\], nominative, singular
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------

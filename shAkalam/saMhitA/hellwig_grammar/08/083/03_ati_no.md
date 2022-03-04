@@ -1,0 +1,47 @@
++++
+title = "Rig Veda 8.83.3"
+
++++
+-   *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viṣpitā* \< *viṣpita*
+- \[noun\], accusative, plural, neuter
+- “difficulty.”
+------------------------------------------------------------------------
+- *puru*
+- \[noun\], accusative, singular, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *naubhir* \< *naubhiḥ* \< *nau*
+- \[noun\], instrumental, plural, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *apo* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *parṣatha* \< *pṛ*
+- \[verb\], plural, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *rathyaḥ* \< *rathī*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

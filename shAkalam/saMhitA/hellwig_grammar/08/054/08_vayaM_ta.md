@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 8.54.8"
+
++++
+-   *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *vidhema* \< *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asmākaṃ* \< *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śatakrato* \< *śatakratu*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *sthūraṃ* \< *sthūram* \< *sthūra*
+- \[noun\], accusative, singular, neuter
+- “large; portly; fleshy.”
+------------------------------------------------------------------------
+- *śaśayaṃ* \< *śaśayam* \< *śaśaya*
+- \[noun\], accusative, singular, neuter
+- “abundant.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *ahrayam* \< *ahraya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *praskaṇvāya* \< *praskaṇva*
+- \[noun\], dative, singular, masculine
+- “Praskaṇva.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *tośaya* \< *tośay* \< *√tuś*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------

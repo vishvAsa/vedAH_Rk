@@ -1,0 +1,54 @@
++++
+title = "Rig Veda 8.45.5"
+
++++
+-   *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śavasī*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *vadad* \< *vadat* \< *vad*
+- \[verb\], singular, Present injunctive
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *girāv* \< *girau* \< *giri*
+- \[noun\], locative, singular, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *apso* \< *apsaḥ* \< *apsas*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yodhiṣat* \< *yudh*
+- \[verb\], singular, Aorist conj./subj.
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *yas* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *śatrutvam* \< *śatru*
+- \[noun\], masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *śatrutvam* \< *tvam* \< *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *ācake* \< *ākan* \< *√kan*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
