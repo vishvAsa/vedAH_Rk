@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 10.92.5"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *rudreṇa* \< *rudra*
+- \[noun\], instrumental, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *yayinā* \< *yayin*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *sindhavas* \< *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *tiro* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *mahīm* \< *mah*
+- \[noun\], accusative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *aramatiṃ* \< *aramatim* \< *aramati*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *dadhanvire* \< *dhanv*
+- \[verb\], plural, Perfect indicative
+- “run.”
+------------------------------------------------------------------------
+- *yebhiḥ* \< *yad*
+- \[noun\], instrumental, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *parijmā* \< *parijman*
+- \[noun\], nominative, singular, masculine
+- “encompassing(a).”
+------------------------------------------------------------------------
+- *pariyann* \< *pariyan* \< *parī* \< *√i*
+- \[verb noun\], nominative, singular
+- “circumambulate; wander; revolve; overwhelm.”
+------------------------------------------------------------------------
+- *uru*
+- \[noun\], accusative, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *jrayo* \< *jrayaḥ* \< *jrayas*
+- \[noun\], accusative, singular, neuter
+- “expanse; area.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *roruvaj* \< *roruvat* \< *roro* \< *√ru*
+- \[verb noun\], nominative, singular
+- “bellow.”
+------------------------------------------------------------------------
+- *jaṭhare* \< *jaṭhara*
+- \[noun\], locative, singular, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *viśvam* \< *viśva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ukṣate* \< *ukṣ*
+- \[verb\], singular, Present indikative
+- “sprinkle; wet.”
+------------------------------------------------------------------------

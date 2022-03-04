@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 10.122.5"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dūtaḥ* \< *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *prathamo* \< *prathamaḥ* \< *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *vareṇyaḥ* \< *vareṇya*
+- \[noun\], nominative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *hūyamāno* \< *hūyamānaḥ* \< *hu*
+- \[verb noun\], nominative, singular
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *amṛtāya* \< *amṛta*
+- \[noun\], dative, singular, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *matsva* \< *mad*
+- \[verb\], singular, Aorist imperative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *marjayan* \< *marjay* \< *√mṛj*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *gṛhe* \< *gṛha*
+- \[noun\], locative, singular, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *tvāṃ* \< *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- \[noun\], nominative, plural, masculine
+- “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *rurucuḥ* \< *ruc*
+- \[verb\], plural, Perfect indicative
+- “please; shine.”
+------------------------------------------------------------------------

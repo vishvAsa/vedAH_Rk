@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 10.59.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tāry* \< *tāri* \< *tṛ*
+- \[verb\], singular, Aorist passive
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *āyuḥ* \< *āyus*
+- \[noun\], nominative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *prataraṃ* \< *prataram*
+- \[adverb\]
+- “farther.”
+------------------------------------------------------------------------
+- *navīya* \< *navīyas*
+- \[noun\], nominative, singular, neuter
+- “new; fresh; up-to-the-minute.”
+------------------------------------------------------------------------
+- *sthātāreva* \< *sthātārā* \< *sthātṛ*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *sthātāreva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *kratumatā* \< *kratumat*
+- \[noun\], instrumental, singular, masculine
+- “prudent; resolute.”
+------------------------------------------------------------------------
+- *rathasya* \< *ratha*
+- \[noun\], genitive, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *cyavāna* \< *cyavānaḥ* \< *cyavāna*
+- \[noun\], nominative, singular, masculine
+- “Cyavana.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *tavīty* \< *tavīti* \< *tu*
+- \[verb\], singular, Present indikative
+- “strengthen.”
+------------------------------------------------------------------------
+- *artham* \< *artha*
+- \[noun\], accusative, singular, masculine
+- “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
+    money; message; object; artha \[word\]; wealth; function; content;
+    topic; property; situation; reason; affair; concern; reason;
+    enterprise; reason; cause; five; application; application.”
+------------------------------------------------------------------------
+- *parātaraṃ* \< *parātaram*
+- \[adverb\]
+- “farther.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *nirṛtir* \< *nirṛtiḥ* \< *nirṛti*
+- \[noun\], nominative, singular, feminine
+- “destruction; Nirṛti; adversity.”
+------------------------------------------------------------------------
+- *jihītām* \< *hā*
+- \[verb\], singular, Present imperative
+- “move over; yield; give way.”
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 10.106.8"
+
++++
+-   *gharmeva* \< *gharmā* \< *gharma*
+- \[noun\], nominative, dual, masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+------------------------------------------------------------------------
+- *gharmeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *jaṭhare* \< *jaṭhara*
+- \[noun\], locative, singular, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *sanerū* \< *saneru*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *bhagevitā* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *turpharī* \< *turphari*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *phārivāram* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *patareva* \< *patarā* \< *patara*
+- \[noun\], nominative, dual, masculine
+- “winged.”
+------------------------------------------------------------------------
+- *patareva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *cacarā* \< *cacara*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *candranirṇiṅ* \< *candra*
+- \[noun\], masculine
+- “moon; silver; Candra; camphor; candrikā; Candra; candra \[word\];
+    vajra; left nostril; one.”
+------------------------------------------------------------------------
+- *candranirṇiṅ* \< *nirṇij*
+- \[noun\], nominative, singular, feminine
+- “attire; garment.”
+------------------------------------------------------------------------
+- *manaṛṅgā* \< *manaṛṅga*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *mananyā* \< *mananya*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jagmī* \< *jagmi*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------

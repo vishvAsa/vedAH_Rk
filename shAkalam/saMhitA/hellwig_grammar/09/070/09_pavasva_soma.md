@@ -1,0 +1,99 @@
++++
+title = "Rig Veda 9.70.9"
+
++++
+-   *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *devavītaye* \< *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītaye* \< *vītaye* \< *vīti*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *vṛṣendrasya* \< *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣendrasya* \< *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *hārdi*
+- \[noun\], accusative, singular, neuter
+- “heart.”
+------------------------------------------------------------------------
+- *somadhānam* \< *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somadhānam* \< *dhānam* \< *dhāna*
+- \[noun\], accusative, singular, neuter
+- “containing.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśa* \< *viś*
+- \[verb\], singular, Present imperative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *purā*
+- \[adverb\]
+- “once; earlier; first; purā \[indecl.\].”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bādhād* \< *bādhāt* \< *bādha*
+- \[noun\], ablative, singular, masculine
+- “danger.”
+------------------------------------------------------------------------
+- *duritāti* \< *duritā* \< *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *duritāti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *pāraya* \< *pāray* \< *√pṛ*
+- \[verb\], singular, Present imperative
+- “rescue; keep alive; satisfy; save; resist; endure.”
+------------------------------------------------------------------------
+- *kṣetraviddhi* \< *kṣetra*
+- \[noun\], neuter
+- “field; location; habitat; country; area; earth; region; estate;
+    body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
+------------------------------------------------------------------------
+- *kṣetraviddhi* \< *vid*
+- \[noun\], nominative, singular, masculine
+- “conversant(p); aware(p); enlightened; understanding.”
+------------------------------------------------------------------------
+- *kṣetraviddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *diśa* \< *diśaḥ* \< *diś*
+- \[noun\], accusative, plural, feminine
+- “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
+    distant region; Diś; four; example; method; space.”
+------------------------------------------------------------------------
+- *āhā* \< *āha* \< *ah*
+- \[verb\], singular, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *vipṛcchate* \< *vipracch* \< *√pracch*
+- \[verb noun\], dative, singular
+------------------------------------------------------------------------

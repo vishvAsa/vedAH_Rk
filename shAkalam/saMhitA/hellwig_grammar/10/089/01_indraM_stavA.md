@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 10.89.1"
+
++++
+-   *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *stavā* \< *stu*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *nṛtamaṃ* \< *nṛtamam* \< *nṛtama*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mahnā* \< *mahan*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+- *vibabādhe* \< *vibādh* \< *√bādh*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *rocanā* \< *rocana*
+- \[noun\], accusative, plural, neuter
+- “light; celestial sphere.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *jmo* \< *jmaḥ* \< *jm*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *antān* \< *anta*
+- \[noun\], accusative, plural, masculine
+- “end; last syllable; end; end; boundary; inside; border; death; anta
+    \[word\]; edge; end; shore; limit; region; outskirt; destruction;
+    boundary; limit; anta; termination; corner; conclusion; hem; end;
+    ant; edge.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *paprau* \< *prā*
+- \[verb\], singular, Perfect indicative
+- “fill; satisfy.”
+------------------------------------------------------------------------
+- *carṣaṇīdhṛd* \< *carṣaṇī*
+- \[noun\], feminine
+------------------------------------------------------------------------
+- *carṣaṇīdhṛd* \< *dhṛt*
+- \[noun\], nominative, singular, masculine
+- “maintaining.”
+------------------------------------------------------------------------
+- *varobhiḥ* \< *varas*
+- \[noun\], instrumental, plural, neuter
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sindhubhyo* \< *sindhubhyaḥ* \< *sindhu*
+- \[noun\], ablative, plural, feminine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *riricāno* \< *riricānaḥ* \< *ric*
+- \[verb noun\], nominative, singular
+- “empty; liberate; concede; surrender; purge.”
+------------------------------------------------------------------------
+- *mahitvā* \< *mahitva*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------

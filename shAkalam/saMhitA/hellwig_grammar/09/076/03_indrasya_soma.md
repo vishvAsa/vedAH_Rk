@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 9.76.3"
+
++++
+-   *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavamāna* \< *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *ūrmiṇā* \< *ūrmi*
+- \[noun\], instrumental, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *taviṣyamāṇo* \< *taviṣyamāṇaḥ* \< *taviṣy*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *jaṭhareṣv* \< *jaṭhareṣu* \< *jaṭhara*
+- \[noun\], locative, plural, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśa* \< *viś*
+- \[verb\], singular, Present imperative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ṇaḥ* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pinva* \< *pinv*
+- \[verb\], singular, Present imperative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *vidyud* \< *vidyut*
+- \[noun\], nominative, singular, feminine
+- “lightning; Vidyut; thunderbolt.”
+------------------------------------------------------------------------
+- *abhreva* \< *abhrā* \< *abhra*
+- \[noun\], accusative, plural, neuter
+- “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
+    cloudiness.”
+------------------------------------------------------------------------
+- *abhreva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *dhiyā* \< *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vājāṃ* \< *vāja*
+- \[noun\], accusative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *māsi* \< *mā*
+- \[verb\], singular, Present indikative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *śaśvataḥ* \< *śaśvat*
+- \[noun\], accusative, plural, masculine
+- “all(a); each(a).”
+------------------------------------------------------------------------

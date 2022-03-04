@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.83.1"
+
++++
+-   *yas* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *manyo* \< *manyu*
+- \[noun\], vocative, singular, masculine
+- “anger; fury; rage; wrath.”
+------------------------------------------------------------------------
+- *'vidhad* \< *avidhat* \< *vidh*
+- \[verb\], singular, Imperfect
+- “worship; offer.”
+------------------------------------------------------------------------
+- *vajra*
+- \[noun\], vocative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *sāyaka*
+- \[noun\], vocative, singular, masculine
+- “arrow; munj.”
+------------------------------------------------------------------------
+- *saha* \< *sahaḥ* \< *sahas*
+- \[noun\], accusative, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *ojaḥ* \< *ojas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *puṣyati* \< *puṣ*
+- \[verb\], singular, Present indikative
+- “boom; grow; promote; foster.”
+------------------------------------------------------------------------
+- *viśvam* \< *viśva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ānuṣak*
+- \[adverb\]
+- “correctly; in sequence; punctually.”
+------------------------------------------------------------------------
+- *sāhyāma* \< *sah*
+- \[verb\], plural, Aorist optative
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *dāsam* \< *dāsa*
+- \[noun\], accusative, singular, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *āryaṃ* \< *āryam* \< *ārya*
+- \[noun\], accusative, singular, masculine
+- “Ārya; Ārya.”
+------------------------------------------------------------------------
+- *tvayā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *yujā* \< *yuj*
+- \[noun\], instrumental, singular, masculine
+- “ally; friend; pair; two; companion.”
+------------------------------------------------------------------------
+- *sahaskṛtena* \< *sahaskṛta*
+- \[noun\], instrumental, singular, masculine
+- “increased; aroused.”
+------------------------------------------------------------------------
+- *sahasā* \< *sahas*
+- \[noun\], instrumental, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sahasvatā* \< *sahasvat*
+- \[noun\], instrumental, singular, masculine
+- “mighty; powerful.”
+------------------------------------------------------------------------

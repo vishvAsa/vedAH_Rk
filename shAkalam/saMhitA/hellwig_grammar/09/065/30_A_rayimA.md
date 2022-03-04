@@ -1,0 +1,52 @@
++++
+title = "Rig Veda 9.65.30"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sucetunam* \< *sucetuna*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sukrato* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukrato* \< *krato* \< *kratu*
+- \[noun\], vocative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *tanūṣv* \< *tanūṣu* \< *tanū*
+- \[noun\], locative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pāntam* \< *pānta*
+- \[noun\], accusative, singular, masculine
+- “drink; beverage.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *puruspṛham* \< *puruspṛh*
+- \[noun\], accusative, singular, masculine
+- “coveted; desirous.”
+------------------------------------------------------------------------

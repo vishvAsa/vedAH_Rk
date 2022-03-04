@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 9.95.3"
+
++++
+-   *apām* \< *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *ived* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ived* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ūrmayas* \< *ūrmayaḥ* \< *ūrmi*
+- \[noun\], nominative, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *tarturāṇāḥ* \< *tartar* \< *√tṛ*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *manīṣā* \< *manīṣāḥ* \< *manīṣā*
+- \[noun\], nominative, plural, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *īrate* \< *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *accha* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *namasyantīr* \< *namasyantīḥ* \< *namasy*
+- \[verb noun\], nominative, plural
+- “worship; respect.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *cā* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cā* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *viśanty* \< *viśanti* \< *viś*
+- \[verb\], plural, Present indikative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *uśatīr* \< *uśatīḥ* \< *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *uśantam* \< *vaś*
+- \[verb noun\], accusative, singular
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------

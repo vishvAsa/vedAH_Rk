@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 9.80.4"
+
++++
+-   *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *devebhyo* \< *devebhyaḥ* \< *deva*
+- \[noun\], dative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *madhumattamaṃ* \< *madhumattamam* \< *madhumattama*
+- \[noun\], accusative, singular, masculine
+- “sweetest.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *sahasradhāraṃ* \< *sahasra*
+- \[noun\], masculine
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasradhāraṃ* \< *dhāram* \< *dhārā*
+- \[noun\], accusative, singular, masculine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *duhate* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *daśa* \< *daśan*
+- \[noun\], nominative, plural, feminine
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *kṣipaḥ* \< *kṣip*
+- \[noun\], nominative, plural, feminine
+- “finger.”
+------------------------------------------------------------------------
+- *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pracyuto* \< *pracyutaḥ* \< *pracyu* \< *√cyu*
+- \[verb noun\], nominative, singular
+- “fall down.”
+------------------------------------------------------------------------
+- *grāvabhiḥ* \< *grāvan*
+- \[noun\], instrumental, plural, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *viśvān* \< *viśva*
+- \[noun\], accusative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *devāṃ* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pavasvā* \< *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *sahasrajit* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrajit* \< *jit*
+- \[noun\], vocative, singular, masculine
+- “curative; removing; victorious; winning.”
+------------------------------------------------------------------------

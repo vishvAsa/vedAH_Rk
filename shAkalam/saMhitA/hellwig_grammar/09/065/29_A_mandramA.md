@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 9.65.29"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *mandram* \< *mandra*
+- \[noun\], accusative, singular, masculine
+- “pleasant; eloquent; dulcet.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vareṇyam* \< *vareṇya*
+- \[noun\], accusative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vipram* \< *vipra*
+- \[noun\], accusative, singular, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *manīṣiṇam* \< *manīṣin*
+- \[noun\], accusative, singular, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+- *pāntam* \< *pānta*
+- \[noun\], accusative, singular, masculine
+- “drink; beverage.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *puruspṛham* \< *puruspṛh*
+- \[noun\], accusative, singular, masculine
+- “coveted; desirous.”
+------------------------------------------------------------------------

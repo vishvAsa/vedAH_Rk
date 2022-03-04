@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 9.86.18"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *saṃyatam* \< *saṃyat*
+- \[noun\], accusative, singular, feminine
+- “continuous.”
+------------------------------------------------------------------------
+- *pipyuṣīm* \< *pyā*
+- \[verb noun\], accusative, singular
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pavamāno* \< *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *asridham* \< *asridh*
+- \[noun\], accusative, singular, feminine
+- “unfailing.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dohate* \< *duh*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “milk.”
+------------------------------------------------------------------------
+- *trir* \< *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *ahann* \< *ahan* \< *ahar*
+- \[noun\], locative, singular, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *asaścuṣī* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asaścuṣī* \< *saścuṣī* \< *sac*
+- \[verb noun\], nominative, singular
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *kṣumad* \< *kṣumat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *vājavan* \< *vājavat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *madhumat*
+- \[noun\], accusative, singular, neuter
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *suvīryam* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīryam* \< *vīryam* \< *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------

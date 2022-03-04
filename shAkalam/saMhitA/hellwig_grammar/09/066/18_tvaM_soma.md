@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 9.66.18"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sūra* \< *sūraḥ* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *eṣas* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *eṣas* \< *iṣaḥ* \< *iṣ*
+- \[noun\], genitive, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *tokasya* \< *toka*
+- \[noun\], genitive, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *sātā* \< *sāti*
+- \[noun\], locative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *tanūnām* \< *tanu*
+- \[noun\], genitive, plural, feminine
+- “body; embodiment; life; life; root; body; form.”
+------------------------------------------------------------------------
+- *vṛṇīmahe* \< *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *sakhyāya* \< *sakhya*
+- \[noun\], dative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *vṛṇīmahe* \< *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *yujyāya* \< *yujya*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------

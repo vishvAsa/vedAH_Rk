@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 10.143.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *sumnaiḥ* \< *sumna*
+- \[noun\], instrumental, plural, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *śaṃyū* \< *śaṃyu*
+- \[noun\], nominative, dual, masculine
+- “beneficent.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *maṃhiṣṭhā* \< *maṃhiṣṭhāḥ* \< *maṃhiṣṭha*
+- \[noun\], vocative, dual, masculine
+- “big.”
+------------------------------------------------------------------------
+- *viśvavedasā* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavedasā* \< *vedasā* \< *vedas*
+- \[noun\], vocative, dual, masculine
+- “knowledge.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bhūṣataṃ* \< *bhūṣatam* \< *bhūṣ*
+- \[verb\], dual, Present imperative
+- “endeavor; attend; strive.”
+------------------------------------------------------------------------
+- *narotsaṃ* \< *narā* \< *nara*
+- \[noun\], vocative, dual, masculine
+- “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
+    servant; hero.”
+------------------------------------------------------------------------
+- *narotsaṃ* \< *utsam* \< *utsa*
+- \[noun\], accusative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pipyuṣīr* \< *pipyuṣīḥ* \< *pyā*
+- \[verb noun\], accusative, plural
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------

@@ -1,0 +1,52 @@
++++
+title = "Rig Veda 10.186.1"
+
++++
+-   *vāta* \< *vātaḥ* \< *vāta*
+- \[noun\], nominative, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vātu* \< *vā*
+- \[verb\], singular, Present imperative
+- “blow; blow; emit.”
+------------------------------------------------------------------------
+- *bheṣajaṃ* \< *bheṣajam* \< *bheṣaja*
+- \[noun\], accusative, singular, neuter
+- “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
+------------------------------------------------------------------------
+- *śambhu*
+- \[noun\], accusative, singular, neuter
+- “kind; benevolent.”
+------------------------------------------------------------------------
+- *mayobhu*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hṛde* \< *hṛd*
+- \[noun\], dative, singular, neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ṇa* \< *ṇaḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *āyūṃṣi* \< *āyus*
+- \[noun\], accusative, plural, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *tāriṣat* \< *tṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------

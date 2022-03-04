@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 10.117.8"
+
++++
+-   *ekapād*
+- \[noun\], nominative, singular, masculine
+- “Shiva.”
+------------------------------------------------------------------------
+- *bhūyo* \< *bhūyas*
+- \[adverb\]
+- “again; further; further; repeatedly.”
+------------------------------------------------------------------------
+- *dvipado* \< *dvipadaḥ* \< *dvipad*
+- \[noun\], ablative, singular, masculine
+- “biped.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *cakrame* \< *kram*
+- \[verb\], singular, Perfect indicative
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *dvipāt* \< *dvipād*
+- \[noun\], nominative, singular, masculine
+- “biped; Vishnu.”
+------------------------------------------------------------------------
+- *tripādam* \< *tripād*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *paścāt*
+- \[adverb\]
+- “subsequently; westward; paścāt \[word\]; after; back.”
+------------------------------------------------------------------------
+- *catuṣpād*
+- \[noun\], nominative, singular, masculine
+- “quadruped.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *dvipadām* \< *dvipad*
+- \[noun\], genitive, plural, masculine
+- “biped.”
+------------------------------------------------------------------------
+- *abhisvare* \< *abhisvara*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *sampaśyan* \< *saṃdṛś* \< *√dṛś*
+- \[verb noun\], nominative, singular
+- “see; look; consider.”
+------------------------------------------------------------------------
+- *paṅktīr* \< *paṅktīḥ* \< *paṅkti*
+- \[noun\], accusative, plural, feminine
+- “Paṅkti; group; paṅkti \[word\]; assembly.”
+------------------------------------------------------------------------
+- *upatiṣṭhamānaḥ* \< *upasthā* \< *√sthā*
+- \[verb noun\], nominative, singular
+- “approach; approach; worship; serve; originate; enter (a state);
+    entertain; arise; stand; happen; become.”
+------------------------------------------------------------------------

@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 9.97.46"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pavata* \< *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *somaś* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *camūṣu* \< *camū*
+- \[noun\], locative, plural, feminine
+- “army; camū; Camū.”
+------------------------------------------------------------------------
+- *dhīra* \< *dhīraḥ* \< *dhīra*
+- \[noun\], nominative, singular, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *uśate* \< *vaś*
+- \[verb noun\], dative, singular
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *tavasvān* \< *tavasvat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *svarcakṣā* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- \[noun\], nominative, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+- *rathiraḥ* \< *rathira*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *satyaśuṣmaḥ* \< *satya*
+- \[noun\]
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *satyaśuṣmaḥ* \< *śuṣmaḥ* \< *śuṣma*
+- \[noun\], nominative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *kāmo* \< *kāmaḥ* \< *kāma*
+- \[noun\], nominative, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devayatām* \< *devay*
+- \[verb noun\], genitive, plural
+- “solicit.”
+------------------------------------------------------------------------
+- *asarji* \< *sṛj*
+- \[verb\], singular, Aorist passive
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------

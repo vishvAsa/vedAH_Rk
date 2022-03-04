@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 9.87.7"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *suvānaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavitre* \< *pavitra*
+- \[noun\], locative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *sargo* \< *sargaḥ* \< *sarga*
+- \[noun\], nominative, singular, masculine
+- “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sṛṣṭo* \< *sṛṣṭaḥ* \< *sṛj*
+- \[verb noun\], nominative, singular
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *adadhāvad* \< *adadhāvat* \< *dhāv*
+- \[verb\], singular, Plusquamperfect
+- “run; run; wash.”
+------------------------------------------------------------------------
+- *arvā* \< *arvan*
+- \[noun\], nominative, singular, masculine
+- “horse; arvan \[word\]; racehorse.”
+------------------------------------------------------------------------
+- *tigme* \< *tigma*
+- \[noun\], accusative, dual, neuter
+- “sharp; pointed; fiery.”
+------------------------------------------------------------------------
+- *śiśāno* \< *śiśānaḥ* \< *śā*
+- \[verb noun\], nominative, singular
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- \[noun\], nominative, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śṛṅge* \< *śṛṅga*
+- \[noun\], accusative, dual, neuter
+- “peak; horn; tusk; śṛṅga \[word\].”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gavyann* \< *gavyan* \< *gavyat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *śūro* \< *śūraḥ* \< *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *satvā* \< *satvan*
+- \[noun\], nominative, singular, masculine
+- “warrior.”
+------------------------------------------------------------------------

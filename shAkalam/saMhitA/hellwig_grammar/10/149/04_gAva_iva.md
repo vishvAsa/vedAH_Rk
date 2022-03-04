@@ -1,0 +1,100 @@
++++
+title = "Rig Veda 10.149.4"
+
++++
+-   *gāva* \< *gāvaḥ* \< *go*
+- \[noun\], nominative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *grāmaṃ* \< *grāmam* \< *grāma*
+- \[noun\], accusative, singular, masculine
+- “village; grāma \[word\]; group; battalion; club; Hindu gamut;
+    troop; multitude; crowd; kin; collection; people.”
+------------------------------------------------------------------------
+- *yūyudhir* \< *yūyudhiḥ* \< *yūyudhi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ivāśvān* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivāśvān* \< *aśvān* \< *aśva*
+- \[noun\], accusative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *vāśreva* \< *vāśrā*
+- \[noun\], nominative, singular, feminine
+- “cow.”
+------------------------------------------------------------------------
+- *vāśreva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vatsaṃ* \< *vatsam* \< *vatsa*
+- \[noun\], accusative, singular, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
+- *sumanā* \< *sumanāḥ* \< *sumanas*
+- \[noun\], nominative, singular, feminine
+- “benevolent; cheerful; happy; satisfied.”
+------------------------------------------------------------------------
+- *duhānā* \< *duh*
+- \[verb noun\], nominative, singular
+- “milk.”
+------------------------------------------------------------------------
+- *patir* \< *patiḥ* \< *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *jāyām* \< *jāyā*
+- \[noun\], accusative, singular, feminine
+- “wife; jāyā \[word\].”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ny* \< *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *etu* \< *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *dhartā* \< *dhartṛ*
+- \[noun\], nominative, singular, masculine
+- “supporter.”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *viśvavāraḥ* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavāraḥ* \< *vāraḥ* \< *vāra*
+- \[noun\], nominative, singular, masculine
+- “treasure; choice.”
+------------------------------------------------------------------------

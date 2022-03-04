@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 10.39.1"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *parijmā* \< *parijman*
+- \[noun\], nominative, singular, masculine
+- “encompassing(a).”
+------------------------------------------------------------------------
+- *suvṛd* \< *suvṛt*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *doṣām* \< *doṣā*
+- \[noun\], accusative, singular, feminine
+- “night.”
+------------------------------------------------------------------------
+- *uṣāso* \< *uṣāsaḥ* \< *uṣa*
+- \[noun\], nominative, plural, masculine
+- “dawn.”
+------------------------------------------------------------------------
+- *havyo* \< *havyaḥ* \< *hvā*
+- \[verb noun\], nominative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *haviṣmatā* \< *haviṣmat*
+- \[noun\], instrumental, singular, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *śaśvattamāsas* \< *śaśvattamāsaḥ* \< *śaśvattama*
+- \[noun\], nominative, plural, masculine
+- “frequent.”
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *idaṃ* \< *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pitur* \< *pituḥ* \< *pitṛ*
+- \[noun\], genitive, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāma* \< *nāman*
+- \[noun\], accusative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *suhavaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhavaṃ* \< *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *havāmahe* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------

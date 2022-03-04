@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 9.69.8"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *vasumaddhiraṇyavad* \< *vasumat*
+- \[noun\], accusative, singular, neuter
+- “deluxe; affluent; rich.”
+------------------------------------------------------------------------
+- *vasumaddhiraṇyavad* \< *hiraṇyavat*
+- \[noun\], accusative, singular, neuter
+- “possessing gold.”
+------------------------------------------------------------------------
+- *aśvāvad* \< *aśvāvat*
+- \[noun\], accusative, singular, neuter
+- “rich in horses.”
+------------------------------------------------------------------------
+- *gomad* \< *gomat*
+- \[noun\], accusative, singular, neuter
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *yavamat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *suvīryam* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīryam* \< *vīryam* \< *vīrya*
+- \[noun\], accusative, singular, neuter
+- “potency; vīrya; heroism; potency; strength; semen; power; deed;
+    active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
+    virility; manfulness; jewel; force.”
+------------------------------------------------------------------------
+- *yūyaṃ* \< *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- \[noun\], nominative, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sthana* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *mūrdhānaḥ* \< *mūrdhan*
+- \[noun\], nominative, plural, masculine
+- “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
+------------------------------------------------------------------------
+- *prasthitā* \< *prasthitāḥ* \< *prasthā* \< *√sthā*
+- \[verb noun\], nominative, plural
+- “depart; give; depart; go; stay; proceed.”
+------------------------------------------------------------------------
+- *vayaskṛtaḥ* \< *vayaskṛt*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 10.40.4"
+
++++
+-   *yuvām* \< *tvad*
+- \[noun\], accusative, dual, masculine
+- “you.”
+------------------------------------------------------------------------
+- *mṛgeva* \< *mṛgā* \< *mṛga*
+- \[noun\], accusative, dual, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+------------------------------------------------------------------------
+- *mṛgeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vāraṇā* \< *vāraṇa*
+- \[noun\], accusative, dual, masculine
+- “elephant; elephant hook.”
+------------------------------------------------------------------------
+- *mṛgaṇyavo* \< *mṛgaṇyavaḥ* \< *mṛgaṇyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *doṣā*
+- \[adverb\]
+- “in the evening.”
+------------------------------------------------------------------------
+- *vastor* \< *vastoḥ* \< *vastu*
+- \[noun\], genitive, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *haviṣā* \< *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *hvayāmahe* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual, masculine
+- “you.”
+------------------------------------------------------------------------
+- *hotrām* \< *hotrā*
+- \[noun\], accusative, singular, feminine
+- “hotrā \[word\]; Hautra.”
+------------------------------------------------------------------------
+- *ṛtuthā*
+- \[adverb\]
+- “seasonably.”
+------------------------------------------------------------------------
+- *juhvate* \< *hu*
+- \[verb noun\], dative, singular
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *nareṣaṃ* \< *narā* \< *nṛ*
+- \[noun\], vocative, dual, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nareṣaṃ* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *janāya* \< *jana*
+- \[noun\], dative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *vahathaḥ* \< *vah*
+- \[verb\], dual, Present indikative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *śubhas* \< *śubhaḥ* \< *śubh*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *patī* \< *pati*
+- \[noun\], vocative, dual, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------

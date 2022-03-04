@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 10.64.9"
+
++++
+-   *sarasvatī*
+- \[noun\], nominative, singular, feminine
+- “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
+    vine; river.”
+------------------------------------------------------------------------
+- *sarayuḥ* \< *sarayu*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *sindhur* \< *sindhuḥ* \< *sindhu*
+- \[noun\], nominative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *ūrmibhir* \< *ūrmibhiḥ* \< *ūrmi*
+- \[noun\], instrumental, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mahas*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *mahīr* \< *mahīḥ* \< *mahi*
+- \[noun\], nominative, plural, feminine
+- “great; firm.”
+------------------------------------------------------------------------
+- *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vakṣaṇīḥ* \< *vakṣaṇa*
+- \[noun\], nominative, plural, feminine
+- “fortifying.”
+------------------------------------------------------------------------
+- *devīr* \< *devīḥ* \< *devī*
+- \[noun\], nominative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *āpo* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *mātaraḥ* \< *mātṛ*
+- \[noun\], nominative, plural, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *sūdayitnvo* \< *sūdayitnvaḥ* \< *sūdayitnu*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *ghṛtavat*
+- \[noun\], accusative, singular, neuter
+- “buttery.”
+------------------------------------------------------------------------
+- *payo* \< *payaḥ* \< *payas*
+- \[noun\], accusative, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *madhuman* \< *madhumat*
+- \[noun\], accusative, singular, neuter
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *arcata* \< *arc*
+- \[verb\], plural, Present imperative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------

@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 9.89.2"
+
++++
+-   *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *sindhūnām* \< *sindhu*
+- \[noun\], genitive, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *avasiṣṭa* \< *vas*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “wear.”
+------------------------------------------------------------------------
+- *vāsa* \< *vāsaḥ* \< *vāsas*
+- \[noun\], accusative, singular, neuter
+- “clothing; fabric; garment; feather; dress; envelope.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *nāvam* \< *nau*
+- \[noun\], accusative, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *āruhad* \< *āruhat* \< *āruh* \< *√ruh*
+- \[verb\], singular, Imperfect
+- “board; hop on; climb; ascend; descend; ride; copulate; grow.”
+------------------------------------------------------------------------
+- *rajiṣṭhām* \< *rajiṣṭha*
+- \[noun\], accusative, singular, feminine
+- “honest.”
+------------------------------------------------------------------------
+- *apsu* \< *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *drapso* \< *drapsaḥ* \< *drapsa*
+- \[noun\], nominative, singular, masculine
+- “drop; banner.”
+------------------------------------------------------------------------
+- *vāvṛdhe* \< *vṛdh*
+- \[verb\], singular, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *śyenajūto* \< *śyena*
+- \[noun\], masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *śyenajūto* \< *jūtaḥ* \< *jū*
+- \[verb noun\], nominative, singular
+- “animate; encourage; impel; inspire.”
+------------------------------------------------------------------------
+- *duha* \< *duhe* \< *duh*
+- \[verb\], singular, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *pitā* \< *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *duha* \< *duhe* \< *duh*
+- \[verb\], singular, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *pitur* \< *pituḥ* \< *pitṛ*
+- \[noun\], genitive, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *jām* \< *jā*
+- \[noun\], accusative, singular, feminine
+- “child; jā; being.”
+------------------------------------------------------------------------

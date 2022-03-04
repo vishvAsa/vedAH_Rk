@@ -1,0 +1,5 @@
++++
+title = "07"
+
++++
+Denn in jedem Rausche schenkt uns der Rechtgesinnte Herden von Rindern. Raffe viele hundert Schätze, beide Hände voll, zusammen! Sporn uns an, bring Schätze her!

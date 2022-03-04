@@ -1,0 +1,99 @@
++++
+title = "Rig Veda 10.37.9"
+
++++
+-   *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *bhuvanāni* \< *bhuvana*
+- \[noun\], nominative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *ketunā* \< *ketu*
+- \[noun\], instrumental, singular, masculine
+- “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
+    signal; signal; luminosity.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *cerate* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cerate* \< *īrate* \< *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *viśante* \< *viś*
+- \[verb\], plural, Present indikative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *aktubhiḥ* \< *aktu*
+- \[noun\], instrumental, plural, masculine
+- “night; dark; beam.”
+------------------------------------------------------------------------
+- *anāgāstvena* \< *anāgāstva*
+- \[noun\], instrumental, singular, neuter
+- “blamelessness; purity.”
+------------------------------------------------------------------------
+- *harikeśa* \< *hari*
+- \[noun\]
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *harikeśa* \< *keśa*
+- \[noun\], vocative, singular, masculine
+- “mane; hair; keśa \[word\].”
+------------------------------------------------------------------------
+- *sūryāhnāhnā* \< *sūrya*
+- \[noun\], vocative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *sūryāhnāhnā* \< *ahnā* \< *ahar*
+- \[noun\], instrumental, singular, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *sūryāhnāhnā* \< *ahnā* \< *ahar*
+- \[noun\], instrumental, singular, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vasyasā* \< *vasyas*
+- \[noun\], instrumental, singular, neuter
+- “good fortune; well-being.”
+------------------------------------------------------------------------
+- *vasyasod* \< *vasyasā* \< *vasyas*
+- \[noun\], instrumental, singular, neuter
+- “good fortune; well-being.”
+------------------------------------------------------------------------
+- *vasyasod* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *ihi* \< *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------

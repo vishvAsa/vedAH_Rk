@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 10.38.1"
+
++++
+-   *asmin* \< *idam*
+- \[noun\], locative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pṛtsutau* \< *pṛtsuti*
+- \[noun\], locative, singular, masculine
+- “battle.”
+------------------------------------------------------------------------
+- *yaśasvati* \< *yaśasvat*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *śimīvati* \< *śimīvat*
+- \[noun\], locative, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------
+- *krandasi* \< *krandas*
+- \[noun\], locative, singular, neuter
+- “army; war cry.”
+------------------------------------------------------------------------
+- *prāva* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāva* \< *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *sātaye* \< *sāti*
+- \[noun\], dative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *goṣātā* \< *goṣāti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *dhṛṣiteṣu* \< *dhṛṣ*
+- \[verb noun\], locative, plural
+- “dare; attack.”
+------------------------------------------------------------------------
+- *khādiṣu* \< *khādin*
+- \[noun\], locative, plural, masculine
+- “chewing.”
+------------------------------------------------------------------------
+- *viṣvak* \< *viṣvañc*
+- \[noun\], accusative, singular, neuter
+- “dispersed; viṣvañc \[word\].”
+------------------------------------------------------------------------
+- *patanti* \< *pat*
+- \[verb\], plural, Present indikative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *didyavo* \< *didyavaḥ* \< *didyu*
+- \[noun\], nominative, plural, masculine
+- “arrow; projectile.”
+------------------------------------------------------------------------
+- *nṛṣāhye* \< *nṛṣāhya*
+- \[noun\], locative, singular, neuter
+- “battle.”
+------------------------------------------------------------------------

@@ -1,0 +1,96 @@
++++
+title = "Rig Veda 10.142.6"
+
++++
+-   *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *śuṣmā* \< *śuṣmāḥ* \< *śuṣma*
+- \[noun\], nominative, plural, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *jihatām* \< *hā*
+- \[verb\], plural, Present imperative
+- “move over; yield; give way.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *arcir* \< *arciḥ* \< *arcis*
+- \[noun\], nominative, singular, neuter
+- “fire; flare; light; beam; gleam; shininess.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *śaśamānasya* \< *śam*
+- \[verb noun\], genitive, singular
+- “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
+------------------------------------------------------------------------
+- *vājāḥ* \< *vāja*
+- \[noun\], nominative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *ucchvañcasva* \< *ucchvañc* \< *√śvañc*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *nama* \< *nam*
+- \[verb\], singular, Present imperative
+- “bow; bend; condescend; worship; bend; lower.”
+------------------------------------------------------------------------
+- *vardhamāna* \< *vardhamānaḥ* \< *vṛdh*
+- \[verb noun\], nominative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvādya* \< *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvādya* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *viśve* \< *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *vasavaḥ* \< *vasu*
+- \[noun\], nominative, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *sadantu* \< *sad*
+- \[verb\], plural, Aorist imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------

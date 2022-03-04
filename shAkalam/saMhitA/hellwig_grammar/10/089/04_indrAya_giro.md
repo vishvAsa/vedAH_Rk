@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 10.89.4"
+
++++
+-   *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *giro* \< *giraḥ* \< *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *aniśitasargā* \< *aniśita*
+- \[noun\]
+- “incessant.”
+------------------------------------------------------------------------
+- *aniśitasargā* \< *sargāḥ* \< *sarga*
+- \[noun\], accusative, plural, feminine
+- “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
+------------------------------------------------------------------------
+- *apaḥ* \< *ap*
+- \[noun\], accusative, plural, neuter
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *prerayaṃ* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *sagarasya* \< *sagara*
+- \[noun\], genitive, singular, masculine
+- “Sagara.”
+------------------------------------------------------------------------
+- *budhnāt* \< *budhna*
+- \[noun\], ablative, singular, neuter
+- “bottom; bottom; base.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *akṣeṇeva* \< *akṣeṇa* \< *akṣa*
+- \[noun\], instrumental, singular, masculine
+- “axle.”
+------------------------------------------------------------------------
+- *akṣeṇeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *cakriyā* \< *cakriya*
+- \[noun\], accusative, plural, neuter
+- “traveling.”
+------------------------------------------------------------------------
+- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- \[noun\], instrumental, plural, feminine
+- “Śacī; power; dexterity; ability; aid.”
+------------------------------------------------------------------------
+- *viṣvak* \< *viṣvañc*
+- \[noun\], accusative, singular, neuter
+- “dispersed; viṣvañc \[word\].”
+------------------------------------------------------------------------
+- *tastambha* \< *stambh*
+- \[verb\], singular, Perfect indicative
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+------------------------------------------------------------------------
+- *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *dyām* \< *div*
+- \[noun\], accusative, singular
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------

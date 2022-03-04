@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 10.94.2"
+
++++
+-   *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *vadanti* \< *vad*
+- \[verb\], plural, Present indikative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *śatavat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *sahasravad* \< *sahasravat*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *krandanti* \< *krand*
+- \[verb\], plural, Present indikative
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *haritebhir* \< *haritebhiḥ* \< *harita*
+- \[noun\], instrumental, plural, neuter
+- “green; yellow; fresh; harita \[word\]; green.”
+------------------------------------------------------------------------
+- *āsabhiḥ* \< *āsan*
+- \[noun\], instrumental, plural, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *viṣṭvī* \< *viṣ*
+- \[verb noun\]
+- “labor; act; perform.”
+------------------------------------------------------------------------
+- *grāvāṇaḥ* \< *grāvan*
+- \[noun\], nominative, plural, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *sukṛtaḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṛtaḥ* \< *kṛtaḥ* \< *kṛt*
+- \[noun\], nominative, plural, masculine
+- “causing; making; performing; promotive; producing; doing; acting;
+    writing; transforming; effecting.”
+------------------------------------------------------------------------
+- *sukṛtyayā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- \[noun\], instrumental, singular, feminine
+- “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
+------------------------------------------------------------------------
+- *hotuś* \< *hotuḥ* \< *hotṛ*
+- \[noun\], genitive, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *pūrve* \< *pūrva*
+- \[noun\], nominative, plural, masculine
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+------------------------------------------------------------------------
+- *haviradyam* \< *haviḥ* \< *havis*
+- \[noun\], neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *haviradyam* \< *adyam* \< *adya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *āśata* \< *aś*
+- \[verb\], plural, Root aorist (Ind.)
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 10.108.6"
+
++++
+-   *asenyā* \< *asenya*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *paṇayo* \< *paṇayaḥ* \< *paṇi*
+- \[noun\], vocative, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *vacāṃsy* \< *vacāṃsi* \< *vacas*
+- \[noun\], nominative, plural, neuter
+- “statement; command; speech; words; advice; word; voice.”
+------------------------------------------------------------------------
+- *aniṣavyās* \< *aniṣavyāḥ* \< *aniṣavya*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *tanvaḥ* \< *tanū*
+- \[noun\], nominative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *santu* \< *as*
+- \[verb\], plural, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pāpīḥ* \< *pāpa*
+- \[noun\], nominative, plural, feminine
+- “evil; dangerous; wicked; pāpa \[word\].”
+------------------------------------------------------------------------
+- *adhṛṣṭo* \< *adhṛṣṭaḥ* \< *adhṛṣṭa*
+- \[noun\], nominative, singular, masculine
+- “modest; invincible.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *etavā* \< *etavai* \< *i*
+- \[verb noun\]
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *panthā* \< *panthāḥ* \< *pathin*
+- \[noun\], nominative, singular
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- \[noun\], nominative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *ubhayā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mṛḍāt* \< *mṛḍ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “pardon.”
+------------------------------------------------------------------------

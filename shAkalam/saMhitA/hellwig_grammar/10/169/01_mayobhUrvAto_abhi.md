@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 10.169.1"
+
++++
+-   *mayobhūr* \< *mayaḥ* \< *mayas*
+- \[noun\], neuter
+- “pleasure; refreshment.”
+------------------------------------------------------------------------
+- *mayobhūr* \< *bhūḥ* \< *bhū*
+- \[noun\], nominative, singular, feminine
+- “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
+    place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
+    bhūnāga; sphaṭikā; beginning; birth; estate.”
+------------------------------------------------------------------------
+- *vāto* \< *vātaḥ* \< *vāta*
+- \[noun\], nominative, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vātūsrā* \< *vātu* \< *vā*
+- \[verb\], singular, Present imperative
+- “blow; blow; emit.”
+------------------------------------------------------------------------
+- *vātūsrā* \< *usrāḥ* \< *usrā*
+- \[noun\], accusative, plural, feminine
+- “cow; dawn.”
+------------------------------------------------------------------------
+- *ūrjasvatīr* \< *ūrjasvatīḥ* \< *ūrjasvat*
+- \[noun\], accusative, plural, feminine
+- “alimentary.”
+------------------------------------------------------------------------
+- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhi*
+- \[noun\], accusative, plural, feminine
+- “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *riśantām* \< *riś*
+- \[verb\], plural, Present imperative
+------------------------------------------------------------------------
+- *pīvasvatīr* \< *pīvasvatīḥ* \< *pīvasvat*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *jīvadhanyāḥ* \< *jīva*
+- \[noun\], masculine
+- “life; Jupiter; Brihaspati; jīv; person.”
+------------------------------------------------------------------------
+- *jīvadhanyāḥ* \< *dhanyāḥ* \< *dhanya*
+- \[noun\], accusative, plural, feminine
+- “fortunate; auspicious; affluent.”
+------------------------------------------------------------------------
+- *pibantv* \< *pibantu* \< *pā*
+- \[verb\], plural, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *avasāya* \< *avasa*
+- \[noun\], dative, singular, neuter
+- “stores; food.”
+------------------------------------------------------------------------
+- *padvate* \< *padvat*
+- \[noun\], dative, singular, neuter
+- “footed.”
+------------------------------------------------------------------------
+- *rudra*
+- \[noun\], vocative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *mṛḍa* \< *mṛḍ*
+- \[verb\], singular, Present imperative
+- “pardon.”
+------------------------------------------------------------------------

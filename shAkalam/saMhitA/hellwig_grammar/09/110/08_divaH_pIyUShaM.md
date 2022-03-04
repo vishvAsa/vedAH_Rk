@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 9.110.8"
+
++++
+-   *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pīyūṣam* \< *pīyūṣa*
+- \[noun\], nominative, singular, neuter
+- “amṛta; pīyūṣa; ambrosia.”
+------------------------------------------------------------------------
+- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- \[noun\], nominative, singular, neuter
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ukthyam* \< *ukthya*
+- \[noun\], nominative, singular, neuter
+- “applaudable.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], ablative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *gāhād* \< *gāhāt* \< *gāha*
+- \[noun\], ablative, singular, masculine
+- “gāha \[word\]; depth.”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *nir* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *adhukṣata* \< *duh*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “milk.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *jāyamānaṃ* \< *jāyamānam* \< *jan*
+- \[verb noun\], accusative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *asvaran* \< *svar*
+- \[verb\], plural, Imperfect
+- “sing.”
+------------------------------------------------------------------------

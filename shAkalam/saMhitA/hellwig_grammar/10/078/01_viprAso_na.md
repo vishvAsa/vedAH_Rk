@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 10.78.1"
+
++++
+-   *viprāso* \< *viprāsaḥ* \< *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *manmabhiḥ* \< *manman*
+- \[noun\], instrumental, plural, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *svādhyo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svādhyo* \< *ādhyaḥ* \< *ādhī*
+- \[noun\], nominative, plural, masculine
+- “longing.”
+------------------------------------------------------------------------
+- *devāvyo* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yajñaiḥ* \< *yajña*
+- \[noun\], instrumental, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *svapnasaḥ* \< *svapnas*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *rājāno* \< *rājānaḥ* \< *rājan*
+- \[noun\], nominative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *citrāḥ* \< *citra*
+- \[noun\], nominative, plural, masculine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *susaṃdṛśaḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *susaṃdṛśaḥ* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- \[noun\], nominative, plural, masculine
+- “appearance; view; view.”
+------------------------------------------------------------------------
+- *kṣitīnāṃ* \< *kṣitīnām* \< *kṣiti*
+- \[noun\], genitive, plural, feminine
+- “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
+    estate; colony; house.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *maryā* \< *maryāḥ* \< *marya*
+- \[noun\], nominative, plural, masculine
+- “young buck; boyfriend.”
+------------------------------------------------------------------------
+- *arepasaḥ* \< *arepas*
+- \[noun\], nominative, plural, masculine
+- “immaculate.”
+------------------------------------------------------------------------

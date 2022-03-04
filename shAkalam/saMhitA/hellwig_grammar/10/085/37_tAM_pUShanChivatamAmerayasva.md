@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 10.85.37"
+
++++
+-   *tām* \< *tad*
+- \[noun\], accusative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pūṣañchivatamām* \< *pūṣan*
+- \[noun\], vocative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *pūṣañchivatamām* \< *śivatamām* \< *śivatama*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *erayasva* \< *eray* \< *√īr*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------
+- *yasyām* \< *yad*
+- \[noun\], locative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *bījam* \< *bīja*
+- \[noun\], accusative, singular, neuter
+- “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
+    footing; cause; origin; method; bead.”
+------------------------------------------------------------------------
+- *manuṣyā* \< *manuṣyāḥ* \< *manuṣya*
+- \[noun\], nominative, plural, masculine
+- “man; people; man; manuṣya \[word\].”
+------------------------------------------------------------------------
+- *vapanti* \< *vap*
+- \[verb\], plural, Present indikative
+- “sow; bestrew; strew; scatter.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ūrū* \< *ūru*
+- \[noun\], accusative, dual, masculine
+- “thigh; ūru \[word\]; ūru; shank.”
+------------------------------------------------------------------------
+- *uśatī* \< *vaś*
+- \[verb noun\], nominative, singular
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *viśrayāte* \< *viśri* \< *√śri*
+- \[verb\], singular, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *yasyām* \< *yad*
+- \[noun\], locative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *uśantaḥ* \< *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *praharāma* \< *prahṛ* \< *√hṛ*
+- \[verb\], plural, Present imperative
+- “fight; attack; strike.”
+------------------------------------------------------------------------
+- *śepam* \< *śepa*
+- \[noun\], accusative, singular, masculine
+- “penis.”
+------------------------------------------------------------------------

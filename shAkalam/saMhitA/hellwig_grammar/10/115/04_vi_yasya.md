@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 10.115.4"
+
++++
+-   *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *jrayasānasyājara* \< *jrayasānasya* \< *jrayasāna*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *jrayasānasyājara* \< *ajara*
+- \[noun\], vocative, singular, masculine
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *dhakṣor* \< *dhakṣoḥ* \< *dhakṣu*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vātāḥ* \< *vāta*
+- \[noun\], nominative, plural, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *santy* \< *santi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *acyutāḥ* \< *acyuta*
+- \[noun\], nominative, plural, masculine
+- “firm; regular; permanent; immovable; unchanging.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *raṇvāso* \< *raṇvāsaḥ* \< *raṇva*
+- \[noun\], nominative, plural, masculine
+- “agreeable; happy; delightful; gay.”
+------------------------------------------------------------------------
+- *yuyudhayo* \< *yuyudhayaḥ* \< *yuyudhi*
+- \[noun\], nominative, plural, masculine
+- “unpacific.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *satvanaṃ* \< *satvanam* \< *satvana*
+- \[noun\], accusative, singular, masculine
+- “warrior.”
+------------------------------------------------------------------------
+- *tritaṃ* \< *tritam* \< *trita*
+- \[noun\], accusative, singular, masculine
+- “Trita.”
+------------------------------------------------------------------------
+- *naśanta* \< *naś*
+- \[verb\], plural, Present injunctive
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *śiṣanta* \< *śiṣantaḥ* \< *śās*
+- \[verb noun\], nominative, plural
+- “teach; govern; command; order; control; tell; recommend; chastize;
+    instruct.”
+------------------------------------------------------------------------
+- *iṣṭaye* \< *iṣṭi*
+- \[noun\], dative, singular, feminine
+- “seeking.”
+------------------------------------------------------------------------

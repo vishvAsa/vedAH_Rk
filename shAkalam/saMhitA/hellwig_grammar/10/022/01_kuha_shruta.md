@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 10.22.1"
+
++++
+-   *kuha*
+- \[adverb\]
+- “wherein.”
+------------------------------------------------------------------------
+- *śruta* \< *śrutaḥ* \< *śru*
+- \[verb noun\], nominative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kasminn* \< *kasmin* \< *ka*
+- \[noun\], locative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *jane* \< *jana*
+- \[noun\], locative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śrūyate* \< *śru*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *ṛṣīṇāṃ* \< *ṛṣīṇām* \< *ṛṣi*
+- \[noun\], genitive, plural, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *kṣaye* \< *kṣaya*
+- \[noun\], locative, singular, masculine
+- “dwelling; house; kṣaya \[word\]; home; family.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *carkṛṣe* \< *carkar* \< *√kṛ*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “praise; commemorate.”
+------------------------------------------------------------------------
+- *girā* \< *gir*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------

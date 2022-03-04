@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 10.99.10"
+
++++
+-   *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *daśasyan* \< *daśasy*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *naryebhir* \< *naryebhiḥ* \< *narya*
+- \[noun\], instrumental, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dasmo* \< *dasmaḥ* \< *dasma*
+- \[noun\], nominative, singular, masculine
+- “overlord.”
+------------------------------------------------------------------------
+- *devebhir* \< *devebhiḥ* \< *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *māyī* \< *māyin*
+- \[noun\], nominative, singular, masculine
+- “artful; charming; crafty; deceptive.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *kanīna* \< *kanīnaḥ* \< *kanīna*
+- \[noun\], nominative, singular, masculine
+- “young; kanīna \[word\].”
+------------------------------------------------------------------------
+- *ṛtupā* \< *ṛtu*
+- \[noun\], masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+------------------------------------------------------------------------
+- *ṛtupā* \< *pāḥ* \< *pā*
+- \[noun\], nominative, singular, masculine
+- “drinking.”
+------------------------------------------------------------------------
+- *avedy* \< *avedi* \< *vid*
+- \[verb\], singular, Aorist passive
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *amimītāraruṃ* \< *amimīta* \< *mā*
+- \[verb\], singular, Imperfect
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *amimītāraruṃ* \< *ararum* \< *araru*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *yaś* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *catuṣpāt* \< *catuṣpād*
+- \[noun\], nominative, singular, masculine
+- “quadruped.”
+------------------------------------------------------------------------

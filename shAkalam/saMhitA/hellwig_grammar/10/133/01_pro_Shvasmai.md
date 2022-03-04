@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 10.133.1"
+
++++
+-   *pro* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pro* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣv* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *puroratham* \< *puroratha*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śūṣam* \< *śūṣa*
+- \[noun\], accusative, singular, masculine
+- “song; energy.”
+------------------------------------------------------------------------
+- *arcata* \< *arc*
+- \[verb\], plural, Present imperative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *abhīke* \< *abhīka*
+- \[noun\], locative, singular, neuter
+- “battle; meeting.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *lokakṛt* \< *loka*
+- \[noun\], masculine
+- “Loka; Earth; world; vernacular; people; room; world; Earth; loka
+    \[word\]; space; Loka; topographic point; region; common sense.”
+------------------------------------------------------------------------
+- *lokakṛt* \< *kṛt*
+- \[noun\], nominative, singular, masculine
+- “causing; making; performing; promotive; producing; doing; acting;
+    writing; transforming; effecting.”
+------------------------------------------------------------------------
+- *saṃge* \< *saṃga*
+- \[noun\], locative, singular, masculine
+- “war; conflict.”
+------------------------------------------------------------------------
+- *samatsu* \< *samad*
+- \[noun\], locative, plural
+- “conflict; strife.”
+------------------------------------------------------------------------
+- *vṛtrahāsmākam* \< *vṛtrahā* \< *vṛtrahan*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *vṛtrahāsmākam* \< *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bodhi* \< *bhū*
+- \[verb\], singular, Aorist imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *coditā* \< *coditṛ*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *nabhantām* \< *nabh*
+- \[verb\], plural, Present imperative
+- “burst.”
+------------------------------------------------------------------------
+- *anyakeṣāṃ* \< *anyakeṣām* \< *anyaka*
+- \[noun\], genitive, plural, masculine
+- “other; another(a).”
+------------------------------------------------------------------------
+- *jyākā* \< *jyākāḥ* \< *jyākā*
+- \[noun\], nominative, plural, feminine
+- “bowstring.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhanvasu* \< *dhanvan*
+- \[noun\], locative, plural, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------

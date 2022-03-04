@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 10.62.9"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *aśnoti* \< *aś*
+- \[verb\], singular, Present indikative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *kaścana*
+- \[noun\], nominative, singular, masculine
+- “some(a); any(a); some(a); any(a).”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *sānv* \< *sānū* \< *sānu*
+- \[noun\], accusative, plural, neuter
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *ārabham* \< *ārabh* \< *√rabh*
+- \[verb noun\]
+- “begin; begin; undertake; do; take.”
+------------------------------------------------------------------------
+- *sāvarṇyasya* \< *sāvarṇya*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *dakṣiṇā*
+- \[noun\], nominative, singular, feminine
+- “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *sindhur* \< *sindhuḥ* \< *sindhu*
+- \[noun\], nominative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *paprathe* \< *prath*
+- \[verb\], singular, Perfect indicative
+- “be known; expand; expand; boom.”
+------------------------------------------------------------------------

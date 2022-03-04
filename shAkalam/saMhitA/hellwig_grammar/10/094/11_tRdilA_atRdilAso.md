@@ -1,0 +1,54 @@
++++
+title = "Rig Veda 10.94.11"
+
++++
+-   *tṛdilā* \< *tṛdilāḥ* \< *tṛdila*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *atṛdilāso* \< *atṛdilāsaḥ* \< *atṛdila*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *adrayo* \< *adrayaḥ* \< *adri*
+- \[noun\], nominative, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *'śramaṇā* \< *aśramaṇāḥ* \< *aśramaṇa*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *aśṛthitā* \< *aśṛthitāḥ* \< *aśṛthita*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *amṛtyavaḥ* \< *amṛtyu*
+- \[noun\], nominative, plural, masculine
+- “ageless; immortal.”
+------------------------------------------------------------------------
+- *anāturā* \< *anāturāḥ* \< *anātura*
+- \[noun\], nominative, plural, masculine
+- “well.”
+------------------------------------------------------------------------
+- *ajarā* \< *ajara*
+- \[noun\], nominative, plural, masculine
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *sthāmaviṣṇavaḥ* \< *stha* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sthāmaviṣṇavaḥ* \< *amaviṣṇavaḥ* \< *amaviṣṇu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *supīvaso* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supīvaso* \< *pīvasaḥ* \< *pīvas*
+- \[noun\], nominative, plural, masculine
+- “fat.”
+------------------------------------------------------------------------
+- *atṛṣitā* \< *atṛṣitāḥ* \< *atṛṣita*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *atṛṣṇajaḥ* \< *atṛṣṇaj*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

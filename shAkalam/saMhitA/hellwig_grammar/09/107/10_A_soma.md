@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 9.107.10"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *suvāno* \< *suvānaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *adribhis* \< *adribhiḥ* \< *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *tiro* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *vārāṇy* \< *vārāṇi* \< *vāra*
+- \[noun\], accusative, plural, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *avyayā* \< *avyaya*
+- \[noun\], accusative, plural, neuter
+- “sheep.”
+------------------------------------------------------------------------
+- *jano* \< *janaḥ* \< *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *puri* \< *pur*
+- \[noun\], locative, singular, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *camvor* \< *camvoḥ* \< *camū*
+- \[noun\], locative, dual, feminine
+- “army; camū; Camū.”
+------------------------------------------------------------------------
+- *viśaddhariḥ* \< *viśat* \< *viś*
+- \[verb\], singular, Present injunctive
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *viśaddhariḥ* \< *hariḥ* \< *hari*
+- \[noun\], nominative, singular, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *sado* \< *sadaḥ* \< *sadas*
+- \[noun\], accusative, singular, neuter
+- “mansion; assembly; seat; seat.”
+------------------------------------------------------------------------
+- *vaneṣu* \< *vana*
+- \[noun\], locative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *dadhiṣe* \< *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------

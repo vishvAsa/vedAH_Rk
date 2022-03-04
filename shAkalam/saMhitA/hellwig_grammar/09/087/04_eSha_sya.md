@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 9.87.4"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *madhumāṃ* \< *madhumat*
+- \[noun\], nominative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣṇe* \< *vṛṣan*
+- \[noun\], dative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *pavitre* \< *pavitra*
+- \[noun\], locative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *akṣāḥ* \< *akṣār* \< *kṣar*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “run; melt.”
+------------------------------------------------------------------------
+- *sahasrasāḥ* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrasāḥ* \< *sāḥ* \< *sā*
+- \[noun\], nominative, singular, masculine
+- “winning.”
+------------------------------------------------------------------------
+- *śatasā* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatasā* \< *sāḥ* \< *sā*
+- \[noun\], nominative, singular, masculine
+- “winning.”
+------------------------------------------------------------------------
+- *bhūridāvā* \< *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūridāvā* \< *dāvā* \< *dāvan*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *śaśvattamam* \< *śaśvattama*
+- \[noun\], accusative, singular, neuter
+- “frequent.”
+------------------------------------------------------------------------
+- *barhir* \< *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vājy* \< *vājī* \< *vājin*
+- \[noun\], nominative, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *asthāt* \< *sthā*
+- \[verb\], singular, Root aorist (Ind.)
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------

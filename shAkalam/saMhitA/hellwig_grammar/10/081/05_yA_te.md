@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 10.81.5"
+
++++
+-   *yā* \< *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhāmāni* \< *dhāman*
+- \[noun\], nominative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *paramāṇi* \< *parama*
+- \[noun\], nominative, plural, neuter
+- “extreme; best; excellent; highest; highest; devoted(p); maximal;
+    distant; parama \[word\]; very; farthermost.”
+------------------------------------------------------------------------
+- *yāvamā* \< *yā* \< *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yāvamā* \< *avamā* \< *avama*
+- \[noun\], nominative, plural, neuter
+- “avama \[word\]; bottom; last.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *madhyamā* \< *madhyama*
+- \[noun\], nominative, plural, neuter
+- “intermediate; middle; average; second; average; adult; central;
+    moderate; mean; center(a).”
+------------------------------------------------------------------------
+- *viśvakarmann* \< *viśvakarman*
+- \[noun\], vocative, singular, masculine
+- “Viśvakarman; viśvakarman; Shiva; Maya; Vishnu.”
+------------------------------------------------------------------------
+- *utemā* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utemā* \< *imā* \< *idam*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *śikṣā* \< *śikṣ*
+- \[verb\], singular, Present imperative
+- “help; give.”
+------------------------------------------------------------------------
+- *sakhibhyo* \< *sakhibhyaḥ* \< *sakhi*
+- \[noun\], dative, plural, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *haviṣi* \< *havis*
+- \[noun\], locative, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *svadhāvaḥ* \< *svadhāvas* \< *svadhāvat*
+- \[noun\], vocative, singular, masculine
+- “autonomous; independent.”
+------------------------------------------------------------------------
+- *svayaṃ* \< *svayam*
+- \[adverb\]
+- “personally; spontaneously; svayam \[word\]; voluntarily.”
+------------------------------------------------------------------------
+- *yajasva* \< *yaj*
+- \[verb\], singular, Present imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *tanvaṃ* \< *tanvam* \< *tanū*
+- \[noun\], accusative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *vṛdhānaḥ* \< *vṛdh*
+- \[verb noun\], nominative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------

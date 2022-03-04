@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 9.88.7"
+
++++
+-   *śuṣmī* \< *śuṣmin*
+- \[noun\], nominative, singular, masculine
+- “strong; hotheaded.”
+------------------------------------------------------------------------
+- *śardho* \< *śardhaḥ* \< *śardhas*
+- \[noun\], accusative, singular, neuter
+- “troop.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mārutam* \< *māruta*
+- \[noun\], nominative, singular, neuter
+- “Marut(a).”
+------------------------------------------------------------------------
+- *pavasvānabhiśastā* \< *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pavasvānabhiśastā* \< *anabhiśastā* \< *anabhiśasta*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *divyā* \< *divya*
+- \[noun\], nominative, singular, feminine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *viṭ* \< *viś*
+- \[noun\], nominative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *āpo* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *makṣū*
+- \[adverb\]
+- “promptly; soon; quickly.”
+------------------------------------------------------------------------
+- *sumatir* \< *sumatiḥ* \< *sumati*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *bhavā* \< *bhava* \< *bhū*
+- \[verb\], singular, Present imperative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sahasrāpsāḥ* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrāpsāḥ* \< *apsāḥ* \< *apsas*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pṛtanāṣāṇ* \< *pṛtanāṣāh*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yajñaḥ* \< *yajña*
+- \[noun\], nominative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------

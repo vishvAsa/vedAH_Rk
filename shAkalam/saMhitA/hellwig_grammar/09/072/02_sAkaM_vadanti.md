@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 9.72.2"
+
++++
+-   *sākaṃ* \< *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *vadanti* \< *vad*
+- \[verb\], plural, Present indikative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *bahavo* \< *bahavaḥ* \< *bahu*
+- \[noun\], nominative, plural, masculine
+- “many; much(a); bahu \[word\]; abundant; long; large; abounding
+    in(p); perennial.”
+------------------------------------------------------------------------
+- *manīṣiṇa* \< *manīṣiṇaḥ* \< *manīṣin*
+- \[noun\], nominative, plural, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *jaṭhare* \< *jaṭhara*
+- \[noun\], locative, singular, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *āduhuḥ* \< *āduh* \< *√duh*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *yadī* \< *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *mṛjanti* \< *mṛj*
+- \[verb\], plural, Present indikative
+- “purify; polish; rub; remove.”
+------------------------------------------------------------------------
+- *sugabhastayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sugabhastayo* \< *gabhastayaḥ* \< *gabhasti*
+- \[noun\], nominative, plural, masculine
+- “beam; hand; sun.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *sanīﾱābhir* \< *sanīﾱābhiḥ* \< *sanīḍa*
+- \[noun\], instrumental, plural, feminine
+- “kindred; equal; sanīḍa \[word\].”
+------------------------------------------------------------------------
+- *daśabhiḥ* \< *daśan*
+- \[noun\], instrumental, plural, feminine
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *kāmyam* \< *kāmya*
+- \[noun\], accusative, singular, neuter
+- “desirable; optional; beautiful.”
+------------------------------------------------------------------------
+- *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------

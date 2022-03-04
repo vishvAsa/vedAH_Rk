@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 10.18.10"
+
++++
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *sarpa* \< *sṛp*
+- \[verb\], singular, Present imperative
+- “crawl; spread; wander.”
+------------------------------------------------------------------------
+- *mātaram* \< *mātṛ*
+- \[noun\], accusative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *bhūmim* \< *bhūmi*
+- \[noun\], accusative, singular, feminine
+- “floor; earth; Earth; real property; region; pṛthivī; location;
+    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+    distance; country; space; land; territory; topographic point.”
+------------------------------------------------------------------------
+- *etām* \< *etad*
+- \[noun\], accusative, singular, feminine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *uruvyacasam* \< *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *uruvyacasam* \< *vyacasam* \< *vyacas*
+- \[noun\], accusative, singular, feminine
+- “area; capacity.”
+------------------------------------------------------------------------
+- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *suśevām* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśevām* \< *śevām* \< *śeva*
+- \[noun\], accusative, singular, feminine
+- “friendly; favorable; dear.”
+------------------------------------------------------------------------
+- *ūrṇamradā* \< *ūrṇamrada*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *yuvatir* \< *yuvatiḥ* \< *yuvati*
+- \[noun\], nominative, singular, feminine
+- “girl; woman.”
+------------------------------------------------------------------------
+- *dakṣiṇāvata* \< *dakṣiṇāvate* \< *dakṣiṇāvat*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *eṣā* \< *etad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pātu* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *nirṛter* \< *nirṛteḥ* \< *nirṛti*
+- \[noun\], genitive, singular, feminine
+- “destruction; Nirṛti; adversity.”
+------------------------------------------------------------------------
+- *upasthāt* \< *upastha*
+- \[noun\], ablative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------

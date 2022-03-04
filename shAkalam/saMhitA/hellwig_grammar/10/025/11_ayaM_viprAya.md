@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.25.11"
+
++++
+-   *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *viprāya* \< *vipra*
+- \[noun\], dative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *vājāṃ* \< *vāja*
+- \[noun\], accusative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *iyarti* \< *ṛch*
+- \[verb\], singular, Present indikative
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------
+- *gomataḥ* \< *gomat*
+- \[noun\], accusative, plural, masculine
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *saptabhya* \< *saptabhyaḥ* \< *saptan*
+- \[noun\], dative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *varaṃ* \< *varam* \< *vara*
+- \[noun\], nominative, singular, neuter
+- “best; excellent; better; choice; optimum; maximal.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *made* \< *mada*
+- \[noun\], locative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *prāndhaṃ* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāndhaṃ* \< *andham* \< *andha*
+- \[noun\], accusative, singular, masculine
+- “blind; andha \[word\]; andha; blind; complete; dark.”
+------------------------------------------------------------------------
+- *śroṇaṃ* \< *śroṇam* \< *śroṇa*
+- \[noun\], accusative, singular, masculine
+- “crippled.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *tāriṣad* \< *tāriṣat* \< *tṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *vivakṣase* \< *vivakṣ* \< *√vac*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------

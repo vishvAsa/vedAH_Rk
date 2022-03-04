@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 10.93.5"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *apāṃ* \< *apām* \< *ap*
+- \[noun\], genitive, plural, neuter
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- \[noun\], vocative, dual, masculine
+- “affluent.”
+------------------------------------------------------------------------
+- *sūryāmāsā* \< *sūryāmāsa*
+- \[noun\], nominative, dual, masculine
+- “moon.”
+------------------------------------------------------------------------
+- *sadanāya* \< *sadana*
+- \[noun\], dative, singular, neuter
+- “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
+    residence; seat; inanition; location.”
+------------------------------------------------------------------------
+- *sadhanyā* \< *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sadhanyā* \< *dhanyā* \< *dhanya*
+- \[noun\], accusative, dual, masculine
+- “fortunate; auspicious; affluent.”
+------------------------------------------------------------------------
+- *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *sādy* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ahir* \< *ahiḥ* \< *ahi*
+- \[noun\], nominative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *budhneṣu* \< *budhna*
+- \[noun\], locative, plural, masculine
+- “bottom; bottom; base.”
+------------------------------------------------------------------------
+- *budhnyaḥ* \< *budhnya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

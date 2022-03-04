@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 9.97.54"
+
++++
+-   *mahīme* \< *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *mahīme* \< *ime* \< *idam*
+- \[noun\], nominative, dual, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vṛṣanāma* \< *vṛṣa*
+- \[noun\], masculine
+- “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
+    Taurus; bull.”
+------------------------------------------------------------------------
+- *vṛṣanāma* \< *nāma* \< *nāman*
+- \[noun\], accusative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *śūṣe* \< *śūṣa*
+- \[noun\], locative, singular, masculine
+- “song; energy.”
+------------------------------------------------------------------------
+- *māṃścatve* \< *māṃścatva*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *pṛśane* \< *pṛśana*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *vadhatre* \< *vadhatra*
+- \[noun\], locative, singular, neuter
+- “weapon.”
+------------------------------------------------------------------------
+- *asvāpayan* \< *asvāpayat* \< *svāpay* \< *√svap*
+- \[verb\], singular, Imperfect
+- “put to sleep.”
+------------------------------------------------------------------------
+- *nigutaḥ* \< *nigut*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *snehayac* \< *snehayat* \< *snehay* \< *√snih*
+- \[verb\], singular, Present injunctive
+- “anoint.”
+------------------------------------------------------------------------
+- *cāpāmitrāṃ* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cāpāmitrāṃ* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *cāpāmitrāṃ* \< *amitrāṃ* \< *amitra*
+- \[noun\], accusative, plural, masculine
+- “enemy; foe.”
+------------------------------------------------------------------------
+- *apācito* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apācito* \< *acitaḥ* \< *acit*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *acetaḥ* \< *cit*
+- \[verb\], singular, Imperfect
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------

@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 9.101.16"
+
++++
+-   *avyo* \< *avyaḥ* \< *avya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vārebhiḥ* \< *vāra*
+- \[noun\], instrumental, plural, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *gavye* \< *gavya*
+- \[noun\], locative, singular, masculine
+- “bovine.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *tvaci* \< *tvac*
+- \[noun\], locative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+------------------------------------------------------------------------
+- *kanikradad* \< *kanikradat* \< *kanikrad* \< *√krand*
+- \[verb noun\], nominative, singular
+- “roar; neigh.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *harir* \< *hariḥ* \< *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *indrasyābhy* \< *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrasyābhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *niṣkṛtam* \< *niṣkṛta*
+- \[noun\], accusative, singular, neuter
+- “place; rendezvous.”
+------------------------------------------------------------------------

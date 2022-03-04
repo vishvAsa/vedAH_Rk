@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 10.146.1"
+
++++
+-   *araṇyāny* \< *araṇyāni* \< *araṇyānī*
+- \[noun\], vocative, singular, feminine
+- “forest.”
+------------------------------------------------------------------------
+- *araṇyāny* \< *araṇyāni* \< *araṇyānī*
+- \[noun\], vocative, singular, feminine
+- “forest.”
+------------------------------------------------------------------------
+- *asau* \< *adas*
+- \[noun\], nominative, singular, feminine
+- “that; John Doe; yonder; from here.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *preva* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *preva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *naśyasi* \< *naś*
+- \[verb\], singular, Present indikative
+- “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
+------------------------------------------------------------------------
+- *kathā*
+- \[adverb\]
+- “how.”
+------------------------------------------------------------------------
+- *grāmaṃ* \< *grāmam* \< *grāma*
+- \[noun\], accusative, singular, masculine
+- “village; grāma \[word\]; group; battalion; club; Hindu gamut;
+    troop; multitude; crowd; kin; collection; people.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pṛcchasi* \< *pracch*
+- \[verb\], singular, Present indikative
+- “ask; ask; ask; consult; interrogate.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *bhīr* \< *bhīḥ* \< *bhī*
+- \[noun\], nominative, singular, feminine
+- “fear; bhī; alarm.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vindatīm* \< *vindati* \< *vid*
+- \[verb\], singular, Present indikative
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *vindatīm* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------

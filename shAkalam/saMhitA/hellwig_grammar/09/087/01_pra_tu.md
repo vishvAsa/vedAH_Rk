@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 9.87.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *drava* \< *dru*
+- \[verb\], singular, Present imperative
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *kośaṃ* \< *kośam* \< *kośa*
+- \[noun\], accusative, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣīda* \< *sīda* \< *sad*
+- \[verb\], singular, Present imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *punāno* \< *punānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *aśvaṃ* \< *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vājinam* \< *vājin*
+- \[noun\], accusative, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *marjayanto* \< *marjayantaḥ* \< *marjay* \< *√mṛj*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *'cchā* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *barhī* \< *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *raśanābhir* \< *raśanābhiḥ* \< *raśanā*
+- \[noun\], instrumental, plural, feminine
+- “rein; bridle; girdle; cord.”
+------------------------------------------------------------------------
+- *nayanti* \< *nī*
+- \[verb\], plural, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------

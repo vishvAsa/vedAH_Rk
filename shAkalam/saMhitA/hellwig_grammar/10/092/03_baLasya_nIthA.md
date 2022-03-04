@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 10.92.3"
+
++++
+-   *baḍ* \< *baṭ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *nīthā* \< *nīthāḥ* \< *nīthā*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *paṇeś* \< *paṇeḥ* \< *paṇi*
+- \[noun\], genitive, singular, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *manmahe* \< *man*
+- \[verb\], plural, Present indikative
+- “think of; name; believe; teach; honor; deem; recommend; approve;
+    think; define; call; respect; believe; enumerate; understand; see;
+    describe.”
+------------------------------------------------------------------------
+- *vayā* \< *vayāḥ* \< *vayā*
+- \[noun\], nominative, plural, feminine
+- “branch; branchlet.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *prahutā* \< *prahutāḥ* \< *prahu* \< *√hu*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *āsur* \< *āsuḥ* \< *as*
+- \[verb\], plural, Perfect indicative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *attave* \< *ad*
+- \[verb noun\]
+- “eat; devour.”
+------------------------------------------------------------------------
+- *yadā*
+- \[adverb\]
+- “once \[when\]; if.”
+------------------------------------------------------------------------
+- *ghorāso* \< *ghorāsaḥ* \< *ghora*
+- \[noun\], nominative, plural, masculine
+- “awful; dangerous; terrific; intense; dreadful.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *amṛta*
+- \[noun\]
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *tvam* \< *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *āśatād* \< *āśata* \< *aś*
+- \[verb\], plural, Root aorist (Ind.)
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *āśatād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *ij* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *janasya* \< *jana*
+- \[noun\], genitive, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *daivyasya* \< *daivya*
+- \[noun\], genitive, singular, masculine
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *carkiran* \< *carkar* \< *√kṛ*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “praise; commemorate.”
+------------------------------------------------------------------------

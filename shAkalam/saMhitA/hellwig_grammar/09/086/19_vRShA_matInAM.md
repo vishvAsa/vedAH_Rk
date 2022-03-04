@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 9.86.19"
+
++++
+-   *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *matīnām* \< *mati*
+- \[noun\], genitive, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- \[noun\], nominative, singular, masculine
+- “expert; wise; discerning; clear-sighted; conversant(p); bright.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *ahnaḥ* \< *ahar*
+- \[noun\], genitive, singular, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *pratarītoṣaso* \< *pratarītā* \< *pratarītṛ*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pratarītoṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *krāṇā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *sindhūnāṃ* \< *sindhūnām* \< *sindhu*
+- \[noun\], genitive, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *kalaśāṃ* \< *kalaśa*
+- \[noun\], accusative, plural, masculine
+- “jar.”
+------------------------------------------------------------------------
+- *avīvaśad* \< *avīvaśat* \< *vāś*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “bellow; howl; sing; moo; shout.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *hārdy* \< *hārdi*
+- \[noun\], accusative, singular, neuter
+- “heart.”
+------------------------------------------------------------------------
+- *āviśan* \< *āviś* \< *√viś*
+- \[verb noun\], nominative, singular
+- “enter; overwhelm; possess; approach; afflict; enter (a state);
+    reach; wear.”
+------------------------------------------------------------------------
+- *manīṣibhiḥ* \< *manīṣin*
+- \[noun\], instrumental, plural, masculine
+- “sage; expert; devout.”
+------------------------------------------------------------------------

@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 10.61.14"
+
++++
+-   *bhargo* \< *bhargaḥ* \< *bhargas*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *nāmota* \< *nāma* \< *nāman*
+- \[noun\], nominative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *nāmota* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *ṇa* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *triṣadhasthe* \< *triṣadhastha*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *niṣeduḥ* \< *niṣad* \< *√sad*
+- \[verb\], plural, Perfect indicative
+- “sit down; sit; put.”
+------------------------------------------------------------------------
+- *agnir* \< *agniḥ* \< *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *nāmota* \< *nāma* \< *nāman*
+- \[noun\], nominative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *nāmota* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *jātavedāḥ* \< *jātavedas*
+- \[noun\], nominative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *śrudhī* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hotar* \< *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *hotādhruk* \< *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *hotādhruk* \< *adhruk* \< *adruh*
+- \[noun\], nominative, singular, masculine
+- “friendly; benign.”
+------------------------------------------------------------------------

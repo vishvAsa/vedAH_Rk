@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 9.72.9"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tū* \< *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *śatadātv* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatadātv* \< *dātu*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- \[noun\], accusative, singular, neuter
+- “equine.”
+------------------------------------------------------------------------
+- *sahasradātu* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasradātu* \< *dātu*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *paśumaddhiraṇyavat* \< *paśumat*
+- \[noun\], accusative, singular, neuter
+- “rich in cattle.”
+------------------------------------------------------------------------
+- *paśumaddhiraṇyavat* \< *hiraṇyavat*
+- \[noun\], accusative, singular, neuter
+- “possessing gold.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *māsva* \< *mā*
+- \[verb\], singular, Aorist imperative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *bṛhatī* \< *bṛhat*
+- \[noun\], accusative, plural, feminine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *revatīr* \< *revatīḥ* \< *revat*
+- \[noun\], accusative, plural, feminine
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *iṣo* \< *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *'dhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *stotrasya* \< *stotra*
+- \[noun\], genitive, singular, neuter
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *pavamāna* \< *pū*
+- \[verb noun\], vocative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *gahi* \< *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------

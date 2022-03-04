@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 10.33.8"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īśīyāmṛtānām* \< *īśīya* \< *īś*
+- \[verb\], singular, Present optative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *īśīyāmṛtānām* \< *amṛtānām* \< *amṛta*
+- \[noun\], genitive, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *martyānām* \< *martya*
+- \[noun\], genitive, plural, masculine
+- “mortal.”
+------------------------------------------------------------------------
+- *jīved* \< *jīvet* \< *jīv*
+- \[verb\], singular, Present optative
+- “survive; be; exist; live on; dwell.”
+------------------------------------------------------------------------
+- *in* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------

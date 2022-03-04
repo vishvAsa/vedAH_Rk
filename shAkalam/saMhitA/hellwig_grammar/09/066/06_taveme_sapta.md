@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 9.66.6"
+
++++
+-   *taveme* \< *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *taveme* \< *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sapta* \< *saptan*
+- \[noun\], nominative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *praśiṣaṃ* \< *praśiṣam* \< *praśis*
+- \[noun\], accusative, singular, feminine
+- “order; direction.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sisrate* \< *sṛ*
+- \[verb\], plural, Present indikative
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhāvanti* \< *dhāv*
+- \[verb\], plural, Present indikative
+- “run; run; wash.”
+------------------------------------------------------------------------
+- *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------

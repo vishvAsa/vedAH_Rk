@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 9.86.24"
+
++++
+-   *tvāṃ* \< *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavamānaṃ* \< *pavamānam* \< *pū*
+- \[verb noun\], accusative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *svādhyo* \< *svādhyaḥ* \< *svādhī*
+- \[noun\], nominative, plural, masculine
+- “devout; heedful; prudent.”
+------------------------------------------------------------------------
+- *'nu* \< *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *viprāso* \< *viprāsaḥ* \< *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *amadann* \< *amadan* \< *mad*
+- \[verb\], plural, Imperfect
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *avasyavaḥ* \< *avasyu*
+- \[noun\], nominative, plural, masculine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *tvāṃ* \< *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suparṇa* \< *suparṇaḥ* \< *suparṇa*
+- \[noun\], nominative, singular, masculine
+- “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
+------------------------------------------------------------------------
+- *ābharad* \< *ābharat* \< *ābhṛ* \< *√bhṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “bring.”
+------------------------------------------------------------------------
+- *divas* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *parīndo* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *parīndo* \< *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- \[noun\], instrumental, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *matibhiḥ* \< *mati*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *pariṣkṛtam* \< *pariṣkṛ* \< *√kṛ*
+- \[verb noun\], accusative, singular
+- “decorate.”
+------------------------------------------------------------------------

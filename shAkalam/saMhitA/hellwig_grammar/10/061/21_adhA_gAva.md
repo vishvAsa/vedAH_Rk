@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 10.61.21"
+
++++
+-   *adhā* \< *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *gāva* \< *gāvaḥ* \< *go*
+- \[noun\], nominative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *upamātiṃ* \< *upamātim* \< *upamāti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *kanāyā* \< *kanāyāḥ* \< *kanā*
+- \[noun\], genitive, singular, feminine
+- “girl.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *śvāntasya* \< *śvānta*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *kasya* \< *ka*
+- \[noun\], genitive, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *pareyuḥ* \< *pare* \< *√i*
+- \[verb\], plural, Present optative
+- “travel; depart; go; die.”
+------------------------------------------------------------------------
+- *śrudhi* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sudraviṇo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudraviṇo* \< *draviṇaḥ* \< *draviṇas*
+- \[noun\], vocative, singular, masculine
+- “property.”
+------------------------------------------------------------------------
+- *nas* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *yāḍ* \< *yāṭ* \< *yaj*
+- \[verb\], singular, Aorist inj. (proh.)
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *āśvaghnasya* \< *āśvaghna*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *vāvṛdhe* \< *vṛdh*
+- \[verb\], singular, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *sūnṛtābhiḥ* \< *sūnṛtā*
+- \[noun\], instrumental, plural, feminine
+- “liberality.”
+------------------------------------------------------------------------

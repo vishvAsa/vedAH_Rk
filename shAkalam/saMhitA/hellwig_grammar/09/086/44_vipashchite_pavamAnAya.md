@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 9.86.44"
+
++++
+-   *vipaścite* \< *vipaścit*
+- \[noun\], dative, singular, masculine
+- “wise; expert.”
+------------------------------------------------------------------------
+- *pavamānāya* \< *pū*
+- \[verb noun\], dative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *gāyata* \< *gā*
+- \[verb\], plural, Present imperative
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------
+- *mahī* \< *mah*
+- \[noun\], nominative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhārāty* \< *dhārā*
+- \[noun\], nominative, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *dhārāty* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *andho* \< *andhaḥ* \< *andhas*
+- \[noun\], nominative, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *arṣati* \< *ṛṣ*
+- \[verb\], singular, Present indikative
+- “run.”
+------------------------------------------------------------------------
+- *ahir* \< *ahiḥ* \< *ahi*
+- \[noun\], nominative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jūrṇām* \< *jṛ*
+- \[verb noun\], accusative, singular
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *sarpati* \< *sṛp*
+- \[verb\], singular, Present indikative
+- “crawl; spread; wander.”
+------------------------------------------------------------------------
+- *tvacam* \< *tvac*
+- \[noun\], accusative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+------------------------------------------------------------------------
+- *atyo* \< *atyaḥ* \< *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *krīﾱann* \< *krīḍan* \< *krīḍ*
+- \[verb noun\], nominative, singular
+- “frolic; love; play; amuse.”
+------------------------------------------------------------------------
+- *asarad* \< *asarat* \< *sṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *hariḥ* \< *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------

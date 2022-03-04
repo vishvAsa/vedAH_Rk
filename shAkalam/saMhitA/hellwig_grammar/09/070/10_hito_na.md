@@ -1,0 +1,103 @@
++++
+title = "Rig Veda 9.70.10"
+
++++
+-   *hito* \< *hitaḥ* \< *hi*
+- \[verb noun\], nominative, singular
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *saptir* \< *saptiḥ* \< *sapti*
+- \[noun\], nominative, singular, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *arṣendrasyendo* \< *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *arṣendrasyendo* \< *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *arṣendrasyendo* \< *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *jaṭharam* \< *jaṭhara*
+- \[noun\], accusative, singular, neuter
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pavasva* \< *pū*
+- \[verb\], singular, Present imperative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *nāvā* \< *nau*
+- \[noun\], instrumental, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sindhum* \< *sindhu*
+- \[noun\], accusative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *parṣi* \< *pṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *vidvāñchūro* \< *vidvān* \< *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *vidvāñchūro* \< *śūraḥ* \< *śūra*
+- \[noun\], nominative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yudhyann* \< *yudhyan* \< *yudh*
+- \[verb noun\], nominative, singular
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *nida* \< *nidaḥ* \< *nid*
+- \[noun\], ablative, singular, feminine
+- “derision; scoffer; contempt.”
+------------------------------------------------------------------------
+- *spaḥ* \< *spṛ*
+- \[verb\], singular, Aorist inj. (proh.)
+------------------------------------------------------------------------

@@ -1,0 +1,101 @@
++++
+title = "Rig Veda 10.54.1"
+
++++
+-   *tāṃ* \< *tām* \< *tad*
+- \[noun\], accusative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *kīrtim* \< *kīrti*
+- \[noun\], accusative, singular, feminine
+- “fame; fame; glory; kīrti \[word\]; mention.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *mahitvā* \< *mahitva*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *bhīte* \< *bhī*
+- \[verb noun\], nominative, dual
+- “fear; fear.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], nominative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *ahvayetām* \< *hvā*
+- \[verb\], dual, Imperfect
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *prāvo* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāvo* \< *āvaḥ* \< *av*
+- \[verb\], singular, Imperfect
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *devāṃ* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ātiro* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ātiro* \< *atiraḥ* \< *tṛ*
+- \[verb\], singular, Imperfect
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *dāsam* \< *dāsa*
+- \[noun\], accusative, singular, neuter
+- “dāsa(a).”
+------------------------------------------------------------------------
+- *ojaḥ* \< *ojas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *prajāyai* \< *prajā*
+- \[noun\], dative, singular, feminine
+- “people; offspring; being; national; man; prajā \[word\]; creature;
+    child; descendants; population; race; animal.”
+------------------------------------------------------------------------
+- *tvasyai* \< *tva*
+- \[noun\], dative, singular, feminine
+- “many a(a); one.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *aśikṣa* \< *aśikṣaḥ* \< *śikṣ*
+- \[verb\], singular, Imperfect
+- “help; give.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------

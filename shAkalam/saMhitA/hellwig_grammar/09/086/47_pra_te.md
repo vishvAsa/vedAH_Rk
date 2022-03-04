@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 9.86.47"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *aty* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *aṇvāni* \< *aṇva*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *meṣyaḥ* \< *meṣī*
+- \[noun\], accusative, plural, feminine
+- “ewe; Dalbergia oojeinensis.”
+------------------------------------------------------------------------
+- *punānasya* \< *pū*
+- \[verb noun\], genitive, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *saṃyato* \< *saṃyataḥ* \< *saṃyat*
+- \[noun\], nominative, plural, feminine
+- “continuous.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *raṃhayaḥ* \< *raṃhi*
+- \[noun\], nominative, plural, feminine
+- “speed.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *gobhir* \< *gobhiḥ* \< *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *camvoḥ* \< *camū*
+- \[noun\], locative, dual, feminine
+- “army; camū; Camū.”
+------------------------------------------------------------------------
+- *samajyasa* \< *samajyase* \< *samañj* \< *√añj*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “anoint.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suvānaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *kalaśeṣu* \< *kalaśa*
+- \[noun\], locative, plural, masculine
+- “jar.”
+------------------------------------------------------------------------
+- *sīdasi* \< *sad*
+- \[verb\], singular, Present indikative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------

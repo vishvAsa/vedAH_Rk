@@ -1,0 +1,102 @@
++++
+title = "Rig Veda 10.107.8"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *bhojā* \< *bhojāḥ* \< *bhoja*
+- \[noun\], nominative, plural, masculine
+- “big; hospitable.”
+------------------------------------------------------------------------
+- *mamrur* \< *mamruḥ* \< *mṛ*
+- \[verb\], plural, Perfect indicative
+- “mṛ; die; disappear; go out.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nyartham* \< *nyartha*
+- \[noun\], accusative, singular, neuter
+- “failure.”
+------------------------------------------------------------------------
+- *īyur* \< *īyuḥ* \< *i*
+- \[verb\], plural, Perfect indicative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *riṣyanti* \< *riṣ*
+- \[verb\], plural, Present indikative
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vyathante* \< *vyath*
+- \[verb\], plural, Present indikative
+- “despair; tremble; disperse; flicker; pain; arouse.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *bhojāḥ* \< *bhoja*
+- \[noun\], nominative, plural, masculine
+- “big; hospitable.”
+------------------------------------------------------------------------
+- *idaṃ* \< *idam*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yad* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viśvam* \< *viśva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *bhuvanaṃ* \< *bhuvanam* \< *bhuvana*
+- \[noun\], nominative, singular, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *svaś* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *caitat* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *caitat* \< *etat* \< *etad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sarvaṃ* \< *sarvam* \< *sarva*
+- \[noun\], accusative, singular, neuter
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *dakṣiṇaibhyo* \< *dakṣiṇā*
+- \[noun\], nominative, singular, feminine
+- “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
+------------------------------------------------------------------------
+- *dakṣiṇaibhyo* \< *ebhyaḥ* \< *idam*
+- \[noun\], dative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dadāti* \< *dā*
+- \[verb\], singular, Present indikative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------

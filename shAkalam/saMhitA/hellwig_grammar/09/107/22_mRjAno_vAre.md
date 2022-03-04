@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 9.107.22"
+
++++
+-   *mṛjāno* \< *mṛjānaḥ* \< *mṛj*
+- \[verb noun\], nominative, singular
+- “purify; polish; rub; remove.”
+------------------------------------------------------------------------
+- *vāre* \< *vāra*
+- \[noun\], locative, singular, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *pavamāno* \< *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *avyaye* \< *avyaya*
+- \[noun\], locative, singular, masculine
+- “sheep.”
+------------------------------------------------------------------------
+- *vṛṣāva* \< *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣāva* \< *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *cakrado* \< *cakradaḥ* \< *krand*
+- \[verb\], singular, Plusquamperfect
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *vane* \< *vana*
+- \[noun\], locative, singular, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *devānāṃ* \< *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *pavamāna* \< *pū*
+- \[verb noun\], vocative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *niṣkṛtaṃ* \< *niṣkṛtam* \< *niṣkṛta*
+- \[noun\], accusative, singular, neuter
+- “place; rendezvous.”
+------------------------------------------------------------------------
+- *gobhir* \< *gobhiḥ* \< *go*
+- \[noun\], instrumental, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *añjāno* \< *añjānaḥ* \< *añj*
+- \[verb noun\], nominative, singular
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *arṣasi* \< *ṛṣ*
+- \[verb\], singular, Present indikative
+- “run.”
+------------------------------------------------------------------------

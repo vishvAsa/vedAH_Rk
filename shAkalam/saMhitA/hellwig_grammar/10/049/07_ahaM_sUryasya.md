@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 10.49.7"
+
++++
+-   *ahaṃ* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sūryasya* \< *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *yāmy* \< *yāmi* \< *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *āśubhiḥ* \< *āśu*
+- \[noun\], instrumental, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *praitaśebhir* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *praitaśebhir* \< *etaśebhiḥ* \< *etaśa*
+- \[noun\], instrumental, plural, masculine
+- “Etaśa; horse.”
+------------------------------------------------------------------------
+- *vahamāna* \< *vahamānaḥ* \< *vah*
+- \[verb noun\], nominative, singular
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *yan* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sāvo* \< *sāvaḥ* \< *sāva*
+- \[noun\], nominative, singular, masculine
+- “libation.”
+------------------------------------------------------------------------
+- *manuṣa* \< *manuṣaḥ* \< *manus*
+- \[noun\], genitive, singular, masculine
+- “Manu; man.”
+------------------------------------------------------------------------
+- *āha* \< *ah*
+- \[verb\], singular, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------
+- *nirṇija* \< *nirṇije* \< *nirṇij*
+- \[noun\], dative, singular, feminine
+- “attire; garment.”
+------------------------------------------------------------------------
+- *ṛdhak*
+- \[adverb\]
+- “away; apart.”
+------------------------------------------------------------------------
+- *kṛṣe* \< *kṛṣ*
+- \[verb\], singular, Present indikative
+- “plow; drag; pull; dry; irritate.”
+------------------------------------------------------------------------
+- *dāsaṃ* \< *dāsam* \< *dāsa*
+- \[noun\], accusative, singular, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *kṛtvyaṃ* \< *kṛtvyam* \< *kṛtvya*
+- \[noun\], accusative, singular, masculine
+- “confident.”
+------------------------------------------------------------------------
+- *hathaiḥ* \< *hatha*
+- \[noun\], instrumental, plural, masculine
+- “blow.”
+------------------------------------------------------------------------

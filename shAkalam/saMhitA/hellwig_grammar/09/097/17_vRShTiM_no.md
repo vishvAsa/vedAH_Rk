@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 9.97.17"
+
++++
+-   *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- \[noun\], accusative, singular, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *divyāṃ* \< *divyām* \< *divya*
+- \[noun\], accusative, singular, feminine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *jigatnum* \< *jigatnu*
+- \[noun\], accusative, singular, feminine
+- “moving.”
+------------------------------------------------------------------------
+- *iﾱāvatīṃ* \< *iﾱāvatīm* \< *iḍāvat*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *śaṅgayīṃ* \< *śaṅgayīm* \< *śaṃgaya*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *jīradānum* \< *jīra*
+- \[noun\]
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *jīradānum* \< *dānum* \< *dānu*
+- \[noun\], accusative, singular, feminine
+- “Dānu; dew; drop.”
+------------------------------------------------------------------------
+- *stukeva* \< *stukā*
+- \[noun\], nominative, singular, feminine
+- “tuft.”
+------------------------------------------------------------------------
+- *stukeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vītā* \< *vīta*
+- \[noun\], nominative, singular, feminine
+- “straight; smooth.”
+------------------------------------------------------------------------
+- *dhanvā* \< *dhanva* \< *dhanv*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *vicinvan* \< *vici* \< *√ci*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *bandhūṃr* \< *bandhu*
+- \[noun\], accusative, plural, masculine
+- “relative; bandhu \[word\]; association; friend; kin.”
+------------------------------------------------------------------------
+- *imāṃ* \< *imān* \< *idam*
+- \[noun\], accusative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *avarāṃ* \< *avara*
+- \[noun\], accusative, plural, masculine
+- “worst; avara \[word\]; lower; nearer; base; short; low; abject;
+    later(a); worse; antecedent.”
+------------------------------------------------------------------------
+- *indo* \< *indu*
+- \[noun\], vocative, singular, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *vāyūn* \< *vāyu*
+- \[noun\], accusative, plural, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------

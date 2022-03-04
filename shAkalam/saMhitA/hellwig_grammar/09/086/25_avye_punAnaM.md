@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 9.86.25"
+
++++
+-   *avye* \< *avya*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *punānam* \< *pū*
+- \[verb noun\], accusative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *vāra* \< *vāre* \< *vāra*
+- \[noun\], locative, singular, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *ūrmiṇā* \< *ūrmi*
+- \[noun\], instrumental, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *hariṃ* \< *harim* \< *hari*
+- \[noun\], accusative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *navante* \< *nū*
+- \[verb\], plural, Present indikative
+- “praise; shout.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *sapta* \< *saptan*
+- \[noun\], nominative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *apām* \< *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *upasthe* \< *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *adhy* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *āyavaḥ* \< *āyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *kavim* \< *kavi*
+- \[noun\], accusative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yonā* \< *yoni*
+- \[noun\], locative, singular, feminine
+- “vagina; vulva; uterus; beginning; origin; reincarnation;
+    birthplace; family; production; cause; race; grain; raw material;
+    birth; kind; caste; kinship; bed.”
+------------------------------------------------------------------------
+- *mahiṣā* \< *mahiṣāḥ* \< *mahiṣa*
+- \[noun\], nominative, plural, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *aheṣata* \< *hi*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------

@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 9.74.5"
+
++++
+-   *arāvīd* \< *arāvīt* \< *ru*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “bellow; howl.”
+------------------------------------------------------------------------
+- *aṃśuḥ* \< *aṃśu*
+- \[noun\], nominative, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+------------------------------------------------------------------------
+- *sacamāna* \< *sacamānaḥ* \< *sac*
+- \[verb noun\], nominative, singular
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *ūrmiṇā* \< *ūrmi*
+- \[noun\], instrumental, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *devāvyam* \< *devāvī*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *manuṣe* \< *manus*
+- \[noun\], dative, singular, masculine
+- “Manu; man.”
+------------------------------------------------------------------------
+- *pinvati* \< *pinv*
+- \[verb\], singular, Present indikative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *tvacam* \< *tvac*
+- \[noun\], accusative, singular, feminine
+- “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
+------------------------------------------------------------------------
+- *dadhāti* \< *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *garbham* \< *garbha*
+- \[noun\], accusative, singular, masculine
+- “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
+    garbhadruti; filling; pregnancy; room; abdomen; fertilization;
+    inside; hole; baby; calyx; midst.”
+------------------------------------------------------------------------
+- *aditer* \< *aditeḥ* \< *aditi*
+- \[noun\], genitive, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *upastha* \< *upasthe* \< *upastha*
+- \[noun\], locative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tokaṃ* \< *tokam* \< *toka*
+- \[noun\], accusative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *tanayaṃ* \< *tanayam* \< *tanaya*
+- \[noun\], accusative, singular, masculine
+- “son.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *dhāmahe* \< *dhā*
+- \[verb\], plural, Aorist conj./subj.
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------

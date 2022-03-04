@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.39.10"
+
++++
+-   *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual, masculine
+- “you.”
+------------------------------------------------------------------------
+- *śvetam* \< *śveta*
+- \[noun\], accusative, singular, masculine
+- “white; bright; śveta \[word\]; bright.”
+------------------------------------------------------------------------
+- *pedave* \< *pedu*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *'śvināśvaṃ* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *'śvināśvaṃ* \< *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *navabhir* \< *navabhiḥ* \< *navan*
+- \[noun\], instrumental, plural, masculine
+- “nine.”
+------------------------------------------------------------------------
+- *vājair* \< *vājaiḥ* \< *vāja*
+- \[noun\], instrumental, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *navatī* \< *navati*
+- \[noun\], instrumental, singular, feminine
+- “ninety; navati \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vājinam* \< *vājin*
+- \[noun\], accusative, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *carkṛtyaṃ* \< *carkṛtyam* \< *carkar* \< *√kṛ*
+- \[verb noun\], accusative, singular
+- “praise; commemorate.”
+------------------------------------------------------------------------
+- *dadathur* \< *dadathuḥ* \< *dā*
+- \[verb\], dual, Perfect indicative
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *drāvayatsakham* \< *drāvayat* \< *drāvay* \< *√dru*
+- \[verb noun\]
+- “melt; liquefy; chase away; dissolve.”
+------------------------------------------------------------------------
+- *drāvayatsakham* \< *sakham* \< *sakha*
+- \[noun\], accusative, singular, masculine
+- “friend; Kubera.”
+------------------------------------------------------------------------
+- *bhagaṃ* \< *bhagam* \< *bhaga*
+- \[noun\], accusative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- \[noun\], dative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *havyam* \< *hvā*
+- \[verb noun\], accusative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *mayobhuvam* \< *mayobhu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------

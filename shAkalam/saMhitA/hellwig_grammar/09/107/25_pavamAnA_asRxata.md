@@ -1,0 +1,57 @@
++++
+title = "Rig Veda 9.107.25"
+
++++
+-   *pavamānā* \< *pavamānāḥ* \< *pū*
+- \[verb noun\], nominative, plural
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *asṛkṣata* \< *sṛj*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *pavitram* \< *pavitra*
+- \[noun\], accusative, singular, neuter
+- “strainer.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *dhārayā* \< *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *marutvanto* \< *marutvantaḥ* \< *marutvat*
+- \[noun\], nominative, plural, masculine
+- “Marut(a).”
+------------------------------------------------------------------------
+- *matsarā* \< *matsarāḥ* \< *matsara*
+- \[noun\], nominative, plural, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *indriyā* \< *indriyāḥ* \< *indriya*
+- \[noun\], nominative, plural, masculine
+- “aindra.”
+------------------------------------------------------------------------
+- *hayā* \< *hayāḥ* \< *haya*
+- \[noun\], nominative, plural, masculine
+- “horse; Haya.”
+------------------------------------------------------------------------
+- *medhām* \< *medhā*
+- \[noun\], accusative, singular, feminine
+- “intelligence; medhā \[word\]; Medhā.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *prayāṃsi* \< *prayas*
+- \[noun\], accusative, plural, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------

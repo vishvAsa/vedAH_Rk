@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 9.85.11"
+
++++
+-   *nāke* \< *nāka*
+- \[noun\], locative, singular, masculine
+- “sky; celestial sphere; Svarga; nāka \[word\].”
+------------------------------------------------------------------------
+- *suparṇam* \< *suparṇa*
+- \[noun\], accusative, singular, masculine
+- “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
+------------------------------------------------------------------------
+- *upapaptivāṃsaṃ* \< *upapaptivāṃsam* \< *upapat* \< *√pat*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *giro* \< *giraḥ* \< *gir*
+- \[noun\], nominative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *venānām* \< *vena*
+- \[noun\], genitive, plural, masculine
+- “Vena.”
+------------------------------------------------------------------------
+- *akṛpanta* \< *kṛp*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *śiśuṃ* \< *śiśum* \< *śiśu*
+- \[noun\], accusative, singular, masculine
+- “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
+------------------------------------------------------------------------
+- *rihanti* \< *rih*
+- \[verb\], plural, Present indikative
+- “lick.”
+------------------------------------------------------------------------
+- *matayaḥ* \< *mati*
+- \[noun\], nominative, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *panipnataṃ* \< *panipnatam* \< *panipn* \< *√pan*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *hiraṇyayaṃ* \< *hiraṇyayam* \< *hiraṇyaya*
+- \[noun\], accusative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *śakunaṃ* \< *śakunam* \< *śakuna*
+- \[noun\], accusative, singular, masculine
+- “bird; large bird.”
+------------------------------------------------------------------------
+- *kṣāmaṇi* \< *kṣāman*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *sthām* \< *sthā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
