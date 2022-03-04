@@ -1,0 +1,48 @@
++++
+title = "Rig Veda 9.15.8"
+
++++
+-   *etam* \< *etad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tyaṃ* \< *tyam* \< *tya*
+- \[noun\], accusative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *daśa* \< *daśan*
+- \[noun\], nominative, plural, feminine
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *kṣipo* \< *kṣipaḥ* \< *kṣip*
+- \[noun\], nominative, plural, feminine
+- “finger.”
+------------------------------------------------------------------------
+- *mṛjanti* \< *mṛj*
+- \[verb\], plural, Present indikative
+- “purify; polish; rub; remove.”
+------------------------------------------------------------------------
+- *sapta* \< *saptan*
+- \[noun\], nominative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *dhītayaḥ* \< *dhīti*
+- \[noun\], nominative, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+- *svāyudham* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svāyudham* \< *āyudham* \< *āyudha*
+- \[noun\], accusative, singular, masculine
+- “weapon; āyudha \[word\].”
+------------------------------------------------------------------------
+- *madintamam* \< *madintama*
+- \[noun\], accusative, singular, masculine
+- “exhilarating; intoxicant.”
+------------------------------------------------------------------------
