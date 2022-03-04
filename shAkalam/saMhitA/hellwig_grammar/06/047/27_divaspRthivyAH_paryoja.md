@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 6.47.27"
+
++++
+-   *divas* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *oja* \< *ojaḥ* \< *ojas*
+- \[noun\], nominative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *udbhṛtaṃ* \< *udbhṛtam* \< *udbhṛ* \< *√bhṛ*
+- \[verb noun\], nominative, singular
+- “take out; raise.”
+------------------------------------------------------------------------
+- *vanaspatibhyaḥ* \< *vanaspati*
+- \[noun\], ablative, plural, masculine
+- “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ābhṛtaṃ* \< *ābhṛtam* \< *ābhṛ* \< *√bhṛ*
+- \[verb noun\], nominative, singular
+- “bring.”
+------------------------------------------------------------------------
+- *sahaḥ* \< *sahas*
+- \[noun\], nominative, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *apām* \< *ap*
+- \[noun\], genitive, plural, masculine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *ojmānam* \< *ojman*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *gobhir* \< *gobhiḥ* \< *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *āvṛtam* \< *āvṛ* \< *√vṛ*
+- \[verb noun\], accusative, singular
+- “envelop; accompany; surround; obstruct; cover; close; surround;
+    endow; overwhelm; mix; coat.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vajraṃ* \< *vajram* \< *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *haviṣā* \< *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *yaja* \< *yaj*
+- \[verb\], singular, Present imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------

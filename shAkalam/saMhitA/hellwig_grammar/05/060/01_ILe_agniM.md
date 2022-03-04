@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 5.60.1"
+
++++
+-   *īﾱe* \< *īḍ*
+- \[verb\], singular, Present indikative
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *agniṃ* \< *agnim* \< *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *svavasaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svavasaṃ* \< *avasam* \< *avas*
+- \[noun\], accusative, singular, masculine
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *namobhir* \< *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *prasatto* \< *prasattaḥ* \< *prasad* \< *√sad*
+- \[verb noun\], nominative, singular
+- “calm; clear up; forgive; feel for.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *cayat* \< *ci*
+- \[verb\], singular, Aorist inj. (proh.)
+- “cover; accumulate; pile up; pick; cover.”
+------------------------------------------------------------------------
+- *kṛtaṃ* \< *kṛtam* \< *kṛta*
+- \[noun\], accusative, singular, neuter
+- “Kṛta; action; throw; work; production; work; kindness; four; kṛta
+    \[word\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rathair* \< *rathaiḥ* \< *ratha*
+- \[noun\], instrumental, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *bhare* \< *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *vājayadbhiḥ* \< *vājay* \< *√vaj*
+- \[verb noun\], instrumental, plural
+- “incite.”
+------------------------------------------------------------------------
+- *pradakṣiṇin* \< *pradakṣiṇit*
+- \[adverb\]
+------------------------------------------------------------------------
+- *marutāṃ* \< *marutām* \< *marut*
+- \[noun\], genitive, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *stomam* \< *stoma*
+- \[noun\], accusative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *ṛdhyām* \< *ṛdh*
+- \[verb\], singular, Aorist optative
+- “boom; stick to.”
+------------------------------------------------------------------------

@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 6.3.6"
+
++++
+-   *sa* \< *saḥ* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *rebho* \< *rebhaḥ* \< *rebha*
+- \[noun\], nominative, singular, masculine
+- “bard; eulogist.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *vasta* \< *vasto* \< *vastu*
+- \[noun\], genitive, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *usrāḥ* \< *usrā*
+- \[noun\], accusative, plural, feminine
+- “cow; dawn.”
+------------------------------------------------------------------------
+- *śociṣā* \< *śocis*
+- \[noun\], instrumental, singular, neuter
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *rārapīti* \< *rārap* \< *√rap*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *mitramahāḥ* \< *mitra*
+- \[noun\], masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *mitramahāḥ* \< *mahāḥ* \< *mahas*
+- \[noun\], nominative, singular, masculine
+- “greatness; festival; glory; reward; gladness.”
+------------------------------------------------------------------------
+- *naktaṃ* \< *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *ya* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- \[noun\], nominative, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *divā* \< *div*
+- \[noun\], instrumental, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *amartyo* \< *amartyaḥ* \< *amartya*
+- \[noun\], nominative, singular, masculine
+- “immortal.”
+------------------------------------------------------------------------
+- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- \[noun\], nominative, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *divā* \< *div*
+- \[noun\], instrumental, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------

@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 6.21.1"
+
++++
+-   *imā* \< *imāḥ* \< *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *purutamasya* \< *purutama*
+- \[noun\], genitive, singular, masculine
+- “most(a).”
+------------------------------------------------------------------------
+- *kāror* \< *kāroḥ* \< *kāru*
+- \[noun\], genitive, singular, masculine
+- “poet; singer.”
+------------------------------------------------------------------------
+- *havyaṃ* \< *havyam* \< *hu*
+- \[verb noun\], accusative, singular
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *vīra*
+- \[noun\], vocative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *havyā* \< *havyāḥ* \< *hu*
+- \[verb noun\], nominative, plural
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- \[noun\], nominative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *ratheṣṭhām* \< *ratheṣṭhā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ajaraṃ* \< *ajaram* \< *ajara*
+- \[noun\], accusative, singular, masculine
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *navīyo* \< *navīyaḥ* \< *navīyas*
+- \[noun\], accusative, singular, neuter
+- “new; fresh; up-to-the-minute.”
+------------------------------------------------------------------------
+- *rayir* \< *rayiḥ* \< *rayi*
+- \[noun\], nominative, singular, feminine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *vibhūtir* \< *vibhūtiḥ* \< *vibhūti*
+- \[noun\], nominative, singular, masculine
+- “plentiful.”
+------------------------------------------------------------------------
+- *īyate* \< *i*
+- \[verb\], singular, Perfect conjunctive (subj.)
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vacasyā*
+- \[noun\], instrumental, singular, feminine
+- “eloquence.”
+------------------------------------------------------------------------

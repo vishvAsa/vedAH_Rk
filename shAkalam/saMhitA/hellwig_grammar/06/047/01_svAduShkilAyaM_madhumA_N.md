@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 6.47.1"
+
++++
+-   *svāduṣ* \< *svāduḥ* \< *svādu*
+- \[noun\], nominative, singular, masculine
+- “Madhura; sweet; sweet; dainty; agreeable.”
+------------------------------------------------------------------------
+- *kilāyam* \< *kila*
+- \[adverb\]
+- “assuredly; indeed; kila \[indecl.\].”
+------------------------------------------------------------------------
+- *kilāyam* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *madhumāṃ* \< *madhumat*
+- \[noun\], nominative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *utāyaṃ* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāyaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *tīvraḥ* \< *tīvra*
+- \[noun\], nominative, singular, masculine
+- “intense; severe; pungent; acute; potent; loud.”
+------------------------------------------------------------------------
+- *kilāyaṃ* \< *kila*
+- \[adverb\]
+- “assuredly; indeed; kila \[indecl.\].”
+------------------------------------------------------------------------
+- *kilāyaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rasavāṃ* \< *rasavat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *utāyam* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāyam* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *uto* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *nv* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *papivāṃsam* \< *pā*
+- \[verb noun\], accusative, singular
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kaścana*
+- \[noun\], nominative, singular, masculine
+- “some(a); any(a); some(a); any(a).”
+------------------------------------------------------------------------
+- *sahata* \< *sahate* \< *sah*
+- \[verb\], singular, Present indikative
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *āhaveṣu* \< *āhava*
+- \[noun\], locative, plural, masculine
+- “battle; fight; challenge; war.”
+------------------------------------------------------------------------

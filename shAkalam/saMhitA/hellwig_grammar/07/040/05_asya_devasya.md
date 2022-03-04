@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 7.40.5"
+
++++
+-   *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *devasya* \< *deva*
+- \[noun\], genitive, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *mīﾱhuṣo* \< *mīḍhuṣaḥ* \< *mih*
+- \[verb noun\], genitive, singular
+- “make; moisten.”
+------------------------------------------------------------------------
+- *vayā*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *viṣṇor* \< *viṣṇoḥ* \< *viṣṇu*
+- \[noun\], genitive, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *eṣasya* \< *eṣa*
+- \[noun\], genitive, singular, masculine
+- “hurrying.”
+------------------------------------------------------------------------
+- *prabhṛthe* \< *prabhṛtha*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *havirbhiḥ* \< *havis*
+- \[noun\], instrumental, plural, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *vide* \< *vid*
+- \[verb\], singular, Present indikative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *rudro* \< *rudraḥ* \< *rudra*
+- \[noun\], nominative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *rudriyam* \< *rudriya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *mahitvaṃ* \< *mahitvam* \< *mahitva*
+- \[noun\], accusative, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+- *yāsiṣṭaṃ* \< *yāsiṣṭam* \< *yā*
+- \[verb\], dual, Aorist inj. (proh.)
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *vartir* \< *vartiḥ* \< *vartis*
+- \[noun\], accusative, singular, neuter
+- “tour.”
+------------------------------------------------------------------------
+- *aśvināv* \< *aśvinau* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *irāvat*
+- \[noun\], accusative, singular, neuter
+- “enjoyable.”
+------------------------------------------------------------------------

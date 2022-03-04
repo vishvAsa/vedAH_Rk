@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 6.67.9"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *spūrdhan* \< *spṛdh*
+- \[verb\], plural, Present injunctive
+- “rival.”
+------------------------------------------------------------------------
+- *priyā* \< *priya*
+- \[noun\], accusative, plural, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *dhāma* \< *dhāman*
+- \[noun\], accusative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *yuvadhitā* \< *yuvadhita*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *minanti* \< *mī*
+- \[verb\], plural, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devāsa* \< *devāsaḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ohasā* \< *ohas*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *martā* \< *martāḥ* \< *marta*
+- \[noun\], nominative, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *ayajñasāco* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *ayajñasāco* \< *yajñasācaḥ* \< *yajñasāc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *apyo* \< *apyaḥ* \< *apya*
+- \[noun\], nominative, singular, masculine
+- “aquatic; aquatic.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *putrāḥ* \< *putra*
+- \[noun\], nominative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------

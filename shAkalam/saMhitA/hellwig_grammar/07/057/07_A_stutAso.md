@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 7.57.7"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *stutāso* \< *stutāsaḥ* \< *stu*
+- \[verb noun\], nominative, plural
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *viśva* \< *viśve* \< *viśva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ūtī* \< *ūti*
+- \[noun\], instrumental, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *sūrīn* \< *sūri*
+- \[noun\], accusative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *sarvatātā* \< *sarvatāti*
+- \[noun\], locative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *jigāta* \< *gā*
+- \[verb\], plural, Present imperative
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nas* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tmanā* \< *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *śatino* \< *śatinaḥ* \< *śatin*
+- \[noun\], nominative, plural, masculine
+- “hundredfold.”
+------------------------------------------------------------------------
+- *vardhayanti* \< *vardhay* \< *√vṛdh*
+- \[verb\], plural, Present indikative
+- “increase; strengthen; promote; rear; add; greet; laud.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* \< *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* \< *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

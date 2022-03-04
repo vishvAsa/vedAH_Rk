@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 7.74.1"
+
++++
+-   *imā* \< *imāḥ* \< *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *diviṣṭaya* \< *diviṣṭayaḥ* \< *diviṣṭi*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *usrā* \< *usra*
+- \[noun\], accusative, dual, masculine
+- “beam; Asvins.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *ahve* \< *hvā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *'vase* \< *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *śacīvasū* \< *śacī*
+- \[noun\], feminine
+- “Śacī; power; dexterity; ability; aid.”
+------------------------------------------------------------------------
+- *śacīvasū* \< *vasū* \< *vasu*
+- \[noun\], vocative, dual, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *viśaṃ* \< *viśam* \< *viś*
+- \[noun\], accusative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *viśaṃ* \< *viśam* \< *viś*
+- \[noun\], accusative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *gacchathaḥ* \< *gam*
+- \[verb\], dual, Present indikative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------

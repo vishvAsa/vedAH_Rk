@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 6.51.2"
+
++++
+-   *veda* \< *vid*
+- \[verb\], singular, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *yas* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *trīṇi* \< *tri*
+- \[noun\], accusative, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *vidathāny* \< *vidathāni* \< *vidatha*
+- \[noun\], accusative, plural, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *eṣāṃ* \< *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *devānāṃ* \< *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *janma* \< *janman*
+- \[noun\], accusative, singular, neuter
+- “birth; reincarnation; lineage; origin; race; metempsychosis;
+    parentage; descent; appearance; age; birthplace; beginning; being.”
+------------------------------------------------------------------------
+- *sanutar*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vipraḥ* \< *vipra*
+- \[noun\], nominative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *ṛju*
+- \[noun\], accusative, singular, neuter
+- “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
+------------------------------------------------------------------------
+- *marteṣu* \< *marta*
+- \[noun\], locative, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *vṛjinā* \< *vṛjina*
+- \[noun\], accusative, plural, neuter
+- “sin.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *paśyann* \< *paśyan* \< *paś*
+- \[verb noun\], nominative, singular
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *caṣṭe* \< *cakṣ*
+- \[verb\], singular, Present indikative
+- “watch; look.”
+------------------------------------------------------------------------
+- *sūro* \< *sūraḥ* \< *sūra*
+- \[noun\], nominative, singular, masculine
+- “sun.”
+------------------------------------------------------------------------
+- *arya* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *evān* \< *eva*
+- \[noun\], accusative, plural, masculine
+- “eva \[word\]; habit; manner; behavior; custom.”
+------------------------------------------------------------------------

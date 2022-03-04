@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 7.19.9"
+
++++
+-   *sadyaś* \< *sadyas*
+- \[adverb\]
+- “immediately; just; daily; sadyas \[word\].”
+------------------------------------------------------------------------
+- *cin* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *abhiṣṭau* \< *abhiṣṭi*
+- \[noun\], locative, singular, feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *śaṃsanty* \< *śaṃsanti* \< *śaṃs*
+- \[verb\], plural, Present indikative
+- “recommend; tell; praise; approve; communicate; recite; commend;
+    bode; name; agree.”
+------------------------------------------------------------------------
+- *ukthaśāsa* \< *uktha*
+- \[noun\], neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ukthaśāsa* \< *śāsaḥ* \< *śās*
+- \[noun\], nominative, plural, masculine
+- “śās; command; ruler; commander.”
+------------------------------------------------------------------------
+- *ukthā* \< *uktha*
+- \[noun\], accusative, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *havebhir* \< *havebhiḥ* \< *hava*
+- \[noun\], instrumental, plural, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *paṇīṃr* \< *paṇi*
+- \[noun\], accusative, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *adāśann* \< *adāśan* \< *dāś*
+- \[verb\], plural, Imperfect
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *asmān* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vṛṇīṣva* \< *vṛ*
+- \[verb\], singular, Present imperative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *yujyāya* \< *yujya*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *tasmai* \< *tad*
+- \[noun\], dative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------

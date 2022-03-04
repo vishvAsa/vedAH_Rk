@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 5.60.3"
+
++++
+-   *parvataś* \< *parvataḥ* \< *parvata*
+- \[noun\], nominative, singular, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *cin* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *vṛddho* \< *vṛddhaḥ* \< *vṛdh*
+- \[verb noun\], nominative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *bibhāya* \< *bhī*
+- \[verb\], singular, Perfect indicative
+- “fear; fear.”
+------------------------------------------------------------------------
+- *divaś* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *sānu*
+- \[noun\], nominative, singular, neuter
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *rejata* \< *rej*
+- \[verb\], singular, Present injunctive
+- “tremor; flicker.”
+------------------------------------------------------------------------
+- *svane* \< *svana*
+- \[noun\], locative, singular, masculine
+- “noise; sound; svan.”
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *krīﾱatha* \< *krīḷatha* \< *krīḍ*
+- \[verb\], plural, Present indikative
+- “frolic; love; play; amuse.”
+------------------------------------------------------------------------
+- *maruta* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *ṛṣṭimanta* \< *ṛṣṭimantaḥ* \< *ṛṣṭimat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *āpa* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *sadhryañco* \< *sadhryañcaḥ* \< *sadhryañc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *dhavadhve* \< *dhav*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------

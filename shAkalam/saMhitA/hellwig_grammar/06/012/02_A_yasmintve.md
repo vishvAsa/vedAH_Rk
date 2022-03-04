@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 6.12.2"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yasmin* \< *yad*
+- \[noun\], locative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tve* \< *tvad*
+- \[noun\], locative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sv* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *apāke* \< *apāka*
+- \[noun\], locative, singular, masculine
+- “unfestering.”
+------------------------------------------------------------------------
+- *yajatra*
+- \[noun\], vocative, singular, masculine
+- “adorable.”
+------------------------------------------------------------------------
+- *yakṣad* \< *yakṣat* \< *yaj*
+- \[verb\], singular, Aorist conj./subj.
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *sarvatāteva* \< *sarvatātā* \< *sarvatāti*
+- \[noun\], locative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *sarvatāteva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *dyauḥ* \< *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *triṣadhasthas* \< *triṣadhasthaḥ* \< *triṣadhastha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *tataruṣo* \< *tataruṣaḥ* \< *tṛ*
+- \[verb noun\], genitive, singular
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jaṃho* \< *jaṃhaḥ* \< *jaṃhas*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *havyā* \< *havya*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *maghāni* \< *magha*
+- \[noun\], accusative, plural, neuter
+- “gift; wealth; reward; wages; reward.”
+------------------------------------------------------------------------
+- *mānuṣā* \< *mānuṣa*
+- \[noun\], accusative, plural, neuter
+- “human.”
+------------------------------------------------------------------------
+- *yajadhyai* \< *yaj*
+- \[verb noun\]
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------

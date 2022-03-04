@@ -1,0 +1,89 @@
++++
+title = "Rig Veda 7.60.2"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *nṛcakṣā* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- \[noun\], nominative, singular, masculine
+- “eye; look; radiance.”
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], accusative, dual, neuter
+- “both(a).”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *sūryo* \< *sūryaḥ* \< *sūrya*
+- \[noun\], nominative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *jman*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *viśvasya* \< *viśva*
+- \[noun\], genitive, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *sthātur* \< *sthātuḥ* \< *sthātṛ*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *jagataś* \< *jagataḥ* \< *jagat*
+- \[noun\], genitive, singular, masculine
+- “movable; Jagatī; moving.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *gopā* \< *gopāḥ* \< *gopā*
+- \[noun\], nominative, singular, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *ṛju*
+- \[noun\], accusative, singular, neuter
+- “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
+------------------------------------------------------------------------
+- *marteṣu* \< *marta*
+- \[noun\], locative, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *vṛjinā* \< *vṛjina*
+- \[noun\], accusative, plural, neuter
+- “deceitful; crooked; bent.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *paśyan* \< *paś*
+- \[verb noun\], nominative, singular
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------

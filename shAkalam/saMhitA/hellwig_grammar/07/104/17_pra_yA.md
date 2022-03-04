@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 7.104.17"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *jigāti* \< *gā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *khargaleva* \< *khargalā*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *khargaleva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *druhā* \< *druh*
+- \[noun\], instrumental, singular, feminine
+- “deception; druh; misrepresentation; fraudulence; offense; injury.”
+------------------------------------------------------------------------
+- *tanvaṃ* \< *tanvam* \< *tanū*
+- \[noun\], accusative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *gūhamānā* \< *guh*
+- \[verb noun\], nominative, singular
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *vavrāṃ* \< *vavra*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *anantāṃ* \< *ananta*
+- \[noun\], accusative, plural, masculine
+- “infinite; ananta \[word\]; countless; permanent; boundless.”
+------------------------------------------------------------------------
+- *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *sā* \< *tad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *padīṣṭa* \< *pad*
+- \[verb\], singular, Prekativ
+- “fall.”
+------------------------------------------------------------------------
+- *grāvāṇo* \< *grāvāṇaḥ* \< *grāvan*
+- \[noun\], nominative, plural, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *ghnantu* \< *han*
+- \[verb\], plural, Present imperative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *rakṣasa* \< *rakṣasaḥ* \< *rakṣas*
+- \[noun\], accusative, plural, masculine
+- “Rākṣasa.”
+------------------------------------------------------------------------
+- *upabdaiḥ* \< *upabda*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------

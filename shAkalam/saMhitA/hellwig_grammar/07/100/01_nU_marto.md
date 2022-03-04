@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 7.100.1"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *marto* \< *martaḥ* \< *marta*
+- \[noun\], nominative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *dayate* \< *day*
+- \[verb\], singular, Present indikative
+- “share.”
+------------------------------------------------------------------------
+- *saniṣyan* \< *san*
+- \[verb noun\], nominative, singular
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viṣṇava* \< *viṣṇave* \< *viṣṇu*
+- \[noun\], dative, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *urugāyāya* \< *urugāya*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *dāśat* \< *dāś*
+- \[verb\], singular, Present injunctive
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *satrācā* \< *satrāc*
+- \[noun\], instrumental, singular, neuter
+- “focused; attentive.”
+------------------------------------------------------------------------
+- *manasā* \< *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *yajāta* \< *yajāte* \< *yaj*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *etāvantaṃ* \< *etāvantam* \< *etāvat*
+- \[noun\], accusative, singular, masculine
+- “such(a); such(a).”
+------------------------------------------------------------------------
+- *naryam* \< *narya*
+- \[noun\], accusative, singular, masculine
+- “manly; heroic; powerful; male; human.”
+------------------------------------------------------------------------
+- *āvivāsāt* \< *āvivās* \< *√van*
+- \[verb\], singular, Present conjunctive (subjunctive)
+------------------------------------------------------------------------

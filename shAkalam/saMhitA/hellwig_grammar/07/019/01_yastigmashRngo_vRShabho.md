@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 7.19.1"
+
++++
+-   *yas* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tigmaśṛṅgo* \< *tigma*
+- \[noun\]
+- “sharp; pointed; fiery.”
+------------------------------------------------------------------------
+- *tigmaśṛṅgo* \< *śṛṅgaḥ* \< *śṛṅga*
+- \[noun\], nominative, singular, masculine
+- “peak; horn; tusk; śṛṅga \[word\].”
+------------------------------------------------------------------------
+- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *bhīma* \< *bhīmaḥ* \< *bhīma*
+- \[noun\], nominative, singular, masculine
+- “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
+------------------------------------------------------------------------
+- *ekaḥ* \< *eka*
+- \[noun\], nominative, singular, masculine
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *kṛṣṭīś* \< *kṛṣṭīḥ* \< *kṛṣṭi*
+- \[noun\], accusative, plural, feminine
+- “people; citizenry.”
+------------------------------------------------------------------------
+- *cyāvayati* \< *cyāvay* \< *√cyu*
+- \[verb\], singular, Present indikative
+- “chase away; remove; move.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *viśvāḥ* \< *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śaśvato* \< *śaśvataḥ* \< *śaśvat*
+- \[noun\], genitive, singular, masculine
+- “all(a); each(a).”
+------------------------------------------------------------------------
+- *adāśuṣo* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *adāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *gayasya* \< *gaya*
+- \[noun\], genitive, singular, masculine
+- “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
+------------------------------------------------------------------------
+- *prayantāsi* \< *prayam* \< *√yam*
+- \[verb\], singular, periphrast. future
+- “give; emit; send; transmit.”
+------------------------------------------------------------------------
+- *suṣvitarāya* \< *suṣvitara*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *vedaḥ* \< *vedas*
+- \[noun\], accusative, singular, neuter
+- “property.”
+------------------------------------------------------------------------

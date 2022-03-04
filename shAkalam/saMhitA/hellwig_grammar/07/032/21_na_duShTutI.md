@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 7.32.21"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *duṣṭutī* \< *duṣṭuti*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *martyo* \< *martyaḥ* \< *martya*
+- \[noun\], nominative, singular, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *vindate* \< *vid*
+- \[verb\], singular, Present indikative
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sredhantaṃ* \< *sredhantam* \< *sridh*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *rayir* \< *rayiḥ* \< *rayi*
+- \[noun\], nominative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *naśat* \< *naś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *suśaktir* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśaktir* \< *śaktiḥ* \< *śakti*
+- \[noun\], nominative, singular, feminine
+- “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
+    potency; capability; reproduction.”
+------------------------------------------------------------------------
+- *in* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], locative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *māvate* \< *māvat*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *deṣṇaṃ* \< *deṣṇam* \< *deṣṇa*
+- \[noun\], nominative, singular, neuter
+- “gift; giving.”
+------------------------------------------------------------------------
+- *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pārye* \< *pārya*
+- \[noun\], locative, singular, masculine
+- “critical; decisive.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------

@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 7.90.4"
+
++++
+-   *ucchann* \< *ucchan* \< *vas*
+- \[verb\], plural, Present injunctive
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *uṣasaḥ* \< *uṣas*
+- \[noun\], nominative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *sudinā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudinā* \< *dinā* \< *dina*
+- \[noun\], accusative, plural, neuter
+- “day; day; day of the week; one.”
+------------------------------------------------------------------------
+- *ariprā* \< *ariprāḥ* \< *aripra*
+- \[noun\], nominative, plural, feminine
+- “immaculate; pure; pure; blameless; clear.”
+------------------------------------------------------------------------
+- *uru*
+- \[noun\], accusative, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *jyotir* \< *jyotiḥ* \< *jyotis*
+- \[noun\], accusative, singular, neuter
+- “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
+    light; sunlight.”
+------------------------------------------------------------------------
+- *vividur* \< *vividuḥ* \< *vid*
+- \[verb\], plural, Perfect indicative
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *dīdhyānāḥ* \< *dhī*
+- \[verb noun\], nominative, plural
+- “think; desire; chew over.”
+------------------------------------------------------------------------
+- *gavyaṃ* \< *gavyam* \< *gavya*
+- \[noun\], accusative, singular, masculine
+- “bovine.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ūrvam* \< *ūrva*
+- \[noun\], accusative, singular, masculine
+- “pen; Aurva; ocean.”
+------------------------------------------------------------------------
+- *uśijo* \< *uśijaḥ* \< *uśij*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vavrus* \< *vavruḥ* \< *vṛ*
+- \[verb\], plural, Perfect indicative
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------
+- *teṣām* \< *tad*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *pradivaḥ* \< *pradiv*
+- \[noun\], ablative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *sasrur* \< *sasruḥ* \< *sṛ*
+- \[verb\], plural, Perfect indicative
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------

@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 6.44.12"
+
++++
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *abhrāṇīva* \< *abhrāṇi* \< *abhra*
+- \[noun\], accusative, plural, neuter
+- “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
+    cloudiness.”
+------------------------------------------------------------------------
+- *abhrāṇīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- \[verb noun\], nominative, singular
+- “thunder; thunder.”
+------------------------------------------------------------------------
+- *iyartīndro* \< *iyarti* \< *ṛch*
+- \[verb\], singular, Present indikative
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------
+- *iyartīndro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rādhāṃsy* \< *rādhāṃsi* \< *rādhas*
+- \[noun\], accusative, plural, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *aśvyāni* \< *aśvya*
+- \[noun\], accusative, plural, neuter
+- “equine.”
+------------------------------------------------------------------------
+- *gavyā* \< *gavya*
+- \[noun\], accusative, plural, neuter
+- “bovine.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pradivaḥ* \< *pradiv*
+- \[noun\], ablative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *kārudhāyā* \< *kāru*
+- \[noun\], masculine
+- “poet; singer.”
+------------------------------------------------------------------------
+- *kārudhāyā* \< *dhāyāḥ* \< *dhāyas*
+- \[noun\], nominative, singular, masculine
+- “alimentary; sustaining.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *tvādāmāna* \< *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvādāmāna* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *tvādāmāna* \< *dāmānaḥ* \< *dāman*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dabhan* \< *dabh*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *maghonaḥ* \< *maghavan*
+- \[noun\], accusative, plural, masculine
+- “big.”
+------------------------------------------------------------------------

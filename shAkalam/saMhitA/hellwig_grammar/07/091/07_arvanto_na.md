@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 7.91.7"
+
++++
+-   *arvanto* \< *arvantaḥ* \< *arvant*
+- \[noun\], nominative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śravaso* \< *śravasaḥ* \< *śravas*
+- \[noun\], genitive, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *bhikṣamāṇā* \< *bhikṣamāṇāḥ* \< *bhikṣ* \< *√bhaj*
+- \[verb noun\], nominative, plural
+- “beg; beg.”
+------------------------------------------------------------------------
+- *indravāyū* \< *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indravāyū* \< *vāyū* \< *vāyu*
+- \[noun\], vocative, dual, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *suṣṭutibhir* \< *suṣṭutibhiḥ* \< *suṣṭuti*
+- \[noun\], instrumental, plural, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *vasiṣṭhāḥ* \< *vasiṣṭha*
+- \[noun\], nominative, plural, masculine
+- “Vasiṣṭha; vasiṣṭha \[word\].”
+------------------------------------------------------------------------
+- *vājayantaḥ* \< *vājay* \< *√vaj*
+- \[verb noun\], nominative, plural
+- “incite.”
+------------------------------------------------------------------------
+- *sv* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *huvema* \< *hvā*
+- \[verb\], plural, Present optative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* \< *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* \< *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

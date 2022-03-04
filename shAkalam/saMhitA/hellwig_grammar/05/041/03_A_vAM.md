@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 5.41.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *yeṣṭhāśvinā* \< *yeṣṭha*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *yeṣṭhāśvinā* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *huvadhyai* \< *hvā*
+- \[verb noun\]
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *vātasya* \< *vāta*
+- \[noun\], genitive, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *patman*
+- \[noun\], locative, singular, neuter
+- “flight.”
+------------------------------------------------------------------------
+- *rathyasya* \< *rathya*
+- \[noun\], genitive, singular, neuter
+------------------------------------------------------------------------
+- *puṣṭau* \< *puṣṭi*
+- \[noun\], locative, singular, feminine
+- “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
+    increase; corpulence.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *asurāya* \< *asura*
+- \[noun\], dative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *manma* \< *manman*
+- \[noun\], accusative, singular, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *prāndhāṃsīva* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāndhāṃsīva* \< *andhāṃsi* \< *andhas*
+- \[noun\], accusative, plural, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *prāndhāṃsīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yajyave* \< *yajyu*
+- \[noun\], dative, singular, masculine
+- “worshiping.”
+------------------------------------------------------------------------
+- *bharadhvam* \< *bhṛ*
+- \[verb\], plural, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------

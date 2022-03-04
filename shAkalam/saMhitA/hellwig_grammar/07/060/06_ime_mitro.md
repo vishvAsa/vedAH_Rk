@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 7.60.6"
+
++++
+-   *ime* \< *idam*
+- \[noun\], accusative, dual, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dūﾱabhāso* \< *dūḍabhāsaḥ* \< *dūḍabha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *'cetasaṃ* \< *acetasam* \< *acetas*
+- \[noun\], accusative, singular, masculine
+- “imprudent; stupid.”
+------------------------------------------------------------------------
+- *cic* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *citayanti* \< *citay* \< *√cit*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *dakṣaiḥ* \< *dakṣa*
+- \[noun\], instrumental, plural, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *kratuṃ* \< *kratum* \< *kratu*
+- \[noun\], accusative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *sucetasaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sucetasaṃ* \< *cetasam* \< *cetas*
+- \[noun\], accusative, singular, masculine
+- “mind; heart; consciousness; intelligence; purpose; cetas \[word\].”
+------------------------------------------------------------------------
+- *vatantas* \< *vatantaḥ* \< *vat*
+- \[verb noun\], nominative, plural
+- “teach.”
+------------------------------------------------------------------------
+- *tiraś* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *aṃhaḥ* \< *aṃhas*
+- \[noun\], accusative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *supathā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supathā* \< *pathā* \< *pathin*
+- \[noun\], instrumental, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *nayanti* \< *nī*
+- \[verb\], plural, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------

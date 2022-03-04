@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 5.53.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- \[noun\], nominative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *dadāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *kośam* \< *kośa*
+- \[noun\], accusative, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------
+- *acucyavuḥ* \< *cyu*
+- \[verb\], plural, Plusquamperfect
+- “fall down; issue; shoot; ejaculate; deviate; banish; drop;
+    dislodge; miss; deprive.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *parjanyaṃ* \< *parjanyam* \< *parjanya*
+- \[noun\], accusative, singular, masculine
+- “cloud; Parjanya; Indra; nimbus.”
+------------------------------------------------------------------------
+- *sṛjanti* \< *sṛj*
+- \[verb\], plural, Present indikative
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *dhanvanā* \< *dhanvan*
+- \[noun\], instrumental, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vṛṣṭayaḥ* \< *vṛṣṭi*
+- \[noun\], nominative, plural, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------

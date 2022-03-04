@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 6.39.2"
+
++++
+-   *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *uśānaḥ* \< *vaś*
+- \[verb noun\], nominative, singular
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *adrim* \< *adri*
+- \[noun\], accusative, singular, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *usrā* \< *usrāḥ* \< *usrā*
+- \[noun\], accusative, plural, feminine
+- “cow; dawn.”
+------------------------------------------------------------------------
+- *ṛtadhītibhir* \< *ṛta*
+- \[noun\], neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtadhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- \[noun\], instrumental, plural, masculine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+- *ṛtayug* \< *ṛta*
+- \[noun\], neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtayug* \< *yuj*
+- \[noun\], nominative, singular, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *yujānaḥ* \< *yuj*
+- \[verb noun\], nominative, singular
+- “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
+    administer; compound; affect; add; concentrate; unite; join;
+    prosecute; combine; supply; compound; attach to; appoint; fill;
+    process; mobilize; mount; complement; eat; join; treat; coincide;
+    affect; challenge.”
+------------------------------------------------------------------------
+- *rujad* \< *rujat* \< *ruj*
+- \[verb\], singular, Present injunctive
+- “break; bend.”
+------------------------------------------------------------------------
+- *arugṇaṃ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *arugṇaṃ* \< *rugṇam* \< *ruj*
+- \[verb noun\], accusative, singular
+- “break; bend.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *valasya* \< *vala*
+- \[noun\], genitive, singular, masculine
+- “Vala; vala; cave.”
+------------------------------------------------------------------------
+- *sānum* \< *sānu*
+- \[noun\], accusative, singular, masculine
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *paṇīṃr* \< *paṇīn* \< *paṇi*
+- \[noun\], accusative, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *vacobhir* \< *vacobhiḥ* \< *vacas*
+- \[noun\], instrumental, plural, neuter
+- “statement; command; speech; words; advice; word; voice.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *yodhad* \< *yodhat* \< *yudh*
+- \[verb\], singular, Aorist conj./subj.
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------

@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 5.69.2"
+
++++
+-   *irāvatīr* \< *irāvatīḥ* \< *irāvat*
+- \[noun\], nominative, plural, feminine
+- “enjoyable.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *madhumad* \< *madhumat*
+- \[noun\], accusative, singular, neuter
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *mitra*
+- \[noun\], vocative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *duhre* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *trayas* \< *trayaḥ* \< *tri*
+- \[noun\], nominative, plural, masculine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *tasthur* \< *tasthuḥ* \< *sthā*
+- \[verb\], plural, Perfect indicative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *vṛṣabhāsas* \< *vṛṣabhāsaḥ* \< *vṛṣabha*
+- \[noun\], nominative, plural, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *tisṛṇāṃ* \< *tisṛṇām* \< *tri*
+- \[noun\], genitive, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *dhiṣaṇānāṃ* \< *dhiṣaṇānām* \< *dhiṣaṇā*
+- \[noun\], genitive, plural, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *retodhā* \< *retodhāḥ* \< *retodhā*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *dyumantaḥ* \< *dyumat*
+- \[noun\], nominative, plural, masculine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------

@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 5.6.5"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agna* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ṛcā* \< *ṛc*
+- \[noun\], instrumental, singular, feminine
+- “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
+------------------------------------------------------------------------
+- *haviḥ* \< *havis*
+- \[noun\], nominative, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *śukrasya* \< *śukra*
+- \[noun\], genitive, singular, neuter
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *śociṣas* \< *śocis*
+- \[noun\], genitive, singular, neuter
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *pate* \< *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *suścandra* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suścandra* \< *ścandra*
+- \[noun\], vocative, singular, masculine
+- “shining; glistening; brilliant.”
+------------------------------------------------------------------------
+- *dasma*
+- \[noun\], vocative, singular, masculine
+- “overlord.”
+------------------------------------------------------------------------
+- *viśpate* \< *viśpati*
+- \[noun\], vocative, singular, masculine
+- “overlord; head.”
+------------------------------------------------------------------------
+- *havyavāṭ* \< *havyavah*
+- \[noun\], vocative, singular
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hūyata* \< *hūyate* \< *hu*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *iṣaṃ* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* \< *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------

@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 6.46.9"
+
++++
+-   *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tridhātu* \< *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *tridhātu* \< *dhātu*
+- \[noun\], accusative, singular, neuter
+- “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
+    mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
+    inorganic compound.”
+------------------------------------------------------------------------
+- *śaraṇaṃ* \< *śaraṇam* \< *śaraṇa*
+- \[noun\], accusative, singular, neuter
+- “refuge; safety; shelter; house; protection.”
+------------------------------------------------------------------------
+- *trivarūthaṃ* \< *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *trivarūthaṃ* \< *varūtham* \< *varūtha*
+- \[noun\], accusative, singular, neuter
+- “defense; protective covering.”
+------------------------------------------------------------------------
+- *svastimat*
+- \[noun\], accusative, singular, neuter
+- “happy; favored.”
+------------------------------------------------------------------------
+- *chardir* \< *chardiḥ* \< *chardis*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering.”
+------------------------------------------------------------------------
+- *yaccha* \< *yam*
+- \[verb\], singular, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *maghavadbhyaś* \< *maghavadbhyaḥ* \< *maghavan*
+- \[noun\], dative, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *mahyaṃ* \< *mahyam* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *yāvayā* \< *yāvaya* \< *yāvay* \< *√yu*
+- \[verb\], singular, Present imperative
+- “keep away.”
+------------------------------------------------------------------------
+- *didyum* \< *didyu*
+- \[noun\], accusative, singular, masculine
+- “arrow; projectile.”
+------------------------------------------------------------------------
+- *ebhyaḥ* \< *idam*
+- \[noun\], ablative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------

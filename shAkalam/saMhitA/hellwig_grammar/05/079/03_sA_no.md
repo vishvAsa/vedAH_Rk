@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 5.79.3"
+
++++
+-   *sā* \< *tad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adyābharadvasur* \< *adyā* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *adyābharadvasur* \< *ābharat* \< *ābhṛ* \< *√bhṛ*
+- \[verb noun\]
+- “bring.”
+------------------------------------------------------------------------
+- *adyābharadvasur* \< *vasuḥ* \< *vasu*
+- \[noun\], nominative, singular, feminine
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ucchā* \< *uccha* \< *vas*
+- \[verb\], singular, Present imperative
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *duhitar* \< *duhitṛ*
+- \[noun\], vocative, singular, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *yo* \< *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yo* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *aucchaḥ* \< *vas*
+- \[verb\], singular, Imperfect
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *sahīyasi* \< *sahīyas*
+- \[noun\], locative, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------
+- *satyaśravasi* \< *satyaśravas*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *vāyye* \< *vāyya*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *sujāte* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sujāte* \< *jāte* \< *jan*
+- \[verb noun\], vocative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *aśvasūnṛte* \< *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvasūnṛte* \< *sūnṛte* \< *sūnṛta*
+- \[noun\], vocative, singular, feminine
+- “big; friendly.”
+------------------------------------------------------------------------

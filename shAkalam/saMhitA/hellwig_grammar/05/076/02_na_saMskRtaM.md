@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 5.76.2"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *saṃskṛtam* \< *saṃskṛta*
+- \[noun\], accusative, singular, neuter
+- “Sanskrit.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *mimīto* \< *mimītaḥ* \< *mī*
+- \[verb\], dual, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *gamiṣṭhānti* \< *gamiṣṭhā* \< *gamiṣṭha*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *gamiṣṭhānti* \< *anti*
+- \[adverb\]
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *aśvinopastuteha* \< *aśvinā* \< *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *aśvinopastuteha* \< *upastutā* \< *upastu* \< *√stu*
+- \[verb noun\], nominative, dual
+- “praise.”
+------------------------------------------------------------------------
+- *aśvinopastuteha* \< *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *divābhipitve* \< *divā*
+- \[adverb\]
+- “by day; divā \[indecl.\].”
+------------------------------------------------------------------------
+- *divābhipitve* \< *abhipitve* \< *abhipitva*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *'vasāgamiṣṭhā* \< *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *'vasāgamiṣṭhā* \< *āgamiṣṭhā* \< *āgamiṣṭha*
+- \[noun\], nominative, dual, masculine
+- “arriving(a).”
+------------------------------------------------------------------------
+- *praty* \< *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *avartiṃ* \< *avartim* \< *avarti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *śambhaviṣṭhā* \< *śambhaviṣṭha*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------

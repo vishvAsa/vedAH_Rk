@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 6.46.12"
+
++++
+-   *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *śūrāsas* \< *śūrāsaḥ* \< *śūra*
+- \[noun\], nominative, plural, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *tanvo* \< *tanvaḥ* \< *tanū*
+- \[noun\], accusative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *vitanvate* \< *vitan* \< *√tan*
+- \[verb\], plural, Present indikative
+- “expand; perform; scatter; prolong; increase.”
+------------------------------------------------------------------------
+- *priyā* \< *priya*
+- \[noun\], accusative, plural, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *pitṝṇām* \< *pitṛ*
+- \[noun\], genitive, plural, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *smā* \< *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *yaccha* \< *yam*
+- \[verb\], singular, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *tanve* \< *tanū*
+- \[noun\], dative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *tane* \< *tan*
+- \[noun\], dative, singular, feminine
+- “continuity; sequence; longevity.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *chardir* \< *chardiḥ* \< *chardis*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering.”
+------------------------------------------------------------------------
+- *acittaṃ* \< *acittam* \< *acitta*
+- \[noun\], accusative, singular, neuter
+- “unexpected.”
+------------------------------------------------------------------------
+- *yāvaya* \< *yāvay* \< *√yu*
+- \[verb\], singular, Present imperative
+- “keep away.”
+------------------------------------------------------------------------
+- *dveṣaḥ* \< *dveṣas*
+- \[noun\], accusative, singular, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------

@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 6.15.1"
+
++++
+-   *imam* \< *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ū* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *atithim* \< *atithi*
+- \[noun\], accusative, singular, masculine
+- “guest; atithi \[word\]; Atithi.”
+------------------------------------------------------------------------
+- *uṣarbudhaṃ* \< *uṣarbudham* \< *uṣarbudh*
+- \[noun\], accusative, singular, masculine
+- “early rising.”
+------------------------------------------------------------------------
+- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- \[noun\], genitive, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśām* \< *viś*
+- \[noun\], genitive, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *patim* \< *pati*
+- \[noun\], accusative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *ṛñjase* \< *ṛj*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *girā* \< *gir*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *vetīd* \< *veti* \< *vī*
+- \[verb\], singular, Present indikative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *vetīd* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *januṣā* \< *janus*
+- \[noun\], instrumental, singular, neuter
+- “birth.”
+------------------------------------------------------------------------
+- *kaccid* \< *kaccit*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śucir* \< *śuciḥ* \< *śuci*
+- \[noun\], nominative, singular, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *jyok*
+- \[adverb\]
+- “long.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *atti* \< *ad*
+- \[verb\], singular, Present indikative
+- “eat; devour.”
+------------------------------------------------------------------------
+- *garbho* \< *garbhaḥ* \< *garbha*
+- \[noun\], nominative, singular, masculine
+- “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
+    garbhadruti; filling; pregnancy; room; abdomen; fertilization;
+    inside; hole; baby; calyx; midst.”
+------------------------------------------------------------------------
+- *yad* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *acyutam* \< *acyuta*
+- \[noun\], nominative, singular, neuter
+- “firm; regular; permanent; immovable; unchanging.”
+------------------------------------------------------------------------

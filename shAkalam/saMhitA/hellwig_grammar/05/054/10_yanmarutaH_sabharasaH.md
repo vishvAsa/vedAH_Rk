@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 5.54.10"
+
++++
+-   *yan* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *sabharasaḥ* \< *sabharas*
+- \[noun\], nominative, plural, masculine
+- “commensurate.”
+------------------------------------------------------------------------
+- *svarṇaraḥ* \< *svarṇṛ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *sūrya* \< *sūrye* \< *sūrya*
+- \[noun\], locative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *udite* \< *udi* \< *√i*
+- \[verb noun\], locative, singular
+- “rise; originate; rise; increase.”
+------------------------------------------------------------------------
+- *madathā* \< *madatha* \< *mad*
+- \[verb\], plural, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], vocative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *'śvāḥ* \< *aśvāḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *śrathayantāha* \< *śrathayanta* \< *śrathay* \< *√śrath*
+- \[verb\], plural, Present injunctive
+- “relax.”
+------------------------------------------------------------------------
+- *śrathayantāha* \< *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *sisrataḥ* \< *sṛ*
+- \[verb noun\], nominative, plural
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *sadyo* \< *sadyas*
+- \[adverb\]
+- “immediately; just; daily; sadyas \[word\].”
+------------------------------------------------------------------------
+- *asyādhvanaḥ* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *asyādhvanaḥ* \< *adhvanaḥ* \< *adhvan*
+- \[noun\], genitive, singular, masculine
+- “way; journey; adhvan \[word\]; time; path; method; road; time;
+    distance.”
+------------------------------------------------------------------------
+- *pāram* \< *pāra*
+- \[noun\], accusative, singular, masculine
+- “shore; pāra \[word\]; end; excellence.”
+------------------------------------------------------------------------
+- *aśnutha* \< *aś*
+- \[verb\], plural, Present indikative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

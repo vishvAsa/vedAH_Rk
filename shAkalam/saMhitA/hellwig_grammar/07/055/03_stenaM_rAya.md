@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 7.55.3"
+
++++
+-   *stenaṃ* \< *stenam* \< *stena*
+- \[noun\], accusative, singular, masculine
+- “thief; stena \[word\].”
+------------------------------------------------------------------------
+- *rāya* \< *rā*
+- \[verb\], singular, Present imperative
+- “bark.”
+------------------------------------------------------------------------
+- *sārameya*
+- \[noun\], vocative, singular, masculine
+- “dog.”
+------------------------------------------------------------------------
+- *taskaraṃ* \< *taskaram* \< *taskara*
+- \[noun\], accusative, singular, masculine
+- “thief; mugger.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *punaḥsara*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *stotṝn* \< *stotṛ*
+- \[noun\], accusative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rāyasi* \< *rā*
+- \[verb\], singular, Present indikative
+- “bark.”
+------------------------------------------------------------------------
+- *kim*
+- \[adverb\]
+- “why; ka \[pronoun\]; if; how.”
+------------------------------------------------------------------------
+- *asmān* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ducchunāyase* \< *duchunāy*
+- \[verb\], singular, Present indikative
+- “threaten.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapa* \< *svap*
+- \[verb\], singular, Present imperative
+- “sleep; numb; fall asleep.”
+------------------------------------------------------------------------

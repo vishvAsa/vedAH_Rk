@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 7.63.3"
+
++++
+-   *vibhrājamāna* \< *vibhrājamānaḥ* \< *vibhrāj* \< *√bhrāj*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *uṣasām* \< *uṣas*
+- \[noun\], genitive, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *upasthād* \< *upasthāt* \< *upastha*
+- \[noun\], ablative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *rebhair* \< *rebhaiḥ* \< *rebha*
+- \[noun\], instrumental, plural, masculine
+- “bard; eulogist.”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *ety* \< *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *anumadyamānaḥ* \< *anumad* \< *√mad*
+- \[verb noun\], nominative, singular
+- “praise; cheer; applaud.”
+------------------------------------------------------------------------
+- *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *cacchanda* \< *chand*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *samānaṃ* \< *samānam* \< *samāna*
+- \[noun\], accusative, singular, neuter
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pramināti* \< *pramī* \< *√mī*
+- \[verb\], singular, Present indikative
+- “destroy.”
+------------------------------------------------------------------------
+- *dhāma* \< *dhāman*
+- \[noun\], accusative, singular, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------

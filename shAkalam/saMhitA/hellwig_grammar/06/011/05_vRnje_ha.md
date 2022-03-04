@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 6.11.5"
+
++++
+-   *vṛñje* \< *vṛj*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *yan* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *barhir* \< *barhiḥ* \< *barhis*
+- \[noun\], nominative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *agnāv* \< *agnau* \< *agni*
+- \[noun\], locative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *ayāmi* \< *yam*
+- \[verb\], singular, Aorist passive
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *srug* \< *sruc*
+- \[noun\], nominative, singular, feminine
+- “Sruc.”
+------------------------------------------------------------------------
+- *ghṛtavatī* \< *ghṛtavat*
+- \[noun\], nominative, singular, feminine
+- “buttery.”
+------------------------------------------------------------------------
+- *suvṛktiḥ* \< *suvṛkti*
+- \[noun\], nominative, singular, feminine
+- “praise.”
+------------------------------------------------------------------------
+- *amyakṣi* \< *myakṣ*
+- \[verb\], singular, Aorist passive
+- “be situated; attach.”
+------------------------------------------------------------------------
+- *sadma* \< *sadman*
+- \[noun\], nominative, singular, neuter
+- “seat; house; stable; dwelling.”
+------------------------------------------------------------------------
+- *sadane* \< *sadana*
+- \[noun\], locative, singular, neuter
+- “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
+    residence; seat; inanition; location.”
+------------------------------------------------------------------------
+- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *aśrāyi* \< *śri*
+- \[verb\], singular, Aorist passive
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *yajñaḥ* \< *yajña*
+- \[noun\], nominative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *sūrye* \< *sūrya*
+- \[noun\], locative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *cakṣuḥ* \< *cakṣus*
+- \[noun\], nominative, singular, neuter
+- “eye; look; visual perception; cakṣus \[word\]; sight.”
+------------------------------------------------------------------------

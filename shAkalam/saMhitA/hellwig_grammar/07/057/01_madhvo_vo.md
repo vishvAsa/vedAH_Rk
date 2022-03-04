@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.57.1"
+
++++
+-   *madhvo* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *nāma* \< *nāman*
+- \[noun\], nominative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *mārutaṃ* \< *mārutam* \< *māruta*
+- \[noun\], nominative, singular, neuter
+- “Marut(a).”
+------------------------------------------------------------------------
+- *yajatrāḥ* \< *yajatra*
+- \[noun\], vocative, plural, masculine
+- “adorable.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yajñeṣu* \< *yajña*
+- \[noun\], locative, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *śavasā* \< *śavas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *madanti* \< *mad*
+- \[verb\], plural, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *rejayanti* \< *rejay* \< *√rej*
+- \[verb\], plural, Present indikative
+- “shake.”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *urvī* \< *uru*
+- \[noun\], accusative, dual, feminine
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *pinvanty* \< *pinvanti* \< *pinv*
+- \[verb\], plural, Present indikative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *utsaṃ* \< *utsam* \< *utsa*
+- \[noun\], accusative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ayāsur* \< *ayāsuḥ* \< *yā*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *ugrāḥ* \< *ugra*
+- \[noun\], nominative, plural, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------

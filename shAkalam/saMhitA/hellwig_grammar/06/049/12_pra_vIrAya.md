@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 6.49.12"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vīrāya* \< *vīra*
+- \[noun\], dative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tavase* \< *tavas*
+- \[noun\], dative, singular, masculine
+- “strong; energetic.”
+------------------------------------------------------------------------
+- *turāyājā* \< *turāya* \< *tura*
+- \[noun\], dative, singular, masculine
+- “powerful; noble; noble.”
+------------------------------------------------------------------------
+- *turāyājā* \< *ajā* \< *aj*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “drive; expel.”
+------------------------------------------------------------------------
+- *yūtheva* \< *yūthā* \< *yūtha*
+- \[noun\], accusative, plural, neuter
+- “herd; troop; battalion.”
+------------------------------------------------------------------------
+- *yūtheva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *paśurakṣir* \< *paśurakṣiḥ* \< *paśurakṣi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *astam* \< *asta*
+- \[noun\], accusative, singular, neuter
+- “home.”
+------------------------------------------------------------------------
+- *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pispṛśati* \< *spṛś*
+- \[verb\], singular, Aorist conj./subj.
+- “touch; enter (a state); reach; touch.”
+------------------------------------------------------------------------
+- *tanvi* \< *tanū*
+- \[noun\], locative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *śrutasya* \< *śru*
+- \[verb noun\], genitive, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *stṛbhir* \< *stṛbhiḥ* \< *star*
+- \[noun\], instrumental, plural, masculine
+- “star.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nākaṃ* \< *nākam* \< *nāka*
+- \[noun\], accusative, singular, masculine
+- “sky; celestial sphere; Svarga; nāka \[word\].”
+------------------------------------------------------------------------
+- *vacanasya* \< *vacana*
+- \[noun\], genitive, singular, masculine
+- “expressive(p); eloquent.”
+------------------------------------------------------------------------
+- *vipaḥ* \< *vip*
+- \[noun\], genitive, singular, masculine
+- “priest.”
+------------------------------------------------------------------------

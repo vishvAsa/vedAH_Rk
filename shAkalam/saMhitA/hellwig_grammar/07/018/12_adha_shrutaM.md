@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.18.12"
+
++++
+-   *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb noun\], accusative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *kavaṣaṃ* \< *kavaṣam* \< *kavaṣa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vṛddham* \< *vṛddha*
+- \[noun\], accusative, singular, masculine
+- “old; aged; early(a); vṛddha \[word\]; erudite; adult; enlightened.”
+------------------------------------------------------------------------
+- *apsv* \< *apsu* \< *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *druhyuṃ* \< *druhyum* \< *druhyu*
+- \[noun\], accusative, singular, masculine
+- “Druhyu.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *vṛṇag* \< *vṛṇak* \< *vṛj*
+- \[verb\], singular, Present injunctive
+------------------------------------------------------------------------
+- *vajrabāhuḥ* \< *vajra*
+- \[noun\], masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *vajrabāhuḥ* \< *bāhuḥ* \< *bāhu*
+- \[noun\], nominative, singular, feminine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *vṛṇānā* \< *vṛṇānāḥ* \< *vṛ*
+- \[verb noun\], nominative, plural
+- “choose; ask.”
+------------------------------------------------------------------------
+- *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+------------------------------------------------------------------------
+- *sakhyāya* \< *sakhya*
+- \[noun\], dative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *tvāyanto* \< *tvāyantaḥ* \< *tvāyat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *amadann* \< *amadan* \< *mad*
+- \[verb\], plural, Imperfect
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------

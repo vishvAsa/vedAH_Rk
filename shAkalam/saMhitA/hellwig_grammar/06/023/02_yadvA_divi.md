@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 6.23.2"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pārye* \< *pārya*
+- \[noun\], locative, singular, masculine
+- “critical; decisive.”
+------------------------------------------------------------------------
+- *suṣvim* \< *suṣvi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vṛtrahatye* \< *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahatye* \< *hatye* \< *hatya*
+- \[noun\], locative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *'vasi* \< *avasi* \< *av*
+- \[verb\], singular, Present indikative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *śūrasātau* \< *śūrasāti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *dakṣasya* \< *dakṣa*
+- \[noun\], genitive, singular, masculine
+- “deft; right; intelligent; expert.”
+------------------------------------------------------------------------
+- *bibhyuṣo* \< *bibhyuṣaḥ* \< *bhī*
+- \[verb noun\], genitive, singular
+- “fear; fear.”
+------------------------------------------------------------------------
+- *abibhyad* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *abibhyad* \< *bibhyat* \< *bhī*
+- \[verb noun\], nominative, singular
+- “fear; fear.”
+------------------------------------------------------------------------
+- *arandhayaḥ* \< *randhay* \< *√radh*
+- \[verb\], singular, Imperfect
+- “subjugate; hand over.”
+------------------------------------------------------------------------
+- *śardhata* \< *śardhataḥ* \< *śṛdh*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dasyūn* \< *dasyu*
+- \[noun\], accusative, plural, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------

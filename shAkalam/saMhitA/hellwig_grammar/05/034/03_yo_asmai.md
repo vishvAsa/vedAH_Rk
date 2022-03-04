@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 5.34.3"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ghraṃsa* \< *ghraṃse* \< *ghraṃsa*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *ya* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ūdhani* \< *ūdhas*
+- \[noun\], locative, singular, neuter
+- “udder; ūdhas \[word\]; night.”
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sunoti* \< *su*
+- \[verb\], singular, Present indikative
+- “press out; su.”
+------------------------------------------------------------------------
+- *bhavati* \< *bhū*
+- \[verb\], singular, Present indikative
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *dyumāṃ* \< *dyumat*
+- \[noun\], nominative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *apāpa* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apāpa* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *śakras* \< *śakraḥ* \< *śakra*
+- \[noun\], nominative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *tatanuṣṭim* \< *tatanuṣṭi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ūhati* \< *ūh*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *tanūśubhram* \< *tanū*
+- \[noun\], feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *tanūśubhram* \< *śubhram* \< *śubhra*
+- \[noun\], accusative, singular, masculine
+- “white; beautiful; attractive; śubhra \[word\]; light.”
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *kavāsakhaḥ* \< *kavāsakha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

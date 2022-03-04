@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 8.1.16"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tv* \< *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *sadhastutiṃ* \< *sadhastutim* \< *sadhastuti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *vāvātuḥ* \< *vāvātṛ*
+- \[noun\], genitive, singular, masculine
+- “follower.”
+------------------------------------------------------------------------
+- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- \[noun\], genitive, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gahi* \< *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *upastutir* \< *upastutiḥ* \< *upastuti*
+- \[noun\], nominative, singular, feminine
+- “praise; applause.”
+------------------------------------------------------------------------
+- *maghonām* \< *maghavan*
+- \[noun\], genitive, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tvāvatv* \< *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvāvatv* \< *avatu* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *adhā* \< *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vaśmi* \< *vaś*
+- \[verb\], singular, Present indikative
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *suṣṭutim* \< *suṣṭuti*
+- \[noun\], accusative, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------

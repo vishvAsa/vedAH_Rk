@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.71.1"
+
++++
+-   *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *svasur* \< *svasuḥ* \< *svasṛ*
+- \[noun\], ablative, singular, feminine
+- “sister; svasṛ \[word\].”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], ablative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *nag* \< *naś*
+- \[noun\], nominative, singular, feminine
+- “night; night.”
+------------------------------------------------------------------------
+- *jihīte* \< *hā*
+- \[verb\], singular, Present indikative
+- “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
+    lose; avoid; remove; leave; abandon; neglect; leave; discard;
+    apostatize; discontinue; weaken; abandon; assail; subtract;
+    foreswear; pour away; withdraw; depart; reduce.”
+------------------------------------------------------------------------
+- *riṇakti* \< *ric*
+- \[verb\], singular, Present indikative
+- “empty; liberate; concede; surrender; purge.”
+------------------------------------------------------------------------
+- *kṛṣṇīr* \< *kṛṣṇīḥ* \< *kṛṣṇī*
+- \[noun\], nominative, singular, feminine
+- “night; night.”
+------------------------------------------------------------------------
+- *aruṣāya* \< *aruṣa*
+- \[noun\], dative, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *panthām* \< *pathin*
+- \[noun\], accusative, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *aśvāmaghā* \< *aśvāmagha*
+- \[noun\], accusative, dual, masculine
+------------------------------------------------------------------------
+- *gomaghā* \< *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gomaghā* \< *maghā* \< *magha*
+- \[noun\], accusative, dual, masculine
+- “gift; wealth; reward; wages; reward.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *huvema* \< *hvā*
+- \[verb\], plural, Present optative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *divā*
+- \[adverb\]
+- “by day; divā \[indecl.\].”
+------------------------------------------------------------------------
+- *naktaṃ* \< *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *śarum* \< *śaru*
+- \[noun\], accusative, singular, masculine
+- “arrow.”
+------------------------------------------------------------------------
+- *asmad* \< *asmat* \< *mad*
+- \[noun\], ablative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yuyotam* \< *yu*
+- \[verb\], dual, Present imperative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------

@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 7.56.17"
+
++++
+-   *daśasyanto* \< *daśasyantaḥ* \< *daśasy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *mṛﾱantu* \< *mṛḍantu* \< *mṛḍ*
+- \[verb\], plural, Present imperative
+- “pardon.”
+------------------------------------------------------------------------
+- *varivasyanto* \< *varivasyantaḥ* \< *varivasy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *sumeke* \< *sumeka*
+- \[noun\], accusative, dual, neuter
+- “fast; fixed.”
+------------------------------------------------------------------------
+- *āre*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *gohā* \< *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gohā* \< *hā* \< *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *nṛhā* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛhā* \< *hā* \< *han*
+- \[noun\], nominative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *vadho* \< *vadhaḥ* \< *vadha*
+- \[noun\], nominative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sumnebhir* \< *sumnebhiḥ* \< *sumna*
+- \[noun\], instrumental, plural, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vasavo* \< *vasavaḥ* \< *vasu*
+- \[noun\], vocative, plural, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *namadhvam* \< *nam*
+- \[verb\], plural, Present imperative
+- “bow; bend; condescend; worship; bend; lower.”
+------------------------------------------------------------------------

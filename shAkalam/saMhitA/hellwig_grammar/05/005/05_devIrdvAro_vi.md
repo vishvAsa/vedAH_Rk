@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 5.5.5"
+
++++
+-   *devīr* \< *devīḥ* \< *devī*
+- \[noun\], vocative, plural, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *dvāro* \< *dvāraḥ* \< *dvār*
+- \[noun\], vocative, plural, feminine
+- “door; means.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *śrayadhvaṃ* \< *śrayadhvam* \< *śri*
+- \[verb\], plural, Present imperative
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *suprāyaṇā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suprāyaṇā* \< *prāyaṇāḥ* \< *prāyaṇa*
+- \[noun\], nominative, plural, feminine
+- “beginning; beginning.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *pṛṇītana* \< *pṛ*
+- \[verb\], plural, Present imperative
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+------------------------------------------------------------------------

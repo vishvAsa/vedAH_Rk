@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 7.51.1"
+
++++
+-   *ādityānām* \< *āditya*
+- \[noun\], genitive, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *nūtanena* \< *nūtana*
+- \[noun\], instrumental, singular, neuter
+- “new; fresh; recent; contemporary; present(a); first.”
+------------------------------------------------------------------------
+- *sakṣīmahi* \< *sac*
+- \[verb\], plural, Aorist optative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *śarmaṇā* \< *śarman*
+- \[noun\], instrumental, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *śantamena* \< *śaṃtama*
+- \[noun\], instrumental, singular, neuter
+- “beneficent.”
+------------------------------------------------------------------------
+- *anāgāstve* \< *anāgāstva*
+- \[noun\], locative, singular, neuter
+- “blamelessness; purity.”
+------------------------------------------------------------------------
+- *adititve* \< *aditi*
+- \[noun\]
+- “impeccant.”
+------------------------------------------------------------------------
+- *adititve* \< *tve* \< *tva*
+- \[noun\], locative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *turāsa* \< *turāsaḥ* \< *tura*
+- \[noun\], nominative, plural, masculine
+- “powerful; noble; noble.”
+------------------------------------------------------------------------
+- *imaṃ* \< *imam* \< *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yajñaṃ* \< *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *dadhatu* \< *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *śroṣamāṇāḥ* \< *śruṣ*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------

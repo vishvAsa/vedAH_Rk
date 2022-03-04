@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 7.59.7"
+
++++
+-   *sasvaś* \< *sasvar*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *ciddhi* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ciddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tanvaḥ* \< *tanū*
+- \[noun\], accusative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *śumbhamānā* \< *śumbhamānāḥ* \< *śubh*
+- \[verb noun\], nominative, plural
+- “look; shine; beautify.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *haṃsāso* \< *haṃsāsaḥ* \< *haṃsa*
+- \[noun\], nominative, plural, masculine
+- “goose; Vishnu; sun.”
+------------------------------------------------------------------------
+- *nīlapṛṣṭhā* \< *nīla*
+- \[noun\]
+- “blue; black; black; nīla \[word\]; green.”
+------------------------------------------------------------------------
+- *nīlapṛṣṭhā* \< *pṛṣṭhāḥ* \< *pṛṣṭha*
+- \[noun\], nominative, plural, masculine
+- “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
+    \[word\]; back; roof.”
+------------------------------------------------------------------------
+- *apaptan* \< *pat*
+- \[verb\], plural, Redupl. Aorist (Ind.)
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *viśvaṃ* \< *viśvam* \< *viśva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *śardho* \< *śardhaḥ* \< *śardhas*
+- \[noun\], nominative, singular, neuter
+- “troop.”
+------------------------------------------------------------------------
+- *abhito* \< *abhitas*
+- \[adverb\]
+- “about; around; regarding; about.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣeda* \< *seda* \< *sad*
+- \[verb\], plural, Perfect indicative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *naro* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *raṇvāḥ* \< *raṇva*
+- \[noun\], nominative, plural, masculine
+- “agreeable; happy; delightful; gay.”
+------------------------------------------------------------------------
+- *savane* \< *savana*
+- \[noun\], locative, singular, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *madantaḥ* \< *mad*
+- \[verb noun\], nominative, plural
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------

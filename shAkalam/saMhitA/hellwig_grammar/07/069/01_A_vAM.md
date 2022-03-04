@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 7.69.1"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *badbadhāno* \< *badbadhānaḥ* \< *badbadh* \< *√bādh*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *hiraṇyayo* \< *hiraṇyayaḥ* \< *hiraṇyaya*
+- \[noun\], nominative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *vṛṣabhir* \< *vṛṣabhiḥ* \< *vṛṣan*
+- \[noun\], instrumental, plural, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+------------------------------------------------------------------------
+- *yātv* \< *yātu* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aśvaiḥ* \< *aśva*
+- \[noun\], instrumental, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *ghṛtavartaniḥ* \< *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtavartaniḥ* \< *vartaniḥ* \< *vartani*
+- \[noun\], nominative, singular, masculine
+- “path; East; way.”
+------------------------------------------------------------------------
+- *pavibhī* \< *pavibhiḥ* \< *pavi*
+- \[noun\], instrumental, plural, masculine
+- “vajra; tire; rim.”
+------------------------------------------------------------------------
+- *rucāna* \< *rucānaḥ* \< *ruc*
+- \[verb noun\], nominative, singular
+- “please; shine.”
+------------------------------------------------------------------------
+- *iṣāṃ* \< *iṣām* \< *iṣ*
+- \[noun\], genitive, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *voﾱhā* \< *voḍhā* \< *voḍhṛ*
+- \[noun\], nominative, singular, masculine
+- “charioteer.”
+------------------------------------------------------------------------
+- *nṛpatir* \< *nṛpatiḥ* \< *nṛpati*
+- \[noun\], nominative, singular, masculine
+- “king.”
+------------------------------------------------------------------------
+- *vājinīvān* \< *vājinīvat*
+- \[noun\], nominative, singular, masculine
+- “rich; rich in horses.”
+------------------------------------------------------------------------

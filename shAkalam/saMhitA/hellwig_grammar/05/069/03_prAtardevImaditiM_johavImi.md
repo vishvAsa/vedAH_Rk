@@ -1,0 +1,65 @@
++++
+title = "Rig Veda 5.69.3"
+
++++
+-   *prātar*
+- \[adverb\]
+- “at dawn; early.”
+------------------------------------------------------------------------
+- *devīm* \< *devī*
+- \[noun\], accusative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *aditiṃ* \< *aditim* \< *aditi*
+- \[noun\], accusative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *johavīmi* \< *johav* \< *√hvā*
+- \[verb\], singular, Present indikative
+- “appeal.”
+------------------------------------------------------------------------
+- *madhyandina* \< *madhyandine* \< *madhyaṃdina*
+- \[noun\], locative, singular, masculine
+- “noon; Pentapetes phoenicea Linn..”
+------------------------------------------------------------------------
+- *uditā* \< *uditi*
+- \[noun\], locative, singular, feminine
+- “rise.”
+------------------------------------------------------------------------
+- *sūryasya* \< *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *rāye* \< *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *sarvatāteﾱe* \< *sarvatātā* \< *sarvatāti*
+- \[noun\], locative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *sarvatāteﾱe* \< *īḍe* \< *īḍ*
+- \[verb\], singular, Present indikative
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *tokāya* \< *toka*
+- \[noun\], dative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *tanayāya* \< *tanaya*
+- \[noun\], dative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[adverb\]
+- “śam \[word\].”
+------------------------------------------------------------------------
+- *yoḥ* \< *yos*
+- \[noun\], accusative, singular, neuter
+- “fortune.”
+------------------------------------------------------------------------

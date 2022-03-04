@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 5.19.4"
+
++++
+-   *priyaṃ* \< *priyam* \< *priya*
+- \[noun\], nominative, singular, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *dugdhaṃ* \< *dugdham* \< *dugdha*
+- \[noun\], nominative, singular, neuter
+- “milk; milky juice.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kāmyam* \< *kāmya*
+- \[noun\], nominative, singular, neuter
+- “desirable; optional; beautiful.”
+------------------------------------------------------------------------
+- *ajāmi*
+- \[noun\], nominative, singular, neuter
+- “unrelated; foreign-born.”
+------------------------------------------------------------------------
+- *jāmyoḥ* \< *jāmi*
+- \[noun\], genitive, dual, masculine
+- “related; ancestral; customary; usual.”
+------------------------------------------------------------------------
+- *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *gharmo* \< *gharmaḥ* \< *gharma*
+- \[noun\], nominative, singular, masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vājajaṭharo* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājajaṭharo* \< *jaṭharaḥ* \< *jaṭhara*
+- \[noun\], nominative, singular, masculine
+- “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
+------------------------------------------------------------------------
+- *'dabdhaḥ* \< *adabdhaḥ* \< *adabdha*
+- \[noun\], nominative, singular, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *śaśvato* \< *śaśvataḥ* \< *śaśvat*
+- \[noun\], accusative, plural, masculine
+- “all(a); each(a).”
+------------------------------------------------------------------------
+- *dabhaḥ* \< *dabha*
+- \[noun\], nominative, singular, masculine
+- “damaging.”
+------------------------------------------------------------------------

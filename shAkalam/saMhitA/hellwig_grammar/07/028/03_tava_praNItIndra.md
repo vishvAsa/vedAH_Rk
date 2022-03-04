@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 7.28.3"
+
++++
+-   *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *praṇītīndra* \< *praṇītī* \< *praṇīti*
+- \[noun\], instrumental, singular, feminine
+- “guidance; guidance.”
+------------------------------------------------------------------------
+- *praṇītīndra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *johuvānān* \< *johav* \< *√hvā*
+- \[verb noun\], accusative, plural
+- “appeal.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *yan* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *ninetha* \< *nī*
+- \[verb\], singular, Perfect indicative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *kṣatrāya* \< *kṣatra*
+- \[noun\], dative, singular, neuter
+- “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
+------------------------------------------------------------------------
+- *śavase* \< *śavas*
+- \[noun\], dative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *jajñe* \< *jan*
+- \[verb\], singular, Perfect indicative
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *'tūtujiṃ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'tūtujiṃ* \< *tūtujim* \< *tūtuji*
+- \[noun\], accusative, singular, masculine
+- “exciting; avid; eager.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *tūtujir* \< *tūtujiḥ* \< *tūtuji*
+- \[noun\], nominative, singular, masculine
+- “exciting; avid; eager.”
+------------------------------------------------------------------------
+- *aśiśnat* \< *śnath*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “pierce; kill.”
+------------------------------------------------------------------------

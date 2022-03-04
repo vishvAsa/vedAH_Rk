@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 7.21.2"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *yajñaṃ* \< *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *vipayanti* \< *vipay* \< *√vip*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *somamādo* \< *somamādaḥ* \< *somamad*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *dudhravācaḥ* \< *dudhra*
+- \[noun\]
+- “obstinate.”
+------------------------------------------------------------------------
+- *dudhravācaḥ* \< *vācaḥ* \< *vāc*
+- \[noun\], nominative, plural, masculine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *ny* \< *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *bhriyante* \< *bhṛ*
+- \[verb\], plural, Indikativ Pr￤s. Passiv
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *yaśaso* \< *yaśasaḥ* \< *yaśas*
+- \[noun\], nominative, plural, masculine
+- “esteemed; celebrated; glorious; honorable.”
+------------------------------------------------------------------------
+- *gṛbhād* \< *gṛbhāt* \< *gṛbha*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dūraupabdo* \< *dūraupabdaḥ* \< *dūraupabda*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *nṛṣācaḥ* \< *nṛṣāc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

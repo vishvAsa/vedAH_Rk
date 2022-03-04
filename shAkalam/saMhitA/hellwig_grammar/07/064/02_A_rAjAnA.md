@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 7.64.2"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rājānā* \< *rājan*
+- \[noun\], vocative, dual, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *maha* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *gopā*
+- \[noun\], vocative, dual, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *sindhupatī* \< *sindhu*
+- \[noun\], masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *sindhupatī* \< *patī* \< *pati*
+- \[noun\], vocative, dual, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *kṣatriyā* \< *kṣatriya*
+- \[noun\], vocative, dual, masculine
+- “Kshatriya.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *arvāk*
+- \[adverb\]
+- “here.”
+------------------------------------------------------------------------
+- *iﾱāṃ* \< *iﾱām* \< *iḍā*
+- \[noun\], accusative, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitrāvaruṇota* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *mitrāvaruṇota* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vṛṣṭim* \< *vṛṣṭi*
+- \[noun\], accusative, singular, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------
+- *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *invataṃ* \< *invatam* \< *inv*
+- \[verb\], dual, Present imperative
+- “bring; drive.”
+------------------------------------------------------------------------
+- *jīradānū* \< *jīra*
+- \[noun\]
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *jīradānū* \< *dānū* \< *dānu*
+- \[noun\], vocative, dual, masculine
+- “Dānu; dew; drop.”
+------------------------------------------------------------------------

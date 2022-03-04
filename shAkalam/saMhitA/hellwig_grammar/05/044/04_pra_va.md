@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 5.44.4"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *suyujo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyujo* \< *yujaḥ* \< *yuj*
+- \[noun\], nominative, plural, masculine
+- “ally; friend; pair; two; companion.”
+------------------------------------------------------------------------
+- *yāmann* \< *yāman*
+- \[noun\], locative, singular, neuter
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *iṣṭaye* \< *iṣṭi*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *nīcīr* \< *nīcīḥ* \< *nyāñc*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *amuṣmai* \< *adas*
+- \[noun\], dative, singular, masculine
+- “that; John Doe; yonder; from here.”
+------------------------------------------------------------------------
+- *yamya* \< *yamyaḥ* \< *yamī*
+- \[noun\], nominative, plural, feminine
+- “Yamī.”
+------------------------------------------------------------------------
+- *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- \[noun\], nominative, plural, feminine
+- “sincere.”
+------------------------------------------------------------------------
+- *suyantubhiḥ* \< *suyantu*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *sarvaśāsair* \< *sarva*
+- \[noun\]
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *sarvaśāsair* \< *śāsaiḥ* \< *śāsa*
+- \[noun\], instrumental, plural, masculine
+- “ruler; commander.”
+------------------------------------------------------------------------
+- *abhīśubhiḥ* \< *abhīśu*
+- \[noun\], instrumental, plural, masculine
+- “beam; rein.”
+------------------------------------------------------------------------
+- *krivir* \< *kriviḥ* \< *krivi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *nāmāni* \< *nāman*
+- \[noun\], accusative, plural, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *pravaṇe* \< *pravaṇa*
+- \[noun\], locative, singular, masculine
+- “descent.”
+------------------------------------------------------------------------
+- *muṣāyati* \< *muṣāy* \< *√muṣ*
+- \[verb\], singular, Present indikative
+- “steal; rob.”
+------------------------------------------------------------------------

@@ -1,0 +1,63 @@
++++
+title = "Rig Veda 7.1.6"
+
++++
+-   *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *yuvatiḥ* \< *yuvati*
+- \[noun\], nominative, singular, feminine
+- “girl; woman.”
+------------------------------------------------------------------------
+- *sudakṣaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudakṣaṃ* \< *dakṣam* \< *dakṣa*
+- \[noun\], accusative, singular, masculine
+- “deft; right; intelligent; expert.”
+------------------------------------------------------------------------
+- *doṣā*
+- \[adverb\]
+- “in the evening.”
+------------------------------------------------------------------------
+- *vastor* \< *vastoḥ* \< *vastu*
+- \[noun\], genitive, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *haviṣmatī* \< *haviṣmat*
+- \[noun\], nominative, singular, feminine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *ghṛtācī*
+- \[noun\], nominative, singular, feminine
+- “Ghṛtācī.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *svainam* \< *svā* \< *sva*
+- \[noun\], nominative, singular, feminine
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svainam* \< *enam* \< *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *aramatir* \< *aramatiḥ* \< *aramati*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *vasūyuḥ* \< *vasūyu*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 6.63.1"
+
++++
+-   *kva*
+- \[adverb\]
+- “wherein; how; kva \[word\].”
+------------------------------------------------------------------------
+- *tyā* \< *tya*
+- \[noun\], accusative, dual, masculine
+- “that.”
+------------------------------------------------------------------------
+- *valgū* \< *valgu*
+- \[noun\], accusative, dual, masculine
+- “lovely; beautiful; agreeable; fine-looking.”
+------------------------------------------------------------------------
+- *puruhūtādya* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruhūtādya* \< *hūtā* \< *hvā*
+- \[verb noun\], accusative, dual
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *puruhūtādya* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *dūto* \< *dūtaḥ* \< *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *stomo* \< *stomaḥ* \< *stoma*
+- \[noun\], nominative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *'vidan* \< *avidat* \< *vid*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *namasvān* \< *namasvat*
+- \[noun\], nominative, singular, masculine
+- “respectful.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *arvāṅ* \< *arvāk*
+- \[adverb\]
+- “here.”
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatya*
+- \[noun\], accusative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *vavarta* \< *vṛt*
+- \[verb\], singular, Perfect indicative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *preṣṭhā* \< *preṣṭha*
+- \[noun\], nominative, dual, masculine
+- “dearest.”
+------------------------------------------------------------------------
+- *hy* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *asatho* \< *asathaḥ* \< *as*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *manman*
+- \[noun\], locative, singular, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------

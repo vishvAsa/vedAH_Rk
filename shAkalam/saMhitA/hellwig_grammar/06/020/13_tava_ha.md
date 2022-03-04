@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 6.20.13"
+
++++
+-   *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *tyad* \< *tya*
+- \[noun\], nominative, singular, neuter
+- “that.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *viśvam* \< *viśva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ājau* \< *āji*
+- \[noun\], locative, singular, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------
+- *sasto* \< *sastaḥ* \< *sas*
+- \[verb\], dual, Present indikative
+- “sleep.”
+------------------------------------------------------------------------
+- *dhunīcumurī* \< *dhunī*
+- \[noun\], feminine
+- “river.”
+------------------------------------------------------------------------
+- *dhunīcumurī* \< *cumurī* \< *cumuri*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], accusative, dual, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *siṣvap* \< *svap*
+- \[verb\], singular, Aorist inj. (proh.)
+- “sleep; numb; fall asleep.”
+------------------------------------------------------------------------
+- *dīdayad* \< *dīdayat* \< *dīdī*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “shine; glitter.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *somebhiḥ* \< *soma*
+- \[noun\], instrumental, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sunvan* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *dabhītir* \< *dabhītiḥ* \< *dabhīti*
+- \[noun\], nominative, singular, masculine
+- “Dabhīti.”
+------------------------------------------------------------------------
+- *idhmabhṛtiḥ* \< *idhma*
+- \[noun\], masculine
+- “fuel.”
+------------------------------------------------------------------------
+- *idhmabhṛtiḥ* \< *bhṛtiḥ* \< *bhṛti*
+- \[noun\], nominative, singular, masculine
+- “rental; support; wage.”
+------------------------------------------------------------------------
+- *pakthy* \< *pakthī* \< *pakthin*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *arkaiḥ* \< *arka*
+- \[noun\], instrumental, plural, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------

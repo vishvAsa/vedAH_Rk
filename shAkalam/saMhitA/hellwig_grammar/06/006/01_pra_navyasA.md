@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 6.6.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *navyasā* \< *navyas*
+- \[noun\], instrumental, singular, masculine
+- “new.”
+------------------------------------------------------------------------
+- *sahasaḥ* \< *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sūnum* \< *sūnu*
+- \[noun\], accusative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *yajñena* \< *yajña*
+- \[noun\], instrumental, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *gātum* \< *gātu*
+- \[noun\], accusative, singular, masculine
+- “path; way.”
+------------------------------------------------------------------------
+- *ava* \< *avaḥ* \< *avas*
+- \[noun\], accusative, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *icchamānaḥ* \< *iṣ*
+- \[verb noun\], nominative, singular
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *vṛścadvanaṃ* \< *vṛścat* \< *vraśc*
+- \[verb noun\]
+- “cleave; fell; cut off; hew.”
+------------------------------------------------------------------------
+- *vṛścadvanaṃ* \< *vanam* \< *vana*
+- \[noun\], accusative, singular, masculine
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *kṛṣṇayāmaṃ* \< *kṛṣṇa*
+- \[noun\]
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *kṛṣṇayāmaṃ* \< *yāmam* \< *yāma*
+- \[noun\], accusative, singular, masculine
+- “prahara; watch; travel; path.”
+------------------------------------------------------------------------
+- *ruśantaṃ* \< *ruśantam* \< *ruśat*
+- \[noun\], accusative, singular, masculine
+- “white; bright; bright.”
+------------------------------------------------------------------------
+- *vītī* \< *vīti*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- \[noun\], accusative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *divyaṃ* \< *divyam* \< *divya*
+- \[noun\], accusative, singular, masculine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *jigāti* \< *gā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------

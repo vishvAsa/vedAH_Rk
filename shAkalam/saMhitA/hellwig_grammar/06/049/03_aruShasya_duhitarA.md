@@ -1,0 +1,65 @@
++++
+title = "Rig Veda 6.49.3"
+
++++
+-   *aruṣasya* \< *aruṣa*
+- \[noun\], genitive, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *duhitarā* \< *duhitṛ*
+- \[noun\], nominative, dual, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *virūpe* \< *virūpa*
+- \[noun\], nominative, dual, feminine
+- “ugly; maimed; grotesque.”
+------------------------------------------------------------------------
+- *stṛbhir* \< *stṛbhiḥ* \< *star*
+- \[noun\], instrumental, plural, masculine
+- “star.”
+------------------------------------------------------------------------
+- *anyā* \< *anya*
+- \[noun\], nominative, singular, feminine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *pipiśe* \< *piś*
+- \[verb\], singular, Perfect indicative
+- “decorate.”
+------------------------------------------------------------------------
+- *sūro* \< *sūraḥ* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *anyā* \< *anya*
+- \[noun\], nominative, singular, feminine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *mithasturā* \< *mithastur*
+- \[noun\], nominative, dual, feminine
+------------------------------------------------------------------------
+- *vicarantī* \< *vicar* \< *√car*
+- \[verb noun\], nominative, dual
+- “wander; travel; vraj; be active.”
+------------------------------------------------------------------------
+- *pāvake* \< *pāvaka*
+- \[noun\], nominative, dual, feminine
+- “pure; purifying; pure; āgneya; clear; bright; bright.”
+------------------------------------------------------------------------
+- *manma* \< *manman*
+- \[noun\], accusative, singular, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb noun\], accusative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *nakṣata* \< *nakṣataḥ* \< *nakṣ*
+- \[verb\], dual, Present indikative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *ṛcyamāne* \< *arc*
+- \[verb noun\], nominative, dual
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 5.78.4"
+
++++
+-   *atrir* \< *atriḥ* \< *atri*
+- \[noun\], nominative, singular, masculine
+- “Atri; Atri; atri \[word\].”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *avarohann* \< *avarohan* \< *avaruh* \< *√ruh*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *ṛbīsam* \< *ṛbīsa*
+- \[noun\], accusative, singular, neuter
+- “chasm.”
+------------------------------------------------------------------------
+- *ajohavīn* \< *ajohavīt* \< *johav* \< *√hvā*
+- \[verb\], singular, Imperfect
+- “appeal.”
+------------------------------------------------------------------------
+- *nādhamāneva* \< *nādhamānā* \< *nādh*
+- \[verb noun\], nominative, singular
+- “suffer.”
+------------------------------------------------------------------------
+- *nādhamāneva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yoṣā*
+- \[noun\], nominative, singular, feminine
+- “woman; puppet; daughter.”
+------------------------------------------------------------------------
+- *śyenasya* \< *śyena*
+- \[noun\], genitive, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *cij* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *javasā* \< *javas*
+- \[noun\], instrumental, singular, neuter
+- “speed.”
+------------------------------------------------------------------------
+- *nūtanenāgacchatam* \< *nūtanena* \< *nūtana*
+- \[noun\], instrumental, singular, neuter
+- “new; fresh; recent; contemporary; present(a); first.”
+------------------------------------------------------------------------
+- *nūtanenāgacchatam* \< *āgacchatam* \< *āgam* \< *√gam*
+- \[verb\], dual, Imperfect
+- “come; arrive; return; enter (a state); approach; travel; enter;
+    inherit; hand down; achieve; reach; appear; happen.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *śantamena* \< *śaṃtama*
+- \[noun\], instrumental, singular, neuter
+- “beneficent.”
+------------------------------------------------------------------------

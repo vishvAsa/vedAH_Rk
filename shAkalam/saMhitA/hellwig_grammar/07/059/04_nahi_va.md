@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 7.59.4"
+
++++
+-   *nahi*
+- \[adverb\]
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *ūtiḥ* \< *ūti*
+- \[noun\], nominative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *mardhati* \< *mṛdh*
+- \[verb\], singular, Present indikative
+- “neglect.”
+------------------------------------------------------------------------
+- *yasmā* \< *yasmai* \< *yad*
+- \[noun\], dative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *arādhvaṃ* \< *arādhvam* \< *rā*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “give; impart.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], vocative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *āvart* \< *āvṛt* \< *√vṛt*
+- \[verb\], singular, Root aorist (Ind.)
+- “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
+------------------------------------------------------------------------
+- *sumatir* \< *sumatiḥ* \< *sumati*
+- \[noun\], nominative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *navīyasī* \< *navīyas*
+- \[noun\], nominative, singular, feminine
+- “new; fresh; up-to-the-minute.”
+------------------------------------------------------------------------
+- *tūyaṃ* \< *tūyam* \< *tūya*
+- \[noun\], accusative, singular, neuter
+- “quick; fast; potent.”
+------------------------------------------------------------------------
+- *yāta* \< *yā*
+- \[verb\], plural, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *pipīṣavaḥ* \< *pipīṣu*
+- \[noun\], vocative, plural, masculine
+- “bibulous.”
+------------------------------------------------------------------------

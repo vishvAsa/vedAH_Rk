@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 5.7.5"
+
++++
+-   *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *veṣaṇe* \< *veṣaṇa*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *svedam* \< *sveda*
+- \[noun\], accusative, singular, masculine
+- “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
+------------------------------------------------------------------------
+- *pathiṣu* \< *pathin*
+- \[noun\], locative, plural, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *juhvati* \< *hu*
+- \[verb\], plural, Present indikative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *abhīm* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *abhīm* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *svajenyam* \< *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svajenyam* \< *jenyam* \< *jenya*
+- \[noun\], accusative, singular, masculine
+- “noble.”
+------------------------------------------------------------------------
+- *bhūmā* \< *bhūman*
+- \[noun\], accusative, plural, neuter
+- “Earth; floor.”
+------------------------------------------------------------------------
+- *pṛṣṭheva* \< *pṛṣṭhā* \< *pṛṣṭha*
+- \[noun\], accusative, plural, neuter
+- “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
+    \[word\]; back; roof.”
+------------------------------------------------------------------------
+- *pṛṣṭheva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ruruhuḥ* \< *ruh*
+- \[verb\], plural, Perfect indicative
+- “heal; grow; cicatrize; climb; board; ascend; grow.”
+------------------------------------------------------------------------

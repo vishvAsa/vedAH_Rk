@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 7.59.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *sadatāvitā* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *spārhāṇi* \< *spārha*
+- \[noun\], accusative, plural, neuter
+- “desirable.”
+------------------------------------------------------------------------
+- *dātave* \< *dā*
+- \[verb noun\]
+- “give; add; perform; put; administer; fill into; give; ignite; put
+    on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
+    drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
+    splint; poultice; create.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *asredhanto* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asredhanto* \< *sredhantaḥ* \< *sridh*
+- \[verb noun\], vocative, plural
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *somye* \< *somya*
+- \[noun\], locative, singular, neuter
+- “saumya.”
+------------------------------------------------------------------------
+- *madhau* \< *madhu*
+- \[noun\], locative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *svāheha* \< *svāhā*
+- \[adverb\]
+- “hail.”
+------------------------------------------------------------------------
+- *svāheha* \< *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *mādayādhvai* \< *māday* \< *√mad*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------

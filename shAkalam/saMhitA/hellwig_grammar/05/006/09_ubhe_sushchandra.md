@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 5.6.9"
+
++++
+-   *ubhe* \< *ubh*
+- \[noun\], accusative, dual, feminine
+- “both(a).”
+------------------------------------------------------------------------
+- *suścandra* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suścandra* \< *ścandra*
+- \[noun\], vocative, singular, masculine
+- “shining; glistening; brilliant.”
+------------------------------------------------------------------------
+- *sarpiṣo* \< *sarpiṣaḥ* \< *sarpis*
+- \[noun\], genitive, singular, neuter
+- “ghee; clarified butter; sarpiḥprameha.”
+------------------------------------------------------------------------
+- *darvī*
+- \[noun\], accusative, dual, feminine
+- “darvī; ladle; hood.”
+------------------------------------------------------------------------
+- *śrīṇīṣa* \< *śrīṇīṣe* \< *śrī*
+- \[verb\], singular, Present indikative
+- “cook; boil; heat; cook; mix.”
+------------------------------------------------------------------------
+- *āsani* \< *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *uto* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *pupūryā* \< *pupūryāḥ* \< *pṛ*
+- \[verb\], singular, Perfect optative
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+------------------------------------------------------------------------
+- *uktheṣu* \< *uktha*
+- \[noun\], locative, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *śavasas* \< *śavas*
+- \[noun\], genitive, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *pata* \< *pate* \< *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *iṣaṃ* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhara* \< *bhṛ*
+- \[verb\], singular, Present imperative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------

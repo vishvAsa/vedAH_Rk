@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 6.16.4"
+
++++
+-   *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *īﾱe* \< *īḍe* \< *īḍ*
+- \[verb\], singular, Perfect indicative
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *dvitā*
+- \[adverb\]
+- “again.”
+------------------------------------------------------------------------
+- *bharato* \< *bharataḥ* \< *bharata*
+- \[noun\], nominative, singular, masculine
+- “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
+------------------------------------------------------------------------
+- *vājibhiḥ* \< *vājin*
+- \[noun\], instrumental, plural, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *śunam* \< *śuna*
+- \[noun\], accusative, singular, neuter
+- “well-being; success.”
+------------------------------------------------------------------------
+- *īje* \< *yaj*
+- \[verb\], singular, Perfect indicative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *yajñeṣu* \< *yajña*
+- \[noun\], locative, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *yajñiyam* \< *yajñiya*
+- \[noun\], accusative, singular, masculine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------

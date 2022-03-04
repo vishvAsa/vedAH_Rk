@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 7.32.27"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ajñātā* \< *ajñāta*
+- \[noun\], nominative, plural, neuter
+- “unknown; unexpected.”
+------------------------------------------------------------------------
+- *vṛjanā* \< *vṛjana*
+- \[noun\], nominative, plural, neuter
+- “community; settlement.”
+------------------------------------------------------------------------
+- *durādhyo* \< *durādhyaḥ* \< *durādhī*
+- \[noun\], nominative, plural, masculine
+- “malevolent.”
+------------------------------------------------------------------------
+- *māśivāso* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māśivāso* \< *aśivāsaḥ* \< *aśiva*
+- \[noun\], nominative, plural, masculine
+- “inauspicious; unkind; unfriendly; cruel; dangerous.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *kramuḥ* \< *kram*
+- \[verb\], plural, Aorist inj. (proh.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *tvayā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pravataḥ* \< *pravat*
+- \[noun\], accusative, plural, feminine
+- “slope; river.”
+------------------------------------------------------------------------
+- *śaśvatīr* \< *śaśvatīḥ* \< *śaśvat*
+- \[noun\], accusative, plural, feminine
+- “all(a); each(a).”
+------------------------------------------------------------------------
+- *apo* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *'ti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *śūra*
+- \[noun\], vocative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *tarāmasi* \< *tṛ*
+- \[verb\], plural, Present indikative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------

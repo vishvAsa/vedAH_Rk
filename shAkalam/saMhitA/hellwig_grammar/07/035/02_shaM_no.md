@@ -1,0 +1,118 @@
++++
+title = "Rig Veda 7.35.2"
+
++++
+-   *śaṃ* \< *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bhagaḥ* \< *bhaga*
+- \[noun\], nominative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *purandhiḥ* \< *puraṃdhi*
+- \[noun\], nominative, singular, feminine
+- “liberality; Puraṃdhi; munificence.”
+------------------------------------------------------------------------
+- *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *santu* \< *as*
+- \[verb\], plural, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *rāyaḥ* \< *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *satyasya* \< *satya*
+- \[noun\], genitive, singular, neuter
+- “truth; oath; satya \[word\]; promise.”
+------------------------------------------------------------------------
+- *suyamasya* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyamasya* \< *yamasya* \< *yama*
+- \[noun\], genitive, singular, neuter
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[noun\], nominative, singular, neuter
+- “luck; well-being; fortune.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aryamā* \< *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *purujāto* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purujāto* \< *jātaḥ* \< *jan*
+- \[verb noun\], nominative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

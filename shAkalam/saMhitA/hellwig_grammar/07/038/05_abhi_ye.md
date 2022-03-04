@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 7.38.5"
+
++++
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mitho* \< *mithas*
+- \[adverb\]
+- “together; mutually; alternately.”
+------------------------------------------------------------------------
+- *vanuṣaḥ* \< *vanus*
+- \[noun\], nominative, plural, masculine
+- “unfriendly; competing(a).”
+------------------------------------------------------------------------
+- *sapante* \< *sap*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *rātiṃ* \< *rātim* \< *rāti*
+- \[noun\], accusative, singular, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *rātiṣācaḥ* \< *rātiṣāc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ahir* \< *ahiḥ* \< *ahi*
+- \[noun\], nominative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *budhnya* \< *budhnyaḥ* \< *budhnya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śṛṇotu* \< *śru*
+- \[verb\], singular, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *varūtry* \< *varūtrī* \< *varūtṛ*
+- \[noun\], nominative, singular, feminine
+- “varūtṛ \[word\].”
+------------------------------------------------------------------------
+- *ekadhenubhir* \< *ekadhenubhiḥ* \< *ekadhenu*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *pātu* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------

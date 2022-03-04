@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 5.62.4"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *aśvāsaḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *suyujo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyujo* \< *yujaḥ* \< *yuj*
+- \[noun\], nominative, plural, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *vahantu* \< *vah*
+- \[verb\], plural, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *yataraśmaya* \< *yata* \< *yam*
+- \[verb noun\]
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *yataraśmaya* \< *raśmayaḥ* \< *raśmi*
+- \[noun\], nominative, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *yantv* \< *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *arvāk*
+- \[adverb\]
+- “here.”
+------------------------------------------------------------------------
+- *ghṛtasya* \< *ghṛta*
+- \[noun\], genitive, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *nirṇig* \< *nirṇij*
+- \[noun\], nominative, singular, feminine
+- “attire; garment.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *vartate* \< *vṛt*
+- \[verb\], singular, Present indikative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *pradivi* \< *pradiv*
+- \[noun\], locative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *kṣaranti* \< *kṣar*
+- \[verb\], plural, Present indikative
+- “run; melt.”
+------------------------------------------------------------------------

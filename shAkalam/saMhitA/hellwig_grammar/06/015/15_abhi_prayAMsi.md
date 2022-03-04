@@ -1,0 +1,106 @@
++++
+title = "Rig Veda 6.15.15"
+
++++
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *prayāṃsi* \< *prayas*
+- \[noun\], accusative, plural, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *sudhitāni* \< *sudhita*
+- \[noun\], accusative, plural, neuter
+- “sudhita \[word\].”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *khyo* \< *khyaḥ* \< *khyā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dadhīta* \< *dhā*
+- \[verb\], singular, Present optative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *yajadhyai* \< *yaj*
+- \[verb noun\]
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *avā* \< *avāḥ* \< *av*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *vājasātāv* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājasātāv* \< *sātau* \< *sāti*
+- \[noun\], locative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *viśvāni* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *duritā* \< *durita*
+- \[noun\], accusative, plural, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *tarema* \< *tṛ*
+- \[verb\], plural, Present optative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *tā* \< *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tarema* \< *tṛ*
+- \[verb\], plural, Present optative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *tavāvasā* \< *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tavāvasā* \< *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *tarema* \< *tṛ*
+- \[verb\], plural, Present optative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------

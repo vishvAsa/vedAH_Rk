@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 6.70.2"
+
++++
+-   *asaścantī* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asaścantī* \< *saścantī* \< *sac*
+- \[verb noun\], nominative, dual
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *bhūridhāre* \< *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūridhāre* \< *dhāre* \< *dhārā*
+- \[noun\], nominative, dual, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *payasvatī* \< *payasvat*
+- \[noun\], nominative, dual, feminine
+- “sappy; watery; milk(a).”
+------------------------------------------------------------------------
+- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- \[noun\], accusative, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *duhāte* \< *duh*
+- \[verb\], dual, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *sukṛte* \< *sukṛt*
+- \[noun\], dative, singular, masculine
+- “devout; virtuous.”
+------------------------------------------------------------------------
+- *śucivrate* \< *śuci*
+- \[noun\]
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *śucivrate* \< *vrate* \< *vrata*
+- \[noun\], nominative, dual, feminine
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *rājantī* \< *rāj*
+- \[verb noun\], nominative, dual
+- “govern; shine; glitter; direct.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *bhuvanasya* \< *bhuvana*
+- \[noun\], genitive, singular, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], vocative, dual, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *retaḥ* \< *retas*
+- \[noun\], accusative, singular, neuter
+- “semen; sperm.”
+------------------------------------------------------------------------
+- *siñcataṃ* \< *siñcatam* \< *sic*
+- \[verb\], dual, Present imperative
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *yan* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *manurhitam* \< *manuḥ* \< *manus*
+- \[noun\], masculine
+- “Manu; man.”
+------------------------------------------------------------------------
+- *manurhitam* \< *hitam* \< *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------

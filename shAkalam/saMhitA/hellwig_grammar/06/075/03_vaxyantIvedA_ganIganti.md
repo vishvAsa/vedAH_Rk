@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 6.75.3"
+
++++
+-   *vakṣyantīved* \< *vakṣyantī* \< *vac*
+- \[verb noun\], nominative, singular
+- “say; describe; name; tell; address; enumerate; call; state; teach;
+    explain; say; declare; speak; define; declare; order; address;
+    recommend; answer; deem; recite; approve; proclaim; indicate;
+    determine; mention; designate.”
+------------------------------------------------------------------------
+- *vakṣyantīved* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vakṣyantīved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ganīganti* \< *ganīgam* \< *√gam*
+- \[verb\], singular, Present indikative
+- “return.”
+------------------------------------------------------------------------
+- *karṇam* \< *karṇa*
+- \[noun\], accusative, singular, masculine
+- “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
+------------------------------------------------------------------------
+- *priyaṃ* \< *priyam* \< *priya*
+- \[noun\], accusative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *sakhāyam* \< *sakhi*
+- \[noun\], accusative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *pariṣasvajānā* \< *pariṣvaj* \< *√svaj*
+- \[verb noun\], nominative, singular
+- “embrace.”
+------------------------------------------------------------------------
+- *yoṣeva* \< *yoṣā*
+- \[noun\], nominative, singular, feminine
+- “woman; puppet; daughter.”
+------------------------------------------------------------------------
+- *yoṣeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śiṅkte* \< *śiñj*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *vitatādhi* \< *vitatā* \< *vitan* \< *√tan*
+- \[verb noun\], nominative, singular
+- “expand; perform; scatter; prolong; increase.”
+------------------------------------------------------------------------
+- *vitatādhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhanvañ* \< *dhanvan*
+- \[noun\], locative, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *jyā*
+- \[noun\], nominative, singular, feminine
+- “bowstring.”
+------------------------------------------------------------------------
+- *iyaṃ* \< *iyam* \< *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *samane* \< *samana*
+- \[noun\], locative, singular, neuter
+- “marriage; conflict.”
+------------------------------------------------------------------------
+- *pārayantī* \< *pāray* \< *√pṛ*
+- \[verb noun\], nominative, singular
+- “rescue; keep alive; satisfy; save; resist; endure.”
+------------------------------------------------------------------------

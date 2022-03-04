@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 6.71.3"
+
++++
+-   *adabdhebhiḥ* \< *adabdha*
+- \[noun\], instrumental, plural, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *savitaḥ* \< *savitar* \< *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *pāyubhiṣ* \< *pāyubhiḥ* \< *pāyu*
+- \[noun\], instrumental, plural, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------
+- *ṭvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śivebhir* \< *śivebhiḥ* \< *śiva*
+- \[noun\], instrumental, plural, masculine
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *gayam* \< *gaya*
+- \[noun\], accusative, singular, masculine
+- “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
+------------------------------------------------------------------------
+- *hiraṇyajihvaḥ* \< *hiraṇya*
+- \[noun\]
+- “aureate; gold.”
+------------------------------------------------------------------------
+- *hiraṇyajihvaḥ* \< *jihvaḥ* \< *jihvā*
+- \[noun\], nominative, singular, masculine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *suvitāya* \< *suvita*
+- \[noun\], dative, singular, neuter
+- “prosperity; well-being.”
+------------------------------------------------------------------------
+- *navyase* \< *navyas*
+- \[noun\], dative, singular, neuter
+- “new.”
+------------------------------------------------------------------------
+- *rakṣā* \< *rakṣ*
+- \[verb\], singular, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *mākir*
+- \[adverb\]
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aghaśaṃsa* \< *agha*
+- \[noun\], neuter
+- “sin; evil; impurity; agha \[word\].”
+------------------------------------------------------------------------
+- *aghaśaṃsa* \< *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *īśata* \< *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------

@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 7.69.4"
+
++++
+-   *yuvoḥ* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *śriyam* \< *śrī*
+- \[noun\], accusative, singular, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *yoṣāvṛṇīta* \< *yoṣā*
+- \[noun\], nominative, singular, feminine
+- “woman; puppet; daughter.”
+------------------------------------------------------------------------
+- *yoṣāvṛṇīta* \< *vṛṇīta* \< *vṛ*
+- \[verb\], singular, Present optative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *sūro* \< *sūraḥ* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *duhitā* \< *duhitṛ*
+- \[noun\], nominative, singular, feminine
+- “daughter; duhitṛ \[word\].”
+------------------------------------------------------------------------
+- *paritakmyāyām* \< *paritakmyā*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *devayantam* \< *devay*
+- \[verb noun\], accusative, singular
+- “solicit.”
+------------------------------------------------------------------------
+- *avathaḥ* \< *av*
+- \[verb\], dual, Present indikative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *śacībhiḥ* \< *śacī*
+- \[noun\], instrumental, plural, feminine
+- “Śacī; power; dexterity; ability; aid.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ghraṃsam* \< *ghraṃsa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *omanā* \< *oman*
+- \[noun\], instrumental, singular, masculine
+- “relief; aid.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *vayo* \< *vayaḥ* \< *vayas*
+- \[noun\], nominative, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *gāt* \< *gā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------

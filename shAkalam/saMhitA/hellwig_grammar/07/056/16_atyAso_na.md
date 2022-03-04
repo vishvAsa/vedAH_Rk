@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.56.16"
+
++++
+-   *atyāso* \< *atyāsaḥ* \< *atya*
+- \[noun\], nominative, plural, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *svañco* \< *svañcaḥ* \< *svañc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *yakṣadṛśo* \< *yakṣa*
+- \[noun\], masculine
+- “Yakṣa; Kubera; thirteen; banyan.”
+------------------------------------------------------------------------
+- *yakṣadṛśo* \< *dṛśaḥ* \< *dṛś*
+- \[noun\], nominative, plural, masculine
+- “seeing; knowing.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śubhayanta* \< *śubhay* \< *√śubh*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *maryāḥ* \< *marya*
+- \[noun\], nominative, plural, masculine
+- “young buck; boyfriend.”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *harmyeṣṭhāḥ* \< *harmyeṣṭhā*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *śiśavo* \< *śiśavaḥ* \< *śiśu*
+- \[noun\], nominative, plural, masculine
+- “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śubhrā* \< *śubhrāḥ* \< *śubhra*
+- \[noun\], nominative, plural, masculine
+- “white; beautiful; attractive; śubhra \[word\]; light.”
+------------------------------------------------------------------------
+- *vatsāso* \< *vatsāsaḥ* \< *vatsa*
+- \[noun\], nominative, plural, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *prakrīﾱinaḥ* \< *prakrīḍinaḥ* \< *prakrīḍin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *payodhāḥ* \< *payaḥ* \< *payas*
+- \[noun\], neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payodhāḥ* \< *dhāḥ* \< *dhā*
+- \[noun\], nominative, plural, masculine
+- “giving.”
+------------------------------------------------------------------------

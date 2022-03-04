@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 7.37.5"
+
++++
+-   *sanitāsi* \< *san*
+- \[verb\], singular, periphrast. future
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *pravato* \< *pravataḥ* \< *pravat*
+- \[noun\], accusative, plural, feminine
+- “slope; river.”
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yābhir* \< *yābhiḥ* \< *yad*
+- \[noun\], instrumental, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viveṣo* \< *viveṣaḥ* \< *viṣ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “labor; act; perform.”
+------------------------------------------------------------------------
+- *haryaśva*
+- \[noun\], vocative, singular, masculine
+- “Indra; Haryaśva.”
+------------------------------------------------------------------------
+- *dhībhiḥ* \< *dhī*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *vavanmā* \< *vavanma* \< *van*
+- \[verb\], plural, Perfect indicative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *yujyābhir* \< *yujyābhiḥ* \< *yujya*
+- \[noun\], instrumental, plural, feminine
+- “adequate to(p); appropriate; united; allied.”
+------------------------------------------------------------------------
+- *ūtī* \< *ūti*
+- \[noun\], instrumental, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *kadā*
+- \[adverb\]
+- “when; kadā \[word\].”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rāya* \< *rāyaḥ* \< *rai*
+- \[noun\], ablative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *daśasyeḥ* \< *daśasy*
+- \[verb\], singular, Present optative
+------------------------------------------------------------------------

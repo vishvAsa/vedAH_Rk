@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 5.54.8"
+
++++
+-   *niyutvanto* \< *niyutvantaḥ* \< *niyutvat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *grāmajito* \< *grāma*
+- \[noun\], masculine
+- “village; grāma \[word\]; group; battalion; club; Hindu gamut;
+    troop; multitude; crowd; kin; collection; people.”
+------------------------------------------------------------------------
+- *grāmajito* \< *jitaḥ* \< *jit*
+- \[noun\], nominative, plural, masculine
+- “curative; removing; victorious; winning.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *naro* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *'ryamaṇo* \< *aryamaṇaḥ* \< *aryaman*
+- \[noun\], nominative, plural, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *kabandhinaḥ* \< *kabandhin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *pinvanty* \< *pinvanti* \< *pinv*
+- \[verb\], plural, Present indikative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *utsaṃ* \< *utsam* \< *utsa*
+- \[noun\], accusative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ināso* \< *ināsaḥ* \< *ina*
+- \[noun\], nominative, plural, masculine
+- “mighty; powerful.”
+------------------------------------------------------------------------
+- *asvaran* \< *svar*
+- \[verb\], plural, Imperfect
+- “sing.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *undanti* \< *und*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *madhvo* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *andhasā* \< *andhas*
+- \[noun\], instrumental, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------

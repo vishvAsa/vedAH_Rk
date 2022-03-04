@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 5.41.19"
+
++++
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *iﾱā* \< *iḍā*
+- \[noun\], nominative, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *yūthasya* \< *yūtha*
+- \[noun\], genitive, singular, masculine
+- “herd; troop; battalion.”
+------------------------------------------------------------------------
+- *mātā* \< *mātṛ*
+- \[noun\], nominative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *sman* \< *smat*
+- \[adverb\]
+- “simultaneously; jointly.”
+------------------------------------------------------------------------
+- *nadībhir* \< *nadībhiḥ* \< *nadī*
+- \[noun\], instrumental, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *urvaśī*
+- \[noun\], nominative, singular, feminine
+- “Urvaśī.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *gṛṇātu* \< *gṛ*
+- \[verb\], singular, Present imperative
+- “praise.”
+------------------------------------------------------------------------
+- *urvaśī*
+- \[noun\], nominative, singular, feminine
+- “Urvaśī.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *bṛhaddivā* \< *bṛhat*
+- \[noun\]
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *bṛhaddivā* \< *divā* \< *diva*
+- \[noun\], nominative, singular, feminine
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *gṛṇānābhyūrṇvānā* \< *gṛṇānā* \< *gṛ*
+- \[verb noun\], nominative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *gṛṇānābhyūrṇvānā* \< *abhyūrṇvānā* \< *abhivṛ* \< *√vṛ*
+- \[verb noun\], nominative, singular
+- “cover.”
+------------------------------------------------------------------------
+- *prabhṛthasyāyoḥ* \< *prabhṛthasya* \< *prabhṛtha*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *prabhṛthasyāyoḥ* \< *āyoḥ* \< *āyu*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------

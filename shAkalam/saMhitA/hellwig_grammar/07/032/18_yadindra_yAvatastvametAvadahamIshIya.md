@@ -1,0 +1,59 @@
++++
+title = "Rig Veda 7.32.18"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *yāvatas* \< *yāvataḥ* \< *yāvat*
+- \[noun\], genitive, singular, neuter
+- “yāvat \[word\].”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *etāvad* \< *etāvat*
+- \[noun\], accusative, singular, neuter
+- “such(a); such(a).”
+------------------------------------------------------------------------
+- *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *īśīya* \< *īś*
+- \[verb\], singular, Present optative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *stotāram* \< *stotṛ*
+- \[noun\], accusative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *didhiṣeya* \< *didhiṣ* \< *√dhā*
+- \[verb\], singular, Present optative
+------------------------------------------------------------------------
+- *radāvaso* \< *radāvasu*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pāpatvāya* \< *pāpatva*
+- \[noun\], dative, singular, neuter
+- “poverty; misery.”
+------------------------------------------------------------------------
+- *rāsīya* \< *rā*
+- \[verb\], singular, Aorist optative
+- “give; impart.”
+------------------------------------------------------------------------

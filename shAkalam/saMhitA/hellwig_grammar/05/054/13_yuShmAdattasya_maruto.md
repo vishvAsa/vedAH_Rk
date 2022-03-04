@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 5.54.13"
+
++++
+-   *yuṣmādattasya* \< *yuṣmādatta*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *vicetaso* \< *vicetasaḥ* \< *vicetas*
+- \[noun\], vocative, plural, masculine
+- “wise; diligent.”
+------------------------------------------------------------------------
+- *rāyaḥ* \< *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *rathyo* \< *rathyaḥ* \< *rathī*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vayasvataḥ* \< *vayasvat*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yucchati* \< *yu*
+- \[verb\], singular, Present indikative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *tiṣyo* \< *tiṣyaḥ* \< *tiṣya*
+- \[noun\], nominative, singular, masculine
+- “Tiṣya; tiṣya \[word\].”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *'sme* \< *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāranta* \< *ran*
+- \[verb\], plural, Perfect imperative
+- “rejoice.”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *sahasriṇam* \< *sahasrin*
+- \[noun\], accusative, singular, masculine
+- “thousandfold.”
+------------------------------------------------------------------------

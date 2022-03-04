@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 7.19.3"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhṛṣṇo* \< *dhṛṣṇu*
+- \[noun\], vocative, singular, masculine
+- “brave; ferocious; strong.”
+------------------------------------------------------------------------
+- *dhṛṣatā* \< *dhṛṣ*
+- \[verb noun\], instrumental, singular
+- “dare; attack.”
+------------------------------------------------------------------------
+- *vītahavyam* \< *vīta* \< *vī*
+- \[verb noun\]
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *vītahavyam* \< *havyam* \< *havya*
+- \[noun\], accusative, singular, masculine
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *prāvo* \< *prāvaḥ* \< *prāv* \< *√av*
+- \[verb\], singular, Imperfect
+- “help; promote.”
+------------------------------------------------------------------------
+- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- \[noun\], instrumental, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ūtibhiḥ* \< *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *sudāsam* \< *sudās*
+- \[noun\], accusative, singular, masculine
+- “Sudās.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *paurukutsiṃ* \< *paurukutsim* \< *paurukutsi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *trasadasyum* \< *trasadasyu*
+- \[noun\], accusative, singular, masculine
+- “Trasadasyu.”
+------------------------------------------------------------------------
+- *āvaḥ* \< *av*
+- \[verb\], singular, Imperfect
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *kṣetrasātā* \< *kṣetra*
+- \[noun\], neuter
+- “field; location; habitat; country; area; earth; region; estate;
+    body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
+------------------------------------------------------------------------
+- *kṣetrasātā* \< *sātā* \< *sāti*
+- \[noun\], locative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *vṛtrahatyeṣu* \< *vṛtra*
+- \[noun\], neuter
+- “enemy.”
+------------------------------------------------------------------------
+- *vṛtrahatyeṣu* \< *hatyeṣu* \< *hatya*
+- \[noun\], locative, plural, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *pūrum* \< *pūru*
+- \[noun\], accusative, singular, masculine
+- “Pūru; Pūru.”
+------------------------------------------------------------------------
