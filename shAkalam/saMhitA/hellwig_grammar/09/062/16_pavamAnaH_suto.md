@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 9.62.16"
+
++++
+-   *pavamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *somo* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *ivāsarat* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivāsarat* \< *asarat* \< *sṛ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “sṛ; liquefy; run; spread; stretch out.”
+------------------------------------------------------------------------
+- *camūṣu* \< *camū*
+- \[noun\], locative, plural, feminine
+- “army; camū; Camū.”
+------------------------------------------------------------------------
+- *śakmanāsadam* \< *śakman*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *śakmanāsadam* \< *āsadam* \< *āsad* \< *√sad*
+- \[verb noun\]
+- “approach; attack; sit down; approach; find; arrive.”
+------------------------------------------------------------------------
