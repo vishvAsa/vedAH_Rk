@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 1.190.6"
+
++++
+-   *supraituḥ* \< *supraitu*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *sūyavaso* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sūyavaso* \< *yavasaḥ* \< *yavasa*
+- \[noun\], nominative, singular, masculine
+- “eatage; pasture; fodder.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *panthā* \< *panthāḥ* \< *pathin*
+- \[noun\], nominative, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *durniyantuḥ* \< *durniyantu*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pariprīto* \< *pariprītaḥ* \< *pariprī* \< *√prī*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *anarvāṇo* \< *anarvāṇaḥ* \< *anarvan*
+- \[noun\], nominative, plural, masculine
+- “unchallenged; unrivaled.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *cakṣate* \< *cakṣ*
+- \[verb\], plural, Present indikative
+- “watch; look.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'pīvṛtā* \< *apīvṛtāḥ* \< *apivṛ* \< *√vṛ*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *aporṇuvanto* \< *aporṇuvantaḥ* \< *apavṛ* \< *√vṛ*
+- \[verb noun\], nominative, plural
+- “open.”
+------------------------------------------------------------------------
+- *asthuḥ* \< *sthā*
+- \[verb\], plural, Root aorist (Ind.)
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------

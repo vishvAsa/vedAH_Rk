@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 3.36.4"
+
++++
+-   *mahāṃ* \< *mahat*
+- \[noun\], nominative, singular, masculine
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *amatro* \< *amatraḥ* \< *amatra*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vṛjane* \< *vṛjana*
+- \[noun\], locative, singular, neuter
+- “community; settlement.”
+------------------------------------------------------------------------
+- *virapśy* \< *virapśī* \< *virapśin*
+- \[noun\], nominative, singular, masculine
+- “exuberant; copious; ample.”
+------------------------------------------------------------------------
+- *ugraṃ* \< *ugram* \< *ugra*
+- \[noun\], accusative, singular, neuter
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *śavaḥ* \< *śavas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *patyate* \< *pat*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *dhṛṣṇv* \< *dhṛṣṇu*
+- \[noun\], accusative, singular, neuter
+- “brave; ferocious; strong.”
+------------------------------------------------------------------------
+- *ojaḥ* \< *ojas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *nāha* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāha* \< *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *vivyāca* \< *vyac*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *canainaṃ* \< *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *canainaṃ* \< *enam* \< *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *somāso* \< *somāsaḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *haryaśvam* \< *haryaśva*
+- \[noun\], accusative, singular, masculine
+- “Indra; Haryaśva.”
+------------------------------------------------------------------------
+- *amandan* \< *mad*
+- \[verb\], plural, Imperfect
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------

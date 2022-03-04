@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 1.87.1"
+
++++
+-   *pratvakṣasaḥ* \< *pratvakṣas*
+- \[noun\], nominative, plural, masculine
+- “strong; vigorous.”
+------------------------------------------------------------------------
+- *pratavaso* \< *pratavasaḥ* \< *pratavas*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *virapśino* \< *virapśinaḥ* \< *virapśin*
+- \[noun\], nominative, plural, masculine
+- “exuberant; copious; ample.”
+------------------------------------------------------------------------
+- *'nānatā* \< *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *'nānatā* \< *ānatāḥ* \< *ānam* \< *√nam*
+- \[verb noun\], nominative, plural
+- “bend; bow; crouch; bend.”
+------------------------------------------------------------------------
+- *avithurā* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *avithurā* \< *vithurāḥ* \< *vithura*
+- \[noun\], nominative, plural, masculine
+- “weak.”
+------------------------------------------------------------------------
+- *ṛjīṣiṇaḥ* \< *ṛjīṣin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *juṣṭatamāso* \< *juṣṭatamāsaḥ* \< *juṣṭatama*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *nṛtamāso* \< *nṛtamāsaḥ* \< *nṛtama*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *añjibhir* \< *añjibhiḥ* \< *añji*
+- \[noun\], instrumental, plural, masculine
+- “color; ointment; adornment.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ānajre* \< *añj*
+- \[verb\], plural, Perfect indicative
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *kecid* \< *kaścit*
+- \[noun\], nominative, plural, masculine
+- “any(a); some(a); some(a); some(a); some(a).”
+------------------------------------------------------------------------
+- *usrā* \< *usrāḥ* \< *usra*
+- \[noun\], nominative, plural, masculine
+- “beam; Asvins.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *stṛbhiḥ* \< *star*
+- \[noun\], instrumental, plural, masculine
+- “star.”
+------------------------------------------------------------------------

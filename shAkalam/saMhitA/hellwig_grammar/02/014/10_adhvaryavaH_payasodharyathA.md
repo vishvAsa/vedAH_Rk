@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 2.14.10"
+
++++
+-   *adhvaryavaḥ* \< *adhvaryu*
+- \[noun\], vocative, plural, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+------------------------------------------------------------------------
+- *payasodhar* \< *payasā* \< *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payasodhar* \< *udhar* \< *udhan*
+- \[noun\], accusative, singular, neuter
+- “udder.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *goḥ* \< *go*
+- \[noun\], genitive, singular, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *somebhir* \< *somebhiḥ* \< *soma*
+- \[noun\], instrumental, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *pṛṇatā* \< *pṛṇata* \< *pṛṇ*
+- \[verb\], plural, Present imperative
+- “satisfy.”
+------------------------------------------------------------------------
+- *bhojam* \< *bhoja*
+- \[noun\], accusative, singular, masculine
+- “big; hospitable.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vedāham* \< *veda* \< *vid*
+- \[verb\], singular, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *vedāham* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *nibhṛtam* \< *nibhṛta*
+- \[noun\], nominative, singular, neuter
+- “concealed; secret; lonely(a); passionless; emotionless; modest;
+    faithful; separate.”
+------------------------------------------------------------------------
+- *ma* \< *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *etad* \< *etat* \< *etad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *ditsantam* \< *dits* \< *√dā*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *bhūyo* \< *bhūyas*
+- \[adverb\]
+- “again; further; further; repeatedly.”
+------------------------------------------------------------------------
+- *yajataś* \< *yajataḥ* \< *yajata*
+- \[noun\], nominative, singular, masculine
+- “holy; august; sacrificial.”
+------------------------------------------------------------------------
+- *ciketa* \< *cit*
+- \[verb\], singular, Perfect indicative
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------

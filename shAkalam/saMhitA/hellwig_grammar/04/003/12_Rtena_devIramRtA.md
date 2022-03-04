@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 4.3.12"
+
++++
+-   *ṛtena* \< *ṛta*
+- \[noun\], instrumental, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *devīr* \< *devīḥ* \< *deva*
+- \[noun\], nominative, plural, feminine
+- “divine.”
+------------------------------------------------------------------------
+- *amṛtā* \< *amṛtāḥ* \< *amṛta*
+- \[noun\], nominative, plural, feminine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *amṛktā* \< *amṛktāḥ* \< *amṛkta*
+- \[noun\], nominative, plural, feminine
+- “new; undamaged; complete.”
+------------------------------------------------------------------------
+- *arṇobhir* \< *arṇobhiḥ* \< *arṇas*
+- \[noun\], instrumental, plural, neuter
+- “body of water; water.”
+------------------------------------------------------------------------
+- *āpo* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *madhumadbhir* \< *madhumadbhiḥ* \< *madhumat*
+- \[noun\], instrumental, plural, neuter
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *vājī* \< *vājin*
+- \[noun\], nominative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sargeṣu* \< *sarga*
+- \[noun\], locative, plural, masculine
+- “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
+------------------------------------------------------------------------
+- *prastubhānaḥ* \< *prastubh* \< *√stubh*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sadam*
+- \[adverb\]
+- “always.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *sravitave* \< *sru*
+- \[verb noun\]
+- “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
+    disappear; leak; fester.”
+------------------------------------------------------------------------
+- *dadhanyuḥ* \< *dhan*
+- \[verb\], plural, Perfect optative
+------------------------------------------------------------------------

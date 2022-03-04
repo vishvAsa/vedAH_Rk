@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 2.29.2"
+
++++
+-   *yūyaṃ* \< *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *pramatir* \< *pramatiḥ* \< *pramati*
+- \[noun\], nominative, singular, feminine
+- “care; solicitude; caution; providence.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *ojo* \< *ojaḥ* \< *ojas*
+- \[noun\], nominative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *yūyaṃ* \< *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *dveṣāṃsi* \< *dveṣas*
+- \[noun\], accusative, plural, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *sanutar*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *yuyota* \< *yu*
+- \[verb\], plural, Present imperative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *abhikṣattāro* \< *abhikṣattāraḥ* \< *abhikṣattṛ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *kṣamadhvam* \< *kṣam*
+- \[verb\], plural, Present imperative
+- “forgive; can; endure; permit.”
+------------------------------------------------------------------------
+- *adyā* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mṛḍayatāparaṃ* \< *mṛḍayata* \< *mṛḍay* \< *√mṛḍ*
+- \[verb\], plural, Present imperative
+- “pardon.”
+------------------------------------------------------------------------
+- *mṛḍayatāparaṃ* \< *aparam* \< *apara*
+- \[noun\], accusative, singular, neuter
+- “other; another(a); following; western; future; apara \[word\];
+    elder; remaining; some(a); later(a); back(a).”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------

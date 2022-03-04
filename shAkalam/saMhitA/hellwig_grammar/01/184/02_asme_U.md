@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 1.184.2"
+
++++
+-   *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ū* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *vṛṣaṇā* \< *vṛṣan*
+- \[noun\], vocative, dual, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *mādayethām* \< *māday* \< *√mad*
+- \[verb\], dual, Present imperative
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *paṇīṃr* \< *paṇīn* \< *paṇi*
+- \[noun\], accusative, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *hatam* \< *han*
+- \[verb\], dual, Present imperative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *ūrmyā* \< *ūrmi*
+- \[noun\], instrumental, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *madantā* \< *mad*
+- \[verb noun\], nominative, dual
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *śrutam* \< *śru*
+- \[verb\], dual, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *acchoktibhir* \< *acchoktibhiḥ* \< *acchokti*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *matīnām* \< *mati*
+- \[noun\], genitive, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *eṣṭā* \< *āyaj* \< *√yaj*
+- \[verb noun\], accusative, dual
+------------------------------------------------------------------------
+- *narā* \< *nṛ*
+- \[noun\], vocative, dual, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nicetārā* \< *nicetṛ*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *karṇaiḥ* \< *karṇa*
+- \[noun\], instrumental, plural, masculine
+- “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
+------------------------------------------------------------------------

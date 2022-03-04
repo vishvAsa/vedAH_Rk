@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.105.5"
+
++++
+-   *amī* \< *adas*
+- \[noun\], nominative, plural, masculine
+- “that; John Doe; yonder; from here.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devā* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *sthana* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *triṣv* \< *triṣu* \< *tri*
+- \[noun\], locative, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rocane* \< *rocana*
+- \[noun\], locative, singular, neuter
+- “light; celestial sphere.”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *kad* \< *ka*
+- \[noun\], nominative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- \[noun\], nominative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *kad* \< *ka*
+- \[noun\], nominative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *anṛtaṃ* \< *anṛtam* \< *anṛta*
+- \[noun\], nominative, singular, neuter
+- “falsehood; lying; lie; cheat.”
+------------------------------------------------------------------------
+- *kva*
+- \[adverb\]
+- “wherein; how; kva \[word\].”
+------------------------------------------------------------------------
+- *pratnā* \< *pratna*
+- \[noun\], nominative, singular, feminine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *āhutir* \< *āhutiḥ* \< *āhuti*
+- \[noun\], nominative, singular, feminine
+- “āhuti; offering.”
+------------------------------------------------------------------------
+- *vittam* \< *vid*
+- \[verb\], dual, Present imperative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], vocative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------

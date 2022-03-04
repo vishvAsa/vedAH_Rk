@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 4.16.13"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *piprum* \< *pipru*
+- \[noun\], accusative, singular, masculine
+- “Pipru.”
+------------------------------------------------------------------------
+- *mṛgayaṃ* \< *mṛgayam* \< *mṛgaya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *śūśuvāṃsam* \< *śvi*
+- \[verb noun\], accusative, singular
+- “swell; grow.”
+------------------------------------------------------------------------
+- *ṛjiśvane* \< *ṛjiśvan*
+- \[noun\], dative, singular, masculine
+- “Ṛjiśvan.”
+------------------------------------------------------------------------
+- *vaidathināya* \< *vaidathina*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *randhīḥ* \< *radh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “subjugate.”
+------------------------------------------------------------------------
+- *pañcāśat*
+- \[noun\], accusative, singular, feminine
+- “fifty; pañcāśat \[word\].”
+------------------------------------------------------------------------
+- *kṛṣṇā* \< *kṛṣṇāḥ* \< *kṛṣṇa*
+- \[noun\], accusative, plural, feminine
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *vapaḥ* \< *vap*
+- \[verb\], singular, Present injunctive
+- “sow; bestrew; strew; scatter.”
+------------------------------------------------------------------------
+- *sahasrātkaṃ* \< *sahasrā* \< *sahasra*
+- \[noun\], accusative, plural, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrātkaṃ* \< *atkam* \< *atka*
+- \[noun\], accusative, singular, masculine
+- “garment.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *puro* \< *puraḥ* \< *pur*
+- \[noun\], accusative, plural, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *jarimā* \< *jariman*
+- \[noun\], nominative, singular, masculine
+- “old age.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *dardaḥ* \< *dardar* \< *√dṛ*
+- \[verb\], singular, Present injunctive
+- “cleave.”
+------------------------------------------------------------------------

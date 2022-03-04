@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 1.84.20"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rādhāṃsi* \< *rādhas*
+- \[noun\], nominative, plural, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *ūtayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *vaso* \< *vasas* \< *vas*
+- \[verb noun\], vocative, singular
+- “stay; dwell; get stale; be situated; exist; continue; bide.”
+------------------------------------------------------------------------
+- *'smān* \< *asmān* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *kadācanā* \< *kadācana*
+- \[adverb\]
+- “ever; sometimes.”
+------------------------------------------------------------------------
+- *kadācanā* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dabhan* \< *dabh*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *upamimīhi* \< *upamā* \< *√mā*
+- \[verb\], singular, Present imperative
+- “compare.”
+------------------------------------------------------------------------
+- *mānuṣa*
+- \[noun\], vocative, singular, masculine
+- “human.”
+------------------------------------------------------------------------
+- *vasūni* \< *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *carṣaṇibhya* \< *carṣaṇibhyaḥ* \< *carṣaṇi*
+- \[noun\], ablative, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------

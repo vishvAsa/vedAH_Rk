@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.180.5"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *dānāya* \< *dāna*
+- \[noun\], dative, singular, neuter
+- “giving; gift; bribery; performance; addition; yajña; fueling;
+    teaching.”
+------------------------------------------------------------------------
+- *vavṛtīya* \< *vṛt*
+- \[verb\], singular, Perfect optative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *gor* \< *goḥ* \< *go*
+- \[noun\], genitive, singular, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *oheṇa* \< *oha*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *taugryo* \< *taugryaḥ* \< *taugrya*
+- \[noun\], nominative, singular, masculine
+- “Bhujyu.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jivriḥ* \< *jivri*
+- \[noun\], nominative, singular, masculine
+- “old.”
+------------------------------------------------------------------------
+- *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *kṣoṇī*
+- \[noun\], nominative, singular, feminine
+- “Earth.”
+------------------------------------------------------------------------
+- *sacate* \< *sac*
+- \[verb\], singular, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *māhinā* \< *māhina*
+- \[noun\], nominative, singular, feminine
+- “mighty; large.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *jūrṇo* \< *jūrṇaḥ* \< *jṛ*
+- \[verb noun\], nominative, singular
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *akṣur* \< *akṣuḥ* \< *akṣu*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *yajatrā* \< *yajatra*
+- \[noun\], vocative, dual, masculine
+- “adorable.”
+------------------------------------------------------------------------

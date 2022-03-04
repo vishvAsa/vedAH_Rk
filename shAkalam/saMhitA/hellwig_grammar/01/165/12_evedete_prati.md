@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 1.165.12"
+
++++
+-   *eved* \< *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *eved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *rocamānā* \< *rocamānāḥ* \< *ruc*
+- \[verb noun\], nominative, plural
+- “please; shine.”
+------------------------------------------------------------------------
+- *anedyaḥ* \< *anedya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *śrava* \< *śravaḥ* \< *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *eṣo* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *eṣo* \< *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *dadhānāḥ* \< *dhā*
+- \[verb noun\], nominative, plural
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *saṃcakṣyā* \< *saṃcakṣya* \< *saṃcakṣ* \< *√cakṣ*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *marutaś* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *candravarṇā* \< *candra*
+- \[noun\]
+- “aglitter(p); shining.”
+------------------------------------------------------------------------
+- *candravarṇā* \< *varṇāḥ* \< *varṇa*
+- \[noun\], nominative, plural, masculine
+- “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
+    appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
+------------------------------------------------------------------------
+- *acchānta* \< *chand*
+- \[verb\], plural, Athematic s aor. (Ind.)
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *chadayāthā* \< *chadayātha* \< *chaday* \< *√chand*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “look.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------

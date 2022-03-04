@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 3.9.8"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *juhotā* \< *hu*
+- \[verb\], plural, Present imperative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *svadhvaraṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svadhvaraṃ* \< *adhvaram* \< *adhvara*
+- \[noun\], accusative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *śīram* \< *śīra*
+- \[noun\], accusative, singular, masculine
+- “sharp; acerb.”
+------------------------------------------------------------------------
+- *pāvakaśociṣam* \< *pāvaka*
+- \[noun\]
+- “pure; purifying; pure; āgneya; clear; bright; bright.”
+------------------------------------------------------------------------
+- *pāvakaśociṣam* \< *śociṣam* \< *śocis*
+- \[noun\], accusative, singular, masculine
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------
+- *āśuṃ* \< *āśum* \< *āśu*
+- \[noun\], accusative, singular, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *dūtam* \< *dūta*
+- \[noun\], accusative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *ajiram* \< *ajira*
+- \[noun\], accusative, singular, masculine
+- “fast; agile; ajira \[word\].”
+------------------------------------------------------------------------
+- *pratnam* \< *pratna*
+- \[noun\], accusative, singular, masculine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *īḍyaṃ* \< *īḍyam* \< *īḍ*
+- \[verb noun\], accusative, singular
+- “praise; invite; raise.”
+------------------------------------------------------------------------
+- *śruṣṭī* \< *śruṣṭi*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *devaṃ* \< *devam* \< *deva*
+- \[noun\], accusative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *saparyata* \< *sapary*
+- \[verb\], plural, Present imperative
+- “worship.”
+------------------------------------------------------------------------

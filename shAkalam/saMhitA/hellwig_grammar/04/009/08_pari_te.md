@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 4.9.8"
+
++++
+-   *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *dūﾱabho* \< *dūﾱabhaḥ* \< *dūḍabha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *'smāṃ* \< *asmāṃ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aśnotu* \< *aś*
+- \[verb\], singular, Present imperative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *viśvataḥ* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *rakṣasi* \< *rakṣ*
+- \[verb\], singular, Present indikative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *dāśuṣaḥ* \< *dāś*
+- \[verb noun\], accusative, plural
+- “sacrifice; give.”
+------------------------------------------------------------------------

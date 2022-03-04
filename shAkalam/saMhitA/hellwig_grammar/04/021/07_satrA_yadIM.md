@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 4.21.7"
+
++++
+-   *satrā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *bhārvarasya* \< *bhārvara*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *vṛṣṇaḥ* \< *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *siṣakti* \< *sac*
+- \[verb\], singular, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *śuṣma* \< *śuṣman*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *stuvate* \< *stu*
+- \[verb noun\], dative, singular
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *bharāya* \< *bhara*
+- \[noun\], dative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *auśijasya* \< *auśija*
+- \[noun\], genitive, singular, masculine
+- “Kakṣīvant.”
+------------------------------------------------------------------------
+- *gohe* \< *goha*
+- \[noun\], locative, singular, masculine
+- “hole.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *dhiye* \< *dhī*
+- \[noun\], dative, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *prāyase* \< *prāyas*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *madāya* \< *mada*
+- \[noun\], dative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------

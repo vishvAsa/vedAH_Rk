@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.122.9"
+
++++
+-   *jano* \< *janaḥ* \< *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *abhidhrug* \< *abhidruh*
+- \[noun\], nominative, singular, masculine
+- “despicable.”
+------------------------------------------------------------------------
+- *apo* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *sunoty* \< *sunoti* \< *su*
+- \[verb\], singular, Present indikative
+- “press out; su.”
+------------------------------------------------------------------------
+- *akṣṇayādhruk* \< *akṣṇayā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *akṣṇayādhruk* \< *adruh*
+- \[noun\], nominative, singular, masculine
+- “friendly; benign.”
+------------------------------------------------------------------------
+- *svayaṃ* \< *svayam*
+- \[adverb\]
+- “personally; spontaneously; svayam \[word\]; voluntarily.”
+------------------------------------------------------------------------
+- *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *yakṣmaṃ* \< *yakṣmam* \< *yakṣma*
+- \[noun\], accusative, singular, masculine
+- “tuberculosis; disease; pulmonary tuberculosis.”
+------------------------------------------------------------------------
+- *hṛdaye* \< *hṛdaya*
+- \[noun\], locative, singular, neuter
+- “heart; heart; mind; hṛdaya \[word\]; science; thorax;
+    Aṣṭāṅgahṛdayasaṃhitā; soul.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *dhatta* \< *dhatte* \< *dhā*
+- \[verb\], singular, Present indikative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *āpa* \< *āp*
+- \[verb\], singular, Perfect indicative
+- “enter (a state); get; reach; obtain; equal.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *hotrābhir* \< *hotrābhiḥ* \< *hotrā*
+- \[noun\], instrumental, plural, feminine
+- “hotrā \[word\]; Hautra.”
+------------------------------------------------------------------------
+- *ṛtāvā* \< *ṛtāvan*
+- \[noun\], nominative, singular, masculine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------

@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 1.84.10"
+
++++
+-   *svādor* \< *svādoḥ* \< *svādu*
+- \[noun\], genitive, singular, neuter
+- “Madhura; sweet; sweet; dainty; agreeable.”
+------------------------------------------------------------------------
+- *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *viṣūvato* \< *viṣūvataḥ* \< *viṣūvat*
+- \[noun\], genitive, singular, neuter
+------------------------------------------------------------------------
+- *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *pibanti* \< *pā*
+- \[verb\], plural, Present indikative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *gauryaḥ* \< *gaurī*
+- \[noun\], nominative, plural, feminine
+- “Parvati; gorocanā; turmeric; gaurī; gaurīpāṣāṇa; abhra; Gaurī.”
+------------------------------------------------------------------------
+- *yā* \< *yāḥ* \< *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *indreṇa* \< *indra*
+- \[noun\], instrumental, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sayāvarīr* \< *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sayāvarīr* \< *yāvarīḥ* \< *yāvan*
+- \[noun\], nominative, plural, feminine
+- “traveler.”
+------------------------------------------------------------------------
+- *vṛṣṇā* \< *vṛṣan*
+- \[noun\], instrumental, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *madanti* \< *mad*
+- \[verb\], plural, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *śobhase* \< *śubh*
+- \[verb noun\]
+- “look; shine; beautify.”
+------------------------------------------------------------------------
+- *vasvīr* \< *vasvīḥ* \< *vasu*
+- \[noun\], nominative, plural, feminine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *svarājyam* \< *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svarājyam* \< *rājyam* \< *rājya*
+- \[noun\], accusative, singular, neuter
+- “kingdom; kingship; sovereignty; rājya \[word\].”
+------------------------------------------------------------------------

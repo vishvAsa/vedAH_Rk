@@ -1,0 +1,55 @@
++++
+title = "Rig Veda 1.28.3"
+
++++
+-   *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *nāry* \< *nārī*
+- \[noun\], nominative, singular, feminine
+- “woman; wife; female.”
+------------------------------------------------------------------------
+- *apacyavam* \< *apacyava*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *upacyavaṃ* \< *upacyavam* \< *upacyava*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śikṣate* \< *śikṣ*
+- \[verb\], singular, Present indikative
+- “help; give.”
+------------------------------------------------------------------------
+- *ulūkhalasutānām* \< *ulūkhala*
+- \[noun\], masculine
+- “mortar; ulūkhala.”
+------------------------------------------------------------------------
+- *ulūkhalasutānām* \< *sutānām* \< *su*
+- \[verb noun\], genitive, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *aved* \< *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *aved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *v* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *jalgulaḥ* \< *jargur* \< *√gṛ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “swallow.”
+------------------------------------------------------------------------

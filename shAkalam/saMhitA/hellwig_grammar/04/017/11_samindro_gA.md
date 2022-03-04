@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 4.17.11"
+
++++
+-   *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *ajayat* \< *ji*
+- \[verb\], singular, Imperfect
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *hiraṇyā* \< *hiraṇya*
+- \[noun\], accusative, plural, neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *aśviyā* \< *aśviya*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], accusative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *ebhir* \< *ebhiḥ* \< *idam*
+- \[noun\], instrumental, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛtamo* \< *nṛtamaḥ* \< *nṛtama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *śākai* \< *śākaiḥ* \< *śāka*
+- \[noun\], instrumental, plural, masculine
+- “power.”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *vibhaktā* \< *vibhaj* \< *√bhaj*
+- \[verb\], singular, periphrast. future
+- “divide; give away; distribute; choose; allocate; separate; spread;
+    consider; assign; distinguish; proportion.”
+------------------------------------------------------------------------
+- *sambharaś* \< *sambharaḥ* \< *sambhara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vasvaḥ* \< *vasu*
+- \[noun\], genitive, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------

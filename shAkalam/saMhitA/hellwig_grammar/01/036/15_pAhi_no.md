@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 1.36.15"
+
++++
+-   *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *rakṣasaḥ* \< *rakṣas*
+- \[noun\], ablative, singular, neuter
+- “Rākṣasa; Rakṣas; rakṣas \[word\].”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *dhūrter* \< *dhūrteḥ* \< *dhūrti*
+- \[noun\], ablative, singular, feminine
+- “fraud; damage.”
+------------------------------------------------------------------------
+- *arāvṇaḥ* \< *arāvan*
+- \[noun\], genitive, singular, masculine
+- “begrudging; hostile; stingy.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *rīṣata* \< *rīṣataḥ* \< *riṣ*
+- \[verb noun\], ablative, singular
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *jighāṃsato* \< *jighāṃsataḥ* \< *jighāṃs* \< *√han*
+- \[verb noun\], ablative, singular
+- “kill.”
+------------------------------------------------------------------------
+- *bṛhadbhāno* \< *bṛhadbhānu*
+- \[noun\], vocative, singular, masculine
+- “Agni; Bṛhadbhānu; Vishnu.”
+------------------------------------------------------------------------
+- *yaviṣṭhya*
+- \[noun\], vocative, singular, masculine
+- “youngest.”
+------------------------------------------------------------------------

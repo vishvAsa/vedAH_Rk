@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 1.105.8"
+
++++
+-   *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *tapanty* \< *tapanti* \< *tap*
+- \[verb\], plural, Present indikative
+- “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
+------------------------------------------------------------------------
+- *abhitaḥ* \< *abhitas*
+- \[adverb\]
+- “about; around; regarding; about.”
+------------------------------------------------------------------------
+- *sapatnīr* \< *sapatnīḥ* \< *sapatnī*
+- \[noun\], nominative, plural, feminine
+- “sapatnī; rival; sapatnī \[word\]; mistress.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *parśavaḥ* \< *parśu*
+- \[noun\], nominative, plural, masculine
+- “rib; parśu \[word\].”
+------------------------------------------------------------------------
+- *mūṣo* \< *mūṣaḥ* \< *mūṣ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śiśnā* \< *śiśna*
+- \[noun\], accusative, plural, neuter
+- “penis; tail.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *adanti* \< *ad*
+- \[verb\], plural, Present indikative
+- “eat; devour.”
+------------------------------------------------------------------------
+- *mādhya* \< *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *mādhya* \< *ādhya* \< *ādhī*
+- \[noun\], nominative, plural, feminine
+- “longing.”
+------------------------------------------------------------------------
+- *stotāraṃ* \< *stotāram* \< *stotṛ*
+- \[noun\], accusative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *śatakrato* \< *śatakratu*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *vittam* \< *vid*
+- \[verb\], dual, Present imperative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], vocative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------

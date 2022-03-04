@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 1.57.2"
+
++++
+-   *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *viśvam* \< *viśva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *hāsad* \< *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *hāsad* \< *asat* \< *as*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *iṣṭaya* \< *iṣṭaye* \< *iṣṭi*
+- \[noun\], dative, singular, feminine
+- “seeking.”
+------------------------------------------------------------------------
+- *āpo* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *nimneva* \< *nimnā* \< *nimna*
+- \[noun\], accusative, plural, neuter
+- “depression; depth.”
+------------------------------------------------------------------------
+- *nimneva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *savanā* \< *savana*
+- \[noun\], nominative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *haviṣmataḥ* \< *haviṣmat*
+- \[noun\], genitive, singular, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *parvate* \< *parvata*
+- \[noun\], locative, singular, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *samaśīta* \< *saṃśā* \< *√śā*
+- \[verb\], singular, Root aorist (Ind.)
+- “sharpen.”
+------------------------------------------------------------------------
+- *haryata* \< *haryataḥ* \< *haryata*
+- \[noun\], nominative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vajraḥ* \< *vajra*
+- \[noun\], nominative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *śnathitā* \< *śnath*
+- \[verb\], singular, periphrast. future
+- “pierce; kill.”
+------------------------------------------------------------------------
+- *hiraṇyayaḥ* \< *hiraṇyaya*
+- \[noun\], nominative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------

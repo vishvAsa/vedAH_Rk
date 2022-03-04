@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 2.24.12"
+
++++
+-   *viśvaṃ* \< *viśvam* \< *viśva*
+- \[noun\], nominative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *satyam* \< *satya*
+- \[noun\], nominative, singular, neuter
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *maghavānā* \< *maghavan*
+- \[noun\], vocative, dual, masculine
+- “big.”
+------------------------------------------------------------------------
+- *yuvor* \< *yuvoḥ* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *āpaś* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *minanti* \< *mī*
+- \[verb\], plural, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *vrataṃ* \< *vratam* \< *vrata*
+- \[noun\], accusative, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *acchendrābrahmaṇaspatī* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *acchendrābrahmaṇaspatī* \< *indrābrahmaṇaspatī* \<
+    *indrābrahmaṇaspati*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *havir* \< *haviḥ* \< *havis*
+- \[noun\], accusative, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'nnaṃ* \< *annam* \< *anna*
+- \[noun\], accusative, singular, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+------------------------------------------------------------------------
+- *yujeva* \< *yuj*
+- \[noun\], nominative, singular, masculine
+- “ally; friend; pair; two; companion.”
+------------------------------------------------------------------------
+- *yujeva* \< *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *vājinā* \< *vājin*
+- \[noun\], nominative, dual, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *jigātam* \< *gā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------

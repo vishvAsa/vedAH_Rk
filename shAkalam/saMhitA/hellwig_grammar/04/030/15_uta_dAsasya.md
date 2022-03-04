@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 4.30.15"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *dāsasya* \< *dāsa*
+- \[noun\], genitive, singular, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *varcinaḥ* \< *varcin*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *sahasrāṇi* \< *sahasra*
+- \[noun\], accusative, plural, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *śatāvadhīḥ* \< *śatā* \< *śata*
+- \[noun\], accusative, plural, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatāvadhīḥ* \< *avadhīḥ* \< *vadh*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kill; assail; kick; māray; destroy; beat.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *pañca* \< *pañcan*
+- \[noun\], accusative, singular, neuter
+- “five; fifth; pañcan \[word\].”
+------------------------------------------------------------------------
+- *pradhīṃr* \< *pradhīn* \< *pradhi*
+- \[noun\], accusative, plural, masculine
+- “disk.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------

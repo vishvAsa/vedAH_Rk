@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 5.3.9"
+
++++
+-   *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *spṛdhi* \< *spṛ*
+- \[verb\], singular, Aorist imperative
+------------------------------------------------------------------------
+- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- \[noun\], accusative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *yodhi* \< *yudh*
+- \[verb\], singular, Aorist imperative
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *vidvāṃ* \< *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *putro* \< *putraḥ* \< *putra*
+- \[noun\], nominative, singular, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *yas* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sahasaḥ* \< *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sūna* \< *sūno* \< *sūnu*
+- \[noun\], vocative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *ūhe* \< *ūh*
+- \[verb\], singular, Perfect indicative
+- “diagnose.”
+------------------------------------------------------------------------
+- *kadā*
+- \[adverb\]
+- “when; kadā \[word\].”
+------------------------------------------------------------------------
+- *cikitvo* \< *cikitvaḥ* \< *cit*
+- \[verb noun\], vocative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *cakṣase* \< *cakṣ*
+- \[verb\], singular, Present indikative
+- “watch; look.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'gne* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *kadāṃ* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *ṛtacid* \< *ṛta*
+- \[noun\], neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtacid* \< *cit*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *yātayāse* \< *yātay* \< *√yat*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “endeavor; settle.”
+------------------------------------------------------------------------

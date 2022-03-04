@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.110.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *manīṣām* \< *manīṣā*
+- \[noun\], accusative, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *antarikṣasya* \< *antarikṣa*
+- \[noun\], genitive, singular, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *nṛbhyaḥ* \< *nṛ*
+- \[noun\], dative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *sruceva* \< *srucā* \< *sruc*
+- \[noun\], instrumental, singular, feminine
+- “Sruc.”
+------------------------------------------------------------------------
+- *sruceva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- \[noun\], accusative, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *juhavāma* \< *hu*
+- \[verb\], plural, Present imperative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *vidmanā* \< *vidman*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *taraṇitvā* \< *taraṇi*
+- \[noun\]
+- “energetic; agile.”
+------------------------------------------------------------------------
+- *taraṇitvā* \< *tvā* \< *tva*
+- \[noun\], instrumental, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pitur* \< *pituḥ* \< *pitṛ*
+- \[noun\], genitive, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *saścira* \< *saścire* \< *sac*
+- \[verb\], plural, Perfect indicative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- \[noun\], nominative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *aruhan* \< *ruh*
+- \[verb\], plural, Imperfect
+- “heal; grow; cicatrize; climb; board; ascend; grow.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------

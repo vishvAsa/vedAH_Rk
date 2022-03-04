@@ -1,0 +1,120 @@
++++
+title = "Rig Veda 1.135.9"
+
++++
+-   *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *vāyo* \< *vāyu*
+- \[noun\], vocative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *bāhvojaso* \< *bāhu*
+- \[noun\], masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *bāhvojaso* \< *ojasaḥ* \< *ojas*
+- \[noun\], nominative, plural, masculine
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *'ntar* \< *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *nadī*
+- \[noun\], locative, singular, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *patayanty* \< *patayanti* \< *patay* \< *√pat*
+- \[verb\], plural, Present indikative
+- “fly.”
+------------------------------------------------------------------------
+- *ukṣaṇo* \< *ukṣaṇaḥ* \< *ukṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; ukṣan \[word\].”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *vrādhanta* \< *vrādh*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *ukṣaṇaḥ* \< *ukṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; ukṣan \[word\].”
+------------------------------------------------------------------------
+- *dhanvañ* \< *dhanvan*
+- \[noun\], locative, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *anāśavo* \< *anāśavaḥ* \< *anāśu*
+- \[noun\], nominative, plural, masculine
+- “slow.”
+------------------------------------------------------------------------
+- *jīrāś* \< *jīrāḥ* \< *jīra*
+- \[noun\], nominative, plural, masculine
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *agiraukasaḥ* \< *agira*
+- \[noun\], masculine
+------------------------------------------------------------------------
+- *agiraukasaḥ* \< *okasaḥ* \< *oka*
+- \[noun\], nominative, plural, masculine
+- “home; house; oka \[word\].”
+------------------------------------------------------------------------
+- *sūryasyeva* \< *sūryasya* \< *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *sūryasyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *raśmayo* \< *raśmayaḥ* \< *raśmi*
+- \[noun\], nominative, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+------------------------------------------------------------------------
+- *durniyantavo* \< *durniyantavaḥ* \< *durniyantu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *hastayor* \< *hastayoḥ* \< *hasta*
+- \[noun\], locative, dual, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *durniyantavaḥ* \< *durniyantu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

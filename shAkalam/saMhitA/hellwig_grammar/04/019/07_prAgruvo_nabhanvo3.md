@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 4.19.7"
+
++++
+-   *prāgruvo* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāgruvo* \< *agruvaḥ* \< *agru*
+- \[noun\], accusative, plural, feminine
+- “unmarried.”
+------------------------------------------------------------------------
+- *nabhanvo* \< *nabhanvaḥ* \< *nabhanu*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vakvā* \< *vakvāḥ* \< *vakva*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *dhvasrā* \< *dhvasrāḥ* \< *dhvasra*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *apinvad* \< *apinvat* \< *pinv*
+- \[verb\], singular, Imperfect
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *yuvatīr* \< *yuvatīḥ* \< *yuvatī*
+- \[noun\], accusative, plural, feminine
+- “girl.”
+------------------------------------------------------------------------
+- *ṛtajñāḥ* \< *ṛta*
+- \[noun\], neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ṛtajñāḥ* \< *jñāḥ* \< *jña*
+- \[noun\], accusative, plural, feminine
+- “conversant(p); aware(p); wise.”
+------------------------------------------------------------------------
+- *dhanvāny* \< *dhanvāni* \< *dhanvan*
+- \[noun\], accusative, plural, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *ajrāṃ* \< *ajra*
+- \[noun\], accusative, plural, masculine
+- “plain.”
+------------------------------------------------------------------------
+- *apṛṇak* \< *pṛc*
+- \[verb\], singular, Imperfect
+- “mix; unite.”
+------------------------------------------------------------------------
+- *tṛṣāṇāṃ* \< *tṛṣ*
+- \[verb noun\], accusative, plural
+- “thirst.”
+------------------------------------------------------------------------
+- *adhog* \< *adhok* \< *duh*
+- \[verb\], singular, Imperfect
+- “milk.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *staryo* \< *staryaḥ* \< *starī*
+- \[noun\], accusative, plural, feminine
+- “barren cow.”
+------------------------------------------------------------------------
+- *daṃsupatnīḥ* \< *daṃsu*
+- \[noun\]
+------------------------------------------------------------------------
+- *daṃsupatnīḥ* \< *patnīḥ* \< *patnī*
+- \[noun\], accusative, plural, feminine
+- “wife; mistress; queen.”
+------------------------------------------------------------------------

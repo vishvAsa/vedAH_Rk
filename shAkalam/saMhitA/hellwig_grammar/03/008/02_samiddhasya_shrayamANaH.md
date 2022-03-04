@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 3.8.2"
+
++++
+-   *samiddhasya* \< *samindh* \< *√indh*
+- \[verb noun\], genitive, singular
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *śrayamāṇaḥ* \< *śri*
+- \[verb noun\], nominative, singular
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *purastād* \< *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------
+- *brahma* \< *brahman*
+- \[noun\], accusative, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *vanvāno* \< *vanvānaḥ* \< *van*
+- \[verb noun\], nominative, singular
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *ajaraṃ* \< *ajaram* \< *ajara*
+- \[noun\], accusative, singular, neuter
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *suvīram* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīram* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, neuter
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *āre*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *asmad* \< *asmat* \< *mad*
+- \[noun\], ablative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *amatim* \< *amati*
+- \[noun\], accusative, singular, feminine
+- “indigence.”
+------------------------------------------------------------------------
+- *bādhamāna* \< *bādhamānaḥ* \< *bādh*
+- \[verb noun\], nominative, singular
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+------------------------------------------------------------------------
+- *uc* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *chrayasva* \< *śrayasva* \< *śri*
+- \[verb\], singular, Present imperative
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *mahate* \< *mahat*
+- \[noun\], dative, singular, neuter
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *saubhagāya* \< *saubhaga*
+- \[noun\], dative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------

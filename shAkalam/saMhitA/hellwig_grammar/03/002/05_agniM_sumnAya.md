@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 3.2.5"
+
++++
+-   *agniṃ* \< *agnim* \< *agni*
+- \[noun\], accusative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sumnāya* \< *sumna*
+- \[noun\], dative, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *dadhire* \< *dhā*
+- \[verb\], plural, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *puro* \< *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+------------------------------------------------------------------------
+- *janā* \< *janāḥ* \< *jana*
+- \[noun\], nominative, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *vājaśravasam* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājaśravasam* \< *śravasam* \< *śravas*
+- \[noun\], accusative, singular, masculine
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- \[noun\], nominative, plural, masculine
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *yatasrucaḥ* \< *yata* \< *yam*
+- \[verb noun\]
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *yatasrucaḥ* \< *srucaḥ* \< *sruc*
+- \[noun\], nominative, plural, masculine
+- “Sruc.”
+------------------------------------------------------------------------
+- *surucaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *surucaṃ* \< *rucam* \< *ruc*
+- \[noun\], accusative, singular, masculine
+- “beam; radiance; color.”
+------------------------------------------------------------------------
+- *viśvadevyaṃ* \< *viśvadevyam* \< *viśvadevya*
+- \[noun\], accusative, singular, masculine
+- “viśvadevya \[word\].”
+------------------------------------------------------------------------
+- *rudraṃ* \< *rudram* \< *rudra*
+- \[noun\], accusative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *yajñānāṃ* \< *yajñānām* \< *yajña*
+- \[noun\], genitive, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *sādhadiṣṭim* \< *sādhat* \< *sādh*
+- \[verb noun\]
+- “promote; succeed.”
+------------------------------------------------------------------------
+- *sādhadiṣṭim* \< *iṣṭim* \< *iṣṭi*
+- \[noun\], accusative, singular, masculine
+- “yajña; offering; brick.”
+------------------------------------------------------------------------
+- *apasām* \< *apas*
+- \[noun\], genitive, plural, masculine
+- “busy; effective; hardworking.”
+------------------------------------------------------------------------

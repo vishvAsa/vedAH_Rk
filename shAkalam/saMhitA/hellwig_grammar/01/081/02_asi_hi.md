@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 1.81.2"
+
++++
+-   *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vīra*
+- \[noun\], vocative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *senyo* \< *senyaḥ* \< *senya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *'si* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], accusative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *parādadiḥ* \< *parādadi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *dabhrasya* \< *dabhra*
+- \[noun\], genitive, singular, neuter
+- “few; little(a); deficient.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *vṛdho* \< *vṛdhaḥ* \< *vṛdha*
+- \[noun\], nominative, singular, masculine
+- “increasing; promotive.”
+------------------------------------------------------------------------
+- *yajamānāya* \< *yaj*
+- \[verb noun\], dative, singular
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *śikṣasi* \< *śikṣ*
+- \[verb\], singular, Present indikative
+- “help; give.”
+------------------------------------------------------------------------
+- *sunvate* \< *su*
+- \[verb noun\], dative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], nominative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], nominative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------

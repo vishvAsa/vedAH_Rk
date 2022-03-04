@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 1.48.2"
+
++++
+-   *aśvāvatīr* \< *aśvāvatīḥ* \< *aśvāvat*
+- \[noun\], nominative, plural, feminine
+- “rich in horses.”
+------------------------------------------------------------------------
+- *gomatīr* \< *gomatīḥ* \< *gomat*
+- \[noun\], nominative, plural, feminine
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *viśvasuvido* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvasuvido* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *viśvasuvido* \< *vidaḥ* \< *vid*
+- \[noun\], nominative, plural, feminine
+- “finding.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], accusative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *cyavanta* \< *cyu*
+- \[verb\], plural, Present injunctive
+- “fall down; issue; shoot; ejaculate; deviate; banish; drop;
+    dislodge; miss; deprive.”
+------------------------------------------------------------------------
+- *vastave* \< *vas*
+- \[verb noun\]
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *īraya* \< *īray* \< *√īr*
+- \[verb\], singular, Present imperative
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sūnṛtā* \< *sūnṛta*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *uṣaś* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *coda* \< *cud*
+- \[verb\], singular, Present imperative
+- “urge; rush.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *maghonām* \< *maghavan*
+- \[noun\], genitive, plural, masculine
+- “big.”
+------------------------------------------------------------------------

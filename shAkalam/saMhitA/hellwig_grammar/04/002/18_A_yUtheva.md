@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.2.18"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yūtheva* \< *yūthā* \< *yūtha*
+- \[noun\], accusative, plural, neuter
+- “herd; troop; battalion.”
+------------------------------------------------------------------------
+- *yūtheva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *kṣumati* \< *kṣumat*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *paśvo* \< *paśvaḥ* \< *paśu*
+- \[noun\], genitive, singular, masculine
+- “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
+    Paśu; herd; goat.”
+------------------------------------------------------------------------
+- *akhyad* \< *akhyat* \< *khyā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *devānāṃ* \< *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *yaj* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *janimānty* \< *janimā* \< *janiman*
+- \[noun\], nominative, plural, neuter
+- “birth; offspring; origin; kind; being.”
+------------------------------------------------------------------------
+- *janimānty* \< *anti*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ugra*
+- \[noun\], vocative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *martānāṃ* \< *martānām* \< *marta*
+- \[noun\], genitive, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *urvaśīr* \< *urvaśīḥ* \< *urvaśī*
+- \[noun\], nominative, plural, feminine
+- “Urvaśī.”
+------------------------------------------------------------------------
+- *akṛpran* \< *kṛp*
+- \[verb\], plural, Root aorist (Ind.)
+------------------------------------------------------------------------
+- *vṛdhe* \< *vṛdh*
+- \[verb noun\]
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *arya* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *uparasyāyoḥ* \< *uparasya* \< *upara*
+- \[noun\], genitive, singular, masculine
+- “later(a); future(a); nether.”
+------------------------------------------------------------------------
+- *uparasyāyoḥ* \< *āyoḥ* \< *āyu*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------

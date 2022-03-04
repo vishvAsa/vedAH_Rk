@@ -1,0 +1,109 @@
++++
+title = "Rig Veda 1.134.6"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vāyav* \< *vāyo* \< *vāyu*
+- \[noun\], vocative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *apūrvyaḥ* \< *apūrvya*
+- \[noun\], nominative, singular, masculine
+- “incomparable.”
+------------------------------------------------------------------------
+- *somānām* \< *soma*
+- \[noun\], genitive, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *prathamaḥ* \< *prathama*
+- \[noun\], nominative, singular, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *pītim* \< *pīti*
+- \[noun\], accusative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *arhasi* \< *arh*
+- \[verb\], singular, Present indikative
+- “should; may; rate; can; can; equal; necessitate.”
+------------------------------------------------------------------------
+- *sutānām* \< *suta*
+- \[noun\], genitive, plural, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *pītim* \< *pīti*
+- \[noun\], accusative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *arhasi* \< *arh*
+- \[verb\], singular, Present indikative
+- “should; may; rate; can; can; equal; necessitate.”
+------------------------------------------------------------------------
+- *uto* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vihutmatīnāṃ* \< *vihutmatīnām* \< *vihutmat*
+- \[noun\], genitive, plural, feminine
+------------------------------------------------------------------------
+- *viśāṃ* \< *viśām* \< *viś*
+- \[noun\], genitive, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *vavarjuṣīṇām* \< *vṛj*
+- \[verb noun\], genitive, plural
+------------------------------------------------------------------------
+- *viśvā* \< *viśvāḥ* \< *viśva*
+- \[noun\], nominative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *duhra* \< *duhre* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *āśiraṃ* \< *āśiram* \< *āśir*
+- \[noun\], accusative, singular, feminine
+- “mixture.”
+------------------------------------------------------------------------
+- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- \[noun\], accusative, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *duhrata* \< *duhrate* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *āśiram* \< *āśir*
+- \[noun\], accusative, singular, feminine
+- “mixture.”
+------------------------------------------------------------------------

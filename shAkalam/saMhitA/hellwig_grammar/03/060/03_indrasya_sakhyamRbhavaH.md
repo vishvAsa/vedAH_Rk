@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 3.60.3"
+
++++
+-   *indrasya* \< *indra*
+- \[noun\], genitive, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *ṛbhavaḥ* \< *ṛbhu*
+- \[noun\], nominative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *ānaśur* \< *ānaśuḥ* \< *aś*
+- \[verb\], plural, Perfect indicative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *manor* \< *manoḥ* \< *manu*
+- \[noun\], genitive, singular, masculine
+- “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
+    incantation; sacred text.”
+------------------------------------------------------------------------
+- *napāto* \< *napātaḥ* \< *napāt*
+- \[noun\], nominative, plural, masculine
+- “grandson; nephew; napāt \[word\].”
+------------------------------------------------------------------------
+- *apaso* \< *apasaḥ* \< *apas*
+- \[noun\], nominative, plural, masculine
+- “busy; effective; hardworking.”
+------------------------------------------------------------------------
+- *dadhanvire* \< *dhanv*
+- \[verb\], plural, Perfect indicative
+- “run.”
+------------------------------------------------------------------------
+- *saudhanvanāso* \< *saudhanvanāsaḥ* \< *saudhanvana*
+- \[noun\], nominative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *amṛta*
+- \[noun\]
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *tvam* \< *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *erire* \< *er* \< *√īr*
+- \[verb\], plural, Perfect indicative
+------------------------------------------------------------------------
+- *viṣṭvī* \< *viṣ*
+- \[verb noun\]
+- “labor; act; perform.”
+------------------------------------------------------------------------
+- *śamībhiḥ* \< *śamī*
+- \[noun\], instrumental, plural, feminine
+- “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
+    labor.”
+------------------------------------------------------------------------
+- *sukṛtaḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṛtaḥ* \< *kṛtaḥ* \< *kṛt*
+- \[noun\], nominative, plural, masculine
+- “causing; making; performing; promotive; producing; doing; acting;
+    writing; transforming; effecting.”
+------------------------------------------------------------------------
+- *sukṛtyayā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- \[noun\], instrumental, singular, feminine
+- “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
+------------------------------------------------------------------------

@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.44.6"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *puruvīram* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruvīram* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *bṛhantaṃ* \< *bṛhantam* \< *bṛhat*
+- \[noun\], accusative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *mimāthām* \< *mā*
+- \[verb\], dual, Present imperative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *ubhayeṣv* \< *ubhayeṣu* \< *ubhaya*
+- \[noun\], locative, plural, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *naro* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *stomam* \< *stoma*
+- \[noun\], accusative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *āvan* \< *av*
+- \[verb\], plural, Root aorist (Ind.)
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *sadhastutim* \< *sadhastuti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *ājamīﾱhāso* \< *ājamīḍhāsaḥ* \< *ājamīḍha*
+- \[noun\], nominative, plural, masculine
+- “Yudhiṣṭhira; Dhṛtarāṣṭra.”
+------------------------------------------------------------------------
+- *agman* \< *gam*
+- \[verb\], plural, Root aorist (Ind.)
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------

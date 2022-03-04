@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 1.166.3"
+
++++
+-   *yasmā* \< *yasmai* \< *yad*
+- \[noun\], dative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ūmāso* \< *ūmāsaḥ* \< *ūma*
+- \[noun\], nominative, plural, masculine
+- “assistant.”
+------------------------------------------------------------------------
+- *amṛtā* \< *amṛtāḥ* \< *amṛta*
+- \[noun\], nominative, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *arāsata* \< *rā*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “give; impart.”
+------------------------------------------------------------------------
+- *rāyas* \< *rāyaḥ* \< *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *poṣaṃ* \< *poṣam* \< *poṣa*
+- \[noun\], accusative, singular, masculine
+- “prosperity; poṣa \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *haviṣā* \< *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *dadāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *ukṣanty* \< *ukṣanti* \< *ukṣ*
+- \[verb\], plural, Present indikative
+- “sprinkle; wet.”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *hitā* \< *hitāḥ* \< *hita*
+- \[noun\], nominative, plural, masculine
+- “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
+    Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *purū* \< *puru*
+- \[noun\], accusative, plural, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *rajāṃsi* \< *rajas*
+- \[noun\], accusative, plural, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *payasā* \< *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *mayobhuvaḥ* \< *mayobhu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

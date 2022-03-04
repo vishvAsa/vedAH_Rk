@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 3.51.5"
+
++++
+-   *pūrvīr* \< *pūrvīḥ* \< *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *niṣṣidho* \< *niṣṣidhaḥ* \< *niṣṣidh*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *martyeṣu* \< *martya*
+- \[noun\], locative, plural, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *purū* \< *puru*
+- \[noun\], accusative, plural, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *vasūni* \< *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *bibharti* \< *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dyāva* \< *dyāvaḥ* \< *div*
+- \[noun\], nominative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhī*
+- \[noun\], nominative, plural, feminine
+- “herb; plant; drug; herb.”
+------------------------------------------------------------------------
+- *utāpo* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāpo* \< *apaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *rayiṃ* \< *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *rakṣanti* \< *rakṣ*
+- \[verb\], plural, Present indikative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *jīrayo* \< *jīrayaḥ* \< *jīri*
+- \[noun\], nominative, plural, feminine
+- “river.”
+------------------------------------------------------------------------
+- *vanāni* \< *vana*
+- \[noun\], nominative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------

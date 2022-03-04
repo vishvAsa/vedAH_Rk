@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 1.167.1"
+
++++
+-   *sahasraṃ* \< *sahasram* \< *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indrotayo* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrotayo* \< *ūtayaḥ* \< *ūti*
+- \[noun\], nominative, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sahasram* \< *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *iṣo* \< *iṣaḥ* \< *iṣ*
+- \[noun\], nominative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *harivo* \< *harivas* \< *harivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *gūrtatamāḥ* \< *gūrtatama*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *sahasraṃ* \< *sahasram* \< *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *mādayadhyai* \< *māday* \< *√mad*
+- \[verb noun\]
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------
+- *sahasriṇa* \< *sahasriṇaḥ* \< *sahasrin*
+- \[noun\], nominative, plural, masculine
+- “thousandfold.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vājāḥ* \< *vāja*
+- \[noun\], nominative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------

@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 1.174.1"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rājendra* \< *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *rājendra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *rakṣā* \< *rakṣ*
+- \[verb\], singular, Present imperative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *pāhy* \< *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *asura*
+- \[noun\], vocative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asmān* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *satpatir* \< *satpatiḥ* \< *satpati*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *nas* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tarutras* \< *tarutraḥ* \< *tarutra*
+- \[noun\], nominative, singular, masculine
+- “triumphant; conquering(a); superior.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *satyo* \< *satyaḥ* \< *satya*
+- \[noun\], nominative, singular, masculine
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *vasavānaḥ* \< *vasavāna*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *sahodāḥ* \< *sahaḥ* \< *sahas*
+- \[noun\], neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sahodāḥ* \< *dāḥ* \< *dā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------

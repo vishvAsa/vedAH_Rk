@@ -1,0 +1,89 @@
++++
+title = "Rig Veda 1.102.7"
+
++++
+-   *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *śatān* \< *śatāt* \< *śata*
+- \[noun\], ablative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *uc* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *bhūyasa* \< *bhūyasaḥ* \< *bhūyas*
+- \[noun\], ablative, singular, neuter
+- “more(a); more(a); abounding in(p); stronger; bigger.”
+------------------------------------------------------------------------
+- *ut* \< *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *sahasrād* \< *sahasrāt* \< *sahasra*
+- \[noun\], ablative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *ririce* \< *ric*
+- \[verb\], singular, Perfect indicative
+- “empty; liberate; concede; surrender; purge.”
+------------------------------------------------------------------------
+- *kṛṣṭiṣu* \< *kṛṣṭi*
+- \[noun\], locative, plural, feminine
+- “people; citizenry.”
+------------------------------------------------------------------------
+- *śravaḥ* \< *śravas*
+- \[noun\], nominative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *amātraṃ* \< *amātram* \< *amātra*
+- \[noun\], accusative, singular, masculine
+- “immeasurable.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *dhiṣaṇā*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *titviṣe* \< *tviṣ*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *mahy* \< *mahī* \< *mah*
+- \[noun\], nominative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *adhā* \< *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *vṛtrāṇi* \< *vṛtra*
+- \[noun\], accusative, plural, neuter
+- “enemy.”
+------------------------------------------------------------------------
+- *jighnase* \< *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *purandara* \< *puraṃdara*
+- \[noun\], vocative, singular, masculine
+- “Indra; puraṃdara \[word\].”
+------------------------------------------------------------------------

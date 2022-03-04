@@ -1,0 +1,69 @@
++++
+title = "Rig Veda 4.40.2"
+
++++
+-   *satvā* \< *satvan*
+- \[noun\], nominative, singular, masculine
+- “warrior.”
+------------------------------------------------------------------------
+- *bhariṣo* \< *bhariṣaḥ* \< *bhariṣa*
+- \[noun\], nominative, singular, masculine
+- “plundering.”
+------------------------------------------------------------------------
+- *gaviṣo* \< *gaviṣaḥ* \< *gaviṣa*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *duvanyasacchravasyād* \< *duvanyasad*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *duvanyasacchravasyād* \< *śravasyāt* \< *śravasy*
+- \[verb\], singular, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *iṣa* \< *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *uṣasas* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *turaṇyasat* \< *turaṇyasad*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *satyo* \< *satyaḥ* \< *satya*
+- \[noun\], nominative, singular, masculine
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *dravo* \< *dravaḥ* \< *drava*
+- \[noun\], nominative, singular, masculine
+- “liquid; drenched; flowing.”
+------------------------------------------------------------------------
+- *dravaraḥ* \< *dravara*
+- \[noun\], nominative, singular, masculine
+- “fast.”
+------------------------------------------------------------------------
+- *pataṅgaro* \< *pataṅgaraḥ* \< *pataṃgara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *dadhikrāveṣam* \< *dadhikrāvā* \< *dadhikrāvan*
+- \[noun\], nominative, singular, masculine
+- “Dadhikrā.”
+------------------------------------------------------------------------
+- *dadhikrāveṣam* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- \[noun\], accusative, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *janat* \< *jan*
+- \[verb\], singular, Present injunctive
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------

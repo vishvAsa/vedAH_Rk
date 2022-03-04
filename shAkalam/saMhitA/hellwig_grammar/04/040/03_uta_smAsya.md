@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 4.40.3"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *smāsya* \< *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *smāsya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dravatas* \< *dravataḥ* \< *dru*
+- \[verb noun\], genitive, singular
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+------------------------------------------------------------------------
+- *turaṇyataḥ* \< *turaṇy*
+- \[verb noun\], genitive, singular
+- “rush.”
+------------------------------------------------------------------------
+- *parṇaṃ* \< *parṇam* \< *parṇa*
+- \[noun\], accusative, singular, neuter
+- “leaf; feather; parṇa \[word\]; leaf; wing.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ver* \< *veḥ* \< *vi*
+- \[noun\], genitive, singular, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *vāti* \< *vā*
+- \[verb\], singular, Present indikative
+- “blow; blow; emit.”
+------------------------------------------------------------------------
+- *pragardhinaḥ* \< *pragardhin*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *śyenasyeva* \< *śyenasya* \< *śyena*
+- \[noun\], genitive, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *śyenasyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dhrajato* \< *dhrajataḥ* \< *dhraj*
+- \[verb noun\], genitive, singular
+- “rush.”
+------------------------------------------------------------------------
+- *aṅkasam* \< *aṅkasa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *dadhikrāvṇaḥ* \< *dadhikrāvan*
+- \[noun\], genitive, singular, masculine
+- “Dadhikrā.”
+------------------------------------------------------------------------
+- *sahorjā* \< *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+- *sahorjā* \< *ūrjā* \< *ūrj*
+- \[noun\], instrumental, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *taritrataḥ* \< *tartar* \< *√tṛ*
+- \[verb noun\], genitive, singular
+------------------------------------------------------------------------

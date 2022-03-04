@@ -1,0 +1,42 @@
++++
+title = "Rig Veda 1.37.1"
+
++++
+-   *krīḍaṃ* \< *krīḍam* \< *krīḍa*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *śardho* \< *śardhaḥ* \< *śardhas*
+- \[noun\], accusative, singular, neuter
+- “troop.”
+------------------------------------------------------------------------
+- *mārutam* \< *māruta*
+- \[noun\], accusative, singular, neuter
+- “Marut(a).”
+------------------------------------------------------------------------
+- *anarvāṇaṃ* \< *anarvāṇam* \< *anarvan*
+- \[noun\], accusative, singular, masculine
+- “unchallenged; unrivaled.”
+------------------------------------------------------------------------
+- *ratheśubham* \< *ratheśubh*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *kaṇvā* \< *kaṇvāḥ* \< *kaṇva*
+- \[noun\], vocative, plural, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *gāyata* \< *gā*
+- \[verb\], plural, Present imperative
+- “sing; praise; jap; recite; describe.”
+------------------------------------------------------------------------

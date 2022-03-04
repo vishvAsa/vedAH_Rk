@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 4.29.1"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stuta* \< *stutaḥ* \< *stu*
+- \[verb noun\], nominative, singular
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- \[noun\], instrumental, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *ūtī* \< *ūti*
+- \[noun\], instrumental, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *yāhi* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *haribhir* \< *haribhiḥ* \< *hari*
+- \[noun\], instrumental, plural, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *mandasānaḥ* \< *mand*
+- \[verb noun\], nominative, singular
+- “rejoice; exhilarate.”
+------------------------------------------------------------------------
+- *tiraś* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *savanā* \< *savana*
+- \[noun\], accusative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *purūṇy* \< *purūṇi* \< *puru*
+- \[noun\], accusative, plural, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *āṅgūṣebhir* \< *āṅgūṣebhiḥ* \< *āṅgūṣa*
+- \[noun\], instrumental, plural, masculine
+- “hymn.”
+------------------------------------------------------------------------
+- *gṛṇānaḥ* \< *gṛ*
+- \[verb noun\], nominative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *satyarādhāḥ* \< *satya*
+- \[noun\]
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *satyarādhāḥ* \< *rādhāḥ* \< *rādhas*
+- \[noun\], nominative, singular, masculine
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------

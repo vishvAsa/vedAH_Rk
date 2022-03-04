@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 2.8.2"
+
++++
+-   *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sunītho* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sunītho* \< *nīthaḥ* \< *nītha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *dadāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *'juryo* \< *ajuryaḥ* \< *ajurya*
+- \[noun\], nominative, singular, masculine
+- “ageless; amaranthine.”
+------------------------------------------------------------------------
+- *jarayann* \< *jarayan* \< *jaray* \< *√jṛ*
+- \[verb noun\], nominative, singular
+- “jāray; digest; consume.”
+------------------------------------------------------------------------
+- *arim* \< *ari*
+- \[noun\], accusative, singular, masculine
+- “enemy; ari; arivarga.”
+------------------------------------------------------------------------
+- *cārupratīka* \< *cāru*
+- \[noun\]
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *cārupratīka* \< *pratīkaḥ* \< *pratīka*
+- \[noun\], nominative, singular, masculine
+- “face; surface.”
+------------------------------------------------------------------------
+- *āhutaḥ* \< *āhu* \< *√hu*
+- \[verb noun\], nominative, singular
+- “sacrifice; sprinkle.”
+------------------------------------------------------------------------

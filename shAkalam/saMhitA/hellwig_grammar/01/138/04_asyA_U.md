@@ -1,0 +1,128 @@
++++
+title = "Rig Veda 1.138.4"
+
++++
+-   *asyā* \< *asyāḥ* \< *idam*
+- \[noun\], genitive, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ū* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *ṇa* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *sātaye* \< *sāti*
+- \[noun\], dative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *bhuvo* \< *bhuvaḥ* \< *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *'heﾱamāno* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'heﾱamāno* \< *heḍamānaḥ* \< *hīḍ*
+- \[verb noun\], nominative, singular
+- “anger; stew.”
+------------------------------------------------------------------------
+- *rarivāṃ* \< *rarivān* \< *rā*
+- \[verb noun\], nominative, singular
+- “give; impart.”
+------------------------------------------------------------------------
+- *ajāśva*
+- \[noun\], vocative, singular, masculine
+- “Pushan.”
+------------------------------------------------------------------------
+- *śravasyatām* \< *śravasy*
+- \[verb noun\], genitive, plural
+------------------------------------------------------------------------
+- *ajāśva*
+- \[noun\], vocative, singular, masculine
+- “Pushan.”
+------------------------------------------------------------------------
+- *o* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *o* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vavṛtīmahi* \< *vṛt*
+- \[verb\], plural, Perfect optative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------
+- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *dasma*
+- \[noun\], vocative, singular, masculine
+- “overlord.”
+------------------------------------------------------------------------
+- *sādhubhiḥ* \< *sādhu*
+- \[noun\], instrumental, plural, masculine
+- “good; good; correct; correct; sādhu \[word\]; excellent;
+    efficient.”
+------------------------------------------------------------------------
+- *nahi*
+- \[adverb\]
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūṣann* \< *pūṣan*
+- \[noun\], vocative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *atimanya* \< *atimanye* \< *atiman* \< *√man*
+- \[verb\], singular, Present indikative
+- “contemn.”
+------------------------------------------------------------------------
+- *āghṛṇe* \< *āghṛṇi*
+- \[noun\], vocative, singular, masculine
+- “aglow(p).”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *apahnuve* \< *apahnu* \< *√hnu*
+- \[verb\], singular, Present indikative
+- “deny.”
+------------------------------------------------------------------------

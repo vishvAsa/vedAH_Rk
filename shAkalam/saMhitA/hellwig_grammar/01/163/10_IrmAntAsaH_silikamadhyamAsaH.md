@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 1.163.10"
+
++++
+-   *īrmāntāsaḥ* \< *īrmānta*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *silikamadhyamāsaḥ* \< *silikamadhyama*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *śūraṇāso* \< *śūraṇāsaḥ* \< *śūraṇa*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *divyāso* \< *divyāsaḥ* \< *divya*
+- \[noun\], nominative, plural, masculine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *atyāḥ* \< *atya*
+- \[noun\], nominative, plural, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *haṃsā* \< *haṃsāḥ* \< *haṃsa*
+- \[noun\], nominative, plural, masculine
+- “goose; Vishnu; sun.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śreṇiśo* \< *śreṇiśas*
+- \[adverb\]
+------------------------------------------------------------------------
+- *yatante* \< *yat*
+- \[verb\], plural, Present indikative
+- “strive; endeavor; join; equal; rival.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ākṣiṣur* \< *ākṣiṣuḥ* \< *akṣ*
+- \[verb\], plural, Athematic is aor. (Ind.)
+------------------------------------------------------------------------
+- *divyam* \< *divya*
+- \[noun\], accusative, singular, masculine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *ajmam* \< *ajma*
+- \[noun\], accusative, singular, masculine
+- “march.”
+------------------------------------------------------------------------
+- *aśvāḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------

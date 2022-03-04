@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 2.16.7"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nāvaṃ* \< *nāvam* \< *nau*
+- \[noun\], accusative, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *samane* \< *samana*
+- \[noun\], locative, singular, neuter
+- “marriage; conflict.”
+------------------------------------------------------------------------
+- *vacasyuvam* \< *vacasyu*
+- \[noun\], accusative, singular, feminine
+- “eloquent.”
+------------------------------------------------------------------------
+- *brahmaṇā* \< *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *yāmi* \< *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *savaneṣu* \< *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *dādhṛṣiḥ* \< *dādhṛṣi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *kuvin* \< *kuvid*
+- \[adverb\]
+- “surely; indeed.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vacaso* \< *vacasaḥ* \< *vacas*
+- \[noun\], genitive, singular, neuter
+- “statement; command; speech; words; advice; word; voice.”
+------------------------------------------------------------------------
+- *nibodhiṣad* \< *nibodhiṣat* \< *nibudh* \< *√budh*
+- \[verb\], singular, Aorist conj./subj.
+- “learn; come to know; know; attend to; understand; understand.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *utsaṃ* \< *utsam* \< *utsa*
+- \[noun\], accusative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vasunaḥ* \< *vasu*
+- \[noun\], genitive, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *sicāmahe* \< *sic*
+- \[verb\], plural, Aorist conj./subj.
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------

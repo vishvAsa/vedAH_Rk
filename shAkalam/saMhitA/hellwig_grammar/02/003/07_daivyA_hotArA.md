@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 2.3.7"
+
++++
+-   *daivyā* \< *daivya*
+- \[noun\], nominative, dual, masculine
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *hotārā* \< *hotṛ*
+- \[noun\], nominative, dual, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *prathamā* \< *prathama*
+- \[noun\], nominative, dual, masculine
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *viduṣṭara* \< *viduṣṭaraḥ* \< *viduṣṭara*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *ṛju*
+- \[noun\], accusative, singular, neuter
+- “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
+------------------------------------------------------------------------
+- *yakṣataḥ* \< *yaj*
+- \[verb\], dual, Aorist conj./subj.
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *ṛcā* \< *ṛc*
+- \[noun\], instrumental, singular, feminine
+- “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
+------------------------------------------------------------------------
+- *vapuṣṭarā* \< *vapuṣṭara*
+- \[noun\], nominative, dual, masculine
+- “fantastic.”
+------------------------------------------------------------------------
+- *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *yajantāv* \< *yajantau* \< *yaj*
+- \[verb noun\], nominative, dual
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *ṛtuthā*
+- \[adverb\]
+- “seasonably.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *añjato* \< *añjataḥ* \< *añj*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *nābhā* \< *nābhi*
+- \[noun\], locative, singular, feminine
+- “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
+    \[word\]; friendship; center.”
+------------------------------------------------------------------------
+- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *sānuṣu* \< *sānu*
+- \[noun\], locative, plural, masculine
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *triṣu* \< *tri*
+- \[noun\], locative, plural, masculine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------

@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 1.126.1"
+
++++
+-   *amandān* \< *amanda*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *stomān* \< *stoma*
+- \[noun\], accusative, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *bhare* \< *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *manīṣā*
+- \[noun\], instrumental, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *sindhāv* \< *sindhau* \< *sindhu*
+- \[noun\], locative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *kṣiyato* \< *kṣiyataḥ* \< *kṣi*
+- \[verb noun\], genitive, singular
+- “govern; inhabit; dwell; stay; predominate; bide; own.”
+------------------------------------------------------------------------
+- *bhāvyasya* \< *bhāvya*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sahasram* \< *sahasra*
+- \[noun\], accusative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *amimīta* \< *mā*
+- \[verb\], singular, Imperfect
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *savān* \< *sava*
+- \[noun\], accusative, plural, masculine
+- “press.”
+------------------------------------------------------------------------
+- *atūrto* \< *atūrtaḥ* \< *atūrta*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *śrava* \< *śravaḥ* \< *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *icchamānaḥ* \< *iṣ*
+- \[verb noun\], nominative, singular
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------

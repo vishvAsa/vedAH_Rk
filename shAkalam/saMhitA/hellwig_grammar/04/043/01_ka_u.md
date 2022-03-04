@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 4.43.1"
+
++++
+-   *ka* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *śravat* \< *śru*
+- \[verb\], singular, Aorist conj./subj.
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *katamo* \< *katamaḥ* \< *katama*
+- \[noun\], nominative, singular, masculine
+- “katama \[word\]; who.”
+------------------------------------------------------------------------
+- *yajñiyānāṃ* \< *yajñiyānām* \< *yajñiya*
+- \[noun\], genitive, plural, masculine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+- *vandāru*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *katamo* \< *katamaḥ* \< *katama*
+- \[noun\], nominative, singular, masculine
+- “katama \[word\]; who.”
+------------------------------------------------------------------------
+- *juṣāte* \< *juṣ*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *kasyemāṃ* \< *kasya* \< *ka*
+- \[noun\], genitive, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *kasyemāṃ* \< *imām* \< *idam*
+- \[noun\], accusative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *devīm* \< *devī*
+- \[noun\], accusative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *amṛteṣu* \< *amṛta*
+- \[noun\], locative, plural, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *preṣṭhāṃ* \< *preṣṭhām* \< *preṣṭha*
+- \[noun\], accusative, singular, feminine
+- “dearest.”
+------------------------------------------------------------------------
+- *hṛdi* \< *hṛd*
+- \[noun\], locative, singular, neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+------------------------------------------------------------------------
+- *śreṣāma* \< *śriṣ*
+- \[verb\], plural, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *suṣṭutiṃ* \< *suṣṭutim* \< *suṣṭuti*
+- \[noun\], accusative, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *suhavyām* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhavyām* \< *havyām* \< *havya*
+- \[noun\], accusative, singular, feminine
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------

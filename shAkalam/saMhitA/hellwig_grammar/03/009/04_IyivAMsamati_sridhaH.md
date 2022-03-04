@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 3.9.4"
+
++++
+-   *īyivāṃsam* \< *i*
+- \[verb noun\], accusative, singular
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *sridhaḥ* \< *sridh*
+- \[noun\], accusative, plural, feminine
+- “failure; damage.”
+------------------------------------------------------------------------
+- *śaśvatīr* \< *śaśvatīḥ* \< *śaśvat*
+- \[noun\], accusative, plural, feminine
+- “all(a).”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *saścataḥ* \< *saścant*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *anv* \< *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *avindan* \< *vid*
+- \[verb\], plural, Imperfect
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *nicirāso* \< *nicirāsaḥ* \< *nicira*
+- \[noun\], nominative, plural, masculine
+- “attentive; argus-eyed.”
+------------------------------------------------------------------------
+- *adruho* \< *adruhaḥ* \< *adruh*
+- \[noun\], nominative, plural, masculine
+- “friendly; benign.”
+------------------------------------------------------------------------
+- *'psu* \< *apsu* \< *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *siṃham* \< *siṃha*
+- \[noun\], accusative, singular, masculine
+- “lion; hero; best; leader; siṃha \[word\].”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śritam* \< *śri*
+- \[verb noun\], accusative, singular
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------

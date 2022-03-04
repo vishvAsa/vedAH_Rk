@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 2.35.6"
+
++++
+-   *aśvasyātra* \< *aśvasya* \< *aśva*
+- \[noun\], genitive, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvasyātra* \< *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+------------------------------------------------------------------------
+- *janimāsya* \< *janima* \< *janiman*
+- \[noun\], nominative, singular, neuter
+- “birth; offspring; origin; kind; being.”
+------------------------------------------------------------------------
+- *janimāsya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *druho* \< *druhaḥ* \< *druh*
+- \[noun\], ablative, singular, feminine
+- “deception; druh; misrepresentation; fraudulence; offense; injury.”
+------------------------------------------------------------------------
+- *riṣaḥ* \< *riṣ*
+- \[noun\], ablative, singular, feminine
+- “injury; riṣ; damage.”
+------------------------------------------------------------------------
+- *sampṛcaḥ* \< *sampṛc*
+- \[noun\], ablative, singular, feminine
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *sūrīn* \< *sūri*
+- \[noun\], accusative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *āmāsu* \< *āma*
+- \[noun\], locative, plural, feminine
+- “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
+------------------------------------------------------------------------
+- *pūrṣu* \< *pur*
+- \[noun\], locative, plural
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *paro* \< *paras*
+- \[adverb\]
+- “beyond; away; farther.”
+------------------------------------------------------------------------
+- *apramṛṣyaṃ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *apramṛṣyaṃ* \< *pramṛṣyam* \< *pramṛṣ* \< *√mṛṣ*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *nārātayo* \< *nā* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nārātayo* \< *arātayaḥ* \< *arāti*
+- \[noun\], nominative, plural, feminine
+- “hostility; adversity; foe; envy; stinginess.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *naśan* \< *naśat* \< *naś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “reach; achieve; enter (a state); reach.”
+------------------------------------------------------------------------
+- *nānṛtāni* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nānṛtāni* \< *anṛtāni* \< *anṛta*
+- \[noun\], nominative, plural, neuter
+- “falsehood; lying; lie; cheat.”
+------------------------------------------------------------------------

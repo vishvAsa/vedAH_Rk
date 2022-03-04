@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 1.116.3"
+
++++
+-   *tugro* \< *tugraḥ* \< *tugra*
+- \[noun\], nominative, singular, masculine
+- “Tugra; tugra \[word\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *bhujyum* \< *bhujyu*
+- \[noun\], accusative, singular, masculine
+- “Bhujyu.”
+------------------------------------------------------------------------
+- *aśvinodameghe* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *aśvinodameghe* \< *uda*
+- \[noun\], neuter
+- “water.”
+------------------------------------------------------------------------
+- *aśvinodameghe* \< *meghe* \< *megha*
+- \[noun\], locative, singular, masculine
+- “cloud; abhra; mass; megha \[word\].”
+------------------------------------------------------------------------
+- *rayiṃ* \< *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kaścin* \< *kaścid* \< *kaścit*
+- \[noun\], nominative, singular, masculine
+- “any(a); some(a); some(a); some(a); some(a).”
+------------------------------------------------------------------------
+- *mamṛvāṃ* \< *mṛ*
+- \[verb noun\], nominative, singular
+- “mṛ; die; disappear; go out.”
+------------------------------------------------------------------------
+- *avāhāḥ* \< *avahā* \< *√hā*
+- \[verb\], singular, Athematic s aor. (Ind.)
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ūhathur* \< *ūhathuḥ* \< *vah*
+- \[verb\], dual, Perfect indicative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *naubhir* \< *naubhiḥ* \< *nau*
+- \[noun\], instrumental, plural, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *ātmanvatībhir* \< *ātmanvatībhiḥ* \< *ātmanvat*
+- \[noun\], instrumental, plural, feminine
+- “live.”
+------------------------------------------------------------------------
+- *antarikṣaprudbhir* \< *antarikṣa*
+- \[noun\], neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *antarikṣaprudbhir* \< *prudbhiḥ* \< *prut*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *apodakābhiḥ* \< *apodaka*
+- \[noun\], instrumental, plural, feminine
+- “arid; terrestrial.”
+------------------------------------------------------------------------

@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 2.31.2"
+
++++
+-   *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *smā* \< *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *avatā* \< *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *sajoṣaso* \< *sajoṣasaḥ* \< *sajoṣas*
+- \[noun\], nominative, plural, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *devāso* \< *devāsaḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vikṣu* \< *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *vājayum* \< *vājayu*
+- \[noun\], accusative, singular, masculine
+- “competing(a); competitive.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *āśavaḥ* \< *āśu*
+- \[noun\], nominative, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *padyābhis* \< *padyābhiḥ* \< *padyā*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *titrato* \< *titrataḥ* \< *tṛ*
+- \[verb noun\], nominative, plural
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *sānau* \< *sānu*
+- \[noun\], locative, singular, masculine
+- “tableland; ridge; peak; back; ridge; guru.”
+------------------------------------------------------------------------
+- *jaṅghananta* \< *jaṅghan* \< *√han*
+- \[verb\], plural, Imperfect
+- “murder; kill.”
+------------------------------------------------------------------------
+- *pāṇibhiḥ* \< *pāṇi*
+- \[noun\], instrumental, plural, masculine
+- “hand; hoof; pāṇi \[word\].”
+------------------------------------------------------------------------

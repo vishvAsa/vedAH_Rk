@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 1.167.5"
+
++++
+-   *joṣad* \< *joṣat* \< *juṣ*
+- \[verb\], singular, Aorist conj./subj.
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *asuryā* \< *asurya*
+- \[noun\], nominative, singular, feminine
+- “āsura.”
+------------------------------------------------------------------------
+- *sacadhyai* \< *sac*
+- \[verb noun\]
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *viṣitastukā* \< *viṣita* \< *viṣā* \< *√sā*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *viṣitastukā* \< *stukā*
+- \[noun\], nominative, singular, feminine
+- “tuft.”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *nṛmaṇāḥ* \< *nṛmaṇas*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sūryeva* \< *sūryaḥ* \< *sūrya*
+- \[noun\], nominative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *sūryeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vidhato* \< *vidhataḥ* \< *vidh*
+- \[verb noun\], genitive, singular
+- “worship; offer.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *gāt* \< *gā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *tveṣapratīkā* \< *tveṣa*
+- \[noun\]
+- “awful; brilliant; aglitter(p); bright.”
+------------------------------------------------------------------------
+- *tveṣapratīkā* \< *pratīkā* \< *pratīka*
+- \[noun\], nominative, singular, feminine
+- “face; surface.”
+------------------------------------------------------------------------
+- *nabhaso* \< *nabhasaḥ* \< *nabhas*
+- \[noun\], genitive, singular, neuter
+- “sky; cloud; ākāśa; air; abhra.”
+------------------------------------------------------------------------
+- *netyā* \< *nā* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *netyā* \< *ityā*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------

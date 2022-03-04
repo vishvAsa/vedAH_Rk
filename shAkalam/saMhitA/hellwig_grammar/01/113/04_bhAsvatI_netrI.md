@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 1.113.4"
+
++++
+-   *bhāsvatī* \< *bhāsvat*
+- \[noun\], nominative, singular, feminine
+- “shining; glorious; glistening; aglow(p); beautiful.”
+------------------------------------------------------------------------
+- *netrī* \< *netṛ*
+- \[noun\], nominative, singular, feminine
+- “leader.”
+------------------------------------------------------------------------
+- *sūnṛtānām* \< *sūnṛtā*
+- \[noun\], genitive, plural, feminine
+- “liberality.”
+------------------------------------------------------------------------
+- *aceti* \< *cit*
+- \[verb\], singular, Aorist passive
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *citrā* \< *citra*
+- \[noun\], nominative, singular, feminine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *duro* \< *duraḥ* \< *dvār*
+- \[noun\], accusative, plural, feminine
+- “door; means.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *āvaḥ* \< *vṛ*
+- \[verb\], singular, Root aorist (Ind.)
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------
+- *prārpyā* \< *prārpay* \< *√arpay*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *jagad* \< *jagat* \< *jagant*
+- \[noun\], accusative, singular, neuter
+- “universe; Earth; world; people; Jagatī; Loka; animal; being.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], accusative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *akhyad* \< *akhyat* \< *khyā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *uṣā* \< *uṣāḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *ajīgar* \< *ajīgaḥ* \< *jāgṛ*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “wake; watch; awaken; wake up; oversee.”
+------------------------------------------------------------------------
+- *bhuvanāni* \< *bhuvana*
+- \[noun\], accusative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------

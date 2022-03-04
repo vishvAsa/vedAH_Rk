@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 1.61.5"
+
++++
+-   *asmā* \< *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *saptim* \< *sapti*
+- \[noun\], accusative, singular, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śravasyendrāyārkaṃ* \< *śravasyā* \< *śravasya*
+- \[noun\], instrumental, singular, neuter
+- “fame; deed.”
+------------------------------------------------------------------------
+- *śravasyendrāyārkaṃ* \< *indrāya* \< *indra*
+- \[noun\], dative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śravasyendrāyārkaṃ* \< *arkam* \< *arka*
+- \[noun\], accusative, singular, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *juhvā* \< *juhū*
+- \[noun\], instrumental, singular, feminine
+- “tongue; fire; ladle.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *añje* \< *añj*
+- \[verb\], singular, Present indikative
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *vīraṃ* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *dānaukasaṃ* \< *dāna*
+- \[noun\], masculine
+------------------------------------------------------------------------
+- *dānaukasaṃ* \< *okasam* \< *oka*
+- \[noun\], accusative, singular, masculine
+- “home; house; oka \[word\].”
+------------------------------------------------------------------------
+- *vandadhyai* \< *vand*
+- \[verb noun\]
+- “worship; laud.”
+------------------------------------------------------------------------
+- *purāṃ* \< *purām* \< *pur*
+- \[noun\], genitive, plural, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *gūrtaśravasaṃ* \< *gūrta* \< *gur*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *gūrtaśravasaṃ* \< *śravasam* \< *śravas*
+- \[noun\], accusative, singular, masculine
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *darmāṇam* \< *darman*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------

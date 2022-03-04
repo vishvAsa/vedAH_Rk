@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 1.180.1"
+
++++
+-   *yuvo* \< *yuvoḥ* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *rajāṃsi* \< *rajas*
+- \[noun\], accusative, plural, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *suyamāso* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyamāso* \< *yamāsaḥ* \< *yama*
+- \[noun\], nominative, plural, masculine
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *aśvā* \< *aśvāḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *arṇāṃsi* \< *arṇas*
+- \[noun\], accusative, plural, neuter
+- “body of water; water.”
+------------------------------------------------------------------------
+- *dīyat* \< *dī*
+- \[verb\], singular, Present injunctive
+------------------------------------------------------------------------
+- *hiraṇyayā* \< *hiraṇyayāḥ* \< *hiraṇyaya*
+- \[noun\], nominative, plural, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *pavayaḥ* \< *pavi*
+- \[noun\], nominative, plural, masculine
+- “vajra; tire; rim.”
+------------------------------------------------------------------------
+- *pruṣāyan* \< *pruṣāy* \< *√pruṣ*
+- \[verb\], plural, Present injunctive
+- “sprinkle.”
+------------------------------------------------------------------------
+- *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *pibantā* \< *pibantau* \< *pā*
+- \[verb noun\], nominative, dual
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *uṣasaḥ* \< *uṣas*
+- \[noun\], accusative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *sacethe* \< *sac*
+- \[verb\], dual, Present indikative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------

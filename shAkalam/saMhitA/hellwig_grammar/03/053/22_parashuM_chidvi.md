@@ -1,0 +1,63 @@
++++
+title = "Rig Veda 3.53.22"
+
++++
+-   *paraśuṃ* \< *paraśum* \< *paraśu*
+- \[noun\], accusative, singular, masculine
+- “ax.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *tapati* \< *tap*
+- \[verb\], singular, Present indikative
+- “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
+------------------------------------------------------------------------
+- *śimbalaṃ* \< *śimbalam* \< *śimbala*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vṛścati* \< *vraśc*
+- \[verb\], singular, Present indikative
+- “cleave; fell; cut off; hew.”
+------------------------------------------------------------------------
+- *ukhā*
+- \[noun\], nominative, singular, feminine
+- “kettle; ukhā \[word\].”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *yeṣantī* \< *yeṣ*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *prayastā* \< *prayasta*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *phenam* \< *phena*
+- \[noun\], accusative, singular, masculine
+- “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
+    \[word\].”
+------------------------------------------------------------------------
+- *asyati* \< *as*
+- \[verb\], singular, Present indikative
+- “shoot; remove.”
+------------------------------------------------------------------------

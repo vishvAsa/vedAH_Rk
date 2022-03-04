@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.21.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātv* \< *yātu* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *makṣū*
+- \[adverb\]
+- “promptly; soon; quickly.”
+------------------------------------------------------------------------
+- *samudrād* \< *samudrāt* \< *samudra*
+- \[noun\], ablative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *purīṣāt* \< *purīṣa*
+- \[noun\], ablative, singular, neuter
+- “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
+    rust; affluence; defecation.”
+------------------------------------------------------------------------
+- *svarṇarād* \< *svarṇarāt* \< *svarṇara*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *marutvān* \< *marutvat*
+- \[noun\], nominative, singular, masculine
+- “Marut(a).”
+------------------------------------------------------------------------
+- *parāvato* \< *parāvataḥ* \< *parāvat*
+- \[noun\], ablative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *sadanād* \< *sadanāt* \< *sadana*
+- \[noun\], ablative, singular, neuter
+- “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
+    residence; seat; inanition; location.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------

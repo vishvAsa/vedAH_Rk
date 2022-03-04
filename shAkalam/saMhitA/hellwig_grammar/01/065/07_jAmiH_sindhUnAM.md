@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 1.65.7"
+
++++
+-   *jāmiḥ* \< *jāmi*
+- \[noun\], nominative, singular, masculine
+- “related; ancestral; customary; usual.”
+------------------------------------------------------------------------
+- *sindhūnām* \< *sindhu*
+- \[noun\], genitive, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *bhrāteva* \< *bhrātā* \< *bhrātṛ*
+- \[noun\], nominative, singular, masculine
+- “brother; bhrātṛ; relative.”
+------------------------------------------------------------------------
+- *bhrāteva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *svasrām* \< *svasṛ*
+- \[noun\], genitive, plural, feminine
+- “sister; svasṛ \[word\].”
+------------------------------------------------------------------------
+- *ibhyān* \< *ibhya*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *vanāny* \< *vanāni* \< *vana*
+- \[noun\], accusative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *atti* \< *ad*
+- \[verb\], singular, Present indikative
+- “eat; devour.”
+------------------------------------------------------------------------

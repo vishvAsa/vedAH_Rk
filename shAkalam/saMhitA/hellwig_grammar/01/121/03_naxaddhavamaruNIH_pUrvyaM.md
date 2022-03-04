@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 1.121.3"
+
++++
+-   *nakṣaddhavam* \< *nakṣat* \< *nakṣ*
+- \[verb\], singular, Present injunctive
+- “reach; approach.”
+------------------------------------------------------------------------
+- *nakṣaddhavam* \< *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *aruṇīḥ* \< *aruṇī*
+- \[noun\], nominative, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- \[noun\], accusative, singular, neuter
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *rāṭ* \< *rāj*
+- \[noun\], nominative, singular, masculine
+- “king; best; rāj; rāj \[word\].”
+------------------------------------------------------------------------
+- *turo* \< *turaḥ* \< *tura*
+- \[noun\], nominative, singular, masculine
+- “powerful; noble; noble.”
+------------------------------------------------------------------------
+- *viśām* \< *viś*
+- \[noun\], genitive, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *aṅgirasām* \< *aṅgiras*
+- \[noun\], genitive, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *dyūn* \< *div*
+- \[noun\], accusative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *takṣad* \< *takṣat* \< *takṣ*
+- \[verb\], singular, Present injunctive
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *vajraṃ* \< *vajram* \< *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *niyutaṃ* \< *niyutam* \< *niyu* \< *√yu*
+- \[verb noun\], accusative, singular
+- “harness.”
+------------------------------------------------------------------------
+- *tastambhad* \< *tastambhat* \< *stambh*
+- \[verb\], singular, Plusquamperfect
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+------------------------------------------------------------------------
+- *dyāṃ* \< *dyām* \< *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *catuṣpade* \< *catuṣpada*
+- \[noun\], dative, singular, masculine
+- “quadrupedal.”
+------------------------------------------------------------------------
+- *naryāya* \< *narya*
+- \[noun\], dative, singular, masculine
+- “manly; heroic; powerful; male; human.”
+------------------------------------------------------------------------
+- *dvipāde* \< *dvipād*
+- \[noun\], dative, singular, masculine
+- “biped; Vishnu.”
+------------------------------------------------------------------------

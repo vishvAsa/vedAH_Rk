@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 2.7.6"
+
++++
+-   *drvannaḥ* \< *dru*
+- \[noun\], masculine
+- “wood; tree; dru \[word\].”
+------------------------------------------------------------------------
+- *drvannaḥ* \< *annaḥ* \< *anna*
+- \[noun\], nominative, singular, masculine
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+------------------------------------------------------------------------
+- *sarpirāsutiḥ* \< *sarpiḥ* \< *sarpis*
+- \[noun\], neuter
+- “ghee; clarified butter; sarpiḥprameha.”
+------------------------------------------------------------------------
+- *sarpirāsutiḥ* \< *āsutiḥ* \< *āsuti*
+- \[noun\], nominative, singular, masculine
+- “āsuti \[word\].”
+------------------------------------------------------------------------
+- *pratno* \< *pratnaḥ* \< *pratna*
+- \[noun\], nominative, singular, masculine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *vareṇyaḥ* \< *vareṇya*
+- \[noun\], nominative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *sahasas* \< *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *putro* \< *putraḥ* \< *putra*
+- \[noun\], nominative, singular, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *adbhutaḥ* \< *adbhuta*
+- \[noun\], nominative, singular, masculine
+- “extraordinary; amazing; supernatural.”
+------------------------------------------------------------------------

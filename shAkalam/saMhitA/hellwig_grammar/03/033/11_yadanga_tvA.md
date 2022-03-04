@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 3.33.11"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *aṅga*
+- \[adverb\]
+- “in truth; aṅga \[word\]; entirely; merely.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *bharatāḥ* \< *bharata*
+- \[noun\], nominative, plural, masculine
+- “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
+------------------------------------------------------------------------
+- *saṃtareyur* \< *saṃtareyuḥ* \< *saṃtṛ* \< *√tṛ*
+- \[verb\], plural, Present optative
+- “traverse.”
+------------------------------------------------------------------------
+- *gavyan* \< *gavyat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *grāma* \< *grāmaḥ* \< *grāma*
+- \[noun\], nominative, singular, masculine
+- “village; grāma \[word\]; group; battalion; club; Hindu gamut;
+    troop; multitude; crowd; kin; collection; people.”
+------------------------------------------------------------------------
+- *iṣita* \< *iṣitaḥ* \< *iṣay* \< *√iṣ*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *indrajūtaḥ* \< *indra*
+- \[noun\], masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrajūtaḥ* \< *jūtaḥ* \< *jū*
+- \[verb noun\], nominative, singular
+- “animate; encourage; impel; inspire.”
+------------------------------------------------------------------------
+- *arṣād* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *prasavaḥ* \< *prasava*
+- \[noun\], nominative, singular, masculine
+- “stimulation.”
+------------------------------------------------------------------------
+- *sargatakta* \< *sarga*
+- \[noun\], masculine
+- “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
+------------------------------------------------------------------------
+- *sargatakta* \< *taktaḥ* \< *tak*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *vṛṇe* \< *vṛ*
+- \[verb\], singular, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------
+- *sumatiṃ* \< *sumatim* \< *sumati*
+- \[noun\], accusative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *yajñiyānām* \< *yajñiya*
+- \[noun\], genitive, plural, feminine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------

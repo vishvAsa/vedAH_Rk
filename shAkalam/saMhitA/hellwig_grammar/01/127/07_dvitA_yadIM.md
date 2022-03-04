@@ -1,0 +1,103 @@
++++
+title = "Rig Veda 1.127.7"
+
++++
+-   *dvitā*
+- \[adverb\]
+- “again.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *kīstāso* \< *kīstāsaḥ* \< *kīsta*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *abhidyavo* \< *abhidyavaḥ* \< *abhidyu*
+- \[noun\], nominative, plural, masculine
+- “celestial; brilliant.”
+------------------------------------------------------------------------
+- *namasyanta* \< *namasyantaḥ* \< *namasy*
+- \[verb noun\], nominative, plural
+- “worship; respect.”
+------------------------------------------------------------------------
+- *upavocanta* \< *upavac* \< *√vac*
+- \[verb\], plural, Aorist inj. (proh.)
+------------------------------------------------------------------------
+- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- \[noun\], nominative, plural, masculine
+- “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
+------------------------------------------------------------------------
+- *mathnanto* \< *mathnantaḥ* \< *math*
+- \[verb noun\], nominative, plural
+- “churn; knead; trample; full; stir; crush.”
+------------------------------------------------------------------------
+- *dāśā* \< *dāśāḥ* \< *dāśa*
+- \[noun\], nominative, plural, masculine
+- “ferryman; Dāśa; fisherman; dāśa \[word\].”
+------------------------------------------------------------------------
+- *bhṛgavaḥ* \< *bhṛgu*
+- \[noun\], nominative, plural, masculine
+- “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
+------------------------------------------------------------------------
+- *agnir* \< *agniḥ* \< *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *īśe* \< *īś*
+- \[verb\], singular, Perfect indicative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- \[noun\], genitive, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *śucir* \< *śuciḥ* \< *śuci*
+- \[noun\], nominative, singular, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dharṇir* \< *dharṇiḥ* \< *dharṇi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *priyāṃ* \< *priya*
+- \[noun\], accusative, plural, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *apidhīṃr* \< *apidhīn* \< *apidhi*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *vaniṣīṣṭa* \< *van*
+- \[verb\], singular, Prekativ
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *medhira* \< *medhiraḥ* \< *medhira*
+- \[noun\], nominative, singular, masculine
+- “wise; intelligent.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vaniṣīṣṭa* \< *van*
+- \[verb\], singular, Prekativ
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *medhiraḥ* \< *medhira*
+- \[noun\], nominative, singular, masculine
+- “wise; intelligent.”
+------------------------------------------------------------------------

@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 2.28.3"
+
++++
+-   *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *puruvīrasya* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruvīrasya* \< *vīrasya* \< *vīra*
+- \[noun\], genitive, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *śarmann* \< *śarman*
+- \[noun\], locative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *uruśaṃsasya* \< *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *uruśaṃsasya* \< *śaṃsasya* \< *śaṃsa*
+- \[noun\], genitive, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *praṇetaḥ* \< *praṇetar* \< *praṇetṛ*
+- \[noun\], vocative, singular, masculine
+- “leader.”
+------------------------------------------------------------------------
+- *yūyaṃ* \< *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *putrā* \< *putrāḥ* \< *putra*
+- \[noun\], vocative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *aditer* \< *aditeḥ* \< *aditi*
+- \[noun\], genitive, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *adabdhā* \< *adabdhāḥ* \< *adabdha*
+- \[noun\], nominative, plural, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *kṣamadhvaṃ* \< *kṣamadhvam* \< *kṣam*
+- \[verb\], plural, Present imperative
+- “forgive; can; endure; permit.”
+------------------------------------------------------------------------
+- *yujyāya* \< *yujya*
+- \[noun\], dative, singular, neuter
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------

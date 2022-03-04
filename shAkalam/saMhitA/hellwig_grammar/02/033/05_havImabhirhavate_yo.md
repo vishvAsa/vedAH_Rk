@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 2.33.5"
+
++++
+-   *havīmabhir* \< *havīmabhiḥ* \< *havīman*
+- \[noun\], instrumental, plural, neuter
+- “call; invocation.”
+------------------------------------------------------------------------
+- *havate* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *havirbhir* \< *havirbhiḥ* \< *havis*
+- \[noun\], instrumental, plural, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *stomebhī* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *rudraṃ* \< *rudram* \< *rudra*
+- \[noun\], accusative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *diṣīya* \< *dā*
+- \[verb\], singular, Aorist optative
+- “cut; mow.”
+------------------------------------------------------------------------
+- *ṛdūdaraḥ* \< *ṛdūdara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *suhavo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhavo* \< *havaḥ* \< *hava*
+- \[noun\], nominative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *asyai* \< *idam*
+- \[noun\], dative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *babhruḥ* \< *babhru*
+- \[noun\], nominative, singular, masculine
+- “tawny; brown.”
+------------------------------------------------------------------------
+- *suśipro* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśipro* \< *śipraḥ* \< *śiprā*
+- \[noun\], nominative, singular, masculine
+- “lip; śiprā.”
+------------------------------------------------------------------------
+- *rīradhan* \< *rīradhat* \< *radh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “subjugate.”
+------------------------------------------------------------------------
+- *manāyai* \< *manā*
+- \[noun\], dative, singular, feminine
+- “jewelry.”
+------------------------------------------------------------------------

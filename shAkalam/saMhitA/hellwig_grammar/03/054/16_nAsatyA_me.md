@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 3.54.16"
+
++++
+-   *nāsatyā* \< *nāsatya*
+- \[noun\], nominative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *pitarā* \< *pitṛ*
+- \[noun\], nominative, dual, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *bandhupṛcchā* \< *bandhu*
+- \[noun\], masculine
+- “relative; bandhu \[word\]; association; friend; kin.”
+------------------------------------------------------------------------
+- *bandhupṛcchā* \< *pṛcchā*
+- \[noun\], nominative, dual, masculine
+- “question.”
+------------------------------------------------------------------------
+- *sajātyam* \< *sajātya*
+- \[noun\], nominative, singular, neuter
+- “relatedness.”
+------------------------------------------------------------------------
+- *aśvinoś* \< *aśvinoḥ* \< *aśvin*
+- \[noun\], genitive, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *cāru*
+- \[noun\], nominative, singular, neuter
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *nāma* \< *nāman*
+- \[noun\], nominative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------
+- *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *stho* \< *sthaḥ* \< *as*
+- \[verb\], dual, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *rayidau* \< *rayi*
+- \[noun\], masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *rayidau* \< *dau* \< *dā*
+- \[noun\], nominative, dual, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rayīṇāṃ* \< *rayīṇām* \< *rayi*
+- \[noun\], genitive, plural, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *dātraṃ* \< *dātram* \< *dātra*
+- \[noun\], accusative, singular, neuter
+- “sickle; gift; scythe.”
+------------------------------------------------------------------------
+- *rakṣethe* \< *rakṣ*
+- \[verb\], dual, Present indikative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *akavair* \< *akavaiḥ* \< *akava*
+- \[noun\], instrumental, plural, masculine
+- “perfect.”
+------------------------------------------------------------------------
+- *adabdhā* \< *adabdha*
+- \[noun\], nominative, dual, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------

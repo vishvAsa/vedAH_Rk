@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 1.57.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *maṃhiṣṭhāya* \< *maṃhiṣṭha*
+- \[noun\], dative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *bṛhate* \< *bṛhat*
+- \[noun\], dative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *bṛhadraye* \< *bṛhadri*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *satyaśuṣmāya* \< *satya*
+- \[noun\]
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *satyaśuṣmāya* \< *śuṣmāya* \< *śuṣma*
+- \[noun\], dative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *tavase* \< *tavas*
+- \[noun\], dative, singular, masculine
+- “strong; energetic.”
+------------------------------------------------------------------------
+- *matim* \< *mati*
+- \[noun\], accusative, singular, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *bhare* \< *bhṛ*
+- \[verb\], singular, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *apām* \< *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *pravaṇe* \< *pravaṇa*
+- \[noun\], locative, singular, masculine
+- “torrent.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *durdharaṃ* \< *durdharam* \< *durdhara*
+- \[noun\], nominative, singular, neuter
+- “unbearable.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], nominative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *viśvāyu*
+- \[noun\], nominative, singular, neuter
+- “lifelong.”
+------------------------------------------------------------------------
+- *śavase* \< *śavas*
+- \[noun\], dative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *apāvṛtam* \< *apāvṛ* \< *√vṛ*
+- \[verb noun\], nominative, singular
+- “open; gape.”
+------------------------------------------------------------------------

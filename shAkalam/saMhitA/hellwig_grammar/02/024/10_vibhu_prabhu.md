@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 2.24.10"
+
++++
+-   *vibhu*
+- \[noun\], nominative, singular, neuter
+- “mighty; abundant; big.”
+------------------------------------------------------------------------
+- *prabhu*
+- \[noun\], nominative, singular, neuter
+- “mighty; powerful.”
+------------------------------------------------------------------------
+- *prathamam* \< *prathama*
+- \[noun\], nominative, singular, neuter
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *mehanāvato* \< *mehanāvataḥ* \< *mehanāvat*
+- \[noun\], genitive, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *bṛhaspateḥ* \< *bṛhaspati*
+- \[noun\], genitive, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *suvidatrāṇi* \< *suvidatra*
+- \[noun\], nominative, plural, neuter
+- “beneficent.”
+------------------------------------------------------------------------
+- *rādhyā* \< *rādhya*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *imā* \< *idam*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sātāni* \< *sāta*
+- \[noun\], nominative, plural, neuter
+- “wealth.”
+------------------------------------------------------------------------
+- *venyasya* \< *venya*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *vājino* \< *vājinaḥ* \< *vājin*
+- \[noun\], genitive, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *janā* \< *janau* \< *jana*
+- \[noun\], nominative, dual, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *ubhaye* \< *ubhaya*
+- \[noun\], nominative, dual, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *bhuñjate* \< *bhuj*
+- \[verb\], plural, Present indikative
+- “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
+------------------------------------------------------------------------
+- *viśaḥ* \< *viś*
+- \[noun\], nominative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------

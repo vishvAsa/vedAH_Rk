@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.73.3"
+
++++
+-   *devo* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *viśvadhāyā* \< *viśvadhāyāḥ* \< *viśvadhā*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *upakṣeti* \< *upakṣi* \< *√kṣi*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *hitamitro* \< *hita*
+- \[noun\]
+- “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
+    Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
+------------------------------------------------------------------------
+- *hitamitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *puraḥsadaḥ* \< *puraḥsad*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *śarmasado* \< *śarma* \< *śarman*
+- \[noun\], neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *śarmasado* \< *sadaḥ* \< *sad*
+- \[noun\], nominative, plural, masculine
+- “seated.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vīrā* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *anavadyā* \< *anavadya*
+- \[noun\], nominative, singular, feminine
+- “blameless; faultless.”
+------------------------------------------------------------------------
+- *patijuṣṭeva* \< *pati*
+- \[noun\], masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *patijuṣṭeva* \< *juṣṭā* \< *juṣ*
+- \[verb noun\], nominative, singular
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *patijuṣṭeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *nārī*
+- \[noun\], nominative, singular, feminine
+- “woman; wife; female.”
+------------------------------------------------------------------------

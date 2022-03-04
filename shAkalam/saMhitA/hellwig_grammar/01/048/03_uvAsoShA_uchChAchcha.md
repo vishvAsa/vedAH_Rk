@@ -1,0 +1,65 @@
++++
+title = "Rig Veda 1.48.3"
+
++++
+-   *uvāsoṣā* \< *uvāsa* \< *vas*
+- \[verb\], singular, Perfect indicative
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *uvāsoṣā* \< *uṣāḥ* \< *uṣas*
+- \[noun\], nominative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *ucchāc* \< *ucchāt* \< *vas*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *devī*
+- \[noun\], nominative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *jīrā* \< *jīra*
+- \[noun\], nominative, singular, feminine
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *rathānām* \< *ratha*
+- \[noun\], genitive, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *asyā* \< *asyāḥ* \< *idam*
+- \[noun\], genitive, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ācaraṇeṣu* \< *ācaraṇa*
+- \[noun\], locative, plural, neuter
+- “action; practice; behavior; performance.”
+------------------------------------------------------------------------
+- *dadhrire* \< *dhṛ*
+- \[verb\], plural, Perfect indicative
+- “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
+    begin; dip.”
+------------------------------------------------------------------------
+- *samudre* \< *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śravasyavaḥ* \< *śravasyu*
+- \[noun\], nominative, plural, masculine
+- “celebrated.”
+------------------------------------------------------------------------

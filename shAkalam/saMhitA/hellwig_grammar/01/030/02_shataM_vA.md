@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 1.30.2"
+
++++
+-   *śataṃ* \< *śatam* \< *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śucīnāṃ* \< *śucīnām* \< *śuci*
+- \[noun\], genitive, plural, feminine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *sahasraṃ* \< *sahasram* \< *sahasra*
+- \[noun\], accusative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *samāśirām* \< *samāśir*
+- \[noun\], genitive, plural, masculine
+------------------------------------------------------------------------
+- *ed* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *nimnaṃ* \< *nimnam* \< *nimna*
+- \[noun\], accusative, singular, neuter
+- “depression; depth.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rīyate* \< *ri*
+- \[verb\], singular, Present indikative
+- “free; liberate; run; let go of.”
+------------------------------------------------------------------------

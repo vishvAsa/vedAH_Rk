@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 1.64.14"
+
++++
+-   *carkṛtyam* \< *carkar* \< *√kṛ*
+- \[verb noun\], accusative, singular
+- “praise; commemorate.”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *pṛtsu* \< *pṛt*
+- \[noun\], locative, plural, feminine
+- “battle.”
+------------------------------------------------------------------------
+- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- \[noun\], accusative, singular, masculine
+- “incomparable; irresistible; unbearable; unconquerable.”
+------------------------------------------------------------------------
+- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- \[noun\], accusative, singular, masculine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *śuṣmam* \< *śuṣma*
+- \[noun\], accusative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *maghavatsu* \< *maghavan*
+- \[noun\], locative, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *dhattana* \< *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dhanaspṛtam* \< *dhana*
+- \[noun\], neuter
+- “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
+    dhan; capital; fight.”
+------------------------------------------------------------------------
+- *dhanaspṛtam* \< *spṛtam* \< *spṛt*
+- \[noun\], accusative, singular, masculine
+- “victorious; protecting.”
+------------------------------------------------------------------------
+- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- \[noun\], accusative, singular, masculine
+- “applaudable.”
+------------------------------------------------------------------------
+- *viśvacarṣaṇiṃ* \< *viśvacarṣaṇim* \< *viśvacarṣaṇi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tokam* \< *toka*
+- \[noun\], accusative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *puṣyema* \< *puṣ*
+- \[verb\], plural, Present optative
+- “boom; grow; promote; foster.”
+------------------------------------------------------------------------
+- *tanayaṃ* \< *tanayam* \< *tanaya*
+- \[noun\], accusative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *śataṃ* \< *śatam* \< *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *himāḥ* \< *himā*
+- \[noun\], accusative, plural, feminine
+- “winter; year.”
+------------------------------------------------------------------------

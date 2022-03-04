@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 1.94.1"
+
++++
+-   *imaṃ* \< *imam* \< *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *stomam* \< *stoma*
+- \[noun\], accusative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *arhate* \< *arh*
+- \[verb noun\], dative, singular
+- “should; may; rate; can; can; equal; necessitate.”
+------------------------------------------------------------------------
+- *jātavedase* \< *jātavedas*
+- \[noun\], dative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *mahemā* \< *mah*
+- \[verb\], plural, Present optative
+- “give; accord.”
+------------------------------------------------------------------------
+- *manīṣayā* \< *manīṣā*
+- \[noun\], instrumental, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *bhadrā* \< *bhadra*
+- \[noun\], nominative, singular, feminine
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pramatir* \< *pramatiḥ* \< *pramati*
+- \[noun\], nominative, singular, feminine
+- “care; solicitude; caution; providence.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *saṃsady* \< *saṃsadi* \< *saṃsad*
+- \[noun\], locative, singular, feminine
+- “assembly; court; company.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sakhye* \< *sakhya*
+- \[noun\], locative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *riṣāmā* \< *riṣ*
+- \[verb\], plural, Aorist conj./subj.
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------

@@ -1,0 +1,121 @@
++++
+title = "Rig Veda 1.139.4"
+
++++
+-   *aceti* \< *cit*
+- \[verb\], singular, Aorist passive
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *nākam* \< *nāka*
+- \[noun\], accusative, singular, masculine
+- “sky; celestial sphere; Svarga; nāka \[word\].”
+------------------------------------------------------------------------
+- *ṛṇvatho* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *yuñjate* \< *yuj*
+- \[verb\], plural, Present indikative
+- “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
+    administer; compound; affect; add; concentrate; unite; join;
+    prosecute; combine; supply; compound; attach to; appoint; fill;
+    process; mobilize; mount; complement; eat; join; treat; coincide;
+    affect; challenge.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *rathayujo* \< *ratha*
+- \[noun\], masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *rathayujo* \< *yujaḥ* \< *yuj*
+- \[noun\], nominative, plural, masculine
+- “ally; friend; pair; two; companion.”
+------------------------------------------------------------------------
+- *diviṣṭiṣv* \< *diviṣṭiṣu* \< *diviṣṭi*
+- \[noun\], locative, plural, feminine
+------------------------------------------------------------------------
+- *adhvasmāno* \< *adhvasmānaḥ* \< *adhvasman*
+- \[noun\], nominative, plural, masculine
+- “immaculate.”
+------------------------------------------------------------------------
+- *diviṣṭiṣu* \< *diviṣṭi*
+- \[noun\], locative, plural, feminine
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *sthāma* \< *sthāman*
+- \[noun\], nominative, singular, neuter
+- “post; neigh.”
+------------------------------------------------------------------------
+- *vandhure* \< *vandhura*
+- \[noun\], locative, singular, neuter
+- “seat; seat.”
+------------------------------------------------------------------------
+- *rathe* \< *ratha*
+- \[noun\], locative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *hiraṇyaye* \< *hiraṇyaya*
+- \[noun\], locative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *patheva* \< *pathā* \< *pathin*
+- \[noun\], instrumental, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *patheva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yantāv* \< *yantau* \< *i*
+- \[verb noun\], nominative, dual
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *anuśāsatā* \< *anuśās* \< *√śās*
+- \[verb noun\], instrumental, singular
+- “order; govern; teach.”
+------------------------------------------------------------------------
+- *rajo* \< *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *'ñjasā* \< *añjasā* \< *añjas*
+- \[noun\], instrumental, singular, neuter
+- “añjas \[word\].”
+------------------------------------------------------------------------
+- *śāsatā* \< *śās*
+- \[verb noun\], instrumental, singular
+- “teach; govern; command; order; control; tell; recommend; chastize;
+    instruct.”
+------------------------------------------------------------------------
+- *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------

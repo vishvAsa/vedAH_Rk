@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 1.81.6"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aryo* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *martabhojanam* \< *marta*
+- \[noun\], masculine
+- “man.”
+------------------------------------------------------------------------
+- *martabhojanam* \< *bhojanam* \< *bhojana*
+- \[noun\], accusative, singular, neuter
+- “food; eating; foodstuff; meal; property; sevana; enjoyment.”
+------------------------------------------------------------------------
+- *parādadāti* \< *parādā* \< *√dā*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śikṣatu* \< *śikṣ*
+- \[verb\], singular, Present imperative
+- “help; give.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *bhajā* \< *bhaj*
+- \[verb\], singular, Present imperative
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *bhūri*
+- \[noun\], nominative, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], nominative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *bhakṣīya* \< *bhakṣ*
+- \[verb\], singular, Aorist optative
+- “eat; feed.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rādhasaḥ* \< *rādhas*
+- \[noun\], genitive, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------

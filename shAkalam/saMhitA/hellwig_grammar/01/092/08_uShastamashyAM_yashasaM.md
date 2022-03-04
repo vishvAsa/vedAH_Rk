@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.92.8"
+
++++
+-   *uṣas* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *aśyāṃ* \< *aśyām* \< *aś*
+- \[verb\], singular, Aorist optative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *yaśasaṃ* \< *yaśasam* \< *yaśas*
+- \[noun\], accusative, singular, masculine
+- “esteemed; celebrated; glorious; honorable.”
+------------------------------------------------------------------------
+- *suvīraṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīraṃ* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *dāsapravargaṃ* \< *dāsa*
+- \[noun\], masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *dāsapravargaṃ* \< *pravargam* \< *pravarga*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *aśvabudhyam* \< *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvabudhyam* \< *budhyam* \< *budhya*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *sudaṃsasā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudaṃsasā* \< *daṃsasā* \< *daṃsas*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *śravasā* \< *śravas*
+- \[noun\], instrumental, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vibhāsi* \< *vibhā* \< *√bhā*
+- \[verb\], singular, Present indikative
+- “shine.”
+------------------------------------------------------------------------
+- *vājaprasūtā* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājaprasūtā* \< *prasūtā* \< *prasū* \< *√sū*
+- \[verb noun\], nominative, singular
+- “give birth; be born; originate; impel; propel; grow.”
+------------------------------------------------------------------------
+- *subhage* \< *subhaga*
+- \[noun\], vocative, singular, feminine
+- “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
+    \[word\]; charming; pleasing; lucky.”
+------------------------------------------------------------------------
+- *bṛhantam* \< *bṛhat*
+- \[noun\], accusative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------

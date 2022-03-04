@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 2.19.2"
+
++++
+-   *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *mandāno* \< *mandānaḥ* \< *mad*
+- \[verb noun\], nominative, singular
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *madhvo* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *vajrahasto* \< *vajrahastaḥ* \< *vajrahasta*
+- \[noun\], nominative, singular, masculine
+- “Indra; Shiva.”
+------------------------------------------------------------------------
+- *'him* \< *ahim* \< *ahi*
+- \[noun\], accusative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *arṇovṛtaṃ* \< *arṇovṛtam* \< *arṇovṛt*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vṛścat* \< *vraśc*
+- \[verb\], singular, Present injunctive
+- “cleave; fell; cut off; hew.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vayo* \< *vayaḥ* \< *vi*
+- \[noun\], nominative, plural, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *svasarāṇy* \< *svasarāṇi* \< *svasara*
+- \[noun\], accusative, plural, neuter
+- “pasture; stall.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *prayāṃsi* \< *prayas*
+- \[noun\], nominative, plural, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *nadīnāṃ* \< *nadīnām* \< *nadī*
+- \[noun\], genitive, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *cakramanta* \< *kram*
+- \[verb\], plural, Plusquamperfect
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------

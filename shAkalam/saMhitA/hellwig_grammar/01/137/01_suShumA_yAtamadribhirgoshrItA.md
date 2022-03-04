@@ -1,0 +1,102 @@
++++
+title = "Rig Veda 1.137.1"
+
++++
+-   *suṣumā* \< *suṣuma* \< *su*
+- \[verb\], plural, Perfect indicative
+- “press out; su.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *adribhir* \< *adribhiḥ* \< *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *gośrītā* \< *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gośrītā* \< *śrītāḥ* \< *śrī*
+- \[verb noun\], nominative, plural
+- “cook; boil; heat; cook; mix.”
+------------------------------------------------------------------------
+- *matsarā* \< *matsarāḥ* \< *matsara*
+- \[noun\], nominative, plural, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *somāso* \< *somāsaḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *matsarā* \< *matsarāḥ* \< *matsara*
+- \[noun\], nominative, plural, masculine
+- “intoxicant; invigorating; hostile.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rājānā* \< *rājan*
+- \[noun\], vocative, dual, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *divispṛśāsmatrā* \< *divispṛśā* \< *divispṛś*
+- \[noun\], vocative, dual, masculine
+- “heavenward.”
+------------------------------------------------------------------------
+- *divispṛśāsmatrā* \< *asmatrā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *gantam* \< *gam*
+- \[verb\], dual, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *gavāśiraḥ* \< *gavāśir*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *somāḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *śukrā* \< *śukrāḥ* \< *śukra*
+- \[noun\], nominative, plural, masculine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *gavāśiraḥ* \< *gavāśir*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

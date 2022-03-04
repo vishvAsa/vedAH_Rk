@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 2.43.3"
+
++++
+-   *āvadaṃs* \< *āvadan* \< *āvad* \< *√vad*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śakune* \< *śakuni*
+- \[noun\], vocative, singular, masculine
+- “Śakuni; bird; large bird; Śakuni.”
+------------------------------------------------------------------------
+- *bhadram* \< *bhadra*
+- \[noun\], accusative, singular, neuter
+- “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
+    Bhadrāsana; prosperity; good fortune; benefit.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vada* \< *vad*
+- \[verb\], singular, Present imperative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *tūṣṇīm*
+- \[adverb\]
+- “mutely.”
+------------------------------------------------------------------------
+- *āsīnaḥ* \< *ās*
+- \[verb noun\], nominative, singular
+- “sit; stay; sit down; dwell; lie; lie; exist.”
+------------------------------------------------------------------------
+- *sumatiṃ* \< *sumatim* \< *sumati*
+- \[noun\], accusative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *cikiddhi* \< *cit*
+- \[verb\], singular, Perfect imperative
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *utpatan* \< *utpat* \< *√pat*
+- \[verb noun\], nominative, singular
+- “soar; arise; originate; rise; get up.”
+------------------------------------------------------------------------
+- *vadasi* \< *vad*
+- \[verb\], singular, Present indikative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *karkarir* \< *karkariḥ* \< *karkari*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *bṛhad* \< *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *vadema* \< *vad*
+- \[verb\], plural, Present optative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------

@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 1.106.6"
+
++++
+-   *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *kutso* \< *kutsaḥ* \< *kutsa*
+- \[noun\], nominative, singular, masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahaṇaṃ* \< *vṛtrahaṇam* \< *vṛtrahan*
+- \[noun\], accusative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *śacīpatiṃ* \< *śacīpatim* \< *śacīpati*
+- \[noun\], accusative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *kāṭe* \< *kāṭa*
+- \[noun\], locative, singular, masculine
+- “hole; well.”
+------------------------------------------------------------------------
+- *nibāﾱha* \< *nibāﾱhaḥ* \< *nibāḍha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- \[noun\], nominative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *ahvad* \< *ahvat* \< *hvā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *durgād* \< *durgāt* \< *durga*
+- \[noun\], ablative, singular, neuter
+- “fortress; stronghold; difficulty; danger; passage.”
+------------------------------------------------------------------------
+- *vasavaḥ* \< *vasu*
+- \[noun\], vocative, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- \[noun\], vocative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *viśvasmān* \< *viśvasmāt* \< *viśva*
+- \[noun\], ablative, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *niṣ* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *pipartana* \< *pṛ*
+- \[verb\], plural, Present imperative
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------

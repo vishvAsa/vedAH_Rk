@@ -1,0 +1,61 @@
++++
+title = "Rig Veda 3.59.3"
+
++++
+-   *anamīvāsa* \< *anamīvāsaḥ* \< *anamīva*
+- \[noun\], nominative, plural, masculine
+- “healthy; comfortable; beneficial.”
+------------------------------------------------------------------------
+- *iﾱayā* \< *iḍā*
+- \[noun\], instrumental, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *madanto* \< *madantaḥ* \< *mad*
+- \[verb noun\], nominative, plural
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *mitajñavo* \< *mitajñavaḥ* \< *mitajñu*
+- \[noun\], nominative, plural, masculine
+- “kneeling.”
+------------------------------------------------------------------------
+- *varimann* \< *variman*
+- \[noun\], locative, singular, masculine
+- “width; size.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ādityasya* \< *āditya*
+- \[noun\], genitive, singular, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *vratam* \< *vrata*
+- \[noun\], accusative, singular, neuter
+- “vrata (vote); commandment; law; oath; command; rule; custom; vrata
+    \[word\]; rule; behavior.”
+------------------------------------------------------------------------
+- *upakṣiyanto* \< *upakṣiyantaḥ* \< *upakṣi* \< *√kṣi*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitrasya* \< *mitra*
+- \[noun\], genitive, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *sumatau* \< *sumati*
+- \[noun\], locative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

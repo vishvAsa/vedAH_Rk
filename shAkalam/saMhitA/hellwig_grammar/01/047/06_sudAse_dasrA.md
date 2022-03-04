@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 1.47.6"
+
++++
+-   *sudāse* \< *sudās*
+- \[noun\], dative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *vasu*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *bibhratā* \< *bhṛ*
+- \[verb noun\], nominative, dual
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *rathe* \< *ratha*
+- \[noun\], locative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣ*
+- \[noun\], accusative, plural, feminine
+- “food; refreshment; power.”
+------------------------------------------------------------------------
+- *vahatam* \< *vah*
+- \[verb\], dual, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *rayiṃ* \< *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *samudrād* \< *samudrāt* \< *samudra*
+- \[noun\], ablative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *divas* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhattam* \< *dhā*
+- \[verb\], dual, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *puruspṛham* \< *puruspṛh*
+- \[noun\], accusative, singular, masculine
+- “coveted; desirous.”
+------------------------------------------------------------------------

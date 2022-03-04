@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 3.52.6"
+
++++
+-   *tṛtīye* \< *tṛtīya*
+- \[noun\], locative, singular, neuter
+- “third; neuter; tṛtīya \[word\]; homosexual.”
+------------------------------------------------------------------------
+- *dhānāḥ* \< *dhānā*
+- \[noun\], accusative, plural, feminine
+- “Dhānā; Coriander; corn; grain.”
+------------------------------------------------------------------------
+- *savane* \< *savana*
+- \[noun\], locative, singular, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *puruṣṭuta*
+- \[noun\], vocative, singular, masculine
+- “Indra; Vishnu; Agni.”
+------------------------------------------------------------------------
+- *puroﾱāśam* \< *puroḍāś*
+- \[noun\], accusative, singular, masculine
+- “puroḍāśa.”
+------------------------------------------------------------------------
+- *āhutam* \< *āhu* \< *√hu*
+- \[verb noun\], accusative, singular
+- “sacrifice; sprinkle.”
+------------------------------------------------------------------------
+- *māmahasva* \< *mah*
+- \[verb\], singular, Perfect imperative
+- “give; accord.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ṛbhumantaṃ* \< *ṛbhumantam* \< *ṛbhumat*
+- \[noun\], accusative, singular, masculine
+- “prudent.”
+------------------------------------------------------------------------
+- *vājavantaṃ* \< *vājavantam* \< *vājavat*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *kave* \< *kavi*
+- \[noun\], vocative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *prayasvanta* \< *prayasvantaḥ* \< *prayasvat*
+- \[noun\], nominative, plural, masculine
+- “offering.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *śikṣema* \< *śikṣ*
+- \[verb\], plural, Present optative
+- “help; give.”
+------------------------------------------------------------------------
+- *dhītibhiḥ* \< *dhīti*
+- \[noun\], instrumental, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------

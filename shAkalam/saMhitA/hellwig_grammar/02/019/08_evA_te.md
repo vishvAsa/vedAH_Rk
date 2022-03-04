@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 2.19.8"
+
++++
+-   *evā* \< *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *gṛtsamadāḥ* \< *gṛtsamada*
+- \[noun\], nominative, plural, masculine
+- “Gṛtsamada.”
+------------------------------------------------------------------------
+- *śūra*
+- \[noun\], vocative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *manmāvasyavo* \< *manma* \< *manman*
+- \[noun\], accusative, singular, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *manmāvasyavo* \< *avasyavaḥ* \< *avasyu*
+- \[noun\], nominative, plural, masculine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vayunāni* \< *vayuna*
+- \[noun\], accusative, plural, neuter
+- “convention; custom; means.”
+------------------------------------------------------------------------
+- *takṣuḥ* \< *takṣ*
+- \[verb\], plural, Perfect indicative
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *brahmaṇyanta* \< *brahmaṇyantaḥ* \< *brahmaṇy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *navīya* \< *navīyaḥ* \< *navīyas*
+- \[noun\], accusative, singular, neuter
+- “new; fresh; up-to-the-minute.”
+------------------------------------------------------------------------
+- *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- \[noun\], accusative, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *sukṣitiṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- \[noun\], accusative, singular, feminine
+- “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
+    estate; colony; house.”
+------------------------------------------------------------------------
+- *sumnam* \< *sumna*
+- \[noun\], accusative, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *aśyuḥ* \< *aś*
+- \[verb\], plural, Aorist optative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

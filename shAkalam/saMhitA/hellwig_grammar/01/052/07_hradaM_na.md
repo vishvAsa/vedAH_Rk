@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.52.7"
+
++++
+-   *hradaṃ* \< *hradam* \< *hrada*
+- \[noun\], accusative, singular, neuter
+- “lake; pool; hrada \[word\]; body of water; pool.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *nyṛṣanty* \< *nyṛṣanti* \< *nyṛṣ* \< *√ṛṣ*
+- \[verb\], plural, Present indikative
+- “fill; stuff.”
+------------------------------------------------------------------------
+- *ūrmayo* \< *ūrmayaḥ* \< *ūrmi*
+- \[noun\], nominative, plural, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *brahmāṇīndra* \< *brahmāṇi* \< *brahman*
+- \[noun\], nominative, plural, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *brahmāṇīndra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *yāni* \< *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vardhanā* \< *vardhana*
+- \[noun\], nominative, plural, neuter
+- “increasing; fortifying; promotive; prolonging.”
+------------------------------------------------------------------------
+- *tvaṣṭā* \< *tvaṣṭṛ*
+- \[noun\], nominative, singular, masculine
+- “Tvaṣṭṛ; Viśvakarman; sun.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *yujyaṃ* \< *yujyam* \< *yujya*
+- \[noun\], accusative, singular, neuter
+- “adequate to(p); appropriate; united; allied.”
+------------------------------------------------------------------------
+- *vāvṛdhe* \< *vṛdh*
+- \[verb\], singular, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *śavas* \< *śavaḥ* \< *śavas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *tatakṣa* \< *takṣ*
+- \[verb\], singular, Perfect indicative
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *vajram* \< *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *abhibhūtyojasam* \< *abhibhūti*
+- \[noun\], feminine
+------------------------------------------------------------------------
+- *abhibhūtyojasam* \< *ojasam* \< *ojas*
+- \[noun\], accusative, singular, masculine
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------

@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 1.17.9"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *aśnotu* \< *aś*
+- \[verb\], singular, Present imperative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *suṣṭutir* \< *suṣṭutiḥ* \< *suṣṭuti*
+- \[noun\], nominative, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *indrāvaruṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; Indra.”
+------------------------------------------------------------------------
+- *yāṃ* \< *yām* \< *yad*
+- \[noun\], accusative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yām* \< *yad*
+- \[noun\], accusative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ṛdhāthe* \< *ṛdh*
+- \[verb\], dual, Aorist conj./subj.
+- “boom; stick to.”
+------------------------------------------------------------------------
+- *sadhastutim* \< *sadhastuti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------

@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 3.33.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *parvatānām* \< *parvata*
+- \[noun\], genitive, plural, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *uśatī* \< *vaś*
+- \[verb noun\], nominative, dual
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *upasthād* \< *upasthāt* \< *upastha*
+- \[noun\], ablative, singular, neuter
+- “genitalia; lap; sexual desire; anus.”
+------------------------------------------------------------------------
+- *aśve* \< *aśvā*
+- \[noun\], nominative, dual, feminine
+- “mare.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *viṣite* \< *viṣita*
+- \[noun\], nominative, dual, feminine
+------------------------------------------------------------------------
+- *hāsamāne* \< *hā*
+- \[verb noun\], nominative, dual
+- “move over; yield; give way.”
+------------------------------------------------------------------------
+- *gāveva* \< *gāvā* \< *go*
+- \[noun\], nominative, dual, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gāveva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śubhre* \< *śubhra*
+- \[noun\], nominative, dual, feminine
+- “white; beautiful; attractive; śubhra \[word\]; light.”
+------------------------------------------------------------------------
+- *mātarā* \< *mātṛ*
+- \[noun\], nominative, dual, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *rihāṇe* \< *rih*
+- \[verb noun\], nominative, dual
+- “lick.”
+------------------------------------------------------------------------
+- *vipāṭ* \< *vipāś*
+- \[noun\], nominative, singular, feminine
+- “Vipāś.”
+------------------------------------------------------------------------
+- *chutudrī* \< *śutudrī*
+- \[noun\], nominative, singular, feminine
+- “Sutlej/Śatadru.”
+------------------------------------------------------------------------
+- *payasā* \< *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *javete* \< *jū*
+- \[verb\], dual, Present indikative
+- “animate; encourage; impel; inspire.”
+------------------------------------------------------------------------

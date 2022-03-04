@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 1.124.10"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *bodhayoṣaḥ* \< *bodhaya* \< *bodhay* \< *√budh*
+- \[verb\], singular, Present imperative
+- “awaken; ignite; advise; admonish; communicate.”
+------------------------------------------------------------------------
+- *bodhayoṣaḥ* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *pṛṇato* \< *pṛṇataḥ* \< *pṛ*
+- \[verb noun\], accusative, plural
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+------------------------------------------------------------------------
+- *maghony* \< *maghoni* \< *maghavan*
+- \[noun\], vocative, singular, feminine
+- “big.”
+------------------------------------------------------------------------
+- *abudhyamānāḥ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *abudhyamānāḥ* \< *budhyamānāḥ* \< *budh*
+- \[verb noun\], nominative, plural
+- “understand; notice; wake up; observe; detect; attend to; awaken;
+    attend.”
+------------------------------------------------------------------------
+- *paṇayaḥ* \< *paṇi*
+- \[noun\], nominative, plural, masculine
+- “niggard; paṇ.”
+------------------------------------------------------------------------
+- *sasantu* \< *sas*
+- \[verb\], plural, Present imperative
+- “sleep.”
+------------------------------------------------------------------------
+- *revad* \< *revat*
+- \[noun\], accusative, singular, neuter
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *uccha* \< *vas*
+- \[verb\], singular, Present imperative
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *maghavadbhyo* \< *maghavadbhyaḥ* \< *maghavan*
+- \[noun\], dative, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *maghoni* \< *maghavan*
+- \[noun\], vocative, singular, feminine
+- “big.”
+------------------------------------------------------------------------
+- *revat*
+- \[noun\], accusative, singular, neuter
+- “abundant; rich; affluent; brilliant; brilliant.”
+------------------------------------------------------------------------
+- *stotre* \< *stotṛ*
+- \[noun\], dative, singular, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *sūnṛte* \< *sūnṛta*
+- \[noun\], vocative, singular, feminine
+- “big; friendly.”
+------------------------------------------------------------------------
+- *jārayantī* \< *jāray* \< *√jṛ*
+- \[verb noun\], nominative, singular
+- “jāray; digest.”
+------------------------------------------------------------------------

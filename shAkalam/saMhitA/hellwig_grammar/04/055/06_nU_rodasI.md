@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 4.55.6"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], vocative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *ahinā* \< *ahi*
+- \[noun\], instrumental, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *budhnyena* \< *budhnya*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *stuvīta* \< *stu*
+- \[verb\], singular, Present optative
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *devī*
+- \[noun\], vocative, dual, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *apyebhir* \< *apyebhiḥ* \< *apya*
+- \[noun\], instrumental, plural, masculine
+- “aquatic; aquatic.”
+------------------------------------------------------------------------
+- *iṣṭaiḥ* \< *iṣ*
+- \[verb noun\], instrumental, plural
+- “desire; recommend; approve; seek; call; search; try; prefer; love;
+    commend; assent; permit; choose.”
+------------------------------------------------------------------------
+- *samudraṃ* \< *samudram* \< *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *saṃcaraṇe* \< *saṃcaraṇa*
+- \[noun\], locative, singular, neuter
+- “movement; motion.”
+------------------------------------------------------------------------
+- *saniṣyavo* \< *saniṣyavaḥ* \< *saniṣyu*
+- \[noun\], nominative, plural, masculine
+- “eager; plundering.”
+------------------------------------------------------------------------
+- *gharmasvaraso* \< *gharma*
+- \[noun\], masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+------------------------------------------------------------------------
+- *gharmasvaraso* \< *svarasaḥ* \< *svaras*
+- \[noun\], accusative, plural, feminine
+- “sound.”
+------------------------------------------------------------------------
+- *nadyo* \< *nadyaḥ* \< *nadī*
+- \[noun\], accusative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *vran* \< *vṛ*
+- \[verb\], plural, Aorist inj. (proh.)
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------

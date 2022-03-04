@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 2.37.4"
+
++++
+-   *apāddhotrād* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apāddhotrād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *apāddhotrād* \< *hotrāt* \< *hotra*
+- \[noun\], ablative, singular, neuter
+- “yajña; sacrifice.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *potrād* \< *potrāt* \< *potra*
+- \[noun\], ablative, singular, neuter
+------------------------------------------------------------------------
+- *amattota* \< *amatta* \< *mad*
+- \[verb\], singular, Root aorist (Ind.)
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *amattota* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *neṣṭrād* \< *neṣṭrāt* \< *neṣṭra*
+- \[noun\], ablative, singular, neuter
+------------------------------------------------------------------------
+- *ajuṣata* \< *juṣ*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *prayo* \< *prayaḥ* \< *prayas*
+- \[noun\], accusative, singular, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *hitam* \< *dhā*
+- \[verb noun\], accusative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *turīyam* \< *turīya*
+- \[noun\], accusative, singular, neuter
+- “fourth.”
+------------------------------------------------------------------------
+- *pātram* \< *pātra*
+- \[noun\], accusative, singular, neuter
+- “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
+    bowl; basket.”
+------------------------------------------------------------------------
+- *amṛktam* \< *amṛkta*
+- \[noun\], accusative, singular, neuter
+- “new; undamaged; complete.”
+------------------------------------------------------------------------
+- *amartyaṃ* \< *amartyam* \< *amartya*
+- \[noun\], accusative, singular, neuter
+- “immortal.”
+------------------------------------------------------------------------
+- *draviṇodāḥ* \< *draviṇaḥ* \< *draviṇas*
+- \[noun\], neuter
+- “property.”
+------------------------------------------------------------------------
+- *draviṇodāḥ* \< *dāḥ* \< *dā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *pibatu* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *drāviṇodasaḥ* \< *drāviṇodasa*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

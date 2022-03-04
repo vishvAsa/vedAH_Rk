@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 3.43.2"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yāhi* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- \[noun\], accusative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *carṣaṇīr* \< *carṣaṇīḥ* \< *carṣaṇi*
+- \[noun\], accusative, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *āṃ* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *arya* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *āśiṣa* \< *āśiṣaḥ* \< *āśis*
+- \[noun\], accusative, plural, feminine
+- “benediction; prayer; blessing; āśis \[word\]; wish; request.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *haribhyām* \< *hari*
+- \[noun\], instrumental, dual, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *imā* \< *imāḥ* \< *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *mataya* \< *mati*
+- \[noun\], nominative, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *stomataṣṭā* \< *stoma*
+- \[noun\], masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *stomataṣṭā* \< *taṣṭāḥ* \< *takṣ*
+- \[verb noun\], nominative, plural
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *juṣāṇāḥ* \< *juṣ*
+- \[verb noun\], nominative, plural
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------

@@ -1,0 +1,117 @@
++++
+title = "Rig Veda 1.138.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *pūṣṇas* \< *pūṣṇaḥ* \< *pūṣan*
+- \[noun\], genitive, singular
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *tuvijātasya* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvijātasya* \< *jātasya* \< *jan*
+- \[verb noun\], genitive, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *śasyate* \< *śaṃs*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “recommend; tell; praise; approve; communicate; recite; commend;
+    bode; name; agree.”
+------------------------------------------------------------------------
+- *mahitvam* \< *mahi*
+- \[noun\]
+- “great; firm.”
+------------------------------------------------------------------------
+- *mahitvam* \< *tvam* \< *tva*
+- \[noun\], nominative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *tavaso* \< *tavasaḥ* \< *tavas*
+- \[noun\], genitive, singular, masculine
+- “strong; energetic.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tandate* \< *tand*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *stotram* \< *stotra*
+- \[noun\], nominative, singular, neuter
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tandate* \< *tand*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *arcāmi* \< *arc*
+- \[verb\], singular, Present indikative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *sumnayann* \< *sumnayan* \< *sumnay*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *antyūtim* \< *antyūti*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *mayobhuvam* \< *mayobhu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *viśvasya* \< *viśva*
+- \[noun\], genitive, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mana* \< *manaḥ* \< *manas*
+- \[noun\], accusative, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *āyuyuve* \< *āyu* \< *√yu*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *makho* \< *makhaḥ* \< *makha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *deva* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *āyuyuve* \< *āyu* \< *√yu*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *makhaḥ* \< *makha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

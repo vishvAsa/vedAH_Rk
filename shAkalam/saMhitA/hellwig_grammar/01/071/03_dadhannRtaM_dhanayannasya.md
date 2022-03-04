@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 1.71.3"
+
++++
+-   *dadhann* \< *dadhan* \< *dhā*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *dhanayann* \< *dhanayan* \< *dhanay* \< *√dhan*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dhītim* \< *dhīti*
+- \[noun\], accusative, singular, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+- *ād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *aryo* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *didhiṣvo* \< *didhiṣvaḥ* \< *didhiṣū*
+- \[noun\], nominative, plural, feminine
+- “didhiṣū \[word\].”
+------------------------------------------------------------------------
+- *vibhṛtrāḥ* \< *vibhṛtra*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *atṛṣyantīr* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *atṛṣyantīr* \< *tṛṣyantīḥ* \< *tṛṣ*
+- \[verb noun\], nominative, plural
+- “thirst.”
+------------------------------------------------------------------------
+- *apaso* \< *apasaḥ* \< *apas*
+- \[noun\], nominative, plural, feminine
+- “busy; effective; hardworking.”
+------------------------------------------------------------------------
+- *yanty* \< *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *devāñ* \< *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *janma* \< *janman*
+- \[noun\], accusative, singular, neuter
+- “birth; reincarnation; lineage; origin; race; metempsychosis;
+    parentage; descent; appearance; age; birthplace; beginning; being.”
+------------------------------------------------------------------------
+- *prayasā* \< *prayas*
+- \[noun\], instrumental, singular, neuter
+- “food; dainty; enjoyment.”
+------------------------------------------------------------------------
+- *vardhayantīḥ* \< *vardhay* \< *√vṛdh*
+- \[verb noun\], nominative, plural
+- “increase; strengthen; promote; rear; add; greet; laud.”
+------------------------------------------------------------------------

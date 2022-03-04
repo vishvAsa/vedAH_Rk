@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 4.23.7"
+
++++
+-   *druhaṃ* \< *druham* \< *druh*
+- \[noun\], accusative, singular, feminine
+- “deception; druh; misrepresentation; fraudulence; offense; injury.”
+------------------------------------------------------------------------
+- *jighāṃsan* \< *jighāṃs* \< *√han*
+- \[verb noun\], nominative, singular
+- “kill.”
+------------------------------------------------------------------------
+- *dhvarasam* \< *dhvaras*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *anindrāṃ* \< *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anindrāṃ* \< *indrām* \< *indra*
+- \[noun\], accusative, singular, feminine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tetikte* \< *tetij* \< *√tij*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *tigmā* \< *tigma*
+- \[noun\], accusative, plural, neuter
+- “sharp; pointed; fiery.”
+------------------------------------------------------------------------
+- *tujase* \< *tuj*
+- \[verb noun\]
+- “draw.”
+------------------------------------------------------------------------
+- *anīkā* \< *anīka*
+- \[noun\], accusative, plural, neuter
+- “army; face; battalion; battlefront; point; appearance.”
+------------------------------------------------------------------------
+- *ṛṇā* \< *ṛṇa*
+- \[noun\], accusative, plural, neuter
+- “debt; debt; ṛṇa \[word\].”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ugro* \< *ugraḥ* \< *ugra*
+- \[noun\], nominative, singular, masculine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *dūre* \< *dūra*
+- \[noun\], locative, singular, neuter
+- “distance; distance; farness.”
+------------------------------------------------------------------------
+- *ajñātā* \< *ajñātāḥ* \< *ajñāta*
+- \[noun\], accusative, plural, feminine
+- “unknown; unexpected.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], accusative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *babādhe* \< *bādh*
+- \[verb\], singular, Perfect indicative
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+------------------------------------------------------------------------

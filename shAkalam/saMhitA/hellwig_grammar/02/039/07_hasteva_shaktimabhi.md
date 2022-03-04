@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 2.39.7"
+
++++
+-   *hasteva* \< *hastā* \< *hasta*
+- \[noun\], nominative, dual, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *hasteva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śaktim* \< *śakti*
+- \[noun\], accusative, singular, feminine
+- “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
+    potency; capability; reproduction.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *saṃdadī* \< *saṃdadi*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *kṣāmeva* \< *kṣāmā* \< *kṣam*
+- \[noun\], nominative, dual, feminine
+- “Earth; heaven and earth.”
+------------------------------------------------------------------------
+- *kṣāmeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *ajataṃ* \< *ajatam* \< *aj*
+- \[verb\], dual, Present imperative
+- “drive; expel.”
+------------------------------------------------------------------------
+- *rajāṃsi* \< *rajas*
+- \[noun\], accusative, plural, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *imā* \< *imāḥ* \< *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *giro* \< *giraḥ* \< *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yuṣmayantīḥ* \< *yuṣmayat*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *kṣṇotreṇeva* \< *kṣṇotreṇa* \< *kṣṇotra*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *kṣṇotreṇeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *svadhitiṃ* \< *svadhitim* \< *svadhiti*
+- \[noun\], accusative, singular, feminine
+- “ax; knife.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *śiśītam* \< *śā*
+- \[verb\], dual, Present imperative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------

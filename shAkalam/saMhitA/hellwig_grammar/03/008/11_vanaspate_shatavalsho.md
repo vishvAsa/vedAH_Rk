@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 3.8.11"
+
++++
+-   *vanaspate* \< *vanaspati*
+- \[noun\], vocative, singular, masculine
+- “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
+------------------------------------------------------------------------
+- *śatavalśo* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatavalśo* \< *valśaḥ* \< *valśa*
+- \[noun\], nominative, singular, masculine
+- “branch.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *roha* \< *ruh*
+- \[verb\], singular, Present imperative
+- “heal; grow; cicatrize; climb; board; ascend; grow.”
+------------------------------------------------------------------------
+- *sahasravalśā* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasravalśā* \< *valśāḥ* \< *valśa*
+- \[noun\], nominative, plural, masculine
+- “branch.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ruhema* \< *ruh*
+- \[verb\], plural, Present optative
+- “heal; grow; cicatrize; climb; board; ascend; grow.”
+------------------------------------------------------------------------
+- *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *svadhitis* \< *svadhitiḥ* \< *svadhiti*
+- \[noun\], nominative, singular, masculine
+- “ax; knife.”
+------------------------------------------------------------------------
+- *tejamānaḥ* \< *tij*
+- \[verb noun\], nominative, singular
+- “sharpen.”
+------------------------------------------------------------------------
+- *praṇināya* \< *praṇī* \< *√nī*
+- \[verb\], singular, Perfect indicative
+- “enforce; lead; produce.”
+------------------------------------------------------------------------
+- *mahate* \< *mahat*
+- \[noun\], dative, singular, neuter
+- “large; eminent; great; loud; dangerous; strong; long; high;
+    much(a); mahant \[word\]; ample; very; great; adult; important;
+    dark; high; abundant; violent; remarkable; mighty; big; long.”
+------------------------------------------------------------------------
+- *saubhagāya* \< *saubhaga*
+- \[noun\], dative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------

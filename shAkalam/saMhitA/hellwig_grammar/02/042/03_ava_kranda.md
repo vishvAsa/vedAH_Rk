@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 2.42.3"
+
++++
+-   *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *kranda* \< *krand*
+- \[verb\], singular, Present imperative
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *dakṣiṇato* \< *dakṣiṇatas*
+- \[adverb\]
+- “right; southward.”
+------------------------------------------------------------------------
+- *gṛhāṇāṃ* \< *gṛhāṇām* \< *gṛha*
+- \[noun\], genitive, plural, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *sumaṅgalo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sumaṅgalo* \< *maṅgalaḥ* \< *maṅgala*
+- \[noun\], nominative, singular, masculine
+- “auspicious.”
+------------------------------------------------------------------------
+- *bhadravādī* \< *bhadra*
+- \[noun\]
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *bhadravādī* \< *vādī* \< *vādin*
+- \[noun\], nominative, singular, masculine
+- “speaking; discussing; chatty; crying.”
+------------------------------------------------------------------------
+- *śakunte* \< *śakunti*
+- \[noun\], vocative, singular, masculine
+- “bird.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *na* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stena* \< *stenaḥ* \< *stena*
+- \[noun\], nominative, singular, masculine
+- “thief; stena \[word\].”
+------------------------------------------------------------------------
+- *īśata* \< *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *māghaśaṃso* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māghaśaṃso* \< *agha*
+- \[noun\]
+- “bad; dangerous; ill; iniquitous; bad.”
+------------------------------------------------------------------------
+- *māghaśaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *bṛhad* \< *bṛhat* \< *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *vadema* \< *vad*
+- \[verb\], plural, Present optative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------

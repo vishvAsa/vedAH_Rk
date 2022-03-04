@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.29.1"
+
++++
+-   *yacciddhi* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacciddhi* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yacciddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *satya*
+- \[noun\], vocative, singular, masculine
+- “true; real; real; faithful; good.”
+------------------------------------------------------------------------
+- *somapā* \< *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somapā* \< *pāḥ* \< *pā*
+- \[noun\], vocative, singular, masculine
+- “drinking.”
+------------------------------------------------------------------------
+- *anāśastā* \< *an*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *anāśastā* \< *āśastāḥ* \< *āśaṃs* \< *√śaṃs*
+- \[verb noun\], nominative, plural
+- “desire; hope; hope.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *smasi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tū* \< *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śaṃsaya* \< *śaṃsay* \< *√śaṃs*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------
+- *goṣv* \< *goṣu* \< *go*
+- \[noun\], locative, plural
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *aśveṣu* \< *aśva*
+- \[noun\], locative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *śubhriṣu* \< *śubhri*
+- \[noun\], locative, plural, masculine
+- “beautiful.”
+------------------------------------------------------------------------
+- *sahasreṣu* \< *sahasra*
+- \[noun\], locative, plural, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *tuvīmagha*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------

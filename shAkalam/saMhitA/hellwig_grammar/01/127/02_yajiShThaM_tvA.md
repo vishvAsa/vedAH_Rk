@@ -1,0 +1,100 @@
++++
+title = "Rig Veda 1.127.2"
+
++++
+-   *yajiṣṭhaṃ* \< *yajiṣṭham* \< *yajiṣṭha*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *yajamānā* \< *yajamānāḥ* \< *yaj*
+- \[verb noun\], nominative, plural
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *huvema* \< *hu*
+- \[verb\], plural, Aorist optative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *jyeṣṭham* \< *jyeṣṭha*
+- \[noun\], accusative, singular, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+------------------------------------------------------------------------
+- *aṅgirasāṃ* \< *aṅgirasām* \< *aṅgiras*
+- \[noun\], genitive, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+------------------------------------------------------------------------
+- *vipra*
+- \[noun\], vocative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *manmabhir* \< *manmabhiḥ* \< *manman*
+- \[noun\], instrumental, plural, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *viprebhiḥ* \< *vipra*
+- \[noun\], instrumental, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *śukra*
+- \[noun\], vocative, singular, masculine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *manmabhiḥ* \< *manman*
+- \[noun\], instrumental, plural, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *parijmānam* \< *parijman*
+- \[noun\], accusative, singular, masculine
+- “encompassing(a).”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dyāṃ* \< *dyām* \< *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- \[noun\], accusative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *carṣaṇīnām* \< *carṣaṇi*
+- \[noun\], genitive, plural, feminine
+- “people.”
+------------------------------------------------------------------------
+- *śociṣkeśaṃ* \< *śociṣkeśam* \< *śociṣkeśa*
+- \[noun\], accusative, singular, masculine
+- “Agni.”
+------------------------------------------------------------------------
+- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- \[noun\], accusative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *imā* \< *imāḥ* \< *idam*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *viśaḥ* \< *viś*
+- \[noun\], nominative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *prāvantu* \< *prāv* \< *√av*
+- \[verb\], plural, Present imperative
+- “help; promote.”
+------------------------------------------------------------------------
+- *jūtaye* \< *jūti*
+- \[noun\], dative, singular, feminine
+- “jūti \[word\].”
+------------------------------------------------------------------------
+- *viśaḥ* \< *viśas* \< *viś*
+- \[verb noun\], vocative, singular
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------

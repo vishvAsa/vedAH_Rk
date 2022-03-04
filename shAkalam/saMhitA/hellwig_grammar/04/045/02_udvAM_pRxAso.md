@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.45.2"
+
++++
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *pṛkṣāso* \< *pṛkṣāsaḥ* \< *pṛkṣa*
+- \[noun\], nominative, plural, masculine
+- “strong; full of life.”
+------------------------------------------------------------------------
+- *madhumanta* \< *madhumantaḥ* \< *madhumat*
+- \[noun\], nominative, plural, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *īrate* \< *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *rathā* \< *rathāḥ* \< *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *aśvāsa* \< *aśvāsaḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *vyuṣṭiṣu* \< *vyuṣṭi*
+- \[noun\], locative, plural, feminine
+- “dawn; happiness; consequence.”
+------------------------------------------------------------------------
+- *aporṇuvantas* \< *aporṇuvantaḥ* \< *apavṛ* \< *√vṛ*
+- \[verb noun\], nominative, plural
+- “open.”
+------------------------------------------------------------------------
+- *tama* \< *tamaḥ* \< *tamas*
+- \[noun\], accusative, singular, neuter
+- “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
+    ignorance.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *parīvṛtaṃ* \< *parīvṛtam* \< *parīvṛ* \< *√vṛ*
+- \[verb noun\], accusative, singular
+- “enclose.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *ṇa* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śukraṃ* \< *śukram* \< *śukra*
+- \[noun\], nominative, singular, neuter
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *tanvanta* \< *tanvantaḥ* \< *tan*
+- \[verb noun\], nominative, plural
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------

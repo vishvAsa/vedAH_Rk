@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 4.17.16"
+
++++
+-   *gavyanta* \< *gavyantaḥ* \< *gavyat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sakhyāya* \< *sakhya*
+- \[noun\], dative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *viprā* \< *viprāḥ* \< *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *aśvāyanto* \< *aśvāyantaḥ* \< *aśvāyat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- \[noun\], accusative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vājayantaḥ* \< *vājay* \< *√vaj*
+- \[verb noun\], nominative, plural
+- “incite.”
+------------------------------------------------------------------------
+- *janīyanto* \< *janīyantaḥ* \< *janīy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *janidām* \< *jani*
+- \[noun\], feminine
+- “wife; jan; woman; jani \[word\]; birth.”
+------------------------------------------------------------------------
+- *janidām* \< *dām* \< *dā*
+- \[noun\], accusative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *akṣitotim* \< *akṣitoti*
+- \[noun\], accusative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *cyāvayāmo* \< *cyāvayāmaḥ* \< *cyāvay* \< *√cyu*
+- \[verb\], plural, Present indikative
+- “chase away; remove; move.”
+------------------------------------------------------------------------
+- *'vate* \< *avate* \< *avata*
+- \[noun\], locative, singular, masculine
+- “well.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kośam* \< *kośa*
+- \[noun\], accusative, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------

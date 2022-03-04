@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.155.4"
+
++++
+-   *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tad* \< *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pauṃsyaṃ* \< *pauṃsyam* \< *pauṃsya*
+- \[noun\], accusative, singular, neuter
+- “manfulness; deed; army; strength.”
+------------------------------------------------------------------------
+- *gṛṇīmasīnasya* \< *gṛṇīmasi* \< *gṛ*
+- \[verb\], plural, Present optative
+- “praise.”
+------------------------------------------------------------------------
+- *gṛṇīmasīnasya* \< *inasya* \< *ina*
+- \[noun\], genitive, singular, masculine
+- “mighty; powerful.”
+------------------------------------------------------------------------
+- *trātur* \< *trātuḥ* \< *trātṛ*
+- \[noun\], genitive, singular, masculine
+- “defender; savior.”
+------------------------------------------------------------------------
+- *avṛkasya* \< *avṛka*
+- \[noun\], genitive, singular, masculine
+- “protective; safe.”
+------------------------------------------------------------------------
+- *mīﾱhuṣaḥ* \< *mīḍhuṣaḥ* \< *mīḍhvas*
+- \[noun\], genitive, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pārthivāni* \< *pārthiva*
+- \[noun\], accusative, plural, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *tribhir* \< *tribhiḥ* \< *tri*
+- \[noun\], instrumental, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *vigāmabhir* \< *vigāmabhiḥ* \< *vigāman*
+- \[noun\], instrumental, plural, neuter
+------------------------------------------------------------------------
+- *uru*
+- \[noun\], accusative, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *kramiṣṭorugāyāya* \< *kramiṣṭa* \< *kram*
+- \[verb\], singular, Aorist inj. (proh.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *kramiṣṭorugāyāya* \< *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *kramiṣṭorugāyāya* \< *gāyāya* \< *gāya*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *jīvase* \< *jīv*
+- \[verb noun\]
+- “survive; be; exist; live on; dwell.”
+------------------------------------------------------------------------

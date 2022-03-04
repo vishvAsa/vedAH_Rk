@@ -1,0 +1,106 @@
++++
+title = "Rig Veda 1.183.4"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *vṛko* \< *vṛkaḥ* \< *vṛka*
+- \[noun\], nominative, singular, masculine
+- “wolf; Vṛka; vṛka \[word\]; Vṛka.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *vṛkīr* \< *vṛkīḥ* \< *vṛkī*
+- \[noun\], nominative, singular, feminine
+- “wolf.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dadharṣīn* \< *dadharṣīt* \< *dhṛṣ*
+- \[verb\], singular, Perfect injunctive
+- “dare; attack.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *varktam* \< *vṛj*
+- \[verb\], dual, Aorist imperative
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *māti* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *dhaktam* \< *dagh*
+- \[verb\], dual, Aorist imperative
+------------------------------------------------------------------------
+- *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *bhāgo* \< *bhāgaḥ* \< *bhāga*
+- \[noun\], nominative, singular, masculine
+- “part; part; part; parcel; quarter; body part; location; region;
+    allotment; part; numerator; division; application; function;
+    outside; bhāga \[word\]; volume; helping.”
+------------------------------------------------------------------------
+- *nihita* \< *nihitaḥ* \< *nidhā* \< *√dhā*
+- \[verb noun\], nominative, singular
+- “put; fill into; stow; insert; ignite; insert; add; put on;
+    establish; keep down.”
+------------------------------------------------------------------------
+- *iyaṃ* \< *iyam* \< *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *gīr* \< *gīḥ* \< *gir*
+- \[noun\], nominative, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *dasrāv* \< *dasrau* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *nidhayo* \< *nidhayaḥ* \< *nidhi*
+- \[noun\], nominative, plural, masculine
+- “hoard; receptacle; treasure; ocean; instrument.”
+------------------------------------------------------------------------
+- *madhūnām* \< *madhu*
+- \[noun\], genitive, plural, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------

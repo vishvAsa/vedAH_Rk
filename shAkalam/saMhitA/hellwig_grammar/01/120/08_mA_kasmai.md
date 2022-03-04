@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 1.120.8"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *kasmai* \< *ka*
+- \[noun\], dative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *dhātam* \< *dhā*
+- \[verb\], dual, Aorist imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *amitriṇe* \< *amitrin*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *no* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *no* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *mākutrā* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mākutrā* \< *akutrā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *gṛhebhyo* \< *gṛhebhyaḥ* \< *gṛha*
+- \[noun\], ablative, plural, neuter
+- “house; palace; temple; home; place; family; family; stable.”
+------------------------------------------------------------------------
+- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- \[noun\], nominative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *guḥ* \< *gā*
+- \[verb\], plural, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *stanābhujo* \< *stanābhujaḥ* \< *stanābhuj*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *aśiśvīḥ* \< *aśiśu*
+- \[noun\], nominative, plural, feminine
+- “aśiśu \[word\]; childless.”
+------------------------------------------------------------------------

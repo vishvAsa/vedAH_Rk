@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 1.111.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *takṣata* \< *takṣ*
+- \[verb\], plural, Present injunctive
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *sātim* \< *sāti*
+- \[noun\], accusative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ṛbhavaḥ* \< *ṛbhu*
+- \[noun\], vocative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *sātiṃ* \< *sātim* \< *sāti*
+- \[noun\], accusative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *rathāya* \< *ratha*
+- \[noun\], dative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *sātim* \< *sāti*
+- \[noun\], accusative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *arvate* \< *arvant*
+- \[noun\], dative, singular, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], vocative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *sātiṃ* \< *sātim* \< *sāti*
+- \[noun\], accusative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *jaitrīṃ* \< *jaitrīm* \< *jaitra*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *maheta* \< *mah*
+- \[verb\], plural, Present optative
+- “give; accord.”
+------------------------------------------------------------------------
+- *viśvahā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *jāmim* \< *jāmi*
+- \[noun\], accusative, singular, masculine
+- “related; ancestral; customary; usual.”
+------------------------------------------------------------------------
+- *ajāmim* \< *ajāmi*
+- \[noun\], accusative, singular, masculine
+- “unrelated; foreign-born.”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *sakṣaṇim* \< *sakṣaṇi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------

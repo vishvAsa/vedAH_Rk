@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 1.91.21"
+
++++
+-   *aṣāḍhaṃ* \< *aṣāḍham* \< *aṣāḍha*
+- \[noun\], accusative, singular, masculine
+- “invincible.”
+------------------------------------------------------------------------
+- *yutsu* \< *yudh*
+- \[noun\], locative, plural
+- “battle; fight; war; combat.”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *papriṃ* \< *paprim* \< *papri*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *svarṣām* \< *svarṣā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *apsāṃ* \< *ap*
+- \[noun\]
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *apsāṃ* \< *sām* \< *sā*
+- \[noun\], accusative, singular, masculine
+- “winning.”
+------------------------------------------------------------------------
+- *vṛjanasya* \< *vṛjana*
+- \[noun\], genitive, singular, neuter
+- “community; settlement.”
+------------------------------------------------------------------------
+- *gopām* \< *gopā*
+- \[noun\], accusative, singular, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *bhareṣujāṃ* \< *bhareṣujām* \< *bhareṣujā*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *sukṣitiṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- \[noun\], accusative, singular, masculine
+- “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
+    estate; colony; house.”
+------------------------------------------------------------------------
+- *suśravasaṃ* \< *suśravasam* \< *suśravas*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *jayantaṃ* \< *jayantam* \< *ji*
+- \[verb noun\], accusative, singular
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *madema* \< *mad*
+- \[verb\], plural, Present optative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------

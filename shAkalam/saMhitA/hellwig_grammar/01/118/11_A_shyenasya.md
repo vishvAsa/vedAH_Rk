@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 1.118.11"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śyenasya* \< *śyena*
+- \[noun\], genitive, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *javasā* \< *javas*
+- \[noun\], instrumental, singular, neuter
+- “speed.”
+------------------------------------------------------------------------
+- *nūtanenāsme* \< *nūtanena* \< *nūtana*
+- \[noun\], instrumental, singular, neuter
+- “new; fresh; recent; contemporary; present(a); first.”
+------------------------------------------------------------------------
+- *nūtanenāsme* \< *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yātaṃ* \< *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *have* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], accusative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *rātahavyaḥ* \< *rāta* \< *rā*
+- \[verb noun\]
+- “give; impart.”
+------------------------------------------------------------------------
+- *rātahavyaḥ* \< *havyaḥ* \< *havya*
+- \[noun\], nominative, singular, masculine
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *śaśvattamāyā* \< *śaśvattamāyāḥ* \< *śaśvattama*
+- \[noun\], genitive, singular, feminine
+- “frequent.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *vyuṣṭau* \< *vyuṣṭi*
+- \[noun\], locative, singular, feminine
+- “dawn; happiness; consequence.”
+------------------------------------------------------------------------

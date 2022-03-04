@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 1.85.8"
+
++++
+-   *śūrā* \< *śūrāḥ* \< *śūra*
+- \[noun\], nominative, plural, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *ived* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ived* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *yuyudhayo* \< *yuyudhayaḥ* \< *yuyudhi*
+- \[noun\], nominative, plural, masculine
+- “unpacific.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jagmayaḥ* \< *jagmi*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- \[noun\], nominative, plural, masculine
+- “celebrated.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *yetire* \< *yat*
+- \[verb\], plural, Perfect indicative
+- “strive; endeavor; join; equal; rival.”
+------------------------------------------------------------------------
+- *bhayante* \< *bhī*
+- \[verb\], plural, Present indikative
+- “fear; fear.”
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], nominative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *bhuvanā* \< *bhuvana*
+- \[noun\], nominative, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *marudbhyo* \< *marudbhyaḥ* \< *marut*
+- \[noun\], ablative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *rājāna* \< *rājānaḥ* \< *rājan*
+- \[noun\], nominative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *tveṣasaṃdṛśo* \< *tveṣa*
+- \[noun\]
+- “awful; brilliant; aglitter(p); bright.”
+------------------------------------------------------------------------
+- *tveṣasaṃdṛśo* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- \[noun\], nominative, plural, masculine
+- “appearance; view; view.”
+------------------------------------------------------------------------
+- *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------

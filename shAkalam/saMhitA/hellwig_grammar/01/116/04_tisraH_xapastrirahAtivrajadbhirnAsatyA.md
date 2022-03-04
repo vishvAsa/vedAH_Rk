@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 1.116.4"
+
++++
+-   *tisraḥ* \< *tri*
+- \[noun\], accusative, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *kṣapas* \< *kṣapaḥ* \< *kṣap*
+- \[noun\], accusative, plural, feminine
+- “night.”
+------------------------------------------------------------------------
+- *trir* \< *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *ahātivrajadbhir* \< *ahā* \< *aha*
+- \[noun\], accusative, plural, neuter
+- “day; aha \[word\]; day.”
+------------------------------------------------------------------------
+- *ahātivrajadbhir* \< *ativrajadbhiḥ* \< *ativraj* \< *√vraj*
+- \[verb noun\], instrumental, plural
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- \[noun\], nominative, plural, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *bhujyum* \< *bhujyu*
+- \[noun\], accusative, singular, masculine
+- “Bhujyu.”
+------------------------------------------------------------------------
+- *ūhathuḥ* \< *vah*
+- \[verb\], dual, Perfect indicative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *pataṅgaiḥ* \< *pataṃga*
+- \[noun\], instrumental, plural, masculine
+- “insect; sun; bird; Caesalpinia sappan L.; Pataṃga; Vishnu.”
+------------------------------------------------------------------------
+- *samudrasya* \< *samudra*
+- \[noun\], genitive, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *dhanvann* \< *dhanvan*
+- \[noun\], locative, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *ārdrasya* \< *ārdra*
+- \[noun\], genitive, singular, masculine
+- “wet; damp; fresh; green; affectionate; green; new.”
+------------------------------------------------------------------------
+- *pāre* \< *pāra*
+- \[noun\], locative, singular, neuter
+- “shore; pāra \[word\]; end; excellence.”
+------------------------------------------------------------------------
+- *tribhī* \< *tribhiḥ* \< *tri*
+- \[noun\], instrumental, plural, masculine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *rathaiḥ* \< *ratha*
+- \[noun\], instrumental, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *śatapadbhiḥ* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatapadbhiḥ* \< *padbhiḥ* \< *pad*
+- \[noun\], instrumental, plural, masculine
+- “foot; pad \[word\].”
+------------------------------------------------------------------------
+- *ṣaﾱaśvaiḥ* \< *ṣaṣ*
+- \[noun\]
+- “six; ṣaṣ; sixth; ṣaṣ \[word\].”
+------------------------------------------------------------------------
+- *ṣaﾱaśvaiḥ* \< *aśvaiḥ* \< *aśva*
+- \[noun\], instrumental, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------

@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 1.47.4"
+
++++
+-   *triṣadhasthe* \< *triṣadhastha*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *barhiṣi* \< *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *viśvavedasā* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavedasā* \< *vedasā* \< *vedas*
+- \[noun\], vocative, dual, masculine
+- “knowledge.”
+------------------------------------------------------------------------
+- *madhvā* \< *madhu*
+- \[noun\], instrumental, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *mimikṣatam* \< *mikṣ*
+- \[verb\], dual, Perfect imperative
+- “season.”
+------------------------------------------------------------------------
+- *kaṇvāso* \< *kaṇvāsaḥ* \< *kaṇva*
+- \[noun\], nominative, plural, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *sutasomā* \< *suta* \< *su*
+- \[verb noun\]
+- “press out; su.”
+------------------------------------------------------------------------
+- *sutasomā* \< *somāḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *abhidyavo* \< *abhidyavaḥ* \< *abhidyu*
+- \[noun\], nominative, plural, masculine
+- “celestial; brilliant.”
+------------------------------------------------------------------------
+- *yuvāṃ* \< *yuvām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------

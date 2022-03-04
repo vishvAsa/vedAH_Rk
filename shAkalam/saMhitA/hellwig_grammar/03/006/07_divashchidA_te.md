@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 3.6.7"
+
++++
+-   *divaś* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rucayanta* \< *rucay* \< *√ruc*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *rokā* \< *rokāḥ* \< *roka*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *uṣo* \< *uṣaḥ* \< *uṣas*
+- \[noun\], accusative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *vibhātīr* \< *vibhātīḥ* \< *vibhā* \< *√bhā*
+- \[verb noun\], accusative, plural
+- “shine.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *bhāsi* \< *bhā*
+- \[verb\], singular, Present indikative
+- “look; shine; show; look like; glitter; reflect.”
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], accusative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *apo* \< *apaḥ* \< *apas*
+- \[noun\], accusative, singular, neuter
+- “work; deed.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *agna* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *uśadhag* \< *uśadhak*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vaneṣu* \< *vana*
+- \[noun\], locative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *hotur* \< *hotuḥ* \< *hotṛ*
+- \[noun\], genitive, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *mandrasya* \< *mandra*
+- \[noun\], genitive, singular, masculine
+- “pleasant; eloquent; dulcet.”
+------------------------------------------------------------------------
+- *panayanta* \< *panay* \< *√pan*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------

@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 3.7.9"
+
++++
+-   *vṛṣāyante* \< *vṛṣāy*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *atyāya* \< *atya*
+- \[noun\], dative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *vṛṣṇe* \< *vṛṣan*
+- \[noun\], dative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *citrāya* \< *citra*
+- \[noun\], dative, singular, masculine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *raśmayaḥ* \< *raśmi*
+- \[noun\], nominative, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+------------------------------------------------------------------------
+- *suyāmāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyāmāḥ* \< *yāmāḥ* \< *yāma*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “divine.”
+------------------------------------------------------------------------
+- *hotar* \< *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *mandrataraś* \< *mandrataraḥ* \< *mandratara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *cikitvān* \< *cit*
+- \[verb noun\], nominative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], accusative, plural, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *eha* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *eha* \< *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *vakṣi* \< *vah*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------

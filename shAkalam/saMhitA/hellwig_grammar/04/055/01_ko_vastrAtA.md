@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 4.55.1"
+
++++
+-   *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vas* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *trātā* \< *trā*
+- \[verb\], singular, periphrast. future
+- “protect; help.”
+------------------------------------------------------------------------
+- *vasavaḥ* \< *vasu*
+- \[noun\], vocative, plural, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *varūtā* \< *varūtṛ*
+- \[noun\], nominative, singular, masculine
+- “varūtṛ \[word\].”
+------------------------------------------------------------------------
+- *dyāvābhūmī*
+- \[noun\], vocative, dual, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *adite* \< *aditi*
+- \[noun\], vocative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *trāsīthāṃ* \< *trāsīthām* \< *trā*
+- \[verb\], dual, Aorist optative
+- “protect; help.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sahīyaso* \< *sahīyasaḥ* \< *sahīyas*
+- \[noun\], ablative, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *mitra*
+- \[noun\], vocative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *martāt* \< *marta*
+- \[noun\], ablative, singular, masculine
+- “man.”
+------------------------------------------------------------------------
+- *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *'dhvare* \< *adhvare* \< *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *varivo* \< *varivaḥ* \< *varivas*
+- \[noun\], accusative, singular, neuter
+- “room; varivas \[word\]; space; escape.”
+------------------------------------------------------------------------
+- *dhāti* \< *dhā*
+- \[verb\], singular, Aorist conj./subj.
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------

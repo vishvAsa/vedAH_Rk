@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 3.56.5"
+
++++
+-   *trī* \< *tri*
+- \[noun\], nominative, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *ṣadhasthā* \< *sadhastha*
+- \[noun\], nominative, plural, neuter
+- “dwelling; location; home.”
+------------------------------------------------------------------------
+- *sindhavas* \< *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *triḥ* \< *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *kavīnām* \< *kavi*
+- \[noun\], genitive, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *trimātā* \< *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *trimātā* \< *mātā* \< *mātṛ*
+- \[noun\], nominative, singular, masculine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *vidatheṣu* \< *vidatha*
+- \[noun\], locative, plural, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *samrāṭ* \< *samrāj*
+- \[noun\], nominative, singular, masculine
+- “sovereign; ruler.”
+------------------------------------------------------------------------
+- *ṛtāvarīr* \< *ṛtāvarīḥ* \< *ṛtāvan*
+- \[noun\], nominative, plural, feminine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *yoṣaṇās* \< *yoṣaṇāḥ* \< *yoṣaṇā*
+- \[noun\], nominative, plural, feminine
+- “girl; wife.”
+------------------------------------------------------------------------
+- *tisro* \< *tisraḥ* \< *tri*
+- \[noun\], nominative, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *apyās* \< *apyāḥ* \< *apya*
+- \[noun\], nominative, plural, feminine
+- “aquatic; aquatic.”
+------------------------------------------------------------------------
+- *trir* \< *tris*
+- \[adverb\]
+- “thrice; tris \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *patyamānāḥ* \< *paty*
+- \[verb noun\], nominative, plural
+- “own; have; master.”
+------------------------------------------------------------------------

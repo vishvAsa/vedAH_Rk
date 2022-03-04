@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.58.1"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *sahojā* \< *sahaḥ* \< *sahas*
+- \[noun\], neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sahojā* \< *jāḥ* \< *jā*
+- \[noun\], nominative, singular, masculine
+- “born.”
+------------------------------------------------------------------------
+- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- \[noun\], nominative, singular, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *tundate* \< *tud*
+- \[verb\], singular, Present indikative
+- “push; ache.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *dūto* \< *dūtaḥ* \< *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *abhavad* \< *abhavat* \< *bhū*
+- \[verb\], singular, Imperfect
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *vivasvataḥ* \< *vivasvant*
+- \[noun\], genitive, singular, masculine
+- “Surya; sun; Vivasvant; Vivasvant.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *sādhiṣṭhebhiḥ* \< *sādhiṣṭha*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *pathibhī* \< *pathibhiḥ* \< *pathin*
+- \[noun\], instrumental, plural, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *rajo* \< *rajaḥ* \< *rajas*
+- \[noun\], accusative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *mama* \< *mame* \< *mā*
+- \[verb\], singular, Perfect indicative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *devatātā* \< *devatāti*
+- \[noun\], locative, singular, feminine
+- “deity; Deva.”
+------------------------------------------------------------------------
+- *haviṣā* \< *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *vivāsati* \< *vivās* \< *√van*
+- \[verb\], singular, Present indikative
+- “invite; endeavor; try for.”
+------------------------------------------------------------------------
