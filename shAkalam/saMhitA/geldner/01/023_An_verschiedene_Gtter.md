@@ -34,5 +34,4 @@ title = "023 An verschiedene Götter"
 
 
 
-3.        Gruppe Lieder des Sunahsepa, des Sohnes des Ajigarta
 
