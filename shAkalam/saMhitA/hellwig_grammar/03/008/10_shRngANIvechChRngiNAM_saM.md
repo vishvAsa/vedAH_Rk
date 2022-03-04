@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 3.8.10"
+
++++
+-   *śṛṅgāṇīvecchṛṅgiṇāṃ* \< *śṛṅgāṇi* \< *śṛṅga*
+- \[noun\], nominative, plural, neuter
+- “peak; horn; tusk; śṛṅga \[word\].”
+------------------------------------------------------------------------
+- *śṛṅgāṇīvecchṛṅgiṇāṃ* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śṛṅgāṇīvecchṛṅgiṇāṃ* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *śṛṅgāṇīvecchṛṅgiṇāṃ* \< *śṛṅgiṇām* \< *śṛṅgin*
+- \[noun\], genitive, plural, masculine
+- “horned; peaked.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *dadṛśre* \< *dṛś*
+- \[verb\], plural, Perfect indicative
+- “see; observe; view; visit; look; learn; meet; read; teach; examine;
+    watch; see; notice; perceive; diagnose; travel to; show; detect;
+    know; know; understand; understand; follow.”
+------------------------------------------------------------------------
+- *caṣālavantaḥ* \< *caṣālavat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *svaravaḥ* \< *svaru*
+- \[noun\], nominative, plural, masculine
+- “post.”
+------------------------------------------------------------------------
+- *pṛthivyām* \< *pṛthivī*
+- \[noun\], locative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *vāghadbhir* \< *vāghadbhiḥ* \< *vāghant*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *vihave* \< *vihava*
+- \[noun\], locative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *śroṣamāṇā* \< *śroṣamāṇāḥ* \< *śruṣ*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *asmāṃ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *avantu* \< *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *pṛtanājyeṣu* \< *pṛtanājya*
+- \[noun\], locative, plural, neuter
+- “fight; combat.”
+------------------------------------------------------------------------

@@ -1,0 +1,102 @@
++++
+title = "Rig Veda 5.2.11"
+
++++
+-   *etaṃ* \< *etam* \< *etad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *stomaṃ* \< *stomam* \< *stoma*
+- \[noun\], accusative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *tuvijāta* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvijāta* \< *jāta* \< *jan*
+- \[verb noun\], vocative, singular
+- “become; originate; be born; transform; happen; result; grow; beget;
+    produce; create; conceive; separate; cause; give birth; grow;
+    produce; generate; be; become; arise; come on.”
+------------------------------------------------------------------------
+- *vipro* \< *vipraḥ* \< *vipra*
+- \[noun\], nominative, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dhīraḥ* \< *dhīra*
+- \[noun\], nominative, singular, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *svapā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapā* \< *apāḥ* \< *apas*
+- \[noun\], nominative, singular, masculine
+- “work; deed.”
+------------------------------------------------------------------------
+- *atakṣam* \< *takṣ*
+- \[verb\], singular, Imperfect
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *yadīd* \< *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *yadīd* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *haryāḥ* \< *hary*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “delight.”
+------------------------------------------------------------------------
+- *svarvatīr* \< *svarvatīḥ* \< *svarvat*
+- \[noun\], accusative, plural, feminine
+- “bright; bright.”
+------------------------------------------------------------------------
+- *apa* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *enā* \< *idam*
+- \[noun\], instrumental, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *jayema* \< *ji*
+- \[verb\], plural, Present optative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------

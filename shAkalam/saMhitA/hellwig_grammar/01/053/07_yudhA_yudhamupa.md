@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 1.53.7"
+
++++
+-   *yudhā* \< *yudh*
+- \[noun\], instrumental, singular, feminine
+- “battle; fight; war; combat.”
+------------------------------------------------------------------------
+- *yudham* \< *yudh*
+- \[noun\], accusative, singular, feminine
+- “battle; fight; war; combat.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *ghed* \< *gha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ghed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *eṣi* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *dhṛṣṇuyā*
+- \[adverb\]
+- “boldly.”
+------------------------------------------------------------------------
+- *purā* \< *pur*
+- \[noun\], instrumental, singular, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *puraṃ* \< *puram* \< *pur*
+- \[noun\], accusative, singular, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *idaṃ* \< *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *haṃsy* \< *haṃsi* \< *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *namyā* \< *nami*
+- \[noun\], instrumental, singular, masculine
+- “Nami.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *sakhyā* \< *sakhi*
+- \[noun\], instrumental, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *parāvati* \< *parāvat*
+- \[noun\], locative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *nibarhayo* \< *nibarhayaḥ* \< *nibarhay* \< *√bṛṃh*
+- \[verb\], singular, Present injunctive
+------------------------------------------------------------------------
+- *namuciṃ* \< *namucim* \< *namuci*
+- \[noun\], accusative, singular, masculine
+- “Namuci; namuci \[word\].”
+------------------------------------------------------------------------
+- *nāma*
+- \[adverb\]
+- “by name; indeed; however; indeed.”
+------------------------------------------------------------------------
+- *māyinam* \< *māyin*
+- \[noun\], accusative, singular, masculine
+- “artful; charming; crafty; deceptive.”
+------------------------------------------------------------------------

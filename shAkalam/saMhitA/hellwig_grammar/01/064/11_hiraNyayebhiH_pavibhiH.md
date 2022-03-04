@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 1.64.11"
+
++++
+-   *hiraṇyayebhiḥ* \< *hiraṇyaya*
+- \[noun\], instrumental, plural, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *pavibhiḥ* \< *pavi*
+- \[noun\], instrumental, plural, masculine
+- “vajra; tire; rim.”
+------------------------------------------------------------------------
+- *payovṛdha* \< *payaḥ* \< *payas*
+- \[noun\], neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *payovṛdha* \< *vṛdhaḥ* \< *vṛdh*
+- \[noun\], nominative, plural, masculine
+- “increasing.”
+------------------------------------------------------------------------
+- *ujjighnanta* \< *ujjighnantaḥ* \< *uddhan* \< *√han*
+- \[verb noun\], nominative, plural
+- “agitate; shake; kup; stick out; tousle.”
+------------------------------------------------------------------------
+- *āpathyo* \< *āpathyaḥ* \< *āpathi*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *parvatān* \< *parvata*
+- \[noun\], accusative, plural, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *makhā* \< *makhāḥ* \< *makha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ayāsaḥ* \< *ayās*
+- \[noun\], nominative, plural, masculine
+- “undaunted; irrepressible; audacious.”
+------------------------------------------------------------------------
+- *svasṛto* \< *svasṛtaḥ* \< *svasṛt*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *dhruvacyuto* \< *dhruva*
+- \[noun\]
+- “certain; fixed; permanent; changeless; firm; safe; resident;
+    immovable; fixed; fixed; vital; faithful.”
+------------------------------------------------------------------------
+- *dhruvacyuto* \< *cyutaḥ* \< *cyut*
+- \[noun\], nominative, plural, masculine
+- “shaking; dropping.”
+------------------------------------------------------------------------
+- *dudhrakṛto* \< *dudhra*
+- \[noun\]
+- “obstinate.”
+------------------------------------------------------------------------
+- *dudhrakṛto* \< *kṛtaḥ* \< *kṛt*
+- \[noun\], nominative, plural, masculine
+- “causing; making; performing; promotive; producing; doing; acting;
+    writing; transforming; effecting.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *bhrājadṛṣṭayaḥ* \< *bhrājat* \< *bhrāj*
+- \[verb noun\]
+- “shine; glitter; look.”
+------------------------------------------------------------------------
+- *bhrājadṛṣṭayaḥ* \< *ṛṣṭayaḥ* \< *ṛṣṭi*
+- \[noun\], nominative, plural, masculine
+- “spear.”
+------------------------------------------------------------------------

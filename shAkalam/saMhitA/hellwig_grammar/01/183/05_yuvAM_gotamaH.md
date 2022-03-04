@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 1.183.5"
+
++++
+-   *yuvāṃ* \< *yuvām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *gotamaḥ* \< *gotama*
+- \[noun\], nominative, singular, masculine
+- “Gotama; gotama \[word\].”
+------------------------------------------------------------------------
+- *purumīﾱho* \< *purumīﾱhaḥ* \< *purumīḍha*
+- \[noun\], nominative, singular, masculine
+- “Purumīḍha.”
+------------------------------------------------------------------------
+- *atrir* \< *atriḥ* \< *atri*
+- \[noun\], nominative, singular, masculine
+- “Atri; Atri; atri \[word\].”
+------------------------------------------------------------------------
+- *dasrā* \< *dasrāḥ* \< *dasra*
+- \[noun\], vocative, plural, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *havate* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *'vase* \< *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *haviṣmān* \< *haviṣmat*
+- \[noun\], nominative, singular, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *diśaṃ* \< *diśam* \< *diś*
+- \[noun\], accusative, singular, feminine
+- “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
+    distant region; Diś; four; example; method; space.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *diṣṭām* \< *diś*
+- \[verb noun\], accusative, singular
+- “describe; give; give; teach.”
+------------------------------------------------------------------------
+- *ṛjūyeva* \< *ṛjūyā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ṛjūyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yantā* \< *i*
+- \[verb noun\], nominative, dual
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *havaṃ* \< *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *nāsatyopa* \< *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *nāsatyopa* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------

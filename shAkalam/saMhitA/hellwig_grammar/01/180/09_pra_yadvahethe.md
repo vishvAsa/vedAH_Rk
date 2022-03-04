@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.180.9"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vahethe* \< *vah*
+- \[verb\], dual, Present indikative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *mahinā* \< *mahina*
+- \[noun\], instrumental, singular, neuter
+- “greatness; enormousness.”
+------------------------------------------------------------------------
+- *rathasya* \< *ratha*
+- \[noun\], genitive, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *syandrā* \< *syandra*
+- \[noun\], nominative, dual, masculine
+- “flowing; fleet.”
+------------------------------------------------------------------------
+- *yātho* \< *yāthaḥ* \< *yā*
+- \[verb\], dual, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *manuṣo* \< *manuṣaḥ* \< *manus*
+- \[noun\], genitive, singular, masculine
+- “Manu; man.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *dhattaṃ* \< *dhattam* \< *dhā*
+- \[verb\], dual, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *sūribhya* \< *sūribhyaḥ* \< *sūri*
+- \[noun\], dative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *svaśvyaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svaśvyaṃ* \< *aśvyam* \< *aśvya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *rayiṣācaḥ* \< *rayiṣac*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

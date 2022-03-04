@@ -1,0 +1,94 @@
++++
+title = "Rig Veda 3.47.4"
+
++++
+-   *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tvāhihatye* \< *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvāhihatye* \< *ahi*
+- \[noun\], masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *tvāhihatye* \< *hatye* \< *hatya*
+- \[noun\], locative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *avardhan* \< *vṛdh*
+- \[verb\], plural, Imperfect
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śāmbare* \< *śāmbara*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *harivo* \< *harivas* \< *harivat*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *gaviṣṭau* \< *gaviṣṭi*
+- \[noun\], locative, singular, feminine
+- “foray.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *anumadanti* \< *anumad* \< *√mad*
+- \[verb\], plural, Present indikative
+- “praise; cheer; applaud.”
+------------------------------------------------------------------------
+- *viprāḥ* \< *vipra*
+- \[noun\], nominative, plural, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *pibendra* \< *piba* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *pibendra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sagaṇo* \< *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *sagaṇo* \< *gaṇaḥ* \< *gaṇa*
+- \[noun\], nominative, singular, masculine
+- “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
+    corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
+    Ganesa; flight.”
+------------------------------------------------------------------------
+- *marudbhiḥ* \< *marut*
+- \[noun\], instrumental, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------

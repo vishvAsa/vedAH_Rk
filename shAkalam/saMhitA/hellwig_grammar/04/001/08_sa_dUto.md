@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 4.1.8"
+
++++
+-   *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *dūto* \< *dūtaḥ* \< *dūta*
+- \[noun\], nominative, singular, masculine
+- “messenger; emissary; dūta \[word\].”
+------------------------------------------------------------------------
+- *viśved* \< *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vaṣṭi* \< *vaś*
+- \[verb\], singular, Present indikative
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *sadmā* \< *sadman*
+- \[noun\], accusative, plural, neuter
+- “seat; house; stable; dwelling.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *hiraṇyaratho* \< *hiraṇya*
+- \[noun\]
+- “aureate; gold.”
+------------------------------------------------------------------------
+- *hiraṇyaratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *raṃsujihvaḥ* \< *raṃsu*
+- \[noun\]
+------------------------------------------------------------------------
+- *raṃsujihvaḥ* \< *jihvaḥ* \< *jihvā*
+- \[noun\], nominative, singular, masculine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *rohidaśvo* \< *rohit*
+- \[noun\]
+- “red; red.”
+------------------------------------------------------------------------
+- *rohidaśvo* \< *aśvaḥ* \< *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *vapuṣyo* \< *vapuṣyaḥ* \< *vapuṣya*
+- \[noun\], nominative, singular, masculine
+- “fine-looking.”
+------------------------------------------------------------------------
+- *vibhāvā* \< *vibhāvan*
+- \[noun\], nominative, singular, masculine
+- “illuminating; shining.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *raṇvaḥ* \< *raṇva*
+- \[noun\], nominative, singular, masculine
+- “agreeable; happy; delightful; gay.”
+------------------------------------------------------------------------
+- *pitumatīva* \< *pitumatī* \< *pitumat*
+- \[noun\], nominative, singular, feminine
+- “alimentary.”
+------------------------------------------------------------------------
+- *pitumatīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *saṃsat* \< *saṃsad*
+- \[noun\], nominative, singular, feminine
+- “assembly; court; company.”
+------------------------------------------------------------------------

@@ -1,0 +1,103 @@
++++
+title = "Rig Veda 1.137.2"
+
++++
+-   *ima* \< *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *indavaḥ* \< *indu*
+- \[noun\], nominative, plural, masculine
+- “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
+    juice.”
+------------------------------------------------------------------------
+- *somāso* \< *somāsaḥ* \< *soma*
+- \[noun\], nominative, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* \< *dadhi*
+- \[noun\], neuter
+- “sour milk; curd; dadhi \[word\].”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* \< *āśiraḥ* \< *āśir*
+- \[noun\], nominative, plural, masculine
+- “mixture.”
+------------------------------------------------------------------------
+- *sutāso* \< *sutāsaḥ* \< *suta*
+- \[noun\], nominative, plural, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* \< *dadhi*
+- \[noun\], neuter
+- “sour milk; curd; dadhi \[word\].”
+------------------------------------------------------------------------
+- *dadhyāśiraḥ* \< *āśiraḥ* \< *āśir*
+- \[noun\], nominative, plural, masculine
+- “mixture.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], genitive, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *budhi* \< *budh*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *sākaṃ* \< *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *sūryasya* \< *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *raśmibhiḥ* \< *raśmi*
+- \[noun\], instrumental, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *mitrāya* \< *mitra*
+- \[noun\], dative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *varuṇāya* \< *varuṇa*
+- \[noun\], dative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *pītaye* \< *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *cārur* \< *cāruḥ* \< *cāru*
+- \[noun\], nominative, singular, masculine
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *ṛtāya* \< *ṛta*
+- \[noun\], dative, singular, masculine
+- “timely; honest.”
+------------------------------------------------------------------------
+- *pītaye* \< *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------

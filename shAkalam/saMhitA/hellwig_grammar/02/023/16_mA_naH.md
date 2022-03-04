@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 2.23.16"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stenebhyo* \< *stenebhyaḥ* \< *stena*
+- \[noun\], dative, plural, masculine
+- “thief; stena \[word\].”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *druhas* \< *druh*
+- \[noun\], genitive, singular, feminine
+- “deception; druh; misrepresentation; fraudulence; offense; injury.”
+------------------------------------------------------------------------
+- *pade* \< *pada*
+- \[noun\], locative, singular, neuter
+- “word; location; foot; footprint; pada \[word\]; verse; footstep;
+    metrical foot; situation; dwelling; state; step; mark; position;
+    trace; construction; animal foot; way; moment; social station;
+    topographic point; path; residence; site; topic.”
+------------------------------------------------------------------------
+- *nirāmiṇo* \< *nirāmiṇaḥ* \< *nirāmin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ripavo* \< *ripavaḥ* \< *ripu*
+- \[noun\], nominative, plural, masculine
+- “enemy; arivarga; Ripu; foe.”
+------------------------------------------------------------------------
+- *'nneṣu* \< *anneṣu* \< *anna*
+- \[noun\], locative, plural, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+------------------------------------------------------------------------
+- *jāgṛdhuḥ* \< *gṛdh*
+- \[verb\], plural, Perfect indicative
+- “desire; covet.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ohate* \< *ūh*
+- \[verb\], plural, Present indikative
+- “diagnose.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vrayo* \< *vrayaḥ* \< *vrayas*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *hṛdi* \< *hṛd*
+- \[noun\], locative, singular, neuter
+- “heart; heart; mind; breast; hṛd \[word\].”
+------------------------------------------------------------------------
+- *bṛhaspate* \< *bṛhaspati*
+- \[noun\], vocative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *paraḥ* \< *paras*
+- \[adverb\]
+- “beyond; away; farther.”
+------------------------------------------------------------------------
+- *sāmno* \< *sāmnaḥ* \< *sāman*
+- \[noun\], ablative, singular, neuter
+- “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
+------------------------------------------------------------------------
+- *viduḥ* \< *vid*
+- \[verb\], plural, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------

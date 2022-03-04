@@ -1,0 +1,109 @@
++++
+title = "Rig Veda 1.129.9"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rāyā* \< *rai*
+- \[noun\], instrumental, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *parīṇasā* \< *parīṇas*
+- \[noun\], instrumental, singular, masculine
+- “plenty.”
+------------------------------------------------------------------------
+- *yāhi* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *pathāṃ* \< *pathām* \< *pathin*
+- \[noun\], genitive, plural, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *anehasā* \< *anehas*
+- \[noun\], instrumental, singular, masculine
+- “faultless; anehas \[word\]; incomparable.”
+------------------------------------------------------------------------
+- *puro* \< *puras*
+- \[adverb\]
+- “ahead; puras \[word\]; easterly; eastward; east; earlier.”
+------------------------------------------------------------------------
+- *yāhy* \< *yāhi* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *arakṣasā* \< *arakṣas*
+- \[noun\], instrumental, singular, masculine
+- “harmless.”
+------------------------------------------------------------------------
+- *sacasva* \< *sac*
+- \[verb\], singular, Present imperative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *parāka* \< *parāke* \< *parāka*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sacasvāstamīka* \< *sacasva* \< *sac*
+- \[verb\], singular, Present imperative
+- “accompany; follow; company; obey; participate; enter.”
+------------------------------------------------------------------------
+- *sacasvāstamīka* \< *astamīke*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dūrād* \< *dūrāt*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *ārād* \< *ārāt*
+- \[adverb\]
+- “far; ārāt \[word\].”
+------------------------------------------------------------------------
+- *abhiṣṭibhiḥ* \< *abhiṣṭi*
+- \[noun\], instrumental, plural, feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *pāhy* \< *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *abhiṣṭibhiḥ* \< *abhiṣṭi*
+- \[noun\], instrumental, plural, feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------

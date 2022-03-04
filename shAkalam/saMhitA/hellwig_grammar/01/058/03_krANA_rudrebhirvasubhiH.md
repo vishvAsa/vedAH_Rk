@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 1.58.3"
+
++++
+-   *krāṇā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *rudrebhir* \< *rudrebhiḥ* \< *rudra*
+- \[noun\], instrumental, plural, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *vasubhiḥ* \< *vasu*
+- \[noun\], instrumental, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *purohito* \< *purohitaḥ* \< *purodhā* \< *√dhā*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *niṣatto* \< *niṣattaḥ* \< *niṣad* \< *√sad*
+- \[verb noun\], nominative, singular
+- “sit down; sit; put.”
+------------------------------------------------------------------------
+- *rayiṣāḍ* \< *rayiṣāh* \< *rayiṣah*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *amartyaḥ* \< *amartya*
+- \[noun\], nominative, singular, masculine
+- “immortal.”
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vikṣv* \< *vikṣu* \< *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *ṛñjasāna* \< *ṛñjasānaḥ* \< *ṛj*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *āyuṣu* \< *āyu*
+- \[noun\], locative, plural, masculine
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ānuṣag* \< *ānuṣak*
+- \[adverb\]
+- “correctly; in sequence; punctually.”
+------------------------------------------------------------------------
+- *vāryā* \< *vārya*
+- \[noun\], accusative, plural, neuter
+- “wealth.”
+------------------------------------------------------------------------
+- *deva* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ṛṇvati* \< *ṛch*
+- \[verb\], plural, Present indikative
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------

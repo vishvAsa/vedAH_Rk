@@ -1,0 +1,122 @@
++++
+title = "Rig Veda 1.130.2"
+
++++
+-   *pibā* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *suvānam* \< *su*
+- \[verb noun\], accusative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *adribhiḥ* \< *adri*
+- \[noun\], instrumental, plural, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *kośena* \< *kośa*
+- \[noun\], instrumental, singular, masculine
+- “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
+    treasure; calyx; container; bucket; box.”
+------------------------------------------------------------------------
+- *siktam* \< *sic*
+- \[verb noun\], accusative, singular
+- “submerge; sprinkle; pour; wet; decant; impregnate.”
+------------------------------------------------------------------------
+- *avataṃ* \< *avatam* \< *avata*
+- \[noun\], accusative, singular, masculine
+- “well.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vaṃsagas* \< *vaṃsagaḥ* \< *vaṃsaga*
+- \[noun\], nominative, singular, masculine
+- “bull.”
+------------------------------------------------------------------------
+- *tātṛṣāṇo* \< *tātṛṣāṇaḥ* \< *tṛṣ*
+- \[verb noun\], nominative, singular
+- “thirst.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vaṃsagaḥ* \< *vaṃsaga*
+- \[noun\], nominative, singular, masculine
+- “bull.”
+------------------------------------------------------------------------
+- *madāya* \< *mada*
+- \[noun\], dative, singular, masculine
+- “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
+    musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
+    vivification.”
+------------------------------------------------------------------------
+- *haryatāya* \< *haryata*
+- \[noun\], dative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tuviṣṭamāya* \< *tuviṣṭama*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *dhāyase* \< *dhāyas*
+- \[noun\], dative, singular, masculine
+- “alimentary; sustaining.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *yacchantu* \< *yam*
+- \[verb\], plural, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *harito* \< *haritaḥ* \< *harit*
+- \[noun\], nominative, plural, feminine
+- “mare; quarter.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sūryam* \< *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *ahā* \< *aha*
+- \[noun\], accusative, plural, neuter
+- “day; aha \[word\]; day.”
+------------------------------------------------------------------------
+- *viśveva* \< *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśveva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *sūryam* \< *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------

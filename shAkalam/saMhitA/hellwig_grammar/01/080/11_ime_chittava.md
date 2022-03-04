@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 1.80.11"
+
++++
+-   *ime* \< *idam*
+- \[noun\], nominative, dual, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *manyave* \< *manyu*
+- \[noun\], dative, singular, feminine
+- “anger; fury; rage; wrath.”
+------------------------------------------------------------------------
+- *vepete* \< *vip*
+- \[verb\], dual, Present indikative
+- “tremble.”
+------------------------------------------------------------------------
+- *bhiyasā* \< *bhiyas*
+- \[noun\], instrumental, singular, masculine
+- “fear.”
+------------------------------------------------------------------------
+- *mahī*
+- \[noun\], nominative, dual, feminine
+- “Earth; floor; Earth; land; real property; heaven and earth; space;
+    Mahī; soil; earth; estate; area.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vajrinn* \< *vajrin*
+- \[noun\], vocative, singular, masculine
+- “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *vṛtram* \< *vṛtra*
+- \[noun\], accusative, singular, masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *marutvāṃ* \< *marutvat*
+- \[noun\], nominative, singular, masculine
+- “Marut(a).”
+------------------------------------------------------------------------
+- *avadhīr* \< *avadhīḥ* \< *vadh*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kill; assail; kick; māray; destroy; beat.”
+------------------------------------------------------------------------
+- *arcann* \< *arcan* \< *arc*
+- \[verb\], plural, Present injunctive
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *svarājyam* \< *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svarājyam* \< *rājyam* \< *rājya*
+- \[noun\], accusative, singular, neuter
+- “kingdom; kingship; sovereignty; rājya \[word\].”
+------------------------------------------------------------------------

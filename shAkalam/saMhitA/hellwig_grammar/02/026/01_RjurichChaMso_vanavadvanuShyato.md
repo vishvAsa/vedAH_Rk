@@ -1,0 +1,99 @@
++++
+title = "Rig Veda 2.26.1"
+
++++
+-   *ṛjur* \< *ṛjuḥ* \< *ṛju*
+- \[noun\], nominative, singular, masculine
+- “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
+------------------------------------------------------------------------
+- *icchaṃso* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *icchaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *vanavad* \< *vanavat* \< *van*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *vanuṣyato* \< *vanuṣyataḥ* \< *vanuṣy*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *devayann* \< *devayan* \< *devay*
+- \[verb noun\], nominative, singular
+- “solicit.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *adevayantam* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *adevayantam* \< *devayantam* \< *devay*
+- \[verb noun\], accusative, singular
+- “solicit.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *asat* \< *as*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *suprāvīr* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suprāvīr* \< *prāvīḥ* \< *prāvī*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *vanavat* \< *van*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *pṛtsu* \< *pṛt*
+- \[noun\], locative, plural, feminine
+- “battle.”
+------------------------------------------------------------------------
+- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- \[noun\], accusative, singular, masculine
+- “incomparable; irresistible; unbearable; unconquerable.”
+------------------------------------------------------------------------
+- *yajved* \< *yajvā* \< *yajvan*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *yajved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ayajyor* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *ayajyor* \< *yajyoḥ* \< *yajyu*
+- \[noun\], genitive, singular, masculine
+- “worshiping.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *bhajāti* \< *bhaj*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
+    one's share; partake; share; get; approach; love; use.”
+------------------------------------------------------------------------
+- *bhojanam* \< *bhojana*
+- \[noun\], accusative, singular, neuter
+- “food; eating; foodstuff; meal; property; sevana; enjoyment.”
+------------------------------------------------------------------------

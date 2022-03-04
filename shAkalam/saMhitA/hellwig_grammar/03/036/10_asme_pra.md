@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 3.36.10"
+
++++
+-   *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yandhi* \< *yam*
+- \[verb\], singular, Aorist imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *ṛjīṣinn* \< *ṛjīṣin*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], genitive, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *viśvavārasya* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavārasya* \< *vārasya* \< *vāra*
+- \[noun\], genitive, singular, masculine
+- “treasure; choice.”
+------------------------------------------------------------------------
+- *bhūreḥ* \< *bhūri*
+- \[noun\], genitive, singular, masculine
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śataṃ* \< *śatam* \< *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śarado* \< *śaradaḥ* \< *śarad*
+- \[noun\], accusative, plural, feminine
+- “fall; year; śarad \[word\].”
+------------------------------------------------------------------------
+- *jīvase* \< *jīv*
+- \[verb noun\]
+- “survive; be; exist; live on; dwell.”
+------------------------------------------------------------------------
+- *dhā* \< *dhāḥ* \< *dhā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vīrāñchaśvata* \< *vīrān* \< *vīra*
+- \[noun\], accusative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *vīrāñchaśvata* \< *śaśvataḥ* \< *śaśvat*
+- \[noun\], accusative, plural, masculine
+- “all(a); each(a).”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śiprin*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------

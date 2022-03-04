@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 1.45.5"
+
++++
+-   *ghṛtāhavana*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *santyemā* \< *santya*
+- \[noun\], vocative, singular, masculine
+- “honest.”
+------------------------------------------------------------------------
+- *santyemā* \< *imāḥ* \< *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *śrudhī* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *giraḥ* \< *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *yābhiḥ* \< *yad*
+- \[noun\], instrumental, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *kaṇvasya* \< *kaṇva*
+- \[noun\], genitive, singular, masculine
+- “Kaṇva; Kaṇva; kaṇva \[word\].”
+------------------------------------------------------------------------
+- *sūnavo* \< *sūnavaḥ* \< *sūnu*
+- \[noun\], nominative, plural, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *'vase* \< *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------

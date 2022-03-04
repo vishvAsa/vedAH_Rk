@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 1.141.3"
+
++++
+-   *nir* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *budhnān* \< *budhnāt* \< *budhna*
+- \[noun\], ablative, singular, masculine
+- “bottom; bottom; base.”
+------------------------------------------------------------------------
+- *mahiṣasya* \< *mahiṣa*
+- \[noun\], genitive, singular, masculine
+- “Old World buffalo; Mahiṣa; Mahiṣa.”
+------------------------------------------------------------------------
+- *varpasa* \< *varpasaḥ* \< *varpas*
+- \[noun\], ablative, singular, neuter
+- “form; look; disguise.”
+------------------------------------------------------------------------
+- *īśānāsaḥ* \< *īś*
+- \[verb noun\], nominative, plural
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *śavasā* \< *śavas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *kranta* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *sūrayaḥ* \< *sūri*
+- \[noun\], nominative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *pradivo* \< *pradivaḥ* \< *pradiv*
+- \[noun\], ablative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *madhva* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *ādhave* \< *ādhava*
+- \[noun\], locative, singular, masculine
+- “agitator.”
+------------------------------------------------------------------------
+- *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *santam* \< *as*
+- \[verb noun\], accusative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *mātariśvā* \< *mātariśvan*
+- \[noun\], nominative, singular, masculine
+- “wind; Mātariśvan; Vayu; vāta.”
+------------------------------------------------------------------------
+- *mathāyati* \< *mathāy* \< *√math*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------

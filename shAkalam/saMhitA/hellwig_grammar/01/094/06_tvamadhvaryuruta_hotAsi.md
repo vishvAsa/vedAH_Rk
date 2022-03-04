@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 1.94.6"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *adhvaryur* \< *adhvaryuḥ* \< *adhvaryu*
+- \[noun\], nominative, singular, masculine
+- “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *hotāsi* \< *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *hotāsi* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pūrvyaḥ* \< *pūrvya*
+- \[noun\], nominative, singular, masculine
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *praśāstā* \< *praśāstṛ*
+- \[noun\], nominative, singular, masculine
+- “praśāstṛ \[word\]; king.”
+------------------------------------------------------------------------
+- *potā* \< *potṛ*
+- \[noun\], nominative, singular, masculine
+- “Potṛ.”
+------------------------------------------------------------------------
+- *januṣā* \< *janus*
+- \[noun\], instrumental, singular, neuter
+- “birth.”
+------------------------------------------------------------------------
+- *purohitaḥ* \< *purohita*
+- \[noun\], nominative, singular, masculine
+- “Purohita; purohita \[word\].”
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *vidvāṃ* \< *vid*
+- \[verb noun\], nominative, singular
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *ārtvijyā* \< *ārtvijya*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *dhīra*
+- \[noun\], vocative, singular, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *puṣyasy* \< *puṣyasi* \< *puṣ*
+- \[verb\], singular, Present indikative
+- “boom; grow; promote; foster.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sakhye* \< *sakhi*
+- \[noun\], dative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *riṣāmā* \< *riṣ*
+- \[verb\], plural, Aorist conj./subj.
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------

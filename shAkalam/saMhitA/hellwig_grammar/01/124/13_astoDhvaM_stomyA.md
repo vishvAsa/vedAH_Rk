@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 1.124.13"
+
++++
+-   *astoḍhvaṃ* \< *astoḍhvam* \< *stu*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *stomyā* \< *stomyāḥ* \< *stomya*
+- \[noun\], vocative, plural, masculine
+- “applaudable.”
+------------------------------------------------------------------------
+- *brahmaṇā* \< *brahman*
+- \[noun\], instrumental, singular, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *'vīvṛdhadhvam* \< *avīvṛdhadhvam* \< *vṛdh*
+- \[verb\], plural, Redupl. Aorist (Ind.)
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *uśatīr* \< *uśatīḥ* \< *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *uṣāsaḥ* \< *uṣas*
+- \[noun\], vocative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *yuṣmākaṃ* \< *yuṣmākam* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *devīr* \< *devīḥ* \< *devī*
+- \[noun\], vocative, plural, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *sanema* \< *san*
+- \[verb\], plural, Aorist optative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *sahasriṇaṃ* \< *sahasriṇam* \< *sahasrin*
+- \[noun\], accusative, singular, masculine
+- “thousandfold.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śatinaṃ* \< *śatinam* \< *śatin*
+- \[noun\], accusative, singular, masculine
+- “hundredfold.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------

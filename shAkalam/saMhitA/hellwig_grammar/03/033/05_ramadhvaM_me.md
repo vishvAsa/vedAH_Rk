@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 3.33.5"
+
++++
+-   *ramadhvam* \< *ram*
+- \[verb\], plural, Present imperative
+- “delight; rejoice; love; frolic; desire; give; calm; break.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *vacase* \< *vacas*
+- \[noun\], dative, singular, neuter
+- “statement; command; speech; words; advice; word; voice.”
+------------------------------------------------------------------------
+- *somyāya* \< *somya*
+- \[noun\], dative, singular, neuter
+- “saumya.”
+------------------------------------------------------------------------
+- *ṛtāvarīr* \< *ṛtāvarīḥ* \< *ṛtāvan*
+- \[noun\], vocative, plural, feminine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *muhūrtam* \< *muhūrta*
+- \[noun\], accusative, singular, neuter
+- “moment; Muhūrta; moment; Muhūrta.”
+------------------------------------------------------------------------
+- *evaiḥ* \< *eva*
+- \[noun\], instrumental, plural, masculine
+- “eva \[word\]; habit; manner; behavior; custom.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *sindhum* \< *sindhu*
+- \[noun\], accusative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *bṛhatī* \< *bṛhat*
+- \[noun\], nominative, singular, feminine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *manīṣāvasyur* \< *manīṣā*
+- \[noun\], nominative, singular, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *manīṣāvasyur* \< *avasyuḥ* \< *avasyu*
+- \[noun\], nominative, singular, feminine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *ahve* \< *hvā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *kuśikasya* \< *kuśika*
+- \[noun\], genitive, singular, masculine
+- “Kuśika; Vatica robusta.”
+------------------------------------------------------------------------
+- *sūnuḥ* \< *sūnu*
+- \[noun\], nominative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------

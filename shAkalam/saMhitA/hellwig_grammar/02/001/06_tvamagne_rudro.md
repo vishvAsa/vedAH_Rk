@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 2.1.6"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *rudro* \< *rudraḥ* \< *rudra*
+- \[noun\], nominative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *asuro* \< *asuraḥ* \< *asura*
+- \[noun\], nominative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *divas* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śardho* \< *śardhaḥ* \< *śardhas*
+- \[noun\], nominative, singular, neuter
+- “troop.”
+------------------------------------------------------------------------
+- *mārutam* \< *māruta*
+- \[noun\], nominative, singular, neuter
+- “Marut(a).”
+------------------------------------------------------------------------
+- *pṛkṣa* \< *pṛkṣaḥ* \< *pṛkṣ*
+- \[noun\], genitive, singular, feminine
+- “food; refreshment; power.”
+------------------------------------------------------------------------
+- *īśiṣe* \< *īś*
+- \[verb\], singular, Present indikative
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vātair* \< *vātaiḥ* \< *vāta*
+- \[noun\], instrumental, plural, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *aruṇair* \< *aruṇaiḥ* \< *aruṇa*
+- \[noun\], instrumental, plural, masculine
+- “red; tawny; dusty; gray.”
+------------------------------------------------------------------------
+- *yāsi* \< *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *śaṅgayas* \< *śaṅgayaḥ* \< *śaṃgaya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūṣā* \< *pūṣan*
+- \[noun\], nominative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *vidhataḥ* \< *vidh*
+- \[verb noun\], accusative, plural
+- “worship; offer.”
+------------------------------------------------------------------------
+- *pāsi* \< *pā*
+- \[verb\], singular, Present indikative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *tmanā* \< *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------

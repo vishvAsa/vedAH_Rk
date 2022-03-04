@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 1.151.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *ṛtāya* \< *ṛta*
+- \[noun\], dative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *keśinīr* \< *keśinīḥ* \< *keśin*
+- \[noun\], nominative, plural, feminine
+- “haired.”
+------------------------------------------------------------------------
+- *anūṣata* \< *nū*
+- \[verb\], plural, Athematic s aor. (Ind.)
+- “praise; shout.”
+------------------------------------------------------------------------
+- *mitra*
+- \[noun\], vocative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *gātum* \< *gātu*
+- \[noun\], accusative, singular, masculine
+- “path; way.”
+------------------------------------------------------------------------
+- *arcathaḥ* \< *arc*
+- \[verb\], dual, Present indikative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *tmanā* \< *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *sṛjatam* \< *sṛj*
+- \[verb\], dual, Present imperative
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *pinvataṃ* \< *pinvatam* \< *pinv*
+- \[verb\], dual, Present imperative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- \[noun\], accusative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *viprasya* \< *vipra*
+- \[noun\], genitive, singular, masculine
+- “Brahmin; poet; singer; priest; guru; Vipra.”
+------------------------------------------------------------------------
+- *manmanām* \< *manman*
+- \[noun\], genitive, plural, neuter
+- “hymn; idea; purpose.”
+------------------------------------------------------------------------
+- *irajyathaḥ* \< *irajy* \< *√rañj*
+- \[verb\], dual, Present indikative
+- “direct.”
+------------------------------------------------------------------------

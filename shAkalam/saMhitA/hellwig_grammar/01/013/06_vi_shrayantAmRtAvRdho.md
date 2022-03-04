@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 1.13.6"
+
++++
+-   *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *śrayantām* \< *śri*
+- \[verb\], plural, Present imperative
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *ṛtāvṛdho* \< *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- \[noun\], nominative, plural, feminine
+- “sincere.”
+------------------------------------------------------------------------
+- *dvāro* \< *dvāraḥ* \< *dvār*
+- \[noun\], nominative, plural, feminine
+- “door; means.”
+------------------------------------------------------------------------
+- *devīr* \< *devīḥ* \< *deva*
+- \[noun\], nominative, plural, feminine
+- “divine.”
+------------------------------------------------------------------------
+- *asaścataḥ* \< *asaścat*
+- \[noun\], nominative, plural, feminine
+- “inexhaustible.”
+------------------------------------------------------------------------
+- *adyā* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *nūnaṃ* \< *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *yaṣṭave* \< *yaj*
+- \[verb noun\]
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------

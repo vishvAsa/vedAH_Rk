@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 2.36.5"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tanvo* \< *tanvaḥ* \< *tanū*
+- \[noun\], genitive, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *nṛmṇavardhanaḥ* \< *nṛmṇa*
+- \[noun\], neuter
+- “manhood; power.”
+------------------------------------------------------------------------
+- *nṛmṇavardhanaḥ* \< *vardhanaḥ* \< *vardhana*
+- \[noun\], nominative, singular, masculine
+- “increasing; fortifying; promotive; prolonging.”
+------------------------------------------------------------------------
+- *saha* \< *sahaḥ* \< *sahas*
+- \[noun\], nominative, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *ojaḥ* \< *ojas*
+- \[noun\], nominative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *pradivi* \< *pradiv*
+- \[noun\], locative, singular, masculine
+- “age-old; long.”
+------------------------------------------------------------------------
+- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- \[noun\], locative, dual, masculine
+- “arm; bāhu \[word\]; elbow; forefoot.”
+------------------------------------------------------------------------
+- *hitaḥ* \< *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ābhṛtas* \< *ābhṛtaḥ* \< *ābhṛ* \< *√bhṛ*
+- \[verb noun\], nominative, singular
+- “bring.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *brāhmaṇād* \< *brāhmaṇāt* \< *brāhmaṇa*
+- \[noun\], ablative, singular, neuter
+- “Brāhmaṇa; brāhmaṇa \[word\].”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tṛpat* \< *tṛp*
+- \[verb noun\], accusative, singular
+- “satiate; enjoy; delight.”
+------------------------------------------------------------------------
+- *piba* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------

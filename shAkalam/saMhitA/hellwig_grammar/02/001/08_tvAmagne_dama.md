@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 2.1.8"
+
++++
+-   *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *dama* \< *dame* \< *dama*
+- \[noun\], locative, singular, masculine
+- “dwelling; home.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśpatiṃ* \< *viśpatim* \< *viśpati*
+- \[noun\], accusative, singular, masculine
+- “overlord; head.”
+------------------------------------------------------------------------
+- *viśas* \< *viśaḥ* \< *viś*
+- \[noun\], nominative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *tvāṃ* \< *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rājānaṃ* \< *rājānam* \< *rājan*
+- \[noun\], accusative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *suvidatram* \< *suvidatra*
+- \[noun\], accusative, singular, masculine
+- “beneficent.”
+------------------------------------------------------------------------
+- *ṛñjate* \< *ṛj*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *viśvāni* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *svanīka* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svanīka* \< *anīka*
+- \[noun\], vocative, singular, masculine
+- “army; face; battalion; battlefront; point; appearance.”
+------------------------------------------------------------------------
+- *patyase* \< *paty*
+- \[verb\], singular, Present indikative
+- “own; have; master.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sahasrāṇi* \< *sahasra*
+- \[noun\], accusative, plural, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *śatā* \< *śata*
+- \[noun\], accusative, plural, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *daśa* \< *daśan*
+- \[noun\], accusative, singular, neuter
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------

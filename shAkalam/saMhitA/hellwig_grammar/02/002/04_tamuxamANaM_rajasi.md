@@ -1,0 +1,98 @@
++++
+title = "Rig Veda 2.2.4"
+
++++
+-   *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ukṣamāṇaṃ* \< *ukṣamāṇam* \< *vakṣ*
+- \[verb noun\], accusative, singular
+- “grow; grow.”
+------------------------------------------------------------------------
+- *rajasi* \< *rajas*
+- \[noun\], locative, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *sva* \< *sve* \< *sva*
+- \[noun\], locative, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dame* \< *dama*
+- \[noun\], locative, singular, masculine
+- “dwelling; home.”
+------------------------------------------------------------------------
+- *candram* \< *candra*
+- \[noun\], accusative, singular, masculine
+- “aglitter(p); shining.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *surucaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *surucaṃ* \< *rucam* \< *ruc*
+- \[noun\], accusative, singular, masculine
+- “beam; radiance; color.”
+------------------------------------------------------------------------
+- *hvāra* \< *hvāre* \< *hvāra*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dadhuḥ* \< *dhā*
+- \[verb\], plural, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *pṛśnyāḥ* \< *pṛśni*
+- \[noun\], genitive, singular, feminine
+- “Pṛśni; beam.”
+------------------------------------------------------------------------
+- *pataraṃ* \< *pataram* \< *patara*
+- \[noun\], accusative, singular, masculine
+- “winged.”
+------------------------------------------------------------------------
+- *citayantam* \< *citay* \< *√cit*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *akṣabhiḥ* \< *akṣa*
+- \[noun\], instrumental, plural, neuter
+- “eye; akṣa \[word\]; hole.”
+------------------------------------------------------------------------
+- *pātho* \< *pāthaḥ* \< *pāthas*
+- \[noun\], accusative, singular, neuter
+- “pāthas \[word\]; water; place.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pāyuṃ* \< *pāyum* \< *pāyu*
+- \[noun\], accusative, singular, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------
+- *janasī* \< *janas*
+- \[noun\], accusative, dual, neuter
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], accusative, dual, neuter
+- “both(a).”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------

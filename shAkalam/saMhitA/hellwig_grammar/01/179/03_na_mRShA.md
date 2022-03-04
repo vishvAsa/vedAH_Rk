@@ -1,0 +1,94 @@
++++
+title = "Rig Veda 1.179.3"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mṛṣā*
+- \[adverb\]
+- “incorrectly.”
+------------------------------------------------------------------------
+- *śrāntaṃ* \< *śrāntam* \< *śrānta*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *yad* \< *yat* \< *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *avanti* \< *av*
+- \[verb\], plural, Present indikative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *viśvā* \< *viśvāḥ* \< *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *spṛdho* \< *spṛdhaḥ* \< *spṛdh*
+- \[noun\], accusative, plural, feminine
+- “adversary; enemy; rival.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *aśnavāva* \< *aś*
+- \[verb\], dual, Present imperative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *jayāved* \< *jayāva* \< *ji*
+- \[verb\], dual, Present imperative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *jayāved* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+------------------------------------------------------------------------
+- *śatanītham* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatanītham* \< *nītham* \< *nīthā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ājiṃ* \< *ājim* \< *āji*
+- \[noun\], accusative, singular, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *samyañcā* \< *samyañc*
+- \[noun\], nominative, dual, masculine
+- “conjugate; united.”
+------------------------------------------------------------------------
+- *mithunāv* \< *mithunau* \< *mithuna*
+- \[noun\], nominative, dual, masculine
+- “twin; couple; couple; coupling; sexual intercourse; Gemini.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ajāva* \< *aj*
+- \[verb\], dual, Present imperative
+- “drive; expel.”
+------------------------------------------------------------------------

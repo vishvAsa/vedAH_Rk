@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 1.11.2"
+
++++
+-   *sakhye* \< *sakhya*
+- \[noun\], locative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vājino* \< *vājinaḥ* \< *vājin*
+- \[noun\], genitive, singular, masculine
+- “victorious; triumphant; strong; gainful.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *bhema* \< *bhī*
+- \[verb\], plural, Aorist inj. (proh.)
+- “fear; fear.”
+------------------------------------------------------------------------
+- *śavasas* \< *śavas*
+- \[noun\], genitive, singular, neuter
+- “strength; power; superiority.”
+------------------------------------------------------------------------
+- *pate* \< *pati*
+- \[noun\], vocative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ṇonumo* \< *ṇonumaḥ* \< *nonāv* \< *√nū*
+- \[verb\], plural, Present indikative
+- “bellow.”
+------------------------------------------------------------------------
+- *jetāram* \< *jetṛ*
+- \[noun\], accusative, singular, masculine
+- “curative; victorious.”
+------------------------------------------------------------------------
+- *aparājitam* \< *aparājita*
+- \[noun\], accusative, singular, masculine
+- “unbeaten; unexcelled.”
+------------------------------------------------------------------------

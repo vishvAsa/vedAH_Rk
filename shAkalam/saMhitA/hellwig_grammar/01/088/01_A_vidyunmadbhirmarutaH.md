@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 1.88.1"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vidyunmadbhir* \< *vidyunmadbhiḥ* \< *vidyunmat*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *svarkai* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svarkai* \< *arkaiḥ* \< *arka*
+- \[noun\], instrumental, plural, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *rathebhir* \< *rathebhiḥ* \< *ratha*
+- \[noun\], instrumental, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *yāta* \< *yā*
+- \[verb\], plural, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *ṛṣṭimadbhir* \< *ṛṣṭimadbhiḥ* \< *ṛṣṭimat*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *aśvaparṇaiḥ* \< *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvaparṇaiḥ* \< *parṇaiḥ* \< *parṇa*
+- \[noun\], instrumental, plural, masculine
+- “leaf; feather; parṇa \[word\]; leaf; wing.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *varṣiṣṭhayā* \< *varṣiṣṭha*
+- \[noun\], instrumental, singular, feminine
+- “highest.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *iṣā* \< *iṣ*
+- \[noun\], instrumental, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *vayo* \< *vayaḥ* \< *vi*
+- \[noun\], nominative, plural, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *paptatā* \< *pat*
+- \[verb\], plural, Aorist imperative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *sumāyāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sumāyāḥ* \< *māyāḥ* \< *māyā*
+- \[noun\], vocative, plural, masculine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+------------------------------------------------------------------------

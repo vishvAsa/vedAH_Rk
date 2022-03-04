@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 2.31.6"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *śaṃsam* \< *śaṃsa*
+- \[noun\], accusative, singular, masculine
+- “praise; śaṃs; recitation.”
+------------------------------------------------------------------------
+- *uśijām* \< *uśij*
+- \[noun\], genitive, plural, masculine
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *śmasy* \< *śmasi* \< *vaś*
+- \[verb\], plural, Present indikative
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *ahirbudhnyo* \< *ahirbudhnyaḥ* \< *ahirbudhnya*
+- \[noun\], nominative, singular, masculine
+- “Ahirbudhnya; Shiva.”
+------------------------------------------------------------------------
+- *'ja* \< *ajaḥ* \< *aja*
+- \[noun\], nominative, singular, masculine
+- “unborn.”
+------------------------------------------------------------------------
+- *ekapād* \< *eka*
+- \[noun\]
+- “one; single(a); alone(p); some(a); single(a); eka \[word\];
+    alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
+    consistent; any(a); undifferentiated; disjunct.”
+------------------------------------------------------------------------
+- *ekapād* \< *pād*
+- \[noun\], nominative, singular, masculine
+- “pād \[word\]; foot.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *trita* \< *tritaḥ* \< *trita*
+- \[noun\], nominative, singular, masculine
+- “Trita.”
+------------------------------------------------------------------------
+- *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *cano* \< *canaḥ* \< *canas*
+- \[noun\], accusative, singular, neuter
+- “delight.”
+------------------------------------------------------------------------
+- *dadhe* \< *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *'pāṃ* \< *apām* \< *ap*
+- \[noun\], genitive, plural, masculine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *napād* \< *napāt*
+- \[noun\], nominative, singular, masculine
+- “grandson; nephew; napāt \[word\].”
+------------------------------------------------------------------------
+- *āśuhemā* \< *āśu*
+- \[noun\]
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *āśuhemā* \< *hemā* \< *heman*
+- \[noun\], nominative, singular, masculine
+- “momentum.”
+------------------------------------------------------------------------
+- *dhiyā* \< *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *śami* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------

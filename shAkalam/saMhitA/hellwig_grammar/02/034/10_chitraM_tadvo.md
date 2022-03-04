@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 2.34.10"
+
++++
+-   *citraṃ* \< *citram* \< *citra*
+- \[noun\], nominative, singular, neuter
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *tad* \< *tat* \< *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *yāma* \< *yāman*
+- \[noun\], nominative, singular, neuter
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *cekite* \< *cekit* \< *√cit*
+- \[verb\], singular, Present indikative
+- “chew over.”
+------------------------------------------------------------------------
+- *pṛśnyā* \< *pṛśnyāḥ* \< *pṛśni*
+- \[noun\], genitive, singular, feminine
+- “Pṛśni; beam.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ūdhar* \< *ūdhas*
+- \[noun\], accusative, singular, neuter
+- “udder; ūdhas \[word\]; night.”
+------------------------------------------------------------------------
+- *apy* \< *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *āpayo* \< *āpayaḥ* \< *āpi*
+- \[noun\], nominative, plural, masculine
+- “friend.”
+------------------------------------------------------------------------
+- *duhuḥ* \< *duh*
+- \[verb\], plural, Imperfect
+- “milk.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *nide* \< *nid*
+- \[noun\], dative, singular, feminine
+- “derision; scoffer; contempt.”
+------------------------------------------------------------------------
+- *navamānasya* \< *nū*
+- \[verb noun\], genitive, singular
+- “praise; shout.”
+------------------------------------------------------------------------
+- *rudriyās* \< *rudriyāḥ* \< *rudriya*
+- \[noun\], vocative, plural, masculine
+- “Marut.”
+------------------------------------------------------------------------
+- *tritaṃ* \< *tritam* \< *trita*
+- \[noun\], accusative, singular, masculine
+- “Trita.”
+------------------------------------------------------------------------
+- *jarāya* \< *jara*
+- \[noun\], dative, singular, masculine
+- “jara \[word\].”
+------------------------------------------------------------------------
+- *juratām* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *adābhyāḥ* \< *adābhya*
+- \[noun\], nominative, plural, masculine
+- “trustworthy; disabused(p).”
+------------------------------------------------------------------------

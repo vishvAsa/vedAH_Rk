@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.117.4"
+
++++
+-   *aśvaṃ* \< *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *gūﾱham* \< *gūḍham* \< *guh*
+- \[verb noun\], accusative, singular
+- “hide; cover; conceal; shroud; obscure.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *durevair* \< *durevaiḥ* \< *dureva*
+- \[noun\], instrumental, plural, masculine
+- “malevolent; bad; crabbed.”
+------------------------------------------------------------------------
+- *ṛṣiṃ* \< *ṛṣim* \< *ṛṣi*
+- \[noun\], accusative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *narā* \< *nṛ*
+- \[noun\], vocative, dual, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *vṛṣaṇā* \< *vṛṣan*
+- \[noun\], vocative, dual, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *rebham* \< *rebha*
+- \[noun\], accusative, singular, masculine
+- “bard; eulogist.”
+------------------------------------------------------------------------
+- *apsu* \< *ap*
+- \[noun\], locative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *riṇītho* \< *riṇīthaḥ* \< *ri*
+- \[verb\], dual, Present indikative
+- “free; liberate; run; let go of.”
+------------------------------------------------------------------------
+- *viprutaṃ* \< *viprutam* \< *vipru* \< *√pru*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *daṃsobhir* \< *daṃsobhiḥ* \< *daṃsas*
+- \[noun\], instrumental, plural, neuter
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *jūryanti* \< *jṛ*
+- \[verb\], plural, Present indikative
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *pūrvyā* \< *pūrvya*
+- \[noun\], nominative, plural, neuter
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *kṛtāni* \< *kṛta*
+- \[noun\], nominative, plural, neuter
+- “Kṛta; action; throw; work; production; work; kindness; four; kṛta
+    \[word\].”
+------------------------------------------------------------------------

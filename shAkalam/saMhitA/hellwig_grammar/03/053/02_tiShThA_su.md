@@ -1,0 +1,98 @@
++++
+title = "Rig Veda 3.53.2"
+
++++
+-   *tiṣṭhā* \< *sthā*
+- \[verb\], singular, Present imperative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *kam* \< *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *parā*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *gāḥ* \< *gā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suṣutasya* \< *suṣuta*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *yakṣi* \< *yaj*
+- \[verb\], singular, Aorist inj. (proh.)
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *pitur* \< *pituḥ* \< *pitṛ*
+- \[noun\], genitive, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *putraḥ* \< *putra*
+- \[noun\], nominative, singular, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *sicam* \< *sic*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rabhe* \< *rabh*
+- \[verb\], singular, Present indikative
+- “clasp.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *svādiṣṭhayā* \< *svādiṣṭha*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *girā* \< *gir*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *śacīvaḥ* \< *śacīvas* \< *śacīvat*
+- \[noun\], vocative, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.83.6"
+
++++
+-   *barhir* \< *barhiḥ* \< *barhis*
+- \[noun\], nominative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *svapatyāya* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapatyāya* \< *apatyāya* \< *apatya*
+- \[noun\], dative, singular, neuter
+- “child; offspring; patronymic; descendant.”
+------------------------------------------------------------------------
+- *vṛjyate* \< *vṛj*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+------------------------------------------------------------------------
+- *'rko* \< *arkaḥ* \< *arka*
+- \[noun\], nominative, singular, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *ślokam* \< *śloka*
+- \[noun\], accusative, singular, masculine
+- “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
+------------------------------------------------------------------------
+- *āghoṣate* \< *āghuṣ* \< *√ghuṣ*
+- \[verb\], singular, Present indikative
+- “listen.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *grāvā* \< *grāvan*
+- \[noun\], nominative, singular, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *vadati* \< *vad*
+- \[verb\], singular, Present indikative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *kārur* \< *kāruḥ* \< *kāru*
+- \[noun\], nominative, singular, masculine
+- “poet; singer.”
+------------------------------------------------------------------------
+- *ukthyas* \< *ukthyaḥ* \< *ukthya*
+- \[noun\], nominative, singular, masculine
+- “applaudable.”
+------------------------------------------------------------------------
+- *tasyed* \< *tasya* \< *tad*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tasyed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *abhipitveṣu* \< *abhipitva*
+- \[noun\], locative, plural, neuter
+------------------------------------------------------------------------
+- *raṇyati* \< *raṇ*
+- \[verb\], singular, Present indikative
+- “rejoice.”
+------------------------------------------------------------------------

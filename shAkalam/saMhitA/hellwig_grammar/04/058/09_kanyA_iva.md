@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 4.58.9"
+
++++
+-   *kanyā* \< *kanyāḥ* \< *kanyā*
+- \[noun\], accusative, plural, feminine
+- “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
+    child; kanyā \[word\]; burn plant.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vahatum* \< *vahatu*
+- \[noun\], accusative, singular, masculine
+- “marriage.”
+------------------------------------------------------------------------
+- *etavā* \< *etavai* \< *i*
+- \[verb noun\]
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *añjy* \< *añjī* \< *añji*
+- \[noun\], instrumental, singular, masculine
+- “color; ointment; adornment.”
+------------------------------------------------------------------------
+- *añjānā* \< *añjānāḥ* \< *añj*
+- \[verb noun\], accusative, plural
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *cākaśīmi* \< *cākaś* \< *√kāś*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sūyate* \< *su*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “press out; su.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *yajño* \< *yajñaḥ* \< *yajña*
+- \[noun\], nominative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *ghṛtasya* \< *ghṛta*
+- \[noun\], genitive, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *dhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pavante* \< *pū*
+- \[verb\], plural, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------

@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 4.48.1"
+
++++
+-   *vihi* \< *vī*
+- \[verb\], singular, Present imperative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *hotrā* \< *hotra*
+- \[noun\], accusative, plural, neuter
+- “yajña; sacrifice.”
+------------------------------------------------------------------------
+- *avītā* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *avītā* \< *vītāḥ* \< *vī* \< *√i*
+- \[verb noun\], nominative, plural
+- “disappear; differ; elapse.”
+------------------------------------------------------------------------
+- *vipo* \< *vipaḥ* \< *vip*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *vāyav* \< *vāyo* \< *vāyu*
+- \[noun\], vocative, singular, masculine
+- “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
+    draft; vāyu \[word\]; Vāyu; Marut.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *candreṇa* \< *candra*
+- \[noun\], instrumental, singular, masculine
+- “aglitter(p); shining.”
+------------------------------------------------------------------------
+- *rathena* \< *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *yāhi* \< *yā*
+- \[verb\], singular, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *sutasya* \< *suta*
+- \[noun\], genitive, singular, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *pītaye* \< *pīti*
+- \[noun\], dative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------

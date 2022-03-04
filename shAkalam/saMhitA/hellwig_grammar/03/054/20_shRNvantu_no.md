@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 3.54.20"
+
++++
+-   *śṛṇvantu* \< *śru*
+- \[verb\], plural, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vṛṣaṇaḥ* \< *vṛṣan*
+- \[noun\], nominative, plural, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *parvatāso* \< *parvatāsaḥ* \< *parvata*
+- \[noun\], nominative, plural, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *dhruvakṣemāsa* \< *dhruva*
+- \[noun\]
+- “certain; fixed; permanent; changeless; firm; safe; resident;
+    immovable; fixed; fixed; vital; faithful.”
+------------------------------------------------------------------------
+- *dhruvakṣemāsa* \< *kṣemāsaḥ* \< *kṣema*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *iﾱayā* \< *iḍā*
+- \[noun\], instrumental, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *madantaḥ* \< *mad*
+- \[verb noun\], nominative, plural
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *ādityair* \< *ādityaiḥ* \< *āditya*
+- \[noun\], instrumental, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aditiḥ* \< *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *śṛṇotu* \< *śru*
+- \[verb\], singular, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *yacchantu* \< *yam*
+- \[verb\], plural, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *bhadram* \< *bhadra*
+- \[noun\], accusative, singular, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------

@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 4.58.5"
+
++++
+-   *etā* \< *etāḥ* \< *etad*
+- \[noun\], nominative, plural, feminine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *arṣanti* \< *ṛṣ*
+- \[verb\], plural, Present indikative
+- “run.”
+------------------------------------------------------------------------
+- *hṛdyāt* \< *hṛdya*
+- \[noun\], ablative, singular, masculine
+- “good for the heart; dainty; pleasant.”
+------------------------------------------------------------------------
+- *samudrācchatavrajā* \< *samudrāt* \< *samudra*
+- \[noun\], ablative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *samudrācchatavrajā* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *samudrācchatavrajā* \< *vrajāḥ* \< *vraja*
+- \[noun\], nominative, plural, feminine
+- “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
+    herd; flock; group.”
+------------------------------------------------------------------------
+- *ripuṇā* \< *ripu*
+- \[noun\], instrumental, singular, masculine
+- “enemy; arivarga; Ripu; foe.”
+------------------------------------------------------------------------
+- *nāvacakṣe* \< *nā* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāvacakṣe* \< *avacakṣe* \< *avacakṣ* \< *√cakṣ*
+- \[verb noun\]
+- “view.”
+------------------------------------------------------------------------
+- *ghṛtasya* \< *ghṛta*
+- \[noun\], genitive, singular, neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *dhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], accusative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *cākaśīmi* \< *cākaś* \< *√kāś*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *hiraṇyayo* \< *hiraṇyayaḥ* \< *hiraṇyaya*
+- \[noun\], nominative, singular, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *vetaso* \< *vetasaḥ* \< *vetasa*
+- \[noun\], nominative, singular, masculine
+- “rattan; vetasa \[word\].”
+------------------------------------------------------------------------
+- *madhya* \< *madhye* \< *madhya*
+- \[noun\], locative, singular, neuter
+- “midst; center; cavity; inside; middle; center; waist; group; pulp;
+    torso; time interval; area; series; madhya \[word\]; Madhya; noon;
+    middle; middle age; span; belly.”
+------------------------------------------------------------------------
+- *āsām* \< *idam*
+- \[noun\], genitive, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------

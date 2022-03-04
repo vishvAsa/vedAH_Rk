@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 1.35.8"
+
++++
+-   *aṣṭau* \< *aṣṭan*
+- \[noun\], accusative, plural, masculine
+- “eight; eighth; aṣṭan \[word\].”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *akhyat* \< *khyā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *kakubhaḥ* \< *kakubh*
+- \[noun\], accusative, plural, feminine
+- “Kakubh; peak; bulge.”
+------------------------------------------------------------------------
+- *pṛthivyās* \< *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], genitive, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *trī* \< *tri*
+- \[noun\], accusative, plural, neuter
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *dhanva* \< *dhanvan*
+- \[noun\], accusative, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *yojanā* \< *yojana*
+- \[noun\], accusative, plural, neuter
+- “yojana; use; yojana \[word\]; team.”
+------------------------------------------------------------------------
+- *sapta* \< *saptan*
+- \[noun\], accusative, singular, neuter
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *sindhūn* \< *sindhu*
+- \[noun\], accusative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *hiraṇyākṣaḥ* \< *hiraṇya*
+- \[noun\]
+- “aureate; gold.”
+------------------------------------------------------------------------
+- *hiraṇyākṣaḥ* \< *akṣaḥ* \< *akṣa*
+- \[noun\], nominative, singular, masculine
+- “eye; akṣa \[word\]; hole.”
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *deva* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *āgād* \< *āgāt* \< *āgā* \< *√gā*
+- \[verb\], singular, Root aorist (Ind.)
+- “come; arrive.”
+------------------------------------------------------------------------
+- *dadhad* \< *dadhat* \< *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ratnā* \< *ratna*
+- \[noun\], accusative, plural, neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+------------------------------------------------------------------------
+- *dāśuṣe* \< *dāś*
+- \[verb noun\], dative, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *vāryāṇi* \< *vārya*
+- \[noun\], accusative, plural, neuter
+- “precious; valuable.”
+------------------------------------------------------------------------

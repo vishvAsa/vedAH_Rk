@@ -1,0 +1,135 @@
++++
+title = "Rig Veda 1.132.4"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūrvathā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *pravācyaṃ* \< *pravācyam* \< *pravac* \< *√vac*
+- \[verb noun\], nominative, singular
+- “describe; name; enumerate; call; explain; teach; state; tell;
+    impart; convey; address; proclaim.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *aṅgirobhyo* \< *aṅgirobhyaḥ* \< *aṅgiras*
+- \[noun\], dative, plural, masculine
+- “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
+    Aṅgiras.”
+------------------------------------------------------------------------
+- *'vṛṇor* \< *avṛṇoḥ* \< *vṛ*
+- \[verb\], singular, Imperfect
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *vrajam* \< *vraja*
+- \[noun\], accusative, singular, masculine
+- “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
+    herd; flock; group.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *śikṣann* \< *śikṣan* \< *śikṣ*
+- \[verb noun\], nominative, singular
+- “help; give.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *vrajam* \< *vraja*
+- \[noun\], accusative, singular, masculine
+- “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
+    herd; flock; group.”
+------------------------------------------------------------------------
+- *aibhyaḥ* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *aibhyaḥ* \< *ebhyaḥ* \< *idam*
+- \[noun\], dative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *samānyā* \< *samāna*
+- \[noun\], instrumental, singular, feminine
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *diśāsmabhyaṃ* \< *diśā* \< *diś*
+- \[noun\], instrumental, singular, feminine
+- “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
+    distant region; Diś; four; example; method; space.”
+------------------------------------------------------------------------
+- *diśāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *jeṣi* \< *ji*
+- \[verb\], singular, Present indikative
+- “overcome; cure; win; conquer; control; win; succeed; remove; beat;
+    govern; surpass; suppress.”
+------------------------------------------------------------------------
+- *yotsi* \< *yudh*
+- \[verb\], singular, Present indikative
+- “fight; overcome.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *sunvadbhyo* \< *sunvadbhyaḥ* \< *su*
+- \[verb noun\], dative, plural
+- “press out; su.”
+------------------------------------------------------------------------
+- *randhayā* \< *randhaya* \< *randhay* \< *√radh*
+- \[verb\], singular, Present imperative
+- “subjugate; hand over.”
+------------------------------------------------------------------------
+- *kaṃ* \< *kam* \< *ka*
+- \[noun\], accusative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *avrataṃ* \< *avratam* \< *avrata*
+- \[noun\], accusative, singular, masculine
+- “disobedient; evil.”
+------------------------------------------------------------------------
+- *hṛṇāyantaṃ* \< *hṛṇāyantam* \< *hṛṇāy*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *avratam* \< *avrata*
+- \[noun\], accusative, singular, masculine
+- “disobedient; evil.”
+------------------------------------------------------------------------

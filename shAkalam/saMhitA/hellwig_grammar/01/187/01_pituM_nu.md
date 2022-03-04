@@ -1,0 +1,54 @@
++++
+title = "Rig Veda 1.187.1"
+
++++
+-   *pituṃ* \< *pitum* \< *pitu*
+- \[noun\], accusative, singular, masculine
+- “food.”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *stoṣam* \< *stu*
+- \[verb\], singular, Aorist inj. (proh.)
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *dharmāṇaṃ* \< *dharmāṇam* \< *dharman*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *taviṣīm* \< *taviṣī*
+- \[noun\], accusative, singular, feminine
+- “strength; power.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *trito* \< *tritaḥ* \< *trita*
+- \[noun\], nominative, singular, masculine
+- “Trita.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- \[noun\], accusative, singular, masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *viparvam* \< *viparva*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *ardayat* \< *arday* \< *√ṛd*
+- \[verb\], singular, Present injunctive
+- “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
+------------------------------------------------------------------------

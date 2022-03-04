@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 1.191.7"
+
++++
+-   *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aṃsyā* \< *aṃsyāḥ* \< *aṃsya*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aṅgyāḥ* \< *aṅgya*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *sūcīkā* \< *sūcīkāḥ* \< *sūcīka*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *prakaṅkatāḥ* \< *prakaṅkata*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *adṛṣṭāḥ* \< *adṛṣṭa*
+- \[noun\], vocative, plural, masculine
+- “unobserved; invisible; unseen; unanticipated; unknown.”
+------------------------------------------------------------------------
+- *kiṃ* \< *kim* \< *ka*
+- \[noun\], nominative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *caneha* \< *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *caneha* \< *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *vaḥ* \< *tvad*
+- \[noun\], dative, plural
+- “you.”
+------------------------------------------------------------------------
+- *sarve* \< *sarva*
+- \[noun\], nominative, plural, masculine
+- “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
+    entire; sāṃnipātika; manifold; complete; all the(a); different;
+    overall.”
+------------------------------------------------------------------------
+- *sākaṃ* \< *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *jasyata* \< *jas*
+- \[verb\], plural, Present imperative
+- “starve.”
+------------------------------------------------------------------------

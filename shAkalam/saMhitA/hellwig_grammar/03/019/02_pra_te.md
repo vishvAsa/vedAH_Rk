@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 3.19.2"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *haviṣmatīm* \< *haviṣmat*
+- \[noun\], accusative, singular, feminine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *iyarmy* \< *iyarmi* \< *ṛch*
+- \[verb\], singular, Present indikative
+- “enter (a state); travel; shoot; send; hit; originate; get; raise;
+    begin; harm.”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *sudyumnāṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudyumnāṃ* \< *dyumnām* \< *dyumna*
+- \[noun\], accusative, singular, feminine
+- “magnificence.”
+------------------------------------------------------------------------
+- *rātinīṃ* \< *rātinīm* \< *rātin*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *ghṛtācīm* \< *ghṛtāñc*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *pradakṣiṇid* \< *pradakṣiṇit*
+- \[adverb\]
+------------------------------------------------------------------------
+- *devatātim* \< *devatāti*
+- \[noun\], accusative, singular, feminine
+- “deity; Deva.”
+------------------------------------------------------------------------
+- *urāṇaḥ* \< *vṛ*
+- \[verb noun\], nominative, singular
+- “choose; ask.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *rātibhir* \< *rātibhiḥ* \< *rāti*
+- \[noun\], instrumental, plural, masculine
+- “generous.”
+------------------------------------------------------------------------
+- *vasubhir* \< *vasubhiḥ* \< *vasu*
+- \[noun\], instrumental, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *aśret* \< *śri*
+- \[verb\], singular, Root aorist (Ind.)
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------

@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 4.27.3"
+
++++
+-   *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *yacchyeno* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yacchyeno* \< *śyenaḥ* \< *śyena*
+- \[noun\], nominative, singular, masculine
+- “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
+------------------------------------------------------------------------
+- *asvanīd* \< *asvanīt* \< *svan*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “sound; sound.”
+------------------------------------------------------------------------
+- *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *dyor* \< *dyoḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *vāta* \< *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *vāta* \< *atas*
+- \[adverb\]
+- “now; therefore; then; from there; hence; consequently; then; hence;
+    henceforth.”
+------------------------------------------------------------------------
+- *ūhuḥ* \< *vah*
+- \[verb\], plural, Perfect indicative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *purandhim* \< *purandhi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *sṛjad* \< *sṛjat* \< *sṛj*
+- \[verb\], singular, Imperfect
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *asmā* \< *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *kṣipaj* \< *kṣipat* \< *kṣip*
+- \[verb\], singular, Present injunctive
+- “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
+    shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
+------------------------------------------------------------------------
+- *jyāṃ* \< *jyām* \< *jyā*
+- \[noun\], accusative, singular, feminine
+- “bowstring.”
+------------------------------------------------------------------------
+- *kṛśānur* \< *kṛśānuḥ* \< *kṛśānu*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; Plumbago zeylanica.”
+------------------------------------------------------------------------
+- *astā* \< *as*
+- \[verb\], singular, periphrast. future
+- “shoot; remove.”
+------------------------------------------------------------------------
+- *manasā* \< *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *bhuraṇyan* \< *bhuraṇy*
+- \[verb noun\], nominative, singular
+- “be active.”
+------------------------------------------------------------------------

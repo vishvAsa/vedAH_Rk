@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 1.118.2"
+
++++
+-   *trivandhureṇa* \< *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *trivandhureṇa* \< *vandhureṇa* \< *vandhura*
+- \[noun\], instrumental, singular, masculine
+- “seat; seat.”
+------------------------------------------------------------------------
+- *trivṛtā* \< *trivṛt*
+- \[noun\], instrumental, singular, masculine
+- “treble.”
+------------------------------------------------------------------------
+- *rathena* \< *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *tricakreṇa* \< *tri*
+- \[noun\]
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *tricakreṇa* \< *cakreṇa* \< *cakra*
+- \[noun\], instrumental, singular, masculine
+- “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
+    group.”
+------------------------------------------------------------------------
+- *suvṛtā* \< *suvṛt*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *arvāk*
+- \[adverb\]
+- “here.”
+------------------------------------------------------------------------
+- *pinvataṃ* \< *pinvatam* \< *pinv*
+- \[verb\], dual, Present imperative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *jinvatam* \< *jinv*
+- \[verb\], dual, Present imperative
+- “enliven; animate.”
+------------------------------------------------------------------------
+- *arvato* \< *arvataḥ* \< *arvant*
+- \[noun\], accusative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *vardhayatam* \< *vardhay* \< *√vṛdh*
+- \[verb\], dual, Present imperative
+- “increase; strengthen; promote; rear; add; greet; laud.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------

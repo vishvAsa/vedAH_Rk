@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.63.6"
+
++++
+-   *tvāṃ* \< *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *tyad* \< *tya*
+- \[noun\], accusative, singular, neuter
+- “that.”
+------------------------------------------------------------------------
+- *indrārṇasātau* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrārṇasātau* \< *arṇa*
+- \[noun\], masculine
+- “wave; flood.”
+------------------------------------------------------------------------
+- *indrārṇasātau* \< *sātau* \< *sāti*
+- \[noun\], locative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *svarmīḍhe* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarmīḍhe* \< *mīḍhe* \< *mīḍha*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *nara* \< *naraḥ* \< *nṛ*
+- \[noun\], nominative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *ājā* \< *āji*
+- \[noun\], locative, singular, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *svadhāva* \< *svadhāvas* \< *svadhāvat*
+- \[noun\], vocative, singular, masculine
+- “autonomous; independent.”
+------------------------------------------------------------------------
+- *iyam* \< *idam*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *samarya* \< *samarye* \< *samarya*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *ūtir* \< *ūtiḥ* \< *ūti*
+- \[noun\], nominative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *vājeṣv* \< *vājeṣu* \< *vāja*
+- \[noun\], locative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *atasāyyā* \< *atasāyya*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *bhūt* \< *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------

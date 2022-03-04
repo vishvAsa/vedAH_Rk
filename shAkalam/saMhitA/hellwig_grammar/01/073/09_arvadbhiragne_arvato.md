@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 1.73.9"
+
++++
+-   *arvadbhir* \< *arvadbhiḥ* \< *arvant*
+- \[noun\], instrumental, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *arvato* \< *arvataḥ* \< *arvant*
+- \[noun\], accusative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *vīrair* \< *vīraiḥ* \< *vīra*
+- \[noun\], instrumental, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *vīrān* \< *vīra*
+- \[noun\], accusative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *vanuyāmā* \< *van*
+- \[verb\], plural, Present optative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *tvotāḥ* \< *tvota*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *īśānāsaḥ* \< *īś*
+- \[verb noun\], nominative, plural
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *pitṛvittasya* \< *pitṛ*
+- \[noun\], masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *pitṛvittasya* \< *vittasya* \< *vid*
+- \[verb noun\], genitive, singular
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *sūrayaḥ* \< *sūri*
+- \[noun\], nominative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *śatahimā* \< *śata*
+- \[noun\], neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *śatahimā* \< *himā* \< *hima*
+- \[noun\], accusative, plural, neuter
+- “snow; frost; hima \[word\]; winter; tin; silver; pearl;
+    sauvīrāñjana; year; ague; Himalayas; coldness.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aśyuḥ* \< *aś*
+- \[verb\], plural, Aorist optative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

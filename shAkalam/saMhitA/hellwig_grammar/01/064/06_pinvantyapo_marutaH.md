@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 1.64.6"
+
++++
+-   *pinvanty* \< *pinvanti* \< *pinv*
+- \[verb\], plural, Present indikative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *apo* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *sudānavaḥ* \< *sudānu*
+- \[noun\], nominative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *payo* \< *payaḥ* \< *payas*
+- \[noun\], accusative, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *ghṛtavad* \< *ghṛtavat*
+- \[noun\], accusative, singular, neuter
+- “buttery.”
+------------------------------------------------------------------------
+- *vidatheṣv* \< *vidatheṣu* \< *vidatha*
+- \[noun\], locative, plural, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *ābhuvaḥ* \< *ābhū*
+- \[noun\], nominative, plural, masculine
+- “assistant.”
+------------------------------------------------------------------------
+- *atyaṃ* \< *atyam* \< *atya*
+- \[noun\], accusative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mihe* \< *mih*
+- \[verb noun\]
+- “make; moisten.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *nayanti* \< *nī*
+- \[verb\], plural, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *vājinam* \< *vājin*
+- \[noun\], accusative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *utsaṃ* \< *utsam* \< *utsa*
+- \[noun\], accusative, singular, masculine
+- “spring; fountain; utsa \[word\]; well.”
+------------------------------------------------------------------------
+- *duhanti* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *stanayantam* \< *stanay* \< *√stan*
+- \[verb noun\], accusative, singular
+- “thunder; thunder.”
+------------------------------------------------------------------------
+- *akṣitam* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *akṣitam* \< *kṣitam* \< *kṣi*
+- \[verb noun\], accusative, singular
+- “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
+    lose; lose; gasify; decline; decay; corrupt.”
+------------------------------------------------------------------------

@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.159.4"
+
++++
+-   *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *māyino* \< *māyinaḥ* \< *māyin*
+- \[noun\], nominative, plural, masculine
+- “artful; charming; crafty; deceptive.”
+------------------------------------------------------------------------
+- *mamire* \< *mā*
+- \[verb\], plural, Perfect indicative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------
+- *supracetaso* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supracetaso* \< *pracetasaḥ* \< *pracetas*
+- \[noun\], nominative, plural, masculine
+- “intelligent; mindful; attentive; wise; apt; observant.”
+------------------------------------------------------------------------
+- *jāmī* \< *jāmi*
+- \[noun\], accusative, dual, feminine
+- “sister; woman; daughter-in-law.”
+------------------------------------------------------------------------
+- *sayonī* \< *sayoni*
+- \[noun\], accusative, dual, feminine
+- “related.”
+------------------------------------------------------------------------
+- *mithunā* \< *mithuna*
+- \[noun\], accusative, plural, neuter
+- “twin; couple; couple; coupling; sexual intercourse; Gemini.”
+------------------------------------------------------------------------
+- *samokasā* \< *samokas*
+- \[noun\], accusative, dual, feminine
+------------------------------------------------------------------------
+- *navyaṃ* \< *navyam* \< *navya*
+- \[noun\], accusative, singular, masculine
+- “new; fresh.”
+------------------------------------------------------------------------
+- *navyaṃ* \< *navyam* \< *navya*
+- \[noun\], accusative, singular, masculine
+- “new; fresh.”
+------------------------------------------------------------------------
+- *tantum* \< *tantu*
+- \[noun\], accusative, singular, masculine
+- “thread; fiber; lineage; cobweb; fibril; stalk.”
+------------------------------------------------------------------------
+- *ā* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *tanvate* \< *tan*
+- \[verb\], plural, Present indikative
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *samudre* \< *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *antaḥ* \< *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *kavayaḥ* \< *kavi*
+- \[noun\], nominative, plural, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *sudītayaḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudītayaḥ* \< *dītayaḥ* \< *dīti*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

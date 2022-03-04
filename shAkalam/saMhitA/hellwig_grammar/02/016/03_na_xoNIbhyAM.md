@@ -1,0 +1,97 @@
++++
+title = "Rig Veda 2.16.3"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kṣoṇībhyām* \< *kṣoṇī*
+- \[noun\], instrumental, dual, feminine
+- “Earth.”
+------------------------------------------------------------------------
+- *paribhve* \< *paribhū* \< *√bhū*
+- \[verb noun\]
+- “overcome; contemn; enclose; discredit; happen.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indriyaṃ* \< *indriyam* \< *indriya*
+- \[noun\], nominative, singular, neuter
+- “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
+    penis; manfulness; force.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *samudraiḥ* \< *samudra*
+- \[noun\], instrumental, plural, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *parvatair* \< *parvataiḥ* \< *parvata*
+- \[noun\], instrumental, plural, masculine
+- “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
+    height.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vajram* \< *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *anv* \< *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *aśnoti* \< *aś*
+- \[verb\], singular, Present indikative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *kaścana*
+- \[noun\], nominative, singular, masculine
+- “some(a); any(a); some(a); any(a).”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *āśubhiḥ* \< *āśu*
+- \[noun\], instrumental, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *patasi* \< *pat*
+- \[verb\], singular, Present indikative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *yojanā* \< *yojana*
+- \[noun\], accusative, plural, neuter
+- “yojana; use; yojana \[word\]; team.”
+------------------------------------------------------------------------
+- *puru*
+- \[noun\], accusative, singular, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------

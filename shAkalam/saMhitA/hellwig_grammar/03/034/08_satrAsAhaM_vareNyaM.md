@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 3.34.8"
+
++++
+-   *satrāsāhaṃ* \< *satrāsāham* \< *satrāsāh*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vareṇyaṃ* \< *vareṇyam* \< *vareṇya*
+- \[noun\], accusative, singular, masculine
+- “excellent; desirable.”
+------------------------------------------------------------------------
+- *sahodāṃ* \< *sahaḥ* \< *sahas*
+- \[noun\], neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *sahodāṃ* \< *dām* \< *dā*
+- \[noun\], accusative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *sasavāṃsaṃ* \< *sasavāṃsam* \< *san*
+- \[verb noun\], accusative, singular
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *apaś* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *devīḥ* \< *deva*
+- \[noun\], accusative, plural, feminine
+- “divine.”
+------------------------------------------------------------------------
+- *sasāna* \< *san*
+- \[verb\], singular, Perfect indicative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *dyām* \< *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *utemām* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utemām* \< *imām* \< *idam*
+- \[noun\], accusative, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *madanty* \< *madanti* \< *mad*
+- \[verb\], plural, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *dhīraṇāsaḥ* \< *dhīraṇa*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.180.10"
+
++++
+-   *taṃ* \< *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adyā* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *huvema* \< *hu*
+- \[verb\], plural, Aorist optative
+- “sacrifice; offer; pour; worship.”
+------------------------------------------------------------------------
+- *stomair* \< *stomaiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *suvitāya* \< *suvita*
+- \[noun\], dative, singular, neuter
+- “prosperity; well-being.”
+------------------------------------------------------------------------
+- *navyam* \< *navya*
+- \[noun\], accusative, singular, masculine
+- “new; fresh.”
+------------------------------------------------------------------------
+- *ariṣṭanemim* \< *ariṣṭa*
+- \[noun\]
+- “safe; unharmed.”
+------------------------------------------------------------------------
+- *ariṣṭanemim* \< *nemim* \< *nemi*
+- \[noun\], accusative, singular, masculine
+- “rim; felloe.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *dyām* \< *div*
+- \[noun\], accusative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *iyānaṃ* \< *iyānam* \< *i*
+- \[verb noun\], accusative, singular
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vidyāmeṣaṃ* \< *vidyāma* \< *vid*
+- \[verb\], plural, Present optative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *vidyāmeṣaṃ* \< *iṣam* \< *iṣa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- \[noun\], vocative, singular, neuter
+- “community; settlement.”
+------------------------------------------------------------------------
+- *jīradānum* \< *jīra*
+- \[noun\]
+- “agile; quick; fast.”
+------------------------------------------------------------------------
+- *jīradānum* \< *dānum* \< *dānu*
+- \[noun\], accusative, singular, masculine
+- “Dānu; dew; drop.”
+------------------------------------------------------------------------

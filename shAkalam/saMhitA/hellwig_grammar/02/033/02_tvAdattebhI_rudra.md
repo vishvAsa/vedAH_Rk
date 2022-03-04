@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 2.33.2"
+
++++
+-   *tvādattebhī* \< *tvādattebhiḥ* \< *tvādatta*
+- \[noun\], instrumental, plural, neuter
+------------------------------------------------------------------------
+- *rudra*
+- \[noun\], vocative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *śantamebhiḥ* \< *śaṃtama*
+- \[noun\], instrumental, plural, neuter
+- “beneficent.”
+------------------------------------------------------------------------
+- *śataṃ* \< *śatam* \< *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *himā* \< *hima*
+- \[noun\], accusative, plural, neuter
+- “snow; frost; hima \[word\]; winter; tin; silver; pearl;
+    sauvīrāñjana; year; ague; Himalayas; coldness.”
+------------------------------------------------------------------------
+- *aśīya* \< *aś*
+- \[verb\], singular, Aorist optative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *bheṣajebhiḥ* \< *bheṣaja*
+- \[noun\], instrumental, plural, neuter
+- “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *asmad* \< *asmat* \< *mad*
+- \[noun\], ablative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- \[noun\], accusative, singular, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *vitaraṃ* \< *vitaram*
+- \[adverb\]
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- \[noun\], accusative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *amīvāś* \< *amīvāḥ* \< *amīvā*
+- \[noun\], accusative, plural, feminine
+- “disease; affliction.”
+------------------------------------------------------------------------
+- *cātayasvā* \< *cātay* \< *√cat*
+- \[verb\], singular, Present imperative
+- “chase away.”
+------------------------------------------------------------------------
+- *viṣūcīḥ* \< *viṣvañc*
+- \[noun\], accusative, plural, feminine
+- “dispersed; viṣvañc \[word\].”
+------------------------------------------------------------------------

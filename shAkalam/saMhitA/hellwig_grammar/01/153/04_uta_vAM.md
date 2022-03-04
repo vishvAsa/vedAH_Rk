@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 1.153.4"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *vikṣu* \< *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *madyāsv* \< *madyāsu* \< *mad*
+- \[verb noun\], locative, plural
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *andho* \< *andhaḥ* \< *andhas*
+- \[noun\], accusative, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *gāva* \< *gāvaḥ* \< *go*
+- \[noun\], nominative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *āpaś* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *pīpayanta* \< *pyā*
+- \[verb\], plural, Perfect conjunctive (subj.)
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *devīḥ* \< *deva*
+- \[noun\], nominative, plural, feminine
+- “divine.”
+------------------------------------------------------------------------
+- *uto* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *uto* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pūrvyaḥ* \< *pūrvya*
+- \[noun\], nominative, singular, masculine
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *patir* \< *patiḥ* \< *pati*
+- \[noun\], nominative, singular, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *dan* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *vītam* \< *vī*
+- \[verb\], dual, Present imperative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *pātam* \< *pā*
+- \[verb\], dual, Aorist imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *payasa* \< *payasaḥ* \< *payas*
+- \[noun\], genitive, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *usriyāyāḥ* \< *usriyā*
+- \[noun\], genitive, singular, feminine
+- “cow; dairy product.”
+------------------------------------------------------------------------

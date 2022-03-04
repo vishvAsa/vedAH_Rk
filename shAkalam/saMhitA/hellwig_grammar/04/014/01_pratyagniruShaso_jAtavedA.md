@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.14.1"
+
++++
+-   *praty* \< *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *agnir* \< *agniḥ* \< *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], accusative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *jātavedā* \< *jātavedāḥ* \< *jātavedas*
+- \[noun\], nominative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *akhyad* \< *akhyat* \< *khyā*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------
+- *devo* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *rocamānā* \< *rocamānāḥ* \< *ruc*
+- \[verb noun\], accusative, plural
+- “please; shine.”
+------------------------------------------------------------------------
+- *mahobhiḥ* \< *mahas*
+- \[noun\], instrumental, plural, neuter
+- “greatness; festival; glory; reward; gladness.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *nāsatyorugāyā* \< *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *nāsatyorugāyā* \< *uru*
+- \[noun\], accusative, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *nāsatyorugāyā* \< *gāyā* \< *gāya*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *rathenemaṃ* \< *rathena* \< *ratha*
+- \[noun\], instrumental, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *rathenemaṃ* \< *imam* \< *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *accha* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------

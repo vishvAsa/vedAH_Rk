@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 2.31.1"
+
++++
+-   *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitrāvaruṇāvataṃ* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *mitrāvaruṇāvataṃ* \< *avatam* \< *av*
+- \[verb\], dual, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *ādityai* \< *ādityaiḥ* \< *āditya*
+- \[noun\], instrumental, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *rudrair* \< *rudraiḥ* \< *rudra*
+- \[noun\], instrumental, plural, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *vasubhiḥ* \< *vasu*
+- \[noun\], instrumental, plural, masculine
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *sacābhuvā* \< *sacābhū*
+- \[noun\], nominative, dual, masculine
+- “ally.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vayo* \< *vayaḥ* \< *vi*
+- \[noun\], nominative, plural, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *paptan* \< *pat*
+- \[verb\], plural, Aorist inj. (proh.)
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *vasmanas* \< *vasman*
+- \[noun\], genitive, singular, neuter
+- “nest.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- \[noun\], nominative, plural, masculine
+- “celebrated.”
+------------------------------------------------------------------------
+- *hṛṣīvanto* \< *hṛṣīvantaḥ* \< *hṛṣīvat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *vanarṣadaḥ* \< *vanarṣad*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

@@ -1,0 +1,101 @@
++++
+title = "Rig Veda 2.28.11"
+
++++
+-   *māham* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māham* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *maghono* \< *maghonaḥ* \< *maghavan*
+- \[noun\], genitive, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *varuṇa*
+- \[noun\], vocative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *priyasya* \< *priya*
+- \[noun\], genitive, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *bhūridāvna* \< *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūridāvna* \< *dāvnaḥ* \< *dāvan*
+- \[noun\], genitive, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vidaṃ* \< *vidam* \< *vid*
+- \[verb\], singular, Aorist inj. (proh.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *śūnam* \< *śūna*
+- \[noun\], accusative, singular, neuter
+- “lack; absence.”
+------------------------------------------------------------------------
+- *āpeḥ* \< *āpi*
+- \[noun\], genitive, singular, masculine
+- “friend.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *rāyo* \< *rāyaḥ* \< *rai*
+- \[noun\], ablative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *suyamād* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suyamād* \< *yamāt* \< *yama*
+- \[noun\], ablative, singular, masculine
+- “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
+------------------------------------------------------------------------
+- *ava*
+- \[adverb\]
+- “down.”
+------------------------------------------------------------------------
+- *sthām* \< *sthā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *bṛhad* \< *bṛhat* \< *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *vadema* \< *vad*
+- \[verb\], plural, Present optative
+- “describe; teach; speak; tell; say; call; name; enumerate; declare;
+    diagnose; address; say; pronounce; express; instruct; order.”
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------

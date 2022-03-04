@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 2.34.11"
+
++++
+-   *tān* \< *tad*
+- \[noun\], accusative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], accusative, plural, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *maruta* \< *marutaḥ* \< *marut*
+- \[noun\], accusative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *evayāvno* \< *eva*
+- \[noun\]
+- “fast; rapid; agile.”
+------------------------------------------------------------------------
+- *evayāvno* \< *yāvnaḥ* \< *yāvan*
+- \[noun\], accusative, plural, masculine
+- “traveler.”
+------------------------------------------------------------------------
+- *viṣṇor* \< *viṣṇoḥ* \< *viṣṇu*
+- \[noun\], genitive, singular, masculine
+- “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
+------------------------------------------------------------------------
+- *eṣasya* \< *eṣa*
+- \[noun\], genitive, singular, masculine
+- “quest.”
+------------------------------------------------------------------------
+- *prabhṛthe* \< *prabhṛtha*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *havāmahe* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *hiraṇyavarṇān* \< *hiraṇya*
+- \[noun\], neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *hiraṇyavarṇān* \< *varṇān* \< *varṇa*
+- \[noun\], accusative, plural, masculine
+- “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
+    appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
+------------------------------------------------------------------------
+- *kakuhān* \< *kakuha*
+- \[noun\], accusative, plural, masculine
+- “huge; eminent; distinguished.”
+------------------------------------------------------------------------
+- *yatasruco* \< *yata* \< *yam*
+- \[verb noun\]
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *yatasruco* \< *srucaḥ* \< *sruc*
+- \[noun\], accusative, plural, masculine
+- “Sruc.”
+------------------------------------------------------------------------
+- *brahmaṇyantaḥ* \< *brahmaṇy*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *śaṃsyaṃ* \< *śaṃsyam* \< *śaṃs*
+- \[verb noun\], accusative, singular
+- “recommend; tell; praise; approve; communicate; recite; commend;
+    bode; name; agree.”
+------------------------------------------------------------------------
+- *rādha* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *īmahe* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------

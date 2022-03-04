@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 4.34.7"
+
++++
+-   *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *varuṇena* \< *varuṇa*
+- \[noun\], instrumental, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Aorist imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *marudbhiḥ* \< *marut*
+- \[noun\], instrumental, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *agrepābhir* \< *agre*
+- \[adverb\]
+- “first; agre \[word\].”
+------------------------------------------------------------------------
+- *agrepābhir* \< *pābhiḥ* \< *pā*
+- \[noun\], instrumental, plural, feminine
+- “drinking.”
+------------------------------------------------------------------------
+- *ṛtupābhiḥ* \< *ṛtu*
+- \[noun\], masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+------------------------------------------------------------------------
+- *ṛtupābhiḥ* \< *pābhiḥ* \< *pā*
+- \[noun\], instrumental, plural, feminine
+- “drinking.”
+------------------------------------------------------------------------
+- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *gnāspatnībhī* \< *gnāspatnībhiḥ* \< *gnāspatnī*
+- \[noun\], instrumental, plural, feminine
+------------------------------------------------------------------------
+- *ratnadhābhiḥ* \< *ratna*
+- \[noun\], neuter
+- “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
+    jewelry.”
+------------------------------------------------------------------------
+- *ratnadhābhiḥ* \< *dhābhiḥ* \< *dhā*
+- \[noun\], instrumental, plural, feminine
+- “giving.”
+------------------------------------------------------------------------
+- *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------

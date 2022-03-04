@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 2.20.2"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tvābhir* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *ūtī* \< *ūti*
+- \[noun\], instrumental, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *tvāyato* \< *tvāyataḥ* \< *tvāyat*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *abhiṣṭipāsi* \< *abhiṣṭi*
+- \[noun\], feminine
+- “prevalence; protection.”
+------------------------------------------------------------------------
+- *abhiṣṭipāsi* \< *pā*
+- \[noun\], nominative, singular, masculine
+- “protecting.”
+------------------------------------------------------------------------
+- *abhiṣṭipāsi* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *janān* \< *jana*
+- \[noun\], accusative, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ino* \< *inaḥ* \< *ina*
+- \[noun\], nominative, singular, masculine
+- “mighty; powerful.”
+------------------------------------------------------------------------
+- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- \[verb noun\], genitive, singular
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *varūtetthādhīr* \< *varūtā* \< *varūtṛ*
+- \[noun\], nominative, singular, masculine
+- “varūtṛ \[word\].”
+------------------------------------------------------------------------
+- *varūtetthādhīr* \< *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *varūtetthādhīr* \< *dhīḥ* \< *dhī*
+- \[noun\], nominative, singular, masculine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nakṣati* \< *nakṣ*
+- \[verb\], singular, Present indikative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------

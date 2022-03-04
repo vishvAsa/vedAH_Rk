@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 1.122.8"
+
++++
+-   *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *stuṣe* \< *stu*
+- \[verb\], singular, Present indikative
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *mahimaghasya* \< *mahi*
+- \[noun\]
+- “great; firm.”
+------------------------------------------------------------------------
+- *mahimaghasya* \< *maghasya* \< *magha*
+- \[noun\], genitive, singular, masculine
+- “gift; wealth; reward; wages; reward.”
+------------------------------------------------------------------------
+- *rādhaḥ* \< *rādhas*
+- \[noun\], nominative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *sanema* \< *san*
+- \[verb\], plural, Aorist optative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *nahuṣaḥ* \< *nahus*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *jano* \< *janaḥ* \< *jana*
+- \[noun\], nominative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pajrebhyo* \< *pajrebhyaḥ* \< *pajra*
+- \[noun\], dative, plural, masculine
+------------------------------------------------------------------------
+- *vājinīvān* \< *vājinīvat*
+- \[noun\], nominative, singular, masculine
+- “rich; rich in horses.”
+------------------------------------------------------------------------
+- *aśvāvato* \< *aśvāvataḥ* \< *aśvāvat*
+- \[noun\], accusative, plural, masculine
+- “rich in horses.”
+------------------------------------------------------------------------
+- *rathino* \< *rathinaḥ* \< *rathin*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *mahyaṃ* \< *mahyam* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sūriḥ* \< *sūri*
+- \[noun\], nominative, singular, masculine
+- “patron.”
+------------------------------------------------------------------------

@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 2.33.8"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *babhrave* \< *babhru*
+- \[noun\], dative, singular, masculine
+- “tawny; brown.”
+------------------------------------------------------------------------
+- *vṛṣabhāya* \< *vṛṣabha*
+- \[noun\], dative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *śvitīce* \< *śvityañc*
+- \[noun\], dative, singular, masculine
+- “white.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *mahīṃ* \< *mahīm* \< *mah*
+- \[noun\], accusative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *suṣṭutim* \< *suṣṭuti*
+- \[noun\], accusative, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *īrayāmi* \< *īray* \< *√īr*
+- \[verb\], singular, Present indikative
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+- *namasyā* \< *namasy*
+- \[verb\], singular, Present imperative
+- “worship; respect.”
+------------------------------------------------------------------------
+- *kalmalīkinaṃ* \< *kalmalīkinam* \< *kalmalīkin*
+- \[noun\], accusative, singular, masculine
+- “ablaze(p); shining.”
+------------------------------------------------------------------------
+- *namobhir* \< *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *gṛṇīmasi* \< *gṛ*
+- \[verb\], plural, Present optative
+- “praise.”
+------------------------------------------------------------------------
+- *tveṣaṃ* \< *tveṣam* \< *tveṣa*
+- \[noun\], accusative, singular, neuter
+- “awful; brilliant; aglitter(p); bright.”
+------------------------------------------------------------------------
+- *rudrasya* \< *rudra*
+- \[noun\], genitive, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *nāma* \< *nāman*
+- \[noun\], accusative, singular, neuter
+- “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
+    word.”
+------------------------------------------------------------------------

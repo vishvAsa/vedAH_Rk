@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 4.23.10"
+
++++
+-   *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *yemāna* \< *yemānaḥ* \< *yam*
+- \[verb noun\], nominative, singular
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *vanoty* \< *vanoti* \< *van*
+- \[verb\], singular, Present indikative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *śuṣmas* \< *śuṣmaḥ* \< *śuṣma*
+- \[noun\], nominative, singular, masculine
+- “vigor; energy; fire; hiss; courage.”
+------------------------------------------------------------------------
+- *turayā* \< *tura*
+- \[noun\]
+- “powerful; noble; noble.”
+------------------------------------------------------------------------
+- *turayā* \< *yāḥ* \< *yā*
+- \[noun\], nominative, singular, masculine
+- “going.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *gavyuḥ* \< *gavyu*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ṛtāya* \< *ṛta*
+- \[noun\], dative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *pṛthvī* \< *pṛthu*
+- \[noun\], nominative, dual, feminine
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *bahule* \< *bahula*
+- \[noun\], nominative, dual, feminine
+- “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
+    \[word\]; accompanied; prevailing.”
+------------------------------------------------------------------------
+- *gabhīre* \< *gabhīra*
+- \[noun\], nominative, dual, feminine
+- “deep; profound; immeasurable; unfathomable; unfathomable;
+    mysterious; deep; countless.”
+------------------------------------------------------------------------
+- *ṛtāya* \< *ṛta*
+- \[noun\], dative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *dhenū* \< *dhenu*
+- \[noun\], nominative, dual, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *parame* \< *parama*
+- \[noun\], nominative, dual, feminine
+- “extreme; best; excellent; highest; highest; devoted(p); maximal;
+    distant; parama \[word\]; very; farthermost.”
+------------------------------------------------------------------------
+- *duhāte* \< *duh*
+- \[verb\], dual, Present indikative
+- “milk.”
+------------------------------------------------------------------------

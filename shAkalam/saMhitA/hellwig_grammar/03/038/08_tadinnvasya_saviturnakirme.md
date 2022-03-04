@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 3.38.8"
+
++++
+-   *tad* \< *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *in* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *nv* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *savitur* \< *savituḥ* \< *savitṛ*
+- \[noun\], genitive, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *hiraṇyayīm* \< *hiraṇyaya*
+- \[noun\], accusative, singular, feminine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *amatiṃ* \< *amatim* \< *amati*
+- \[noun\], accusative, singular, feminine
+- “effigy; ignorance; light; light; luster; form.”
+------------------------------------------------------------------------
+- *yām* \< *yad*
+- \[noun\], accusative, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aśiśret* \< *śri*
+- \[verb\], singular, Plusquamperfect
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suṣṭutī* \< *suṣṭuti*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *viśvaminve* \< *viśvaminva*
+- \[noun\], accusative, dual, neuter
+------------------------------------------------------------------------
+- *apīva* \< *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *apīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yoṣā*
+- \[noun\], nominative, singular, feminine
+- “woman; puppet; daughter.”
+------------------------------------------------------------------------
+- *janimāni* \< *janiman*
+- \[noun\], accusative, plural, neuter
+- “birth; offspring; origin; kind; being.”
+------------------------------------------------------------------------
+- *vavre* \< *vṛ*
+- \[verb\], singular, Perfect indicative
+- “surround; accompany; cover; cover; obstruct; check; spread;
+    envelop.”
+------------------------------------------------------------------------

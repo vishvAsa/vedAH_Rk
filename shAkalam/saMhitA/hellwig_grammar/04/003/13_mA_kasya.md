@@ -1,0 +1,97 @@
++++
+title = "Rig Veda 4.3.13"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *kasya* \< *ka*
+- \[noun\], genitive, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *yakṣaṃ* \< *yakṣam* \< *yakṣa*
+- \[noun\], accusative, singular, neuter
+- “apparition; monster; apparition.”
+------------------------------------------------------------------------
+- *sadam*
+- \[adverb\]
+- “always.”
+------------------------------------------------------------------------
+- *iddhuro* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *iddhuro* \< *huras*
+- \[adverb\]
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *gā*
+- \[verb\], singular, Aorist inj. (proh.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *veśasya* \< *veśa*
+- \[noun\], genitive, singular, masculine
+- “whorehouse; prostitute; neighbor; braid.”
+------------------------------------------------------------------------
+- *praminato* \< *praminataḥ* \< *pramī* \< *√mī*
+- \[verb noun\], genitive, singular
+- “destroy.”
+------------------------------------------------------------------------
+- *māpeḥ* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māpeḥ* \< *āpeḥ* \< *āpi*
+- \[noun\], genitive, singular, masculine
+- “friend.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *bhrātur* \< *bhrātuḥ* \< *bhrātṛ*
+- \[noun\], genitive, singular, masculine
+- “brother; bhrātṛ; relative.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *anṛjor* \< *anṛjoḥ* \< *anṛju*
+- \[noun\], genitive, singular, masculine
+- “dishonest; evil.”
+------------------------------------------------------------------------
+- *ṛṇaṃ* \< *ṛṇam* \< *ṛṇa*
+- \[noun\], accusative, singular, neuter
+- “debt; debt; ṛṇa \[word\].”
+------------------------------------------------------------------------
+- *ver* \< *veḥ* \< *vī*
+- \[verb\], singular, Present injunctive
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- \[noun\], genitive, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *dakṣaṃ* \< *dakṣam* \< *dakṣa*
+- \[noun\], accusative, singular, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *ripor* \< *ripoḥ* \< *ripu*
+- \[noun\], genitive, singular, masculine
+- “punic; deceitful; unfriendly.”
+------------------------------------------------------------------------
+- *bhujema* \< *bhuj*
+- \[verb\], plural, Aorist optative
+- “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
+------------------------------------------------------------------------

@@ -1,0 +1,110 @@
++++
+title = "Rig Veda 1.94.7"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viśvataḥ* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *supratīkaḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supratīkaḥ* \< *pratīkaḥ* \< *pratīka*
+- \[noun\], nominative, singular, masculine
+- “face; surface.”
+------------------------------------------------------------------------
+- *sadṛṅṅ* \< *sadṛś*
+- \[noun\], nominative, singular, masculine
+- “like; same.”
+------------------------------------------------------------------------
+- *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *dūre* \< *dūra*
+- \[noun\], locative, singular, neuter
+- “distance; distance; farness.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *san* \< *as*
+- \[verb noun\], nominative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *taḍid* \< *taḍit*
+- \[noun\], nominative, singular, feminine
+- “lightning; lightning.”
+------------------------------------------------------------------------
+- *ivāti* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivāti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *rocase* \< *ruc*
+- \[verb\], singular, Present indikative
+- “please; shine.”
+------------------------------------------------------------------------
+- *rātryāś* \< *rātryāḥ* \< *rātri*
+- \[noun\], genitive, singular, feminine
+- “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *andho* \< *andhaḥ* \< *andhas*
+- \[noun\], accusative, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *paśyasy* \< *paśyasi* \< *paś*
+- \[verb\], singular, Present indikative
+- “see; view; watch; meet; observe; think of; look; examine; behold;
+    visit; understand.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *sakhye* \< *sakhya*
+- \[noun\], locative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *riṣāmā* \< *riṣ*
+- \[verb\], plural, Aorist conj./subj.
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------

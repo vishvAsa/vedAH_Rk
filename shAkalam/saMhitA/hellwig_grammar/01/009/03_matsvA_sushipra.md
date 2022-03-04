@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 1.9.3"
+
++++
+-   *matsvā* \< *mad*
+- \[verb\], singular, Aorist imperative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *suśipra* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśipra* \< *śipra* \< *śiprā*
+- \[noun\], vocative, singular, masculine
+- “lip; śiprā.”
+------------------------------------------------------------------------
+- *mandibhi* \< *mandibhiḥ* \< *mandin*
+- \[noun\], instrumental, plural, masculine
+- “intoxicant; exhilarating.”
+------------------------------------------------------------------------
+- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *viśvacarṣaṇe* \< *viśvacarṣaṇi*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *sacaiṣu* \< *sacā*
+- \[adverb\]
+- “jointly.”
+------------------------------------------------------------------------
+- *sacaiṣu* \< *eṣu* \< *idam*
+- \[noun\], locative, plural, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *savaneṣv* \< *savaneṣu* \< *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------

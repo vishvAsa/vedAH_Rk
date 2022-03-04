@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 1.26.5"
+
++++
+-   *pūrvya*
+- \[noun\], vocative, singular, masculine
+- “first; precedent; age-old; excellent; former(a).”
+------------------------------------------------------------------------
+- *hotar* \< *hotṛ*
+- \[noun\], vocative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mandasva* \< *mand*
+- \[verb\], singular, Present imperative
+- “rejoice; exhilarate.”
+------------------------------------------------------------------------
+- *sakhyasya* \< *sakhya*
+- \[noun\], genitive, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *imā* \< *imāḥ* \< *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *śrudhī* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *giraḥ* \< *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------

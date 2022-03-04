@@ -1,0 +1,89 @@
++++
+title = "Rig Veda 1.158.5"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *garan* \< *gṛ*
+- \[verb\], plural, Aorist conj./subj.
+- “devour; swallow; surround.”
+------------------------------------------------------------------------
+- *nadyo* \< *nadyaḥ* \< *nadī*
+- \[noun\], nominative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *mātṛtamā* \< *mātṛtamāḥ* \< *mātṛtama*
+- \[noun\], nominative, plural, feminine
+- “motherly.”
+------------------------------------------------------------------------
+- *dāsā* \< *dāsāḥ* \< *dāsa*
+- \[noun\], nominative, plural, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *susamubdham* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *susamubdham* \< *samubdham* \< *samubh* \< *√ubh*
+- \[verb noun\], accusative, singular
+------------------------------------------------------------------------
+- *avādhuḥ* \< *avadhā* \< *√dhā*
+- \[verb\], plural, Root aorist (Ind.)
+- “concentrate; immerse; set down.”
+------------------------------------------------------------------------
+- *śiro* \< *śiraḥ* \< *śiras*
+- \[noun\], accusative, singular, neuter
+- “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *traitano* \< *traitanaḥ* \< *traitana*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vitakṣat* \< *vitakṣ* \< *√takṣ*
+- \[verb\], singular, Present injunctive
+------------------------------------------------------------------------
+- *svayaṃ* \< *svayam*
+- \[adverb\]
+- “personally; spontaneously; svayam \[word\]; voluntarily.”
+------------------------------------------------------------------------
+- *dāsa* \< *dāsaḥ* \< *dāsa*
+- \[noun\], nominative, singular, masculine
+- “slave; Dāsa; servant; savage; Shudra.”
+------------------------------------------------------------------------
+- *uro* \< *uraḥ* \< *uras*
+- \[noun\], accusative, singular, neuter
+- “breast; thorax; uras \[word\]; bosom; center.”
+------------------------------------------------------------------------
+- *aṃsāv* \< *aṃsau* \< *aṃsa*
+- \[noun\], accusative, dual, masculine
+- “shoulder; aṃsa \[word\].”
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *gdha* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------

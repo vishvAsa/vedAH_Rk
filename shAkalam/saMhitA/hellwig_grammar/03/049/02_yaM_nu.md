@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 3.49.2"
+
++++
+-   *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *nakiḥ* \< *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *svarājaṃ* \< *svarājam* \< *svarāj*
+- \[noun\], accusative, singular, masculine
+- “svarāj; Vishnu.”
+------------------------------------------------------------------------
+- *dvitā*
+- \[adverb\]
+- “again.”
+------------------------------------------------------------------------
+- *tarati* \< *tṛ*
+- \[verb\], singular, Present indikative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *nṛtamaṃ* \< *nṛtamam* \< *nṛtama*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *hariṣṭhām* \< *hariṣṭhā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *inatamaḥ* \< *inatama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *satvabhir* \< *satvabhiḥ* \< *satvan*
+- \[noun\], instrumental, plural, masculine
+- “warrior.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *śūṣaiḥ* \< *śūṣa*
+- \[noun\], instrumental, plural, masculine
+- “loud; brave.”
+------------------------------------------------------------------------
+- *pṛthujrayā* \< *pṛthu*
+- \[noun\]
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *pṛthujrayā* \< *jrayāḥ* \< *jrayas*
+- \[noun\], nominative, singular, masculine
+- “expanse; area.”
+------------------------------------------------------------------------
+- *aminād* \< *amināt* \< *mī*
+- \[verb\], singular, Imperfect
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *āyur* \< *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *dasyoḥ* \< *dasyu*
+- \[noun\], genitive, singular, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------

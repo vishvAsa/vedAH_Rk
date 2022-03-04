@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 2.27.7"
+
++++
+-   *pipartu* \< *pṛ*
+- \[verb\], singular, Present imperative
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aditī* \< *aditiḥ* \< *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *rājaputrāti* \< *rāja* \< *rājan*
+- \[noun\], masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *rājaputrāti* \< *putrā* \< *putra*
+- \[noun\], nominative, singular, feminine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *rājaputrāti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *dveṣāṃsy* \< *dveṣāṃsi* \< *dveṣas*
+- \[noun\], accusative, plural, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *aryamā* \< *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *sugebhiḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sugebhiḥ* \< *gebhiḥ* \< *ga*
+- \[noun\], instrumental, plural, masculine
+- “located; moving; flowing; passable; ga \[word\]; accordant.”
+------------------------------------------------------------------------
+- *bṛhan* \< *bṛhat*
+- \[noun\], accusative, singular, neuter
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *mitrasya* \< *mitra*
+- \[noun\], genitive, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *varuṇasya* \< *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *śarmopa* \< *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *śarmopa* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *puruvīrā* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruvīrā* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *ariṣṭāḥ* \< *ariṣṭa*
+- \[noun\], nominative, plural, masculine
+- “safe; unharmed.”
+------------------------------------------------------------------------

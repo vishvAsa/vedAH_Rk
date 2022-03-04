@@ -1,0 +1,72 @@
++++
+title = "Rig Veda 4.4.12"
+
++++
+-   *asvapnajas* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asvapnajas* \< *svapnajaḥ* \< *svapnaj*
+- \[noun\], nominative, plural, masculine
+- “sleepy; asleep(p).”
+------------------------------------------------------------------------
+- *taraṇayaḥ* \< *taraṇi*
+- \[noun\], nominative, plural, masculine
+- “energetic; agile.”
+------------------------------------------------------------------------
+- *suśevā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśevā* \< *śevāḥ* \< *śeva*
+- \[noun\], nominative, plural, masculine
+- “friendly; favorable; dear.”
+------------------------------------------------------------------------
+- *atandrāso* \< *atandrāsaḥ* \< *atandra*
+- \[noun\], nominative, plural, masculine
+- “untired.”
+------------------------------------------------------------------------
+- *'vṛkā* \< *avṛkāḥ* \< *avṛka*
+- \[noun\], nominative, plural, masculine
+- “protective; safe.”
+------------------------------------------------------------------------
+- *aśramiṣṭhāḥ* \< *aśramiṣṭha*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pāyavaḥ* \< *pāyu*
+- \[noun\], nominative, plural, masculine
+- “guard; pāyu \[word\]; Pāyu.”
+------------------------------------------------------------------------
+- *sadhryañco* \< *sadhryañcaḥ* \< *sadhryañc*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *niṣadyāgne* \< *niṣadya* \< *niṣad* \< *√sad*
+- \[verb noun\]
+- “sit down; sit; put.”
+------------------------------------------------------------------------
+- *niṣadyāgne* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pāntv* \< *pāntu* \< *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *amūra*
+- \[noun\], vocative, singular, masculine
+- “wise; intelligent; apt.”
+------------------------------------------------------------------------

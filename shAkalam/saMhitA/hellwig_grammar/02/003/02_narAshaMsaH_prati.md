@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 2.3.2"
+
++++
+-   *narāśaṃsaḥ* \< *narāśaṃsa*
+- \[noun\], nominative, singular, masculine
+- “Agni.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *dhāmāny* \< *dhāmāni* \< *dhāman*
+- \[noun\], accusative, plural, neuter
+- “domain; dwelling; law; appearance; light; race; agreement; color;
+    location.”
+------------------------------------------------------------------------
+- *añjan* \< *añj*
+- \[verb noun\], nominative, singular
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *tisro* \< *tisraḥ* \< *tri*
+- \[noun\], accusative, plural, feminine
+- “three; tri/tisṛ \[word\].”
+------------------------------------------------------------------------
+- *divaḥ* \< *div*
+- \[noun\], accusative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *mahnā* \< *mahan*
+- \[noun\], instrumental, singular, neuter
+- “greatness.”
+------------------------------------------------------------------------
+- *svarciḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svarciḥ* \< *arciḥ* \< *arcis*
+- \[noun\], nominative, singular, masculine
+- “fire; flare; light; beam; gleam; shininess.”
+------------------------------------------------------------------------
+- *ghṛtapruṣā* \< *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtapruṣā* \< *pruṣā* \< *pruṣ*
+- \[noun\], instrumental, singular, feminine
+- “dropping.”
+------------------------------------------------------------------------
+- *manasā* \< *manas*
+- \[noun\], instrumental, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *havyam* \< *havya*
+- \[noun\], accusative, singular, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *undan* \< *und*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *mūrdhan*
+- \[noun\], locative, singular, masculine
+- “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
+------------------------------------------------------------------------
+- *yajñasya* \< *yajña*
+- \[noun\], genitive, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *anaktu* \< *añj*
+- \[verb\], singular, Present imperative
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------

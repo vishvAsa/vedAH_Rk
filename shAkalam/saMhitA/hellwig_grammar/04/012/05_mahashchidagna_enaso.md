@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 4.12.5"
+
++++
+-   *mahaś* \< *mahaḥ* \< *mah*
+- \[noun\], ablative, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *agna* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *enaso* \< *enasaḥ* \< *enas*
+- \[noun\], ablative, singular, neuter
+- “sin; calamity; blame.”
+------------------------------------------------------------------------
+- *abhīka* \< *abhīke* \< *abhīka*
+- \[noun\], locative, singular, neuter
+- “battle; meeting.”
+------------------------------------------------------------------------
+- *ūrvād* \< *ūrvāt* \< *ūrva*
+- \[noun\], ablative, singular, masculine
+- “pen; Aurva; ocean.”
+------------------------------------------------------------------------
+- *devānām* \< *deva*
+- \[noun\], genitive, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *martyānām* \< *martya*
+- \[noun\], genitive, plural, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sakhāyaḥ* \< *sakhi*
+- \[noun\], nominative, plural, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *sadam*
+- \[adverb\]
+- “always.”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *riṣāma* \< *riṣ*
+- \[verb\], plural, Aorist conj./subj.
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *yacchā* \< *yam*
+- \[verb\], singular, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *tokāya* \< *toka*
+- \[noun\], dative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *tanayāya* \< *tanaya*
+- \[noun\], dative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[adverb\]
+- “śam \[word\].”
+------------------------------------------------------------------------
+- *yoḥ* \< *yos*
+- \[noun\], accusative, singular, neuter
+- “fortune.”
+------------------------------------------------------------------------

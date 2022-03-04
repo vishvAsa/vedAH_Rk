@@ -1,0 +1,98 @@
++++
+title = "Rig Veda 1.31.10"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *pramatis* \< *pramatiḥ* \< *pramati*
+- \[noun\], nominative, singular, feminine
+- “care; solicitude; caution; providence.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pitāsi* \< *pitā* \< *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *pitāsi* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *nas* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vayaskṛt*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *jāmayo* \< *jāmayaḥ* \< *jāmi*
+- \[noun\], nominative, plural, feminine
+- “sister; woman; daughter-in-law.”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[noun\], nominative, singular, masculine
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rāyaḥ* \< *rai*
+- \[noun\], nominative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *śatinaḥ* \< *śatin*
+- \[noun\], nominative, plural, masculine
+- “hundredfold.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *sahasriṇaḥ* \< *sahasrin*
+- \[noun\], nominative, plural, masculine
+- “thousandfold.”
+------------------------------------------------------------------------
+- *suvīraṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīraṃ* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vratapām* \< *vratapā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *adābhya*
+- \[noun\], vocative, singular, masculine
+- “trustworthy; disabused(p).”
+------------------------------------------------------------------------

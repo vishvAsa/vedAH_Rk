@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.63.8"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tyāṃ* \< *tyām* \< *tya*
+- \[noun\], accusative, singular, feminine
+- “that.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *citrām* \< *citra*
+- \[noun\], accusative, singular, feminine
+- “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
+    bright; bright; outstanding; agitated; aglitter(p); brilliant;
+    painted; obvious; patched; bizarre.”
+------------------------------------------------------------------------
+- *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *āpo* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pīpayaḥ* \< *pyā*
+- \[verb\], singular, Perfect conjunctive (subj.)
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *parijman*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *yayā* \< *yad*
+- \[noun\], instrumental, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śūra*
+- \[noun\], vocative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *praty* \< *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yaṃsi* \< *yam*
+- \[verb\], singular, Aorist imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *tmanam* \< *tman*
+- \[noun\], accusative, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- \[noun\], accusative, singular, feminine
+- “strength; refreshment; vigor; food; strengthening.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *viśvadha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *kṣaradhyai* \< *kṣar*
+- \[verb noun\]
+- “run; melt.”
+------------------------------------------------------------------------

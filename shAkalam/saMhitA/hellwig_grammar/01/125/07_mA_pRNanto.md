@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 1.125.7"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *pṛṇanto* \< *pṛṇantaḥ* \< *pṛṇ*
+- \[verb noun\], nominative, plural
+- “satisfy.”
+------------------------------------------------------------------------
+- *duritam* \< *durita*
+- \[noun\], accusative, singular, neuter
+- “danger; sin; difficulty; difficulty; evil.”
+------------------------------------------------------------------------
+- *ena* \< *enaḥ* \< *enas*
+- \[noun\], accusative, singular, neuter
+- “sin; calamity; blame.”
+------------------------------------------------------------------------
+- *āran* \< *ārch* \< *√ṛch*
+- \[verb\], plural, Aorist inj. (proh.)
+- “enter (a state).”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *jāriṣuḥ* \< *jṛ*
+- \[verb\], plural, Aorist inj. (proh.)
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *sūrayaḥ* \< *sūri*
+- \[noun\], nominative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *suvratāsaḥ* \< *suvrata*
+- \[noun\], vocative, plural, masculine
+- “virtuous; tractable; severe.”
+------------------------------------------------------------------------
+- *anyas* \< *anyaḥ* \< *anya*
+- \[noun\], nominative, singular, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *teṣām* \< *tad*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *paridhir* \< *paridhiḥ* \< *paridhi*
+- \[noun\], nominative, singular, masculine
+- “covering; circumference; Paridhi; halo; fence.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *kaś* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[noun\], nominative, singular, feminine
+- “supreme spirit; cit \[word\]; soul.”
+------------------------------------------------------------------------
+- *apṛṇantam* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *apṛṇantam* \< *pṛṇantam* \< *pṛṇ*
+- \[verb noun\], accusative, singular
+- “satisfy.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *śokāḥ* \< *śoka*
+- \[noun\], nominative, plural, masculine
+- “sorrow; grief; pain; heat; śoka \[word\]; fire; flare; heat;
+    trouble.”
+------------------------------------------------------------------------

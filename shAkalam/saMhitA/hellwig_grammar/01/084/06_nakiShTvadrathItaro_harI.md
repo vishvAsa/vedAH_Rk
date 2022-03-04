@@ -1,0 +1,65 @@
++++
+title = "Rig Veda 1.84.6"
+
++++
+-   *nakiṣ* \< *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *ṭvad* \< *ṭvat* \< *tvad*
+- \[noun\], ablative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rathītaro* \< *rathītaraḥ* \< *rathītara*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *harī* \< *hari*
+- \[noun\], accusative, dual, masculine
+- “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
+    haritāla; Hari; snake; frog.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *yacchase* \< *yam*
+- \[verb\], singular, Present indikative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *nakiṣ* \< *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *ṭvānu* \< *ṭvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ṭvānu* \< *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *majmanā* \< *majman*
+- \[noun\], instrumental, singular, masculine
+- “size.”
+------------------------------------------------------------------------
+- *nakiḥ* \< *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *svaśva* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svaśva* \< *aśvaḥ* \< *aśva*
+- \[noun\], nominative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *ānaśe* \< *aś*
+- \[verb\], singular, Perfect indicative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------

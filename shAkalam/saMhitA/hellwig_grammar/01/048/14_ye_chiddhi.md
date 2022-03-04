@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 1.48.14"
+
++++
+-   *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ciddhi* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ciddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvām* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ṛṣayaḥ* \< *ṛṣi*
+- \[noun\], nominative, plural, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *pūrva* \< *pūrve* \< *pūrva*
+- \[noun\], nominative, plural, masculine
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+------------------------------------------------------------------------
+- *ūtaye* \< *ūti*
+- \[noun\], dative, singular, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *juhūre* \< *hvā*
+- \[verb\], plural, Perfect indicative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *'vase* \< *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *sā* \< *tad*
+- \[noun\], nominative, singular, feminine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *na* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *stomāṃ* \< *stoma*
+- \[noun\], accusative, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *gṛṇīhi* \< *gṛ*
+- \[verb\], singular, Present imperative
+- “praise.”
+------------------------------------------------------------------------
+- *rādhasoṣaḥ* \< *rādhasā* \< *rādhas*
+- \[noun\], instrumental, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *rādhasoṣaḥ* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *śukreṇa* \< *śukra*
+- \[noun\], instrumental, singular, neuter
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *śociṣā* \< *śocis*
+- \[noun\], instrumental, singular, neuter
+- “fire; flare; burn; radiance.”
+------------------------------------------------------------------------

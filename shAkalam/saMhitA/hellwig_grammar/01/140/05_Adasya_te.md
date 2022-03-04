@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 1.140.5"
+
++++
+-   *ād* \< *āt*
+- \[adverb\]
+- “then.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *dhvasayanto* \< *dhvasayantaḥ* \< *dhvasay* \< *√dhvaṃs*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *vṛtherate* \< *vṛthā*
+- \[adverb\]
+- “vainly; incorrectly; unnecessarily; at will.”
+------------------------------------------------------------------------
+- *vṛtherate* \< *īrate* \< *īr*
+- \[verb\], plural, Present indikative
+- “go.”
+------------------------------------------------------------------------
+- *kṛṣṇam* \< *kṛṣṇa*
+- \[noun\], accusative, singular, neuter
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *abhvam* \< *abhva*
+- \[noun\], accusative, singular, neuter
+- “monstrosity; nothingness; void; force.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *varpaḥ* \< *varpas*
+- \[noun\], accusative, singular, neuter
+- “form; look; disguise.”
+------------------------------------------------------------------------
+- *karikrataḥ* \< *karikṛ* \< *√kṛ*
+- \[verb noun\], nominative, plural
+- “produce.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *sīm*
+- \[adverb\]
+------------------------------------------------------------------------
+- *mahīm* \< *mah*
+- \[noun\], accusative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *avanim* \< *avani*
+- \[noun\], accusative, singular, feminine
+- “river; earth; floor; path; bed; course.”
+------------------------------------------------------------------------
+- *prābhi* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prābhi* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *marmṛśad* \< *marmṛśat* \< *marmṛś* \< *√mṛś*
+- \[verb\], singular, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *abhiśvasan* \< *abhiśvas* \< *√śvas*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- \[verb noun\], nominative, singular
+- “thunder; thunder.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *nānadat* \< *nānad* \< *√nad*
+- \[verb noun\], nominative, singular
+- “bellow.”
+------------------------------------------------------------------------

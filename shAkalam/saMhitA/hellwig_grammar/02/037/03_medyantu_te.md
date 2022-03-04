@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 2.37.3"
+
++++
+-   *medyantu* \< *med*
+- \[verb\], plural, Present imperative
+- “boom.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *vahnayo* \< *vahnayaḥ* \< *vahni*
+- \[noun\], nominative, plural, masculine
+- “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
+    three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
+    leader.”
+------------------------------------------------------------------------
+- *yebhir* \< *yebhiḥ* \< *yad*
+- \[noun\], instrumental, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *īyase* \< *ī* \< *√i*
+- \[verb\], singular, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+- *'riṣaṇyan* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *'riṣaṇyan* \< *riṣaṇyan* \< *riṣaṇy* \< *√riṣ*
+- \[verb noun\], nominative, singular
+- “riṣaṇy \[verb\].”
+------------------------------------------------------------------------
+- *vīḍayasvā* \< *vīḍayasva* \< *vīḍay* \< *√vīḍ*
+- \[verb\], singular, Present imperative
+- “solidify; strengthen.”
+------------------------------------------------------------------------
+- *vanaspate* \< *vanaspati*
+- \[noun\], vocative, singular, masculine
+- “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
+------------------------------------------------------------------------
+- *āyūyā* \< *āyūya* \< *āyu* \< *√yu*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *dhṛṣṇo* \< *dhṛṣṇu*
+- \[noun\], vocative, singular, masculine
+- “brave; ferocious; strong.”
+------------------------------------------------------------------------
+- *abhigūryā* \< *abhigūrya* \< *abhigur* \< *√gur*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *neṣṭrāt* \< *neṣṭra*
+- \[noun\], ablative, singular, neuter
+------------------------------------------------------------------------
+- *somaṃ* \< *somam* \< *soma*
+- \[noun\], accusative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *draviṇodaḥ* \< *draviṇaḥ* \< *draviṇas*
+- \[noun\], neuter
+- “property.”
+------------------------------------------------------------------------
+- *draviṇodaḥ* \< *daḥ* \< *dā*
+- \[noun\], vocative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *piba* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *ṛtubhiḥ* \< *ṛtu*
+- \[noun\], instrumental, plural, masculine
+- “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
+------------------------------------------------------------------------

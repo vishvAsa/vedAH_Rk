@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 1.180.4"
+
++++
+-   *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *gharmam* \< *gharma*
+- \[noun\], accusative, singular, masculine
+- “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
+    caldron.”
+------------------------------------------------------------------------
+- *madhumantam* \< *madhumat*
+- \[noun\], accusative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *atraye* \< *atri*
+- \[noun\], dative, singular, masculine
+- “Atri; Atri; atri \[word\].”
+------------------------------------------------------------------------
+- *'po* \< *apaḥ* \< *apas*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kṣodo* \< *kṣodaḥ* \< *kṣodas*
+- \[noun\], accusative, singular, neuter
+- “swell.”
+------------------------------------------------------------------------
+- *'vṛṇītam* \< *avṛṇītam* \< *vṛ*
+- \[verb\], dual, Imperfect
+- “choose; ask.”
+------------------------------------------------------------------------
+- *eṣe* \< *eṣa*
+- \[noun\], locative, singular, masculine
+- “quest.”
+------------------------------------------------------------------------
+- *tad* \< *tat* \< *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *narāv* \< *narau* \< *nara*
+- \[noun\], vocative, dual, masculine
+- “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
+    servant; hero.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *paśvaiṣṭī* \< *paśvaiṣṭiḥ* \< *paśvaiṣṭi*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *rathyeva* \< *rathyā*
+- \[noun\], nominative, singular, feminine
+- “road; way; highway.”
+------------------------------------------------------------------------
+- *rathyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *cakrā* \< *cakra*
+- \[noun\], nominative, plural, neuter
+- “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
+    group.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------

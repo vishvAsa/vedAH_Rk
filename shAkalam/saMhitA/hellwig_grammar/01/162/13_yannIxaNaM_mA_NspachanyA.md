@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 1.162.13"
+
++++
+-   *yan* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nīkṣaṇam* \< *nīkṣaṇa*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *māṃspacanyā* \< *māṃspacanyāḥ* \< *māṃspacana*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *ukhāyā* \< *ukhāyāḥ* \< *ukhā*
+- \[noun\], genitive, singular, feminine
+- “kettle; ukhā \[word\].”
+------------------------------------------------------------------------
+- *yā* \< *yad*
+- \[noun\], nominative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pātrāṇi* \< *pātra*
+- \[noun\], nominative, plural, neuter
+- “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
+    bowl; basket.”
+------------------------------------------------------------------------
+- *yūṣṇa* \< *yūṣṇaḥ* \< *yūṣan*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *āsecanāni* \< *āsecana*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *ūṣmaṇyāpidhānā* \< *ūṣmaṇyā* \< *ūṣmaṇya*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *ūṣmaṇyāpidhānā* \< *apidhānā* \< *apidhāna*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *carūṇām* \< *caru*
+- \[noun\], genitive, plural, masculine
+- “caru; pot; Caru.”
+------------------------------------------------------------------------
+- *aṅkāḥ* \< *aṅka*
+- \[noun\], nominative, plural, masculine
+- “lap; sign; stigmatization; mark; number; knee; aṅka \[word\]; one;
+    hook.”
+------------------------------------------------------------------------
+- *sūnāḥ* \< *sūnā*
+- \[noun\], nominative, plural, feminine
+- “abattoir; killing; butchery.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *bhūṣanty* \< *bhūṣanti* \< *bhūṣ*
+- \[verb\], plural, Present indikative
+- “endeavor; attend; strive.”
+------------------------------------------------------------------------
+- *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------

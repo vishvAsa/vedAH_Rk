@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 1.120.1"
+
++++
+-   *kā* \< *ka*
+- \[noun\], nominative, singular, feminine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *rādhaddhotrāśvinā* \< *rādhat* \< *rādh*
+- \[verb\], singular, Aorist conj./subj.
+- “thrive; boom; succeed.”
+------------------------------------------------------------------------
+- *rādhaddhotrāśvinā* \< *hotrā*
+- \[noun\], nominative, singular, feminine
+- “hotrā \[word\]; Hautra.”
+------------------------------------------------------------------------
+- *rādhaddhotrāśvinā* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *joṣa* \< *joṣaḥ* \< *joṣa*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ubhayoḥ* \< *ubhaya*
+- \[noun\], genitive, dual, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *kathā*
+- \[adverb\]
+- “how.”
+------------------------------------------------------------------------
+- *vidhāty* \< *vidhāti* \< *vidh*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “worship; offer.”
+------------------------------------------------------------------------
+- *apracetāḥ* \< *apracetas*
+- \[noun\], nominative, singular, masculine
+- “anserine.”
+------------------------------------------------------------------------

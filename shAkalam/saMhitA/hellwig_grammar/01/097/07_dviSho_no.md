@@ -1,0 +1,47 @@
++++
+title = "Rig Veda 1.97.7"
+
++++
+-   *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+- \[noun\], accusative, plural, feminine
+- “hate; dviṣ; hostility; hostility.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viśvatomukhāti* \< *viśvatomukha*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *viśvatomukhāti* \< *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *nāveva* \< *nāvā* \< *nau*
+- \[noun\], instrumental, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *nāveva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *pāraya* \< *pāray* \< *√pṛ*
+- \[verb\], singular, Present imperative
+- “rescue; keep alive; satisfy; save; resist; endure.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “blaze.”
+------------------------------------------------------------------------
+- *agham* \< *agha*
+- \[noun\], accusative, singular, neuter
+- “sin; evil; impurity; agha \[word\].”
+------------------------------------------------------------------------

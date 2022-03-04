@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 1.140.6"
+
++++
+-   *bhūṣan* \< *bhūṣ*
+- \[verb noun\], nominative, singular
+- “endeavor; attend; strive.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *'dhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *babhrūṣu* \< *babhru*
+- \[noun\], locative, plural, feminine
+- “tawny; brown.”
+------------------------------------------------------------------------
+- *namnate* \< *nannate* \< *nannam* \< *√nam*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *vṛṣeva* \< *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *patnīr* \< *patnīḥ* \< *patnī*
+- \[noun\], accusative, plural, feminine
+- “wife; mistress; queen.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *roruvat* \< *roro* \< *√ru*
+- \[verb noun\], nominative, singular
+- “bellow.”
+------------------------------------------------------------------------
+- *ojāyamānas* \< *ojāyamānaḥ* \< *ojāy*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *tanvaś* \< *tanvaḥ* \< *tanū*
+- \[noun\], accusative, plural, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śumbhate* \< *śubh*
+- \[verb\], singular, Present indikative
+- “look; shine; beautify.”
+------------------------------------------------------------------------
+- *bhīmo* \< *bhīmaḥ* \< *bhīma*
+- \[noun\], nominative, singular, masculine
+- “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śṛṅgā* \< *śṛṅga*
+- \[noun\], accusative, plural, neuter
+- “peak; horn; tusk; śṛṅga \[word\].”
+------------------------------------------------------------------------
+- *davidhāva* \< *dodhu* \< *√dhū*
+- \[verb\], singular, Perfect indicative
+- “shake.”
+------------------------------------------------------------------------
+- *durgṛbhiḥ* \< *durgṛbhi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

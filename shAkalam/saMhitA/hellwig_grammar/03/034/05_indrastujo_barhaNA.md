@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 3.34.5"
+
++++
+-   *indras* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tujo* \< *tujaḥ* \< *tuj*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *barhaṇā* \< *barhaṇāḥ* \< *barhaṇā*
+- \[noun\], accusative, plural, feminine
+- “power; might.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viveśa* \< *viś*
+- \[verb\], singular, Perfect indicative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------
+- *nṛvad* \< *nṛ*
+- \[noun\], masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛvad* \< *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *dadhāno* \< *dadhānaḥ* \< *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *naryā* \< *narya*
+- \[noun\], accusative, plural, neuter
+- “gift.”
+------------------------------------------------------------------------
+- *purūṇi* \< *puru*
+- \[noun\], accusative, plural, neuter
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *acetayad* \< *acetayat* \< *cetay* \< *√cit*
+- \[verb\], singular, Imperfect
+- “blaze; notice.”
+------------------------------------------------------------------------
+- *dhiya* \< *dhiyaḥ* \< *dhī*
+- \[noun\], accusative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *imā* \< *imāḥ* \< *idam*
+- \[noun\], accusative, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *jaritre* \< *jaritṛ*
+- \[noun\], dative, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *premaṃ* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *premaṃ* \< *imam* \< *idam*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *varṇam* \< *varṇa*
+- \[noun\], accusative, singular, masculine
+- “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
+    appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
+------------------------------------------------------------------------
+- *atiracchukram* \< *atirat* \< *tṛ*
+- \[verb\], singular, Imperfect
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *atiracchukram* \< *śukram* \< *śukra*
+- \[noun\], accusative, singular, masculine
+- “bright; clear; white; light; pure.”
+------------------------------------------------------------------------
+- *āsām* \< *idam*
+- \[noun\], genitive, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------

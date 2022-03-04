@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 4.38.3"
+
++++
+-   *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sīm*
+- \[adverb\]
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *pravateva* \< *pravatā* \< *pravat*
+- \[noun\], instrumental, singular, feminine
+- “slope; river.”
+------------------------------------------------------------------------
+- *pravateva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dravantaṃ* \< *dravantam* \< *dru*
+- \[verb noun\], accusative, singular
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+------------------------------------------------------------------------
+- *viśvaḥ* \< *viśva*
+- \[noun\], nominative, singular, masculine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *pūrur* \< *pūruḥ* \< *pūru*
+- \[noun\], nominative, singular, masculine
+- “Pūru; Pūru.”
+------------------------------------------------------------------------
+- *madati* \< *mad*
+- \[verb\], singular, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *harṣamāṇaḥ* \< *hṛṣ*
+- \[verb noun\], nominative, singular
+- “rejoice; bristle; thrill.”
+------------------------------------------------------------------------
+- *paḍbhir* \< *paḍbhiḥ* \< *pad*
+- \[noun\], instrumental, plural
+- “foot; pad \[word\].”
+------------------------------------------------------------------------
+- *gṛdhyantam* \< *gṛdh*
+- \[verb noun\], accusative, singular
+- “desire; covet.”
+------------------------------------------------------------------------
+- *medhayuṃ* \< *medhayum* \< *medhayu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śūraṃ* \< *śūram* \< *śūra*
+- \[noun\], accusative, singular, masculine
+- “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
+    warrior; hero; attacker; lentil; wild boar; lion; dog.”
+------------------------------------------------------------------------
+- *rathaturaṃ* \< *rathaturam* \< *rathatur*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vātam* \< *vāta*
+- \[noun\], accusative, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dhrajantam* \< *dhraj*
+- \[verb noun\], accusative, singular
+- “rush.”
+------------------------------------------------------------------------

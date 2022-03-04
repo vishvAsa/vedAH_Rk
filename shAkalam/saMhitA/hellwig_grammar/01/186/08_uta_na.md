@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 1.186.8"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *vṛddhasenāḥ* \< *vṛddha* \< *vṛdh*
+- \[verb noun\]
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *vṛddhasenāḥ* \< *senāḥ* \< *senā*
+- \[noun\], nominative, plural, masculine
+- “army; senā \[word\]; armament.”
+------------------------------------------------------------------------
+- *smad* \< *smat*
+- \[adverb\]
+- “simultaneously; jointly.”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], nominative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *samanasaḥ* \< *samanas*
+- \[noun\], nominative, plural, masculine
+- “consentaneous.”
+------------------------------------------------------------------------
+- *sadantu* \< *sad*
+- \[verb\], plural, Aorist imperative
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *pṛṣadaśvāso* \< *pṛṣat*
+- \[noun\]
+- “motley; patched.”
+------------------------------------------------------------------------
+- *pṛṣadaśvāso* \< *aśvāsaḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *'vanayo* \< *avanayaḥ* \< *avani*
+- \[noun\], nominative, plural, feminine
+- “river; earth; floor; path; bed; course.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *rathā* \< *rathāḥ* \< *ratha*
+- \[noun\], nominative, plural, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *riśādaso* \< *riśādasaḥ* \< *riśādas*
+- \[noun\], nominative, plural, masculine
+- “superior; superior; proud.”
+------------------------------------------------------------------------
+- *mitrayujo* \< *mitra*
+- \[noun\], masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *mitrayujo* \< *yujaḥ* \< *yuj*
+- \[noun\], nominative, plural, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------

@@ -1,0 +1,98 @@
++++
+title = "Rig Veda 1.173.12"
+
++++
+-   *mo* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mo* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣū* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *ṇa* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *indrātra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrātra* \< *atra*
+- \[adverb\]
+- “now; there; then; then; there; here; here; in the following;
+    alternatively; now.”
+------------------------------------------------------------------------
+- *pṛtsu* \< *pṛt*
+- \[noun\], locative, plural, feminine
+- “battle.”
+------------------------------------------------------------------------
+- *devair* \< *devaiḥ* \< *deva*
+- \[noun\], instrumental, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *asti* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *ṣmā* \< *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *śuṣminn* \< *śuṣmin*
+- \[noun\], vocative, singular, masculine
+- “strong; hotheaded.”
+------------------------------------------------------------------------
+- *avayāḥ* \< *avayāj*
+- \[noun\], nominative, singular
+------------------------------------------------------------------------
+- *mahaś* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mīﾱhuṣo* \< *mīḍhuṣaḥ* \< *mih*
+- \[verb noun\], genitive, singular
+- “make; moisten.”
+------------------------------------------------------------------------
+- *yavyā*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *haviṣmato* \< *haviṣmataḥ* \< *haviṣmat*
+- \[noun\], accusative, plural, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], accusative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *vandate* \< *vand*
+- \[verb\], singular, Present indikative
+- “worship; laud.”
+------------------------------------------------------------------------
+- *gīḥ* \< *gir*
+- \[noun\], nominative, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------

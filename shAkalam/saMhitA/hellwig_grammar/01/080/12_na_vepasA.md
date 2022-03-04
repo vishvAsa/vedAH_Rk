@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 1.80.12"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vepasā* \< *vepas*
+- \[noun\], instrumental, singular, neuter
+- “inspiration; shaking.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tanyatendraṃ* \< *tanyatā*
+- \[noun\], instrumental, singular, feminine
+- “thunder.”
+------------------------------------------------------------------------
+- *tanyatendraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vṛtro* \< *vṛtraḥ* \< *vṛtra*
+- \[noun\], nominative, singular, masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *bībhayat* \< *bhī*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “fear; fear.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *enaṃ* \< *enam* \< *enad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *vajra* \< *vajraḥ* \< *vajra*
+- \[noun\], nominative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *āyasaḥ* \< *āyasa*
+- \[noun\], nominative, singular, masculine
+- “iron; metallic.”
+------------------------------------------------------------------------
+- *sahasrabhṛṣṭir* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasrabhṛṣṭir* \< *bhṛṣṭiḥ* \< *bhṛṣṭi*
+- \[noun\], nominative, singular, masculine
+- “spike.”
+------------------------------------------------------------------------
+- *āyatārcann* \< *āyata* \< *i*
+- \[verb\], singular, Imperfect
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *āyatārcann* \< *arcan* \< *arc*
+- \[verb\], plural, Present injunctive
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *svarājyam* \< *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svarājyam* \< *rājyam* \< *rājya*
+- \[noun\], accusative, singular, neuter
+- “kingdom; kingship; sovereignty; rājya \[word\].”
+------------------------------------------------------------------------

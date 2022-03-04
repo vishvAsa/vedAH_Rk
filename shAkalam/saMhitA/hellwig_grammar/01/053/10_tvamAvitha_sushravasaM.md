@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 1.53.10"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *āvitha* \< *av*
+- \[verb\], singular, Perfect indicative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *suśravasaṃ* \< *suśravasam* \< *suśravas*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tavotibhis* \< *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tavotibhis* \< *ūtibhiḥ* \< *ūti*
+- \[noun\], instrumental, plural, feminine
+- “aid; favor; ūti \[word\].”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *trāmabhir* \< *trāmabhiḥ* \< *trāman*
+- \[noun\], instrumental, plural, neuter
+- “protection.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tūrvayāṇam* \< *tūrvayāṇa*
+- \[noun\], accusative, singular, masculine
+- “Tūrvayāṇa.”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *kutsam* \< *kutsa*
+- \[noun\], accusative, singular, masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *atithigvam* \< *atithigva*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *āyum* \< *āyu*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *rājñe* \< *rājan*
+- \[noun\], dative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *yūne* \< *yuvan*
+- \[noun\], dative, singular, masculine
+- “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
+    buck; young.”
+------------------------------------------------------------------------
+- *arandhanāyaḥ* \< *randhanāy* \< *√radh*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------

@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 4.57.8"
+
++++
+-   *śunaṃ* \< *śunam* \< *śuna*
+- \[noun\], accusative, singular, neuter
+- “well-being; success.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *phālā* \< *phālāḥ* \< *phāla*
+- \[noun\], nominative, plural, masculine
+- “plowshare.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *kṛṣantu* \< *kṛṣ*
+- \[verb\], plural, Present imperative
+- “plow; drag; pull; dry; irritate.”
+------------------------------------------------------------------------
+- *bhūmiṃ* \< *bhūmim* \< *bhūmi*
+- \[noun\], accusative, singular, feminine
+- “floor; earth; Earth; real property; region; pṛthivī; location;
+    Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
+    distance; country; space; land; territory; topographic point.”
+------------------------------------------------------------------------
+- *śunaṃ* \< *śunam* \< *śuna*
+- \[noun\], accusative, singular, neuter
+- “well-being; success.”
+------------------------------------------------------------------------
+- *kīnāśā* \< *kīnāśāḥ* \< *kīnāśa*
+- \[noun\], nominative, plural, masculine
+- “plowman; Yama.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *yantu* \< *i*
+- \[verb\], plural, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *vāhaiḥ* \< *vāha*
+- \[noun\], instrumental, plural, masculine
+- “horse; draft horse; carrier.”
+------------------------------------------------------------------------
+- *śunam* \< *śuna*
+- \[noun\], accusative, singular, neuter
+- “well-being; success.”
+------------------------------------------------------------------------
+- *parjanyo* \< *parjanyaḥ* \< *parjanya*
+- \[noun\], nominative, singular, masculine
+- “cloud; Parjanya; Indra; nimbus.”
+------------------------------------------------------------------------
+- *madhunā* \< *madhu*
+- \[noun\], instrumental, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *payobhiḥ* \< *payas*
+- \[noun\], instrumental, plural, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *śunāsīrā* \< *śunāsīra*
+- \[noun\], accusative, dual, masculine
+- “śunāsīra \[word\]; Indra.”
+------------------------------------------------------------------------
+- *śunam* \< *śuna*
+- \[noun\], accusative, singular, neuter
+- “well-being; success.”
+------------------------------------------------------------------------
+- *asmāsu* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhattam* \< *dhā*
+- \[verb\], dual, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------

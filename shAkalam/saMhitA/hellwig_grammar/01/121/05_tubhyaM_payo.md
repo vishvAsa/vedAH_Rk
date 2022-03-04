@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 1.121.5"
+
++++
+-   *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *payo* \< *payaḥ* \< *payas*
+- \[noun\], accusative, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *yat* \< *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *pitarāv* \< *pitarau* \< *pitṛ*
+- \[noun\], nominative, dual, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *anītāṃ* \< *anītām* \< *nī*
+- \[verb\], dual, Root aorist (Ind.)
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *rādhaḥ* \< *rādhas*
+- \[noun\], nominative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *suretas* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suretas* \< *retaḥ* \< *retas*
+- \[noun\], nominative, singular, neuter
+- “semen; sperm.”
+------------------------------------------------------------------------
+- *turaṇe* \< *turaṇa*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *bhuraṇyū* \< *bhuraṇyu*
+- \[noun\], nominative, singular, neuter
+------------------------------------------------------------------------
+- *śuci*
+- \[noun\], nominative, singular, neuter
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *yat* \< *yad*
+- \[noun\], accusative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rekṇa* \< *rekṇaḥ* \< *rekṇas*
+- \[noun\], accusative, singular, neuter
+- “property; wealth; bequest; inheritance.”
+------------------------------------------------------------------------
+- *āyajanta* \< *āyaj* \< *√yaj*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *sabardughāyāḥ* \< *sabardugha*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *paya* \< *payaḥ* \< *payas*
+- \[noun\], nominative, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *usriyāyāḥ* \< *usriyā*
+- \[noun\], genitive, singular, feminine
+- “cow; dairy product.”
+------------------------------------------------------------------------

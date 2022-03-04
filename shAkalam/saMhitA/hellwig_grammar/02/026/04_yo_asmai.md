@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 2.26.4"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *havyair* \< *havyaiḥ* \< *havya*
+- \[noun\], instrumental, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *ghṛtavadbhir* \< *ghṛtavadbhiḥ* \< *ghṛtavat*
+- \[noun\], instrumental, plural, neuter
+- “buttery.”
+------------------------------------------------------------------------
+- *avidhat* \< *vidh*
+- \[verb\], singular, Imperfect
+- “worship; offer.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *prācā* \< *prāñc*
+- \[noun\], instrumental, singular, masculine
+- “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
+    forward; prāñc \[word\].”
+------------------------------------------------------------------------
+- *nayati* \< *nī*
+- \[verb\], singular, Present indikative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *brahmaṇaspatiḥ* \< *brahmaṇaspati*
+- \[noun\], nominative, singular, masculine
+- “Brahmaṇaspati.”
+------------------------------------------------------------------------
+- *uruṣyatīm* \< *uruṣyati* \< *uruṣy*
+- \[verb\], singular, Present indikative
+- “protect; help.”
+------------------------------------------------------------------------
+- *uruṣyatīm* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- \[noun\], ablative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *rakṣatī* \< *rakṣ*
+- \[verb\], singular, Present indikative
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *riṣo* \< *riṣaḥ* \< *riṣ*
+- \[noun\], ablative, singular, feminine
+- “injury; riṣ; damage.”
+------------------------------------------------------------------------
+- *'ṃhoś* \< *aṃhoḥ* \< *aṃhu*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *asmā* \< *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *urucakrir* \< *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *urucakrir* \< *cakriḥ* \< *cakri*
+- \[noun\], nominative, singular, masculine
+- “doing; active.”
+------------------------------------------------------------------------
+- *adbhutaḥ* \< *adbhuta*
+- \[noun\], nominative, singular, masculine
+- “extraordinary; amazing; supernatural.”
+------------------------------------------------------------------------
