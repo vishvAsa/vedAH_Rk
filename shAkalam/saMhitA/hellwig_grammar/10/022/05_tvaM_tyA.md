@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 10.22.5"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tyā* \< *tya*
+- \[noun\], accusative, dual, masculine
+- “that.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *vātasyāśvāgā* \< *vātasya* \< *vāta*
+- \[noun\], genitive, singular, masculine
+- “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
+    rheumatism; Marut.”
+------------------------------------------------------------------------
+- *vātasyāśvāgā* \< *aśvā* \< *aśva*
+- \[noun\], accusative, dual, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *vātasyāśvāgā* \< *agāḥ* \< *gā*
+- \[verb\], singular, Root aorist (Ind.)
+- “go; enter (a state); arrive.”
+------------------------------------------------------------------------
+- *ṛjrā* \< *ṛjra*
+- \[noun\], accusative, dual, masculine
+- “red.”
+------------------------------------------------------------------------
+- *tmanā* \< *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------
+- *vahadhyai* \< *vah*
+- \[verb noun\]
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *yayor* \< *yayoḥ* \< *yad*
+- \[noun\], genitive, dual, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *devo* \< *devaḥ* \< *deva*
+- \[noun\], nominative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *martyo* \< *martyaḥ* \< *martya*
+- \[noun\], nominative, singular, masculine
+- “man; people; martya \[word\]; Earth.”
+------------------------------------------------------------------------
+- *yantā* \< *yantṛ*
+- \[noun\], nominative, singular, masculine
+- “charioteer; ruler.”
+------------------------------------------------------------------------
+- *nakir*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *vidāyyaḥ* \< *vid*
+- \[verb noun\], nominative, singular
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------

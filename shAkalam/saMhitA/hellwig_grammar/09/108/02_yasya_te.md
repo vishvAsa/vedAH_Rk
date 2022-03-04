@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 9.108.2"
+
++++
+-   *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pītvā* \< *pā*
+- \[verb noun\]
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *vṛṣāyate* \< *vṛṣāy*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *'sya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *pītā* \< *pīti*
+- \[noun\], locative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *svarvidaḥ* \< *svar*
+- \[noun\], neuter
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svarvidaḥ* \< *vidaḥ* \< *vid*
+- \[noun\], genitive, singular, masculine
+- “finding.”
+------------------------------------------------------------------------
+- *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *supraketo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supraketo* \< *praketaḥ* \< *praketa*
+- \[noun\], nominative, singular, masculine
+- “sight; knowledge; appearance.”
+------------------------------------------------------------------------
+- *abhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *akramīd* \< *akramīt* \< *kram*
+- \[verb\], singular, Athematic is aor. (Ind.)
+- “kram; step; go; continue; proceed; traverse; heat.”
+------------------------------------------------------------------------
+- *iṣo* \< *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *'cchā* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *vājaṃ* \< *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *naitaśaḥ* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *naitaśaḥ* \< *etaśaḥ* \< *etaśa*
+- \[noun\], nominative, singular, masculine
+- “Etaśa; horse.”
+------------------------------------------------------------------------

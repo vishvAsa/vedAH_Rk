@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 9.110.1"
+
++++
+-   *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *ū* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *dhanva* \< *dhanv*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *vājasātaye* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājasātaye* \< *sātaye* \< *sāti*
+- \[noun\], dative, singular, feminine
+- “victory; acquisition; contest.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *vṛtrāṇi* \< *vṛtra*
+- \[noun\], accusative, plural, neuter
+- “enemy.”
+------------------------------------------------------------------------
+- *sakṣaṇiḥ* \< *sakṣaṇi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *dviṣas* \< *dviṣaḥ* \< *dviṣ*
+- \[noun\], accusative, plural, masculine
+- “hostile; hating.”
+------------------------------------------------------------------------
+- *taradhyā* \< *taradhyai* \< *tṛ*
+- \[verb noun\]
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *īyase* \< *ī* \< *√i*
+- \[verb\], singular, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------

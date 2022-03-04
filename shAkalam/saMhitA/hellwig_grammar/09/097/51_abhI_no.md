@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 9.97.51"
+
++++
+-   *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *divyā* \< *divya*
+- \[noun\], accusative, plural, neuter
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *vasūny* \< *vasūni* \< *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *viśvā* \< *viśva*
+- \[noun\], accusative, plural, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *pārthivā* \< *pārthiva*
+- \[noun\], accusative, plural, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *pūyamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *draviṇam* \< *draviṇa*
+- \[noun\], accusative, singular, neuter
+- “wealth; property; money; jewel.”
+------------------------------------------------------------------------
+- *aśnavāmābhy* \< *aśnavāma* \< *aś*
+- \[verb\], plural, Present imperative
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *aśnavāmābhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ārṣeyaṃ* \< *ārṣeyam* \< *ārṣeya*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------
+- *jamadagnivan* \< *jamadagni*
+- \[noun\], masculine
+- “Jamadagni.”
+------------------------------------------------------------------------
+- *jamadagnivan* \< *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------

@@ -1,0 +1,43 @@
++++
+title = "Rig Veda 9.106.13"
+
++++
+-   *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *haryato* \< *haryataḥ* \< *haryata*
+- \[noun\], nominative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *harir* \< *hariḥ* \< *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *hvarāṃsi* \< *hvaras*
+- \[noun\], accusative, plural, neuter
+- “intrigue.”
+------------------------------------------------------------------------
+- *raṃhyā* \< *raṃhi*
+- \[noun\], instrumental, singular, feminine
+- “speed.”
+------------------------------------------------------------------------
+- *abhyarṣan* \< *abhyṛṣ* \< *√ṛṣ*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- \[noun\], dative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *vīravad* \< *vīravat*
+- \[noun\], accusative, singular, neuter
+- “rich in men.”
+------------------------------------------------------------------------
+- *yaśaḥ* \< *yaśas*
+- \[noun\], accusative, singular, neuter
+- “fame; Yaśas.”
+------------------------------------------------------------------------

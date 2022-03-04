@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 9.98.5"
+
++++
+-   *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vṛtrahan* \< *vṛtra*
+- \[noun\], masculine
+- “Vṛtra; vṛtra \[word\].”
+------------------------------------------------------------------------
+- *vṛtrahan* \< *han*
+- \[noun\], vocative, singular, masculine
+- “killing; curative; destroying; removing; māraka; stabbing.”
+------------------------------------------------------------------------
+- *vaso* \< *vasu*
+- \[noun\], vocative, singular, masculine
+- “good; good; benign; vasu \[word\].”
+------------------------------------------------------------------------
+- *vasvaḥ* \< *vasu*
+- \[noun\], genitive, singular, neuter
+- “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
+------------------------------------------------------------------------
+- *puruspṛhaḥ* \< *puruspṛh*
+- \[noun\], genitive, singular, neuter
+- “coveted; desirous.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *nediṣṭhatamā* \< *nediṣṭhatamāḥ* \< *nediṣṭhatama*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *iṣaḥ* \< *iṣ*
+- \[noun\], genitive, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sumnasyādhrigo* \< *sumnasya* \< *sumna*
+- \[noun\], genitive, singular, neuter
+- “favor; benevolence; sumna \[word\]; entreaty; favor.”
+------------------------------------------------------------------------
+- *sumnasyādhrigo* \< *adhrigo* \< *adhrigu*
+- \[noun\], vocative, singular, masculine
+- “rich; powerful.”
+------------------------------------------------------------------------

@@ -1,0 +1,58 @@
++++
+title = "Rig Veda 9.110.2"
+
++++
+-   *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sutaṃ* \< *sutam* \< *su*
+- \[verb noun\], accusative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *madāmasi* \< *mad*
+- \[verb\], plural, Present indikative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *mahe* \< *maha*
+- \[noun\], locative, singular, neuter
+- “great; abundant.”
+------------------------------------------------------------------------
+- *samaryarājye* \< *samarya*
+- \[noun\], neuter
+------------------------------------------------------------------------
+- *samaryarājye* \< *rājye* \< *rājya*
+- \[noun\], locative, singular, neuter
+- “kingdom; kingship; sovereignty; rājya \[word\].”
+------------------------------------------------------------------------
+- *vājāṃ* \< *vāja*
+- \[noun\], accusative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *pavamāna* \< *pū*
+- \[verb noun\], vocative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *gāhase* \< *gāh*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------

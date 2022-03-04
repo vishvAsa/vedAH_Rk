@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 9.107.20"
+
++++
+-   *utāhaṃ* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utāhaṃ* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *divā*
+- \[adverb\]
+- “by day; divā \[indecl.\].”
+------------------------------------------------------------------------
+- *sakhyāya* \< *sakhya*
+- \[noun\], dative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *babhra* \< *babhro* \< *babhru*
+- \[noun\], vocative, singular, masculine
+- “tawny; brown.”
+------------------------------------------------------------------------
+- *ūdhani* \< *ūdhas*
+- \[noun\], locative, singular, neuter
+- “udder; ūdhas \[word\]; night.”
+------------------------------------------------------------------------
+- *ghṛṇā*
+- \[noun\], instrumental, singular, feminine
+- “compassion; disgust; affection.”
+------------------------------------------------------------------------
+- *tapantam* \< *tap*
+- \[verb noun\], accusative, singular
+- “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *sūryam* \< *sūrya*
+- \[noun\], accusative, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *paraḥ* \< *paras*
+- \[adverb\]
+- “beyond; away; farther.”
+------------------------------------------------------------------------
+- *śakunā* \< *śakunāḥ* \< *śakuna*
+- \[noun\], nominative, plural, masculine
+- “bird; large bird.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *paptima* \< *pat*
+- \[verb\], plural, Perfect indicative
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------

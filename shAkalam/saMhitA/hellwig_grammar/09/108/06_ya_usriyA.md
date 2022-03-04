@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 9.108.6"
+
++++
+-   *ya* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *usriyā* \< *usriyāḥ* \< *usriyā*
+- \[noun\], accusative, plural, feminine
+- “cow; dairy product.”
+------------------------------------------------------------------------
+- *apyā* \< *apyāḥ* \< *apya*
+- \[noun\], accusative, plural, feminine
+- “aquatic; aquatic.”
+------------------------------------------------------------------------
+- *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *aśmano* \< *aśmanaḥ* \< *aśman*
+- \[noun\], genitive, singular, masculine
+- “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
+    mountain.”
+------------------------------------------------------------------------
+- *nir* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *akṛntad* \< *akṛntat* \< *kṛt*
+- \[verb\], singular, Imperfect
+- “cut; cut; cut off; fell; cut.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vrajaṃ* \< *vrajam* \< *vraja*
+- \[noun\], accusative, singular, masculine
+- “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
+    herd; flock; group.”
+------------------------------------------------------------------------
+- *tatniṣe* \< *tan*
+- \[verb\], singular, Perfect indicative
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+------------------------------------------------------------------------
+- *gavyam* \< *gavya*
+- \[noun\], accusative, singular, masculine
+- “bovine.”
+------------------------------------------------------------------------
+- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- \[noun\], accusative, singular, masculine
+- “equine.”
+------------------------------------------------------------------------
+- *varmīva* \< *varmī* \< *varmin*
+- \[noun\], nominative, singular, masculine
+- “armored.”
+------------------------------------------------------------------------
+- *varmīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dhṛṣṇav* \< *dhṛṣṇo* \< *dhṛṣṇu*
+- \[noun\], vocative, singular, masculine
+- “brave; ferocious; strong.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *ruja* \< *ruj*
+- \[verb\], singular, Present imperative
+- “break; bend.”
+------------------------------------------------------------------------

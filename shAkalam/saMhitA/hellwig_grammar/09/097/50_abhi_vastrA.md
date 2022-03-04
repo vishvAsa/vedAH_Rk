@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 9.97.50"
+
++++
+-   *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vastrā* \< *vastra*
+- \[noun\], accusative, plural, neuter
+- “fabric; clothing; dress; vastra \[word\].”
+------------------------------------------------------------------------
+- *suvasanāny* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvasanāny* \< *vasanāni* \< *vasana*
+- \[noun\], accusative, plural, neuter
+- “clothing; fabric; garment; vasana \[word\].”
+------------------------------------------------------------------------
+- *arṣābhi* \< *arṣa* \< *ṛṣ*
+- \[verb\], singular, Present imperative
+- “run.”
+------------------------------------------------------------------------
+- *arṣābhi* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *dhenūḥ* \< *dhenu*
+- \[noun\], accusative, plural, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *sudughāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudughāḥ* \< *dughāḥ* \< *dugha*
+- \[noun\], accusative, plural, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *pūyamānaḥ* \< *pū*
+- \[verb noun\], nominative, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *candrā* \< *candra*
+- \[noun\], accusative, plural, neuter
+- “aglitter(p); shining.”
+------------------------------------------------------------------------
+- *bhartave* \< *bhṛ*
+- \[verb noun\]
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *hiraṇyābhy* \< *hiraṇyā* \< *hiraṇya*
+- \[noun\], accusative, plural, neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *hiraṇyābhy* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *aśvān* \< *aśva*
+- \[noun\], accusative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *rathino* \< *rathinaḥ* \< *rathin*
+- \[noun\], accusative, plural, masculine
+- “driver; charioteer; Kshatriya; owner of a car.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------

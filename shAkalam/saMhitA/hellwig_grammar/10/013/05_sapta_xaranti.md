@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 10.13.5"
+
++++
+-   *sapta* \< *saptan*
+- \[noun\], nominative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *kṣaranti* \< *kṣar*
+- \[verb\], plural, Present indikative
+- “run; melt.”
+------------------------------------------------------------------------
+- *śiśave* \< *śiśu*
+- \[noun\], dative, singular, masculine
+- “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
+------------------------------------------------------------------------
+- *marutvate* \< *marutvat*
+- \[noun\], dative, singular, masculine
+- “Marut(a).”
+------------------------------------------------------------------------
+- *pitre* \< *pitṛ*
+- \[noun\], dative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *putrāso* \< *putrāsaḥ* \< *putra*
+- \[noun\], nominative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *apy* \< *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *avīvatann* \< *avīvatan* \< *vat*
+- \[verb\], plural, Redupl. Aorist (Ind.)
+- “teach.”
+------------------------------------------------------------------------
+- *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], nominative, dual, feminine
+- “both(a).”
+------------------------------------------------------------------------
+- *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *asyobhayasya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *asyobhayasya* \< *ubhayasya* \< *ubhaya*
+- \[noun\], genitive, singular, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *rājata* \< *rājataḥ* \< *rāj*
+- \[verb\], dual, Present indikative
+- “govern; shine; glitter; direct.”
+------------------------------------------------------------------------
+- *ubhe* \< *ubh*
+- \[noun\], nominative, dual, feminine
+- “both(a).”
+------------------------------------------------------------------------
+- *yatete* \< *yat*
+- \[verb\], dual, Present indikative
+- “strive; endeavor; join; equal; rival.”
+------------------------------------------------------------------------
+- *ubhayasya* \< *ubhaya*
+- \[noun\], genitive, singular, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *puṣyataḥ* \< *puṣ*
+- \[verb\], dual, Present indikative
+- “boom; grow; promote; foster.”
+------------------------------------------------------------------------

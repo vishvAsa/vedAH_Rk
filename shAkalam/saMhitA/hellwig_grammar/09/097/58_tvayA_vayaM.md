@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 9.97.58"
+
++++
+-   *tvayā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *pavamānena* \< *pū*
+- \[verb noun\], instrumental, singular
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *soma*
+- \[noun\], vocative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *bhare* \< *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *kṛtaṃ* \< *kṛtam* \< *kṛta*
+- \[noun\], accusative, singular, neuter
+- “Kṛta; action; throw; work; production; work; kindness; four; kṛta
+    \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *cinuyāma* \< *ci*
+- \[verb\], plural, Present optative
+- “cover; accumulate; pile up; pick; cover.”
+------------------------------------------------------------------------
+- *śaśvat*
+- \[adverb\]
+- “always; repeatedly; continually; wholly.”
+------------------------------------------------------------------------
+- *tan* \< *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *māmahantām* \< *mah*
+- \[verb\], plural, Perfect imperative
+- “give; accord.”
+------------------------------------------------------------------------
+- *aditiḥ* \< *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *sindhuḥ* \< *sindhu*
+- \[noun\], nominative, singular, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *dyauḥ* \< *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------

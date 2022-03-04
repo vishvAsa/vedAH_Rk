@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.10.2"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *sakhā* \< *sakhi*
+- \[noun\], nominative, singular, masculine
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- \[noun\], accusative, singular, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *vaṣṭy* \< *vaṣṭi* \< *vaś*
+- \[verb\], singular, Present indikative
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *etat* \< *etad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *salakṣmā* \< *salakṣman*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *viṣurūpā* \< *viṣurūpa*
+- \[noun\], nominative, singular, feminine
+- “different; manifold.”
+------------------------------------------------------------------------
+- *bhavāti* \< *bhū*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *mahas* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *putrāso* \< *putrāsaḥ* \< *putra*
+- \[noun\], nominative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *asurasya* \< *asura*
+- \[noun\], genitive, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *vīrā* \< *vīrāḥ* \< *vīra*
+- \[noun\], nominative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *dhartāra* \< *dhartāraḥ* \< *dhartṛ*
+- \[noun\], nominative, plural, masculine
+- “supporter.”
+------------------------------------------------------------------------
+- *urviyā*
+- \[adverb\]
+- “wide; widely.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *khyan* \< \< *khyā*
+- \[verb\], plural, Thematic aorist (Ind.)
+- “name; describe; call; enumerate; watch; know.”
+------------------------------------------------------------------------

@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 9.107.13"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *haryato* \< *haryataḥ* \< *haryata*
+- \[noun\], nominative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *arjune* \< *arjuna*
+- \[noun\], locative, singular, masculine
+- “white; clean; light.”
+------------------------------------------------------------------------
+- *atke* \< *atka*
+- \[noun\], locative, singular, masculine
+- “garment.”
+------------------------------------------------------------------------
+- *avyata* \< *vye*
+- \[verb\], singular, Thematic aorist (Ind.)
+- “cover.”
+------------------------------------------------------------------------
+- *priyaḥ* \< *priya*
+- \[noun\], nominative, singular, masculine
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *sūnur* \< *sūnuḥ* \< *sūnu*
+- \[noun\], nominative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *marjyaḥ* \< *mṛj*
+- \[verb noun\], nominative, singular
+- “purify; polish; rub; remove.”
+------------------------------------------------------------------------
+- *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *hinvanty* \< *hinvanti* \< *hi*
+- \[verb\], plural, Present indikative
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *apaso* \< *apasaḥ* \< *apas*
+- \[noun\], nominative, plural, masculine
+- “busy; effective; hardworking.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *nadīṣv* \< *nadīṣu* \< *nadī*
+- \[noun\], locative, plural, feminine
+- “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gabhastyoḥ* \< *gabhasti*
+- \[noun\], locative, dual, masculine
+- “beam; hand; sun.”
+------------------------------------------------------------------------

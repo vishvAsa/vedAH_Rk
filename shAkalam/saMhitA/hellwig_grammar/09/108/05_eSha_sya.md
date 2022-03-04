@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 9.108.5"
+
++++
+-   *eṣa* \< *etad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *dhārayā* \< *dhārā*
+- \[noun\], instrumental, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *suta*
+- \[noun\], nominative, singular, masculine
+- “son; child.”
+------------------------------------------------------------------------
+- *'vyo* \< *avyaḥ* \< *avya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vārebhiḥ* \< *vāra*
+- \[noun\], instrumental, plural, masculine
+- “strainer.”
+------------------------------------------------------------------------
+- *pavate* \< *pū*
+- \[verb\], singular, Present indikative
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *madintamaḥ* \< *madintama*
+- \[noun\], nominative, singular, masculine
+- “exhilarating; intoxicant.”
+------------------------------------------------------------------------
+- *krīﾱann* \< *krīḍan* \< *krīḍ*
+- \[verb noun\], nominative, singular
+- “frolic; love; play; amuse.”
+------------------------------------------------------------------------
+- *ūrmir* \< *ūrmiḥ* \< *ūrmi*
+- \[noun\], nominative, singular, masculine
+- “wave; billow.”
+------------------------------------------------------------------------
+- *apām* \< *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------

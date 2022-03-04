@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 10.23.7"
+
++++
+-   *mākir*
+- \[adverb\]
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *enā* \< *enad*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.).”
+------------------------------------------------------------------------
+- *sakhyā* \< *sakhya*
+- \[noun\], nominative, plural, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *yauṣus* \< *yauṣuḥ* \< *yu*
+- \[verb\], plural, Aorist inj. (proh.)
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *cendra* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cendra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vimadasya* \< *vimada*
+- \[noun\], genitive, singular, masculine
+- “Vimada.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *ṛṣeḥ* \< *ṛṣi*
+- \[noun\], genitive, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *vidmā* \< *vidma* \< *vid*
+- \[verb\], plural, Perfect indicative
+- “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
+    specify; watch; recognize; detect; call.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pramatiṃ* \< *pramatim* \< *pramati*
+- \[noun\], accusative, singular, feminine
+- “care; solicitude; caution; providence.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *jāmivad* \< *jāmi*
+- \[noun\], masculine
+- “relative.”
+------------------------------------------------------------------------
+- *jāmivad* \< *vat*
+- \[adverb\]
+- “equally; like.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *santu* \< *as*
+- \[verb\], plural, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sakhyā* \< *sakhya*
+- \[noun\], nominative, plural, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *śivāni* \< *śiva*
+- \[noun\], nominative, plural, neuter
+- “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
+    holy; nice.”
+------------------------------------------------------------------------
