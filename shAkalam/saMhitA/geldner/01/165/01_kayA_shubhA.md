@@ -2,4 +2,4 @@
 title = "01"
 
 +++
-Indra:	"Mit welchem Aufputz haben sich die altersgleichen, versippten Marut gemeinsam zusammengetan? Mit welcher Absicht, woher sind sie gekommen? Diese Bullen preisen den Kampfmut im Wunsch nach Schätzen."
+Mit welchem Aufputz haben sich die altersgleichen, versippten Marut gemeinsam zusammengetan? Mit welcher Absicht, woher sind sie gekommen? Diese Bullen preisen den Kampfmut im Wunsch nach Schätzen.
