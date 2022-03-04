@@ -1,0 +1,55 @@
++++
+title = "Rig Veda 10.163.3"
+
++++
+-   *āntrebhyas* \< *āntrebhyaḥ* \< *āntra*
+- \[noun\], ablative, plural, neuter
+- “intestine; abdomen.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *gudābhyo* \< *gudābhyaḥ* \< *gudā*
+- \[noun\], ablative, plural, feminine
+- “intestine.”
+------------------------------------------------------------------------
+- *vaniṣṭhor* \< *vaniṣṭhoḥ* \< *vaniṣṭhu*
+- \[noun\], ablative, singular, masculine
+- “viscera.”
+------------------------------------------------------------------------
+- *hṛdayād* \< *hṛdayāt* \< *hṛdaya*
+- \[noun\], ablative, singular, neuter
+- “heart; heart; mind; hṛdaya \[word\]; science; thorax;
+    Aṣṭāṅgahṛdayasaṃhitā; soul.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *yakṣmam* \< *yakṣma*
+- \[noun\], accusative, singular, masculine
+- “tuberculosis; disease; pulmonary tuberculosis.”
+------------------------------------------------------------------------
+- *matasnābhyāṃ* \< *matasnābhyām* \< *matasna*
+- \[noun\], ablative, dual, neuter
+------------------------------------------------------------------------
+- *yaknaḥ* \< *yakṛt*
+- \[noun\], ablative, singular
+- “liver.”
+------------------------------------------------------------------------
+- *plāśibhyo* \< *plāśibhyaḥ* \< *plāśi*
+- \[noun\], ablative, plural, masculine
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vṛhāmi* \< *vṛh*
+- \[verb\], singular, Present indikative
+- “extract.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------

@@ -1,0 +1,44 @@
++++
+title = "Rig Veda 10.188.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *nūnaṃ* \< *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *jātavedasam* \< *jātavedas*
+- \[noun\], accusative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *aśvaṃ* \< *aśvam* \< *aśva*
+- \[noun\], accusative, singular, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *hinota* \< *hi*
+- \[verb\], plural, Present imperative
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *vājinam* \< *vājin*
+- \[noun\], accusative, singular, masculine
+- “horse; bird; seven; hero; achiever; aphrodisiac.”
+------------------------------------------------------------------------
+- *idaṃ* \< *idam*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *barhir* \< *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *āsade* \< *āsad* \< *√sad*
+- \[verb noun\]
+- “approach; attack; sit down; approach; find; arrive.”
+------------------------------------------------------------------------

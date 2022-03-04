@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 10.92.7"
+
++++
+-   *indre* \< *indra*
+- \[noun\], locative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *bhujaṃ* \< *bhujam* \< *bhuj*
+- \[noun\], accusative, singular, feminine
+- “use; advantage; enjoyment.”
+------------------------------------------------------------------------
+- *śaśamānāsa* \< *śaśamānāsaḥ* \< *śaśamāna*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *āśata* \< *aś*
+- \[verb\], plural, Root aorist (Ind.)
+- “get; reach; enter (a state).”
+------------------------------------------------------------------------
+- *sūro* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *dṛśīke* \< *dṛśīka*
+- \[noun\], locative, singular, neuter
+- “visual perception.”
+------------------------------------------------------------------------
+- *vṛṣaṇaś* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *pauṃsye* \< *pauṃsya*
+- \[noun\], locative, singular, neuter
+- “manfulness; deed; army; strength.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nv* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *asyārhaṇā* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *asyārhaṇā* \< *arhaṇā* \< *arhaṇa*
+- \[noun\], instrumental, singular, neuter
+------------------------------------------------------------------------
+- *tatakṣire* \< *takṣ*
+- \[verb\], plural, Perfect indicative
+- “produce; shape; fashion; chisel; invent.”
+------------------------------------------------------------------------
+- *yujaṃ* \< *yujam* \< *yuj*
+- \[noun\], accusative, singular, masculine
+- “amalgamated; harnessed.”
+------------------------------------------------------------------------
+- *vajraṃ* \< *vajram* \< *vajra*
+- \[noun\], accusative, singular, masculine
+- “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
+    vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
+------------------------------------------------------------------------
+- *nṛṣadaneṣu* \< *nṛṣadana*
+- \[noun\], locative, plural, neuter
+------------------------------------------------------------------------
+- *kāravaḥ* \< *kāru*
+- \[noun\], nominative, plural, masculine
+- “poet; singer.”
+------------------------------------------------------------------------

@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 10.95.15"
+
++++
+-   *purūravo* \< *purūravaḥ* \< *purūravas*
+- \[noun\], vocative, singular, masculine
+- “Purūravas.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mṛthā* \< *mṛthāḥ* \< *mṛ*
+- \[verb\], singular, Aorist inj. (proh.)
+- “mṛ; die; disappear; go out.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *papto* \< *paptaḥ* \< *pat*
+- \[verb\], singular, Aorist inj. (proh.)
+- “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
+    throw; lodge; disappear.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vṛkāso* \< *vṛkāsaḥ* \< *vṛka*
+- \[noun\], nominative, plural, masculine
+- “wolf; Vṛka; vṛka \[word\]; Vṛka.”
+------------------------------------------------------------------------
+- *aśivāsa* \< *aśivāsaḥ* \< *aśiva*
+- \[noun\], nominative, plural, masculine
+- “inauspicious; unkind; unfriendly; cruel; dangerous.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *kṣan* \< *ghas*
+- \[verb\], plural, Aorist inj. (proh.)
+- “eat.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vai*
+- \[adverb\]
+- “surely; on the other hand; vai \[word\]; indeed.”
+------------------------------------------------------------------------
+- *straiṇāni* \< *straiṇa*
+- \[noun\], nominative, plural, neuter
+------------------------------------------------------------------------
+- *sakhyāni* \< *sakhya*
+- \[noun\], nominative, plural, neuter
+- “friendship; aid; company.”
+------------------------------------------------------------------------
+- *santi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sālāvṛkāṇāṃ* \< *sālāvṛkāṇām* \< *śālāvṛka*
+- \[noun\], genitive, plural, masculine
+- “cat; jackal.”
+------------------------------------------------------------------------
+- *hṛdayāny* \< *hṛdayāni* \< *hṛdaya*
+- \[noun\], nominative, plural, neuter
+- “heart; heart; mind; hṛdaya \[word\]; science; thorax;
+    Aṣṭāṅgahṛdayasaṃhitā; soul.”
+------------------------------------------------------------------------
+- *etā* \< *etad*
+- \[noun\], nominative, plural, neuter
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 10.96.10"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *sma*
+- \[adverb\]
+------------------------------------------------------------------------
+- *sadma* \< *sadman*
+- \[noun\], nominative, singular, neuter
+- “seat; house; stable; dwelling.”
+------------------------------------------------------------------------
+- *haryatasya* \< *haryata*
+- \[noun\], genitive, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *pastyor* \< *pastyoḥ* \< *pastya*
+- \[noun\], locative, dual
+------------------------------------------------------------------------
+- *atyo* \< *atyaḥ* \< *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vājaṃ* \< *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *harivāṃ* \< *harivat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *acikradat* \< *krand*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “roar; neigh; cry; howl; shout.”
+------------------------------------------------------------------------
+- *mahī* \< *mah*
+- \[noun\], nominative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *ciddhi* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ciddhi* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *dhiṣaṇāharyad* \< *dhiṣaṇā*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *dhiṣaṇāharyad* \< *aharyat* \< *hary*
+- \[verb\], singular, Imperfect
+- “delight.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *bṛhad* \< *bṛhat* \< *bṛhant*
+- \[noun\], accusative, singular, neuter
+- “Bṛhant.”
+------------------------------------------------------------------------
+- *vayo* \< *vayaḥ* \< *vayas*
+- \[noun\], accusative, singular, neuter
+- “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
+    food.”
+------------------------------------------------------------------------
+- *dadhiṣe* \< *dhā*
+- \[verb\], singular, Perfect indicative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *haryataś* \< *haryataḥ* \< *haryata*
+- \[noun\], nominative, singular, masculine
+- “desirable; delightful.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------

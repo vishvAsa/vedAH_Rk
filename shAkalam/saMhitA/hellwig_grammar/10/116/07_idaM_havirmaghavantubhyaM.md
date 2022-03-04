@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 10.116.7"
+
++++
+-   *idaṃ* \< *idam*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *havir* \< *haviḥ* \< *havis*
+- \[noun\], nominative, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *rātam* \< *rā*
+- \[verb noun\], nominative, singular
+- “give; impart.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *samrāḍ* \< *samrāj*
+- \[noun\], vocative, singular, masculine
+- “sovereign; ruler.”
+------------------------------------------------------------------------
+- *ahṛṇāno* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *ahṛṇāno* \< *hṛṇānaḥ* \< *hṛ*
+- \[verb noun\], nominative, singular
+- “anger.”
+------------------------------------------------------------------------
+- *gṛbhāya* \< *gṛbhāy* \< *√grah*
+- \[verb\], singular, Present imperative
+- “accept.”
+------------------------------------------------------------------------
+- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *suto* \< *sutaḥ* \< *su*
+- \[verb noun\], nominative, singular
+- “press out; su.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *tubhyam* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *pakvo* \< *pakvaḥ* \< *pakva*
+- \[noun\], nominative, singular, masculine
+- “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
+    digested; pakva \[word\]; suppurative; gray; fruiting; done.”
+------------------------------------------------------------------------
+- *'ddhīndra* \< *addhi* \< *ad*
+- \[verb\], singular, Present imperative
+- “eat; devour.”
+------------------------------------------------------------------------
+- *'ddhīndra* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *piba* \< *pā*
+- \[verb\], singular, Present imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *prasthitasya* \< *prasthā* \< *√sthā*
+- \[verb noun\], genitive, singular
+- “depart; give; depart; go; stay; proceed.”
+------------------------------------------------------------------------

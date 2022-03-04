@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.96.12"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], instrumental, singular
+- “you.”
+------------------------------------------------------------------------
+- *haryantam* \< *hary*
+- \[verb noun\], accusative, singular
+- “delight.”
+------------------------------------------------------------------------
+- *prayujo* \< *prayujaḥ* \< *prayuj*
+- \[noun\], nominative, plural, feminine
+- “team.”
+------------------------------------------------------------------------
+- *janānāṃ* \< *janānām* \< *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *rathe* \< *ratha*
+- \[noun\], locative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *vahantu* \< *vah*
+- \[verb\], plural, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *hariśipram* \< *hari*
+- \[noun\]
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *hariśipram* \< *śipram* \< *śiprā*
+- \[noun\], accusative, singular, masculine
+- “lip; śiprā.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pibā* \< *pibāḥ* \< *pā*
+- \[verb\], singular, Present conjunctive (subjunctive)
+- “protect; govern.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *pratibhṛtasya* \< *pratibhṛ* \< *√bhṛ*
+- \[verb noun\], genitive, singular
+- “serve; serve.”
+------------------------------------------------------------------------
+- *madhvo* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *haryan* \< *hary*
+- \[verb noun\], nominative, singular
+- “delight.”
+------------------------------------------------------------------------
+- *yajñaṃ* \< *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *sadhamāde* \< *sadhamāda*
+- \[noun\], locative, singular, masculine
+- “banquet; party; drink.”
+------------------------------------------------------------------------
+- *daśoṇim* \< *daśa* \< *daśan*
+- \[noun\]
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *daśoṇim* \< *ūṇim* \< *ūṇi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------

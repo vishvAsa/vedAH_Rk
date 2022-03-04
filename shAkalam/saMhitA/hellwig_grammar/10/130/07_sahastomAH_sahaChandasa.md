@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 10.130.7"
+
++++
+-   *sahastomāḥ* \< *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+- *sahastomāḥ* \< *stomāḥ* \< *stoma*
+- \[noun\], nominative, plural, feminine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *sahachandasa* \< *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+- *sahachandasa* \< *chandasaḥ* \< *chandas*
+- \[noun\], nominative, plural, feminine
+- “Veda; meter; chandas \[word\]; hymn; meter; meter.”
+------------------------------------------------------------------------
+- *āvṛtaḥ* \< *āvṛt*
+- \[noun\], nominative, plural, feminine
+- “arrival.”
+------------------------------------------------------------------------
+- *sahapramā* \< *saha*
+- \[adverb\]
+- “together; together; with; jointly; together; saha \[word\]; along.”
+------------------------------------------------------------------------
+- *sahapramā* \< *pramāḥ* \< *pramā*
+- \[noun\], nominative, plural, masculine
+- “foundation.”
+------------------------------------------------------------------------
+- *ṛṣayaḥ* \< *ṛṣi*
+- \[noun\], nominative, plural, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *sapta* \< *saptan*
+- \[noun\], nominative, plural, masculine
+- “seven; seventh.”
+------------------------------------------------------------------------
+- *daivyāḥ* \< *daivya*
+- \[noun\], nominative, plural, masculine
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *pūrveṣām* \< *pūrva*
+- \[noun\], genitive, plural, masculine
+- “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
+    pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
+    firstborn; easterly; instrumental.”
+------------------------------------------------------------------------
+- *panthām* \< *pathin*
+- \[noun\], accusative, singular, masculine
+- “way; road; path \[word\]; journey; method.”
+------------------------------------------------------------------------
+- *anudṛśya* \< *anudṛś* \< *√dṛś*
+- \[verb noun\]
+- “survey.”
+------------------------------------------------------------------------
+- *dhīrā* \< *dhīrāḥ* \< *dhīra*
+- \[noun\], nominative, plural, masculine
+- “expert; wise; intelligent; versed; adept.”
+------------------------------------------------------------------------
+- *anvālebhire* \< *anvālabh* \< *√labh*
+- \[verb\], plural, Perfect indicative
+------------------------------------------------------------------------
+- *rathyo* \< *rathyaḥ* \< *rathī*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *raśmīn* \< *raśmi*
+- \[noun\], accusative, plural, masculine
+- “beam; rein; sunbeam; shininess; cord.”
+------------------------------------------------------------------------

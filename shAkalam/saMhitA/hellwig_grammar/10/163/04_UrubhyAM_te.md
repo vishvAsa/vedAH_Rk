@@ -1,0 +1,51 @@
++++
+title = "Rig Veda 10.163.4"
+
++++
+-   *ūrubhyāṃ* \< *ūrubhyām* \< *ūru*
+- \[noun\], ablative, dual, masculine
+- “thigh; ūru \[word\]; ūru; shank.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *aṣṭhīvadbhyām* \< *aṣṭhīvant*
+- \[noun\], ablative, dual, masculine
+- “knee; aṣṭhīvant \[word\].”
+------------------------------------------------------------------------
+- *pārṣṇibhyām* \< *pārṣṇi*
+- \[noun\], ablative, dual, masculine
+- “heel; rear.”
+------------------------------------------------------------------------
+- *prapadābhyām* \< *prapada*
+- \[noun\], ablative, dual, neuter
+- “tiptoe.”
+------------------------------------------------------------------------
+- *yakṣmaṃ* \< *yakṣmam* \< *yakṣma*
+- \[noun\], accusative, singular, masculine
+- “tuberculosis; disease; pulmonary tuberculosis.”
+------------------------------------------------------------------------
+- *śroṇibhyām* \< *śroṇi*
+- \[noun\], ablative, dual, masculine
+- “hip; pelvis; buttocks.”
+------------------------------------------------------------------------
+- *bhāsadād* \< *bhāsadāt* \< *bhāsada*
+- \[noun\], ablative, singular, masculine
+------------------------------------------------------------------------
+- *bhaṃsaso* \< *bhaṃsasaḥ* \< *bhaṃsas*
+- \[noun\], ablative, singular, neuter
+- “loins.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vṛhāmi* \< *vṛh*
+- \[verb\], singular, Present indikative
+- “extract.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------

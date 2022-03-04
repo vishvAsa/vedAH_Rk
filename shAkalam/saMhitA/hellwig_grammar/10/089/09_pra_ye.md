@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 10.89.9"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mitram* \< *mitra*
+- \[noun\], accusative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *prāryamaṇaṃ* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāryamaṇaṃ* \< *aryamaṇam* \< *aryaman*
+- \[noun\], accusative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *durevāḥ* \< *dureva*
+- \[noun\], nominative, plural, masculine
+- “malevolent; bad; crabbed.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *saṃgiraḥ* \< *saṃgir*
+- \[noun\], accusative, plural, feminine
+- “agreement.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *varuṇam* \< *varuṇa*
+- \[noun\], accusative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *minanti* \< *mī*
+- \[verb\], plural, Present indikative
+- “transgress; damage.”
+------------------------------------------------------------------------
+- *ny* \< *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *amitreṣu* \< *amitra*
+- \[noun\], locative, plural, masculine
+- “enemy; foe.”
+------------------------------------------------------------------------
+- *vadham* \< *vadha*
+- \[noun\], accusative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *tumraṃ* \< *tumram* \< *tumra*
+- \[noun\], accusative, singular, masculine
+- “strong.”
+------------------------------------------------------------------------
+- *vṛṣan*
+- \[noun\], vocative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vṛṣāṇam* \< *vṛṣan*
+- \[noun\], accusative, singular, masculine
+- “bullocky; potent; powerful; strong; manly; aroused; potent;
+    much(a); male; large.”
+------------------------------------------------------------------------
+- *aruṣaṃ* \< *aruṣam* \< *aruṣa*
+- \[noun\], accusative, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *śiśīhi* \< *śā*
+- \[verb\], singular, Present imperative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------

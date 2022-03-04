@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 10.121.5"
+
++++
+-   *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dyaur* \< *dyauḥ* \< *div*
+- \[noun\], nominative, singular
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *ugrā* \< *ugra*
+- \[noun\], nominative, singular, feminine
+- “powerful; awful; dangerous; intense; mighty; potent; colicky;
+    atrocious.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *dṛḍhā* \< *dṛh*
+- \[verb noun\], nominative, singular
+- “fixate; strengthen.”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sva*
+- \[noun\], nominative, singular, masculine
+- “sva \[word\]; sva.”
+------------------------------------------------------------------------
+- *stabhitaṃ* \< *stabhitam* \< *stambh*
+- \[verb noun\], nominative, singular
+- “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
+    constipate.”
+------------------------------------------------------------------------
+- *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nākaḥ* \< *nāka*
+- \[noun\], nominative, singular, masculine
+- “sky; celestial sphere; Svarga; nāka \[word\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *antarikṣe* \< *antarikṣa*
+- \[noun\], locative, singular, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *rajaso* \< *rajasaḥ* \< *rajas*
+- \[noun\], genitive, singular, neuter
+- “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
+    rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
+------------------------------------------------------------------------
+- *vimānaḥ* \< *vimāna*
+- \[noun\], nominative, singular, masculine
+- “pervading.”
+------------------------------------------------------------------------
+- *kasmai* \< *ka*
+- \[noun\], dative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *devāya* \< *deva*
+- \[noun\], dative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *haviṣā* \< *havis*
+- \[noun\], instrumental, singular, neuter
+- “Havya; offering; ghee; havis \[word\].”
+------------------------------------------------------------------------
+- *vidhema* \< *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+------------------------------------------------------------------------

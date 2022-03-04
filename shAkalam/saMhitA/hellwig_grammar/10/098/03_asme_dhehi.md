@@ -1,0 +1,75 @@
++++
+title = "Rig Veda 10.98.3"
+
++++
+-   *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dhehi* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dyumatīṃ* \< *dyumatīm* \< *dyumat*
+- \[noun\], accusative, singular, feminine
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *vācam* \< *vāc*
+- \[noun\], accusative, singular, feminine
+- “speech; statement; voice; voice; speech; language; vāc \[word\];
+    word; literary composition; conversation; sound; Sarasvati; cry;
+    assurance; spell.”
+------------------------------------------------------------------------
+- *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *bṛhaspate* \< *bṛhaspati*
+- \[noun\], vocative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *anamīvām* \< *anamīva*
+- \[noun\], accusative, singular, feminine
+- “healthy; comfortable; beneficial.”
+------------------------------------------------------------------------
+- *iṣirām* \< *iṣira*
+- \[noun\], accusative, singular, feminine
+- “vigorous; bracing; quick.”
+------------------------------------------------------------------------
+- *yayā* \< *yad*
+- \[noun\], instrumental, singular, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- \[noun\], accusative, singular, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------
+- *śantanave* \< *śaṃtanu*
+- \[noun\], dative, singular, masculine
+- “Śaṃtanu; Śaṃtanu.”
+------------------------------------------------------------------------
+- *vanāva* \< *van*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *drapso* \< *drapsaḥ* \< *drapsa*
+- \[noun\], nominative, singular, masculine
+- “drop; banner.”
+------------------------------------------------------------------------
+- *madhumāṃ* \< *madhumat*
+- \[noun\], nominative, singular, masculine
+- “sweet; honeyed; sweet; pleasant.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viveśa* \< *viś*
+- \[verb\], singular, Perfect indicative
+- “enter; penetrate; settle; settle.”
+------------------------------------------------------------------------

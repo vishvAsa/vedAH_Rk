@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 10.176.3"
+
++++
+-   *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣya* \< *tya*
+- \[noun\], nominative, singular, masculine
+- “that.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *devayur* \< *devayuḥ* \< *devayu*
+- \[noun\], nominative, singular, masculine
+- “devout; devoted.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *yajñāya* \< *yajña*
+- \[noun\], dative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *nīyate* \< *nī*
+- \[verb\], singular, Indikativ Pr￤s. Passiv
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *ratho* \< *rathaḥ* \< *ratha*
+- \[noun\], nominative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yor* \< *yoḥ* \< *yos*
+- \[noun\], accusative, singular
+- “fortune.”
+------------------------------------------------------------------------
+- *abhīvṛto* \< *abhīvṛtaḥ* \< *abhīvṛta*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ghṛṇīvāñ* \< *ghṛṇīvān* \< *ghṛṇīvat*
+- \[noun\], nominative, singular, masculine
+- “aglow(p).”
+------------------------------------------------------------------------
+- *cetati* \< *cit*
+- \[verb\], singular, Present indikative
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *tmanā* \< *tman*
+- \[noun\], instrumental, singular, masculine
+- “self.”
+------------------------------------------------------------------------

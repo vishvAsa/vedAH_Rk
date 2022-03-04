@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 10.111.10"
+
++++
+-   *sadhrīcīḥ* \< *sadhryañc*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *sindhum* \< *sindhu*
+- \[noun\], accusative, singular, feminine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *uśatīr* \< *uśatīḥ* \< *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *ivāyan* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivāyan* \< *āyan* \< *i*
+- \[verb\], plural, Imperfect
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *sanāj* \< *sanāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *jāra* \< *jāraḥ* \< *jāra*
+- \[noun\], nominative, singular, masculine
+- “fancy man.”
+------------------------------------------------------------------------
+- *āritaḥ* \< *ār*
+- \[verb noun\], nominative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *pūrbhid*
+- \[noun\], nominative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *āsām* \< *idam*
+- \[noun\], genitive, plural, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *astam* \< *asta*
+- \[noun\], accusative, singular, neuter
+- “home.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pārthivā* \< *pārthiva*
+- \[noun\], nominative, plural, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *vasūny* \< *vasūni* \< *vasu*
+- \[noun\], nominative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *jagmuḥ* \< *gam*
+- \[verb\], plural, Perfect indicative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *sūnṛtā* \< *sūnṛtāḥ* \< *sūnṛtā*
+- \[noun\], nominative, plural, feminine
+- “liberality.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], nominative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------

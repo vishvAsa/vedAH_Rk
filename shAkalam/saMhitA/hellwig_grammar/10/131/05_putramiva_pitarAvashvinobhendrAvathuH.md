@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 10.131.5"
+
++++
+-   *putram* \< *putra*
+- \[noun\], accusative, singular, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *pitarāv* \< *pitarau* \< *pitṛ*
+- \[noun\], nominative, dual, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *aśvinobhendrāvathuḥ* \< *aśvinā* \< *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *aśvinobhendrāvathuḥ* \< *ubhā* \< *ubh*
+- \[noun\], nominative, dual, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *aśvinobhendrāvathuḥ* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *aśvinobhendrāvathuḥ* \< *āvathuḥ* \< *av*
+- \[verb\], dual, Perfect indicative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *kāvyair* \< *kāvyaiḥ* \< *kāvya*
+- \[noun\], instrumental, plural, masculine
+- “Uśanas; poem; Kāvya; wisdom.”
+------------------------------------------------------------------------
+- *daṃsanābhiḥ* \< *daṃsanā*
+- \[noun\], instrumental, plural, feminine
+- “wonder; power.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *surāmaṃ* \< *surāmam* \< *surāma*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *apibaḥ* \< *pā*
+- \[verb\], singular, Imperfect
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *śacībhiḥ* \< *śacī*
+- \[noun\], instrumental, plural, feminine
+- “Śacī; power; dexterity; ability; aid.”
+------------------------------------------------------------------------
+- *sarasvatī*
+- \[noun\], nominative, singular, feminine
+- “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
+    vine; river.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *abhiṣṇak* \< *bhiṣaj*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------

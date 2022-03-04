@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 10.94.10"
+
++++
+-   *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *aṃśur* \< *aṃśuḥ* \< *aṃśu*
+- \[noun\], nominative, singular, masculine
+- “sunbeam; beam; aṃśu \[word\]; thread.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kilā* \< *kila*
+- \[adverb\]
+- “assuredly; indeed; kila \[indecl.\].”
+------------------------------------------------------------------------
+- *riṣāthaneḍāvantaḥ* \< *riṣāthana* \< *riṣ*
+- \[verb\], plural, Aorist conj./subj.
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *riṣāthaneḍāvantaḥ* \< *iḍāvantaḥ* \< *iḍāvat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *sadam*
+- \[adverb\]
+- “always.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *sthanāśitāḥ* \< *sthana* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *sthanāśitāḥ* \< *āśitāḥ* \< *āśay* \< *√aś*
+- \[verb noun\], nominative, plural
+- “feed.”
+------------------------------------------------------------------------
+- *raivatyeva* \< *raivatyā* \< *raivatī*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *raivatyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *mahasā* \< *mahas*
+- \[noun\], instrumental, singular, neuter
+- “greatness; festival; glory; reward; gladness.”
+------------------------------------------------------------------------
+- *cārava* \< *cāru*
+- \[noun\], nominative, plural, masculine
+- “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
+------------------------------------------------------------------------
+- *sthana* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *grāvāṇo* \< *grāvāṇaḥ* \< *grāvan*
+- \[noun\], nominative, plural, masculine
+- “stone; millstone; grindstone; mountain.”
+------------------------------------------------------------------------
+- *ajuṣadhvam* \< *juṣ*
+- \[verb\], plural, Thematic aorist (Ind.)
+- “enjoy; endow; possess; frequent; accompany; induce; consume;
+    approve; affect; attend; befit; blend; contract.”
+------------------------------------------------------------------------
+- *adhvaram* \< *adhvara*
+- \[noun\], accusative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------

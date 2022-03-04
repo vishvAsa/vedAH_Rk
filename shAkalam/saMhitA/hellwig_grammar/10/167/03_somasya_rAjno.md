@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 10.167.3"
+
++++
+-   *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *rājño* \< *rājñaḥ* \< *rājan*
+- \[noun\], genitive, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *varuṇasya* \< *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dharmaṇi* \< *dharman*
+- \[noun\], locative, singular, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *bṛhaspater* \< *bṛhaspateḥ* \< *bṛhaspati*
+- \[noun\], genitive, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *anumatyā* \< *anumatyāḥ* \< *anumati*
+- \[noun\], genitive, singular, feminine
+- “Anumati; approbation.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *śarmaṇi* \< *śarman*
+- \[noun\], locative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *tavāham* \< *tava* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *tavāham* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *maghavann* \< *maghavan*
+- \[noun\], vocative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *upastutau* \< *upastuti*
+- \[noun\], locative, singular, feminine
+- “praise; applause.”
+------------------------------------------------------------------------
+- *dhātar* \< *dhātṛ*
+- \[noun\], vocative, singular, masculine
+- “Brahma; Dhātṛ; creator; Dhātṛ.”
+------------------------------------------------------------------------
+- *vidhātaḥ* \< *vidhātar* \< *vidhātṛ*
+- \[noun\], vocative, singular, masculine
+- “Brahma; organizer; creator.”
+------------------------------------------------------------------------
+- *kalaśāṃ* \< *kalaśa*
+- \[noun\], accusative, plural, masculine
+- “jar.”
+------------------------------------------------------------------------
+- *abhakṣayam* \< *bhakṣay* \< *√bhakṣ*
+- \[verb\], singular, Imperfect
+- “eat; feed; administer; partake; feed; drink.”
+------------------------------------------------------------------------

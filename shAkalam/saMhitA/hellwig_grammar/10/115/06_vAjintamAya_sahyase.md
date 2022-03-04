@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 10.115.6"
+
++++
+-   *vājintamāya* \< *vājintama*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *sahyase* \< *sahyas*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *supitrya* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *supitrya* \< *pitrya*
+- \[noun\], vocative, singular, masculine
+- “ancestral; paternal.”
+------------------------------------------------------------------------
+- *tṛṣu*
+- \[noun\], accusative, singular, neuter
+- “dry.”
+------------------------------------------------------------------------
+- *cyavāno* \< *cyavānaḥ* \< *cyavāna*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *jātavedase* \< *jātavedas*
+- \[noun\], dative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *anudre* \< *anudra*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dhṛṣatā* \< *dhṛṣat*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *varaṃ* \< *varam* \< *vara*
+- \[noun\], accusative, singular, neuter
+- “best; excellent; better; choice; optimum; maximal.”
+------------------------------------------------------------------------
+- *sate* \< *as*
+- \[verb noun\], dative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *mahintamāya* \< *mahintama*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *dhanvaned* \< *dhanvanā* \< *dhanvan*
+- \[noun\], instrumental, singular, neuter
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *dhanvaned* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *aviṣyate* \< *av*
+- \[verb noun\], dative, singular
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------

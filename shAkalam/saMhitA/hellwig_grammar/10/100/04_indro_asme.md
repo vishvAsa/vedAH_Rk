@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 10.100.4"
+
++++
+-   *indro* \< *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sumanā* \< *sumanāḥ* \< *sumanas*
+- \[noun\], nominative, singular, masculine
+- “benevolent; cheerful; happy; satisfied.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *viśvahā*
+- \[adverb\]
+------------------------------------------------------------------------
+- *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *suvitasyādhy* \< *suvitasya* \< *suvita*
+- \[noun\], genitive, singular, neuter
+- “prosperity; well-being.”
+------------------------------------------------------------------------
+- *suvitasyādhy* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *etu* \< *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *mitradhitāni* \< *mitradhita*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *saṃdadhur* \< *saṃdadhuḥ* \< *saṃdhā* \< *√dhā*
+- \[verb\], plural, Perfect indicative
+- “connect; refer; aim; grow together; compress; ally; unite; operate
+    on.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *sarvatātim* \< *sarvatāti*
+- \[noun\], accusative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *aditiṃ* \< *aditim* \< *aditi*
+- \[noun\], accusative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *vṛṇīmahe* \< *vṛ*
+- \[verb\], plural, Present indikative
+- “choose; ask.”
+------------------------------------------------------------------------

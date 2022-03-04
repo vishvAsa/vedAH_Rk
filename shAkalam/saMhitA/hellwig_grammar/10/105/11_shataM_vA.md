@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 10.105.11"
+
++++
+-   *śataṃ* \< *śatam* \< *śata*
+- \[noun\], nominative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *asurya*
+- \[noun\], vocative, singular, masculine
+- “āsura.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *sumitra* \< *sumitraḥ* \< *sumitra*
+- \[noun\], nominative, singular, masculine
+- “Sumitra; Sumitra.”
+------------------------------------------------------------------------
+- *itthāstaud* \< *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *itthāstaud* \< *astaut* \< *stu*
+- \[verb\], singular, Imperfect
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *durmitra* \< *durmitraḥ* \< *durmitra*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *itthāstaut* \< *itthā*
+- \[adverb\]
+- “thus; here.”
+------------------------------------------------------------------------
+- *itthāstaut* \< *astaut* \< *stu*
+- \[verb\], singular, Imperfect
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *āvo* \< *āvaḥ* \< *av*
+- \[verb\], singular, Imperfect
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *dasyuhatye* \< *dasyu*
+- \[noun\], masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *dasyuhatye* \< *hatye* \< *hatya*
+- \[noun\], locative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *kutsaputram* \< *kutsa*
+- \[noun\], masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *kutsaputram* \< *putram* \< *putra*
+- \[noun\], accusative, singular, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *prāvo* \< *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *prāvo* \< *āvaḥ* \< *av*
+- \[verb\], singular, Imperfect
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *dasyuhatye* \< *dasyu*
+- \[noun\], masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *dasyuhatye* \< *hatye* \< *hatya*
+- \[noun\], locative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------
+- *kutsavatsam* \< *kutsa*
+- \[noun\], masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *kutsavatsam* \< *vatsam* \< *vatsa*
+- \[noun\], accusative, singular, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
