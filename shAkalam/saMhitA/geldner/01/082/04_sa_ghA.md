@@ -2,4 +2,4 @@
 title = "04"
 
 +++
-An Einsicht groß, hat der Furchtbare nach eigenem Ermessen seine Stärke noch erhöht. Zur Herrlichkeit hat der Recke in die beiden aneinandergeschlossenen Hände die eherne Keule genommen, der Falbenlenker mit der geöffneten Lippe.
+Nur der soll den riesigen Wagen besteigen, den rindergewinnenden, wer, Indra, an den vollen Falbenschirrungsschoppen denkt. - Ich will dir jetzt das Falbenpaar schirren, o Indra.

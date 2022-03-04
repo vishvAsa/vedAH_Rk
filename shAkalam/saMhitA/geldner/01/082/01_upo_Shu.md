@@ -2,4 +2,4 @@
 title = "01"
 
 +++
-Indra, den Vritratöter, ward von den Männern zum Rausch, zur Kraft gestärkt. Nur ihn rufen wir in den großen Kämpfen und ihn in den kleinen. Er möge uns im Kampf um die Siegerpreise weiterhelfen.
+Höre fein auf unsere Lobesworte, du Freigebiger; sei nicht wie einer, der anders will! Wenn du uns glücklich machen willst, dann sollst du dich auch entschließen. - Ich will dir jetzt das Falbenpaar schirren, o Indra.

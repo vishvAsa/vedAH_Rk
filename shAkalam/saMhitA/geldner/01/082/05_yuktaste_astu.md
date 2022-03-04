@@ -2,4 +2,4 @@
 title = "05"
 
 +++
-Er hat den indrischen Raum ausgefüllt und die Lichter im Himmel erdrückt. Gleich dir, Indra, ward keiner geboren und wird keiner geboren werden. Du bist über die ganze Welt hinausgewachsen.
+Dein rechtes und dein linkes Wagenpferd soll angeschirrt sein, du Ratreicher. Mit dem fahre von Soma berauscht zu deiner lieben Frau! - Ich will dir jetzt das Falbenpaar schirren, o Indra.

@@ -2,4 +2,4 @@
 title = "03"
 
 +++
-Wenn die Kämpfe sich erheben, steht für den Mutigen Beutegewinn auf dem Spiel. Schirre deine übermütigen Falben an! Wen wirst du erschlagen, wem zu Gut verhelfen? Uns verhilf zu Gut, Indra!
+Dich, der schön zu schauen, wollen wir loben, o Freigebiger. Fahre jetzt gepriesen mit vollem Wagensitz nach Wunsch weiter! - Ich will dir jetzt das Falbenpaar schirren, o Indra.
