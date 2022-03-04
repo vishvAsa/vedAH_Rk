@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 10.61.3"
+
++++
+-   *mano* \< *manaḥ* \< *manas*
+- \[noun\], nominative, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yeṣu* \< *yad*
+- \[noun\], locative, plural, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *havaneṣu* \< *havana*
+- \[noun\], locative, plural, neuter
+- “invocation.”
+------------------------------------------------------------------------
+- *tigmaṃ* \< *tigmam* \< *tigma*
+- \[noun\], nominative, singular, neuter
+- “sharp; pointed; fiery.”
+------------------------------------------------------------------------
+- *vipaḥ* \< *vip*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *śacyā* \< *śacī*
+- \[noun\], instrumental, singular, feminine
+- “Śacī; power; dexterity; ability; aid.”
+------------------------------------------------------------------------
+- *vanutho* \< *vanuthaḥ* \< *van*
+- \[verb\], dual, Present indikative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *dravantā* \< *dru*
+- \[verb noun\], nominative, dual
+- “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
+    dissolve.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *śaryābhis* \< *śaryābhiḥ* \< *śaryā*
+- \[noun\], instrumental, plural, feminine
+- “arrow.”
+------------------------------------------------------------------------
+- *tuvinṛmṇo* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvinṛmṇo* \< *nṛmṇaḥ* \< *nṛmṇa*
+- \[noun\], nominative, singular, masculine
+- “manhood; power.”
+------------------------------------------------------------------------
+- *asyāśrīṇītādiśaṃ* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *asyāśrīṇītādiśaṃ* \< *āśrīṇīta* \< *āśrī* \< *√śrī*
+- \[verb\], singular, Imperfect
+------------------------------------------------------------------------
+- *asyāśrīṇītādiśaṃ* \< *ādiśam* \< *ādiś*
+- \[noun\], accusative, singular, feminine
+- “admonition.”
+------------------------------------------------------------------------
+- *gabhastau* \< *gabhasti*
+- \[noun\], locative, singular, masculine
+- “beam; hand; sun.”
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 10.33.2"
+
++++
+-   *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *tapanty* \< *tapanti* \< *tap*
+- \[verb\], plural, Present indikative
+- “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
+------------------------------------------------------------------------
+- *abhitaḥ* \< *abhitas*
+- \[adverb\]
+- “about; around; regarding; about.”
+------------------------------------------------------------------------
+- *sapatnīr* \< *sapatnīḥ* \< *sapatnī*
+- \[noun\], nominative, plural, feminine
+- “sapatnī; rival; sapatnī \[word\]; mistress.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *parśavaḥ* \< *parśu*
+- \[noun\], nominative, plural, masculine
+- “rib; parśu \[word\].”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *bādhate* \< *bādh*
+- \[verb\], singular, Present indikative
+- “afflict; annoy; chase away; tease; grieve; irritate.”
+------------------------------------------------------------------------
+- *amatir* \< *amatiḥ* \< *amati*
+- \[noun\], nominative, singular, feminine
+- “indigence.”
+------------------------------------------------------------------------
+- *nagnatā*
+- \[noun\], nominative, singular, feminine
+- “nakedness.”
+------------------------------------------------------------------------
+- *jasur* \< *jasuḥ* \< *jasu*
+- \[noun\], nominative, singular, feminine
+- “exhaustion; weakness.”
+------------------------------------------------------------------------
+- *ver* \< *veḥ* \< *vi*
+- \[noun\], genitive, singular, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vevīyate* \< *vevīy* \< *√vī*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *matiḥ* \< *mati*
+- \[noun\], nominative, singular, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 10.64.13"
+
++++
+-   *kuvid*
+- \[adverb\]
+- “surely; indeed.”
+------------------------------------------------------------------------
+- *aṅga*
+- \[adverb\]
+- “in truth; aṅga \[word\]; entirely; merely.”
+------------------------------------------------------------------------
+- *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sajātyasya* \< *sajātya*
+- \[noun\], genitive, singular, neuter
+- “relatedness.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], vocative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *bubodhatha* \< *budh*
+- \[verb\], plural, Perfect conjunctive (subj.)
+- “understand; notice; wake up; observe; detect; attend to; awaken;
+    attend.”
+------------------------------------------------------------------------
+- *nābhā* \< *nābhi*
+- \[noun\], locative, singular, feminine
+- “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
+    \[word\]; friendship; center.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *prathamaṃ* \< *prathamam*
+- \[adverb\]
+- “first.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *nasāmahe* \< *nas*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *tatra*
+- \[adverb\]
+- “there; now; then; then; there; in that place; then; locative;
+    respectively; there; tatra \[word\]; inside; therefore.”
+------------------------------------------------------------------------
+- *jāmitvam* \< *jāmi*
+- \[noun\]
+- “related; ancestral; customary; usual.”
+------------------------------------------------------------------------
+- *jāmitvam* \< *tvam* \< *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *aditir* \< *aditiḥ* \< *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *dadhātu* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------

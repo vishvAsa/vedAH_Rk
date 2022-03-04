@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 10.43.6"
+
++++
+-   *viśaṃ* \< *viśam* \< *viś*
+- \[noun\], accusative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *viśam* \< *viś*
+- \[noun\], accusative, singular, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *maghavā* \< *maghavan*
+- \[noun\], nominative, singular, masculine
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *aśāyata* \< *śī*
+- \[verb\], singular, Imperfect
+- “lie; sleep.”
+------------------------------------------------------------------------
+- *janānāṃ* \< *janānām* \< *jana*
+- \[noun\], genitive, plural, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *dhenā* \< *dhenāḥ* \< *dhenā*
+- \[noun\], accusative, plural, feminine
+- “river; lip; voice.”
+------------------------------------------------------------------------
+- *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *cākaśad* \< *cākaśat* \< *cākaś* \< *√kāś*
+- \[verb noun\], nominative, singular
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *yasyāha* \< *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yasyāha* \< *aha*
+- \[adverb\]
+- “aha \[word\]; indeed.”
+------------------------------------------------------------------------
+- *śakraḥ* \< *śakra*
+- \[noun\], nominative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *savaneṣu* \< *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *raṇyati* \< *raṇ*
+- \[verb\], singular, Present indikative
+- “rejoice.”
+------------------------------------------------------------------------
+- *sa* \< *tad*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *tīvraiḥ* \< *tīvra*
+- \[noun\], instrumental, plural, masculine
+- “intense; severe; pungent; acute; potent; loud.”
+------------------------------------------------------------------------
+- *somaiḥ* \< *soma*
+- \[noun\], instrumental, plural, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *sahate* \< *sah*
+- \[verb\], singular, Present indikative
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *pṛtanyataḥ* \< *pṛtany*
+- \[verb noun\], accusative, plural
+- “attack.”
+------------------------------------------------------------------------

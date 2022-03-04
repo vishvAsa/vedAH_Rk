@@ -1,0 +1,60 @@
++++
+title = "Rig Veda 10.34.1"
+
++++
+-   *prāvepā* \< *prāvepāḥ* \< *prāvepa*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- \[noun\], genitive, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *mādayanti* \< *māday* \< *√mad*
+- \[verb\], plural, Present indikative
+- “delight; enjoy; intoxicate.”
+------------------------------------------------------------------------
+- *pravātejā* \< *pravātejāḥ* \< *pravātejā*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *iriṇe* \< *iriṇa*
+- \[noun\], locative, singular, neuter
+- “hole; rivulet.”
+------------------------------------------------------------------------
+- *varvṛtānāḥ* \< *varvṛt* \< *√vṛt*
+- \[verb noun\], nominative, plural
+------------------------------------------------------------------------
+- *somasyeva* \< *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somasyeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *maujavatasya* \< *maujavata*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *bhakṣo* \< *bhakṣaḥ* \< *bhakṣa*
+- \[noun\], nominative, singular, masculine
+- “food; eating; drink; beverage.”
+------------------------------------------------------------------------
+- *vibhīdako* \< *vibhīdakaḥ* \< *vibhīdaka*
+- \[noun\], nominative, singular, masculine
+- “dice.”
+------------------------------------------------------------------------
+- *jāgṛvir* \< *jāgṛviḥ* \< *jāgṛvi*
+- \[noun\], nominative, singular, masculine
+- “attentive; argus-eyed; light.”
+------------------------------------------------------------------------
+- *mahyam* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *acchān* \< *chand*
+- \[verb\], singular, Athematic s aor. (Ind.)
+------------------------------------------------------------------------

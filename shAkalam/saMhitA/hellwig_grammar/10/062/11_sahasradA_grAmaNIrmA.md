@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 10.62.11"
+
++++
+-   *sahasradā* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasradā* \< *dāḥ* \< *dā*
+- \[noun\], nominative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *grāmaṇīr* \< *grāmaṇīḥ* \< *grāmaṇī*
+- \[noun\], nominative, singular, masculine
+- “greatest.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *riṣan* \< *riṣat* \< *riṣ*
+- \[verb\], singular, Present injunctive
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *manuḥ* \< *manu*
+- \[noun\], nominative, singular, masculine
+- “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
+    incantation; sacred text.”
+------------------------------------------------------------------------
+- *sūryeṇāsya* \< *sūryeṇa* \< *sūrya*
+- \[noun\], instrumental, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *sūryeṇāsya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yatamānaitu* \< *yatamānā* \< *yat*
+- \[verb noun\], nominative, singular
+- “strive; endeavor; join; equal; rival.”
+------------------------------------------------------------------------
+- *yatamānaitu* \< *etu* \< *i*
+- \[verb\], singular, Present imperative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *dakṣiṇā*
+- \[noun\], nominative, singular, feminine
+- “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
+------------------------------------------------------------------------
+- *sāvarṇer* \< *sāvarṇeḥ* \< *sāvarṇi*
+- \[noun\], genitive, singular, masculine
+- “Sāvarṇi; Sāvarṇi.”
+------------------------------------------------------------------------
+- *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tirantv* \< *tirantu* \< *tṛ*
+- \[verb\], plural, Present imperative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *āyur* \< *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *yasminn* \< *yasmin* \< *yad*
+- \[noun\], locative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *aśrāntā* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *aśrāntā* \< *śrāntāḥ* \< *śram*
+- \[verb noun\], nominative, plural
+- “tire; exercise; tire.”
+------------------------------------------------------------------------
+- *asanāma* \< *san*
+- \[verb\], plural, Thematic aorist (Ind.)
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *vājam* \< *vāja*
+- \[noun\], accusative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------

@@ -1,0 +1,69 @@
++++
+title = "Rig Veda 10.36.14"
+
++++
+-   *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *paścātāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------
+- *savitottarāttāt* \< *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *savitottarāttāt* \< *uttarāttāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *savitādharāttāt* \< *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *savitādharāttāt* \< *adharāttāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *suvatu* \< *sū*
+- \[verb\], singular, Present imperative
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *sarvatātiṃ* \< *sarvatātim* \< *sarvatāti*
+- \[noun\], accusative, singular, feminine
+- “completeness; prosperity; sum.”
+------------------------------------------------------------------------
+- *savitā* \< *savitṛ*
+- \[noun\], nominative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāsatāṃ* \< *rāsatām* \< *rā*
+- \[verb\], singular, Aorist imperative
+- “give; impart.”
+------------------------------------------------------------------------
+- *dīrgham* \< *dīrgha*
+- \[noun\], accusative, singular, neuter
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+------------------------------------------------------------------------
+- *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------

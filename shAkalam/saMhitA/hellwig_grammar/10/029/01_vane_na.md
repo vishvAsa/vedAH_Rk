@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 10.29.1"
+
++++
+-   *vane* \< *vana*
+- \[noun\], locative, singular, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ny* \< *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *adhāyi* \< *dhā*
+- \[verb\], singular, Aorist passive
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *cākañ* \< *cākan* \< *kan*
+- \[verb\], singular, Plusquamperfect
+- “like; delight; desire.”
+------------------------------------------------------------------------
+- *chucir* \< *śuciḥ* \< *śuci*
+- \[noun\], nominative, singular, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *stomo* \< *stomaḥ* \< *stoma*
+- \[noun\], nominative, singular, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *bhuraṇāv* \< *bhuraṇau* \< *bhuraṇa*
+- \[noun\], accusative, dual, masculine
+------------------------------------------------------------------------
+- *ajīgaḥ* \< *jāgṛ*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “wake; watch; awaken; wake up; oversee.”
+------------------------------------------------------------------------
+- *yasyed* \< *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yasyed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *purudineṣu* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purudineṣu* \< *dineṣu* \< *dina*
+- \[noun\], locative, plural, neuter
+- “day; day; day of the week; one.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *nṛṇāṃ* \< *nṛṇām* \< *nṛ*
+- \[noun\], genitive, plural
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *naryo* \< *naryaḥ* \< *narya*
+- \[noun\], nominative, singular, masculine
+- “manly; heroic; powerful; male; human.”
+------------------------------------------------------------------------
+- *nṛtamaḥ* \< *nṛtama*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *kṣapāvān* \< *kṣapāvant*
+- \[noun\], nominative, singular, masculine
+- “ruler.”
+------------------------------------------------------------------------

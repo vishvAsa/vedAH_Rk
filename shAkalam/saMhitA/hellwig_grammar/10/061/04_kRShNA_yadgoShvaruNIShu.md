@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 10.61.4"
+
++++
+-   *kṛṣṇā* \< *kṛṣṇa*
+- \[noun\], nominative, singular, feminine
+- “black; dark; dark; blue; black.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *goṣv* \< *goṣu* \< *go*
+- \[noun\], locative, plural, feminine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *aruṇīṣu* \< *aruṇī*
+- \[noun\], locative, plural, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *sīdad* \< *sīdat* \< *sad*
+- \[verb\], singular, Present injunctive
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *napātāśvinā* \< *napātā* \< *napāt*
+- \[noun\], vocative, dual, masculine
+- “grandson; nephew; napāt \[word\].”
+------------------------------------------------------------------------
+- *napātāśvinā* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *vītam* \< *vī*
+- \[verb\], dual, Present imperative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gatam* \< *gam*
+- \[verb\], dual, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *annaṃ* \< *annam* \< *anna*
+- \[noun\], accusative, singular, neuter
+- “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
+------------------------------------------------------------------------
+- *vavanvāṃsā* \< *van*
+- \[verb noun\], nominative, dual
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *neṣam* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *neṣam* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *asmṛtadhrū* \< *asmṛtadhru*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------

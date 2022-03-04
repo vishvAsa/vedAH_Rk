@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.79.2"
+
++++
+-   *guhā*
+- \[adverb\]
+- “secretly.”
+------------------------------------------------------------------------
+- *śiro* \< *śiraḥ* \< *śiras*
+- \[noun\], nominative, singular, neuter
+- “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
+------------------------------------------------------------------------
+- *nihitam* \< *nidhā* \< *√dhā*
+- \[verb noun\], nominative, singular
+- “put; fill into; stow; insert; ignite; insert; add; put on;
+    establish; keep down.”
+------------------------------------------------------------------------
+- *ṛdhag* \< *ṛdhak*
+- \[adverb\]
+- “away; apart.”
+------------------------------------------------------------------------
+- *akṣī* \< *akṣi*
+- \[noun\], nominative, dual, neuter
+- “eye; akṣi \[word\]; two.”
+------------------------------------------------------------------------
+- *asinvann* \< *asinvan* \< *asinvat*
+- \[noun\], nominative, singular, masculine
+- “insatiate.”
+------------------------------------------------------------------------
+- *atti* \< *ad*
+- \[verb\], singular, Present indikative
+- “eat; devour.”
+------------------------------------------------------------------------
+- *jihvayā* \< *jihvā*
+- \[noun\], instrumental, singular, feminine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *vanāni* \< *vana*
+- \[noun\], accusative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *atrāṇy* \< *atrāṇi* \< *atra*
+- \[noun\], accusative, plural, neuter
+- “food.”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *paḍbhiḥ* \< *pad*
+- \[noun\], instrumental, plural, masculine
+- “foot; pad \[word\].”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *bharanty* \< *bharanti* \< *bhṛ*
+- \[verb\], plural, Present indikative
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *uttānahastā* \< *uttāna*
+- \[noun\]
+- “supine; upward; upright; skin-deep; raised; shallow.”
+------------------------------------------------------------------------
+- *uttānahastā* \< *hastāḥ* \< *hasta*
+- \[noun\], nominative, plural, masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *namasādhi* \< *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *namasādhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *vikṣu* \< *viś*
+- \[noun\], locative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------

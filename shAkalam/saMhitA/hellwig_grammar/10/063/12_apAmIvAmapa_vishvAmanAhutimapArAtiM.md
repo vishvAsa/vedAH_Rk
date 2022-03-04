@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 10.63.12"
+
++++
+-   *apāmīvām* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apāmīvām* \< *amīvām* \< *amīvā*
+- \[noun\], accusative, singular, feminine
+- “disease; affliction.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *viśvām* \< *viśva*
+- \[noun\], accusative, singular, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *anāhutim* \< *anāhuti*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *apārātiṃ* \< *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *apārātiṃ* \< *arātim* \< *arāti*
+- \[noun\], accusative, singular, feminine
+- “hostility; adversity; foe; envy; stinginess.”
+------------------------------------------------------------------------
+- *durvidatrām* \< *durvidatra*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *aghāyataḥ* \< *aghāy*
+- \[verb noun\], genitive, singular
+------------------------------------------------------------------------
+- *āre*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- \[noun\], accusative, singular, neuter
+- “hostility; enemy.”
+------------------------------------------------------------------------
+- *asmad* \< *asmat* \< *mad*
+- \[noun\], ablative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yuyotanoru* \< *yuyotana* \< *yu*
+- \[verb\], plural, Present imperative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *yuyotanoru* \< *uru*
+- \[noun\], accusative, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *ṇaḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *yacchatā* \< *yam*
+- \[verb\], plural, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *svastaye* \< *svasti*
+- \[noun\], dative, singular, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------

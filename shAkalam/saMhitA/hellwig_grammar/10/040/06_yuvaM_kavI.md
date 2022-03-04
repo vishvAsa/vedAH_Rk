@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 10.40.6"
+
++++
+-   *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual, masculine
+- “you.”
+------------------------------------------------------------------------
+- *kavī* \< *kavi*
+- \[noun\], nominative, dual, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *ṣṭhaḥ* \< *sthaḥ* \< *as*
+- \[verb\], dual, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *rathaṃ* \< *ratham* \< *ratha*
+- \[noun\], accusative, singular, masculine
+- “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
+------------------------------------------------------------------------
+- *viśo* \< *viśaḥ* \< *viś*
+- \[noun\], accusative, plural, feminine
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *kutso* \< *kutsaḥ* \< *kutsa*
+- \[noun\], nominative, singular, masculine
+- “Kutsa; kutsa \[word\].”
+------------------------------------------------------------------------
+- *jaritur* \< *jarituḥ* \< *jaritṛ*
+- \[noun\], genitive, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *naśāyathaḥ* \< *naśāy*
+- \[verb\], dual, Present indikative
+- “arrive.”
+------------------------------------------------------------------------
+- *yuvor* \< *yuvoḥ* \< *tvad*
+- \[noun\], genitive, dual, masculine
+- “you.”
+------------------------------------------------------------------------
+- *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *makṣā*
+- \[noun\], nominative, singular, feminine
+- “bee.”
+------------------------------------------------------------------------
+- *pary* \< *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *madhv* \< *madhu*
+- \[noun\], accusative, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *āsā* \< *ās*
+- \[noun\], instrumental, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------
+- *bharata* \< *bhṛ*
+- \[verb\], plural, Present injunctive
+- “bring; hold; fill; support; wear; possess; carry; nourish; keep;
+    hire; have; satiate; follow; bear.”
+------------------------------------------------------------------------
+- *niṣkṛtaṃ* \< *niṣkṛtam* \< *niṣkṛta*
+- \[noun\], accusative, singular, neuter
+- “place; rendezvous.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yoṣaṇā*
+- \[noun\], nominative, singular, feminine
+- “girl; wife.”
+------------------------------------------------------------------------

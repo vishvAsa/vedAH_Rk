@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 10.76.2"
+
++++
+-   *tad* \< *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *śreṣṭhaṃ* \< *śreṣṭham* \< *śreṣṭha*
+- \[noun\], accusative, singular, neuter
+- “best; better; chief(a); beautiful.”
+------------------------------------------------------------------------
+- *savanaṃ* \< *savanam* \< *savana*
+- \[noun\], accusative, singular, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *sunotanātyo* \< *sunotana* \< *su*
+- \[verb\], plural, Present imperative
+- “press out; su.”
+------------------------------------------------------------------------
+- *sunotanātyo* \< *atyaḥ* \< *atya*
+- \[noun\], nominative, singular, masculine
+- “horse; steed.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *hastayato* \< *hasta*
+- \[noun\], masculine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *hastayato* \< *yataḥ* \< *yam*
+- \[verb noun\], nominative, singular
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *adriḥ* \< *adri*
+- \[noun\], nominative, singular, masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *sotari* \< *sotṛ*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *vidaddhy* \< *vidat* \< *vid*
+- \[verb\], singular, Aorist inj. (proh.)
+- “find; detect; marry; get; think.”
+------------------------------------------------------------------------
+- *vidaddhy* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *aryo* \< *aryaḥ* \< *ari*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *abhibhūti*
+- \[noun\], accusative, singular, neuter
+- “superior; overpowering.”
+------------------------------------------------------------------------
+- *pauṃsyam* \< *pauṃsya*
+- \[noun\], accusative, singular, neuter
+- “manfulness; deed; army; strength.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *rāye* \< *rai*
+- \[noun\], dative, singular
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *tarute* \< *tṛ*
+- \[verb\], singular, Present indikative
+- “traverse; overcome; float; rescue; reach; satisfy.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *arvataḥ* \< *arvant*
+- \[noun\], accusative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------

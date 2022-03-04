@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 10.68.2"
+
++++
+-   *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *gobhir* \< *gobhiḥ* \< *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *āṅgiraso* \< *āṅgirasaḥ* \< *āṅgirasa*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *nakṣamāṇo* \< *nakṣamāṇaḥ* \< *nakṣ*
+- \[verb noun\], nominative, singular
+- “reach; approach.”
+------------------------------------------------------------------------
+- *bhaga* \< *bhagaḥ* \< *bhaga*
+- \[noun\], nominative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *ived* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ived* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *aryamaṇaṃ* \< *aryamaṇam* \< *aryaman*
+- \[noun\], accusative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *nināya* \< *nī*
+- \[verb\], singular, Perfect indicative
+- “bring; lead; spend; decant; enter (a state); remove; take out; take
+    away; enforce; marry; carry; fill into; bring; learn; go out; add.”
+------------------------------------------------------------------------
+- *jane* \< *jana*
+- \[noun\], locative, singular, masculine
+- “people; national; man; relative; jan; Janaloka; person; jana
+    \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dampatī* \< *dampati*
+- \[noun\], accusative, dual, masculine
+- “couple.”
+------------------------------------------------------------------------
+- *anakti* \< *añj*
+- \[verb\], singular, Present indikative
+- “smear; anoint; mix; color.”
+------------------------------------------------------------------------
+- *bṛhaspate* \< *bṛhaspati*
+- \[noun\], vocative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *vājayāśūṃr* \< *vājaya* \< *vājay* \< *√vaj*
+- \[verb\], singular, Present imperative
+- “incite.”
+------------------------------------------------------------------------
+- *vājayāśūṃr* \< *āśūn* \< *āśu*
+- \[noun\], accusative, plural, masculine
+- “quick; fast; immediate; agile.”
+------------------------------------------------------------------------
+- *ivājau* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *ivājau* \< *ājau* \< *āji*
+- \[noun\], locative, singular, masculine
+- “battle; fight; contest; āji \[word\]; combat.”
+------------------------------------------------------------------------

@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 10.87.2"
+
++++
+-   *ayodaṃṣṭro* \< *ayaḥ* \< *ayas*
+- \[noun\], neuter
+- “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
+    weapon.”
+------------------------------------------------------------------------
+- *ayodaṃṣṭro* \< *daṃṣṭraḥ* \< *daṃṣṭra*
+- \[noun\], nominative, singular, masculine
+- “tusk; fang; tooth; fang; bite.”
+------------------------------------------------------------------------
+- *arciṣā* \< *arcis*
+- \[noun\], instrumental, singular, neuter
+- “fire; flare; light; beam; gleam; shininess.”
+------------------------------------------------------------------------
+- *yātudhānān* \< *yātudhāna*
+- \[noun\], accusative, plural, masculine
+- “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *spṛśa* \< *spṛś*
+- \[verb\], singular, Present imperative
+- “touch; enter (a state); reach; touch.”
+------------------------------------------------------------------------
+- *jātavedaḥ* \< *jātavedas*
+- \[noun\], vocative, singular, masculine
+- “Agni; fire.”
+------------------------------------------------------------------------
+- *samiddhaḥ* \< *samindh* \< *√indh*
+- \[verb noun\], nominative, singular
+- “kindle; blaze.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *jihvayā* \< *jihvā*
+- \[noun\], instrumental, singular, feminine
+- “tongue; tongue; jihvā \[word\]; fire.”
+------------------------------------------------------------------------
+- *mūradevān* \< *mūradeva*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *rabhasva* \< *rabh*
+- \[verb\], singular, Present imperative
+- “clasp.”
+------------------------------------------------------------------------
+- *kravyādo* \< *kravyādaḥ* \< *kravyād*
+- \[noun\], accusative, plural, masculine
+- “carnivore.”
+------------------------------------------------------------------------
+- *vṛktvy* \< *vṛktvī* \< *vṛj*
+- \[verb noun\]
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *dhatsvāsan* \< *dhatsva* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *dhatsvāsan* \< *āsan*
+- \[noun\], locative, singular, neuter
+- “mouth.”
+------------------------------------------------------------------------

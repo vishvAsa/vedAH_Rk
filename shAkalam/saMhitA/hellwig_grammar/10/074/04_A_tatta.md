@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 10.74.4"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tat* \< *tad*
+- \[noun\], accusative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *indrāyavaḥ* \< *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *indrāyavaḥ* \< *āyavaḥ* \< *āyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *panantābhi* \< *pananta* \< *pan*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *panantābhi* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *ya* \< *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ūrvaṃ* \< *ūrvam* \< *ūrva*
+- \[noun\], accusative, singular, masculine
+- “great.”
+------------------------------------------------------------------------
+- *gomantaṃ* \< *gomantam* \< *gomanta*
+- \[noun\], accusative, singular, masculine
+- “herd.”
+------------------------------------------------------------------------
+- *titṛtsān* \< *titṛd* \< *√tṛd*
+- \[verb\], plural, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *sakṛtsvaṃ* \< *sakṛtsvam* \< *sakṛtsū*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *puruputrām* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruputrām* \< *putrām* \< *putra*
+- \[noun\], accusative, singular, feminine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *mahīṃ* \< *mahīm* \< *mah*
+- \[noun\], accusative, singular, feminine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *sahasradhārām* \< *sahasra*
+- \[noun\], neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *sahasradhārām* \< *dhārām* \< *dhārā*
+- \[noun\], accusative, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *bṛhatīṃ* \< *bṛhatīm* \< *bṛhat*
+- \[noun\], accusative, singular, feminine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *dudukṣan* \< *dudukṣ* \< *√duh*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------

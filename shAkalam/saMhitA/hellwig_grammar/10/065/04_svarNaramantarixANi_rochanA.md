@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 10.65.4"
+
++++
+-   *svarṇaram* \< *svarṇṛ*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *antarikṣāṇi* \< *antarikṣa*
+- \[noun\], accusative, plural, neuter
+- “sky; atmosphere; air; abhra.”
+------------------------------------------------------------------------
+- *rocanā* \< *rocana*
+- \[noun\], accusative, plural, neuter
+- “light; celestial sphere.”
+------------------------------------------------------------------------
+- *dyāvābhūmī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth.”
+------------------------------------------------------------------------
+- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- \[noun\], accusative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *skambhur* \< *skambhuḥ* \< *skambh*
+- \[verb\], plural, Perfect indicative
+- “fixate; establish.”
+------------------------------------------------------------------------
+- *ojasā* \< *ojas*
+- \[noun\], instrumental, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *pṛkṣā* \< *pṛkṣāḥ* \< *pṛkṣa*
+- \[noun\], nominative, plural, masculine
+- “strong; full of life.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *mahayantaḥ* \< *mahay* \< *√mah*
+- \[verb noun\], nominative, plural
+- “glorify.”
+------------------------------------------------------------------------
+- *surātayo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *surātayo* \< *rātayaḥ* \< *rāti*
+- \[noun\], nominative, plural, masculine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+- *devā* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *stavante* \< *stu*
+- \[verb\], plural, Present indikative
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *manuṣāya* \< *manuṣa*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *sūrayaḥ* \< *sūri*
+- \[noun\], nominative, plural, masculine
+- “guru.”
+------------------------------------------------------------------------

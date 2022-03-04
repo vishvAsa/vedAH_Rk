@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 10.26.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *hy* \< *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------
+- *manīṣā* \< *manīṣāḥ* \< *manīṣā*
+- \[noun\], nominative, plural, feminine
+- “hymn; inspiration; idea; thinking; wish; consideration;
+    intelligence.”
+------------------------------------------------------------------------
+- *spārhā* \< *spārhāḥ* \< *spārha*
+- \[noun\], nominative, plural, feminine
+- “desirable.”
+------------------------------------------------------------------------
+- *yanti* \< *i*
+- \[verb\], plural, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *niyutaḥ* \< *niyut*
+- \[noun\], nominative, plural, feminine
+- “gift; team.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], nominative, dual, masculine
+- “fantastic.”
+------------------------------------------------------------------------
+- *niyudrathaḥ* \< *niyudratha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pūṣā* \< *pūṣan*
+- \[noun\], nominative, singular, masculine
+- “Pushan; pūṣan \[word\]; sun.”
+------------------------------------------------------------------------
+- *aviṣṭu* \< *av*
+- \[verb\], singular, Aorist imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *māhinaḥ* \< *māhina*
+- \[noun\], nominative, singular, masculine
+- “mighty; large.”
+------------------------------------------------------------------------

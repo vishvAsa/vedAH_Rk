@@ -1,0 +1,107 @@
++++
+title = "Rig Veda 10.43.2"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ghā* \< *gha*
+- \[adverb\]
+------------------------------------------------------------------------
+- *tvadrig* \< *tvadrik*
+- \[adverb\]
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *veti* \< *vī*
+- \[verb\], singular, Present indikative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *manas* \< *manaḥ* \< *manas*
+- \[noun\], nominative, singular, neuter
+- “mind; Manas; purpose; idea; attention; heart; decision; manas
+    \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
+------------------------------------------------------------------------
+- *tve* \< *tvad*
+- \[noun\], locative, singular
+- “you.”
+------------------------------------------------------------------------
+- *it* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *kāmam* \< *kāma*
+- \[noun\], accusative, singular, masculine
+- “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
+    love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
+    kāma \[word\]; sexual intercourse; thorn apple; wish.”
+------------------------------------------------------------------------
+- *puruhūta*
+- \[noun\], vocative, singular, masculine
+- “Indra; Vishnu.”
+------------------------------------------------------------------------
+- *śiśraya* \< *śri*
+- \[verb\], singular, Perfect indicative
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *rājeva* \< *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *rājeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dasma*
+- \[noun\], vocative, singular, masculine
+- “fantastic; extraordinary.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣado* \< *sadaḥ* \< *sad*
+- \[verb\], singular, Aorist inj. (proh.)
+- “sit down; break down; slow; sink; crumble; fracture; perish; ride;
+    stop; besiege; tire.”
+------------------------------------------------------------------------
+- *'dhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *barhiṣy* \< *barhiṣi* \< *barhis*
+- \[noun\], locative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *asmin* \< *idam*
+- \[noun\], locative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *some* \< *soma*
+- \[noun\], locative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *'vapānam* \< *avapānam* \< *avapāna*
+- \[noun\], nominative, singular, neuter
+- “drinking.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------

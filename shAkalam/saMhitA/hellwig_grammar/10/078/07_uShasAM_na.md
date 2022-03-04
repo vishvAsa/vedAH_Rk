@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 10.78.7"
+
++++
+-   *uṣasāṃ* \< *uṣasām* \< *uṣas*
+- \[noun\], genitive, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ketavo* \< *ketavaḥ* \< *ketu*
+- \[noun\], nominative, plural, masculine
+- “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
+    signal; signal; luminosity.”
+------------------------------------------------------------------------
+- *'dhvaraśriyaḥ* \< *adhvara*
+- \[noun\], masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *'dhvaraśriyaḥ* \< *śriyaḥ* \< *śrī*
+- \[noun\], nominative, plural, masculine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *śubhaṃyavo* \< *śubhaṃyavaḥ* \< *śubhaṃyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *nāñjibhir* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāñjibhir* \< *añjibhiḥ* \< *añji*
+- \[noun\], instrumental, plural, masculine
+- “color; ointment; adornment.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *aśvitan* \< *śvit*
+- \[verb\], plural, Root aorist (Ind.)
+- “shine.”
+------------------------------------------------------------------------
+- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- \[noun\], nominative, plural, masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yayiyo* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *bhrājadṛṣṭayaḥ* \< *bhrājat* \< *bhrāj*
+- \[verb noun\]
+- “shine; glitter; look.”
+------------------------------------------------------------------------
+- *bhrājadṛṣṭayaḥ* \< *ṛṣṭayaḥ* \< *ṛṣṭi*
+- \[noun\], nominative, plural, masculine
+- “spear.”
+------------------------------------------------------------------------
+- *parāvato* \< *parāvataḥ* \< *parāvat*
+- \[noun\], ablative, singular, feminine
+- “distance; distance; distance.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yojanāni* \< *yojana*
+- \[noun\], accusative, plural, neuter
+- “yojana; use; yojana \[word\]; team.”
+------------------------------------------------------------------------
+- *mamire* \< *mā*
+- \[verb\], plural, Perfect indicative
+- “weigh; measure; total; last; weigh; measure; give away; transform.”
+------------------------------------------------------------------------

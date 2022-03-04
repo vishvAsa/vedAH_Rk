@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 10.87.21"
+
++++
+-   *paścāt*
+- \[adverb\]
+- “subsequently; westward; paścāt \[word\]; after; back.”
+------------------------------------------------------------------------
+- *purastād* \< *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------
+- *adharād* \< *adharāt*
+- \[adverb\]
+- “below; south.”
+------------------------------------------------------------------------
+- *udaktāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *kaviḥ* \< *kavi*
+- \[noun\], nominative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *kāvyena* \< *kāvya*
+- \[noun\], instrumental, singular, neuter
+- “Uśanas; poem; Kāvya; wisdom.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *sakhe* \< *sakhi*
+- \[noun\], vocative, singular
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *sakhāyam* \< *sakhi*
+- \[noun\], accusative, singular
+- “friend; companion; sakhi \[word\].”
+------------------------------------------------------------------------
+- *ajaro* \< *ajaraḥ* \< *ajara*
+- \[noun\], nominative, singular, masculine
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *jarimṇe* \< *jariman*
+- \[noun\], dative, singular, masculine
+- “old age.”
+------------------------------------------------------------------------
+- *'gne* \< *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *martāṃ* \< *marta*
+- \[noun\], accusative, plural, masculine
+- “man.”
+------------------------------------------------------------------------
+- *amartyas* \< *amartyaḥ* \< *amartya*
+- \[noun\], nominative, singular, masculine
+- “immortal.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

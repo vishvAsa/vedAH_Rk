@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 10.45.12"
+
++++
+-   *astāvy* \< *astāvi* \< *stu*
+- \[verb\], singular, Aorist passive
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *agnir* \< *agniḥ* \< *agni*
+- \[noun\], nominative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *narāṃ* \< *narām* \< *nṛ*
+- \[noun\], genitive, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *suśevo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśevo* \< *śevaḥ* \< *śeva*
+- \[noun\], nominative, singular, masculine
+- “friendly; favorable; dear.”
+------------------------------------------------------------------------
+- *vaiśvānara* \< *vaiśvānaraḥ* \< *vaiśvānara*
+- \[noun\], nominative, singular, masculine
+- “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
+------------------------------------------------------------------------
+- *ṛṣibhiḥ* \< *ṛṣi*
+- \[noun\], instrumental, plural, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *somagopāḥ* \< *soma*
+- \[noun\], masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *somagopāḥ* \< *gopāḥ* \< *gopā*
+- \[noun\], nominative, singular, masculine
+- “herder; defender.”
+------------------------------------------------------------------------
+- *adveṣe* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *adveṣe* \< *dveṣe* \< *dveṣa*
+- \[noun\], accusative, dual, feminine
+- “hate; dislike.”
+------------------------------------------------------------------------
+- *dyāvāpṛthivī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+------------------------------------------------------------------------
+- *huvema* \< *hvā*
+- \[verb\], plural, Present optative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], vocative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *dhatta* \< *dhā*
+- \[verb\], plural, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *rayim* \< *rayi*
+- \[noun\], accusative, singular, masculine
+- “wealth; property.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *suvīram* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvīram* \< *vīram* \< *vīra*
+- \[noun\], accusative, singular, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------

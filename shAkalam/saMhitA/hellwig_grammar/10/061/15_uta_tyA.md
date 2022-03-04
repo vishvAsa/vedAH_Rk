@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 10.61.15"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *tyā* \< *tya*
+- \[noun\], accusative, dual, masculine
+- “that.”
+------------------------------------------------------------------------
+- *me* \< *mad*
+- \[noun\], dative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *raudrāv* \< *raudrau* \< *raudra*
+- \[noun\], accusative, dual, masculine
+- “terrific; shivaite; intense; violent; fierce; barbarous;
+    barbarian.”
+------------------------------------------------------------------------
+- *arcimantā* \< *arcimat*
+- \[noun\], accusative, dual, masculine
+------------------------------------------------------------------------
+- *nāsatyāv* \< *nāsatyau* \< *nāsatya*
+- \[noun\], accusative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *gūrtaye* \< *gūrti*
+- \[noun\], dative, singular, feminine
+------------------------------------------------------------------------
+- *yajadhyai* \< *yaj*
+- \[verb noun\]
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *manuṣvad* \< *manuṣvat*
+- \[adverb\]
+------------------------------------------------------------------------
+- *vṛktabarhiṣe* \< *vṛktabarhis*
+- \[noun\], dative, singular, masculine
+------------------------------------------------------------------------
+- *rarāṇā* \< *rā*
+- \[verb noun\], accusative, dual
+- “give; impart.”
+------------------------------------------------------------------------
+- *mandū* \< *mandu*
+- \[noun\], accusative, dual, masculine
+------------------------------------------------------------------------
+- *hitaprayasā* \< *hitaprayas*
+- \[noun\], instrumental, singular, masculine
+------------------------------------------------------------------------
+- *vikṣu* \< *viś*
+- \[noun\], locative, plural
+- “people; tribe; Vaisya; national; viś; real property; Vaisya.”
+------------------------------------------------------------------------
+- *yajyū* \< *yajyu*
+- \[noun\], accusative, dual, masculine
+- “worshiping.”
+------------------------------------------------------------------------

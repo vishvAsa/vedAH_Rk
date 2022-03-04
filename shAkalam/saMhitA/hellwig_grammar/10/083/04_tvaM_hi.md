@@ -1,0 +1,62 @@
++++
+title = "Rig Veda 10.83.4"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *manyo* \< *manyu*
+- \[noun\], vocative, singular, masculine
+- “anger; fury; rage; wrath.”
+------------------------------------------------------------------------
+- *abhibhūtyojāḥ* \< *abhibhūti*
+- \[noun\]
+- “superior; overpowering.”
+------------------------------------------------------------------------
+- *abhibhūtyojāḥ* \< *ojāḥ* \< *ojas*
+- \[noun\], nominative, singular, masculine
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *svayaṃbhūr* \< *svayaṃbhūḥ* \< *svayaṃbhū*
+- \[noun\], nominative, singular, masculine
+- “spontaneous.”
+------------------------------------------------------------------------
+- *bhāmo* \< *bhāmaḥ* \< *bhāma*
+- \[noun\], nominative, singular, masculine
+- “wrath; anger.”
+------------------------------------------------------------------------
+- *abhimātiṣāhaḥ* \< *abhimātiṣāha*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *viśvacarṣaṇiḥ* \< *viśvacarṣaṇi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *sahuriḥ* \< *sahuri*
+- \[noun\], nominative, singular, masculine
+- “victorious; mighty; strong.”
+------------------------------------------------------------------------
+- *sahāvān* \< *sahāva*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *asmāsv* \< *asmāsu* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ojaḥ* \< *ojas*
+- \[noun\], accusative, singular, neuter
+- “strength; power; ojas; ojas \[word\]; potency; might.”
+------------------------------------------------------------------------
+- *pṛtanāsu* \< *pṛtanā*
+- \[noun\], locative, plural, feminine
+- “army; battle; pṛtanā \[word\]; pṛtanā.”
+------------------------------------------------------------------------
+- *dhehi* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
