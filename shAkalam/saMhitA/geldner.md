@@ -27,7 +27,7 @@ Erster Liederkreis
 
 
 
-1,2. An Vayu, Indra und Vayu, Mitra und Varuna
+### 002   An Vayu, Indra und Vayu, Mitra und Varuna
 
 
 1.	Vayu! Komm her, du Gerngesehener; diese Somasäfte sind fertig. Trink davon, erhöre den Ruf!
@@ -42,7 +42,7 @@ Erster Liederkreis
 
 
 
-1,3. An die Asvin, Indra, die Allgötter und Sarasvati.
+### 003   An die Asvin, Indra, die Allgötter und Sarasvati.
 
 
 1.	Asvin! Traget nach den Opfergebeten begleiteten Labsalen Verlangen, ihr flinkhändigen Meister der Schönheit, ihr Vielnützenden!
@@ -60,7 +60,7 @@ Erster Liederkreis
 
 
 
-1,4. An Indra
+### 004   An Indra
 
 
 1.	Wenn er seine gute Gestalt annimmt, rufen wir ihn zum Beistand Tag für Tag wie die gute Melkkuh für den Melker.
@@ -76,7 +76,7 @@ Erster Liederkreis
 
 
 
-1,5. An Indra
+### 005   An Indra
 
 
 1.	Kommet doch heran, setzet euch hin, stimmet auf Indra den Gesang an, ihr Freunde mit zugkräftigem Loblied,
@@ -92,7 +92,7 @@ Erster Liederkreis
 
 
 
-1,6. An Indra
+### 006   An Indra
 
 
 1.	Sie schirren den rötlichen Falben an, der um die Feststehenden wandelt. Es leuchten die Lichter am Himmel.
@@ -108,7 +108,7 @@ Erster Liederkreis
 
 
 
-1,7. An Indra
+### 007   An Indra
 
 
 1.	Indra haben laut die Sänger, Indra mit Preisliedern die Preisenden Indra die Stimmen angerufen.
@@ -124,7 +124,7 @@ Erster Liederkreis
 
 
 
-1,8. An Indra
+### 008   An Indra
 
 
 1.	Indra! Bring uns den einträglichen, allbesiegenden, allezeit überlegenen, höchsten Schatz zu unserem Schutze,
@@ -140,7 +140,7 @@ Erster Liederkreis
 
 
 
-1,9. An Indra
+### 009   An Indra
 
 
 1.	Indra! Komm herbei, berausche dich am Trank an allen Somafesttagen, du der Große, an Stärke überlegen!
@@ -156,7 +156,7 @@ Erster Liederkreis
 
 
 
-1,10. An Indra
+### 010  An Indra
 
 
 1.	Dich besingen die Sänger, die Preisenden stimmen den Preisgesang an. Die Beschwörer haben dich, du Ratreicher, emporgehoben wie einen Dachbalken.
@@ -174,7 +174,7 @@ Erster Liederkreis
 
 
 
-1,11. An Indra
+### 011  An Indra
 
 
 1.	Indra, der so viel wie das Meer faßt, haben alle Lobreden erbaut, den ersten der Wagenlenker, den wahren Herren der Siegerpreise.
@@ -195,7 +195,7 @@ Erster Liederkreis
 2. Gruppe        Lieder des Medhatithi
 
 
-1,12. An Agni
+### 012  An Agni
 
 
 1.	Agni erküren wir zum Boten, zum Hotri dieses Opfer, den Allwissenden, den Klugsinnigen.
@@ -213,7 +213,7 @@ Erster Liederkreis
 
 
 
-1,13. Aprilied
+### 013  Aprilied
 
 
 1.	Wohlentzündet fahr uns die Götter her zum Opferspender, o Agni, und vollziehe die Opferweihe, du lauterer Hotri!
@@ -231,7 +231,7 @@ Erster Liederkreis
 
 
 
-1,14. An alle Götter
+### 014  An alle Götter
 
 
 1.	Mit all diesen Göttern komm, Agni, zu unserem Eifer, zu den Lobreden herbei; um Soma zu trinken, vollziehe die Opferweihe!
@@ -249,7 +249,7 @@ Erster Liederkreis
 
 
 
-1,15. Götterturnus
+### 015  Götterturnus
 
 
 1.	Indra! Trink den Soma nach der Zeit; in dich sollen die Säfte eingehen, ergötzend, daran gewöhnt.
@@ -267,7 +267,7 @@ Erster Liederkreis
 In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. Opfere den Göttern für den Gottergebenen
 
 
-1,16. An Indra
+### 016  An Indra
 
 
 1.	Dich den Bullen sollen die Falben zum Somatrunk herfahren, dich, Indra, die sonnenaugigen.
@@ -282,7 +282,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 
 
 
-1,17. An Indra und Varuna
+### 017  An Indra und Varuna
 
 
 1.	Ich erbitte mir die Gunst der beiden Allherrscher Indra und Varuna; sie mögen unsereinem barmherzig sein.
@@ -297,7 +297,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 
 
 
-1,18. An Brahmanaspati und Sadasaspati
+### 018  An Brahmanaspati und Sadasaspati
 
 
 1.	Mach, Brahmanaspati, den Somapressenden, Lautsingenden zu einem zweiten Kaksivat, der der Sohn der Usij.
@@ -312,7 +312,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 
 
 
-1,19. An Agni und die Marut
+### 019  An Agni und die Marut
 
 
 1.	Zu diesem angenehmen Opfer wirst du geladen, um es in Schutz zu nehmen. - Mit den Marut komm, o Agni!
@@ -327,7 +327,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 
 
 
-1,20. An die Ribhu´s
+### 020  An die Ribhu´s
 
 
 1.	Dem göttlichen Geschlecht ist von den Redekundigen mit dem Munde das Loblied bereitet worden, das recht viel Lohn einbringt.
@@ -341,7 +341,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 
 
 
-1,21. An Indra und Agni
+### 021  An Indra und Agni
 
 
 1.	Indra und Agni rufe ich hierher; wir wünschen ihren Lobpreis; die beiden sind die größten Somatrinker.
@@ -353,7 +353,7 @@ In der Würde des Hausherren bist du Wahrhafter nach der Zeit der Opferleiter. O
 So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni gewähret Schirm!
 
 
-1,22. An verschiedene Götter
+### 022  An verschiedene Götter
 
 
 1.	Wecke die beiden Frühanspanner auf: die Asvin sollen hierher kommen zum Trunk dieses Soma.
@@ -380,7 +380,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,23. An verschiedene Götter
+### 023  An verschiedene Götter
 
 
 1.	Herb ist der Soma, komm herbei, dieser Preßtrank ist mit Milch gemischt. Vayu! Trink den vorgesetzten!
@@ -416,7 +416,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 3.        Gruppe Lieder des Sunahsepa, des Sohnes des Ajigarta
 
 
-1,24. An Agni, Savitri und Varuna
+### 024  An Agni, Savitri und Varuna
 
 
 1.	Wer ist der Gott, welcher unter den Unsterblichen, an dessen teuren Namen wir jetzt gedenken ? Wer gibt uns der großen Aditi zurück ? Möchte ich Vater und Mutter sehen !
@@ -437,7 +437,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,25. An Varuna
+### 025  An Varuna
 
 
 1.	Wenn wir gleich Tag für Tag wie die Untertanen dein Gebot übertreten, Gott Varuna,
@@ -464,7 +464,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,26. An Agni
+### 026  An Agni
 
 
 1.	So zieh denn deine Opfergewänder an, du festlicher Herr der Kräfte, bringe du dieses Opfer für uns dar!
@@ -480,7 +480,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,27. An Agni
+### 027  An Agni
 
 
 1.	Wie ein wertvolles Roß will ich unter Verbeugungen dich, den Agni, loben, der über allen Opferhandlungen waltet.
@@ -514,7 +514,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,29. An Indra
+### 029  An Indra
 
 
 1.	Wenn wir auch wie Hoffnungslose sind, du bewährter Somatrinker, so mach uns doch Hoffnung auf tausend schmucke Kühe und Rosse, o freigebiger Indra!
@@ -527,7 +527,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,30. An Indra; der Schluß an die Asvin und Usas
+### 030  An Indra; der Schluß an die Asvin und Usas
 
 
 1.	Indem wir euren ratreichen Indra wie einen Falben anspornen, begieße ich den Freigebigsten mit Somagüssen.
@@ -561,7 +561,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 4.        Gruppe Lieder des Hiranyastupa
 
 
-1,31. An Agni
+### 031  An Agni
 
 
 1.	Du Agni warst der erste Angiras und Rishi, du der Gott der Götter guter Freund. In deinem Dienste wurden die Seher, die mit Weisheit wirken, geboren, die Marut mit funkelnden Speeren.
@@ -585,7 +585,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,32. An Indra
+### 032  An Indra
 
 
 1.	Des Indra Heldentaten will ich nun verkünden, die ersten, die der Keulenträger getan hat: Er erschlug den Drachen, erbrach die Gewässer; er spaltete die Weichen der Berge.
@@ -606,7 +606,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,33. An Indra
+### 033  An Indra
 
 
 1.	Kommt, wir wollen Indra angehen, die wir auf die Kühe aus sind. Er möge fest seine Fürsorge für uns mehren. Vielleicht daß er, der kein Hindernis kennt, dann unserem höchsten Wunsch nach diesem Reichtum, nach Kühen geneigt sein wird.
@@ -627,7 +627,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,34. An die Asvin
+### 034  An die Asvin
 
 
 1.	Dreimal sei heute unser Eingedenk! Ausgedehnt sei eure Fahrt und Gabe, Ihr Asvin! Denn euch hält man fest wie das Kleid zur Winterszeit. Nach euch sollen die Andächtigen verlangen.
@@ -645,7 +645,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,35. An Savitri
+### 035  An Savitri
 
 
 1.	Ich rufe zuerst den Agni zum Heil, ich rufe Mitra und Varuna hierher zum Beistand. Ich rufe die Nacht, die alles Lebende zur Ruhe bringt, ich rufe den Gott Savitri zur Hilfe.
@@ -695,7 +695,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,37. An die Marut
+### 037  An die Marut
 
 
 1.	Auf die tändelnde marutische Heerschar, die Unereichte zu Wagen Prunkende, stimmt euren Gesang an, ihr Kanvas;
@@ -716,7 +716,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,38. An die Marut
+### 038  An die Marut
 
 
 1.	Was habt ihr denn jetzt, ihr Freunde Suchende, in die Hände genommen wie der Vater seinen Sohn, da für euch das Barhis herumgelegt ist
@@ -737,7 +737,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,39. An die Marut
+### 039  An die Marut
 
 
 1.	Wenn ihr so aus der Ferne eure Tonweise vorauswerfet wie die Flamme ihren Schein, nach wessen Sinn, in wes Gestalt, zu wem fahret ihr Marut, zu wem ihr Schüttler?
@@ -753,7 +753,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,40. An Brahmanaspati
+### 040  An Brahmanaspati
 
 
 1.	Erhebe dich, Brahmanaspati! Gottverlangend wenden wir uns an dich. Die Gabenscheuen Marut sollen herkommen; Indra, sei du als Hauptmann dabei!
@@ -767,7 +767,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,41. An die Aditya´s
+### 041  An die Aditya´s
 
 
 1.	Wen Varuna, Mitra, Aryaman, die Klugen, beschützen, der Mann kommt niemals zu Schaden.
@@ -782,7 +782,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,42. An Pusan
+### 042  An Pusan
 
 
 1.	Pusan! Begeh die Wege, entferne Ungemach, du Kind der Einkehr! Geh uns als Geleitsmann voran, o Gott!
@@ -798,7 +798,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,43. An Rudra und Soma
+### 043  An Rudra und Soma
 
 
 1.	Was sollen wir dem Rudra, dem Klugen, Belohnendsten, Stärksten sagen, das seinem Herzen am meisten zusagt!
@@ -819,7 +819,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 6. Gruppe        Lieder des Praskanva
 
-1,44. An Agni
+### 044  An Agni
 
 
 1.	Unsterblicher Agni, bring der Usas morgendliche, ansehnliche Gabe; bring du heute dem Opferspender die frühwachen Götter her, o Jatavedas!
@@ -839,7 +839,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,45. An Agni
+### 045  An Agni
 
 
 1.	Verehre du Agni hier die Vasu´s, die Rudra´s und Aditya´s, das von Manu abstammende Volk, das gut opfert und Opferschmalz aufgießt!
@@ -855,7 +855,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,46. An die Asvin
+### 046  An die Asvin
 
 
 1.	Dort leuchtet die Morgenröte wie keine je zuvor auf, die liebe Tochter des Himmels. Laut preise ich euch, Asvin,
@@ -876,7 +876,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,47. An die Asvin
+### 047  An die Asvin
 
 
 1.	Dieser süßeste Soma ist für euch beide ausgepreßt, ihr Wahrheitsmehrer. Trinket ihn, Asvin, der einen Tag über gestanden hat!Bringet dem Spender Kleinode!
@@ -892,7 +892,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,48. An Usas
+### 048  An Usas
 
 
 1.	Mit Glück leuchte uns auf, Usas, Tochter des Himmels, mit hohem Glanze, mit Reichtum freigebig, du strahlende Göttin!
@@ -914,7 +914,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,49. An Usas
+### 049  An Usas
 
 
 1.	Usas, komm mit deinen glückbringenden Strahlen sogar von des Himmels Lichtraum! Dich sollen die Rotfarbigen zu dem Hause des Somaopfers fahren.
@@ -924,7 +924,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,50. An Surya
+### 050  An Surya
 
 
 1.	Dort fahren den Gott Jatavedas seine Strahlen herauf, auf daß die ganze Welt den Sonnengott schaue.
@@ -950,7 +950,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 7. Gruppe        Lieder des Savya
 
 
-1,51. An Indra
+### 051  An Indra
 
 
 1.	Den bekannten Widder, den vielgerufenen, preiswürdigen Indra ergötzet mit Lobreden, der ein Sturm des Guten ist; für den die menschlichen Geschlechter wie die Tage vergehen. Den freigebigsten Redekundigen besinget euch zu Nutz!
@@ -971,7 +971,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,52. An Indra
+### 052  An Indra
 
 
 1.	Den bekannten Widder verherrliche recht, den Finder des Himmelslichtes, dessen hundert Kräfte sich auf einmal regen! Wie das Rennpferd zum Siegespreis möchte ich den Wagenstreiter, der auf den Ruf herbeieilt, den Indra, mit Lobliedern zum Beistand herlenken.
@@ -992,7 +992,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,53. An Indra
+### 053  An Indra
 
 
 1.	Wir tragen fein dem Großen eine Rede vor, Lobesworte dem Indra an die Stätte des Vivasvat. Noch hat ja einer das Kleinod wie ein Dieb bei Schlafenden gefunden. Ein schlechtes Loblied findet bei den Schätzespendern kein Lob.
@@ -1009,7 +1009,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,54. An Indra
+### 054  An Indra
 
 
 1.	Du Gabenreicher sollst uns in dieser Not im Kampfe nicht verlassen. Nicht ist ja das Ende deiner Macht zu erreichen. Du machtest die Flüsse aufkreischen, du knacktest laut brüllend die Bäume. Wie hat sich da nicht aus Furcht das Gefolge zusammengeschlossen?
@@ -1026,7 +1026,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,55. An Indra
+### 055  An Indra
 
 
 1.	Noch weiter als der Himmel hat sich sein Umfang ausgedehnt, auch die Erde kommt dem Indra an Größe nicht gleich. Furchtbar, kraftvoll, den Völkern heißmachend, wetzt er die Keule wie ein Büffel die Hörner um sie scharf zu machen.
@@ -1040,7 +1040,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,56. An Indra
+### 056  An Indra
 
 
 1.	Dieser hat viele Schöpflöffel von diesem Soma aufgefüllt und hochgenommen wie ein aufgeregter Hengst die Stute. Er gibt sich den kräftigen Soma zu trinken zu großer Kraft, nachdem er den goldenen falbenbespannten kunstvollen Wagen hergelenkt hat.
@@ -1052,7 +1052,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,57. An Indra
+### 057  An Indra
 
 
 1.	Dem freigebigsten hohen Indra von hohem Reichtum und echtem Mute, dem starken trage ich ein Gedicht vor, dessen Freigebigkeit unaufhaltsam wie der Strom der Gewässer im Gefäll und allezeit geöffnet ist um seine Macht zu offenbaren.
@@ -1071,7 +1071,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 8. Gruppe        Lieder des Nodhas, des Gotamiden
 
 
-1,58. An Agni
+### 058  An Agni
 
 
 1.	Niemals wird der kraftgeborene Unsterbliche angestachelt, seitdem er der Hotri und Bote des Vivasvat wurde. Auf den richtigsten Wegen hat er den Raum durchschritten; er bittet die Götter durch die Opferspende zum Gottesdienst her.
@@ -1086,7 +1086,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,59. An Agni Vaisvanara
+### 059  An Agni Vaisvanara
 
 
 1.	Die anderen Agni´s sind nur Zweige von dir, Agni; bei dir schwelgen alle Unsterblichen. Vaisvanara! Du bist der Nabel der Lande; wie eine stützende Säule hältst du die Menschen fest.
@@ -1099,7 +1099,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,60. An Agni
+### 060  An Agni
 
 
 1.	Den geehrten Wagenfahrer, das Banner des Opfers, den Boten, der gut zuredet und alsbald sein Ziel erreicht, den Zweigeborenen, wie Reichtum Gepriesenen bracht Matarisvan dem Bhrigu als Gabe.
@@ -1110,7 +1110,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,61. An Indra
+### 061  An Indra
 
 
 1.	Ihm, dem Starken, Überlegenen, bringe ich das Loblied wie Labsal dar, dem Mächtigen, dem ........, nicht Kargen ein Lobeswort, dem Indra erbauliche Reden als bestes Geschenk.
@@ -1132,7 +1132,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,62. An Indra
+### 062  An Indra
 
 
 1.	Wir ersinnen für den Mächtigen eine Stärkung, für den Lobbegehrenden ein Loblied in der Weise der Angiras. Auf ihn, der für den Sänger in schönen Preisreden zu preisen ist, wollen wir einen Lobgesang singen, auf den berühmten Herrn.
@@ -1151,7 +1151,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,63. An Indra
+### 063  An Indra
 
 
 1.	Du, Indra, bist der Große, der du eben geboren durch deinen Ungestüm Himmel und Erde in Panik versetztest, als alle Ungeheuer, selbst die festen Berge, aus Furcht vor dir wie Stäubchen sich hin und herbewegten.
@@ -1166,7 +1166,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,64. An die Marut
+### 064  An die Marut
 
 
 1.	Der bullenhaften Schar, der freigebigen, meisterlichen, den Marut trag das Preislied vor, o Nodhas. Wie ein handfertiger Künstler mit Verstand sein Werk, mache ich die zum Opfer dienlichen Lobesreden salbungsvoll.
@@ -1194,7 +1194,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 9. Gruppe        Lieder des Parasa, des Sohnes des Sakti
 
 
-1,65. An Agni
+### 065  An Agni
 
 
 1-2.	Ihm, der heimlich davongeht wie der Dieb mit dem Vieh, der die Anbetung an seinen Wagen spannt, der Anbetung fährt - ihm gingen die Weisen einträchtig auf seinen Spuren nach. Dir nahten alle Opferwürdigen.
@@ -1205,7 +1205,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,66. An Agni
+### 066  An Agni
 
 
 1-2.	Wie ansehnlicher Reichtum, wie der Sonne Anblick, wie der Lebenshauch, wie der leibliche Sohn - wie ein flüchtiges Raubtier sucht er die Wälder auf, wie die Kuhmilch hell, glänzend.
@@ -1216,7 +1216,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,67. An Agni
+### 067  An Agni
 
 
 1-2.	In den Hölzern Sieger, unter Menschen der Freund, beansprucht er wie der König Gehorsam ohne nachzulassen - Wie der Friede ersprießlich, gut wie ein Rat, wurde der Wohlmeinende der Opferpriester, der Opferfahrer.
@@ -1227,7 +1227,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,68. An Agni
+### 068  An Agni
 
 
 1-2.	Die Schmalzlöffel mischend steigt er eilfertig gen Himmel. Was geht und steht, die Nächte deckt er auf - da er allein aller dieser Götter Größe er, der Gott, mit seiner Größe umspannt.
@@ -1238,7 +1238,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,69. An Agni
+### 069  An Agni
 
 
 1-2.	Hell flammend wie der Buhle der Morgenröte hat er die beiden gepaarten Welten angefüllt wie des Himmels Leuchte - Kaum geboren warst du an Umsicht überlegen; du wurdest der Vater der Götter, obwohl ihr Sohn.
@@ -1249,7 +1249,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,70. An Agni
+### 070  An Agni
 
 
 1-2.	Wir wollen die vielen Gebete des Nebenbuhlers überbieten; Agni, der schönflammende, soll alles fertig bringen - der die göttlichen Gebote kennt und die Geschlechter des Menschenvolkes;
@@ -1261,7 +1261,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,71. An Agni
+### 071  An Agni
 
 
 1.	Die ebenbürtigen Finger regen verliebt den Verliebten auf wie die Frauen im gleichen Hause den rechtmäßigen Gatten. Die Schwestern haben für die Schwarze und die Rote eine Vorliebe wie die Kühe für die prächtig aufleuchtende Morgenröte.
@@ -1293,7 +1293,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,73. An Agni
+### 073  An Agni
 
 
 1.	Der Kraft gibt wie der vom Vater ererbte Reichtum, ein guter Führer ist wie die Weisung des Kundigen, sich wohl fühlt wie der behagliche ruhende Gast, er schritt den Opferplatz des Verehrers ab wie der Opferpriester.
@@ -1316,7 +1316,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 10. Gruppe        Lieder des Gotama, des Sohnes des Rahugana
 
 
-1,74. An Agni
+### 074  An Agni
 
 
 1.	Zum Opferdienst antretend wollen wir dem Agni ein Dichterwort aufsagen, der auch in der Ferne auf uns hört;
@@ -1331,7 +1331,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,75. An Agni
+### 075  An Agni
 
 
 1.	Erfreue dich an der sehr ausgedehnten Rede, die ganz nach der Götter Geschmack ist, während du die Spenden in deinem Mund opferst.
@@ -1342,7 +1342,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,76. An Agni
+### 076  An Agni
 
 
 1.	Welcher Aufwartung wird nach deines Herzen Wunsch sein, welche Dichtung am zusagensten? Oder wer tut mit Opfern deiner Wirksamkeit Genüge? Oder in welchem Sinn sollen wie dir spenden?
@@ -1353,7 +1353,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,77. An Agni
+### 077  An Agni
 
 
 1.	Wie sollen wir dem Agni opfern, welche Lobrede wird dem Strahlenden als gottgefällig vorgetragen? Der der Unsterbliche unter den Sterblichen, als rechtmäßiger, bestopfernder Hotri die Götter gewinnt;
@@ -1364,7 +1364,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,78. An Agni
+### 078  An Agni
 
 
 1.	Wir Gotama´s besingen dich mit Lobeswort, ausgezeichneter Jatavedas. Hellauf schreien wir dir zu.
@@ -1375,7 +1375,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,79. An Agni
+### 079  An Agni
 
 
 1.	Goldhaarig, wenn der Raum sich weitet; eine berauschende Schlange, wie der Wind sausend; hellstrahlend, der Vertraute der Usas, ehrbar wie fleißige treue Frauen -
@@ -1393,7 +1393,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,80. An Indra
+### 080  An Indra
 
 
 1.	Denn also hat bei Soma in der Begeisterung der Hohepriester ein Erbauungslied gedichtet. Du mächtigster Keulenträger hast mit Kraft den Drachen von der Erde verwiesen. - Sie sollen in deine Selbstherrlichkeit einstimmen.
@@ -1415,7 +1415,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,81. An Indra
+### 081  An Indra
 
 
 1.	Indra, den Vritratöter, ward von den Männern zum Rausch, zur Kraft gestärkt. Nur ihn rufen wir in den großen Kämpfen und ihn in den kleinen. Er möge uns im Kampf um die Siegerpreise weiterhelfen.
@@ -1442,7 +1442,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,83. An Indra
+### 083  An Indra
 
 
 1.	Als Erster gelangt mit deinen Hilfen der Sterbliche zu Rossebesitz, zu Kühen, der dir gut zuredet, o Indra. Ihn füllst du mit noch mehr Gut so wie die verständigen Gewässer zu beiden Seiten die Sindhu anfüllen.
@@ -1454,7 +1454,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,84. An Indra
+### 084  An Indra
 
 
 1.	Soma ist für dich, Indra, ausgepresst, du Stärkster, Mutiger, komm herbei! Dich soll die Indrakraft durchdringen wie die Sonne mit ihren Strahlen den Raum.
@@ -1480,7 +1480,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,85. An die Marut
+### 085  An die Marut
 
 
 1.	Die sich wie Frauen schön machen, die Gespanne auf der Fahrt, die guteswirkenden Rudrasöhne - denn die Marut haben beide Welten hochgebracht - die Männer berauschen sich an den weisen Reden, darauf begierig.
@@ -1498,7 +1498,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,86. An die Marut
+### 086  An die Marut
 
 
 1.	Denn in wes Haus ihr Marut wachet, ihr ausgezeichneten Mannen des Himmels, der Mann ist am besten bewacht.
@@ -1514,7 +1514,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,87. An die Marut
+### 087  An die Marut
 
 
 1.	Von besonderer Kraft und Stärke, überreich, unbeugsam, ungeschwächt, Trestersoma trinkend, sehr beliebt und mannhaft haben sich gewisse Männer mit Zierraten herausgeputzt wie die Sternenbilder mit den Sternen.
@@ -1526,7 +1526,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,88. An die Marut
+### 088  An die Marut
 
 
 1.	Kommet her, Marut, auf blitzenden, von schönem Gesang begleiteten, speerestarrenden, rossebeschwingten Wagen! Flieget gleich den Vögeln zu uns mit dem höchsten Labsal, ihr Zauberkünstler!
@@ -1538,7 +1538,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,89. An alle Götter
+### 089  An alle Götter
 
 
 1.	Gute Gedanken sollen uns von allen Seiten kommen, unbeirrte, unerreichte, durchschlagende, auf daß die Götter uns immerdar zum Segen seien und unablässige Beschützer Tag für Tag.
@@ -1554,7 +1554,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,90. An alle Götter
+### 090  An alle Götter
 
 
 1.	Mit richtiger Führung sollen uns Varuna, Mitra, der Kundige, führen und Aryaman im Verein mit den Göttern.
@@ -1569,7 +1569,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,91. An Soma
+### 091  An Soma
 
 
 1.	Du, Soma, offenbare dich durch dichterische Gedanken, führe du uns den richtigsten Weg! Unter deiner Führung, du Saft, empfingen unsere weisen Väter von den Göttern das Kleinod.
@@ -1598,7 +1598,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,92. An die Usas und die Asvin
+### 092  An die Usas und die Asvin
 
 
 1.	Dort haben die Morgenröten ihr Banner aufgesteckt, auf der östlichen Seit des Raums legen sie sich Licht als Salbe auf, sich ablösend wie Tapfere ihre Waffen wechseln. Es kehren die roten Kühe wieder, die Mütter.
@@ -1622,7 +1622,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,93. An Agni und Soma
+### 093  An Agni und Soma
 
 
 1.	Agni und Soma, ihr Bullen, höret fein auf diesen Ruf von mir, nehmet die schönen Worte gut auf, seid dem Opferspender eine Freude!
@@ -1647,7 +1647,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 11. Gruppe        Lieder des Kutsa, des Angirasen
 
 
-1,94. An Agni
+### 094  An Agni
 
 
 
@@ -1670,7 +1670,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,95. An Agni
+### 095  An Agni
 
 
 1.	Zwei ungleiche Kühe wandeln, einem schönen Ziele folgend; eine um die andere säugen sie ihr Kalb. Während es bei der einen goldgelb ist, seinem eigenen Triebe folgend, erscheint es bei der anderen hell in schönem Glanze.
@@ -1687,7 +1687,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,96. An Agni den Schätzespender
+### 096  An Agni den Schätzespender
 
 
 1.	Nach alter Weise durch Kraft geboren erlangte er wahrhaftig sofort alle Sehergaben. Die Wasser und die Dhisana schließen Freundschaft. - Die Götter erhalten Agni, den Schätzespender.
@@ -1702,7 +1702,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,97. An Agni
+### 097  An Agni
 
 
 1.	Das Übel von uns hinwegflammend, flamme uns Reichtum zu, Agni - das Übel von uns hinwegflammend!
@@ -1716,7 +1716,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,98. An Agni Viasvanara
+### 098  An Agni Viasvanara
 
 
 1.	Wir möchten in der Gunst des Vaisvanara stehen, denn er ist ja der König, der Oberherr der Geschöpfe. Hier geboren überschaut er von da dieses All. Vaisvanara wetteifert mit der Sonne.
@@ -1725,14 +1725,14 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,99. An Agni
+### 099  An Agni
 
 
 1.	Dem Jatavedas wollen wir Soma pressen; er soll das Besitztum des Mißgünstigen niederbrennen. Er führe uns über alle Schwierigkeiten, Agni über die Fährlichkeiten wie mit dem Schiff über den Strom.
 
 
 
-1,100. An Indra
+### 100 An Indra
 
 
 1.	Der Bulle, der mit Bullenkräften gepaart der Allkönig über den großen Himmel und die Erde ist, dem die Soldaten treu sind, der in den Schlachten zu rufende.
@@ -1757,7 +1757,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,101. An Indra
+### 101 An Indra
 
 
 1.	Stimmet für den Rauschliebenden eine trankbegleitete Rede an, der im Bund mit Rijisvan den mit den Schwarzen Schwangeren die Leibesfrucht abtrieb. Schutzsuchend rufen wir den Bullen mit der Keule in der Rechten - den Marutbegleiteten rufen wir zur Freundschaft.
@@ -1774,7 +1774,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,102. An Indra
+### 102 An Indra
 
 
 1.	Diese Dichtung trage ich dir vor, auf den Hohen die hohe, da in dem Loblied dieses Sängers deine Tatkraft herausgestrichen wird. Dem Indra, der bei Kampffest und Wettrennen der Sieger ist, jubelten die Götter mächtig zu.
@@ -1791,7 +1791,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,103. An Indra
+### 103 An Indra
 
 
 1.	Jenes dein höchstes indrisches Wesen ist weit weg, dieses hielten die Seher vor Zeiten fest. Auf Erden ist dies eine, im Himmel das andere von ihm; Es wird wie ein Feldzeichen zu einem Ganzen zusammengefügt.
@@ -1805,7 +1805,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,104. An Indra
+### 104 An Indra
 
 
 1.	Ein Schoß ist für dich, Indra, zum Niedersitzen bereitet. Auf ihn setz dich nieder, zum Laufe getrieben wie ein Rennpferd, die Kraft ausspannend, die Rosse anhaltend, die vor Essenszeit bei Dunkelwerden und morgens am besten ziehen!
@@ -1820,7 +1820,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,105. An alle Götter (Trita im Brunnen)
+### 105 An alle Götter (Trita im Brunnen)
 
 
 1.	"Der Mond scheint im Wasser, der beschwingte läuft am Himmel. Nicht finden sie euren Standort, ihr goldreifigen, blitzenden Sterne. Seid in solcher Lage, meiner Eingedenk, Himmel und Erde!"
@@ -1845,7 +1845,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,106. An alle Götter
+### 106 An alle Götter
 
 
 1.	Indra, Mitra, Varuna, Agni, die marutische Heerschar, die Aditi rufen wir zum Beistand. Wie einen Wagen aus unfahrbarem Wege, so helfet uns aus aller Not heraus, ihr freigebigen Götter!
@@ -1858,7 +1858,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,107. An Alle Götter
+### 107 An Alle Götter
 
 
 1.	Das Opfer kommt der Huld der Götter entgegen. Adityas! Seid barmherzig! Eure Gunst soll zu uns einlenken, die auch aus Not am besten befreien wird.
@@ -1867,7 +1867,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,108. An Indra und Agni
+### 108 An Indra und Agni
 
 
 1.	Euer wunderbarster Wagen, Indra und Agni, der alle Welten besieht, auf dem fahret beisammen stehend her und trinkt von dem gepreßten Soma!
@@ -1886,7 +1886,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,109. An Indra und Agni
+### 109 An Indra und Agni
 
 
 1.	Ich habe zwar nach Verwandten oder Standesgenossen im Geiste Umschau gehalten, mein Heil suchend, o Indra und Agni. Es gibt für mich keine andere Zuversicht als euch beide; darum habe ich auf euch ein lohnbringendes Loblied gedichtet.
@@ -1900,7 +1900,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,110. An die Ribhu´s
+### 110 An die Ribhu´s
 
 
 1.	Mein Werk ward früher ausgeführt, es wird aufs neue ausgeführt: die süßeste Dichtung wird zu einem Lobgedicht vorgetragen. Hier ist das für die Allgötter bestimmte Meer des Soma; tut euch, ihr Ribhu´s, an dem mit Svaha gesegneten Trank gütlich!
@@ -1915,7 +1915,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,111. An die Ribhu´s
+### 111 An die Ribhu´s
 
 
 1.	Sie zimmerten den gutlaufenden Wagen der Asvin, kundig zu Werk gehend; sie zimmerten das Falbenpaar, das den Indra fährt, das ......Ihren Eltern zimmerten die Ribhu´s jugendliches Alter; sie zimmerten dem Kalbe eine begleitende Mutter.
@@ -1926,7 +1926,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,112. An die Asvin
+### 112 An die Asvin
 
 
 1.	Himmel und Erde rufe ich auf, um ihrer zuerst zu gedenken; ich rufe Agni, den Glanzreichen, den heißen Trank zu kochen, auf daß die Asvin in ihrer Fahrt sich beeilen. Mit den Hilfen, mit denen ihr im Kampfe unserem Einsatz zum Siege verhelfet - mit diesen Hilfen kommt doch ja her, ihr Asvin!
@@ -1957,7 +1957,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,113. An Usas
+### 113 An Usas
 
 
 1.	Dies schönste Licht der Lichter ist gekommen; ihr prächtiges Vorgesicht ward geboren, sich ausbreitend. Wie sie selbst angewiesen des Savitri Weisung folgt, so hat die Nacht der Morgenröte den Platz geräumt.
@@ -1983,7 +1983,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,114. An Rudra
+### 114 An Rudra
 
 
 1.	Diese frommen Gedanken tragen wir dem starken Rudra vor, dem Männerbeherrscher mit aufgewundenem Haar, auf daß es Zweifüßlern und Vierfüßlern wohl ergehe und alle Aufzucht in diesem Dorfe gesund sei.
@@ -2000,7 +2000,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,115. An Surya den Sonnengott
+### 115 An Surya den Sonnengott
 
 
 1.	Prangend ist das Antlitz der Götter aufgegangen, das Auge von Mitra, Varuna, Agni. Er hat Himmel und Erde und die Luft erfüllt; Surya ist die Seele von allem was geht und steht.
@@ -2019,7 +2019,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 12. Gruppe        Lieder des Kaksivat, des Sohnes des Dirghatamas und der Usij
 
 
-1,116. An die Asvin
+### 116 An die Asvin
 
 
 
@@ -2051,7 +2051,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,117. An die Asvin
+### 117 An die Asvin
 
 
 
@@ -2083,7 +2083,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,118. An die Asvin
+### 118 An die Asvin
 
 
 
@@ -2101,7 +2101,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,119. An die Asvin
+### 119 An die Asvin
 
 
 
@@ -2118,7 +2118,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,120. An die Asvin
+### 120 An die Asvin
 
 
 
@@ -2137,7 +2137,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,121. An Indra
+### 121 An Indra
 
 
 
@@ -2159,7 +2159,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,122. An alle Götter
+### 122 An alle Götter
 
 
 
@@ -2181,7 +2181,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,123. An Usas
+### 123 An Usas
 
 
 
@@ -2201,7 +2201,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,124. An Usas
+### 124 An Usas
 
 
 
@@ -2221,7 +2221,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,125. Lob des freigebigen Opferers
+### 125 Lob des freigebigen Opferers
 
 
 
@@ -2235,7 +2235,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,126. Dank für eine Schenkung
+### 126 Dank für eine Schenkung
 
 
 
@@ -2256,7 +2256,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 13. Gruppe        Lieder des Parucchepa, Sohn des Divodasa
 
 
-1,127. An Agni
+### 127 An Agni
 
 
 1.	Den Agni erachte ich als den Hotri, den freigebigen Gott, den Sohn der Kraft, den Jatavedas, den Gott, der mit seiner aufrechten, gottwärts gerichteten Gestalt den Gottesdienst gut versieht. Mit seiner Glut verlangt er nach dem Aufflammen des Schmalzes, der geopferten Schmelzbutter.
@@ -2273,7 +2273,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,128. An Agni
+### 128 An Agni
 
 
 1.	Dieser ward geboren im Feuerbehälter des Manu, der bestopfernde Hotri nach dem Gebot der Usij, Agni nach eigenem Gebot, allerhörend für den, der sich als Freund bewährt, wie ein Schatz für den, der Ruhm sucht. Der untrügliche Hotri setzt sich nieder an der Stätte der Id, umhegt an der Stätte der Id.
@@ -2287,7 +2287,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,129. An Indra
+### 129 An Indra
 
 
 1.	Wenn du den Wagen, der im Hintertreffen ist, o raschhandelnder Indra, vorauslenkst, um den Preis zu gewinnen, du Tadelloser vorauslenkst, so wirst du ihn sofort zur Überlegenheit bringen, zum Sieger machen, wenn du willst - das sei unser, der Meister, Wagen. Du Draufgänger ohne Tadel - so wie diese Rede der Meister.
@@ -2304,7 +2304,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,130. An Indra
+### 130 An Indra
 
 
 1.	Indra! Komm aus der Ferne zu uns in eigner Person her, wie ein rechtmäßiger Gebieter zum Rate der Weisen, wie ein König und rechtmäßiger Gebieter nach Hause. Wir rufen dich bei ausgepreßtem Soma nebst Opferschmäusen wie Söhne den Vater, um den Preis zu erringen, den Freigebigsten um den Preis zu erringen.
@@ -2320,7 +2320,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,131. An Indra
+### 131 An Indra
 
 
 1.	Dem Indra hat sich ja der Asura Himmel, dem Indra die große Erde in ganzer Ausdehnung gebeugt, im Kampf um die Herrlichkeit in ganzer Ausdehnung. Den Indra stellten alle Götter einmütig an ihre Spitze. Dem Indra sollen alle menschlichen Somaopfer, die menschlichen Spenden gehören.
@@ -2333,7 +2333,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,132. An Indra
+### 132 An Indra
 
 
 1.	Mit dir, du Gabenreicher, wollen wir im Kampf um den ersten Preis, mit deinem Beistand, o Indra, die Gegner besiegen, wollen wir die Eifersüchtigen übertrumpfen. An diesem nächsten Tage entscheide doch ja zu Gunsten des Somaopfernden. Bei diesem Opfer wollen wir den höchsten Wurf im Gewinnspiel aussuchen, nach dem Siegerpreis strebend den höchsten Wurf im Gewinnspiel.
@@ -2345,7 +2345,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,133. An Indra
+### 133 An Indra
 
 
 1.	Mit der Wahrheit reinige ich beide Welthälften, verbrenne ich all die großen Lügengeister, die indralosen, da wo die Feinde eingefangen, erschlagen, zerschmettert das Leichenfeld bedeckten.
@@ -2358,7 +2358,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,134. An Vayu
+### 134 An Vayu
 
 
 1.	Dich, Vayu, sollen die schnellaufenden Rennpferde hierher zum Labetrank fahren, um zuerst zu trinken, um zuerst den Soma zu trinken. Die aufrecht stehende Großmut soll deinem Sinne willfahren, den sie kennt. Komm auf dem Niyutbespannten Wagen zum Schenken, o Vayu, zum Schenken der Gabe!
@@ -2370,7 +2370,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,135. An Vayu, bez. Indra und Vayu
+### 135 An Vayu, bez. Indra und Vayu
 
 
 1.	Das Barhis ist ausgelegt, komm zu uns zum Genuß mit dem Tausendgespann, du Niyut-Fahrer, mit den hundertfachen Gespannen, du Niyut-Fahrer, den die Götter haben dir, dem Gotte, das Recht auf den Ersttrunk zugestanden! Für dich sind die süßen Preßtränke aufgestellt, zum Rausche, nach deinen Sinnen aufgestellt.
@@ -2385,7 +2385,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,136. An Mitra und Varuna
+### 136 An Mitra und Varuna
 
 
 1.	Bringet fein eure größte hohe Huldigung den beiden aufmerksamen Göttern, Opfer und Gedicht den barmherzigen dar, das süßeste den barmherzigen! Sie sind die beiden Allkönige, die sich mit Schmalz stärken, in jedem Gottesdienst angesungen. Und ihre Herrschaft ist von keiner Seite anzutasten, ihre Göttlichkeit niemals anzutasten.
@@ -2398,7 +2398,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,137. An Mitra und Varuna
+### 137 An Mitra und Varuna
 
 
 1.	Wir haben ihn mit Steinen ausgepreßt -kommt herbei! Diese berauschenden sind mit Milch gemischt, diese berauschenden Somatränke. Kommt beide her zu uns, ihr bis zum Himmel reichenden Könige! Diese milchgemischten sind für euch beide, Mitra und Varuna, die klaren Somatränke, die mit Milch gemischten.
@@ -2407,7 +2407,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,138. An Pusan
+### 138 An Pusan
 
 
 1.	Fort und fort wird die Macht des Pusan von starker Art gepriesen; seine, des Starken, Macht, erlahmt nicht, sein Lob erlahmt nicht. Ich besinge um seine Huld bittend ihn, der in der Nähe hilft, den erfreulichen; den freigebigen, der eines jeden Sinn gefesselt hat, als freigebiger Gott gefesselt hat.
@@ -2417,7 +2417,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,139. An Alle Götter
+### 139 An Alle Götter
 
 
 1.	Alles lausche! Mit Bedacht stelle ich Agni an die Spitze. Wir erküren jetzt die himmlische Heerschar, Indra und Varuna erküren wir uns. Wenn die bei Vivasvat geschlossene Verwandtschaft aufs neue an unsere Verwandtschaft angeknüpft wird, dann sollen fein unsere frommen Gedanken zu ihnen gehen, wie sich´s zu den Göttern ziemt, die frommen Gedanken.
@@ -2441,7 +2441,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 14. Gruppe        Lieder des Dirghatamas, Sohn des Ucathya und der Mamata
 
 
-1,140. An Agni
+### 140 An Agni
 
 
 1.	Agni, dem Altarsitzer, der seine Geburtsstätte lieb hat, dem schön leuchtenden bring seinen Schoß dar wie eine Speise! Hülle den Reinen in Gebet ein wie ein Gewand, den Dunkelzerstörer, des Wagen Licht, des Farbe hell ist!
@@ -2460,7 +2460,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,141. An Agni
+### 141 An Agni
 
 
 1.	Sieh da! Dieser Glanz des Gottes ist zu voller Schönheit sichtbar geworden, wenn er aus der Kraft geboren ward. Wenn es auch Umwege macht, gelangt das Gedicht doch zum Ziel. Sie leiteten die fließenden Reden der Wahrheit.
@@ -2479,7 +2479,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,142. Aprilied
+### 142 Aprilied
 
 
 1.	Entzündet fahre, o Agni, heute die Götter zu dem Opfernden, der den Schmalzlöffel erhebt. Spanne den altgewohnten Faden für den Opferspender, der Soma ausgepreßt hat!
@@ -2498,7 +2498,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,143. An Agni
+### 143 An Agni
 
 
 1.	Ein noch kraftvolleres neueres Gedicht trage ich dem Agni vor, die ausgedachte Rede dem Sohn der Kraft, dem Kind der Gewässer, der zusammen mit den Vasu´s als lieber Hotri sich auf Erden niederließ, die Zeiten einhaltend.
@@ -2512,7 +2512,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,144. An Agni
+### 144 An Agni
 
 
 1.	Der Hotri geht an sein Amt heran in Zaubergestalt, das lichtfarbene Gedicht empor hebend. Er geht den von rechts herankommenden Schmalzlöffeln entgegen, die zuerst seine Geburtsstätte mit dem Munde berühren.
@@ -2525,7 +2525,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,145. An Agni
+### 145 An Agni
 
 
 1.	Ihn fraget; er ist gekommen, er weiß es. Als Kundiger wird er angegangen, nur er wird angegangen. An ihn sind die Aufforderungen, an ihn die Gesuche gerichtet. Er ist der Herr des Gewinnes, der ungestümen Kraft.
@@ -2536,7 +2536,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,146. An Agni
+### 146 An Agni
 
 
 1.	Den Agni mit drei Köpfen und sieben Zügeln will ich preisen, den vollkommenen, der im Schoße der beiden Eltern, im Schoße dessen sitzt, was geht und steht, der alle Lichter des Himmels erfüllt hat.
@@ -2547,7 +2547,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,147. An Agni
+### 147 An Agni
 
 
 1.	Wie haben dir, Agni, die Söhne des Ayu inbrünstig sich beeifernd mit Ehrengaben aufgewartet, so daß die Götter sich an der rechten Sangesweise erfreuten, indem sie beiderlei Samen in die Nachkommenschaft legten?
@@ -2558,7 +2558,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,148. An Agni
+### 148 An Agni
 
 
 1.	Da ihn Matarisvan angestrengt ausgerieben hatte, den allfarbigen Hotri für alle Götter bestimmt, den sie unter die menschlichen Stämme eingesetzt haben, prächtig wie die Sonne zur Schönheit erstrahlend:
@@ -2569,7 +2569,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,149. An Agni
+### 149 An Agni
 
 
 1.	Zu großem Reichtum kommt dieser Hausgebieter, der gewaltige an der Stätte gewaltigen Gutes. Den Heraneilenden bedienen die Preßsteine.
@@ -2580,7 +2580,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,150. An Agni
+### 150 An Agni
 
 
 1.	Da ich viel Spende, spreche ich zu dir, Agni, als hoher Herr, der gewiß unter deinem Schutze steht, wie unter dem eines großen Szepters.
@@ -2589,7 +2589,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,151. An Mitra und Varuna
+### 151 An Mitra und Varuna
 
 
 1.	Den wie einen Freund die Rinderbegehrenden mit Eifer im Kampf um die Rinder, in guter Absicht unter weiser Rede im Wasser erzeugten - es erbebten beide Welten über seine Erscheinung, seine Stimme; sie kamen dem lieben, opferwürdigen Hort der Geschöpfe freundlich entgegen.
@@ -2604,7 +2604,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,152. An Mitra und Varuna
+### 152 An Mitra und Varuna
 
 
 1.	Ihr beide kleidet euch in fettige Gewänder; eure Sorgen sind ununterbrochene Regenströme. Alle Ungesetzlichkeiten unterdrücket ihr; ihr haltet es mit dem Gesetz, Mitra und Varuna!
@@ -2617,7 +2617,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,153. An Mitra und Varuna
+### 153 An Mitra und Varuna
 
 
 1.	Wir verehren euch Große einmutig mit Opfergaben und Verbeugungen, Mitra und Varuna, mit Schmalz, ihr Schmalztriefenden und was sie sonst euch bei uns, wie es die Adhvaryu´s tun, unter frommen Gedanken vorsetzen.
@@ -2627,7 +2627,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,154. An Vishnu
+### 154 An Vishnu
 
 
 1.	Des Vishnu Heldentaten will ich nun verkünden, der die irdischen Räume durchmessen hat, der die obere Wohnstätte stützte, nachdem er dreimal ausgeschritten war, der Weitschreiter.
@@ -2639,7 +2639,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,155. An Vishnu und Indra
+### 155 An Vishnu und Indra
 
 
 1.	Preiset den Trank eures Somasaftes dem großen, tapferen Indra, dessen Sinn danach steht, und dem Vishnu an, die beide unbetörbar auf dem hohen Rücken der Berge stehen wie der Reiter auf einem tauglichen Streitroß reitet.
@@ -2651,7 +2651,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,156. An Vishnu
+### 156 An Vishnu
 
 
 1.	Sei freundlich wie Mitra, der sich am Schmalz stärkt, du von reichem Glanze, rasch gehend, weitbekannt! Dann soll dir, Vishnu, ein Loblied, wie es nur der Kundige richtig treffen kann, und ein Opfer von dem Opferspender zur Zufriedenheit gemacht werden.
@@ -2662,7 +2662,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,157. An die Asvin
+### 157 An die Asvin
 
 
 1.	Agni ist erwacht, die Sonne steigt von der Erde empor; die schimmernde große Usas ist mit ihrem Strahl aufgeleuchtet. Die Asvin haben zur Fahrt ihren Wagen angeschirrt; Gott Savitri hat alles, was lebt, jeden einzelnen herausgetrieben.
@@ -2674,7 +2674,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,158. An die Asvin
+### 158 An die Asvin
 
 
 1.	"Gut sind die beiden Rudra´s, vielsorgend, an Stärke zunehmend. Erweist uns hilfsbereit eure Gunst, ihr Bullen, da ja der Sohn des Ucathya euch, ihr Meister, seine Habe spenden will, wenn ihr mit euren vollkommenen Hilfen zum Vorschein gekommen seid.
@@ -2686,7 +2686,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,159. An Himmel und Erde
+### 159 An Himmel und Erde
 
 
 1.	Ein Lob stimme ich unter Opfern an auf Himmel und Erde, die Gesetzesstärker, die großen, in der Weisheit erfahrenen, die Göttermütter, die mit den Göttern Gutes wirkend ganz nach ihrem Sinn kostbare Dinge zur Schau tragen.
@@ -2697,7 +2697,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,160. An Himmel und Erde
+### 160 An Himmel und Erde
 
 
 1.	Himmel und Erde, diese beiden allen ersprießlichen, gesetzestreuen sind es ja, die den Seher des Luftreiches tragen. Zwischen beiden Dhisana, den Göttinnen, den schöngebärenden, wandelt nach der Bestimmung der reine Sonnengott.
@@ -2708,7 +2708,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,161. An die Ribhu´s
+### 161 An die Ribhu´s
 
 
  	Die Ribhu`s:
@@ -2732,7 +2732,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,162. Das Opferroß
+### 162 Das Opferroß
 
 
 1.	Mögen uns Mitra, Varuna, Aryaman, Ayu, Ribhuksan, die Marut nicht übersehen, wenn wir des gottgeschaffenen siegesgewohnten Rennpferdes Heldentaten in weiser Rede verkünden werden.
@@ -2760,7 +2760,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,163. Lob des Rosses
+### 163 Lob des Rosses
 
 
 1.	Als du eben erst geboren wiehertest, aus dem Meer oder aus dem Urquell heraussteigend, mit Flügeln des Adlers und den Vorderfüßen der Antilope - das war deine preisenswerte hohe Geburt, du Renner.
@@ -2779,7 +2779,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,164. An alle Götter (Rätsellied)
+### 164 An alle Götter (Rätsellied)
 
 
 1.	Dieses liebwerten altersgrauen Hotri, dessen mittlerer Bruder ist der Hungrige. Sein dritter Bruder trägt Schmalz auf dem Rücken. In diesem erschaute ich den Stammherrn mit sieben Söhnen.
@@ -2843,7 +2843,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 15. Gruppe        Lieder des Agastya
 
 
-1,165. Gespräch zwischen Indra, den Marut und Agastya
+### 165 Gespräch zwischen Indra, den Marut und Agastya
 
 
 1.	Indra:	"Mit welchem Aufputz haben sich die altersgleichen, versippten Marut gemeinsam zusammengetan? Mit welcher Absicht, woher sind sie gekommen? Diese Bullen preisen den Kampfmut im Wunsch nach Schätzen."
@@ -2870,7 +2870,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,166. An die Marut
+### 166 An die Marut
 
 
 1.	Wir wollen nun dem wilden Geschlecht, dem Fähnlein des Bullen Indra von seiner früheren Größe erzählen. Wie mit Feuer übt ihr lautbrausende Marut auf der Fahrt, wie mit Kampf, ihr Mächtigen, eure Kraft aus!
@@ -2908,7 +2908,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,168. An die Marut
+### 168 An die Marut
 
 
 1.	Mit jedem Opfer für euch ein wie alle Male den anderen zuvorkommend - ihr habt die zu den Göttern gehenden Gedanken an euch, Gedanken um Gedanken, eingegeben - möchte ich euch herlenken zum Wohlergehen beider Welten, zu großer Gunst mit Lobliedern.
@@ -2924,7 +2924,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,169. An Indra
+### 169 An Indra
 
 
 1.	Du, Indra, wirst selbst diese herankommenden großen Marut bannen; du bist der, der auch große Feindschaft abwehrt. Du Meister der Marut, der sie kennt, gewinnt ihre Gunst, denn sie ist dir die liebste!
@@ -2938,7 +2938,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,170. Gespräch zwischen Agastya, Indra und den Marut
+### 170 Gespräch zwischen Agastya, Indra und den Marut
 
 
 1.	Agastya:	"Jetzt ist nichts und morgen ist nichts. Wer kennt das Unerforschliche? Man muß sich nach dem Sinn eines anderen richten und die Absicht wird zunichte."
@@ -2950,7 +2950,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,171. An die Marut und Indra
+### 171 An die Marut und Indra
 
 
 1.	Mit dieser Verbeugung wende ich mich an euch, mit schönem Liede bitte ich um Gnade der Mächtigen. Leget bereitwillig und wissentlich den Groll ab, ihr Marut! Spannet die Rosse aus!
@@ -2962,7 +2962,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,172. An die Marut
+### 172 An die Marut
 
 
 1.	Wunderbar muß eure Ausfahrt sein, wunderbar durch die Hilfe, ihr gabenschönen, wie Schlangen glänzenden Marut.
@@ -2971,7 +2971,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,173. An Indra
+### 173 An Indra
 
 
 1.	Er stimmte den Gesang an, der hervorschießt wie ein Vogel. Wir wollen den anschwellenden, sonnenhellen Gesang singen. Die Milchkühe sind auf dem Barhis, die unbetörbaren, auf daß sie den himmlischen Bewohner anlocken.
@@ -2990,7 +2990,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,174. An Indra
+### 174 An Indra
 
 
 1.	Du, Indra, bist der König über alle Götter. Schütze unseren Herren, behüte du uns, o Asura! Du bist der wahre Gebieter, unser freigebiger Nothelfer; du bist der wahre Gebieter, unser freigebiger Nothelfer, du bist der wahre Reiche, der die Übermacht verleiht.
@@ -3006,7 +3006,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,175. An Indra
+### 175 An Indra
 
 
 1.	Berausche dich! Du hast den berauschenden Rauschtrank getrunken, so viel das Trinkgeschirr faßt, o Falbenlenker. Der bullenhafte Saft gehört dir, dem Bullen, der siegreiche größte Tausendgewinner.
@@ -3018,7 +3018,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,176. An Indra
+### 176 An Indra
 
 
 1.	Berausche uns, auf daß wir unser Glück suchen; geh als Bulle in Indra ein, du Somasaft! Wenn du nur drohst, bringst du den Feind zum Weichen; du findest keinen mehr dir gegenüber.
@@ -3030,7 +3030,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,177. An Indra
+### 177 An Indra
 
 
 1.	Der die Lande erfüllende Bulle der Menschen, der König der Völker, der vielgerufene Indra komme her! Gepriesen, ruhmsuchend komme näher mit deiner Gunst zu mir, nachdem du das bullige Falbenpaar angespannt hast!
@@ -3041,7 +3041,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,178. An Indra
+### 178 An Indra
 
 
 1.	Wenn jenes willige Gehör bei dir noch besteht, o Indra, mit dem du den Sängern zur Hilfe bereit warst, so sollst du unsern Wunsch, der uns groß gemacht hat, nicht zu kurz kommen lassen. Alles möchte ich von dir erlangen, mehr als ein Ayusproß erreichen kann.
@@ -3052,7 +3052,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,179. Agastya und Lopamudra
+### 179 Agastya und Lopamudra
 
 
 1.	Lopamudra:	"Viele Jahre habe ich mich spät und früh abgemüht, während die Morgen dem Alter näher bringen. Das Alter verändert die Schönheit der Leiber. Es sollten doch die Männchen zu ihren Frauen kommen!"
@@ -3064,7 +3064,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,180. An die Asvin
+### 180 An die Asvin
 
 
 1.	Eure lenksamen Rosse durcheilen die Räume, wenn euer Wagen um die Meerfluten fliegt. Es triefen eure goldnen Radschienen. Vom süßen Trank trinkend begleitet ihr die Usas´.
@@ -3080,7 +3080,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,181. An die Asvin
+### 181 An die Asvin
 
 
 1.	Was war es, das ihr, die größten Liebhaber von Speisegenüssen, von Reichtümern, den Opferdienst besorgend aus dem Wasser geschöpft habt? Dieses Opfer hat euch Ehre gemacht, ihr Schatzhalter, ihr Helfer der Menschen.
@@ -3095,7 +3095,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,182. An die Asvin
+### 182 An die Asvin
 
 
 1.	Jetzt ist die rechte Stunde da; seid fein bereit: Der Wagen ist mit Bullen bespannt, Ergötzet, ihr Sinnreichen, die beiden Enkel des Himmels, die Gedankenwecker, die ......, die Gönner der Vispala, deren Walten dem Frommen gegenüber lauter ist.
@@ -3109,7 +3109,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,183. An die Asvin
+### 183 An die Asvin
 
 
 1.	Schirret ihn an, der schneller als der Gedanke, dreisitzig, dreirädrig ist, ihr Bullen, auf dem ihr zum Haus des Frommen kommt! Ihr flieget mit dem dreiteiligen Wagen wie ein Vogel mit den Schwingen.
@@ -3121,7 +3121,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,184. An die Asvin
+### 184 An die Asvin
 
 
 1.	Euch beide wollen wir heute, euch künftig rufen, bei aufleuchtender Morgenröte ich der Wortführer mit Lobgedichten die Nasatya´s, wo sie auch sein mögen, die Enkel des Himmels für den, der freigebiger als der hohe Herr ist,
@@ -3133,7 +3133,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,185. An Himmel und Erde
+### 185 An Himmel und Erde
 
 
 1.	Welche von diesen beiden ist die frühere, welche die spätere? Wie sind sie entstanden, ihr Seher? Wer weiß es genau? Alles tragen sie selbst, was ein Name ist. Es drehen sich die beiden Tageshälften wie Räder um.
@@ -3150,7 +3150,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,186. An alle Götter
+### 186 An alle Götter
 
 
 1.	Bei unserem Opfer soll mit Labungen und Segenswort der allen Menschen gehörende Gott Savitri erscheinen. Auf daß auch ihr Jünglinge uns in gehobener Stimmung versetzet, soll am Abend zur ganzen lebenden Welt die Andacht kommen.
@@ -3167,7 +3167,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,187. An Speise und Trank
+### 187 An Speise und Trank
 
 
 1.	Die Speise will ich jetzo preisen, die mächtige Erhalterin der Stärke, kraft deren Trita den Vritra gliedweise zerlegte.
@@ -3184,7 +3184,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,188. Aprilied
+### 188 Aprilied
 
 
 1.	Entflammt schaltest du heute als Gott mit den Göttern, du Tausendgewinner. Als Bote und Seher fahre die Opferspenden!
@@ -3201,7 +3201,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,189. An Agni
+### 189 An Agni
 
 
 1.	Agni, führ uns auf gutem Wege zu Reichtum, der du alle rechten Wege kennst. O Gott! Wende von uns die Sünde ab, die auf Abwege führt! Wir wollen dir die größte Huldigungsrede recht machen.
@@ -3215,7 +3215,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,190. An Brihaspati
+### 190 An Brihaspati
 
 
 1.	Den unerreichbaren Bullen mit der wohllautenden Zunge, den Brihaspati erbaue aufs neue mit Preisliedern, den glänzenden Gesangesleiter, auf den Götter und Sterbliche hinhören, wenn er seine Stimme erhebt!
@@ -3229,7 +3229,7 @@ So wahr ich dies sage, wachet beide über ihre kenntliche Spur! Indra und Agni g
 
 
 
-1,191. Gegen Gifttiere
+### 191 Gegen Gifttiere
 
 
 1.	Der Kankata, nicht der eigentliche Kantaka und der echte Kantaka, diese beiden meine ich, die Plusi heißen - die unsichtbaren Gifttiere sind angeschmiert.
