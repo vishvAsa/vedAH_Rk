@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 7.60.5"
+
++++
+-   *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *cetāro* \< *cetāraḥ* \< *cetṛ*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *anṛtasya* \< *anṛta*
+- \[noun\], genitive, singular, neuter
+- “falsehood; lying; lie; cheat.”
+------------------------------------------------------------------------
+- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- \[noun\], genitive, singular, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *aryamā* \< *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *santi* \< *as*
+- \[verb\], plural, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *ima* \< *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *vāvṛdhur* \< *vāvṛdhuḥ* \< *vṛdh*
+- \[verb\], plural, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *duroṇe* \< *duroṇa*
+- \[noun\], locative, singular, neuter
+- “home; dwelling.”
+------------------------------------------------------------------------
+- *śagmāsaḥ* \< *śagma*
+- \[noun\], nominative, plural, masculine
+- “powerful; reliable; competent.”
+------------------------------------------------------------------------
+- *putrā* \< *putrāḥ* \< *putra*
+- \[noun\], nominative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *aditer* \< *aditeḥ* \< *aditi*
+- \[noun\], genitive, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *adabdhāḥ* \< *adabdha*
+- \[noun\], nominative, plural, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------

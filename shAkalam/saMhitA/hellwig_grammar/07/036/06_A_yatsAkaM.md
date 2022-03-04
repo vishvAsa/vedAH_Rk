@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.36.6"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *sākaṃ* \< *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *yaśaso* \< *yaśasaḥ* \< *yaśas*
+- \[noun\], nominative, plural, feminine
+- “esteemed; celebrated; glorious; honorable.”
+------------------------------------------------------------------------
+- *vāvaśānāḥ* \< *vaś*
+- \[verb noun\], nominative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *sarasvatī*
+- \[noun\], nominative, singular, feminine
+- “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
+    vine; river.”
+------------------------------------------------------------------------
+- *saptathī* \< *saptatha*
+- \[noun\], nominative, singular, feminine
+- “seventh.”
+------------------------------------------------------------------------
+- *sindhumātā* \< *sindhu*
+- \[noun\], masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *sindhumātā* \< *mātā* \< *mātṛ*
+- \[noun\], nominative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *yāḥ* \< *yad*
+- \[noun\], nominative, plural, feminine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *suṣvayanta* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *sudughāḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudughāḥ* \< *dughāḥ* \< *dugha*
+- \[noun\], nominative, plural, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *sudhārā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], nominative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *svena* \< *sva*
+- \[noun\], instrumental, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *payasā* \< *payas*
+- \[noun\], instrumental, singular, neuter
+- “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
+------------------------------------------------------------------------
+- *pīpyānāḥ* \< *pyā*
+- \[verb noun\], nominative, plural
+- “swell; abound; swell.”
+------------------------------------------------------------------------

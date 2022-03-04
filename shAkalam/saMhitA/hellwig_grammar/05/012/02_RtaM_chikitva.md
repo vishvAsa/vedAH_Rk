@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 5.12.2"
+
++++
+-   *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *cikitva* \< *cikitvaḥ* \< *cit*
+- \[verb noun\], vocative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *ic* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *cikiddhy* \< *cikiddhi* \< *cit*
+- \[verb\], singular, Perfect imperative
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *dhārā* \< *dhārāḥ* \< *dhārā*
+- \[noun\], accusative, plural, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *tṛndhi* \< *tṛd*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], accusative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *nāhaṃ* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāhaṃ* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *yātuṃ* \< *yātum* \< *yātu*
+- \[noun\], accusative, singular, masculine
+- “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
+    sorcery.”
+------------------------------------------------------------------------
+- *sahasā* \< *sahas*
+- \[noun\], instrumental, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dvayena* \< *dvaya*
+- \[noun\], instrumental, singular, neuter
+- “two; pair; couple; falsification; Saṃsarga.”
+------------------------------------------------------------------------
+- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- \[noun\], accusative, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *sapāmy* \< *sapāmi* \< *sap*
+- \[verb\], singular, Present indikative
+------------------------------------------------------------------------
+- *aruṣasya* \< *aruṣa*
+- \[noun\], genitive, singular, masculine
+- “red; red.”
+------------------------------------------------------------------------
+- *vṛṣṇaḥ* \< *vṛṣan*
+- \[noun\], genitive, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------

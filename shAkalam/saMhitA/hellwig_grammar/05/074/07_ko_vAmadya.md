@@ -1,0 +1,59 @@
++++
+title = "Rig Veda 5.74.7"
+
++++
+-   *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *purūṇām* \< *puru*
+- \[noun\], genitive, plural, masculine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vavne* \< *van*
+- \[verb\], singular, Perfect indicative
+- “obtain; gain; desire; get; like; love; overcome.”
+------------------------------------------------------------------------
+- *martyānām* \< *martya*
+- \[noun\], genitive, plural, masculine
+- “mortal.”
+------------------------------------------------------------------------
+- *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *vipro* \< *vipraḥ* \< *vipra*
+- \[noun\], nominative, singular, masculine
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *vipravāhasā* \< *vipra*
+- \[noun\]
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *vipravāhasā* \< *vāhasā* \< *vāhas*
+- \[noun\], accusative, dual, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *ko* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *yajñair* \< *yajñaiḥ* \< *yajña*
+- \[noun\], instrumental, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *vājinīvasū* \< *vājinīvasu*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------

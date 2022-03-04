@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 6.15.5"
+
++++
+-   *pāvakayā* \< *pāvaka*
+- \[noun\], instrumental, singular, feminine
+- “pure; purifying; pure; āgneya; clear; bright; bright.”
+------------------------------------------------------------------------
+- *yaś* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *citayantyā* \< *citay* \< *√cit*
+- \[verb noun\], instrumental, singular
+------------------------------------------------------------------------
+- *kṛpā* \< *kṛp*
+- \[noun\], instrumental, singular, feminine
+- “kṛp.”
+------------------------------------------------------------------------
+- *kṣāman*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *ruruca* \< *ruruce* \< *ruc*
+- \[verb\], singular, Perfect indicative
+- “please; shine.”
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], nominative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *bhānunā* \< *bhānu*
+- \[noun\], instrumental, singular, masculine
+- “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
+    copper; light; twelve; appearance; Bhānu; flare.”
+------------------------------------------------------------------------
+- *tūrvan* \< *tūrv*
+- \[verb noun\], nominative, singular
+- “overpower.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yāmann* \< *yāman*
+- \[noun\], locative, singular, neuter
+- “expedition; path; expedition; arrival.”
+------------------------------------------------------------------------
+- *etaśasya* \< *etaśa*
+- \[noun\], genitive, singular, masculine
+- “Etaśa; horse.”
+------------------------------------------------------------------------
+- *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *raṇa* \< *raṇe* \< *raṇa*
+- \[noun\], locative, singular, masculine
+- “battle; fight; pleasure; joy; war; combat.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ghṛṇe* \< *ghṛṇa*
+- \[noun\], locative, singular, masculine
+- “sunlight; heat; hotness.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tatṛṣāṇo* \< *tatṛṣāṇaḥ* \< *tṛṣ*
+- \[verb noun\], nominative, singular
+- “thirst.”
+------------------------------------------------------------------------
+- *ajaraḥ* \< *ajara*
+- \[noun\], nominative, singular, masculine
+- “undecaying; ageless.”
+------------------------------------------------------------------------

@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 7.77.5"
+
++++
+-   *asme* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śreṣṭhebhir* \< *śreṣṭhebhiḥ* \< *śreṣṭha*
+- \[noun\], instrumental, plural, masculine
+- “best; better; chief(a); beautiful.”
+------------------------------------------------------------------------
+- *bhānubhir* \< *bhānubhiḥ* \< *bhānu*
+- \[noun\], instrumental, plural, masculine
+- “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
+    copper; light; twelve; appearance; Bhānu; flare.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *bhāhy* \< *bhāhi* \< *bhā*
+- \[verb\], singular, Present imperative
+- “look; shine; show; look like; glitter; reflect.”
+------------------------------------------------------------------------
+- *uṣo* \< *uṣaḥ* \< *uṣas*
+- \[noun\], vocative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *devi* \< *devī*
+- \[noun\], vocative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *pratirantī* \< *pratṛ* \< *√tṛ*
+- \[verb noun\], nominative, singular
+- “traverse; prolong.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *iṣaṃ* \< *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *dadhatī* \< *dhā*
+- \[verb noun\], nominative, singular
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *viśvavāre* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavāre* \< *vāre* \< *vāra*
+- \[noun\], vocative, singular, feminine
+- “treasure; choice.”
+------------------------------------------------------------------------
+- *gomad* \< *gomat*
+- \[noun\], accusative, singular, neuter
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *aśvāvad* \< *aśvāvat*
+- \[noun\], accusative, singular, neuter
+- “rich in horses.”
+------------------------------------------------------------------------
+- *rathavac* \< *rathavat*
+- \[noun\], accusative, singular, neuter
+- “rich in chariots.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------

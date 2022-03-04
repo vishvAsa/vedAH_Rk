@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 7.40.4"
+
++++
+-   *ayaṃ* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *netā* \< *netṛ*
+- \[noun\], nominative, singular, masculine
+- “leader; Vitex negundo.”
+------------------------------------------------------------------------
+- *varuṇa* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *mitro* \< *mitraḥ* \< *mitra*
+- \[noun\], nominative, singular, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *rājāno* \< *rājānaḥ* \< *rājan*
+- \[noun\], nominative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *aryamāpo* \< *aryamā* \< *aryaman*
+- \[noun\], nominative, singular, masculine
+- “Aryaman; aryaman \[word\]; sun.”
+------------------------------------------------------------------------
+- *aryamāpo* \< *apaḥ* \< *apas*
+- \[noun\], accusative, singular, neuter
+- “work; deed.”
+------------------------------------------------------------------------
+- *dhuḥ* \< *dhā*
+- \[verb\], plural, Aorist inj. (proh.)
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *suhavā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhavā* \< *havā* \< *hava*
+- \[noun\], nominative, singular, feminine
+- “invocation.”
+------------------------------------------------------------------------
+- *devy* \< *devī*
+- \[noun\], nominative, singular, feminine
+- “Parvati; queen; goddess; Devi.”
+------------------------------------------------------------------------
+- *aditir* \< *aditiḥ* \< *aditi*
+- \[noun\], nominative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *anarvā* \< *anarvan*
+- \[noun\], nominative, singular, feminine
+- “unchallenged; unrivaled.”
+------------------------------------------------------------------------
+- *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- \[noun\], accusative, singular, neuter
+- “trouble; sin.”
+------------------------------------------------------------------------
+- *ati*
+- \[adverb\]
+- “very; excessively; beyond; excessively.”
+------------------------------------------------------------------------
+- *parṣann* \< *parṣan* \< *pṛ*
+- \[verb\], plural, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *ariṣṭān* \< *ariṣṭa*
+- \[noun\], accusative, plural, masculine
+- “safe; unharmed.”
+------------------------------------------------------------------------

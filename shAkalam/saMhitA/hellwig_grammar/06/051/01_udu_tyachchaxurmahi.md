@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 6.51.1"
+
++++
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tyac* \< *tyad* \< *tya*
+- \[noun\], nominative, singular, neuter
+- “that.”
+------------------------------------------------------------------------
+- *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+- \[noun\], nominative, singular, neuter
+- “eye; look; visual perception; cakṣus \[word\]; sight.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], nominative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *mitrayor* \< *mitrayoḥ* \< *mitra*
+- \[noun\], genitive, dual, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *āṃ* \< *ām* \< *āṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *priyaṃ* \< *priyam* \< *priya*
+- \[noun\], nominative, singular, neuter
+- “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
+    good; liked; suitable; proper.”
+------------------------------------------------------------------------
+- *varuṇayor* \< *varuṇayoḥ* \< *varuṇa*
+- \[noun\], genitive, dual, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *adabdham* \< *adabdha*
+- \[noun\], nominative, singular, neuter
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *śuci*
+- \[noun\], nominative, singular, neuter
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *darśatam* \< *darśata*
+- \[noun\], nominative, singular, neuter
+- “beautiful; visible; beautiful.”
+------------------------------------------------------------------------
+- *anīkaṃ* \< *anīkam* \< *anīka*
+- \[noun\], nominative, singular, neuter
+- “army; face; battalion; battlefront; point; appearance.”
+------------------------------------------------------------------------
+- *rukmo* \< *rukmaḥ* \< *rukma*
+- \[noun\], nominative, singular, masculine
+- “adornment.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *diva* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *uditā* \< *uditi*
+- \[noun\], locative, singular, feminine
+- “rise.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *adyaut* \< *dyut*
+- \[verb\], singular, Athematic s aor. (Ind.)
+- “shine; inflame.”
+------------------------------------------------------------------------

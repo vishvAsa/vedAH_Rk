@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 8.1.10"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *tv* \< *tu*
+- \[adverb\]
+- “now; then; but; and; now; however; then; then; surely.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *sabardughāṃ* \< *sabardughām* \< *sabardugha*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *gāyatravepasam* \< *gāyatra*
+- \[noun\], neuter
+- “Gāyatrī; Gāyatra.”
+------------------------------------------------------------------------
+- *gāyatravepasam* \< *vepasam* \< *vepas*
+- \[noun\], accusative, singular, feminine
+- “inspiration; shaking.”
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dhenuṃ* \< *dhenum* \< *dhenu*
+- \[noun\], accusative, singular, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *sudughām* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudughām* \< *dughām* \< *dugha*
+- \[noun\], accusative, singular, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *anyām* \< *anya*
+- \[noun\], accusative, singular, feminine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *iṣam* \< *iṣ*
+- \[noun\], accusative, singular, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *urudhārām* \< *uru*
+- \[noun\]
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *urudhārām* \< *dhārām* \< *dhārā*
+- \[noun\], accusative, singular, feminine
+- “flush; flow; current; spring; fountain.”
+------------------------------------------------------------------------
+- *araṅkṛtam* \< *araṃkṛt*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------

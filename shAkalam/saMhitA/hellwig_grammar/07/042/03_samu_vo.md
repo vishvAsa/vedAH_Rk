@@ -1,0 +1,80 @@
++++
+title = "Rig Veda 7.42.3"
+
++++
+-   *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *mahayan* \< *mahay* \< *√mah*
+- \[verb\], plural, Present injunctive
+- “glorify.”
+------------------------------------------------------------------------
+- *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *mandro* \< *mandraḥ* \< *mandra*
+- \[noun\], nominative, singular, masculine
+- “pleasant; eloquent; dulcet.”
+------------------------------------------------------------------------
+- *ririca* \< *ririce* \< *ric*
+- \[verb\], singular, Perfect indicative
+- “empty; liberate; concede; surrender; purge.”
+------------------------------------------------------------------------
+- *upāke* \< *upāka*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *yajasva* \< *yaj*
+- \[verb\], singular, Present imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *purvaṇīka*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *devān* \< *deva*
+- \[noun\], accusative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yajñiyām* \< *yajñiya*
+- \[noun\], accusative, singular, feminine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+- *aramatiṃ* \< *aramatim* \< *aramati*
+- \[noun\], accusative, singular, feminine
+------------------------------------------------------------------------
+- *vavṛtyāḥ* \< *vṛt*
+- \[verb\], singular, Perfect optative
+- “behave; happen; exist; return; dwell; die; roll; continue; act;
+    exist; feed on; issue; move; travel; proceed; turn; situate; drive;
+    account for; begin; do; inhere; revolve.”
+------------------------------------------------------------------------

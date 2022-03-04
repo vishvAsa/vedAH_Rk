@@ -1,0 +1,59 @@
++++
+title = "Rig Veda 5.38.1"
+
++++
+-   *uroṣ* \< *uroḥ* \< *uru*
+- \[noun\], genitive, singular, neuter
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *ṭa* \< *ṭe* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *rādhaso* \< *rādhasaḥ* \< *rādhas*
+- \[noun\], genitive, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *vibhvī* \< *vibhu*
+- \[noun\], nominative, singular, feminine
+- “mighty; abundant; big.”
+------------------------------------------------------------------------
+- *rātiḥ* \< *rāti*
+- \[noun\], nominative, singular, feminine
+- “gift; bounty; favor.”
+------------------------------------------------------------------------
+- *śatakrato* \< *śatakratu*
+- \[noun\], vocative, singular, masculine
+- “Indra.”
+------------------------------------------------------------------------
+- *adhā* \< *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *viśvacarṣaṇe* \< *viśvacarṣaṇi*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *dyumnā* \< *dyumna*
+- \[noun\], accusative, plural, neuter
+- “magnificence.”
+------------------------------------------------------------------------
+- *sukṣatra* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṣatra* \< *kṣatra*
+- \[noun\], vocative, singular, masculine
+- “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
+------------------------------------------------------------------------
+- *maṃhaya* \< *maṃhay* \< *√mah*
+- \[verb\], singular, Present imperative
+------------------------------------------------------------------------

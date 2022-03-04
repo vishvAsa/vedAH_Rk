@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 7.10.1"
+
++++
+-   *uṣo* \< *uṣaḥ* \< *uṣ*
+- \[noun\], genitive, singular, feminine
+- “dawn.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *jāraḥ* \< *jāra*
+- \[noun\], nominative, singular, masculine
+- “fancy man.”
+------------------------------------------------------------------------
+- *pṛthu*
+- \[noun\], accusative, singular, neuter
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *pājo* \< *pājaḥ* \< *pājas*
+- \[noun\], accusative, singular, neuter
+- “luminosity; look.”
+------------------------------------------------------------------------
+- *aśred* \< *aśret* \< *śri*
+- \[verb\], singular, Root aorist (Ind.)
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------
+- *davidyutad* \< *davidyutat* \< *davidyut* \< *√dyut*
+- \[verb noun\], nominative, singular
+- “flash.”
+------------------------------------------------------------------------
+- *dīdyacchośucānaḥ* \< *dīdyat* \< *dīdī*
+- \[verb noun\], nominative, singular
+- “shine; glitter.”
+------------------------------------------------------------------------
+- *dīdyacchośucānaḥ* \< *śośucānaḥ* \< *śośuc* \< *√śuc*
+- \[verb noun\], nominative, singular
+- “blaze.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *hariḥ* \< *hari*
+- \[noun\], nominative, singular, masculine
+- “reddish brown; yellow; pale; yellow; aureate.”
+------------------------------------------------------------------------
+- *śucir* \< *śuciḥ* \< *śuci*
+- \[noun\], nominative, singular, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *bhāti* \< *bhā*
+- \[verb\], singular, Present indikative
+- “look; shine; show; look like; glitter; reflect.”
+------------------------------------------------------------------------
+- *bhāsā* \< *bhās*
+- \[noun\], instrumental, singular, feminine
+- “beam; radiance; bhās \[word\]; fire.”
+------------------------------------------------------------------------
+- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- \[noun\], accusative, plural, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *hinvāna* \< *hinvānaḥ* \< *hi*
+- \[verb noun\], nominative, singular
+- “impel; send; spur; stimulate; urge.”
+------------------------------------------------------------------------
+- *uśatīr* \< *uśatīḥ* \< *vaś*
+- \[verb noun\], accusative, plural
+- “desire; agree; call; care; like; love.”
+------------------------------------------------------------------------
+- *ajīgaḥ* \< *jāgṛ*
+- \[verb\], singular, Redupl. Aorist (Ind.)
+- “wake; watch; awaken; wake up; oversee.”
+------------------------------------------------------------------------

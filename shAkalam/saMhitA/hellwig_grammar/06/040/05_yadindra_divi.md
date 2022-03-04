@@ -1,0 +1,95 @@
++++
+title = "Rig Veda 6.40.5"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *pārye* \< *pārya*
+- \[noun\], locative, singular, masculine
+- “critical; decisive.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ṛdhag* \< *ṛdhak*
+- \[adverb\]
+- “away; apart.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *sve* \< *sva*
+- \[noun\], locative, singular, neuter
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *sadane* \< *sadana*
+- \[noun\], locative, singular, neuter
+- “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
+    residence; seat; inanition; location.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *vāsi* \< *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *vāsi* \< *asi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *ato* \< *atas*
+- \[adverb\]
+- “now; therefore; then; from there; hence; consequently; then; hence;
+    henceforth.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yajñam* \< *yajña*
+- \[noun\], accusative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *niyutvān* \< *niyutvat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *sajoṣāḥ* \< *sajoṣas*
+- \[noun\], nominative, singular, masculine
+- “consentaneous; combined; associated; united.”
+------------------------------------------------------------------------
+- *pāhi* \< *pā*
+- \[verb\], singular, Aorist imperative
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *marudbhiḥ* \< *marut*
+- \[noun\], instrumental, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------

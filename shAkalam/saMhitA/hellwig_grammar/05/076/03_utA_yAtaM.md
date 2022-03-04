@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 5.76.3"
+
++++
+-   *utā* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *utā* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yātaṃ* \< *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *saṃgave* \< *saṃgava*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *prātar*
+- \[adverb\]
+- “at dawn; early.”
+------------------------------------------------------------------------
+- *ahno* \< *ahnaḥ* \< *ahar*
+- \[noun\], genitive, singular, neuter
+- “day; day; ahar \[word\]; day; day.”
+------------------------------------------------------------------------
+- *madhyandina* \< *madhyandine* \< *madhyaṃdina*
+- \[noun\], locative, singular, masculine
+- “noon; Pentapetes phoenicea Linn..”
+------------------------------------------------------------------------
+- *uditā* \< *uditi*
+- \[noun\], locative, singular, feminine
+- “rise.”
+------------------------------------------------------------------------
+- *sūryasya* \< *sūrya*
+- \[noun\], genitive, singular, masculine
+- “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
+    gigantea Beng.; sūryakānta; sunlight; best.”
+------------------------------------------------------------------------
+- *divā*
+- \[adverb\]
+- “by day; divā \[indecl.\].”
+------------------------------------------------------------------------
+- *naktam* \< *nakta*
+- \[noun\], accusative, singular, neuter
+- “night; night.”
+------------------------------------------------------------------------
+- *avasā* \< *avas*
+- \[noun\], instrumental, singular, neuter
+- “aid; favor; protection.”
+------------------------------------------------------------------------
+- *śantamena* \< *śaṃtama*
+- \[noun\], instrumental, singular, neuter
+- “beneficent.”
+------------------------------------------------------------------------
+- *nedānīm* \< *nā* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nedānīm* \< *idānīm*
+- \[adverb\]
+- “now.”
+------------------------------------------------------------------------
+- *pītir* \< *pītiḥ* \< *pīti*
+- \[noun\], nominative, singular, feminine
+- “drinking; haritāla.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], accusative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *tatāna* \< *tan*
+- \[verb\], singular, Perfect indicative
+- “expand; perform; cause; increase; write; spread; produce; spread;
+    speak; propagate.”
+------------------------------------------------------------------------

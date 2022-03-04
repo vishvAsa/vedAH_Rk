@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 7.99.5"
+
++++
+-   *indrāviṣṇū* \< *indrāviṣṇu*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *dṛṃhitāḥ* \< *dṛṃhay* \< *√dṛh*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *śambarasya* \< *śambara*
+- \[noun\], genitive, singular, masculine
+- “Śambara; Śambara.”
+------------------------------------------------------------------------
+- *nava* \< *navan*
+- \[noun\], accusative, singular, neuter
+- “nine.”
+------------------------------------------------------------------------
+- *puro* \< *puraḥ* \< *pur*
+- \[noun\], accusative, plural, feminine
+- “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
+------------------------------------------------------------------------
+- *navatiṃ* \< *navatim* \< *navati*
+- \[noun\], accusative, singular, feminine
+- “ninety; navati \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śnathiṣṭam* \< *śnath*
+- \[verb\], dual, Aorist imperative
+- “pierce; kill.”
+------------------------------------------------------------------------
+- *śataṃ* \< *śatam* \< *śata*
+- \[noun\], accusative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *varcinaḥ* \< *varcin*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *sahasraṃ* \< *sahasram* \< *sahasra*
+- \[noun\], accusative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *sākaṃ* \< *sākam*
+- \[adverb\]
+- “together; jointly; simultaneously.”
+------------------------------------------------------------------------
+- *hatho* \< *hathaḥ* \< *han*
+- \[verb\], dual, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *apraty* \< *aprati*
+- \[noun\], accusative, singular, neuter
+- “irresistible.”
+------------------------------------------------------------------------
+- *asurasya* \< *asura*
+- \[noun\], genitive, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *vīrān* \< *vīra*
+- \[noun\], accusative, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------

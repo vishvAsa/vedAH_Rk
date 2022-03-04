@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 7.55.2"
+
++++
+-   *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *arjuna*
+- \[noun\], vocative, singular, masculine
+- “white; clean; light.”
+------------------------------------------------------------------------
+- *sārameya*
+- \[noun\], vocative, singular, masculine
+- “dog.”
+------------------------------------------------------------------------
+- *dataḥ* \< *dat*
+- \[noun\], accusative, plural, masculine
+- “tooth; dat \[word\].”
+------------------------------------------------------------------------
+- *piśaṅga*
+- \[noun\], vocative, singular, masculine
+- “tawny; red; brown.”
+------------------------------------------------------------------------
+- *yacchase* \< *yam*
+- \[verb\], singular, Present indikative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *vīva* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *vīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *bhrājanta* \< *bhrājante* \< *bhrāj*
+- \[verb\], plural, Present indikative
+- “shine; glitter; look.”
+------------------------------------------------------------------------
+- *ṛṣṭaya* \< *ṛṣṭayaḥ* \< *ṛṣṭi*
+- \[noun\], nominative, plural, feminine
+- “spear.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *srakveṣu* \< *srakva*
+- \[noun\], locative, plural, masculine
+------------------------------------------------------------------------
+- *bapsato* \< *bapsataḥ* \< *bhas*
+- \[verb noun\], genitive, singular
+- “chew; snatch.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapa* \< *svap*
+- \[verb\], singular, Present imperative
+- “sleep; numb; fall asleep.”
+------------------------------------------------------------------------

@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 5.60.5"
+
++++
+-   *ajyeṣṭhāso* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *ajyeṣṭhāso* \< *jyeṣṭhāsaḥ* \< *jyeṣṭha*
+- \[noun\], nominative, plural, masculine
+- “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
+------------------------------------------------------------------------
+- *akaniṣṭhāsa* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *akaniṣṭhāsa* \< *kaniṣṭhāsaḥ* \< *kaniṣṭha*
+- \[noun\], nominative, plural, masculine
+- “worst; youngest.”
+------------------------------------------------------------------------
+- *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *bhrātaro* \< *bhrātaraḥ* \< *bhrātṛ*
+- \[noun\], nominative, plural, masculine
+- “brother; bhrātṛ; relative.”
+------------------------------------------------------------------------
+- *vāvṛdhuḥ* \< *vṛdh*
+- \[verb\], plural, Perfect indicative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *saubhagāya* \< *saubhaga*
+- \[noun\], dative, singular, neuter
+- “well-being.”
+------------------------------------------------------------------------
+- *yuvā* \< *yuvan*
+- \[noun\], nominative, singular, masculine
+- “young; youthful.”
+------------------------------------------------------------------------
+- *pitā* \< *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *svapā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svapā* \< *apāḥ* \< *apas*
+- \[noun\], nominative, singular, masculine
+- “work; deed.”
+------------------------------------------------------------------------
+- *rudra* \< *rudraḥ* \< *rudra*
+- \[noun\], nominative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *eṣāṃ* \< *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sudughā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudughā* \< *dughā* \< *dugha*
+- \[noun\], nominative, singular, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *pṛśniḥ* \< *pṛśni*
+- \[noun\], nominative, singular, feminine
+- “Pṛśni; beam.”
+------------------------------------------------------------------------
+- *sudinā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudinā* \< *dinā* \< *dina*
+- \[noun\], accusative, plural, neuter
+- “day; day; day of the week; one.”
+------------------------------------------------------------------------
+- *marudbhyaḥ* \< *marut*
+- \[noun\], dative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------

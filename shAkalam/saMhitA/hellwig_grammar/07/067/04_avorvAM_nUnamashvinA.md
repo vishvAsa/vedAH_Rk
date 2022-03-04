@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 7.67.4"
+
++++
+-   *avor* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], genitive, dual
+- “you.”
+------------------------------------------------------------------------
+- *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yuvākur* \< *yuvākuḥ* \< *yuvāku*
+- \[noun\], nominative, singular, masculine
+- “your(a).”
+------------------------------------------------------------------------
+- *huve* \< *hvā*
+- \[verb\], singular, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *sute* \< *suta*
+- \[noun\], locative, singular, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *mādhvī*
+- \[noun\], vocative, dual, masculine
+- “sweet; sweet.”
+------------------------------------------------------------------------
+- *vasūyuḥ* \< *vasūyu*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *vahantu* \< *vah*
+- \[verb\], plural, Present imperative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *sthavirāso* \< *sthavirāsaḥ* \< *sthavira*
+- \[noun\], nominative, plural, masculine
+- “old; strong; hardy; firm; firm.”
+------------------------------------------------------------------------
+- *aśvāḥ* \< *aśva*
+- \[noun\], nominative, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *pibātho* \< *pibāthaḥ* \< *pā*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *asme* \< *mad*
+- \[noun\], locative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *suṣutā* \< *suṣuta*
+- \[noun\], accusative, plural, neuter
+------------------------------------------------------------------------
+- *madhūni* \< *madhu*
+- \[noun\], accusative, plural, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------

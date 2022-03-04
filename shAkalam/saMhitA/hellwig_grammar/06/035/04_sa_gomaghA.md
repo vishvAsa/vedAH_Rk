@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 6.35.4"
+
++++
+-   *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *gomaghā* \< *go*
+- \[noun\], masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *gomaghā* \< *maghāḥ* \< *magha*
+- \[noun\], accusative, plural, feminine
+- “gift; wealth; reward; wages; reward.”
+------------------------------------------------------------------------
+- *jaritre* \< *jaritṛ*
+- \[noun\], dative, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *aśvaścandrā* \< *aśva*
+- \[noun\], masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *aśvaścandrā* \< *ścandrāḥ* \< *ścandra*
+- \[noun\], accusative, plural, feminine
+- “shining; glistening; brilliant.”
+------------------------------------------------------------------------
+- *vājaśravaso* \< *vāja*
+- \[noun\], masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *vājaśravaso* \< *śravasaḥ* \< *śravas*
+- \[noun\], accusative, plural, feminine
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *dhehi* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *pṛkṣaḥ* \< *pṛkṣ*
+- \[noun\], accusative, plural, feminine
+- “food; refreshment; power.”
+------------------------------------------------------------------------
+- *pīpihīṣaḥ* \< *pīpihi* \< *pyā*
+- \[verb\], singular, Perfect imperative
+- “swell; abound; swell.”
+------------------------------------------------------------------------
+- *pīpihīṣaḥ* \< *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *sudughām* \< *sudughā*
+- \[noun\], accusative, singular, feminine
+- “cow.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dhenum* \< *dhenu*
+- \[noun\], accusative, singular, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *bharadvājeṣu* \< *bharadvāja*
+- \[noun\], locative, plural, masculine
+- “Bharadvāja; Droṇa; Bharadvāja; skylark.”
+------------------------------------------------------------------------
+- *suruco* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suruco* \< *rucaḥ* \< *ruc*
+- \[noun\], accusative, plural, feminine
+- “beam; radiance; color.”
+------------------------------------------------------------------------
+- *rurucyāḥ* \< *ruc*
+- \[verb\], singular, Perfect optative
+- “please; shine.”
+------------------------------------------------------------------------

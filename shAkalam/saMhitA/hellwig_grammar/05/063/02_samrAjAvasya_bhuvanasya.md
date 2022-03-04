@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 5.63.2"
+
++++
+-   *samrājāv* \< *samrājau* \< *samrāj*
+- \[noun\], nominative, dual, masculine
+- “sovereign; ruler.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *bhuvanasya* \< *bhuvana*
+- \[noun\], genitive, singular, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *rājatho* \< *rājathaḥ* \< *rāj*
+- \[verb\], dual, Present indikative
+- “govern; shine; glitter; direct.”
+------------------------------------------------------------------------
+- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *vidathe* \< *vidatha*
+- \[noun\], locative, singular, neuter
+- “meeting; wisdom; council.”
+------------------------------------------------------------------------
+- *svardṛśā* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *svardṛśā* \< *dṛśā* \< *dṛś*
+- \[noun\], nominative, dual, masculine
+- “eye; dṛś; dṛś \[word\]; sight; evil eye.”
+------------------------------------------------------------------------
+- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- \[noun\], accusative, singular, feminine
+- “rain; shower; rainy season.”
+------------------------------------------------------------------------
+- *vāṃ* \< *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *rādho* \< *rādhaḥ* \< *rādhas*
+- \[noun\], accusative, singular, neuter
+- “gift; munificence; liberality; bounty.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *amṛta*
+- \[noun\]
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *amṛtatvam* \< *tvam* \< *tva*
+- \[noun\], accusative, singular, neuter
+- “state; quality; cause; reason.”
+------------------------------------------------------------------------
+- *īmahe* \< *ī* \< *√i*
+- \[verb\], plural, Present indikative
+- “beg; solicit.”
+------------------------------------------------------------------------
+- *dyāvāpṛthivī*
+- \[noun\], accusative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *caranti* \< *car*
+- \[verb\], plural, Present indikative
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *tanyavaḥ* \< *tanyu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

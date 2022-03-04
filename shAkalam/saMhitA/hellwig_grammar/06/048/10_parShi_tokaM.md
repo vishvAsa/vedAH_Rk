@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 6.48.10"
+
++++
+-   *parṣi* \< *pṛ*
+- \[verb\], singular, Aorist conj./subj.
+- “protect; promote; rescue; help.”
+------------------------------------------------------------------------
+- *tokaṃ* \< *tokam* \< *toka*
+- \[noun\], accusative, singular, neuter
+- “offspring.”
+------------------------------------------------------------------------
+- *tanayam* \< *tanaya*
+- \[noun\], accusative, singular, neuter
+- “biological.”
+------------------------------------------------------------------------
+- *partṛbhiṣ* \< *partṛbhiḥ* \< *partṛ*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *ṭvam* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *adabdhair* \< *adabdhaiḥ* \< *adabdha*
+- \[noun\], instrumental, plural, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *aprayutvabhiḥ* \< *aprayutvan*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *heﾱāṃsi* \< *heḍas*
+- \[noun\], accusative, plural, neuter
+- “wrath.”
+------------------------------------------------------------------------
+- *daivyā* \< *daivya*
+- \[noun\], accusative, plural, neuter
+- “divine; divine; celestial.”
+------------------------------------------------------------------------
+- *yuyodhi* \< *yu*
+- \[verb\], singular, Present imperative
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'devāni* \< *adevāni* \< *adeva*
+- \[noun\], accusative, plural, neuter
+- “godless.”
+------------------------------------------------------------------------
+- *hvarāṃsi* \< *hvaras*
+- \[noun\], accusative, plural, neuter
+- “intrigue.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------

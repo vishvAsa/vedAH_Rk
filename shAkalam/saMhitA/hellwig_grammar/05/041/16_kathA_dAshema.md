@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 5.41.16"
+
++++
+-   *kathā*
+- \[adverb\]
+- “how.”
+------------------------------------------------------------------------
+- *dāśema* \< *dāś*
+- \[verb\], plural, Present optative
+- “sacrifice; give.”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *sudānūn* \< *sudānu*
+- \[noun\], accusative, plural, masculine
+- “big; lavish.”
+------------------------------------------------------------------------
+- *evayā* \< *eva*
+- \[noun\]
+- “fast; rapid; agile.”
+------------------------------------------------------------------------
+- *evayā* \< *yāḥ* \< *yā*
+- \[noun\], accusative, plural, masculine
+- “going.”
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], accusative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *acchoktau* \< *acchokti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *praśravaso* \< *praśravasaḥ* \< *praśravas*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *maruto* \< *marutaḥ* \< *marut*
+- \[noun\], accusative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *acchoktau* \< *acchokti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'hir* \< *ahiḥ* \< *ahi*
+- \[noun\], nominative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *budhnyo* \< *budhnyaḥ* \< *budhnya*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *riṣe* \< *riṣ*
+- \[verb noun\]
+- “suffer; harm.”
+------------------------------------------------------------------------
+- *dhād* \< *dhāt* \< *dhā*
+- \[verb\], singular, Aorist conj./subj.
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *bhūd* \< *bhūt* \< *bhū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “become; be; originate; transform; happen; result; exist; be born;
+    be; be; come to life; grow; elapse; come to mind; thrive; become;
+    impend; show; conceive; understand; stand; constitute; serve; apply;
+    behave.”
+------------------------------------------------------------------------
+- *upamātivaniḥ* \< *upamāti*
+- \[noun\], feminine
+------------------------------------------------------------------------
+- *upamātivaniḥ* \< *vaniḥ* \< *vani*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

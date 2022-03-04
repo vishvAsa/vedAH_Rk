@@ -1,0 +1,88 @@
++++
+title = "Rig Veda 5.42.11"
+
++++
+-   *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣṭuhi* \< *stuhi* \< *stu*
+- \[verb\], singular, Present imperative
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sviṣuḥ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sviṣuḥ* \< *iṣuḥ* \< *iṣu*
+- \[noun\], nominative, singular, masculine
+- “arrow; iṣu \[word\]; iṣ; five; munj.”
+------------------------------------------------------------------------
+- *sudhanvā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudhanvā* \< *dhanvā* \< *dhanvan*
+- \[noun\], nominative, singular, masculine
+- “bow; desert; steppe; barren.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *viśvasya* \< *viśva*
+- \[noun\], genitive, singular, neuter
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *kṣayati* \< *kṣi*
+- \[verb\], singular, Present indikative
+- “govern; inhabit; dwell; stay; predominate; bide; own.”
+------------------------------------------------------------------------
+- *bheṣajasya* \< *bheṣaja*
+- \[noun\], genitive, singular, neuter
+- “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
+------------------------------------------------------------------------
+- *yakṣvā* \< *yakṣva* \< *yaj*
+- \[verb\], singular, Aorist imperative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *saumanasāya* \< *saumanasa*
+- \[noun\], dative, singular, neuter
+- “favor; satisfaction.”
+------------------------------------------------------------------------
+- *rudraṃ* \< *rudram* \< *rudra*
+- \[noun\], accusative, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *namobhir* \< *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *devam* \< *deva*
+- \[noun\], accusative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *asuraṃ* \< *asuram* \< *asura*
+- \[noun\], accusative, singular, masculine
+- “Asura; lord; asura \[word\]; sulfur.”
+------------------------------------------------------------------------
+- *duvasya* \< *duvasy*
+- \[verb\], singular, Present imperative
+- “worship.”
+------------------------------------------------------------------------

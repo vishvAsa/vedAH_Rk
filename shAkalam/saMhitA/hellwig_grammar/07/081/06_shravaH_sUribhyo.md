@@ -1,0 +1,59 @@
++++
+title = "Rig Veda 7.81.6"
+
++++
+-   *śravaḥ* \< *śravas*
+- \[noun\], accusative, singular, neuter
+- “fame; glory; ear.”
+------------------------------------------------------------------------
+- *sūribhyo* \< *sūribhyaḥ* \< *sūri*
+- \[noun\], dative, plural, masculine
+- “patron.”
+------------------------------------------------------------------------
+- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- \[noun\], accusative, singular, neuter
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *vasutvanaṃ* \< *vasutvanam* \< *vasutvana*
+- \[noun\], accusative, singular, neuter
+- “wealth.”
+------------------------------------------------------------------------
+- *vājāṃ* \< *vāja*
+- \[noun\], accusative, plural, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *gomataḥ* \< *gomat*
+- \[noun\], accusative, plural, masculine
+- “rich in cattle; bovine.”
+------------------------------------------------------------------------
+- *codayitrī* \< *codayitṛ*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *maghonaḥ* \< *maghavan*
+- \[noun\], accusative, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *sūnṛtāvaty* \< *sūnṛtāvatī* \< *sūnṛtāvat*
+- \[noun\], nominative, singular, feminine
+- “happy; big; auspicious.”
+------------------------------------------------------------------------
+- *uṣā* \< *uṣāḥ* \< *uṣas*
+- \[noun\], nominative, singular, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *ucchad* \< *ucchat* \< *vas*
+- \[verb\], singular, Present injunctive
+- “dawn; shine.”
+------------------------------------------------------------------------
+- *apa*
+- \[adverb\]
+- “away.”
+------------------------------------------------------------------------
+- *sridhaḥ* \< *sridh*
+- \[noun\], accusative, plural, feminine
+- “failure; damage.”
+------------------------------------------------------------------------

@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 7.72.5"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *paścātān* \< *paścātāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *nāsatyā* \< *nāsatya*
+- \[noun\], vocative, dual, masculine
+- “Asvins; nāsatya \[word\].”
+------------------------------------------------------------------------
+- *purastād* \< *purastāt*
+- \[adverb\]
+- “ahead; eastward; earlier; above; above.”
+------------------------------------------------------------------------
+- *āśvinā* \< *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *āśvinā* \< *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *adharād* \< *adharāt*
+- \[adverb\]
+- “below; south.”
+------------------------------------------------------------------------
+- *udaktāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *viśvataḥ* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *pāñcajanyena* \< *pāñcajanya*
+- \[noun\], instrumental, singular, masculine
+- “worldwide.”
+------------------------------------------------------------------------
+- *rāyā* \< *rai*
+- \[noun\], instrumental, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* \< *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* \< *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

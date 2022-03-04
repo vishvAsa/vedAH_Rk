@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 5.43.2"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *suṣṭutī* \< *suṣṭuti*
+- \[noun\], instrumental, singular, feminine
+- “hymn; praise.”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *vartayadhyai* \< *vartay* \< *√vṛt*
+- \[verb noun\]
+- “pound; tell; exist; bring; spill; mix; survive; melt; roll;
+    explain; perform; turn; chop; sustain; spend; roll up; produce.”
+------------------------------------------------------------------------
+- *dyāvā* \< *div*
+- \[noun\], nominative, dual, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vājāya* \< *vāja*
+- \[noun\], dative, singular, masculine
+- “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], nominative, dual, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *amṛdhre* \< *amṛdhra*
+- \[noun\], nominative, dual, feminine
+------------------------------------------------------------------------
+- *pitā* \< *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *mātā* \< *mātṛ*
+- \[noun\], nominative, singular, feminine
+- “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
+    Citrullus colocynthis Schrad.; cow.”
+------------------------------------------------------------------------
+- *madhuvacāḥ* \< *madhu*
+- \[noun\]
+- “sweet; deft.”
+------------------------------------------------------------------------
+- *madhuvacāḥ* \< *vacāḥ* \< *vacas*
+- \[noun\], nominative, singular, feminine
+- “statement; command; speech; words; advice; word; voice.”
+------------------------------------------------------------------------
+- *suhastā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhastā* \< *hastā* \< *hasta*
+- \[noun\], nominative, singular, feminine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *bhare* \< *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *bhare* \< *bhara*
+- \[noun\], locative, singular, masculine
+- “battle; weight; foray; bhṛ; load.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *yaśasāv* \< *yaśasau* \< *yaśas*
+- \[noun\], nominative, dual, masculine
+- “esteemed; celebrated; glorious; honorable.”
+------------------------------------------------------------------------
+- *aviṣṭām* \< *av*
+- \[verb\], dual, Aorist imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------

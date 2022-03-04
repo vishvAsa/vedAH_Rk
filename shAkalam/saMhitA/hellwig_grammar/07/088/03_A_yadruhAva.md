@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 7.88.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *ruhāva* \< *ruh*
+- \[verb\], dual, Aorist conj./subj.
+- “heal; grow; cicatrize; climb; board; ascend; grow.”
+------------------------------------------------------------------------
+- *varuṇaś* \< *varuṇaḥ* \< *varuṇa*
+- \[noun\], nominative, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *nāvam* \< *nau*
+- \[noun\], accusative, singular, feminine
+- “ship; boat; nau \[word\].”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *samudram* \< *samudra*
+- \[noun\], accusative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *īrayāva* \< *īray* \< *√īr*
+- \[verb\], dual, Present imperative
+- “name; describe; propel; shoot; state; call; raise; expel; tell;
+    enumerate.”
+------------------------------------------------------------------------
+- *madhyam* \< *madhya*
+- \[noun\], accusative, singular, masculine
+- “intermediate; central; average; normal; middle; madhya \[word\].”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *apāṃ* \< *apām* \< *ap*
+- \[noun\], genitive, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *snubhiś* \< *snubhiḥ* \< *snu*
+- \[noun\], instrumental, plural, masculine
+- “back.”
+------------------------------------------------------------------------
+- *carāva* \< *car*
+- \[verb\], dual, Present conjunctive (subjunctive)
+- “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
+    observe; enter (a state); observe; cause; crop; behave; practice;
+    heed; process; administer.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *preṅkha* \< *preṅkhe* \< *preṅkha*
+- \[noun\], locative, singular, masculine
+- “swing.”
+------------------------------------------------------------------------
+- *īṅkhayāvahai* \< *īṅkhay* \< *√īṅkh*
+- \[verb\], dual, Present conjunctive (subjunctive)
+------------------------------------------------------------------------
+- *śubhe* \< *śubh*
+- \[verb noun\]
+- “look; shine; beautify.”
+------------------------------------------------------------------------
+- *kam* \< *kaṃ*
+- \[adverb\]
+- “kaṃ \[word\].”
+------------------------------------------------------------------------

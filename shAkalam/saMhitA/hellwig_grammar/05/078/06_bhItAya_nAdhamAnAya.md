@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 5.78.6"
+
++++
+-   *bhītāya* \< *bhī*
+- \[verb noun\], dative, singular
+- “fear; fear.”
+------------------------------------------------------------------------
+- *nādhamānāya* \< *nādh*
+- \[verb noun\], dative, singular
+- “suffer.”
+------------------------------------------------------------------------
+- *ṛṣaye* \< *ṛṣi*
+- \[noun\], dative, singular, masculine
+- “Ṛṣi; spiritual teacher; ascetic; Mantra.”
+------------------------------------------------------------------------
+- *saptavadhraye* \< *saptavadhri*
+- \[noun\], dative, singular, masculine
+- “Saptavadhri.”
+------------------------------------------------------------------------
+- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- \[noun\], instrumental, plural, feminine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], nominative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *vṛkṣaṃ* \< *vṛkṣam* \< *vṛkṣa*
+- \[noun\], accusative, singular, masculine
+- “tree; fruit tree.”
+------------------------------------------------------------------------
+- *saṃ* \< *sam*
+- \[adverb\]
+- “sam; together; together; saṃ.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *cācathaḥ* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cācathaḥ* \< *acathaḥ* \< *añc*
+- \[verb\], dual, Present indikative
+------------------------------------------------------------------------

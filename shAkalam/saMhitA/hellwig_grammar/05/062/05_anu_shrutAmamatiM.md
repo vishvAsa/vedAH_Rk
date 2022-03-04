@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 5.62.5"
+
++++
+-   *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *śrutām* \< *śru*
+- \[verb noun\], accusative, singular
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *amatiṃ* \< *amatim* \< *amati*
+- \[noun\], accusative, singular, feminine
+- “effigy; ignorance; light; light; luster; form.”
+------------------------------------------------------------------------
+- *vardhad* \< *vardhat* \< *vṛdh*
+- \[verb noun\], accusative, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *urvīm* \< *uru*
+- \[noun\], accusative, singular, feminine
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *barhir* \< *barhiḥ* \< *barhis*
+- \[noun\], accusative, singular, neuter
+- “Barhis; barhis \[word\].”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *yajuṣā* \< *yajus*
+- \[noun\], instrumental, singular, neuter
+- “Yajur-Veda; Yajus; prayer.”
+------------------------------------------------------------------------
+- *rakṣamāṇā* \< *rakṣ*
+- \[verb noun\], nominative, dual
+- “protect; guard; keep; stow; govern; guard; spare; accumulate.”
+------------------------------------------------------------------------
+- *namasvantā* \< *namasvat*
+- \[noun\], nominative, dual, masculine
+- “respectful.”
+------------------------------------------------------------------------
+- *dhṛtadakṣādhi* \< *dhṛtadakṣā* \< *dhṛtadakṣa*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *dhṛtadakṣādhi* \< *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *garte* \< *garta*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *mitrāsāthe* \< *mitrā* \< *mitra*
+- \[noun\], vocative, dual, masculine
+- “friend; Mitra; mitra \[word\]; sun; ally.”
+------------------------------------------------------------------------
+- *mitrāsāthe* \< *āsāthe* \< *ās*
+- \[verb\], dual, Present indikative
+- “sit; stay; sit down; dwell; lie; lie; exist.”
+------------------------------------------------------------------------
+- *varuṇeﾱāsv* \< *varuṇā* \< *varuṇa*
+- \[noun\], nominative, dual, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *varuṇeﾱāsv* \< *iﾱāsu* \< *iḍā*
+- \[noun\], locative, plural, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *antaḥ* \< *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------

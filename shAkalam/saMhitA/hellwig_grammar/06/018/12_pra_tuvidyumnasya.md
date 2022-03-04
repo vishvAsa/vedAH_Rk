@@ -1,0 +1,85 @@
++++
+title = "Rig Veda 6.18.12"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *tuvidyumnasya* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvidyumnasya* \< *dyumnasya* \< *dyumna*
+- \[noun\], genitive, singular, masculine
+- “magnificence.”
+------------------------------------------------------------------------
+- *sthavirasya* \< *sthavira*
+- \[noun\], genitive, singular, masculine
+- “old; strong; hardy; firm; firm.”
+------------------------------------------------------------------------
+- *ghṛṣver* \< *ghṛṣveḥ* \< *ghṛṣvi*
+- \[noun\], genitive, singular, masculine
+- “anticipated; electrifying.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *rarapśe* \< *rapś*
+- \[verb\], singular, Perfect indicative
+- “abound in.”
+------------------------------------------------------------------------
+- *mahimā* \< *mahiman*
+- \[noun\], nominative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *pṛthivyāḥ* \< *pṛthivī*
+- \[noun\], ablative, singular, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *nāsya* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāsya* \< *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *śatrur* \< *śatruḥ* \< *śatru*
+- \[noun\], nominative, singular, masculine
+- “enemy; foe; enemy; Asura.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pratimānam* \< *pratimāna*
+- \[noun\], nominative, singular, neuter
+- “weight.”
+------------------------------------------------------------------------
+- *asti* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *pratiṣṭhiḥ* \< *pratiṣṭhi*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *purumāyasya* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *purumāyasya* \< *māyasya* \< *māyā*
+- \[noun\], genitive, singular, masculine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+------------------------------------------------------------------------
+- *sahyoḥ* \< *sahyu*
+- \[noun\], genitive, singular, masculine
+- “victorious.”
+------------------------------------------------------------------------

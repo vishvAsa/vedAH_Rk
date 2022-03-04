@@ -1,0 +1,67 @@
++++
+title = "Rig Veda 5.75.5"
+
++++
+-   *bodhinmanasā* \< *bodhinmanas*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *rathyeṣirā* \< *rathyā* \< *rathya*
+- \[noun\], nominative, dual, masculine
+------------------------------------------------------------------------
+- *rathyeṣirā* \< *iṣirā* \< *iṣira*
+- \[noun\], nominative, dual, masculine
+- “vigorous; bracing; quick.”
+------------------------------------------------------------------------
+- *havanaśrutā* \< *havana*
+- \[noun\], neuter
+- “invocation.”
+------------------------------------------------------------------------
+- *havanaśrutā* \< *śrutā* \< *śrut*
+- \[noun\], nominative, dual, masculine
+- “listening.”
+------------------------------------------------------------------------
+- *vibhiś* \< *vibhiḥ* \< *vi*
+- \[noun\], instrumental, plural, masculine
+- “vi; bird; vi.”
+------------------------------------------------------------------------
+- *cyavānam* \< *cyavāna*
+- \[noun\], accusative, singular, masculine
+- “Cyavana.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yātho* \< *yāthaḥ* \< *yā*
+- \[verb\], dual, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *advayāvinam* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *advayāvinam* \< *dvayāvinam* \< *dvayāvin*
+- \[noun\], accusative, singular, masculine
+- “dishonest.”
+------------------------------------------------------------------------
+- *mādhvī*
+- \[noun\], vocative, dual, masculine
+- “sweet; sweet.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb\], dual, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------

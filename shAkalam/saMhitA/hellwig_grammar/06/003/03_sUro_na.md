@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 6.3.3"
+
++++
+-   *sūro* \< *sūraḥ* \< *svar*
+- \[adverb\]
+- “sun; sky; sunlight.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *dṛśatir* \< *dṛśatiḥ* \< *dṛśati*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *arepā* \< *arepāḥ* \< *arepas*
+- \[noun\], nominative, singular, feminine
+- “immaculate.”
+------------------------------------------------------------------------
+- *bhīmā* \< *bhīma*
+- \[noun\], nominative, singular, feminine
+- “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *eti* \< *i*
+- \[verb\], singular, Present indikative
+- “go; travel; enter (a state); return; walk; continue; reach; ask.”
+------------------------------------------------------------------------
+- *śucatas* \< *śucataḥ* \< *śuc*
+- \[verb noun\], genitive, singular
+- “mourn; grieve; flame; glow; burn; repent.”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *dhīḥ* \< *dhī*
+- \[noun\], nominative, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *heṣasvataḥ* \< *heṣasvat*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *śurudho* \< *śurudhaḥ* \< *śurudh*
+- \[noun\], accusative, plural, feminine
+------------------------------------------------------------------------
+- *nāyam* \< *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *nāyam* \< *ayam* \< *idam*
+- \[noun\], nominative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *aktoḥ* \< *aktu*
+- \[noun\], genitive, singular, masculine
+- “night; dark; beam.”
+------------------------------------------------------------------------
+- *kutrā* \< *kutra*
+- \[adverb\]
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *raṇvo* \< *raṇvaḥ* \< *raṇva*
+- \[noun\], nominative, singular, masculine
+- “agreeable; happy; delightful; gay.”
+------------------------------------------------------------------------
+- *vasatir* \< *vasatiḥ* \< *vasati*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *vanejāḥ* \< *vanejā*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------

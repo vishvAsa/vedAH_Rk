@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 6.39.5"
+
++++
+-   *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *gṛṇāno* \< *gṛṇānaḥ* \< *gṛ*
+- \[verb noun\], nominative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *gṛṇate* \< *gṛ*
+- \[verb noun\], dative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *pratna*
+- \[noun\], vocative, singular, masculine
+- “age-old; pratna \[word\].”
+------------------------------------------------------------------------
+- *rājann* \< *rājan*
+- \[noun\], vocative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *iṣaḥ* \< *iṣ*
+- \[noun\], accusative, plural, feminine
+- “refreshment; enjoyment; stores.”
+------------------------------------------------------------------------
+- *pinva* \< *pinv*
+- \[verb\], singular, Present imperative
+- “swell; swell; overflow; abound.”
+------------------------------------------------------------------------
+- *vasudeyāya* \< *vasu*
+- \[noun\], neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *vasudeyāya* \< *deyāya* \< *deya*
+- \[noun\], dative, singular, neuter
+- “giving; gift.”
+------------------------------------------------------------------------
+- *pūrvīḥ* \< *puru*
+- \[noun\], accusative, plural, feminine
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *apa* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhi*
+- \[noun\], accusative, plural, feminine
+- “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
+------------------------------------------------------------------------
+- *aviṣā* \< *aviṣāḥ* \< *aviṣa*
+- \[noun\], accusative, plural, feminine
+- “nonvenomous.”
+------------------------------------------------------------------------
+- *vanāni* \< *vana*
+- \[noun\], accusative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *gā* \< *gāḥ* \< *go*
+- \[noun\], accusative, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *arvato* \< *arvataḥ* \< *arvant*
+- \[noun\], accusative, plural, masculine
+- “horse.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *ṛcase* \< *arc*
+- \[verb noun\]
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *rirīhi* \< *rā*
+- \[verb\], singular, Present imperative
+- “give; impart.”
+------------------------------------------------------------------------

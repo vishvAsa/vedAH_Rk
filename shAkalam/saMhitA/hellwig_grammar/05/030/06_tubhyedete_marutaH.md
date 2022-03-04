@@ -1,0 +1,83 @@
++++
+title = "Rig Veda 5.30.6"
+
++++
+-   *tubhyed* \< *tubhya* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tubhyed* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *marutaḥ* \< *marut*
+- \[noun\], nominative, plural, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *suśevā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśevā* \< *śevāḥ* \< *śeva*
+- \[noun\], nominative, plural, masculine
+- “friendly; favorable; dear.”
+------------------------------------------------------------------------
+- *arcanty* \< *arcanti* \< *arc*
+- \[verb\], plural, Present indikative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *arkaṃ* \< *arkam* \< *arka*
+- \[noun\], accusative, singular, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *sunvanty* \< *sunvanti* \< *su*
+- \[verb\], plural, Present indikative
+- “press out; su.”
+------------------------------------------------------------------------
+- *andhaḥ* \< *andhas*
+- \[noun\], accusative, singular, neuter
+- “Soma; drink; amṛta.”
+------------------------------------------------------------------------
+- *ahim* \< *ahi*
+- \[noun\], accusative, singular, masculine
+- “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
+------------------------------------------------------------------------
+- *ohānam* \< *ūh*
+- \[verb noun\], accusative, singular
+- “diagnose.”
+------------------------------------------------------------------------
+- *apa* \< *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *āśayānam* \< *āśī* \< *√śī*
+- \[verb noun\], accusative, singular
+- “lie; stay.”
+------------------------------------------------------------------------
+- *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- \[noun\], instrumental, plural, feminine
+- “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
+    trick.”
+------------------------------------------------------------------------
+- *māyinaṃ* \< *māyinam* \< *māyin*
+- \[noun\], accusative, singular, masculine
+- “artful; charming; crafty; deceptive.”
+------------------------------------------------------------------------
+- *sakṣad* \< *sakṣat* \< *sah*
+- \[verb\], singular, Aorist optative
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *indraḥ* \< *indra*
+- \[noun\], nominative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------

@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 6.1.10"
+
++++
+-   *asmā* \< *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], dative, singular
+- “you.”
+------------------------------------------------------------------------
+- *mahi*
+- \[noun\], accusative, singular, neuter
+- “great; firm.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *vidhema* \< *vidh*
+- \[verb\], plural, Present optative
+- “worship; offer.”
+------------------------------------------------------------------------
+- *namobhir* \< *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *samidhota* \< *samidhā* \< *samidh*
+- \[noun\], instrumental, singular, feminine
+- “firewood; kindling; fuel; fire.”
+------------------------------------------------------------------------
+- *samidhota* \< *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *havyaiḥ* \< *havya*
+- \[noun\], instrumental, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------
+- *vedī* \< *vedi*
+- \[noun\], locative, singular, feminine
+- “Vedi; pedestal.”
+------------------------------------------------------------------------
+- *sūno* \< *sūnu*
+- \[noun\], vocative, singular, masculine
+- “son; offspring.”
+------------------------------------------------------------------------
+- *sahaso* \< *sahasaḥ* \< *sahas*
+- \[noun\], genitive, singular, neuter
+- “force; strength; might; sahas \[word\]; conquest.”
+------------------------------------------------------------------------
+- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- \[noun\], instrumental, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *ukthair* \< *ukthaiḥ* \< *uktha*
+- \[noun\], instrumental, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *bhadrāyāṃ* \< *bhadrāyām* \< *bhadra*
+- \[noun\], locative, singular, feminine
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *sumatau* \< *sumati*
+- \[noun\], locative, singular, feminine
+- “benevolence; favor; Sumati.”
+------------------------------------------------------------------------
+- *yatema* \< *yat*
+- \[verb\], plural, Present optative
+- “strive; endeavor; join; equal; rival.”
+------------------------------------------------------------------------

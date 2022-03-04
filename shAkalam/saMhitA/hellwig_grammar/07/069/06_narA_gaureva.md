@@ -1,0 +1,91 @@
++++
+title = "Rig Veda 7.69.6"
+
++++
+-   *narā* \< *nṛ*
+- \[noun\], vocative, dual, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *gaureva* \< *gaurā* \< *gaura*
+- \[noun\], nominative, dual, masculine
+- “Gaura; Gaura; downy grislee; Gaura.”
+------------------------------------------------------------------------
+- *gaureva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *vidyutaṃ* \< *vidyutam* \< *vidyut*
+- \[noun\], accusative, singular, feminine
+- “lightning; Vidyut; thunderbolt.”
+------------------------------------------------------------------------
+- *tṛṣāṇāsmākam* \< *tṛṣāṇā* \< *tṛṣ*
+- \[verb noun\], nominative, dual
+- “thirst.”
+------------------------------------------------------------------------
+- *tṛṣāṇāsmākam* \< *asmākam* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *savanopa* \< *savanā* \< *savana*
+- \[noun\], accusative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *savanopa* \< *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *yātam* \< *yā*
+- \[verb\], dual, Present imperative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *purutrā*
+- \[adverb\]
+- “distributively.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *matibhir* \< *matibhiḥ* \< *mati*
+- \[noun\], instrumental, plural, feminine
+- “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
+    desire; wish; conviction; plan; devotion.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *vām* \< *tvad*
+- \[noun\], accusative, dual
+- “you.”
+------------------------------------------------------------------------
+- *anye* \< *anya*
+- \[noun\], nominative, plural, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yaman* \< *yam*
+- \[verb\], plural, Aorist conj./subj.
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *devayantaḥ* \< *devay*
+- \[verb noun\], nominative, plural
+- “solicit.”
+------------------------------------------------------------------------

@@ -1,0 +1,89 @@
++++
+title = "Rig Veda 6.21.10"
+
++++
+-   *ima* \< *ime* \< *idam*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *puruśāka* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruśāka* \< *śāka*
+- \[noun\], vocative, singular, masculine
+- “power.”
+------------------------------------------------------------------------
+- *prayajyo* \< *prayajyu*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *jaritāro* \< *jaritāraḥ* \< *jaritṛ*
+- \[noun\], nominative, plural, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *abhy* \< *abhī* \< *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *arcanty* \< *arcanti* \< *arc*
+- \[verb\], plural, Present indikative
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *arkaiḥ* \< *arka*
+- \[noun\], instrumental, plural, masculine
+- “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
+    beam.”
+------------------------------------------------------------------------
+- *śrudhī* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *huvato* \< *huvataḥ* \< *hvā*
+- \[verb noun\], genitive, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *huvāno* \< *huvānaḥ* \< *hvā*
+- \[verb noun\], nominative, singular
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tvāvāṃ* \< *tvāvat*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *anyo* \< *anyaḥ* \< *anya*
+- \[noun\], nominative, singular, masculine
+- “other; another(a); remaining; different; anya \[word\]; other than;
+    more(a); fresh; any(a).”
+------------------------------------------------------------------------
+- *amṛta*
+- \[noun\], vocative, singular, masculine
+- “immortal; amṛta; imperishable.”
+------------------------------------------------------------------------
+- *tvad* \< *tvat* \< *tvad*
+- \[noun\], ablative, singular
+- “you.”
+------------------------------------------------------------------------
+- *asti* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
++++
+title = "Rig Veda 5.75.8"
+
++++
+-   *asmin* \< *idam*
+- \[noun\], locative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *yajñe* \< *yajña*
+- \[noun\], locative, singular, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *adābhyā* \< *adābhya*
+- \[noun\], nominative, dual, masculine
+- “trustworthy; disabused(p).”
+------------------------------------------------------------------------
+- *jaritāraṃ* \< *jaritāram* \< *jaritṛ*
+- \[noun\], accusative, singular, masculine
+- “singer.”
+------------------------------------------------------------------------
+- *śubhas* \< *śubhaḥ* \< *śubh*
+- \[noun\], genitive, singular, feminine
+------------------------------------------------------------------------
+- *patī* \< *pati*
+- \[noun\], nominative, dual, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *avasyum* \< *avasyu*
+- \[noun\], accusative, singular, masculine
+- “seeking protection; helpless.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *yuvaṃ* \< *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *gṛṇantam* \< *gṛ*
+- \[verb noun\], accusative, singular
+- “praise.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *bhūṣatho* \< *bhūṣathaḥ* \< *bhūṣ*
+- \[verb\], dual, Present indikative
+- “endeavor; attend; strive.”
+------------------------------------------------------------------------
+- *mādhvī*
+- \[noun\], vocative, dual, masculine
+- “sweet; sweet.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb\], dual, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------

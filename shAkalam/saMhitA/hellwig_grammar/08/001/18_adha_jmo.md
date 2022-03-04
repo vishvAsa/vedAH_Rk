@@ -1,0 +1,74 @@
++++
+title = "Rig Veda 8.1.18"
+
++++
+-   *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *jmo* \< *jmaḥ* \< *jm*
+- \[noun\], ablative, singular, feminine
+------------------------------------------------------------------------
+- *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], ablative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- \[noun\], ablative, singular, masculine
+- “large; great; loud; high; much(a); exalted; abundant; intensive;
+    strong; huge.”
+------------------------------------------------------------------------
+- *rocanād* \< *rocanāt* \< *rocana*
+- \[noun\], ablative, singular, neuter
+- “light; celestial sphere.”
+------------------------------------------------------------------------
+- *adhi*
+- \[adverb\]
+- “on; from; accordingly.”
+------------------------------------------------------------------------
+- *ayā* \< *idam*
+- \[noun\], instrumental, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *vardhasva* \< *vṛdh*
+- \[verb\], singular, Present imperative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *tanvā* \< *tanu*
+- \[noun\], instrumental, singular, feminine
+- “body; embodiment; life; life; root; body; form.”
+------------------------------------------------------------------------
+- *girā* \< *giri*
+- \[noun\], locative, singular, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *mamā* \< *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *jātā* \< *jāta*
+- \[noun\], accusative, plural, neuter
+- “kind; object; descendant; kin; being; reincarnation.”
+------------------------------------------------------------------------
+- *sukrato* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukrato* \< *krato* \< *kratu*
+- \[noun\], vocative, singular, masculine
+- “yajña; decision; plan; deliberation; intelligence; Kratu; will;
+    kratu \[word\]; desire; resoluteness; ritual.”
+------------------------------------------------------------------------
+- *pṛṇa* \< *pṛṇ*
+- \[verb\], singular, Present imperative
+- “satisfy.”
+------------------------------------------------------------------------

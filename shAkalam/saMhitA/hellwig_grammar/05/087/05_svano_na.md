@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 5.87.5"
+
++++
+-   *svano* \< *svanaḥ* \< *svana*
+- \[noun\], nominative, singular, masculine
+- “noise; sound; svan.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *'mavān* \< *amavān* \< *amavat*
+- \[noun\], nominative, singular, masculine
+- “impressive; strong.”
+------------------------------------------------------------------------
+- *rejayad* \< *rejayat* \< *rejay* \< *√rej*
+- \[verb\], singular, Imperfect
+- “shake.”
+------------------------------------------------------------------------
+- *vṛṣā* \< *vṛṣan*
+- \[noun\], nominative, singular, masculine
+- “bull; Indra; stallion; Vṛṣan; man.”
+------------------------------------------------------------------------
+- *tveṣo* \< *tveṣaḥ* \< *tveṣa*
+- \[noun\], nominative, singular, masculine
+- “awful; brilliant; aglitter(p); bright.”
+------------------------------------------------------------------------
+- *yayis* \< *yayiḥ* \< *yayi*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *taviṣa* \< *taviṣaḥ* \< *taviṣa*
+- \[noun\], nominative, singular, masculine
+- “strong.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *eva*
+- \[noun\]
+- “fast; rapid; agile.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *yā*
+- \[noun\]
+- “going.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *marut*
+- \[noun\], nominative, singular, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *yenā* \< *yena* \< *yad*
+- \[noun\], instrumental, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sahanta* \< *sahantaḥ* \< *sah*
+- \[verb noun\], nominative, plural
+- “endure; overcome; habituate.”
+------------------------------------------------------------------------
+- *ṛñjata* \< *ṛj*
+- \[verb\], plural, Present injunctive
+------------------------------------------------------------------------
+- *svarociṣa* \< *sva*
+- \[noun\]
+- “own(a); respective(a); akin(p); sva \[word\]; individual;
+    present(a); independent.”
+------------------------------------------------------------------------
+- *svarociṣa* \< *rociṣaḥ* \< *rocis*
+- \[noun\], nominative, plural, masculine
+- “beam.”
+------------------------------------------------------------------------
+- *sthāraśmāno* \< *sthā*
+- \[noun\]
+------------------------------------------------------------------------
+- *sthāraśmāno* \< *raśmānaḥ* \< *raśman*
+- \[noun\], nominative, plural, masculine
+- “rein.”
+------------------------------------------------------------------------
+- *hiraṇyayāḥ* \< *hiraṇyaya*
+- \[noun\], nominative, plural, masculine
+- “gold; aureate; hiraṇyaya \[word\].”
+------------------------------------------------------------------------
+- *svāyudhāsa* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *svāyudhāsa* \< *āyudhāsaḥ* \< *āyudha*
+- \[noun\], nominative, plural, masculine
+- “weapon; āyudha \[word\].”
+------------------------------------------------------------------------
+- *iṣmiṇaḥ* \< *iṣmin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------

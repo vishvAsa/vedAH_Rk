@@ -1,0 +1,93 @@
++++
+title = "Rig Veda 6.71.6"
+
++++
+-   *vāmam* \< *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+------------------------------------------------------------------------
+- *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *savitar* \< *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *vāmam* \< *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *śvo* \< *śvas*
+- \[adverb\]
+- “tomorrow.”
+------------------------------------------------------------------------
+- *dive* \< *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *dive* \< *diva*
+- \[noun\], locative, singular, neuter
+- “day; sky; Svarga.”
+------------------------------------------------------------------------
+- *vāmam* \< *vāma*
+- \[noun\], accusative, singular, neuter
+- “agreeable; vāma \[word\]; beautiful.”
+------------------------------------------------------------------------
+- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *sāvīḥ* \< *sū*
+- \[verb\], singular, Aorist inj. (proh.)
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------
+- *vāmasya* \< *vāma*
+- \[noun\], genitive, singular, masculine
+- “agreeable; vāma \[word\]; beautiful.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *kṣayasya* \< *kṣaya*
+- \[noun\], genitive, singular, masculine
+- “kṣaya; decrease; destruction; disappearance; end; decrease;
+    destruction; pulmonary tuberculosis; loss; removal; death; end;
+    abdication; boniness; solution; killing; Pralaya.”
+------------------------------------------------------------------------
+- *deva*
+- \[noun\], vocative, singular, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- \[noun\], genitive, singular, masculine
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *ayā* \< *idam*
+- \[noun\], instrumental, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *dhiyā* \< *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *vāmabhājaḥ* \< *vāma*
+- \[noun\]
+- “agreeable; vāma \[word\]; beautiful.”
+------------------------------------------------------------------------
+- *vāmabhājaḥ* \< *bhājaḥ* \< *bhāj*
+- \[noun\], nominative, plural, masculine
+- “enjoying; consisting of.”
+------------------------------------------------------------------------
+- *syāma* \< *as*
+- \[verb\], plural, Present optative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------

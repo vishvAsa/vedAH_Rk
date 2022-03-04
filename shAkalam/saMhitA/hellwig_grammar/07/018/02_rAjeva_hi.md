@@ -1,0 +1,92 @@
++++
+title = "Rig Veda 7.18.2"
+
++++
+-   *rājeva* \< *rājā* \< *rājan*
+- \[noun\], nominative, singular, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *rājeva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *janibhiḥ* \< *jani*
+- \[noun\], instrumental, plural, feminine
+- “wife; jan; woman; jani \[word\]; birth.”
+------------------------------------------------------------------------
+- *kṣeṣy* \< *kṣeṣi* \< *kṣi*
+- \[verb\], singular, Present indikative
+- “govern; inhabit; dwell; stay; predominate; bide; own.”
+------------------------------------------------------------------------
+- *evāva* \< *eva*
+- \[adverb\]
+- “indeed; merely; thus; even; surely; same; eva \[word\];
+    successively; immediately; in truth.”
+------------------------------------------------------------------------
+- *evāva* \< *ava* \< *av*
+- \[verb\], singular, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *dyubhir* \< *dyubhiḥ* \< *div*
+- \[noun\], instrumental, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *viduṣ* \< *viduḥ* \< *vidu*
+- \[noun\], nominative, singular, masculine
+- “wise.”
+------------------------------------------------------------------------
+- *kaviḥ* \< *kavi*
+- \[noun\], nominative, singular, masculine
+- “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
+    guru; Brahma.”
+------------------------------------------------------------------------
+- *san* \< *as*
+- \[verb noun\], nominative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *piśā* \< *piśa* \< *piś*
+- \[verb\], singular, Present imperative
+- “decorate.”
+------------------------------------------------------------------------
+- *giro* \< *giraḥ* \< *gir*
+- \[noun\], accusative, plural, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *gobhir* \< *gobhiḥ* \< *go*
+- \[noun\], instrumental, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *aśvais* \< *aśvaiḥ* \< *aśva*
+- \[noun\], instrumental, plural, masculine
+- “horse; aśva \[word\]; Aśva; stallion.”
+------------------------------------------------------------------------
+- *tvāyataḥ* \< *tvāyat*
+- \[noun\], accusative, plural, masculine
+------------------------------------------------------------------------
+- *śiśīhi* \< *śā*
+- \[verb\], singular, Present imperative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *rāye* \< *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *asmān* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

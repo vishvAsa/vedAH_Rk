@@ -1,0 +1,87 @@
++++
+title = "Rig Veda 7.38.2"
+
++++
+-   *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tiṣṭha* \< *sthā*
+- \[verb\], singular, Present imperative
+- “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
+    stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
+    last; dwell; lie; stand; stop.”
+------------------------------------------------------------------------
+- *savitaḥ* \< *savitar* \< *savitṛ*
+- \[noun\], vocative, singular, masculine
+- “Savitar; sun; Surya; Savitṛ.”
+------------------------------------------------------------------------
+- *śrudhy* \< *śrudhī* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *hiraṇyapāṇe* \< *hiraṇya*
+- \[noun\]
+- “aureate; gold.”
+------------------------------------------------------------------------
+- *hiraṇyapāṇe* \< *pāṇe* \< *pāṇi*
+- \[noun\], vocative, singular, masculine
+- “hand; hoof; pāṇi \[word\].”
+------------------------------------------------------------------------
+- *prabhṛtāv* \< *prabhṛtau* \< *prabhṛti*
+- \[noun\], locative, singular, feminine
+- “etc.; beginning; prabhṛti \[word\]; beginning.”
+------------------------------------------------------------------------
+- *ṛtasya* \< *ṛta*
+- \[noun\], genitive, singular, neuter
+- “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
+------------------------------------------------------------------------
+- *vy* \< *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *urvīm* \< *uru*
+- \[noun\], accusative, singular, feminine
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *pṛthvīm* \< *pṛthu*
+- \[noun\], accusative, singular, feminine
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *amatiṃ* \< *amatim* \< *amati*
+- \[noun\], accusative, singular, feminine
+- “effigy; ignorance; light; light; luster; form.”
+------------------------------------------------------------------------
+- *sṛjāna* \< *sṛjānaḥ* \< *sṛj*
+- \[verb noun\], nominative, singular
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- \[noun\], dative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *martabhojanaṃ* \< *marta*
+- \[noun\], masculine
+- “man.”
+------------------------------------------------------------------------
+- *martabhojanaṃ* \< *bhojanam* \< *bhojana*
+- \[noun\], accusative, singular, neuter
+- “food; eating; foodstuff; meal; property; sevana; enjoyment.”
+------------------------------------------------------------------------
+- *suvānaḥ* \< *sū*
+- \[verb noun\], nominative, singular
+- “give birth; urge; bestow; cause.”
+------------------------------------------------------------------------

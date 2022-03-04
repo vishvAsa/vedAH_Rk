@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 7.37.3"
+
++++
+-   *uvocitha* \< *uc*
+- \[verb\], singular, Perfect indicative
+------------------------------------------------------------------------
+- *hi*
+- \[adverb\]
+- “because; indeed; for; therefore; hi \[word\].”
+------------------------------------------------------------------------
+- *maghavan*
+- \[noun\], vocative, singular, masculine
+- “big.”
+------------------------------------------------------------------------
+- *deṣṇam* \< *deṣṇa*
+- \[noun\], accusative, singular, neuter
+- “gift; giving.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, neuter
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *arbhasya* \< *arbha*
+- \[noun\], genitive, singular, neuter
+- “few; small; unimportant.”
+------------------------------------------------------------------------
+- *vasuno* \< *vasunaḥ* \< *vasu*
+- \[noun\], genitive, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *vibhāge* \< *vibhāga*
+- \[noun\], locative, singular, masculine
+- “distinction; direction; part; placement; allotment; section; part;
+    rule; distribution; distribution.”
+------------------------------------------------------------------------
+- *ubhā* \< *ubh*
+- \[noun\], nominative, dual, masculine
+- “both(a).”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *pūrṇā* \< *pṛ*
+- \[verb noun\], nominative, dual
+- “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
+    mix; complete.”
+------------------------------------------------------------------------
+- *vasunā* \< *vasu*
+- \[noun\], instrumental, singular, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *gabhastī* \< *gabhasti*
+- \[noun\], nominative, dual, masculine
+- “beam; hand; sun.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *sūnṛtā*
+- \[noun\], nominative, singular, feminine
+- “liberality.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *yamate* \< *yam*
+- \[verb\], singular, Aorist conj./subj.
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *vasavyā* \< *vasavya*
+- \[noun\], accusative, plural, neuter
+- “wealth; wealth.”
+------------------------------------------------------------------------

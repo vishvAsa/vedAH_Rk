@@ -1,0 +1,79 @@
++++
+title = "Rig Veda 7.19.4"
+
++++
+-   *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- \[noun\], instrumental, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *nṛmaṇo* \< *nṛmaṇaḥ* \< *nṛmaṇas*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------
+- *devavītau* \< *deva*
+- \[noun\], masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *devavītau* \< *vītau* \< *vīti*
+- \[noun\], locative, singular, masculine
+------------------------------------------------------------------------
+- *bhūrīṇi* \< *bhūri*
+- \[noun\], accusative, plural, neuter
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *vṛtrā* \< *vṛtra*
+- \[noun\], accusative, plural, neuter
+- “enemy.”
+------------------------------------------------------------------------
+- *haryaśva*
+- \[noun\], vocative, singular, masculine
+- “Indra; Haryaśva.”
+------------------------------------------------------------------------
+- *haṃsi* \< *han*
+- \[verb\], singular, Present indikative
+- “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
+    paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
+    affect; strike; hammer; love; obstruct; shoot.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *dasyuṃ* \< *dasyum* \< *dasyu*
+- \[noun\], accusative, singular, masculine
+- “savage; outcast; mugger.”
+------------------------------------------------------------------------
+- *cumuriṃ* \< *cumurim* \< *cumuri*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *dhuniṃ* \< *dhunim* \< *dhuni*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *cāsvāpayo* \< *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *cāsvāpayo* \< *asvāpayaḥ* \< *svāpay* \< *√svap*
+- \[verb\], singular, Imperfect
+- “put to sleep.”
+------------------------------------------------------------------------
+- *dabhītaye* \< *dabhīti*
+- \[noun\], dative, singular, masculine
+- “Dabhīti.”
+------------------------------------------------------------------------
+- *suhantu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suhantu* \< *hantu*
+- \[noun\], accusative, singular, neuter
+- “killing.”
+------------------------------------------------------------------------

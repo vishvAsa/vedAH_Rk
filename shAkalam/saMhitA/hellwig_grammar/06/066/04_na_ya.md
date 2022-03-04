@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 6.66.4"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *ya* \< *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *īṣante* \< *īṣ*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *januṣo* \< *januṣaḥ* \< *janus*
+- \[noun\], ablative, singular, neuter
+- “birth.”
+------------------------------------------------------------------------
+- *'yā* \< *ayā* \< *idam*
+- \[noun\], instrumental, singular, feminine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *nv* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *antaḥ* \< *antar*
+- \[adverb\]
+- “inside; in; antar \[word\]; midmost; between; among.”
+------------------------------------------------------------------------
+- *santo* \< *santaḥ* \< *as*
+- \[verb noun\], nominative, plural
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *'vadyāni* \< *avadyāni* \< *avadya*
+- \[noun\], accusative, plural, neuter
+- “blameworthy; avadya \[word\].”
+------------------------------------------------------------------------
+- *punānāḥ* \< *pū*
+- \[verb noun\], nominative, plural
+- “purify; filter; blow; purify; purge; sift.”
+------------------------------------------------------------------------
+- *nir* \< *niḥ*
+- \[adverb\]
+- “niḥ; away; out; without.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *duhre* \< *duh*
+- \[verb\], plural, Present indikative
+- “milk.”
+------------------------------------------------------------------------
+- *śucayo* \< *śucayaḥ* \< *śuci*
+- \[noun\], nominative, plural, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *'nu* \< *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *joṣam* \< *joṣa*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *anu*
+- \[adverb\]
+- “subsequently; behind; along; towards; because.”
+------------------------------------------------------------------------
+- *śriyā* \< *śrī*
+- \[noun\], instrumental, singular, feminine
+- “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
+    glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
+    \[word\]; śrī; prosperity; auspiciousness.”
+------------------------------------------------------------------------
+- *tanvam* \< *tanū*
+- \[noun\], accusative, singular
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *ukṣamāṇāḥ* \< *vakṣ*
+- \[verb noun\], nominative, plural
+- “grow; grow.”
+------------------------------------------------------------------------

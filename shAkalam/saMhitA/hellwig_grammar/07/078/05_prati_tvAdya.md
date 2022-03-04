@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 7.78.5"
+
++++
+-   *prati*
+- \[adverb\]
+- “towards; per; regarding; respectively; according to; until.”
+------------------------------------------------------------------------
+- *tvādya* \< *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *tvādya* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *sumanaso* \< *sumanasaḥ* \< *sumanas*
+- \[noun\], nominative, plural, masculine
+- “benevolent; cheerful; happy; satisfied.”
+------------------------------------------------------------------------
+- *budhantāsmākāso* \< *budhanta* \< *budh*
+- \[verb\], plural, Aorist inj. (proh.)
+- “understand; notice; wake up; observe; detect; attend to; awaken;
+    attend.”
+------------------------------------------------------------------------
+- *budhantāsmākāso* \< *asmākāsaḥ* \< *asmāka*
+- \[noun\], nominative, plural, masculine
+- “our; asmāka \[word\].”
+------------------------------------------------------------------------
+- *maghavāno* \< *maghavānaḥ* \< *maghavan*
+- \[noun\], nominative, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *vayaṃ* \< *vayam* \< *mad*
+- \[noun\], nominative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *tilvilāyadhvam* \< *tilvilāy*
+- \[verb\], plural, Present imperative
+------------------------------------------------------------------------
+- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- \[noun\], vocative, plural, feminine
+- “Ushas; dawn; uṣas \[word\]; morning.”
+------------------------------------------------------------------------
+- *vibhātīr* \< *vibhātīḥ* \< *vibhā* \< *√bhā*
+- \[verb noun\], nominative, plural
+- “shine.”
+------------------------------------------------------------------------
+- *yūyam* \< *tvad*
+- \[noun\], nominative, plural
+- “you.”
+------------------------------------------------------------------------
+- *pāta* \< *pā*
+- \[verb\], plural, Present imperative
+- “protect; govern.”
+------------------------------------------------------------------------
+- *svastibhiḥ* \< *svasti*
+- \[noun\], instrumental, plural, feminine
+- “prosperity; well-being; fortune; benediction; svasti \[word\];
+    well; luck.”
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------

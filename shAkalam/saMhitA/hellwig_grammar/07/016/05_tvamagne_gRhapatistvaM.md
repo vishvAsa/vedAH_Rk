@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 7.16.5"
+
++++
+-   *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *agne* \< *agni*
+- \[noun\], vocative, singular, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *gṛhapatis* \< *gṛhapatiḥ* \< *gṛhapati*
+- \[noun\], nominative, singular, masculine
+- “gṛhapati \[word\]; Gṛhastha.”
+------------------------------------------------------------------------
+- *tvaṃ* \< *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *hotā* \< *hotṛ*
+- \[noun\], nominative, singular, masculine
+- “Hotṛ.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *adhvare* \< *adhvara*
+- \[noun\], locative, singular, masculine
+- “yajña; ceremony; adhvara \[word\].”
+------------------------------------------------------------------------
+- *tvam* \< *tvad*
+- \[noun\], nominative, singular
+- “you.”
+------------------------------------------------------------------------
+- *potā* \< *potṛ*
+- \[noun\], nominative, singular, masculine
+- “Potṛ.”
+------------------------------------------------------------------------
+- *viśvavāra* \< *viśva*
+- \[noun\]
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *viśvavāra* \< *vāra*
+- \[noun\], vocative, singular, masculine
+- “treasure; choice.”
+------------------------------------------------------------------------
+- *pracetā* \< *pracetāḥ* \< *pracetas*
+- \[noun\], nominative, singular, masculine
+- “Pracetas; Pracetas; Varuna; Shiva.”
+------------------------------------------------------------------------
+- *yakṣi* \< *yaj*
+- \[verb\], singular, Present indikative
+- “sacrifice; worship; worship.”
+------------------------------------------------------------------------
+- *veṣi* \< *vī*
+- \[verb\], singular, Present indikative
+- “approach; ask; desire; go; drive.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *vāryam* \< *vārya*
+- \[noun\], accusative, singular, neuter
+- “wealth.”
+------------------------------------------------------------------------

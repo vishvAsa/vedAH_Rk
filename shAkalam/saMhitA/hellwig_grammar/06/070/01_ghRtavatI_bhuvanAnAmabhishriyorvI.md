@@ -1,0 +1,64 @@
++++
+title = "Rig Veda 6.70.1"
+
++++
+-   *ghṛtavatī* \< *ghṛtavat*
+- \[noun\], nominative, dual, feminine
+- “buttery.”
+------------------------------------------------------------------------
+- *bhuvanānām* \< *bhuvana*
+- \[noun\], genitive, plural, neuter
+- “Earth; being; world; bhuvana \[word\].”
+------------------------------------------------------------------------
+- *abhiśriyorvī* \< *abhiśriyā* \< *abhiśrī*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *abhiśriyorvī* \< *urvī* \< *uru*
+- \[noun\], nominative, dual, feminine
+- “wide; broad; great; uru \[word\]; much(a); excellent.”
+------------------------------------------------------------------------
+- *pṛthvī* \< *pṛthu*
+- \[noun\], nominative, dual, feminine
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *madhudughe* \< *madhu*
+- \[noun\], neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *madhudughe* \< *dughe* \< *dugha*
+- \[noun\], nominative, dual, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *supeśasā* \< *supeśas*
+- \[noun\], nominative, dual, feminine
+- “beautiful; fine-looking.”
+------------------------------------------------------------------------
+- *dyāvāpṛthivī*
+- \[noun\], nominative, dual, feminine
+- “heaven and earth; dyāvāpṛthivī \[word\].”
+------------------------------------------------------------------------
+- *varuṇasya* \< *varuṇa*
+- \[noun\], genitive, singular, masculine
+- “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
+    varuṇādi.”
+------------------------------------------------------------------------
+- *dharmaṇā* \< *dharman*
+- \[noun\], instrumental, singular, neuter
+- “regulation; Dharma; law; property.”
+------------------------------------------------------------------------
+- *viṣkabhite* \< *viṣkambh* \< *√skambh*
+- \[verb noun\], nominative, dual
+- “stop; prop up; fixate.”
+------------------------------------------------------------------------
+- *ajare* \< *ajara*
+- \[noun\], nominative, dual, feminine
+- “undecaying; ageless.”
+------------------------------------------------------------------------
+- *bhūriretasā* \< *bhūri*
+- \[noun\]
+- “much; many; much(a); abundant; rich; mighty; distinguished.”
+------------------------------------------------------------------------
+- *bhūriretasā* \< *retasā* \< *retas*
+- \[noun\], nominative, dual, feminine
+- “semen; sperm.”
+------------------------------------------------------------------------

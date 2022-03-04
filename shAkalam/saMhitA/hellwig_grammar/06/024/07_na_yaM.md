@@ -1,0 +1,84 @@
++++
+title = "Rig Veda 6.24.7"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *jaranti* \< *jṛ*
+- \[verb\], plural, Present indikative
+- “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
+------------------------------------------------------------------------
+- *śarado* \< *śaradaḥ* \< *śarad*
+- \[noun\], nominative, plural, feminine
+- “fall; year; śarad \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *māsā* \< *māsāḥ* \< *māsa*
+- \[noun\], nominative, plural, masculine
+- “month; lunar month; māsa \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *dyāva* \< *dyāvaḥ* \< *div*
+- \[noun\], nominative, plural, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *avakarśayanti* \< *avakarśay* \< *√kṛś*
+- \[verb\], plural, Present indikative
+- “waste.”
+------------------------------------------------------------------------
+- *vṛddhasya* \< *vṛdh*
+- \[verb noun\], genitive, singular
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *cid* \< *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *vardhatām* \< *vṛdh*
+- \[verb\], singular, Present imperative
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *tanū*
+- \[noun\], nominative, singular, feminine
+- “body; self; own(a); person; form.”
+------------------------------------------------------------------------
+- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- \[noun\], instrumental, plural, masculine
+- “hymn; Stoma; stoma \[word\].”
+------------------------------------------------------------------------
+- *ukthaiś* \< *ukthaiḥ* \< *uktha*
+- \[noun\], instrumental, plural, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *śasyamānā* \< *śaṃs*
+- \[verb noun\], nominative, singular
+- “recommend; tell; praise; approve; communicate; recite; commend;
+    bode; name; agree.”
+------------------------------------------------------------------------

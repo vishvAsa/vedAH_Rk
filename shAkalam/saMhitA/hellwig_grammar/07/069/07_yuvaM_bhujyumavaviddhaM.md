@@ -1,0 +1,63 @@
++++
+title = "Rig Veda 7.69.7"
+
++++
+-   *yuvam* \< *tvad*
+- \[noun\], nominative, dual
+- “you.”
+------------------------------------------------------------------------
+- *bhujyum* \< *bhujyu*
+- \[noun\], accusative, singular, masculine
+- “Bhujyu.”
+------------------------------------------------------------------------
+- *avaviddhaṃ* \< *avaviddham* \< *avavyadh* \< *√vyadh*
+- \[verb noun\], accusative, singular
+- “throw.”
+------------------------------------------------------------------------
+- *samudra* \< *samudre* \< *samudra*
+- \[noun\], locative, singular, masculine
+- “ocean; Samudra; sea; samudra \[word\]; four.”
+------------------------------------------------------------------------
+- *ud*
+- \[adverb\]
+- “up.”
+------------------------------------------------------------------------
+- *ūhathur* \< *ūhathuḥ* \< *vah*
+- \[verb\], dual, Perfect indicative
+- “transport; bring; marry; run; drive; vāhay; drive; run; pull;
+    nirvāpay; blow; transport; discharge; assume; remove.”
+------------------------------------------------------------------------
+- *arṇaso* \< *arṇasaḥ* \< *arṇas*
+- \[noun\], ablative, singular, neuter
+- “body of water; water.”
+------------------------------------------------------------------------
+- *asridhānaiḥ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *asridhānaiḥ* \< *sridhānaiḥ* \< *sridh*
+- \[verb noun\], instrumental, plural
+------------------------------------------------------------------------
+- *patatribhir* \< *patatribhiḥ* \< *patatrin*
+- \[noun\], instrumental, plural, masculine
+- “flying; winged.”
+------------------------------------------------------------------------
+- *aśramair* \< *aśramaiḥ* \< *aśrama*
+- \[noun\], instrumental, plural, masculine
+------------------------------------------------------------------------
+- *avyathibhir* \< *avyathibhiḥ* \< *avyathi*
+- \[noun\], instrumental, plural, masculine
+- “surefooted.”
+------------------------------------------------------------------------
+- *daṃsanābhir* \< *daṃsanābhiḥ* \< *daṃsanā*
+- \[noun\], instrumental, plural, feminine
+- “wonder; power.”
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *pārayantā* \< *pāray* \< *√pṛ*
+- \[verb noun\], nominative, dual
+- “rescue; keep alive; satisfy; save; resist; endure.”
+------------------------------------------------------------------------

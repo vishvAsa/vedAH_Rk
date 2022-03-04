@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 7.43.1"
+
++++
+-   *pra*
+- \[adverb\]
+- “towards; ahead.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], genitive, plural
+- “you.”
+------------------------------------------------------------------------
+- *yajñeṣu* \< *yajña*
+- \[noun\], locative, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *devayanto* \< *devayantaḥ* \< *devay*
+- \[verb noun\], nominative, plural
+- “solicit.”
+------------------------------------------------------------------------
+- *arcan* \< *arc*
+- \[verb\], plural, Present injunctive
+- “sing; worship; honor; praise; welcome.”
+------------------------------------------------------------------------
+- *dyāvā* \< *div*
+- \[noun\], accusative, dual, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *namobhiḥ* \< *namas*
+- \[noun\], instrumental, plural, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *pṛthivī*
+- \[noun\], accusative, dual, feminine
+- “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
+------------------------------------------------------------------------
+- *iṣadhyai* \< *iṣ*
+- \[verb noun\]
+- “send.”
+------------------------------------------------------------------------
+- *yeṣām* \< *yad*
+- \[noun\], genitive, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *brahmāṇy* \< *brahmāṇi* \< *brahman*
+- \[noun\], nominative, plural, neuter
+- “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
+    emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
+------------------------------------------------------------------------
+- *asamāni* \< *asama*
+- \[noun\], nominative, plural, neuter
+- “incomparable; unlike.”
+------------------------------------------------------------------------
+- *viprā* \< *vipra*
+- \[noun\], nominative, plural, neuter
+- “eloquent; stimulated; divine.”
+------------------------------------------------------------------------
+- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- \[noun\], accusative, singular, neuter
+- “dispersed; viṣvañc \[word\].”
+------------------------------------------------------------------------
+- *viyanti* \< *vī* \< *√i*
+- \[verb\], plural, Present indikative
+- “disappear; differ; elapse.”
+------------------------------------------------------------------------
+- *vanino* \< *vaninaḥ* \< *vanin*
+- \[noun\], genitive, singular, masculine
+- “tree.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *śākhāḥ* \< *śākhā*
+- \[noun\], nominative, plural, feminine
+- “branch; limb; school; extremity; śākhā \[word\]; bough; branchlet;
+    finger.”
+------------------------------------------------------------------------

@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 6.51.4"
+
++++
+-   *riśādasaḥ* \< *riśādas*
+- \[noun\], accusative, plural, masculine
+- “superior; superior; proud.”
+------------------------------------------------------------------------
+- *satpatīṃr* \< *sat*
+- \[noun\]
+- “good; good; real; existent; virtuous; sat \[prefix\]; real.”
+------------------------------------------------------------------------
+- *satpatīṃr* \< *patīn* \< *pati*
+- \[noun\], accusative, plural, masculine
+- “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
+    commanding officer; leader; owner; mayor; lord.”
+------------------------------------------------------------------------
+- *adabdhān* \< *adabdha*
+- \[noun\], accusative, plural, masculine
+- “unfailing; unimpaired.”
+------------------------------------------------------------------------
+- *maho* \< *mahaḥ* \< *mah*
+- \[noun\], accusative, plural, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *rājñaḥ* \< *rājan*
+- \[noun\], accusative, plural, masculine
+- “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
+------------------------------------------------------------------------
+- *suvasanasya* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suvasanasya* \< *vasanasya* \< *vasana*
+- \[noun\], genitive, singular, neuter
+------------------------------------------------------------------------
+- *dātṝn* \< *dātṛ*
+- \[noun\], accusative, plural, masculine
+- “giving; big.”
+------------------------------------------------------------------------
+- *yūnaḥ* \< *yuvan*
+- \[noun\], accusative, plural, masculine
+- “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
+    buck; young.”
+------------------------------------------------------------------------
+- *sukṣatrān* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sukṣatrān* \< *kṣatrān* \< *kṣatra*
+- \[noun\], accusative, plural, masculine
+- “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
+------------------------------------------------------------------------
+- *kṣayato* \< *kṣayataḥ* \< *kṣi*
+- \[verb noun\], accusative, plural
+- “govern; inhabit; dwell; stay; predominate; bide; own.”
+------------------------------------------------------------------------
+- *divo* \< *divaḥ* \< *div*
+- \[noun\], genitive, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *nṝn* \< *nṛ*
+- \[noun\], accusative, plural, masculine
+- “man; man; nṛ \[word\]; crew; masculine.”
+------------------------------------------------------------------------
+- *ādityān* \< *āditya*
+- \[noun\], accusative, plural, masculine
+- “sun; Aditya; Surya; āditya \[word\].”
+------------------------------------------------------------------------
+- *yāmy* \< *yāmi* \< *yā*
+- \[verb\], singular, Present indikative
+- “go; enter (a state); travel; disappear; reach; come; campaign;
+    elapse; arrive; drive; reach; leave; run; depart; ride.”
+------------------------------------------------------------------------
+- *aditiṃ* \< *aditim* \< *aditi*
+- \[noun\], accusative, singular, feminine
+- “Aditi; aditi \[word\].”
+------------------------------------------------------------------------
+- *duvoyu*
+- \[noun\], accusative, singular, neuter
+------------------------------------------------------------------------

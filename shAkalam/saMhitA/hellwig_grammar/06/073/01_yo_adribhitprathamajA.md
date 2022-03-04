@@ -1,0 +1,71 @@
++++
+title = "Rig Veda 6.73.1"
+
++++
+-   *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *adribhit* \< *adri*
+- \[noun\], masculine
+- “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
+------------------------------------------------------------------------
+- *adribhit* \< *bhid*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *prathamajā* \< *prathama*
+- \[noun\]
+- “first; prathama \[word\]; third; young; chief(a); best;
+    antecedent.”
+------------------------------------------------------------------------
+- *prathamajā* \< *jāḥ* \< *jā*
+- \[noun\], nominative, singular, masculine
+- “born.”
+------------------------------------------------------------------------
+- *ṛtāvā* \< *ṛtāvan*
+- \[noun\], nominative, singular, masculine
+- “law-abiding; faithful; righteous.”
+------------------------------------------------------------------------
+- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- \[noun\], nominative, singular, masculine
+- “Brihaspati; Jupiter; Bṛhaspati.”
+------------------------------------------------------------------------
+- *āṅgiraso* \< *āṅgirasaḥ* \< *āṅgirasa*
+- \[noun\], nominative, singular, masculine
+- “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
+------------------------------------------------------------------------
+- *haviṣmān* \< *haviṣmat*
+- \[noun\], nominative, singular, masculine
+- “sacrificing.”
+------------------------------------------------------------------------
+- *dvibarhajmā* \< *dvibarhajman*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *prāgharmasat* \< *prāgharmasad*
+- \[noun\], nominative, singular, masculine
+------------------------------------------------------------------------
+- *pitā* \< *pitṛ*
+- \[noun\], nominative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rodasī* \< *rodas*
+- \[noun\], accusative, dual, neuter
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- \[noun\], nominative, singular, masculine
+- “bull; Vṛṣabha; Vṛṣabha; best.”
+------------------------------------------------------------------------
+- *roravīti* \< *roro* \< *√ru*
+- \[verb\], singular, Present indikative
+- “bellow.”
+------------------------------------------------------------------------

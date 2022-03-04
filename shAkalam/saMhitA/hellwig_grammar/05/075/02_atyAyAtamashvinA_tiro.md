@@ -1,0 +1,66 @@
++++
+title = "Rig Veda 5.75.2"
+
++++
+-   *atyāyātam* \< *atyāyā* \< *√yā*
+- \[verb\], dual, Present imperative
+------------------------------------------------------------------------
+- *aśvinā* \< *aśvin*
+- \[noun\], vocative, dual, masculine
+- “Asvins; two.”
+------------------------------------------------------------------------
+- *tiro* \< *tiras*
+- \[adverb\]
+- “tiras \[word\]; away; secretly.”
+------------------------------------------------------------------------
+- *viśvā* \< *viśvāḥ* \< *viśva*
+- \[noun\], accusative, plural, feminine
+- “all(a); whole; complete; each(a); viśva \[word\]; completely;
+    wholly.”
+------------------------------------------------------------------------
+- *ahaṃ* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *sanā* \< *\_* \< *√\_*
+- \[?\]
+- “\_”
+------------------------------------------------------------------------
+- *dasrā* \< *dasra*
+- \[noun\], vocative, dual, masculine
+- “Asvins.”
+------------------------------------------------------------------------
+- *hiraṇyavartanī* \< *hiraṇya*
+- \[noun\]
+- “aureate; gold.”
+------------------------------------------------------------------------
+- *hiraṇyavartanī* \< *vartanī* \< *vartani*
+- \[noun\], vocative, dual, masculine
+- “path; East; way.”
+------------------------------------------------------------------------
+- *suṣumnā* \< *suṣumna*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *sindhuvāhasā* \< *sindhu*
+- \[noun\], masculine
+- “river; Indus; sindhu \[word\].”
+------------------------------------------------------------------------
+- *sindhuvāhasā* \< *vāhasā* \< *vāhas*
+- \[noun\], vocative, dual, masculine
+------------------------------------------------------------------------
+- *mādhvī*
+- \[noun\], vocative, dual, masculine
+- “sweet; sweet.”
+------------------------------------------------------------------------
+- *mama* \< *mad*
+- \[noun\], genitive, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *śrutaṃ* \< *śrutam* \< *śru*
+- \[verb\], dual, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *havam* \< *hava*
+- \[noun\], accusative, singular, masculine
+- “invocation.”
+------------------------------------------------------------------------

@@ -1,0 +1,73 @@
++++
+title = "Rig Veda 7.104.20"
+
++++
+-   *eta* \< *ete* \< *etad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); etad \[word\].”
+------------------------------------------------------------------------
+- *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *tye* \< *tya*
+- \[noun\], nominative, plural, masculine
+- “that.”
+------------------------------------------------------------------------
+- *patayanti* \< *patay* \< *√pat*
+- \[verb\], plural, Present indikative
+- “fly.”
+------------------------------------------------------------------------
+- *śvayātava* \< *śvayātavaḥ* \< *śvayātu*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dipsanti* \< *dips* \< *√dabh*
+- \[verb\], plural, Present indikative
+------------------------------------------------------------------------
+- *dipsavo* \< *dipsavaḥ* \< *dipsu*
+- \[noun\], nominative, plural, masculine
+- “noxious; hurtful; baleful.”
+------------------------------------------------------------------------
+- *'dābhyam* \< *adābhyam* \< *adābhya*
+- \[noun\], accusative, singular, masculine
+- “trustworthy; disabused(p).”
+------------------------------------------------------------------------
+- *śiśīte* \< *śā*
+- \[verb\], singular, Present indikative
+- “sharpen; whet; strengthen.”
+------------------------------------------------------------------------
+- *śakraḥ* \< *śakra*
+- \[noun\], nominative, singular, masculine
+- “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
+------------------------------------------------------------------------
+- *piśunebhyo* \< *piśunebhyaḥ* \< *piśuna*
+- \[noun\], dative, plural, masculine
+- “calumniatory.”
+------------------------------------------------------------------------
+- *vadhaṃ* \< *vadham* \< *vadha*
+- \[noun\], accusative, singular, masculine
+- “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
+    dysfunction; punishment; kick.”
+------------------------------------------------------------------------
+- *nūnaṃ* \< *nūnam*
+- \[adverb\]
+- “now; surely; immediately; just.”
+------------------------------------------------------------------------
+- *sṛjad* \< *sṛjat* \< *sṛj*
+- \[verb\], singular, Present injunctive
+- “create; shoot; discharge; free; cause; throw; emit; send; produce;
+    use; be born; make.”
+------------------------------------------------------------------------
+- *aśaniṃ* \< *aśanim* \< *aśani*
+- \[noun\], accusative, singular, masculine
+- “lightning; Vajra; vajra; thunderbolt.”
+------------------------------------------------------------------------
+- *yātumadbhyaḥ* \< *yātumat*
+- \[noun\], dative, plural, masculine
+- “charming.”
+------------------------------------------------------------------------

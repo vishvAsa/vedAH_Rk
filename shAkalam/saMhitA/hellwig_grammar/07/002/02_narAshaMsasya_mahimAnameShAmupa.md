@@ -1,0 +1,65 @@
++++
+title = "Rig Veda 7.2.2"
+
++++
+-   *narāśaṃsasya* \< *narāśaṃsa*
+- \[noun\], genitive, singular, masculine
+- “Agni.”
+------------------------------------------------------------------------
+- *mahimānam* \< *mahiman*
+- \[noun\], accusative, singular, masculine
+- “greatness; power; mahiman.”
+------------------------------------------------------------------------
+- *eṣām* \< *idam*
+- \[noun\], genitive, plural, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *stoṣāma* \< *stu*
+- \[verb\], plural, Aorist conj./subj.
+- “laud; praise; declare; stu.”
+------------------------------------------------------------------------
+- *yajatasya* \< *yajata*
+- \[noun\], genitive, singular, masculine
+- “holy; august; sacrificial.”
+------------------------------------------------------------------------
+- *yajñaiḥ* \< *yajña*
+- \[noun\], instrumental, plural, masculine
+- “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
+------------------------------------------------------------------------
+- *ye* \< *yad*
+- \[noun\], nominative, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *sukratavaḥ* \< *sukratu*
+- \[noun\], nominative, plural, masculine
+- “wise.”
+------------------------------------------------------------------------
+- *śucayo* \< *śucayaḥ* \< *śuci*
+- \[noun\], nominative, plural, masculine
+- “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
+    impeccant.”
+------------------------------------------------------------------------
+- *dhiyandhāḥ* \< *dhiyaṃdhā*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *svadanti* \< *svad*
+- \[verb\], plural, Present indikative
+- “sweeten.”
+------------------------------------------------------------------------
+- *devā* \< *devāḥ* \< *deva*
+- \[noun\], nominative, plural, masculine
+- “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
+    Viśvedevās; mercury; natural phenomenon; gambling.”
+------------------------------------------------------------------------
+- *ubhayāni* \< *ubhaya*
+- \[noun\], accusative, plural, neuter
+- “both(a).”
+------------------------------------------------------------------------
+- *havyā* \< *havya*
+- \[noun\], accusative, plural, neuter
+- “Havya; offering; havya \[word\].”
+------------------------------------------------------------------------

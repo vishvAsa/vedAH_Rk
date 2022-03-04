@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 7.34.22"
+
++++
+-   *tā* \< *tad*
+- \[noun\], accusative, plural, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *rāsan* \< *rā*
+- \[verb\], plural, Aorist conj./subj.
+- “give; impart.”
+------------------------------------------------------------------------
+- *rātiṣāco* \< *rātiṣācaḥ* \< *rātiṣāc*
+- \[noun\], nominative, plural, feminine
+------------------------------------------------------------------------
+- *vasūny* \< *vasūni* \< *vasu*
+- \[noun\], accusative, plural, neuter
+- “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *rodasī*
+- \[noun\], nominative, singular, feminine
+- “heaven and earth; Earth.”
+------------------------------------------------------------------------
+- *varuṇānī*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *śṛṇotu* \< *śru*
+- \[verb\], singular, Present imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------
+- *varūtrībhiḥ* \< *varūtṛ*
+- \[noun\], instrumental, plural, feminine
+- “varūtṛ \[word\].”
+------------------------------------------------------------------------
+- *suśaraṇo* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suśaraṇo* \< *śaraṇaḥ* \< *śaraṇa*
+- \[noun\], nominative, singular, masculine
+- “refuge; safety; shelter; house; protection.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *astu* \< *as*
+- \[verb\], singular, Present imperative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *tvaṣṭā* \< *tvaṣṭṛ*
+- \[noun\], nominative, singular, masculine
+- “Tvaṣṭṛ; Viśvakarman; sun.”
+------------------------------------------------------------------------
+- *sudatro* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudatro* \< *datraḥ* \< *dattra*
+- \[noun\], nominative, singular, masculine
+- “gift.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *dadhātu* \< *dhā*
+- \[verb\], singular, Present imperative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *rāyaḥ* \< *rai*
+- \[noun\], accusative, plural, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------

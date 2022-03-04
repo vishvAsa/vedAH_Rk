@@ -1,0 +1,77 @@
++++
+title = "Rig Veda 5.62.7"
+
++++
+-   *hiraṇyanirṇig* \< *hiraṇya*
+- \[noun\], neuter
+- “gold; jewelry; hiraṇya \[word\]; gold.”
+------------------------------------------------------------------------
+- *hiraṇyanirṇig* \< *nirṇij*
+- \[noun\], nominative, singular, feminine
+- “attire; garment.”
+------------------------------------------------------------------------
+- *ayo* \< *ayaḥ* \< *ayas*
+- \[noun\], nominative, singular, neuter
+- “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
+    weapon.”
+------------------------------------------------------------------------
+- *asya* \< *idam*
+- \[noun\], genitive, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *sthūṇā*
+- \[noun\], nominative, singular, feminine
+- “column; post.”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *bhrājate* \< *bhrāj*
+- \[verb\], singular, Present indikative
+- “shine; glitter; look.”
+------------------------------------------------------------------------
+- *divy* \< *divi* \< *div*
+- \[noun\], locative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *aśvājanīva* \< *aśvājanī*
+- \[noun\], nominative, singular, feminine
+- “whip.”
+------------------------------------------------------------------------
+- *aśvājanīva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *bhadre* \< *bhadra*
+- \[noun\], locative, singular, neuter
+- “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
+    fine-looking; beautiful.”
+------------------------------------------------------------------------
+- *kṣetre* \< *kṣetra*
+- \[noun\], locative, singular, neuter
+- “field; location; habitat; country; area; earth; region; estate;
+    body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
+------------------------------------------------------------------------
+- *nimitā* \< *nimā* \< *√mā*
+- \[verb noun\], nominative, singular
+- “adjust.”
+------------------------------------------------------------------------
+- *tilvile* \< *tilvila*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *sanema* \< *san*
+- \[verb\], plural, Aorist optative
+- “win; get; gain.”
+------------------------------------------------------------------------
+- *madhvo* \< *madhvaḥ* \< *madhu*
+- \[noun\], genitive, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *adhigartyasya* \< *adhigartya*
+- \[noun\], genitive, singular, neuter
+------------------------------------------------------------------------

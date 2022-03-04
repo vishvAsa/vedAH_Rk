@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 6.24.4"
+
++++
+-   *śacīvatas* \< *śacīvataḥ* \< *śacīvat*
+- \[noun\], genitive, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------
+- *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *puruśāka* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruśāka* \< *śāka*
+- \[noun\], vocative, singular, masculine
+- “power.”
+------------------------------------------------------------------------
+- *śākā* \< *śākāḥ* \< *śāka*
+- \[noun\], nominative, plural, masculine
+- “power.”
+------------------------------------------------------------------------
+- *gavām* \< *go*
+- \[noun\], genitive, plural, masculine
+- “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
+    leather; hide; horn; language; bowstring; earth; ox; Svarga.”
+------------------------------------------------------------------------
+- *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *srutayaḥ* \< *sruti*
+- \[noun\], nominative, plural, feminine
+- “discharge; path; road; stream.”
+------------------------------------------------------------------------
+- *saṃcaraṇīḥ* \< *saṃcaraṇa*
+- \[noun\], nominative, plural, feminine
+- “accessible.”
+------------------------------------------------------------------------
+- *vatsānāṃ* \< *vatsānām* \< *vatsa*
+- \[noun\], genitive, plural, masculine
+- “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
+    son; male child.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *tantayas* \< *tantayaḥ* \< *tanti*
+- \[noun\], nominative, plural, feminine
+- “tanti \[word\].”
+------------------------------------------------------------------------
+- *ta* \< *te* \< *tvad*
+- \[noun\], genitive, singular
+- “you.”
+------------------------------------------------------------------------
+- *indra*
+- \[noun\], vocative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *dāmanvanto* \< *dāmanvantaḥ* \< *dāmanvat*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *adāmānaḥ* \< *a*
+- \[adverb\]
+- “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
+------------------------------------------------------------------------
+- *adāmānaḥ* \< *dāmānaḥ* \< *dāman*
+- \[noun\], nominative, plural, masculine
+- “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
+------------------------------------------------------------------------
+- *sudāman* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudāman* \< *dāman*
+- \[noun\], vocative, singular, masculine
+------------------------------------------------------------------------

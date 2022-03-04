@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 7.32.1"
+
++++
+-   *mo* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *mo* \< *u*
+- \[adverb\]
+- “ukāra; besides; now; indeed; u.”
+------------------------------------------------------------------------
+- *ṣu* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *vāghataś* \< *vāghataḥ* \< *vāghant*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *canāre* \< *cana*
+- \[adverb\]
+- “not even; cana \[word\].”
+------------------------------------------------------------------------
+- *canāre* \< *āre*
+- \[adverb\]
+- “far.”
+------------------------------------------------------------------------
+- *asman* \< *asmat* \< *mad*
+- \[noun\], ablative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ni*
+- \[adverb\]
+- “back; down.”
+------------------------------------------------------------------------
+- *rīraman* \< *ram*
+- \[verb\], plural, Aorist inj. (proh.)
+- “delight; rejoice; love; frolic; desire; give; calm; break.”
+------------------------------------------------------------------------
+- *ārāttāc* \< *ārāttāt*
+- \[adverb\]
+------------------------------------------------------------------------
+- *cit*
+- \[adverb\]
+- “even; indeed.”
+------------------------------------------------------------------------
+- *sadhamādaṃ* \< *sadhamādam* \< *sadhamāda*
+- \[noun\], accusative, singular, masculine
+- “banquet; party; drink.”
+------------------------------------------------------------------------
+- *na* \< *naḥ* \< *mad*
+- \[noun\], genitive, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *gahīha* \< *gahi* \< *gam*
+- \[verb\], singular, Aorist imperative
+- “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
+    leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
+    get; come; die; drain; spread; transform; happen; discharge; ride;
+    to be located; run; detect; refer; go; shall; drive.”
+------------------------------------------------------------------------
+- *gahīha* \< *iha*
+- \[adverb\]
+- “here; now; in this world; now; below; there; here; just.”
+------------------------------------------------------------------------
+- *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *sann* \< *san* \< *as*
+- \[verb noun\], nominative, singular
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *upa*
+- \[adverb\]
+- “towards; on; next.”
+------------------------------------------------------------------------
+- *śrudhi* \< *śru*
+- \[verb\], singular, Aorist imperative
+- “listen; come to know; hear; hear; listen; study; heed; learn.”
+------------------------------------------------------------------------

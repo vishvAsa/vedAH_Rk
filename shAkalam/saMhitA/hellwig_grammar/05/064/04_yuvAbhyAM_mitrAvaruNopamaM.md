@@ -1,0 +1,53 @@
++++
+title = "Rig Veda 5.64.4"
+
++++
+-   *yuvābhyām* \< *tvad*
+- \[noun\], dative, dual
+- “you.”
+------------------------------------------------------------------------
+- *mitrāvaruṇopamaṃ* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- \[noun\], vocative, dual, masculine
+- “Varuna; Mitra.”
+------------------------------------------------------------------------
+- *mitrāvaruṇopamaṃ* \< *upamam* \< *upama*
+- \[noun\], accusative, singular, neuter
+- “like; alike(p); colored; similar; like; comparable; equal.”
+------------------------------------------------------------------------
+- *dheyām* \< *dhā*
+- \[verb\], singular, Aorist optative
+- “put; give; cause; get; hold; make; provide; lend; wear; install;
+    have; enter (a state); supply; hold; take; show.”
+------------------------------------------------------------------------
+- *ṛcā* \< *ṛc*
+- \[noun\], instrumental, singular, feminine
+- “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
+------------------------------------------------------------------------
+- *yaddha* \< *yat* \< *yad*
+- \[noun\], nominative, singular, neuter
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *yaddha* \< *ha*
+- \[adverb\]
+- “indeed; ha \[word\].”
+------------------------------------------------------------------------
+- *kṣaye* \< *kṣaya*
+- \[noun\], locative, singular, masculine
+- “dwelling; house; kṣaya \[word\]; home; family.”
+------------------------------------------------------------------------
+- *maghonāṃ* \< *maghonām* \< *maghavan*
+- \[noun\], genitive, plural, masculine
+- “big.”
+------------------------------------------------------------------------
+- *stotṝṇāṃ* \< *stotṝṇām* \< *stotṛ*
+- \[noun\], genitive, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *ca*
+- \[adverb\]
+- “and; besides; then; now; even.”
+------------------------------------------------------------------------
+- *spūrdhase* \< *spṛdh*
+- \[verb noun\]
+- “rival.”
+------------------------------------------------------------------------

@@ -1,0 +1,81 @@
++++
+title = "Rig Veda 7.16.8"
+
++++
+-   *yeṣām* \< *yad*
+- \[noun\], genitive, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *iﾱā* \< *iḍā*
+- \[noun\], nominative, singular, feminine
+- “refreshment; iḍā \[word\]; comfort; cow.”
+------------------------------------------------------------------------
+- *ghṛtahastā* \< *ghṛta*
+- \[noun\], neuter
+- “ghee; fat.”
+------------------------------------------------------------------------
+- *ghṛtahastā* \< *hastā* \< *hasta*
+- \[noun\], nominative, singular, feminine
+- “hand; hand; proboscis; hasta \[word\]; autograph.”
+------------------------------------------------------------------------
+- *duroṇa* \< *duroṇe* \< *duroṇa*
+- \[noun\], locative, singular, neuter
+- “home; dwelling.”
+------------------------------------------------------------------------
+- *āṃ* \< *ām* \< *āṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *api*
+- \[adverb\]
+- “besides; even; surely; though; furthermore; among; contrastingly;
+    assuredly.”
+------------------------------------------------------------------------
+- *prātā* \< *prāti*
+- \[noun\], locative, singular, feminine
+------------------------------------------------------------------------
+- *niṣīdati* \< *niṣad* \< *√sad*
+- \[verb\], singular, Present indikative
+- “sit down; sit; put.”
+------------------------------------------------------------------------
+- *tāṃs* \< *tān* \< *tad*
+- \[noun\], accusative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *trāyasva* \< *trā*
+- \[verb\], singular, Present imperative
+- “protect; help.”
+------------------------------------------------------------------------
+- *sahasya*
+- \[noun\], vocative, singular, masculine
+- “mighty.”
+------------------------------------------------------------------------
+- *druho* \< *druhaḥ* \< *druh*
+- \[noun\], ablative, singular, feminine
+- “deception; druh; misrepresentation; fraudulence; offense; injury.”
+------------------------------------------------------------------------
+- *nido* \< *nidaḥ* \< *nid*
+- \[noun\], ablative, singular, feminine
+- “derision; scoffer; contempt.”
+------------------------------------------------------------------------
+- *yacchā* \< *yaccha* \< *yam*
+- \[verb\], singular, Present imperative
+- “concentrate; grant; restrain; cause; control; offer; cover; raise.”
+------------------------------------------------------------------------
+- *naḥ* \< *mad*
+- \[noun\], dative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *śarma* \< *śarman*
+- \[noun\], accusative, singular, neuter
+- “protection; protective covering; refuge; joy.”
+------------------------------------------------------------------------
+- *dīrghaśrut* \< *dīrgha*
+- \[noun\]
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+------------------------------------------------------------------------
+- *dīrghaśrut* \< *śrut*
+- \[noun\], accusative, singular, neuter
+- “listening.”
+------------------------------------------------------------------------

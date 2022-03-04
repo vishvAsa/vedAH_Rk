@@ -1,0 +1,76 @@
++++
+title = "Rig Veda 7.2.6"
+
++++
+-   *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *yoṣaṇe* \< *yoṣaṇā*
+- \[noun\], nominative, dual, feminine
+- “girl; wife.”
+------------------------------------------------------------------------
+- *divye* \< *divya*
+- \[noun\], nominative, dual, feminine
+- “divine; celestial; divine; heavenly; divine; beautiful; rain;
+    agreeable.”
+------------------------------------------------------------------------
+- *mahī* \< *mahi*
+- \[noun\], nominative, dual, feminine
+- “great; firm.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *uṣāsānaktā*
+- \[noun\], nominative, singular, feminine
+- “dawn; night.”
+------------------------------------------------------------------------
+- *sudugheva* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sudugheva* \< *dughā* \< *dugha*
+- \[noun\], nominative, singular, feminine
+- “yielding.”
+------------------------------------------------------------------------
+- *sudugheva* \< *iva*
+- \[adverb\]
+- “like; as it were; somehow; just so.”
+------------------------------------------------------------------------
+- *dhenuḥ* \< *dhenu*
+- \[noun\], nominative, singular, feminine
+- “cow; dhenu \[word\]; milk.”
+------------------------------------------------------------------------
+- *barhiṣadā* \< *barhiṣad*
+- \[noun\], nominative, dual, feminine
+------------------------------------------------------------------------
+- *puruhūte* \< *puru*
+- \[noun\]
+- “many; much(a); very.”
+------------------------------------------------------------------------
+- *puruhūte* \< *hūte* \< *hvā*
+- \[verb noun\], nominative, dual
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------
+- *maghonī* \< *maghavan*
+- \[noun\], nominative, dual, feminine
+- “big.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *yajñiye* \< *yajñiya*
+- \[noun\], nominative, dual, feminine
+- “sacrificial; divine; devoted.”
+------------------------------------------------------------------------
+- *suvitāya* \< *suvita*
+- \[noun\], dative, singular, neuter
+- “prosperity; well-being.”
+------------------------------------------------------------------------
+- *śrayetām* \< *śri*
+- \[verb\], dual, Present optative
+- “situate; dwell; go; lurk; reach; rear; repose; cling to.”
+------------------------------------------------------------------------

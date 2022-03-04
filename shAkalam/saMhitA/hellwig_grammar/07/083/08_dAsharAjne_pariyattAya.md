@@ -1,0 +1,57 @@
++++
+title = "Rig Veda 7.83.8"
+
++++
+-   *dāśarājñe* \< *dāśarājña*
+- \[noun\], locative, singular, neuter
+------------------------------------------------------------------------
+- *pariyattāya* \< *pariyat* \< *√yat*
+- \[verb noun\], dative, singular
+------------------------------------------------------------------------
+- *viśvataḥ* \< *viśvatas*
+- \[adverb\]
+- “everywhere; around; about.”
+------------------------------------------------------------------------
+- *sudāsa* \< *sudāse* \< *sudās*
+- \[noun\], dative, singular, masculine
+- “Sudās.”
+------------------------------------------------------------------------
+- *indrāvaruṇāv* \< *indrāvaruṇau* \< *indrāvaruṇa*
+- \[noun\], nominative, dual, masculine
+- “Varuna; Indra.”
+------------------------------------------------------------------------
+- *aśikṣatam* \< *śikṣ*
+- \[verb\], dual, Imperfect
+- “help; give.”
+------------------------------------------------------------------------
+- *śvityañco* \< *śvityañcaḥ* \< *śvityañc*
+- \[noun\], nominative, plural, masculine
+- “white.”
+------------------------------------------------------------------------
+- *yatra*
+- \[adverb\]
+- “wherein; once \[when\].”
+------------------------------------------------------------------------
+- *namasā* \< *namas*
+- \[noun\], instrumental, singular, neuter
+- “adoration; court; namas \[word\]; bow; salute.”
+------------------------------------------------------------------------
+- *kapardino* \< *kapardinaḥ* \< *kapardin*
+- \[noun\], nominative, plural, masculine
+------------------------------------------------------------------------
+- *dhiyā* \< *dhī*
+- \[noun\], instrumental, singular, feminine
+- “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
+    knowledge.”
+------------------------------------------------------------------------
+- *dhīvanto* \< *dhīvantaḥ* \< *dhīvat*
+- \[noun\], nominative, plural, masculine
+- “religious.”
+------------------------------------------------------------------------
+- *asapanta* \< *sap*
+- \[verb\], plural, Imperfect
+------------------------------------------------------------------------
+- *tṛtsavaḥ* \< *tṛtsu*
+- \[noun\], nominative, plural, masculine
+- “Tṛtsu.”
+------------------------------------------------------------------------

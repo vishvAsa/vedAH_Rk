@@ -1,0 +1,90 @@
++++
+title = "Rig Veda 6.34.3"
+
++++
+-   *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yaṃ* \< *yam* \< *yad*
+- \[noun\], accusative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *hiṃsanti* \< *hiṃs*
+- \[verb\], plural, Present indikative
+- “injure; kill; remove; harm; cure; damage.”
+------------------------------------------------------------------------
+- *dhītayo* \< *dhītayaḥ* \< *dhīti*
+- \[noun\], nominative, plural, feminine
+- “thinking; prayer; understanding.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vāṇīr* \< *vāṇīḥ* \< *vāṇī*
+- \[noun\], nominative, plural, feminine
+- “voice; Sarasvati; words; language.”
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *nakṣantīd* \< *nakṣanti* \< *nakṣ*
+- \[verb\], plural, Present indikative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *nakṣantīd* \< *id*
+- \[adverb\]
+- “indeed; assuredly; entirely.”
+------------------------------------------------------------------------
+- *abhi*
+- \[adverb\]
+- “towards; on.”
+------------------------------------------------------------------------
+- *vardhayantīḥ* \< *vardhay* \< *√vṛdh*
+- \[verb noun\], nominative, plural
+- “increase; strengthen; promote; rear; add; greet; laud.”
+------------------------------------------------------------------------
+- *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *stotāraḥ* \< *stotṛ*
+- \[noun\], nominative, plural, masculine
+- “laudatory; worshiping.”
+------------------------------------------------------------------------
+- *śataṃ* \< *śatam* \< *śata*
+- \[noun\], nominative, singular, neuter
+- “hundred; one-hundredth; śata \[word\].”
+------------------------------------------------------------------------
+- *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *sahasraṃ* \< *sahasram* \< *sahasra*
+- \[noun\], nominative, singular, neuter
+- “thousand; one-thousandth; sahasra \[word\].”
+------------------------------------------------------------------------
+- *gṛṇanti* \< *gṛ*
+- \[verb\], plural, Present indikative
+- “praise.”
+------------------------------------------------------------------------
+- *girvaṇasaṃ* \< *girvaṇasam* \< *girvaṇas*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *śaṃ* \< *śam*
+- \[adverb\]
+- “śam \[word\].”
+------------------------------------------------------------------------
+- *tad* \< *tat* \< *tad*
+- \[noun\], nominative, singular, neuter
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *asmai* \< *idam*
+- \[noun\], dative, singular, masculine
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------

@@ -1,0 +1,78 @@
++++
+title = "Rig Veda 5.41.11"
+
++++
+-   *kathā*
+- \[adverb\]
+- “how.”
+------------------------------------------------------------------------
+- *mahe* \< *mah*
+- \[noun\], dative, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *rudriyāya* \< *rudriya*
+- \[noun\], dative, singular, masculine
+- “Marut.”
+------------------------------------------------------------------------
+- *bravāma* \< *brū*
+- \[verb\], plural, Present conjunctive (subjunctive)
+- “say; tell; describe; speak; state; answer; call; explain; address;
+    proclaim; talk; talk; choose.”
+------------------------------------------------------------------------
+- *kad* \< *ka*
+- \[noun\], accusative, singular, neuter
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *rāye* \< *rai*
+- \[noun\], dative, singular, masculine
+- “wealth; possession; rai \[word\]; gold.”
+------------------------------------------------------------------------
+- *cikituṣe* \< *cit*
+- \[verb noun\], dative, singular
+- “notice; observe; attend to; intend.”
+------------------------------------------------------------------------
+- *bhagāya* \< *bhaga*
+- \[noun\], dative, singular, masculine
+- “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
+    well-being; happiness; overlord.”
+------------------------------------------------------------------------
+- *āpa* \< *āpaḥ* \< *ap*
+- \[noun\], nominative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhī*
+- \[noun\], nominative, plural, feminine
+- “herb; plant; drug; herb.”
+------------------------------------------------------------------------
+- *uta*
+- \[adverb\]
+- “and; besides; uta \[indecl.\]; similarly; alike; even.”
+------------------------------------------------------------------------
+- *no* \< *naḥ* \< *mad*
+- \[noun\], accusative, plural
+- “I; mine.”
+------------------------------------------------------------------------
+- *'vantu* \< *avantu* \< *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *dyaur* \< *dyauḥ* \< *div*
+- \[noun\], nominative, singular, masculine
+- “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
+------------------------------------------------------------------------
+- *vanā* \< *vana*
+- \[noun\], nominative, plural, neuter
+- “forest; wood; tree; grove; vana \[word\]; forest; brush.”
+------------------------------------------------------------------------
+- *girayo* \< *girayaḥ* \< *giri*
+- \[noun\], nominative, plural, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *vṛkṣakeśāḥ* \< *vṛkṣa*
+- \[noun\], masculine
+- “tree; fruit tree.”
+------------------------------------------------------------------------
+- *vṛkṣakeśāḥ* \< *keśāḥ* \< *keśa*
+- \[noun\], nominative, plural, masculine
+- “mane; hair; keśa \[word\].”
+------------------------------------------------------------------------

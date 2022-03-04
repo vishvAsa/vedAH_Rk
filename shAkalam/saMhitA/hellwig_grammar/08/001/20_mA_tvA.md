@@ -1,0 +1,70 @@
++++
+title = "Rig Veda 8.1.20"
+
++++
+-   *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *tvā* \< *tvad*
+- \[noun\], accusative, singular
+- “you.”
+------------------------------------------------------------------------
+- *somasya* \< *soma*
+- \[noun\], genitive, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *galdayā* \< *galda*
+- \[noun\], instrumental, singular, feminine
+------------------------------------------------------------------------
+- *sadā*
+- \[adverb\]
+- “always; continually; always; perpetually.”
+------------------------------------------------------------------------
+- *yācann* \< *yācan* \< *yāc*
+- \[verb noun\], nominative, singular
+- “beg; ask; offer; ask.”
+------------------------------------------------------------------------
+- *ahaṃ* \< *aham* \< *mad*
+- \[noun\], nominative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *girā* \< *giri*
+- \[noun\], locative, singular, masculine
+- “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
+------------------------------------------------------------------------
+- *bhūrṇim* \< *bhūrṇi*
+- \[noun\], accusative, singular, masculine
+- “impatient; restless.”
+------------------------------------------------------------------------
+- *mṛgaṃ* \< *mṛgam* \< *mṛga*
+- \[noun\], accusative, singular, masculine
+- “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *savaneṣu* \< *savana*
+- \[noun\], locative, plural, neuter
+- “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
+------------------------------------------------------------------------
+- *cukrudhaṃ* \< *cukrudham* \< *krudh*
+- \[verb\], singular, Aorist inj. (proh.)
+- “anger; kup.”
+------------------------------------------------------------------------
+- *ka* \< *kaḥ* \< *ka*
+- \[noun\], nominative, singular, masculine
+- “what; who; ka \[pronoun\].”
+------------------------------------------------------------------------
+- *īśānaṃ* \< *īśānam* \< *īśāna*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *yāciṣat* \< *yāc*
+- \[verb\], singular, Aorist inj. (proh.)
+- “beg; ask; offer; ask.”
+------------------------------------------------------------------------

@@ -1,0 +1,94 @@
++++
+title = "Rig Veda 7.104.15"
+
++++
+-   *adyā* \< *adya*
+- \[adverb\]
+- “now; today; then; nowadays; adya \[word\].”
+------------------------------------------------------------------------
+- *murīya* \< *mṛ*
+- \[verb\], singular, Aorist optative
+- “mṛ; die; disappear; go out.”
+------------------------------------------------------------------------
+- *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *yātudhāno* \< *yātudhānaḥ* \< *yātudhāna*
+- \[noun\], nominative, singular, masculine
+- “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
+------------------------------------------------------------------------
+- *asmi* \< *as*
+- \[verb\], singular, Present indikative
+- “be; exist; become; originate; happen; result; be; dwell; be born;
+    stay; be; equal; exist; transform.”
+------------------------------------------------------------------------
+- *yadi*
+- \[adverb\]
+- “if; in case.”
+------------------------------------------------------------------------
+- *vāyus* \< *vā*
+- \[adverb\]
+- “or; optionally; either.”
+------------------------------------------------------------------------
+- *vāyus* \< *āyuḥ* \< *āyus*
+- \[noun\], accusative, singular, neuter
+- “life; longevity; āyus; life; āyus \[word\]; Āyus.”
+------------------------------------------------------------------------
+- *tatapa* \< *tap*
+- \[verb\], singular, Perfect indicative
+- “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
+------------------------------------------------------------------------
+- *pūruṣasya* \< *pūruṣa*
+- \[noun\], genitive, singular, masculine
+- “man; man; Puruṣa.”
+------------------------------------------------------------------------
+- *adhā* \< *adha*
+- \[adverb\]
+- “then; and; therefore; now.”
+------------------------------------------------------------------------
+- *sa*
+- \[adverb\]
+- “with; little; together.”
+------------------------------------------------------------------------
+- *vīrair* \< *vīraiḥ* \< *vīra*
+- \[noun\], instrumental, plural, masculine
+- “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
+------------------------------------------------------------------------
+- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- \[noun\], instrumental, plural, masculine
+- “ten; tenth; daśan \[word\].”
+------------------------------------------------------------------------
+- *vi*
+- \[adverb\]
+- “apart; away; away.”
+------------------------------------------------------------------------
+- *yūyā* \< *yūyāḥ* \< *yu*
+- \[verb\], singular, Prekativ
+- “keep away; separate; ward off.”
+------------------------------------------------------------------------
+- *yo* \< *yaḥ* \< *yad*
+- \[noun\], nominative, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *mā* \< *mad*
+- \[noun\], accusative, singular
+- “I; mine.”
+------------------------------------------------------------------------
+- *moghaṃ* \< *mogham* \< *mogha*
+- \[noun\], accusative, singular, neuter
+- “bootless; untrue; causeless.”
+------------------------------------------------------------------------
+- *yātudhānety* \< *yātudhāna*
+- \[noun\], vocative, singular, masculine
+- “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
+------------------------------------------------------------------------
+- *yātudhānety* \< *iti*
+- \[adverb\]
+- “thus; so; iti \[word\].”
+------------------------------------------------------------------------
+- *āha* \< *ah*
+- \[verb\], singular, Perfect indicative
+- “describe; state; say; enumerate; call; name; teach; tell; deem;
+    explain; say; define.”
+------------------------------------------------------------------------

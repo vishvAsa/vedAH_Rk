@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 7.26.2"
+
++++
+-   *uktha* \< *ukthe* \< *uktha*
+- \[noun\], locative, singular, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *ukthe* \< *uktha*
+- \[noun\], locative, singular, neuter
+- “hymn; praise; uktha \[word\]; encomium.”
+------------------------------------------------------------------------
+- *soma* \< *somaḥ* \< *soma*
+- \[noun\], nominative, singular, masculine
+- “Soma; moon; soma \[word\]; Candra.”
+------------------------------------------------------------------------
+- *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *mamāda* \< *mad*
+- \[verb\], singular, Perfect indicative
+- “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
+------------------------------------------------------------------------
+- *nīthe* \< *nītha*
+- \[noun\], locative, singular, neuter
+- “song; hymn.”
+------------------------------------------------------------------------
+- *nīthe* \< *nītha*
+- \[noun\], locative, singular, neuter
+- “song; hymn.”
+------------------------------------------------------------------------
+- *maghavānaṃ* \< *maghavānam* \< *maghavan*
+- \[noun\], accusative, singular
+- “Indra; maghavan \[word\].”
+------------------------------------------------------------------------
+- *sutāsaḥ* \< *suta*
+- \[noun\], nominative, plural, masculine
+- “Soma.”
+------------------------------------------------------------------------
+- *yad* \< *yat*
+- \[adverb\]
+- “once \[when\]; because; that; if; how.”
+------------------------------------------------------------------------
+- *īṃ* \< *īm* \< *īṃ*
+- \[adverb\]
+------------------------------------------------------------------------
+- *sabādhaḥ* \< *sabādh*
+- \[noun\], nominative, plural, masculine
+- “pressing; clamant.”
+------------------------------------------------------------------------
+- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- \[noun\], accusative, singular, masculine
+- “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
+    forefather.”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *putrāḥ* \< *putra*
+- \[noun\], nominative, plural, masculine
+- “son; putra \[word\]; male child; Putra; Bodhisattva.”
+------------------------------------------------------------------------
+- *samānadakṣā* \< *samāna*
+- \[noun\]
+- “like; identical; common; like; alike(p); same; samāna \[word\];
+    akin(p); comparable; identical; mutual; equal.”
+------------------------------------------------------------------------
+- *samānadakṣā* \< *dakṣāḥ* \< *dakṣa*
+- \[noun\], nominative, plural, masculine
+- “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
+------------------------------------------------------------------------
+- *avase* \< *av*
+- \[verb noun\]
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *havante* \< *hvā*
+- \[verb\], plural, Present indikative
+- “raise; call on; call; summon.”
+------------------------------------------------------------------------

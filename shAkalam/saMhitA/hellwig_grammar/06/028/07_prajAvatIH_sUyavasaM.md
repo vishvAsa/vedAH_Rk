@@ -1,0 +1,86 @@
++++
+title = "Rig Veda 6.28.7"
+
++++
+-   *prajāvatīḥ* \< *prajāvat*
+- \[noun\], accusative, plural, feminine
+- “prolific.”
+------------------------------------------------------------------------
+- *sūyavasaṃ* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sūyavasaṃ* \< *yavasam* \< *yavasa*
+- \[noun\], accusative, singular, neuter
+- “eatage; pasture; fodder.”
+------------------------------------------------------------------------
+- *riśantīḥ* \< *riś*
+- \[verb noun\], accusative, plural
+------------------------------------------------------------------------
+- *śuddhā* \< *śuddhāḥ* \< *śudh*
+- \[verb noun\], accusative, plural
+- “become pure; purify; wash; expiate; clean; cleanse.”
+------------------------------------------------------------------------
+- *apaḥ* \< *ap*
+- \[noun\], accusative, plural, feminine
+- “water; body of water; water; ap \[word\]; juice; jala.”
+------------------------------------------------------------------------
+- *suprapāṇe* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *suprapāṇe* \< *prapāṇe* \< *prapāṇa*
+- \[noun\], locative, singular, neuter
+- “drink; drinking.”
+------------------------------------------------------------------------
+- *pibantīḥ* \< *pā*
+- \[verb noun\], accusative, plural
+- “drink; gulp; soak; drink; suck; inhale.”
+------------------------------------------------------------------------
+- *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *va* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *stena* \< *stenaḥ* \< *stena*
+- \[noun\], nominative, singular, masculine
+- “thief; stena \[word\].”
+------------------------------------------------------------------------
+- *īśata* \< *īś*
+- \[verb\], singular, Present injunctive
+- “govern; command; master; dominate; can; reign; control; own.”
+------------------------------------------------------------------------
+- *māghaśaṃsaḥ* \< *mā*
+- \[adverb\]
+- “not.”
+------------------------------------------------------------------------
+- *māghaśaṃsaḥ* \< *agha*
+- \[noun\]
+- “bad; dangerous; ill; iniquitous; bad.”
+------------------------------------------------------------------------
+- *māghaśaṃsaḥ* \< *śaṃsaḥ* \< *śaṃsa*
+- \[noun\], nominative, singular, masculine
+- “speaking.”
+------------------------------------------------------------------------
+- *pari*
+- \[adverb\]
+- “from; about; around.”
+------------------------------------------------------------------------
+- *vo* \< *vaḥ* \< *tvad*
+- \[noun\], accusative, plural
+- “you.”
+------------------------------------------------------------------------
+- *hetī* \< *hetiḥ* \< *heti*
+- \[noun\], nominative, singular, feminine
+- “projectile; heti \[word\].”
+------------------------------------------------------------------------
+- *rudrasya* \< *rudra*
+- \[noun\], genitive, singular, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *vṛjyāḥ* \< *vṛj*
+- \[verb\], singular, Prekativ
+------------------------------------------------------------------------

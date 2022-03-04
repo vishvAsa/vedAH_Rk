@@ -1,0 +1,82 @@
++++
+title = "Rig Veda 6.22.5"
+
++++
+-   *tam* \< *tad*
+- \[noun\], accusative, singular, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *pṛcchantī* \< *pracch*
+- \[verb noun\], nominative, singular
+- “ask; ask; ask; consult; interrogate.”
+------------------------------------------------------------------------
+- *vajrahastaṃ* \< *vajrahastam* \< *vajrahasta*
+- \[noun\], accusative, singular, masculine
+- “Indra; Shiva.”
+------------------------------------------------------------------------
+- *ratheṣṭhām* \< *ratheṣṭhā*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *indraṃ* \< *indram* \< *indra*
+- \[noun\], accusative, singular, masculine
+- “Indra; leader; best; king; first; head; self; indra \[word\];
+    Indra; sapphire; fourteen; guru.”
+------------------------------------------------------------------------
+- *vepī* \< *vepa*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *vakvarī* \< *vakvan*
+- \[noun\], nominative, singular, feminine
+------------------------------------------------------------------------
+- *yasya* \< *yad*
+- \[noun\], genitive, singular, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *nū* \< *nu*
+- \[adverb\]
+- “now; already.”
+------------------------------------------------------------------------
+- *gīḥ* \< *gir*
+- \[noun\], nominative, singular, feminine
+- “hymn; praise; voice; words; invocation; command; statement; cry;
+    language.”
+------------------------------------------------------------------------
+- *tuvigrābhaṃ* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvigrābhaṃ* \< *grābham* \< *grābha*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *tuvikūrmiṃ* \< *tuvikūrmim* \< *tuvikūrmi*
+- \[noun\], accusative, singular, masculine
+------------------------------------------------------------------------
+- *rabhodāṃ* \< *rabhaḥ* \< *rabhas*
+- \[noun\], neuter
+------------------------------------------------------------------------
+- *rabhodāṃ* \< *dām* \< *dā*
+- \[noun\], accusative, singular, masculine
+- “giving.”
+------------------------------------------------------------------------
+- *gātum* \< *gātu*
+- \[noun\], accusative, singular, masculine
+- “path; way.”
+------------------------------------------------------------------------
+- *iṣe* \< *iṣ*
+- \[verb\], singular, Present indikative
+- “send.”
+------------------------------------------------------------------------
+- *nakṣate* \< *nakṣ*
+- \[verb\], singular, Present indikative
+- “reach; approach.”
+------------------------------------------------------------------------
+- *tumram* \< *tumra*
+- \[noun\], accusative, singular, masculine
+- “strong.”
+------------------------------------------------------------------------
+- *accha* \< *acchā*
+- \[adverb\]
+- “towards; accha \[prefix\].”
+------------------------------------------------------------------------

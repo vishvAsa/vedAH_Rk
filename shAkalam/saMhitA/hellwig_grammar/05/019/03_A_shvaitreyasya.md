@@ -1,0 +1,56 @@
++++
+title = "Rig Veda 5.19.3"
+
++++
+-   *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *śvaitreyasya* \< *śvaitreya*
+- \[noun\], genitive, singular, masculine
+------------------------------------------------------------------------
+- *jantavo* \< *jantavaḥ* \< *jantu*
+- \[noun\], nominative, plural, masculine
+- “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
+------------------------------------------------------------------------
+- *dyumad* \< *dyumat*
+- \[noun\], accusative, singular, neuter
+- “bright; brilliant; brilliant; loud.”
+------------------------------------------------------------------------
+- *vardhanta* \< *vṛdh*
+- \[verb\], plural, Imperfect
+- “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
+    spread.”
+------------------------------------------------------------------------
+- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- \[noun\], nominative, plural, feminine
+- “people; citizenry.”
+------------------------------------------------------------------------
+- *niṣkagrīvo* \< *niṣka*
+- \[noun\], neuter
+- “niṣka; gold; Niṣka; niṣka \[word\]; Niṣka.”
+------------------------------------------------------------------------
+- *niṣkagrīvo* \< *grīvaḥ* \< *grīvā*
+- \[noun\], nominative, singular, masculine
+- “neck; grīvā \[word\].”
+------------------------------------------------------------------------
+- *bṛhaduktha* \< *bṛhadukthaḥ* \< *bṛhaduktha*
+- \[noun\], nominative, singular, masculine
+- “Bṛhaduktha.”
+------------------------------------------------------------------------
+- *enā* \< *idam*
+- \[noun\], instrumental, singular, neuter
+- “this; he,she,it (pers. pron.); here.”
+------------------------------------------------------------------------
+- *madhvā* \< *madhu*
+- \[noun\], instrumental, singular, neuter
+- “honey; alcohol; sweet; nectar; madhu \[word\].”
+------------------------------------------------------------------------
+- *na*
+- \[adverb\]
+- “not; like; no; na \[word\].”
+------------------------------------------------------------------------
+- *vājayuḥ* \< *vājayu*
+- \[noun\], nominative, singular, masculine
+- “competing(a); competitive.”
+------------------------------------------------------------------------

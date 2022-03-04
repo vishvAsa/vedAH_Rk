@@ -1,0 +1,104 @@
++++
+title = "Rig Veda 5.87.7"
+
++++
+-   *te* \< *tad*
+- \[noun\], nominative, plural, masculine
+- “this; he,she,it (pers. pron.); respective(a); that; nominative;
+    then; particular(a); genitive; instrumental; accusative; there; tad
+    \[word\]; dative; once; same.”
+------------------------------------------------------------------------
+- *rudrāsaḥ* \< *rudra*
+- \[noun\], nominative, plural, masculine
+- “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
+------------------------------------------------------------------------
+- *sumakhā* \< *su*
+- \[adverb\]
+- “very; well; good; nicely; beautiful; su; early; quite.”
+------------------------------------------------------------------------
+- *sumakhā* \< *makhāḥ* \< *makha*
+- \[noun\], nominative, plural, masculine
+- “yajña; Makha; festival.”
+------------------------------------------------------------------------
+- *agnayo* \< *agnayaḥ* \< *agni*
+- \[noun\], nominative, plural, masculine
+- “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
+    zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
+    jāraṇa; pyre; fireplace; heating.”
+------------------------------------------------------------------------
+- *yathā*
+- \[adverb\]
+- “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
+------------------------------------------------------------------------
+- *tuvidyumnā* \< *tuvi*
+- \[noun\]
+- “mighty; very; diverse; much(a); many.”
+------------------------------------------------------------------------
+- *tuvidyumnā* \< *dyumnāḥ* \< *dyumna*
+- \[noun\], nominative, plural, masculine
+- “magnificence.”
+------------------------------------------------------------------------
+- *avantv* \< *avantu* \< *av*
+- \[verb\], plural, Present imperative
+- “support; help; prefer; prefer; like.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *eva*
+- \[noun\]
+- “fast; rapid; agile.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *yā*
+- \[noun\]
+- “going.”
+------------------------------------------------------------------------
+- *evayāmarut* \< *marut*
+- \[noun\], nominative, singular, masculine
+- “Marut; vāta; wind; Vayu.”
+------------------------------------------------------------------------
+- *dīrgham* \< *dīrgha*
+- \[noun\], nominative, singular, neuter
+- “long; long; long; large; far; deep; dīrgha \[word\].”
+------------------------------------------------------------------------
+- *pṛthu*
+- \[noun\], nominative, singular, neuter
+- “broad; wide; great; flat; pṛthu \[word\]; far.”
+------------------------------------------------------------------------
+- *paprathe* \< *prath*
+- \[verb\], singular, Perfect indicative
+- “be known; expand; expand; boom.”
+------------------------------------------------------------------------
+- *sadma* \< *sadman*
+- \[noun\], nominative, singular, neuter
+- “seat; house; stable; dwelling.”
+------------------------------------------------------------------------
+- *pārthivaṃ* \< *pārthivam* \< *pārthiva*
+- \[noun\], nominative, singular, neuter
+- “earthly; earthen; mundane; royal; tellurian; sublunar.”
+------------------------------------------------------------------------
+- *yeṣām* \< *yad*
+- \[noun\], genitive, plural, masculine
+- “who; which; yat \[pronoun\].”
+------------------------------------------------------------------------
+- *ajmeṣv* \< *ajmeṣu* \< *ajma*
+- \[noun\], locative, plural, masculine
+- “march.”
+------------------------------------------------------------------------
+- *ā*
+- \[adverb\]
+- “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
+------------------------------------------------------------------------
+- *mahaḥ* \< *mah*
+- \[noun\], genitive, singular, masculine
+- “great; great; distinguished; much(a); adult; long; high.”
+------------------------------------------------------------------------
+- *śardhāṃsy* \< *śardhāṃsi* \< *śardhas*
+- \[noun\], nominative, plural, neuter
+- “troop.”
+------------------------------------------------------------------------
+- *adbhutainasām* \< *adbhuta*
+- \[noun\]
+- “extraordinary; amazing; supernatural.”
+------------------------------------------------------------------------
+- *adbhutainasām* \< *enasām* \< *enas*
+- \[noun\], genitive, plural, masculine
+- “sin; calamity; blame.”
+------------------------------------------------------------------------
