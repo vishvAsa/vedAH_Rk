@@ -1,0 +1,9 @@
++++
+title = "03 जायामुपग्रहीष्यमाणोऽनृक्षरा इति वरकान्गच्छतोऽनुमन्त्रयतेऽभिगमने"
+
++++
+1 [^1] . If he will acquire a wife, let him recite over the wooers (whom he sends to the girl's father) when they go away, the verse, 'Thornless' (Rig-veda X, 85, 23).
+
+
+[^1]:  6, 1. 'The wooers, i.e. his own father, &c.' Nārāyaṇa.
+
