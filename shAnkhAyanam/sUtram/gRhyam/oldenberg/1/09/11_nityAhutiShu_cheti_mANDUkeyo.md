@@ -1,0 +1,9 @@
++++
+title = "11 नित्याहुतिषु चेति माण्डूकेयो"
+
++++
+11 [^7] . Nor in the standing oblations, according to Māṇḍūkeya.
+
+
+[^7]:  See chap. 8, 13.
+
