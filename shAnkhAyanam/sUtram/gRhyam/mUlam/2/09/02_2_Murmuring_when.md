@@ -2,8 +2,7 @@
 title = "०२ 2 Murmuring, when"
 
 +++
-2 [^2] . Murmuring, when (the twilight) has passed, the Mahāvyāhṛtis, the Sāvitrī, and the auspicious hymns.
+अतिक्रान्तायां महाव्याहृतीः सावित्रीं स्वस्त्ययनानि च जपित्वा 
 
 
-[^2]:  The Svastyayanas are texts such as Rig-veda I, 89; IV, 31.
 

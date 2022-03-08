@@ -2,8 +2,5 @@
 title = "०७ 7 Having announced"
 
 +++
-7 [^5] . Having announced the alms to his teacher, he may eat (the food himself) with the master's permission.
 
-
-[^5]:  Comp. the passages quoted by Professor Bühler on Āpastamba I, 3, 31 (S.B.E., vol. ii, p. 22).
-
+आचार्याय भैक्षं निवेदयित्वानुज्ञातो गुरुणा भुञ्जीत

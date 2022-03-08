@@ -2,4 +2,4 @@
 title = "०६ 6 Or of"
 
 +++
-6. Or of a woman who will not refuse.
+या वैनं न प्रत्याचक्षीत

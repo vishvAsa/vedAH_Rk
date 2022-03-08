@@ -2,14 +2,9 @@
 title = "०४ 4 'To Agni"
 
 +++
-4 [^1] . (And puts fuel on the fire with the texts,) 'To Agni I have brought a piece of wood, to the great Jātavedas; may he, Jātavedas, give faith and insight to me. Svāhā!
+अग्नये समिधमहार्षं बृहते जातवेदसे ।  
+स मे श्रद्धां च मेधां च जातवेदाः प्रयच्छतु स्वाहा ।  
+एधोऽस्येधिषीमहि समिदसि तेजोऽसि तेजो मयि धेहि स्वाहा ।  
+समिद्धो मां समर्धय प्रजया च धनेन च स्वाहा ।  
+एषा ते अग्ने समित्तया वर्धस्व चाप्यायस्व । वर्धिषीमहि च वयमा च प्यासिषीमहि स्वाहा
 
-
-[^1]:  Nārāyaṇa: samidham iti mantraliṅgāt samidhāṃ homaḥ, mantrapṛthaktvāt karmapṛthaktvam iti nyāyāt.
-
-
-'Firewood art thou; may we prosper. Fuel art thou; splendour art thou; put splendour into me. Svāhā!
-
-'Being inflamed make me prosperous in offspring and wealth. Svāhā!
-
-Thine is this fuel, Agni; thereby thou shalt grow and gain vigour. And may we grow and gain vigour. Svāhā!'
