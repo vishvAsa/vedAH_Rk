@@ -1,5 +1,0 @@
-+++
-title = "०७ 7 Here some"
-
-+++
-7. Here some (teachers) prescribe the same observances only for one night, during which he is to stand.
