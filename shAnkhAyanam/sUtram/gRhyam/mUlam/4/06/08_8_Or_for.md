@@ -2,4 +2,4 @@
 title = "०८ 8 Or for"
 
 +++
-8. Or for five and a half.
+अर्धषष्ठान्वा
