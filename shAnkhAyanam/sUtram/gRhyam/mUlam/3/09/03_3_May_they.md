@@ -2,4 +2,4 @@
 title = "०३ 3 'May they"
 
 +++
-3. 'May they whose udder with its four holes is full of sweet and ghee, be milk-givers to us; (may they be) many in our stable, rich in ghee' - and, 'The cows have come' (Rig-veda VI, 28), when they have come back.
+यासामूधश्चतुर्बिलं मधोः पूर्णं घृतस्य च । ता नः सन्तु पयस्वतीर्बह्वीर्गोष्ठे घृताच्य इत्या गावो अग्मन्निति च प्रत्यागतासु

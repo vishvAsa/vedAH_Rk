@@ -2,4 +2,4 @@
 title = "०८ 8 With ,"
 
 +++
-8. With (the verse), 'This branch of this tree, that drops ghee, I erect in the immortal. The child, the young one, cries to it; cows shall flock to it, unceasingly fertile ones' - he erects the chief post.
+इमामहमस्य वृक्षस्य शाखां घृतमुक्षन्तीममृते मिनोमि एनां शिशुः क्रन्दत्या कुमार आ स्यन्दन्तां धेनवो नित्यवत्सा इति स्थूणाराजमुच्छ्रयति
