@@ -1,0 +1,5 @@
++++
+title = "09 नोपाश्रितशरीरो"
+
++++
+9. Nor leaning his body (against a support), to. Nor forming with his feet a lap,

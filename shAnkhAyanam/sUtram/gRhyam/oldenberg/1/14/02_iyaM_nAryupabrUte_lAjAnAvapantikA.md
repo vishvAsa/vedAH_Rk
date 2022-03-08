@@ -1,0 +1,9 @@
++++
+title = "02 अश्मक्रमणाद्येवं"
+
++++
+2 [^1] . (All the ceremonies,) beginning from the treading upon the stone, (are repeated) in the same way for a second time,
+
+
+[^1]:  14, 2. The treading on the stone is prescribed in chap. 13, 12.
+

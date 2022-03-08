@@ -1,0 +1,9 @@
++++
+title = "02 स्वस्ति नो मिमीतामिति"
+
++++
+2 [^2] . And hands over to him the staff with the five verses, 'Blessing may give us' (Rig-veda V, 51, 11-15).
+
+
+[^2]:  These five verses have already occurred above at I, 15, 12.
+

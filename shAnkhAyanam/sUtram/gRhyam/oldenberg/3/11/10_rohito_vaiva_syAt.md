@@ -1,0 +1,5 @@
++++
+title = "10 रोहितो वैव स्यात्"
+
++++
+10. Or it may also be red.

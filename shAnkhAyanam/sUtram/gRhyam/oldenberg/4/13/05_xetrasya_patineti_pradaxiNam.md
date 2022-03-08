@@ -1,0 +1,8 @@
++++
+title = "05 क्षेत्रस्य पतिनेति प्रदक्षिणम्"
+
++++
+5. 'Through the lord of the field' - with (this hymn) (Rig-veda IV, 57), verse by verse, to the different directions (of the sky), from left to right, worship is done.
+
+
+

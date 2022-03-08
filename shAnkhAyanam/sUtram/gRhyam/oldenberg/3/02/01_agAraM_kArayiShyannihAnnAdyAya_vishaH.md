@@ -1,0 +1,9 @@
++++
+title = "01 अगारं कारयिष्यन्निहान्नाद्याय विशः"
+
++++
+1 [^1] . If he wishes to have a house built, he draws with an Udumbara branch three times a line round (the building-ground) with (the words), 'Here I include the dwellings for the sake of food,' and sacrifices in (its) centre on an elevated spot,
+
+
+[^1]:  2, 1 seqq. On the house of the Vedic Indians, comp. Zimmer, Altindisches Leben, pp. 148 seqq.
+

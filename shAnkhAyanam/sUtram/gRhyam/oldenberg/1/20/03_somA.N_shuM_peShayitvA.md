@@ -1,0 +1,9 @@
++++
+title = "03 सोमाँ शुं पेषयित्वा"
+
++++
+3 [^1] . Having pounded a Soma stalk, or a Kuśa needle, or the last shoot of a Nyagrodha trunk, or the part of a sacrificial post which is exposed to the fire,
+
+
+[^1]:  20, 3. On śuṅgā compare the note of Nārāyaṇa and the verse quoted from the Karmapradīpa, p. 131 of the German edition.
+
