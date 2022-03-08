@@ -1,0 +1,5 @@
++++
+title = "04 प्रतिपुरुषं पितरः"
+
++++
+4. 'The fathers man by man.

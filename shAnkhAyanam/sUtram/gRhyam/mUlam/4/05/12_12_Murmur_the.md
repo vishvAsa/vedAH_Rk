@@ -1,0 +1,5 @@
++++
+title = "१२ 12 Murmur the"
+
++++
+12. Murmur the Mahāvyāhṛtis, the Sāvitrī, and the auspicious hymns commencing from the beginning of the Veda,

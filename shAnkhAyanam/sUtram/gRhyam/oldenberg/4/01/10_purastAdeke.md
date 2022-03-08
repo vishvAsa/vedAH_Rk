@@ -1,0 +1,9 @@
++++
+title = "10 पुरस्तादेके"
+
++++
+10 [^5] . Before (their dinner he shall offer) the lumps, according to some (teachers).
+
+
+[^5]:  10, 11. Piṇḍān evidently belongs to the tenth Sūtra, not, as the Indian tradition takes it, to the eleventh. Between the Piṇḍas of the fathers and those belonging to the mothers he puts, according to Nārāyaṇa, for instance, Darbha grass.
+

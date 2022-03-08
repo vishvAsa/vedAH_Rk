@@ -1,0 +1,9 @@
++++
+title = "12 प्रतिलीनस्तदहरासीत"
+
++++
+12 [^3] . Let him sit that day in solitude.
+
+
+[^3]:  Pratilīna evidently means the same thing that is so often expressed in the Buddhist texts by paṭisallīna.
+
