@@ -1,0 +1,9 @@
++++
+title = "०२ 2 Murmuring, when"
+
++++
+2 [^2] . Murmuring, when (the twilight) has passed, the Mahāvyāhṛtis, the Sāvitrī, and the auspicious hymns.
+
+
+[^2]:  The Svastyayanas are texts such as Rig-veda I, 89; IV, 31.
+
