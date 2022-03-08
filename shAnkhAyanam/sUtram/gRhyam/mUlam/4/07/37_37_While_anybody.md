@@ -2,4 +2,4 @@
 title = "३७ 37 While anybody"
 
 +++
-37. While anybody cries;
+क्रन्दत्य् 

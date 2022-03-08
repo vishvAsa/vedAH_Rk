@@ -2,4 +2,4 @@
 title = "५० 50 In presence"
 
 +++
-50. In presence of a Brāhmaṇa who has not had his meal, and of cows (that have eaten nothing);
+अभुञ्जाने ब्राह्मणे गोषु च
