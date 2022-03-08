@@ -2,4 +2,4 @@
 title = "०६ 6 But Kauṣītaki"
 
 +++
-6. But Kauṣītaki has said:
+अथ ह स्माह कौषीतकिर् 

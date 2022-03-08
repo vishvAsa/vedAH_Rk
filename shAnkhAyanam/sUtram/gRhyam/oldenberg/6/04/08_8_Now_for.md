@@ -1,0 +1,9 @@
++++
+title = "०८ 8 Now for"
+
++++
+8 [^4] . Now for the Mantha the two verses (have to be recited) before (the formula given in the first Sūtra), 'This we entreat of Savitar,' 'That glorious (splendour) of Savitar' (Rig-veda V, 82, 1; III, 62, 10).
+
+
+[^4]:  Regarding the description of the Mantha sacrifice (Kaush. Ār. IX) which has to be performed by one who wishes to attain greatness, comp. Śatap. Brāhmaṇa XIV, 9, 2; Chānd. Up. V, 2, 4; Sacred Books of the East, I, p. 75.
+

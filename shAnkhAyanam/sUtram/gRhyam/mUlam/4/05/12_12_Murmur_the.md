@@ -2,4 +2,4 @@
 title = "१२ 12 Murmur the"
 
 +++
-12. Murmur the Mahāvyāhṛtis, the Sāvitrī, and the auspicious hymns commencing from the beginning of the Veda,
+महाव्याहृतीः सावित्रीं वेदादिप्रभृतीनि स्वस्त्ययनानि च जपित्वा
