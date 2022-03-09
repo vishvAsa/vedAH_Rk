@@ -1,5 +1,5 @@
 +++
-title = "05 त एतेऽप्रयाजा अननुयाजा"
+title = "०५ त एतेऽप्रयाजा अननुयाजा"
 
 +++
 5 [^4] . These are performed, all the offerings of cooked food, without PRAYĀJA and ANUYĀJA oblations, without (the invocation of) the IḶĀ, without NIGADA recitation, and without SĀMIDHENĪ verses.

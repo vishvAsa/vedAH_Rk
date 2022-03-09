@@ -1,5 +1,5 @@
 +++
-title = "13 दशैताः सम्पादिता भवन्ति"
+title = "१३ दशैताः सम्पादिता भवन्ति"
 
 +++
 13 [^6] . These (holy words and verses) are (thus) made to attain (the number of) ten.

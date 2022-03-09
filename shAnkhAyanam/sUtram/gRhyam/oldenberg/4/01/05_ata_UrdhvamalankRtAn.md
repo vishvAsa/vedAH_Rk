@@ -1,5 +1,5 @@
 +++
-title = "05 अत ऊर्ध्वमलङ्कृतान्"
+title = "०५ अत ऊर्ध्वमलङ्कृतान्"
 
 +++
 5 [^3] . After this they should be adorned;

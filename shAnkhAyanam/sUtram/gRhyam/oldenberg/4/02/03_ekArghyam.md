@@ -1,5 +1,5 @@
 +++
-title = "03 एकार्घ्यम्"
+title = "०३ एकार्घ्यम्"
 
 +++
 3 [^2] . One (pot of) Argha-water,

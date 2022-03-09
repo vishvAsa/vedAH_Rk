@@ -1,5 +1,5 @@
 +++
-title = "01 अथ वृषोत्सर्गः"
+title = "०१ अथ वृषोत्सर्गः"
 
 +++
 1 [^1] . Now (follows) the Vṛṣotsarga (i.e. setting a bull at liberty).

@@ -1,5 +1,5 @@
 +++
-title = "24 स्रुवे चापः सवितुर्व"
+title = "२४ स्रुवे चापः सवितुर्व"
 
 +++
 24 [^11] . Also the waters in the Sruva spoon (he purifies) with the words, '(By the impulse) of Savitar (I purify) you.'

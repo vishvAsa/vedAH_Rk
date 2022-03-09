@@ -1,5 +1,5 @@
 +++
-title = "12 प्रतिलीनस्तदहरासीत"
+title = "१२ प्रतिलीनस्तदहरासीत"
 
 +++
 12 [^3] . Let him sit that day in solitude.

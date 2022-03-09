@@ -1,5 +1,5 @@
 +++
-title = "08 अनूर्ध्वज्ञुर्व्यूळ्हजानुर्जुहुयात्सर्वदा हविः न"
+title = "०८ अनूर्ध्वज्ञुर्व्यूळ्हजानुर्जुहुयात्सर्वदा हविः न"
 
 +++
 8 [^6] . 'Without raising his knees, with spread knees let him always offer his oblation; for the gods never accept an offering (that has been made holding the hand) not between (the knees).

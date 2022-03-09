@@ -1,5 +1,5 @@
 +++
-title = "06 दक्षिणतो ब्रह्माणं प्रतिष्ठाप्य"
+title = "०६ दक्षिणतो ब्रह्माणं प्रतिष्ठाप्य"
 
 +++
 6 [^2] . He places the Brahman south with the words, BHŪR BHUVAḤ SVAḤ,

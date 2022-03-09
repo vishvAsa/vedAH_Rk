@@ -1,5 +1,5 @@
 +++
-title = "07 श्वोऽन्वष्टक्यं पिण्डपितृयज्ञावृता"
+title = "०७ श्वोऽन्वष्टक्यं पिण्डपितृयज्ञावृता"
 
 +++
 7 [^3] . On the next day the Anvaṣṭakya ceremony (i.e. ceremony following the Aṣṭakā) in accordance with the rite of the Piṇḍapitṛyajña.

@@ -1,5 +1,5 @@
 +++
-title = "53 विद्युत्स्तनयित्नुवर्षवर्जं कल्पे वर्षवदर्धषष्ठेषु"
+title = "५३ विद्युत्स्तनयित्नुवर्षवर्जं कल्पे वर्षवदर्धषष्ठेषु"
 
 +++
 53 [^10] . (The same rules hold good,) except (those regarding) lightning, thunder, and rain, for (the study of) the Kalpa. During the five months and a half (they have to behave) as while it rains.

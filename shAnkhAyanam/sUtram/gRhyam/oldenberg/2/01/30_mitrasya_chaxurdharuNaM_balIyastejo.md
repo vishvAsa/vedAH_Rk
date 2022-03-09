@@ -1,5 +1,5 @@
 +++
-title = "30 मित्रस्य चक्षुर्धरुणं बलीयस्तेजो"
+title = "३० मित्रस्य चक्षुर्धरुणं बलीयस्तेजो"
 
 +++
 30 [^7] . ['The firm, powerful eye of Mitra, glorious splendour, strong and prosperous, a chaste, flowing vesture, this skin I put on, a valiant (man).']

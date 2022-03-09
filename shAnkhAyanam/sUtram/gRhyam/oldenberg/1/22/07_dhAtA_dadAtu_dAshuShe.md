@@ -1,5 +1,5 @@
 +++
-title = "07 धाता ददातु दाशुषे"
+title = "०७ धाता ददातु दाशुषे"
 
 +++
 7. (He then sacrifices with the following texts,) 'May Dhātar give to his worshipper further life and safety; may we obtain the favour of the god whose laws are truthful.

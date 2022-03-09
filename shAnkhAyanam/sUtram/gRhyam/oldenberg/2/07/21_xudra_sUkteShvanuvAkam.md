@@ -1,5 +1,5 @@
 +++
-title = "21 क्षुद्र सूक्तेष्वनुवाकम्"
+title = "२१ क्षुद्र सूक्तेष्वनुवाकम्"
 
 +++
 21 [^10] . Of the short hymns (in the tenth Maṇḍala) an Anuvāka,

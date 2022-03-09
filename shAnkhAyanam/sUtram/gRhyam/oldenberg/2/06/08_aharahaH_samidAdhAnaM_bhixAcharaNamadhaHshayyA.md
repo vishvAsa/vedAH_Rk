@@ -1,0 +1,5 @@
++++
+title = "०८ अहरहः समिदाधानं भिक्षाचरणमधःशय्या"
+
++++
+8. The daily putting on of fuel, the going for alms, the sleeping on the ground, and obedience to the teacher: these are the standing duties of a student.

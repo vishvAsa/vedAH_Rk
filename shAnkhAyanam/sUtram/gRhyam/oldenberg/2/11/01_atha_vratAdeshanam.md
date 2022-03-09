@@ -1,5 +1,5 @@
 +++
-title = "01 अथ व्रतादेशनम्"
+title = "०१ अथ व्रतादेशनम्"
 
 +++
 1 [^1] . Now (follows) the directing to the (special) observances.

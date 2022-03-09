@@ -1,5 +1,5 @@
 +++
-title = "20 वाग्यता चैनमुपसादयेद्"
+title = "२० वाग्यता चैनमुपसादयेद्"
 
 +++
 20 [^4] . And (his wife) shall put (it) down silently.

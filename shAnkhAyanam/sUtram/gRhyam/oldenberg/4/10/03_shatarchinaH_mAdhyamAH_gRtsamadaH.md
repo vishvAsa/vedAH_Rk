@@ -1,5 +1,5 @@
 +++
-title = "03 शतर्चिनः माध्यमाः गृत्समदः"
+title = "०३ शतर्चिनः माध्यमाः गृत्समदः"
 
 +++
 3. 'The (Ṛṣis) of the hundred (Ṛcas), the (Ṛṣis) of the middle (Maṇḍalas), Gṛtsamada, Viśvāmitra, Jamadagni, Vāmadeva, Atri, Bharadvāja, Vasiṣṭha, the Pragāthas, the (Ṛṣis) of the Pavamāna hymns, the (Ṛṣis) of the short hymns and of the long hymns, Sumantu, Jaimini, Vaiśampāyana, Paila, the Sūtras, the Bhāṣyas, Gārgya, Babhru, Bābhravya, Maṇḍu, Māṇḍavya, Gārgī Vācaknavī, Vadavā Prātitheyī, Sulabhā Maitreyī (may satiate themselves).

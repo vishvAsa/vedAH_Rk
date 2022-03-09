@@ -1,5 +1,5 @@
 +++
-title = "07 उत्तरतः प्रणीताः"
+title = "०८ उत्तरतः प्रणीताः प्रणीय"
 
 +++
 8 [^3] . Carries forward on the north side the Praṇītā waters with the words, 'Who carries ye forward?' - 

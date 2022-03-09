@@ -1,5 +1,5 @@
 +++
-title = "21 प्राणसम्मितो ब्राह्मणस्य"
+title = "२१ प्राणसम्मितो ब्राह्मणस्य"
 
 +++
 21 [^4] . That of the Brāhmaṇa shall reach the tip of the nose,

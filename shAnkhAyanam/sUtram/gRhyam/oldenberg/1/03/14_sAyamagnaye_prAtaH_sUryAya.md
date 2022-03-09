@@ -1,5 +1,5 @@
 +++
-title = "14 सायमग्नये प्रातः सूर्याय"
+title = "१४ सायमग्नये प्रातः सूर्याय"
 
 +++
 14 [^9] . In the evening (he makes the oblation) to Agni, in the morning to Sūrya,

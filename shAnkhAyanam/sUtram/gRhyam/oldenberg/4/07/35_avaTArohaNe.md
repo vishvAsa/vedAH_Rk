@@ -1,5 +1,5 @@
 +++
-title = "35 अवटारोहणे"
+title = "३५ अवटारोहणे"
 
 +++
 35. Having descended into a pit;

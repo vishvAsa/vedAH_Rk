@@ -1,0 +1,9 @@
++++
+title = "१५ असंसिध्यमानायां वैश्यवृत्तिर्वा"
+
++++
+15 [^5] . Or if (his livelihood) cannot be gained (in one of the ways mentioned), let him follow the occupation of a Vaiśya.
+
+
+[^5]:  Comp. Professor Bühler's note on Gautama X, 5, S.B.E., vol. ii, p. 225.
+

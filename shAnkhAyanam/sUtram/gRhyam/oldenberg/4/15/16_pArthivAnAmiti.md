@@ -1,5 +1,5 @@
 +++
-title = "16 पार्थिवानामिति"
+title = "१६ पार्थिवानामिति"
 
 +++
 16. For the terrestrial ones.

@@ -1,5 +1,5 @@
 +++
-title = "06 प्रदक्षिणमुपचारः"
+title = "०६ प्रदक्षिणमुपचारः"
 
 +++
 6 [^3] . The rite is performed from left to right.

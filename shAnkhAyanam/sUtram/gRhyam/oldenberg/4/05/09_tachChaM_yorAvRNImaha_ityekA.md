@@ -1,5 +1,5 @@
 +++
-title = "09 तच्छं योरावृणीमह इत्येका"
+title = "०९ तच्छं योरावृणीमह इत्येका"
 
 +++
 9 [^4] . 'That blessing and bliss we choose' - this one verse (the first and last verse of each Maṇḍala).

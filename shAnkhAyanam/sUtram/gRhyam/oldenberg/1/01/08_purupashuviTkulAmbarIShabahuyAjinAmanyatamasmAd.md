@@ -1,5 +1,5 @@
 +++
-title = "08 पुरुपशुविट्कुलाम्बरीषबहुयाजिनामन्यतमस्मादग्निमिन्धीत"
+title = "०८ पुरुपशुविट्कुलाम्बरीषबहुयाजिनामन्यतमस्मादग्निमिन्धीत"
 
 +++
 8 [^4] . He should light his fire at one of the following places, viz. in the house of a Vaiśya who is rich in cattle, at a frying-pan, or (at the fire of) one who offers many sacrifices.

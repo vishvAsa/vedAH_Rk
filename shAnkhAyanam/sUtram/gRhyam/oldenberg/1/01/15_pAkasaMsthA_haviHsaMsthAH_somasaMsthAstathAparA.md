@@ -1,5 +1,5 @@
 +++
-title = "15 पाकसंस्था हविःसंस्थाः सोमसंस्थास्तथापराः"
+title = "१५ पाकसंस्था हविःसंस्थाः सोमसंस्थास्तथापराः"
 
 +++
 15 [^8] . 'The kinds of Pākayajñas, the kinds of Haviryajñas, and again the kinds of Soma sacrifices,

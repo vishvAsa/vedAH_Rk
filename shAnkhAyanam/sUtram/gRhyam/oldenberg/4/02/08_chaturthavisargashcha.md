@@ -1,5 +1,5 @@
 +++
-title = "08 चतुर्थविसर्गश्च"
+title = "०८ चतुर्थविसर्गश्च"
 
 +++
 8 [^4] . And (then) omission of the fourth one.

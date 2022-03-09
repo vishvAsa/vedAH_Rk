@@ -1,5 +1,5 @@
 +++
-title = "02 कोऽसि कस्यासि काय"
+title = "०२ कोऽसि कस्यासि काय"
 
 +++
 2. (With the texts,) 'Who art thou? Whose art thou? To whom do I sacrifice thee, desirous of (dwelling in the) village? Svāhā!

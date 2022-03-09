@@ -1,5 +1,5 @@
 +++
-title = "07 दिव्यानां सर्पाणामधिपतिः प्रलिखताम्"
+title = "०७ दिव्यानां सर्पाणामधिपतिः प्रलिखताम्"
 
 +++
 7 [^1] . With (the words), 'May the Lord of the celestial Serpents comb himself! May the celestial Serpents comb themselves!' - he makes movements with a comb.

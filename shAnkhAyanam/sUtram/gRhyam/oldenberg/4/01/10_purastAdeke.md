@@ -1,5 +1,5 @@
 +++
-title = "10 पुरस्तादेके"
+title = "१० पुरस्तादेके"
 
 +++
 10 [^5] . Before (their dinner he shall offer) the lumps, according to some (teachers).

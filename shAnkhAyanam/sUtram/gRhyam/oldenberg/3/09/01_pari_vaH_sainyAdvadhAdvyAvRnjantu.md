@@ -1,5 +1,5 @@
 +++
-title = "01 परि वः सैन्याद्वधाद्व्यावृञ्जन्तु"
+title = "०१ परि वः सैन्याद्वधाद्व्यावृञ्जन्तु"
 
 +++
 1 [^1] . 'May the noisy (goddesses) keep you away from slaughtering hosts. May the entire share, O cows, that belongs to this lord of cows, suffer no harm among you - (and)

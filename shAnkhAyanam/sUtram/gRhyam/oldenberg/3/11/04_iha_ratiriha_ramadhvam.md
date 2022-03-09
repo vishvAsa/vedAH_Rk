@@ -1,5 +1,5 @@
 +++
-title = "04 इह रतिरिह रमध्वम्"
+title = "०४ इह रतिरिह रमध्वम्"
 
 +++
 4. Here is delight; take delight here. Svāhā!

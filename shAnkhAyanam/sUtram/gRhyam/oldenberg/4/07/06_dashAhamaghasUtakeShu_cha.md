@@ -1,5 +1,5 @@
 +++
-title = "06 दशाहमघसूतकेषु च"
+title = "०६ दशाहमघसूतकेषु च"
 
 +++
 6 [^2] . If a death (of relations) or birth has happened, for ten days;

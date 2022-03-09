@@ -1,5 +1,5 @@
 +++
-title = "03 सोमाँ शुं पेषयित्वा"
+title = "०३ सोमाँ शुं पेषयित्वा"
 
 +++
 3 [^1] . Having pounded a Soma stalk, or a Kuśa needle, or the last shoot of a Nyagrodha trunk, or the part of a sacrificial post which is exposed to the fire,

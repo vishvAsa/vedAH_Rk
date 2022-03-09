@@ -1,5 +1,5 @@
 +++
-title = "13 गौर्ब्राह्मणस्य वरो"
+title = "१३ गौर्ब्राह्मणस्य वरो"
 
 +++
 13 [^6] . A cow is the optional gift to be given by a Brāhmaṇa,

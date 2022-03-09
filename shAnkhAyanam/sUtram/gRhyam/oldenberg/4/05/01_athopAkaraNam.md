@@ -1,5 +1,5 @@
 +++
-title = "01 अथोपाकरणम्"
+title = "०१ अथोपाकरणम्"
 
 +++
 1 [^1] . Now (follows) the Upākaraṇa (i.e. the ceremony by which the annual course of study is opened).

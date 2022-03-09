@@ -1,5 +1,5 @@
 +++
-title = "02 उत्पातेष्वाकालम्"
+title = "०२ उत्पातेष्वाकालम्"
 
 +++
 2 [^1] . In the case of prodigies until the same time (next day),

@@ -1,5 +1,5 @@
 +++
-title = "01 अरण्ये समित्पाणिः सन्ध्यामास्ते"
+title = "०१ अरण्ये समित्पाणिः सन्ध्यामास्ते"
 
 +++
 1 [^1] . In the forest, with a piece of wood in his hand, seated, he performs the Sandhyā (or twilight devotion) constantly, observing silence, turning his face north-west, to the region between the chief (west) point and the intermediate (north-western) point (of the horizon), until the stars appear,

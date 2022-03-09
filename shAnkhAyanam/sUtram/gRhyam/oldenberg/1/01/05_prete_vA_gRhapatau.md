@@ -1,5 +1,5 @@
 +++
-title = "05 प्रेते वा गृहपतौ"
+title = "०५ प्रेते वा गृहपतौ"
 
 +++
 5 [^3] . Or that after the death of the householder the eldest one himself (should kindle it).

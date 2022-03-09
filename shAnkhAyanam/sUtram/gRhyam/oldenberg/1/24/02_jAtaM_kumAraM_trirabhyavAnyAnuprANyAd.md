@@ -1,5 +1,5 @@
 +++
-title = "02 जातं कुमारं त्रिरभ्यवान्यानुप्राण्याद्"
+title = "०२ जातं कुमारं त्रिरभ्यवान्यानुप्राण्याद्"
 
 +++
 2 [^2] . Let (the father) breathe three times on the new-born child and then draw in his breath with the words, 'Draw in your breath with the Ṛc, breathe within with the Yajus, breathe forth with the Sāman.'

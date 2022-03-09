@@ -1,5 +1,5 @@
 +++
-title = "05 अपि वारण्ये कक्षमपादहेदेषा"
+title = "०५ अपि वारण्ये कक्षमपादहेदेषा"
 
 +++
 5 [^2] . Or he may optionally burn down brushwood in the forest and say, 'This is my Aṣṭakā.'

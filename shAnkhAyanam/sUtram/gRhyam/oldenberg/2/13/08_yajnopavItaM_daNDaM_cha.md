@@ -1,5 +1,5 @@
 +++
-title = "08 यज्ञोपवीतं दण्डं च"
+title = "०८ यज्ञोपवीतं दण्डं च"
 
 +++
 8 [^2] . 'Let him sacrifice the sacrificial cord and the staff, the girdle and also the skin in water after the completion of his vow with a Varuṇa-verse or with the essence (of the Vedas, i.e. the syllable Om).

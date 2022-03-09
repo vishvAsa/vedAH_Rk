@@ -1,5 +1,5 @@
 +++
-title = "03 वरो दक्षिणा"
+title = "०३ वरो दक्षिणा"
 
 +++
 3 [^3] . An optional gift is the fee for the sacrifice.

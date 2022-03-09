@@ -1,5 +1,5 @@
 +++
-title = "01 ऊर्ध्वमाग्रहायण्यास्तिस्रोऽष्टका अपरपक्षेषु"
+title = "०१ ऊर्ध्वमाग्रहायण्यास्तिस्रोऽष्टका अपरपक्षेषु"
 
 +++
 1 [^1] . After the Āgrahāyaṇī (or the full moon day of the month Mārgaśīrṣa) (follow) the three Aṣṭakās in the second fortnight (of the Mārgaśīrṣa and of the two following months).

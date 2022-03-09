@@ -1,5 +1,5 @@
 +++
-title = "09 सव्येन कुशानादाय दक्षिणेनापनौति"
+title = "०९ सव्येन कुशानादाय दक्षिणेनापनौति"
 
 +++
 9 [^4] . Takes up with the left hand the Kuśa blades, and arranges them (on the ground) with the right hand,

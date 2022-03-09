@@ -1,0 +1,9 @@
++++
+title = "२१ अनन्तरं सौवासिनीं गर्भिणीम्"
+
++++
+21 [^5] . Let him immediately afterwards offer food to a female under his protection, to a pregnant woman, to boys, and to old people.
+
+
+[^5]:  Comp. Böhtlingk-Roth s. v. suvāsinī, and Professor Bühler's note on Gautama V, 25.
+

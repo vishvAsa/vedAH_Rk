@@ -1,5 +1,5 @@
 +++
-title = "04 अग्निहोत्रं बलिवर्दाः काले"
+title = "०४ अग्निहोत्रं बलिवर्दाः काले"
 
 +++
 4 [^2] . '(The fire of) the Agnihotra, bulls, and a guest that has come in at the right time, children and persons of noble families: these burn up him who neglects them.

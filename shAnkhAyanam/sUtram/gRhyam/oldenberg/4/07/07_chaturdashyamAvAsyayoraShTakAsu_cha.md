@@ -1,5 +1,5 @@
 +++
-title = "07 चतुर्दश्यमावास्ययोरष्टकासु च"
+title = "०७ चतुर्दश्यमावास्ययोरष्टकासु च"
 
 +++
 7 [^3] . On the fourteenth days (of the fortnights), the new moon days, and the Aṣṭakā days,

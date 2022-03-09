@@ -1,5 +1,5 @@
 +++
-title = "01 स्रुवः पात्रम्"
+title = "०१ स्रुवः पात्रम्"
 
 +++
 1 [^1] . The Sruva spoon (serves as) a vessel.

@@ -1,5 +1,5 @@
 +++
-title = "06 मध्यावर्षेऽष्टके तिस्रो वा"
+title = "०६ मध्यावर्षेऽष्टके तिस्रो वा"
 
 +++
 6 [^3] . At the Aṣṭakā ceremony in the middle of the rainy season there may optionally be three (pieces of wood); the sacrifice as at the Pitṛyajña.

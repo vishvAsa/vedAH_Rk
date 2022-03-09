@@ -1,5 +1,5 @@
 +++
-title = "01 अथ जातकर्म"
+title = "०१ अथ जातकर्म"
 
 +++
 1 [^1] . Now the Gātakarman (i.e. ceremony for the new-born child).

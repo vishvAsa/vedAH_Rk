@@ -1,5 +1,5 @@
 +++
-title = "09 सायम्प्रातरेके"
+title = "०९ सायम्प्रातरेके"
 
 +++
 9 [^5] . Some say that (the fire should be fetched from one of the above-mentioned places) in the evening and in the morning.

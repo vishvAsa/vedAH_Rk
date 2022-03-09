@@ -1,5 +1,5 @@
 +++
-title = "14 कुशतरुणे अविषमे अविच्छिन्नाग्रे"
+title = "१४ कुशतरुणे अविषमे अविच्छिन्नाग्रे"
 
 +++
 14 [^6] . He now measures off with the span (of his hand) two Kuśa blades, which are not unequal, with unbroken points, bearing no young shoots in them, and severs them (from their roots) with a Kuśa blade, saying, 'Purifiers are ye.'

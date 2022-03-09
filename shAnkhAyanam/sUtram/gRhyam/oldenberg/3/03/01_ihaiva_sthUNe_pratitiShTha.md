@@ -1,5 +1,5 @@
 +++
-title = "01 इहैव स्थूणे प्रतितिष्ठ"
+title = "०१ इहैव स्थूणे प्रतितिष्ठ"
 
 +++
 1 [^1] . 'Stand here, O post, firm, rich in horses and cows, . . . .; stand safely, dropping ghee; stand here, fixed in the ground, prosperous, long-lasting(?), amid the prosperity of people who satiate themselves. May the malevolent ones not reach thee!

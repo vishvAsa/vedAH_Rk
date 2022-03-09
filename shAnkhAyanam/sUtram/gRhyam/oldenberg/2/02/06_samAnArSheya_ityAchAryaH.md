@@ -1,5 +1,5 @@
 +++
-title = "06 समानार्षेय इत्याचार्यः"
+title = "०६ समानार्षेय इत्याचार्यः"
 
 +++
 6 [^4] . 'Descending from the same Ṛṣis?' says the teacher.

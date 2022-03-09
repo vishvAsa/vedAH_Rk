@@ -1,5 +1,5 @@
 +++
-title = "39 नग्न"
+title = "३९ नग्न"
 
 +++
 39. While he is naked;

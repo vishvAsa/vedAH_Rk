@@ -1,5 +1,5 @@
 +++
-title = "19 व्याख्यातः प्रतिश्रुते होमकल्पः"
+title = "१९ व्याख्यातः प्रतिश्रुते होमकल्पः"
 
 +++
 19 [^10] . The ritual (here) declared of the sacrifice (to be performed) when (the father's) assent (to give away his daughter) has been declared - 

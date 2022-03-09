@@ -1,5 +1,5 @@
 +++
-title = "05 विराजो दोहोऽसि विराजो"
+title = "०५ विराजो दोहोऽसि विराजो"
 
 +++
 5 [^2] . When accepting the water for washing the feet he says, 'The milk of Virāj art thou; may I obtain the milk of Virāj; in me (may) the milk of Padyā Virāj (dwell)!'

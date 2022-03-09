@@ -1,5 +1,5 @@
 +++
-title = "05 अथोपनिषदाम्"
+title = "०५ अथोपनिषदाम्"
 
 +++
 5. Now for the Upaniṣad (texts) - 

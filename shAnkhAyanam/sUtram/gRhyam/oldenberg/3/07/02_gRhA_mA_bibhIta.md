@@ -1,5 +1,5 @@
 +++
-title = "02 गृहा मा बिभीत"
+title = "०२ गृहा मा बिभीत"
 
 +++
 2 [^1] . 'House, do not fear, do not tremble; bringing strength we come back. Bringing strength, joyful and wise, I come back to thee, to the house, rejoicing in my mind.

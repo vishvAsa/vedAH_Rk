@@ -1,5 +1,5 @@
 +++
-title = "03 शाखापशूनाम्"
+title = "०३ शाखापशूनाम्"
 
 +++
 3 [^2] . For the sacrifice of animals which are tied to a branch,

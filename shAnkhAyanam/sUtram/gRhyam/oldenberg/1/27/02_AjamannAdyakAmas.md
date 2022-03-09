@@ -1,5 +1,5 @@
 +++
-title = "02 आजमन्नाद्यकामस्"
+title = "०२ आजमन्नाद्यकामस्"
 
 +++
 2 [^1] . Goat's flesh, if he is desirous of nouṛṣment,

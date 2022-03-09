@@ -1,5 +1,5 @@
 +++
-title = "06 आ ते योनिम्"
+title = "०६ आ ते योनिम्"
 
 +++
 6 [^1] . Or, 'May a male embryo enter thy womb, as an arrow the quiver; may a man be born here, a son after ten months.

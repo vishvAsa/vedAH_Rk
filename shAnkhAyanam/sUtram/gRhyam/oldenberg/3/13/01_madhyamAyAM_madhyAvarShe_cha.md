@@ -1,5 +1,5 @@
 +++
-title = "01 मध्यमायां मध्यावर्षे च"
+title = "०१ मध्यमायां मध्यावर्षे च"
 
 +++
 1 [^1] . At the middle (Aṣṭakā) and in the middle of the rainy season,

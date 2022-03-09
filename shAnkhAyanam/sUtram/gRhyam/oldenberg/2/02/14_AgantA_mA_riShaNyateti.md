@@ -1,5 +1,5 @@
 +++
-title = "14 आगन्ता मा रिषण्यतेति"
+title = "१४ आगन्ता मा रिषण्यतेति"
 
 +++
 14. Warriors with (the verse), 'Come here, do not come to harm' (Rig-veda VIII, 20, 1).

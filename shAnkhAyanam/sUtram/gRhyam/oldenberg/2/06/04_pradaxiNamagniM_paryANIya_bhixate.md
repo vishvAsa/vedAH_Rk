@@ -1,5 +1,5 @@
 +++
-title = "04 प्रदक्षिणमग्निं पर्याणीय भिक्षते"
+title = "०४ प्रदक्षिणमग्निं पर्याणीय भिक्षते"
 
 +++
 4 [^4] . After (the teacher) has led him round the fire, turning his right side towards it, (the student) goes through the village to beg food.

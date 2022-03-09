@@ -1,5 +1,5 @@
 +++
-title = "01 संवत्सरे सावित्रीमन्वाह"
+title = "०१ संवत्सरे सावित्रीमन्वाह"
 
 +++
 1 [^1] . After one year (the teacher) recites the Sāvitrī (to the student),

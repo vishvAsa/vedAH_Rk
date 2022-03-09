@@ -1,5 +1,5 @@
 +++
-title = "01 अदब्धं मन इषिरम्"
+title = "०१ अदब्धं मन इषिरम्"
 
 +++
 1 [^1] . 'Unerring mind, vigorous eye (is) the sun, the noblest of the stars. Inauguration, do no harm to me!' - with (these words) they look at Savitṛ (I.e. the sun).

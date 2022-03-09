@@ -1,5 +1,5 @@
 +++
-title = "01 मम व्रते हृदयम्"
+title = "०१ मम व्रते हृदयम्"
 
 +++
 1 [^1] . 'Under my will I take thy heart; my mind shall thy mind follow; in my word thou shalt rejoice with all thy heart; may Bṛhaspati join thee to me.'

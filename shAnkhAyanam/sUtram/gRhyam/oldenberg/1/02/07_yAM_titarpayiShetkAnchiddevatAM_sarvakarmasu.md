@@ -1,5 +1,5 @@
 +++
-title = "07 यां तितर्पयिषेत्काञ्चिद्देवतां सर्वकर्मसु"
+title = "०७ यां तितर्पयिषेत्काञ्चिद्देवतां सर्वकर्मसु"
 
 +++
 7. 'Whatsoever deity he may wish to satiate at any sacrifice,

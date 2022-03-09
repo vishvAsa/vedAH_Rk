@@ -1,5 +1,5 @@
 +++
-title = "22 सुत्रामाणमिति शय्यामारोहेत्"
+title = "२२ सुत्रामाणमिति शय्यामारोहेत्"
 
 +++
 22 [^5] . With (the verse), 'The good protectress' (Rig-veda X, 63, 10), let him ascend the (high) couch.

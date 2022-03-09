@@ -1,5 +1,5 @@
 +++
-title = "04 प्रादेशमात्रीः पालाशीः समिधः"
+title = "०४ प्रादेशमात्रीः पालाशीः समिधः"
 
 +++
 4 [^2] . After he has sacrificed seventeen one span long pieces of Palāśa wood, he then seizes the Sruva.

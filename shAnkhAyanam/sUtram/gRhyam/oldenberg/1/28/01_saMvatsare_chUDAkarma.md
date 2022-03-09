@@ -1,5 +1,5 @@
 +++
-title = "01 संवत्सरे चूडाकर्म"
+title = "०१ संवत्सरे चूडाकर्म"
 
 +++
 1 [^1] . After one year the Cūḍākarman (i.e. the tonsure of the child's head);

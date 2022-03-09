@@ -1,5 +1,5 @@
 +++
-title = "36 अप्सु"
+title = "३६ अप्सु"
 
 +++
 36. (Immersed) in water;

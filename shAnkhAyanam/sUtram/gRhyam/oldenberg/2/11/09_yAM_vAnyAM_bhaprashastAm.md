@@ -1,5 +1,5 @@
 +++
-title = "09 यां वान्यां भप्रशस्ताम्"
+title = "०९ यां वान्यां भप्रशस्ताम्"
 
 +++
 9 [^6] . Or on what day else the constellation seems lucky to him, on that day he shall direct (the student) to the duties of holiness according to the Śukriya rite.

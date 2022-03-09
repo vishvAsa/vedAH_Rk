@@ -1,5 +1,5 @@
 +++
-title = "17 ताञ्जुहोति"
+title = "१७ ताञ्जुहोति"
 
 +++
 17 [^4] . She sacrifices those (fried grains).

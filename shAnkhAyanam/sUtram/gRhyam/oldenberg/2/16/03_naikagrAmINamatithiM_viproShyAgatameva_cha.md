@@ -1,5 +1,5 @@
 +++
-title = "03 नैकग्रामीणमतिथिं विप्रोष्यागतमेव च"
+title = "०३ नैकग्रामीणमतिथिं विप्रोष्यागतमेव च"
 
 +++
 3 [^1] . 'Let him not consider as a guest a person living in the same village, or one that comes in returning from a journey; (but let him consider as a guest only) one who has arrived at his house where the wife or the fires (of the host) are.

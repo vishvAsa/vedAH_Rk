@@ -1,5 +1,5 @@
 +++
-title = "10 विवाहे गामर्हयित्वा गृहेषु"
+title = "१० विवाहे गामर्हयित्वा गृहेषु"
 
 +++
 10 [^3] . At the wedding one cow, when the Argha ceremony has been performed; in the house one cow: these are the two Madhuparka cows.

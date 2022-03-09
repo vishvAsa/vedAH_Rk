@@ -1,5 +1,5 @@
 +++
-title = "01 वास्तोष्पतीये कर्मणि"
+title = "०१ वास्तोष्पतीये कर्मणि"
 
 +++
 1 [^1] . At the sacrifice to Vāstoṣpati - 

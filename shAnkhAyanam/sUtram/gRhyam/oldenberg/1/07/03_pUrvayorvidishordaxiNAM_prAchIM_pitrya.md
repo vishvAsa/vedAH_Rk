@@ -1,5 +1,5 @@
 +++
-title = "03 पूर्वयोर्विदिशोर्दक्षिणां प्राचीं पित्र्य"
+title = "०३ पूर्वयोर्विदिशोर्दक्षिणां प्राचीं पित्र्य"
 
 +++
 3 [^2] . (Let him consider in the ceremonies to be performed,) of the two eastern intermediate directions, the southern one as that to which (the rites) should be directed, if the rites belong to the Manes,

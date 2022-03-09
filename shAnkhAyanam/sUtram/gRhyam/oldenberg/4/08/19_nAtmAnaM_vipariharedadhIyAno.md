@@ -1,5 +1,5 @@
 +++
-title = "19 नात्मानं विपरिहरेदधीयानो"
+title = "१९ नात्मानं विपरिहरेदधीयानो"
 
 +++
 19 [^4] . Let no one change his place during the recitation.

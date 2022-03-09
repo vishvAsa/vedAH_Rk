@@ -1,5 +1,5 @@
 +++
-title = "02 अग्नेरुत्तरत उपविशतः"
+title = "०२ अग्नेरुत्तरत उपविशतः"
 
 +++
 2 [^2] . Both sit down to the north of the fire,

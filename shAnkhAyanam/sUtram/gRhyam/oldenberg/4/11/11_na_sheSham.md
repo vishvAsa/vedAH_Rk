@@ -1,5 +1,5 @@
 +++
-title = "11 न शेषम्"
+title = "११ न शेषम्"
 
 +++
 11 [^4] . Nor remnants (of food).

@@ -1,5 +1,5 @@
 +++
-title = "03 भद्रा न्नः श्रेयः"
+title = "०३ भद्रा न्नः श्रेयः"
 
 +++
 3 [^2] . He thrice eats of it, sprinkling it with water, with (the verse), 'From the good you have led us to the better, ye gods! Through thee, the nouṛṣment, may we obtain thee. Thus enter into us, O potion, bringing refreshment; be a saviour to us, to men and animals!'

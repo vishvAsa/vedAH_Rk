@@ -1,5 +1,5 @@
 +++
-title = "06 यावन्तो होमास्तावतीर्हुत्वा पूर्ववद्धोमः"
+title = "०६ यावन्तो होमास्तावतीर्हुत्वा पूर्ववद्धोमः"
 
 +++
 6 [^1] . After he has sacrificed as many oblations as there had been sacrifices (left out), the sacrifice (itself goes on) as (stated) above.
