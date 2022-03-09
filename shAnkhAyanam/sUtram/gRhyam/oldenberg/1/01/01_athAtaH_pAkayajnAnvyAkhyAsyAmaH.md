@@ -1,5 +1,5 @@
 +++
-title = "01 अथातः पाकयज्ञान्व्याख्यास्यामः"
+title = "०१ अथातः पाकयज्ञान्व्याख्यास्यामः"
 
 +++
 1 [^1] . Now henceforth we shall declare the Pākayajñas.

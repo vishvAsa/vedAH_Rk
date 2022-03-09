@@ -1,5 +1,5 @@
 +++
-title = "01 मासिमासि पितृभ्यो दद्याद्"
+title = "०१ मासिमासि पितृभ्यो दद्याद्"
 
 +++
 1 [^1] . Let him offer (Śrāddha oblations) every month to the fathers.

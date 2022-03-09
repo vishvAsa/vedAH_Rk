@@ -1,5 +1,5 @@
 +++
-title = "03 प्राग्ज्योतिषमपराजितायां दिशि पुण्यमुपगम्य"
+title = "०३ प्राग्ज्योतिषमपराजितायां दिशि पुण्यमुपगम्य"
 
 +++
 3 [^1] . Let them go to a clean spot in the north-eastern direction, that receives its light from the east.

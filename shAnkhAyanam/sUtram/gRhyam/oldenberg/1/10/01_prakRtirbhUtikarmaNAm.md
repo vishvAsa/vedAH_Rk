@@ -1,5 +1,5 @@
 +++
-title = "01 प्रकृतिर्भूतिकर्मणाम्"
+title = "०१ प्रकृतिर्भूतिकर्मणाम्"
 
 +++
 1 [^1] . Forms the standard for all sacrifices that procure happiness,

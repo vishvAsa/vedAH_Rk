@@ -1,5 +1,5 @@
 +++
-title = "17 उपाकर्मणि चोत्सर्गे त्रिरात्रम्"
+title = "१७ उपाकर्मणि चोत्सर्गे त्रिरात्रम्"
 
 +++
 17 [^6] . 'At the time of the Upākarman and of the Utsarga an interruption (of the Veda-study) shall take place for (three days and) three nights, likewise at the Aṣṭakās for one day and one night, and so on the last night of each season.'

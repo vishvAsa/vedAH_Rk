@@ -1,5 +1,5 @@
 +++
-title = "13 नित्याहुतिषु चेति माण्डूकेयः"
+title = "१३ नित्याहुतिषु चेति माण्डूकेयः"
 
 +++
 13 [^5] . Nor in the standing offerings, according to Māṇḍūkeya.

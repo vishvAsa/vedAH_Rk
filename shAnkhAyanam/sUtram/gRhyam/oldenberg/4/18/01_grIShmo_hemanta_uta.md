@@ -1,5 +1,5 @@
 +++
-title = "01 ग्रीष्मो हेमन्त उत"
+title = "०१ ग्रीष्मो हेमन्त उत"
 
 +++
 1 [^1] . 'May summer, winter and spring, autumn and rainy season be well-ordered to us. May we be under the safe protection of these seasons, and may they last (to us) through a hundred years. Svāhā!

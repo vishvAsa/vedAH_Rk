@@ -1,5 +1,5 @@
 +++
-title = "19 अपि वाविदन्नृषिदैवतच्छन्दाँ सि"
+title = "१९ अपि वाविदन्नृषिदैवतच्छन्दाँ सि"
 
 +++
 19 [^9] . Or also, if he does not know the Ṛṣis, deities, and metres, the teacher recites this verse, 'That glorious (splendour) of Savitar' (Rig-veda III, 62, 10), pāda by pāda, hemistich by hemistich, (and finally) without a stop, and says, when he has finished, 'This (verse belongs to Savitar; it is a Gāyatrī; Viśvāmitra is its Ṛṣi).'

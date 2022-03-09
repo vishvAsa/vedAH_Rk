@@ -1,5 +1,5 @@
 +++
-title = "01 स्नात"
+title = "०१ स्नात"
 
 +++
 1 [^1] . Having bathed,

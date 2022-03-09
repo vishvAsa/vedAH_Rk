@@ -1,5 +1,5 @@
 +++
-title = "01 दशरात्रे चोत्थानम्"
+title = "०१ दशरात्रे चोत्थानम्"
 
 +++
 1 [^1] . After ten days the getting up (of the mother from childbed).

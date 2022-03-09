@@ -1,5 +1,5 @@
 +++
-title = "16 त्वं तमित्युच्चा दिवीति"
+title = "१६ त्वं तमित्युच्चा दिवीति"
 
 +++
 16. (The teacher accepts the gifts) with the verses,

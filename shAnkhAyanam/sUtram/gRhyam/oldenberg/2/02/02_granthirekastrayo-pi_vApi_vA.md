@@ -1,5 +1,5 @@
 +++
-title = "02 ग्रन्थिरेकस्त्रयोऽपि वापि वा"
+title = "०२ ग्रन्थिरेकस्त्रयोऽपि वापि वा"
 
 +++
 2 [^1] . (There should be) one knot, or also three, or also five.

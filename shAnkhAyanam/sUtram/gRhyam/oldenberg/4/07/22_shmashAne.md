@@ -1,5 +1,5 @@
 +++
-title = "22 श्मशाने"
+title = "२२ श्मशाने"
 
 +++
 22. On a burial ground;

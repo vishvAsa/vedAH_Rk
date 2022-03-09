@@ -1,5 +1,5 @@
 +++
-title = "06 एता एव देवताः"
+title = "०६ एता एव देवताः"
 
 +++
 6. The same deities (they worship also) on behalf of the man,

@@ -1,5 +1,5 @@
 +++
-title = "01 षण्णां चेदर्घ्याणामन्यतम आगच्छेद्गोपशुमजमन्नम्"
+title = "०१ षण्णां चेदर्घ्याणामन्यतम आगच्छेद्गोपशुमजमन्नम्"
 
 +++
 1 [^1] . Should any one of the six persons (mentioned in the Śrauta-sūtra and in the Sūtras 4-9) to whom the Arghya reception is due, visit (him), let him make (ready) a cow, a goat, or what (sort of food) he thinks most like (thereto).

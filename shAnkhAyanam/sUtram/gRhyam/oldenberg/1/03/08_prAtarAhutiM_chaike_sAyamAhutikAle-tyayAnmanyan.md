@@ -1,5 +1,5 @@
 +++
-title = "08 प्रातराहुतिं चैके सायमाहुतिकालेऽत्ययान्मन्यन्ते"
+title = "०८ प्रातराहुतिं चैके सायमाहुतिकालेऽत्ययान्मन्यन्ते"
 
 +++
 8 [^8] . And some say that the morning oblation may be made at the time of the evening oblation, in the case of danger.

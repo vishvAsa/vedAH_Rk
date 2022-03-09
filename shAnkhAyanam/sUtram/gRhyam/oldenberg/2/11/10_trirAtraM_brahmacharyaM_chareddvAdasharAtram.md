@@ -1,5 +1,5 @@
 +++
-title = "10 त्रिरात्रं ब्रह्मचर्यं चरेद्द्वादशरात्रम्"
+title = "१० त्रिरात्रं ब्रह्मचर्यं चरेद्द्वादशरात्रम्"
 
 +++
 10 [^7] . Let him observe (those) duties through three days, or twelve days, or one year, or as long as the master may think fit.

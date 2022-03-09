@@ -1,5 +1,5 @@
 +++
-title = "01 कृतप्रातराशस्यापराह्णेऽपराजितायां दिशि"
+title = "०१ कृतप्रातराशस्यापराह्णेऽपराजितायां दिशि"
 
 +++
 1 [^1] . After (the student) has eaten something in the morning, in the afternoon, to the north-east - 

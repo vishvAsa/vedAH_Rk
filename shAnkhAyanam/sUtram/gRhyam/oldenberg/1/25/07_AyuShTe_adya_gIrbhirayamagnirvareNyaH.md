@@ -1,5 +1,5 @@
 +++
-title = "07 आयुष्टे अद्य गीर्भिरयमग्निर्वरेण्यः"
+title = "०७ आयुष्टे अद्य गीर्भिरयमग्निर्वरेण्यः"
 
 +++
 7 [^3] . (He then makes two other oblations with the verses,) '(May) this Agni, the excellent one, (give) thee to-day life for (our) prayers; give us life that we may live long,' - (and,) 'Life-giving, Agni, be strong by Havis; may thy face and thy seat be full of ghee; drinking ghee, the sweet honey of the cow, protect, as a father (protects) his son, here N.N.' The tenth oblation of the mess of cooked food with the verse, 'Thou, Soma, givest bliss to the old one' (Rig-veda I, 91, 7).

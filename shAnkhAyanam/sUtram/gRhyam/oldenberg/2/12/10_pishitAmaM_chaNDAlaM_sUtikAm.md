@@ -1,5 +1,5 @@
 +++
-title = "10 पिशितामं चण्डालं सूतिकाम्"
+title = "१० पिशितामं चण्डालं सूतिकाम्"
 
 +++
 10 [^5] . Raw flesh, a Caṇḍāla, a woman that has lately been confined, or that has her courses, blood, persons whose hands have been cut off, cemeteries, and all sorts of corpse-like (animals?) which enter (their dens?) with the mouth first (?), keeping them away from the place where he dwells.

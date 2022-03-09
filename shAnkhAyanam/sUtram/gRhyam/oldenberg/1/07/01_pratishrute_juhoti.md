@@ -1,5 +1,5 @@
 +++
-title = "01 प्रतिश्रुते जुहोति"
+title = "०१ प्रतिश्रुते जुहोति"
 
 +++
 1 [^1] . When assent has been declared (by the girl's father, the bridegroom) sacrifices.

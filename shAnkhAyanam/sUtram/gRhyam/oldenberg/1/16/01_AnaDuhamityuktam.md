@@ -1,5 +1,5 @@
 +++
-title = "01 आनडुहमित्युक्तम्"
+title = "०१ आनडुहमित्युक्तम्"
 
 +++
 1 [^1] . 'A bull's hide' - this has been declared.

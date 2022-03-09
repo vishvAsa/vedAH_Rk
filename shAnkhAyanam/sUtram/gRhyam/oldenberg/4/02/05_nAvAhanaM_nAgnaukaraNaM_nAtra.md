@@ -1,5 +1,5 @@
 +++
-title = "05 नावाहनं नाग्नौकरणं नात्र"
+title = "०५ नावाहनं नाग्नौकरणं नात्र"
 
 +++
 5 [^3] . No inviting (takes place here), nor the putting (of food) into the fire, nor (do) the Viśve devās (take part in this ceremony). 'Relished?' - thus are they to be asked whether they are satiated. 'May it approach (the fathers),' instead of 'imperishable.'

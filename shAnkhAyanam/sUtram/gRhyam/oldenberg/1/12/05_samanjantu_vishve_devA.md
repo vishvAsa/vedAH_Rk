@@ -1,5 +1,5 @@
 +++
-title = "05 समञ्जन्तु विश्वे देवा"
+title = "०५ समञ्जन्तु विश्वे देवा"
 
 +++
 5 [^1] . The verse for the Anointing is, 'May the Viśve devās anoint (or, unite),' (ibid. 47.)

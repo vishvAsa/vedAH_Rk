@@ -1,5 +1,5 @@
 +++
-title = "06 उदक्संस्थां मध्ये लेखाम्"
+title = "०६ उदक्संस्थां मध्ये लेखाम्"
 
 +++
 6 [^3] . He draws in the middle (of the sacrificial ground) a line from south to north,

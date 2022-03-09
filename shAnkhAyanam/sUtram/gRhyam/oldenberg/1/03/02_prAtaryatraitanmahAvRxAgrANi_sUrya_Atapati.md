@@ -1,5 +1,5 @@
 +++
-title = "02 प्रातर्यत्रैतन्महावृक्षाग्राणि सूर्य आतपति"
+title = "०२ प्रातर्यत्रैतन्महावृक्षाग्राणि सूर्य आतपति"
 
 +++
 2 [^2] . In the morning, when the sun shines on the top of the great trees, that is the most auspicious time for all kinds of sacrifices, unless there be a special rule.

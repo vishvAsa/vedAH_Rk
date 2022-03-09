@@ -1,5 +1,5 @@
 +++
-title = "02 वाग्यतावासीयातामा ध्रुवदर्शनाद्"
+title = "०२ वाग्यतावासीयातामा ध्रुवदर्शनाद्"
 
 +++
 2 [^1] . Let them sit silent, when the sun has set, until the polar-star appears.

@@ -1,5 +1,5 @@
 +++
-title = "05 रथन्तरस्य स्तोत्रियेण पुनरादायम्"
+title = "०५ रथन्तरस्य स्तोत्रियेण पुनरादायम्"
 
 +++
 5 [^3] . He sacrifices three oblations in the forenoon with the Stotriya text of the Rathantara with repetition and Kakubh-forming;

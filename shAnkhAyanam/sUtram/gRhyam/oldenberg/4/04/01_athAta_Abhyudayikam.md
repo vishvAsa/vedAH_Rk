@@ -1,5 +1,5 @@
 +++
-title = "01 अथात आभ्युदयिकम्"
+title = "०१ अथात आभ्युदयिकम्"
 
 +++
 1 [^1] . Now (follows) the Ābhyudayika (i.e. the Śrāddha ceremony referring to good luck).

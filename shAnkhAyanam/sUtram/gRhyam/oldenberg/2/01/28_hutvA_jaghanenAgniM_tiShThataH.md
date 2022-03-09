@@ -1,5 +1,5 @@
 +++
-title = "28 हुत्वा जघनेनाग्निं तिष्ठतः"
+title = "२८ हुत्वा जघनेनाग्निं तिष्ठतः"
 
 +++
 28 [^6] . (And) after (the teacher) has sacrificed, both station themselves behind the fire, the teacher with his face turned to the east, the other with his face to the west.

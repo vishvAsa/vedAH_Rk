@@ -1,5 +1,5 @@
 +++
-title = "04 उदु त्यं जातवेदसम्"
+title = "०४ उदु त्यं जातवेदसम्"
 
 +++
 4. Having murmured the hymns sacred to the Sun, 'Upwards that Jātavedas' (Rig-veda I, 50), 'The bright face of the gods' (I, 115), Adoration to Mitra's (eye)' (X, 37), 'From the sky (where he dwells) may Sūrya protect us' (X, 158),

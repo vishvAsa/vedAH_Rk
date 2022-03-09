@@ -1,5 +1,5 @@
 +++
-title = "01 अथातो दण्डनियमा"
+title = "०१ अथातो दण्डनियमा"
 
 +++
 1. Now (follow) the rules regarding the staff.

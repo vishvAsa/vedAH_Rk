@@ -1,5 +1,5 @@
 +++
-title = "09 मूर्धन्यभिषिच्य"
+title = "०९ मूर्धन्यभिषिच्य"
 
 +++
 9 [^4] . And sprinkles it on their heads.

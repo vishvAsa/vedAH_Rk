@@ -1,5 +1,5 @@
 +++
-title = "05 तथैवार्घपात्राणि"
+title = "०५ तथैवार्घपात्राणि"
 
 +++
 5 [^3] . In the same way the vessels with Argha water.

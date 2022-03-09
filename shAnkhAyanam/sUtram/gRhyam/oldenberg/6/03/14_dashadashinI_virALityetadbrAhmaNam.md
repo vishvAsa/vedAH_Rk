@@ -1,5 +1,5 @@
 +++
-title = "14 दशदशिनी विराळित्येतद्ब्राह्मणम्"
+title = "१४ दशदशिनी विराळित्येतद्ब्राह्मणम्"
 
 +++
 14 [^7] . 'Of decades consists the Virāj' - thus says the Brāhmaṇa.

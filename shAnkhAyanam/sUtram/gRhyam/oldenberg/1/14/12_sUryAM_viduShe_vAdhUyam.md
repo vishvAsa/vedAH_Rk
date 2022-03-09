@@ -1,5 +1,5 @@
 +++
-title = "12 सूर्यां विदुषे वाधूयम्"
+title = "१२ सूर्यां विदुषे वाधूयम्"
 
 +++
 12 [^5] . To him who knows the Sūryā hymn the bride's shift.

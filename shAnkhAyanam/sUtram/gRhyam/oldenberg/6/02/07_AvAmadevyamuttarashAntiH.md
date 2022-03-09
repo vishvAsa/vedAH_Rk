@@ -1,5 +1,5 @@
 +++
-title = "07 आवामदेव्यमुत्तरशान्तिः"
+title = "०७ आवामदेव्यमुत्तरशान्तिः"
 
 +++
 7 [^4] . The final expiation (should extend) to the Vāmadevya.

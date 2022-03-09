@@ -1,5 +1,5 @@
 +++
-title = "03 गृहान्भद्रा न्सुमनसः प्रपद्येऽवीरघ्नो"
+title = "०३ गृहान्भद्रा न्सुमनसः प्रपद्येऽवीरघ्नो"
 
 +++
 3 [^1] . I enter the blessed, joyful house, which does not bring death to men; manly (I enter) that which is rich in men. Bringing refreshment, dropping ghee (we enter the house) in which I shall joyfully rest' - this verse is constantly to be pronounced (when he enters the house).

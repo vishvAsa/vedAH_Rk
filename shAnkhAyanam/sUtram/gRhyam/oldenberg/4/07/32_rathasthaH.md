@@ -1,5 +1,5 @@
 +++
-title = "32 रथस्थः"
+title = "३२ रथस्थः"
 
 +++
 32. While being on a chariot;

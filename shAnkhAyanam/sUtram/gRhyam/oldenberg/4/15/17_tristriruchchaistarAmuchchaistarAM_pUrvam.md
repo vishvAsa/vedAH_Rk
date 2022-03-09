@@ -1,5 +1,5 @@
 +++
-title = "17 त्रिस्त्रिरुच्चैस्तरामुच्चैस्तरां पूर्वम्"
+title = "१७ त्रिस्त्रिरुच्चैस्तरामुच्चैस्तरां पूर्वम्"
 
 +++
 17 [^2] . (He repeats these Mantras) thrice each time, the first (part) with higher voice each time,

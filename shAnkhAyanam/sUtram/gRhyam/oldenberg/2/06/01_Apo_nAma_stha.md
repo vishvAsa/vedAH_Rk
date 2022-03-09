@@ -1,5 +1,5 @@
 +++
-title = "01 आपो नाम स्थ"
+title = "०१ आपो नाम स्थ"
 
 +++
 1 [^1] . 'Waters are ye by name; happy ones are ye by name; sappy ones are ye by name; undecaying ones are ye by name; fearless ones are ye by name; immortal ones are ye by name. Of you, being such, may I partake; receive me into your favour' - with these words (the teacher) makes the student sip water three times,

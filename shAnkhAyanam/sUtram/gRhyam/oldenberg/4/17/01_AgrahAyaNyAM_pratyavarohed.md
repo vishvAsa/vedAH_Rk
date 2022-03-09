@@ -1,5 +1,5 @@
 +++
-title = "01 आग्रहायण्यां प्रत्यवरोहेद्"
+title = "०१ आग्रहायण्यां प्रत्यवरोहेद्"
 
 +++
 1 [^1] . On the Āgrahāyaṇī full moon day he shall redescend,

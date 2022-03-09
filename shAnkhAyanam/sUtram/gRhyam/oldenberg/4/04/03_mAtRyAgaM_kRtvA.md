@@ -1,5 +1,5 @@
 +++
-title = "03 मातृयागं कृत्वा"
+title = "०३ मातृयागं कृत्वा"
 
 +++
 3 [^2] . After the sacrifice to the mothers has been performed,

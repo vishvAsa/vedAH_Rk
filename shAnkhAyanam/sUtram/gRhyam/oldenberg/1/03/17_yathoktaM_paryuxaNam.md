@@ -1,5 +1,5 @@
 +++
-title = "17 यथोक्तं पर्युक्षणम्"
+title = "१७ यथोक्तं पर्युक्षणम्"
 
 +++
 17 [^10] . The sprinkling with water as indicated (in the Śrauta-sūtra).

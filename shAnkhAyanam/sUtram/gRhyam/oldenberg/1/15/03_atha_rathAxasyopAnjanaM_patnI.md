@@ -1,5 +1,5 @@
 +++
-title = "03 अथ रथाक्षस्योपाञ्जनं पत्नी"
+title = "०३ अथ रथाक्षस्योपाञ्जनं पत्नी"
 
 +++
 3 [^1] . The wife then smears the axle of the chariot with clarified butter with this (verse), 'They feasted, they got drunk' (Rig-veda I, 82, 2),

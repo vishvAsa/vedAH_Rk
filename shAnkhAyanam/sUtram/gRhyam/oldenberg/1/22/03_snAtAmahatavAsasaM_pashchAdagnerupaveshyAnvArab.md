@@ -1,5 +1,0 @@
-+++
-title = "03 स्नातामहतवाससं पश्चादग्नेरुपवेश्यान्वारब्धायां महाव्याहृतिभिर्हुत्वा"
-
-+++
-3. He sacrifices, while she takes hold of him, with the Mahāvyāhṛtis.

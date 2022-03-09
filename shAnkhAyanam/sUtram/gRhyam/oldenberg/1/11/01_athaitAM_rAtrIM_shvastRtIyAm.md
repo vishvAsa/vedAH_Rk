@@ -1,5 +1,5 @@
 +++
-title = "01 अथैतां रात्रीं श्वस्तृतीयाम्"
+title = "०१ अथैतां रात्रीं श्वस्तृतीयाम्"
 
 +++
 1 [^1] . Now when the bride is to be carried away (to the bridegroom's house) that night, or on the next, or on the third night,

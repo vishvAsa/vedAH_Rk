@@ -1,5 +1,5 @@
 +++
-title = "05 अग्निना रयिं तन्नस्तुरीपम्"
+title = "०५ अग्निना रयिं तन्नस्तुरीपम्"
 
 +++
 5 [^2] . Let him sprinkle it into her right nostril with the four verses, 'By Agni may good' (Rig-veda I, 1, 3), 'That sperm to us' (III, 4, 9), 'May he succeed who lights fire' (V, 37, 2), 'Of tawny shape' (II, 3, 9), with Svāhā at the end (of each verse).

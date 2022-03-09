@@ -1,5 +1,5 @@
 +++
-title = "04 अमोऽहमस्मि सा त्वम्"
+title = "०४ अमोऽहमस्मि सा त्वम्"
 
 +++
 4 [^1] . (He continues thus,) 'This am I, that art thou; that art thou, this am I; the heaven I, the earth thou; the Ṛc art thou, the Sāman I. So be thou devoted to me.

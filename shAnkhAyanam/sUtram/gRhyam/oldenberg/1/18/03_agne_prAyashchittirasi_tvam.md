@@ -1,5 +1,5 @@
 +++
-title = "03 अग्ने प्रायश्चित्तिरसि त्वम्"
+title = "०३ अग्ने प्रायश्चित्तिरसि त्वम्"
 
 +++
 3 [^1] . 'Agni! Thou art expiation; thou art the expiation of the gods. What substance dwells in her that brings death to her husband, that drive away from her.

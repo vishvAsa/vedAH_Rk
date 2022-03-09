@@ -1,5 +1,5 @@
 +++
-title = "03 सव्येन कुशानादाय दक्षिणेन"
+title = "०३ सव्येन कुशानादाय दक्षिणेन"
 
 +++
 3 [^2] . Taking up Kuśa blades with the left, and the Sruva at its bottom with the right hand, with the words, 'The hand of Viṣṇu art thou' - 

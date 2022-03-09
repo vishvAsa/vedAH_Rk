@@ -1,5 +1,5 @@
 +++
-title = "13 यज्ञोपवीतीत्यादि च सम्भवत्सर्वम्"
+title = "१३ यज्ञोपवीतीत्यादि च सम्भवत्सर्वम्"
 
 +++
 13 [^7] . And 'invested with the sacrificial cord,' &c., all these rules, as far as they are applicable, should be applied (here also) in consequence of the unity of the ritual.

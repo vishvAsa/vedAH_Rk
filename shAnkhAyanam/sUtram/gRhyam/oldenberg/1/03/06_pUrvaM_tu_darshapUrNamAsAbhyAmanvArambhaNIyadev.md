@@ -1,5 +1,5 @@
 +++
-title = "06 पूर्वं तु दर्शपूर्णमासाभ्यामन्वारम्भणीयदेवताभ्यो"
+title = "०६ पूर्वं तु दर्शपूर्णमासाभ्यामन्वारम्भणीयदेवताभ्यो"
 
 +++
 6 [^6] . But before the sacrifices of the new and full moon one should make offerings to the deities of the Anvārambhaṇīya ceremony.

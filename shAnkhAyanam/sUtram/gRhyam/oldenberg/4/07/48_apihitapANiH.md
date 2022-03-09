@@ -1,5 +1,5 @@
 +++
-title = "48 अपिहितपाणिः"
+title = "४८ अपिहितपाणिः"
 
 +++
 48. With veiled hands;

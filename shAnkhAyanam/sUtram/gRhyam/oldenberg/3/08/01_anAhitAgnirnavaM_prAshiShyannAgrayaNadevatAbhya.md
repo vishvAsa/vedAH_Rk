@@ -1,5 +1,5 @@
 +++
-title = "01 अनाहिताग्निर्नवं प्राशिष्यन्नाग्रयणदेवताभ्यः स्विष्टकृच्चतुर्थीभ्यः"
+title = "०१ अनाहिताग्निर्नवं प्राशिष्यन्नाग्रयणदेवताभ्यः"
 
 +++
 1 [^1] . When one who has not set up the (sacred Śrauta) fires, is going to partake of the first-fruits (of the harvest), let him sacrifice to the Āgrayaṇa deities with (Agni) Sviṣṭakṛt as the fourth, and with the word SVĀHĀ, on his (sacred) domestic fire.

@@ -1,5 +1,5 @@
 +++
-title = "08 नैवंविधे हविर्न्यस्तं न"
+title = "०८ नैवंविधे हविर्न्यस्तं न"
 
 +++
 8. 'An oblation deposited in a person like that will never miss its way to the deity;

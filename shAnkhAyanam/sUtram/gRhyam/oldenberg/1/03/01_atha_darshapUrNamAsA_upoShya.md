@@ -1,5 +1,5 @@
 +++
-title = "01 अथ दर्शपूर्णमासा उपोष्य"
+title = "०१ अथ दर्शपूर्णमासा उपोष्य"
 
 +++
 1 [^1] . Now (follow) the ceremonies of the days of the new and full moon.

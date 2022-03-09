@@ -1,5 +1,5 @@
 +++
-title = "05 गृह्योऽपगृह्यो मयोभूराखरो निखरो"
+title = "०५ गृह्योऽपगृह्यो मयोभूराखरो निखरो"
 
 +++
 5 [^2] . (And with the words), 'The domestic one, he who goes away from the house, the refreshing one, he who goes into the kennel, he who dwells in the kennel, he who comes out of it, the greedy one, the destroyer of enemies' - to the different directions (of the horizon), beginning with that belonging to Varuṇa (i.e. the west), from left to right.

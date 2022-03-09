@@ -1,5 +1,5 @@
 +++
-title = "08 प्रियाय मैत्रः"
+title = "०८ प्रियाय मैत्रः"
 
 +++
 8 [^4] . If to a friend, to Mitra;

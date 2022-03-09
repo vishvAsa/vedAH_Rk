@@ -1,5 +1,5 @@
 +++
-title = "12 ॐकारो महाव्याहृतयः सावित्री"
+title = "१२ ॐकारो महाव्याहृतयः सावित्री"
 
 +++
 12 [^5] . The syllable OM, the Mahāvyāhṛtis, the Sāvitrī, the Rathantara, the Bṛhat, the Vāmadevya; Bṛhat and Rathantara with repetition and Kakubh-forming.

@@ -1,5 +1,5 @@
 +++
-title = "02 ऐन्द्री मावृतमावर्त आदित्यस्यावृतमन्वावर्त"
+title = "०२ ऐन्द्री मावृतमावर्त आदित्यस्यावृतमन्वावर्त"
 
 +++
 2 [^2] . 'In Indra's course I move; in the sun's course I move after him' - with these words he turns round from left to right,

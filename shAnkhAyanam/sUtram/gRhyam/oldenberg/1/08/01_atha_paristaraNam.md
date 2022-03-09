@@ -1,5 +1,5 @@
 +++
-title = "01 अथ परिस्तरणम्"
+title = "०१ अथ परिस्तरणम्"
 
 +++
 1 [^1] . Now (follows) the strewing (of grass) around (the fire).

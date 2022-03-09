@@ -1,5 +1,5 @@
 +++
-title = "10 न सह भुञ्जीत"
+title = "१० न सह भुञ्जीत"
 
 +++
 10 [^3] . Let him not eat together (with his wife),

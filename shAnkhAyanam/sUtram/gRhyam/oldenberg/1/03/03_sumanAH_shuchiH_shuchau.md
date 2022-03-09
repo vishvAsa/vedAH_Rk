@@ -1,5 +1,5 @@
 +++
-title = "03 सुमनाः शुचिः शुचौ"
+title = "०३ सुमनाः शुचिः शुचौ"
 
 +++
 3 [^3] . With a genial mind, clean, on a pure, protected spot, having cooked a full, thin mess of rice, he offers that cooked oblation to the deities of the festivals of the new and full moon, distributing it in the due way.

@@ -1,5 +1,5 @@
 +++
-title = "26 परिवाप्योपनेयः स्याद्"
+title = "२६ परिवाप्योपनेयः स्याद्"
 
 +++
 26 [^5] . Having had him shaved all round (his head) he should initiate him.

@@ -1,5 +1,5 @@
 +++
-title = "01 अथ सपिण्डीकरणम्"
+title = "०१ अथ सपिण्डीकरणम्"
 
 +++
 1 [^1] . Now (follows) the Sapiṇḍīkaraṇa.

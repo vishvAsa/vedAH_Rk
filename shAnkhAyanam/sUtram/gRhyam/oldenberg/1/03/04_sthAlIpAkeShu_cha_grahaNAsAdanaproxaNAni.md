@@ -1,5 +1,5 @@
 +++
-title = "05 स्थालीपाकेषु च ग्रहणासादनप्रोक्षणानि"
+title = "०४ स्थालीपाकेषु च ग्रहणासादनप्रोक्षणानि"
 
 +++
 4 [^4] . In the oblations of cooked food the acts of taking (the intended oblation), of putting it down (near the fire), and of sprinkling it (with water) are performed with regard to the deities of the (respective) Mantras.

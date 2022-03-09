@@ -1,5 +1,5 @@
 +++
-title = "06 अथ वास्तुमध्ये बलिम्"
+title = "०६ अथ वास्तुमध्ये बलिम्"
 
 +++
 6 [^3] . He then distributes Balis, from the left to the right, through the different quarters (of the horizon, to the presiding deities) in due order (with the words),

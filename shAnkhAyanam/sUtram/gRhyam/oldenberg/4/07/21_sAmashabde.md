@@ -1,5 +1,5 @@
 +++
-title = "21 सामशब्दे"
+title = "२१ सामशब्दे"
 
 +++
 21 [^6] . When the sound of a Sāman is heard;

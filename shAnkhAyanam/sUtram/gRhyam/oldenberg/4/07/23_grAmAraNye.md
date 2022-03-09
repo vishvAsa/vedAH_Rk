@@ -1,5 +1,5 @@
 +++
-title = "23 ग्रामारण्ये"
+title = "२३ ग्रामारण्ये"
 
 +++
 23 [^7] . In a wilderness which belongs to the village;

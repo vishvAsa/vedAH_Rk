@@ -1,5 +1,5 @@
 +++
-title = "06 मण्डलं तु प्राग्द्वारमुदग्द्वारम्"
+title = "०६ मण्डलं तु प्राग्द्वारमुदग्द्वारम्"
 
 +++
 6 [^3] . The circle should have its entrance to the east or to the north; it should be (praised as) excellent among the people, not too spacious, not too narrow.

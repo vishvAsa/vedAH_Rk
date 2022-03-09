@@ -1,5 +1,5 @@
 +++
-title = "01 अथानुवाचनस्य"
+title = "०१ अथानुवाचनस्य"
 
 +++
 1 [^1] . Now (follows the exposition) of the study of the Veda.

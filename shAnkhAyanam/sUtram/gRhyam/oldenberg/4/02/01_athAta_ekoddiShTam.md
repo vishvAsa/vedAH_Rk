@@ -1,5 +1,5 @@
 +++
-title = "01 अथात एकोद्दिष्टम्"
+title = "०१ अथात एकोद्दिष्टम्"
 
 +++
 1 [^1]  Now (follows) the Ekoddiṣṭa (i.e. the Śrāddha ceremony directed to a single dead person),

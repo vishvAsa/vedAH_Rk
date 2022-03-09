@@ -1,5 +1,5 @@
 +++
-title = "04 ये समानाः समनसः"
+title = "०४ ये समानाः समनसः"
 
 +++
 4. And let him distribute the first lump on the (other) three with (the verses), They who commonly, concordantly (dwell) in Yama's realm, the fathers: for them be space, freedom, adoration, sacrifice established among the gods.

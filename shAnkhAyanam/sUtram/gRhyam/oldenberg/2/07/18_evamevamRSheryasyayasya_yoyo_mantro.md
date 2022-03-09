@@ -1,5 +1,5 @@
 +++
-title = "18 एवमेवमृषेर्यस्ययस्य योयो मन्त्रो"
+title = "१८ एवमेवमृषेर्यस्ययस्य योयो मन्त्रो"
 
 +++
 18 [^8] . In that way, according to what Ṛṣi each hymn belongs to and what its deity and its metre is, thus (with the corresponding indications of Ṛṣi, &c.) let him recite each hymn;

@@ -1,5 +1,5 @@
 +++
-title = "05 ब्रह्मचार्यसि समिधमाधेह्यपोऽशान कर्म"
+title = "०५ ब्रह्मचार्यसि समिधमाधेह्यपोऽशान कर्म"
 
 +++
 5 [^4] . 'A student art thou. Put on fuel. Eat water. Do the service. Do not sleep in the day-time. Keep silence till the putting on of fuel.'

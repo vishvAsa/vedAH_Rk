@@ -1,5 +1,5 @@
 +++
-title = "01 न नग्नां स्त्रियमीक्षेतान्यत्र"
+title = "०१ न नग्नां स्त्रियमीक्षेतान्यत्र"
 
 +++
 1 [^1] . Let him not look at a naked woman, except during sexual intercourse,

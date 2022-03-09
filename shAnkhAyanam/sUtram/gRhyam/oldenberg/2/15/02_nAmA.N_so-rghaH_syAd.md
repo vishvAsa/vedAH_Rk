@@ -1,5 +1,5 @@
 +++
-title = "02 नामाँ सोऽर्घः स्याद्"
+title = "०२ नामाँ सोऽर्घः स्याद्"
 
 +++
 2 [^2] . Let the Argha not be without flesh.
