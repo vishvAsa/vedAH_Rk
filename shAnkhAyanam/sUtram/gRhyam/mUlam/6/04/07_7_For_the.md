@@ -1,9 +1,0 @@
-+++
-title = "०७ 7 For the"
-
-+++
-7 [^3] . For the Saṃhitās, however, before (the text given in the first Sūtra the formula has to be recited), 'I shall speak right, I shall speak truth (&c.)' - this is the difference (in the case of the Saṃhitās).
-
-
-[^3]:  On the Saṃhitās (Kaush. Ār. VII, VIII) see Max Müller, Rig-veda Prātiśākhya, pp. 4 seq.; Ait. Āraṇyaka III (pp. 305 seqq., ed. Bibl. Ind.; Sacred Books of the East, I, pp. 247 seq.).
-
