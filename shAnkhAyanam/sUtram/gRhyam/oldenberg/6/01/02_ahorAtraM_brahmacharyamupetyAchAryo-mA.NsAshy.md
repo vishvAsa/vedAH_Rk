@@ -2,8 +2,6 @@
 title = "०२ अहोरात्रं ब्रह्मचर्यमुपेत्याचार्योऽमाँसाश्य्"
 
 +++
-2 [^2] . The teacher abstains through one day and one night from sexual intercourse and from eating flesh.
+2 [^fn_322]. Especially the Śakvarī verses (are concerned by what has been declared). Such are the rules.
 
-
-[^2]:  Comp. II, 11, 6.
-
+[^fn_322]: 2, 2. It seems to me that this Sūtra should be divided into two (after śakvaryaḥ), so that the words iti niyamāḥ would correspond to iti bhāshikam, chap. 2, 13.

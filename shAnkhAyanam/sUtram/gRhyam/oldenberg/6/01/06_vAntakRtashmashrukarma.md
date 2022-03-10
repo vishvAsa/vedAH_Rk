@@ -2,8 +2,6 @@
 title = "०६ वान्तकृतश्मश्रुकर्म"
 
 +++
-6 [^4] . Especially the Śakvarī verses (are concerned by what has been declared). Such are the rules.
+6 [^fn_323]. When he has vomited, or when his beard has been shaved,
 
-
-[^4]:  2, 2. It seems to me that this Sūtra should be divided into two (after śakvaryaḥ), so that the words iti niyamāḥ would correspond to iti bhāṣikam, chap. 2, 13.
-
+[^fn_323]: Comp. IV, 7, 42. See also Ait. Âranyaka V, 3, 9.
