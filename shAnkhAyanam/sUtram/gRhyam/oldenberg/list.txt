@@ -779,7 +779,7 @@ list.txt
 07_bRhato-parAhNe.md
 08_mahAvyAhRtayashchatasro_vAstoShpata_iti.md
 09_jyeShThaM_putramAdAya_jAyAm.md
-10_indra_sya_gRhAH.md
+10_indrasya_gRhAH_shivA.md
 
 ./3/05:
 01_shagmaMshagmaM_shivaMshivaM_xemAya.md
@@ -1311,10 +1311,17 @@ list.txt
 04_shavarUpANAM_cha.md
 05_yAnyAsyena_pravisheyur.md
 06_vAntakRtashmashrukarma.md
+07_mA.NsAshanashrAddhasUtakabhojaneShu.md
+08_grAmAdhyayanAnantarhitAnyahAni.md
+09_trirAtro-navakLLiptaH.md
+10_parAbhimRShTa.md
+11_upaparvaNAmahna_uttarArdhAni_cha.md
+12_agnividyutstanayitnuvarShAmahAbhraprAdurbhAvAch.md
+13_vAte_cha_sharkarAkarShiNi.md
 
 ./6/02:
 01_UrdhvamAShADhyAshchaturo_mAsAnnAdhIyItAtyantam.md
-02_UrdhvamAShADhyAshchaturo_mAsAnnAdhIyItAtyantam.md
+02_shakvarya_iti_niyamAH.md
 03_prAgjyotiShamaparAjitAyAM_dishi_puNyamupagamya.md
 04_anudita_udakagrahaNam.md
 05_maNDalapraveshashchAnjanagandhimityetayarchA.md
