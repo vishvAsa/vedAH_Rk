@@ -10,4 +10,10 @@ It is possible that the impv. didīhí ‘illuminate’ in the first hemistich i
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/108/09-10.md">
+<details open><summary><h2>09-10 ...{Loading}...</h2></summary>
+
+These two vss. are syntactically independent but linked by the theme of rain.
+
+</details>
+</div>

@@ -12,4 +12,10 @@ However, it is also possible and, I now think, desirable to interpr. it as an in
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+This tṛca is attributed to Vṛṣagaṇa Vāsiṣṭha, whose given name was obviously extracted from vs. 8. All three vss. contain wild (or semi-wild) animals: a boar in 7d, geese in 8a, and a “sharp-horned” (tigmáśṛṅga-) one in 9c, a descriptor of vṛṣabhá-s generally.
+
+</details>
+</div>

@@ -8,4 +8,10 @@ yujmahe is a famous crux: though it should belong to the well-attested root aor.
 plausible foundation (as opposed to Geldner’s motiveless non-redupl. pf.), the coexistence of yujmahe with yujāná- in the same verse, and the general trickiness of Agastya’s poetry, incline me to a nonce, contextual explanation. The oddly placed nú ‘now’ (though see 9a) immediately following the verb form and ending the pāda seems Agastya’s signal that he’s twisted and tweaked the aorist to his own ends -- a temporary present. Thanks to Jesse Lundquist for assembling the relevant lit. and for illuminating disc.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/165/05-06.md">
+<details open><summary><h2>05-06 ...{Loading}...</h2></summary>
+
+Indra seizes the Maruts’ assertion of independent power (svadhā́- 5d) by taxing them with the absence of (their exercise of) that power (6a) at a crucial moment. Another skirmish in the battle of the lexicon.
+
+</details>
+</div>

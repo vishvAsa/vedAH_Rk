@@ -13,4 +13,9 @@ Both Geldner and Renou take the verbal idiom in cd as transitive, or at least co
 with an acc. of goal. See, e.g., IX.110.8 índram abhí … sám asvaran “ They cried out in unison towards Indra” (sim. IX.106.11, 67.9). The conversion of the preverb abhí into the adverbial abhítaḥ would not be responsible for transitivizing the idiom. Cf., e.g., X.27.8 hávā íd aryó abhítaḥ sám āyan “The cries of the Stranger came together from all sides.” I agree that íṣam is an unexpected goal for this idiom, but I think we have to live with it.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+Again no particular signs of cohesion, save for the X-víd- ‘finding X’ cmpds in 10b, 10d, and 11d.
+</details>
+</div>

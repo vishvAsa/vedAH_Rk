@@ -10,4 +10,12 @@ line, and these possibilities are disc. in more detail by Scarlatta without a fi
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/25-27.md">
+<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+
+Like the tṛca 19-21, this one focuses in great part on the gods as drinkers of soma and the desire to bring them to the ritual; the “pursuit” (vītím) of Indra and Vāyu in 25b is reprised in devā-vī́- ‘pursuing the gods’ in 26a, while the gods are mentioned twice in 27ab. The final vs. also begins with the typical hymnsummarizing evā́as three times elsewhere in this hymn (vss. 13-15, 19-21, 34-36).
+
+The poet is named as Mṛḍīka Vāsiṣṭha, who is also the poet of X.150. In the latter hymn his name is clearly drawn from the dat. mṛḍīkā́ya found in the refrain of every vs., but there is no such basis here.
+
+</details>
+</div>

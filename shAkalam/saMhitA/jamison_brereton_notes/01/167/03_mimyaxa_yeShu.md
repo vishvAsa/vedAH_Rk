@@ -12,4 +12,10 @@ Hoffmann (194-95, fld. by Witzel Gotō) sees sáṃ vā́k as a new, separate cl
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/167/03-07.md">
+<details open><summary><h2>03-07 ...{Loading}...</h2></summary>
+
+Hoffmann (Injunk., 194-97) translates and comments on these verses.
+
+</details>
+</div>

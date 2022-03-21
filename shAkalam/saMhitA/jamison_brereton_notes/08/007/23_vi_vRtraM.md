@@ -8,4 +8,10 @@ It is possible that ví √yā should be rendered ‘drive through’, not ‘dr
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/007/22-23.md">
+<details open><summary><h2>22-23 ...{Loading}...</h2></summary>
+
+The insistently repeated sám in vs. 22 (4x in 3 pādas) is complemented by its opposite ví in 23, though ví needs only two occurrences to continue the pattern.
+
+</details>
+</div>

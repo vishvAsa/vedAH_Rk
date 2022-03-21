@@ -11,4 +11,10 @@ The expression gā́ádrim uṣṇán “burned the cows out of the rock” is, 
 A poet who could deploy the “placer of the sun” formula in the manner he did in the previous vs. is surely capable of such a sly play on words.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/37-39.md">
+<details open><summary><h2>37-39 ...{Loading}...</h2></summary>
+
+I do not see any signs of unity in this tṛca. All three vss. contain a participle of √pū in passive function, pūnāná- in 37, 38, pūyámāna- in 39, but this is hardly remarkable in the Soma maṇḍala.
+
+</details>
+</div>

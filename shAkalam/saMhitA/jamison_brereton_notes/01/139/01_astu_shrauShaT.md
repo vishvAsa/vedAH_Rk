@@ -8,4 +8,10 @@ But there are several other occurrences of this lexeme sám √dā that also app
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/139/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+For the sense of these vss., see published introduction.
+
+</details>
+</div>

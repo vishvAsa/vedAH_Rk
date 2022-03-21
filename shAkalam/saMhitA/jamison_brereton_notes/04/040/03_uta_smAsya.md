@@ -16,4 +16,12 @@ I follow Schaeffer (Intens. 131) in taking aṅkasám as referring to the curvin
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/040/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+These two vss. revisit the utá sma opening that characterized the middle vss. of IV.38.
+
+There is also a concentration of intensives: 3d táritrataḥ, 4c saṃtā́vīt u vat, 4d āpaniphaṇat -- appropriate to the ever-increasing speed and the intense repetitive movements of the horse racing to the finish line.
+
+</details>
+</div>

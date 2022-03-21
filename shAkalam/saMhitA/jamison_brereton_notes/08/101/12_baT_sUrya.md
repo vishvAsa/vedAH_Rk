@@ -6,4 +6,10 @@ Presumably the sun’s light is ‘undeceivable’ (adābhyàm) because the sun 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/101/11-12.md">
+<details open><summary><h2>11-12 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, the banality of these vss. is a surprising aberration in RVic style. I will note that pāda-final mahā́m̐asi “you are great,” found 5x in these two vss. (once mid-pāda), is something of a signature of the late VIIIth Maṇḍala (60.6, 19; 64.2, 95.4, 98.2), though it's found occasionally elsewhere.
+
+</details>
+</div>

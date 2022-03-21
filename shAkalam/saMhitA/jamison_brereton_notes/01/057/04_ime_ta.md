@@ -9,4 +9,10 @@ táva smasi is a paraphrase of 4a (imé) te … té vayám
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/057/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+
+A bit of word play in the sequence haryatá(ḥ) (2c), haríto (3d), harya tád (4d).
+
+</details>
+</div>

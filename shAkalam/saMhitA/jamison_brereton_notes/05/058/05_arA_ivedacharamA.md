@@ -12,4 +12,10 @@ Flg. Hoffmann (Aufs. II.413 [=MSS 10 (1957) 61-62]), Witzel Gotō and Renou (tho
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
+<details open><summary><h2>05-07 ...{Loading}...</h2></summary>
+
+Sustained phonetic play, esp. with p and r/ṛ, in prá-pra (5b), pṛ́śneḥ putrā́(ḥ) (5c), prā́yāsiṣṭa pṛ́ṣatībhiḥ (6a), práthiṣṭa … pṛthivī́(7a).
+
+</details>
+</div>

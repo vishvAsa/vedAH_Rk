@@ -6,4 +6,10 @@ This final vs. is esp. close in phraseology to the Vena hymn, with pāda a ident
 
 Geldner takes the part. praticákṣāṇaḥ as transitive/causative “seine Farben alle offenbarend” (though he questions this in n. 12b); sim. Ober (II.13) “erscheinen lassend.” Renou’s tr. is like mine (“regardant-en-face toutes les formes siennes”), although in his n. he considers the opposite possibility, citing passages with práti √cakṣ that supposedly have this transitive sense. But his exx. are not probative, and the middle voice of the participle makes it esp. unlikely to have this sense.
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/085/09-12.md">
+<details open><summary><h2>09-12 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, these four vss. treat the identification of Soma and the sun and are similar to the very enigmatic Vena hymn, X.123, which is attributed to the same poet, Vena Bhārgava.
+
+</details>
+</div>

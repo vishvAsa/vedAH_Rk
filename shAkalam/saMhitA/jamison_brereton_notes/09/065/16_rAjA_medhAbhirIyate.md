@@ -10,4 +10,10 @@ take it to √yā/ī ‘speed’ (so also Sāyaṇa., who glosses gacchati). In 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his conveying good things to us on that journey. Cf. esp. 17 ā́naḥ … váhā and 18 ā́naḥ … bhara. All three vss. end in a purpose dative / dative infinitive: 16 yā́tave, 17 ūtáye, 18 devávītaye.
+
+</details>
+</div>

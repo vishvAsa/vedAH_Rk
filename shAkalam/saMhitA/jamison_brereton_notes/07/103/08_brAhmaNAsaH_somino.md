@@ -8,4 +8,10 @@ The frogs are compared to two different kinds of priests: brahmins (7a, 8a), who
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/07/103/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+With the behavioral model of the frogs established in the first 6 vss., the next three treat the ritual application of this model.
+
+</details>
+</div>

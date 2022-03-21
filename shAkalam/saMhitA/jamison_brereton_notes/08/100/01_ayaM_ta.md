@@ -6,4 +6,12 @@ I take dī́dharaḥ as the subjunctive of the redupl. aor., whose indicative fo
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+As I argue in the published introduction, the heavy emphasis on Indra’s designating a portion of soma at the beginning of the sacrifice for “you,” the speaker of vs. 1, points strongly at Vāyu as this speaker, rather than Viṣṇu, as Geldner suggests.
+
+Oldenberg also considers it an Indra-Vāyu dialogue.
+
+</details>
+</div>

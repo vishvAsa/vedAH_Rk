@@ -6,4 +6,10 @@ Both Geldner and Renou supply an intermediate infinitive to govern víśvāni k�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/062/25-27.md">
+<details open><summary><h2>25-27 ...{Loading}...</h2></summary>
+
+This tṛca shows more signs of unity than others in this hymn, esp. in the 1st two vss. Both 25 and 26 contain pāda-initial pávasva (25a, 26c) and the variant phrases vācó agriyáḥ (25a) / agriyó vā́caḥ (26b), as well as forms of víśva- (25c víśvāni, 26c viśvam(ejaya)). In 27a Soma is addressed by the voc. kave, while 25c contains the phrase víśvāni kā́vyā.
+
+</details>
+</div>

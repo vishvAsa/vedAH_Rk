@@ -16,4 +16,12 @@ The sudhyáḥ ‘those of good insight’ are probably, with Witzel Gotō, the 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/021/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+As discussed in the published introduction, the next few vss. are very challenging; they have received multiple interpretations, which can’t be discussed in detail here.
+
+The vss. form a unity based on their shared vocab. (e.g., góhe 6b, 7c, 8c; auśijásya 6b, 7c), their shared syntactic formulae (yád *ī 6a, yád īm 7a, 7c, and yád ī 8d), and their shared metrical irregularity.
+
+</details>
+</div>

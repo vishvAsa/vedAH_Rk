@@ -13,4 +13,10 @@ Now, as to their transitive jā́gṛvi-. To be fair, it is not only the instr. 
 See VII.103.7ab (the frog hymn), where the frogs are compared to brahmins, who are in turn compared to frogs. Or else the animatized Soma the god is compared to soma the drink. But in any case, I prefer to accept the simile at face value, however clumsy, rather than erecting a fantastic superstructure by reinterpretating standard somic descriptors.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/107/12-13.md">
+<details open><summary><h2>12-13 ...{Loading}...</h2></summary>
+
+No particular signs of cohesion. River(s) appear in both vss., but with different words (síndhu- 12b, nadī́- 13d). jā́gṛviḥ in 12c echoes the one in 6a.
+
+</details>
+</div>

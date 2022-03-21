@@ -7,4 +7,10 @@ Despite the distance between them and the syntagms in between, I take rāyā́ a
 It is tempting to interpr gántā in d as a periphrastic future, a temptation yielded to in the published translation
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/030/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Note the reciprocal ‘seeking’ (ichán) of Indra (1c) and his devotee (2b).
+
+</details>
+</div>

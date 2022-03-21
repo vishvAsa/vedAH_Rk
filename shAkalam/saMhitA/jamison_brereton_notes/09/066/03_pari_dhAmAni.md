@@ -7,4 +7,12 @@ My interpr. of the du. dhā́manī in 2 as the two cosmic domains allows the con
 The main verb of this clause is pári … asi, in the formula viśvátaḥ pári √as ‘surround entirely’ (on which see my 1998 “Rigvedic viśvátaḥ sīm, Or, Why Syntax Needs Poetics,” Fs. Watkins). Within this phrase we seem to have an embedded rel. cl. yā́ni te “which are yours,” dependent on the obj. dhā́māni, and embedded relatives are generally blocked in the RV. But as we have noted elsewhere (see, e.g., comm. ad VI.21.2, 22.5), nominal rel. clauses are an exception to this rule, and here the yā́ni seems to be displaying (proto-)izafe behavior.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The tṛca shows clear signs of unity, esp. lexically. Not only do all three vss.
+
+contain a form of páva- (pávasva 1a, voc. pa/ávamāna 2b, 3c), but the stem víśva- is found 4x (1a, b, 2a, 3b), kave (3c) echoes kā́vya (1b), and pl. dhā́māni in 3a echoes du. dhā́manī in 2b. These “domains” of vss 2-3 are thematically connected to the voc. viśvacarṣaṇe ‘common to all the separate peoples’, in defining the spaces over which Soma holds sway.
+
+</details>
+</div>

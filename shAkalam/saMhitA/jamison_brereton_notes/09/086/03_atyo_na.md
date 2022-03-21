@@ -9,4 +9,12 @@ Although, as noted above, vss. 1 and 3 share the same goal, the kóśa-, the phy
 In the published translation for ease of English parsing I moved the tr. of svarvíd from b to cd, but this mixes the levels: the sun-finding Soma is the one that reaches heaven, while the soma of cd is the substance purified in the sheep’s filter. Better (if somewhat awkward): “… rush to the prize, as the sun-finder (rush) to the cask of heaven …”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+The first two vss. of this tṛca begin identically (prá te), and all three vss.
+
+concern the swift journey of the soma drinks, which is compared to that of swift animals. Vss. 1 and 3 share the same verb (√ṛṣ: 1b arṣanti, 3a arṣa; ásṛkṣata in 2b is semantically similar) and the same goal, the kóśa- or ‘cask’, while vss. 1 and 2 both contain āś́vaḥ ‘swift’. Of course none of these features is unusual in the soma corpus, so they are not strong evidence for tṛca unity.
+
+</details>
+</div>

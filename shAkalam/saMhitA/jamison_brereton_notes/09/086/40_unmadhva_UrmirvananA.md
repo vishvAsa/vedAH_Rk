@@ -10,4 +10,10 @@ Soma is presumably “thousand-spiked” (sahásrabhṛṣṭi-) because of the 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/40-42.md">
+<details open><summary><h2>40-42 ...{Loading}...</h2></summary>
+
+The focus on our welfare found in the last tṛca is found here in vs. 41 but is otherwise muted.
+
+</details>
+</div>

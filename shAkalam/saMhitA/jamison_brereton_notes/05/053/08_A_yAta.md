@@ -11,4 +11,9 @@ There is also the question of what the lexeme áva √sthā means here.
 Generally it means ‘descend’, often into a river or the like (see Renou ad loc.). But that doesn’t make sense here: if the Maruts are to come here from heaven or the midspace, as they are invited to in ab, they will have to descend. If we take the áva seriously, perhaps the idea is that the Maruts shouldn’t perform their descent somewhere else than here-- at a distance -- perhaps into the rivers named in the next vs. But this seems overly complex.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/053/08-09.md">
+<details open><summary><h2>08-09 ...{Loading}...</h2></summary>
+
+Note the phonological modulation of #ā́... (8a) to #mā́va...(8c) to #mā́vo (9a) / mā́vaḥ (9bc). The vaḥ then migrates to the end of 9d.
+</details>
+</div>

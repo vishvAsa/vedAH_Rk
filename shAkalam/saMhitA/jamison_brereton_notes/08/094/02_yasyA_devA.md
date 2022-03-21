@@ -8,4 +8,10 @@ There are several ways to construe the dual dvandva sū́ryāmā́sā of c. Geld
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/094/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+For the somewhat peculiar imagery of these vss., see the published introduction.
+
+</details>
+</div>

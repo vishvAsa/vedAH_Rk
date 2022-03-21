@@ -5,4 +5,10 @@ title = "01"
 The first hemistich contains a predicated perfect participle śaśramāṇā́.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/179/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+The final pādas of these two verses depict a neatly contrasting sexual conjunction, with the males serving as subject of the first version and the wives the second. The pādas are almost identical (an effect difficult to convey in English), with only the initial preverb in tmesis and the form of ‘bulls’ differing, since the form of “wives,” though acc. in 1d and nom. in 2d, is the same: 1d ápy ū nú pátnīr vṛ́ṣaṇo jagamyuḥ 2d sám ū nú pátnīr vṛ́ṣabhir jagamyuḥ Both seem to convey a legalistic prescriptive force. See disc. ad X.10.3.
+
+</details>
+</div>

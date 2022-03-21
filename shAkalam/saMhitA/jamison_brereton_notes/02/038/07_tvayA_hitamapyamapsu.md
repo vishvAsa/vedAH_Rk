@@ -10,4 +10,12 @@ The asya in pāda c anticipates devásya savitúḥ in d - perhaps better to tr.
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/02/038/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+These two vss. have been variously interpr. My interpr. is most influenced by Oldenberg (whose views also seems to have been adopted by Witzel Gotō). As noted in the published
+
+introduction, the vss. enumerates the separate spheres assigned to the various categories of creatures by Savitar, as an extension of his ability to bring every creature to its proper resting place at night.
+
+</details>
+</div>

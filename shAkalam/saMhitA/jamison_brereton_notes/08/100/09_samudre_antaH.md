@@ -7,4 +7,10 @@ The poet now plays another trick. The first pāda “within the sea he/it lies�
 As far as I know, this image of the submerged mace receiving tribute from the waters is found nowhere else in the Vṛtra myth complex, and seems to have been invented here for the purpose of verbal trickery.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/100/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+I take these three Anuṣṭubh verses as the singer’s performance of the recital of deeds promised in 6ab, but cast in the language of dramatic immediacy - almost “you are there” - with the singer himself as the supposed witness, addressing the waters in 7ab. Geldner (in his introduction.) also seems to assign the verses to the singer, while Oldenberg (1885: 57 n. 2) refuses to speculate.
+
+</details>
+</div>

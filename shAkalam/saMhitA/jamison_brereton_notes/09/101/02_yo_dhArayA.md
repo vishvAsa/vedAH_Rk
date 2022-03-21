@@ -10,6 +10,17 @@ The lengthened ī́of abhī́may represent abhí + ī, the enclitic acc., as I s
 Both Geldner and Renou take yajñám as the direct obj. of hinvanti rather than the goal, as I do (Geldner “Soma … als Opfer”). It is certainly true that yajñám √hi is found elsewhere (see Geldner’s n. 3c) and that the dat. is more often used for goal or purpose with √hi. Still, the sacrifice is so often the goal of motion, the goal of motion is so often in the acc., and soma is so often the obj. of √hi that I prefer to keep soma and the sacrifice as separate entities.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+There is no particular unity visible in this tṛca, and vs. 1 in particular stands apart from the rest.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/101/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+These two vss. are quoted in JB I.163 just after Indra’s use of our vs. 1 to kill the demoness, and the set of vss. is prescribed for the smiting of haters, rivals, demonic power, and evil. These are the only two Gāyatrī vss. in this Anuṣṭubh hymn.
+
+</details>
+</div>

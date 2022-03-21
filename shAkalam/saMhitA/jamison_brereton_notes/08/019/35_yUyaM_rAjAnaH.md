@@ -6,4 +6,10 @@ The triple voc. phrase váruṇa mítrā́ryaman is accented despite being inter
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/019/34-35.md">
+<details open><summary><h2>34-35 ...{Loading}...</h2></summary>
+
+These two vss. are so interrupted by heavy voc. phrases addressed to the Ādityas that it is difficult to follow the thread. The poet identifies a mortal who is especially favored by the Ādityas (34b) and who therefore holds power among men (35b) and then expresses the hope that “we” might be “they” (vayám té … syā́ma, 35cd), that is, the fortunate man just identified. The switch in numbers is somewhat disconcerting, but can presumably be ascribed to attraction to the 1st pl. pronoun: “might we be he/that one” doesn’t work well in either Sanskrit or English.
+
+</details>
+</div>

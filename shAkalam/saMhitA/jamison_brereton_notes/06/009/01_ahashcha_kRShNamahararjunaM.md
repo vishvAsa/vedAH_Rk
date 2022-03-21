@@ -9,4 +9,10 @@ Renou points out two minor anomalies in word placement: ca in pāda a, ná in p�
 As for ná, it ordinarily is also positioned after the first element in the simile, but it is highly unlikely (that is, quite impossible) that Agni is being compared to a king being born, with the simile comprising jā́yamāno ná rā́jā, but rather Agni, even as he is being kindled, is compared to the victorious (adult) king, with the simile just ná rā́jā. Such “wrong” positioning is not unprecedented — other examples have been noted in the comm. — and, as Renou points out, it is “masked to the eyes” by jā́yamānaḥ, which matches rā́jā in number, gender, and case.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/009/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+Note the echo of the last word of vs. 1, támāṃsi, in the last word of the 1st hemistich of b, ’tamānāḥ. The latter form is the pres. part. to the 1st class pres. of √at ‘wander’, with apharesis of the initial vowel after samaré. This abhinihita sandhi, relatively rare in the RV, is metrically guaranteed, and it may have been applied in order to bring the participle more into phonological line with támāṃsi.
+
+</details>
+</div>

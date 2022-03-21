@@ -9,4 +9,10 @@ The simile in b, rūpáṃ ná (or rūpáṃ ná várcase), is difficult to inte
 arises from the parallelism between vss. 17 and 18. In the former we ask Soma to bring material goods, esp. livestock. Here in pāda a we request abstract qualities, “strength and speed,” and I suggest that rūpáṃ ná “as if (in) physical form” is assimiliating them to the material goods of the previous vs. Renou’s alt. interpr., given at the end of his n., “apporte-nous force et vitesse, tel un objet-concret,” is similar and preferable to his more elaborate first interpr.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/065/16-18.md">
+<details open><summary><h2>16-18 ...{Loading}...</h2></summary>
+
+The tṛca is thematically unified by the journey of Soma and, in vss. 17-18 his conveying good things to us on that journey. Cf. esp. 17 ā́naḥ … váhā and 18 ā́naḥ … bhara. All three vss. end in a purpose dative / dative infinitive: 16 yā́tave, 17 ūtáye, 18 devávītaye.
+
+</details>
+</div>

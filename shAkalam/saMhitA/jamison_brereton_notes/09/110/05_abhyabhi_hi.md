@@ -23,4 +23,10 @@ Both Geldner and Renou take the whole pāda as the simile, comparing Soma to an 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/110/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+A very challenging tṛca, esp. the last two vss.
+
+</details>
+</div>

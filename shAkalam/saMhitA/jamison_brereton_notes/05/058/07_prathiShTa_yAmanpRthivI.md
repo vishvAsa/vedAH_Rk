@@ -8,6 +8,17 @@ It is difficult to get a causal reading from hí in c. It cannot be connected wi
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/05-07.md">
+<details open><summary><h2>05-07 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+Sustained phonetic play, esp. with p and r/ṛ, in prá-pra (5b), pṛ́śneḥ putrā́(ḥ) (5c), prā́yāsiṣṭa pṛ́ṣatībhiḥ (6a), práthiṣṭa … pṛthivī́(7a).
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/05/058/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+The final word of vs. 6 is dyaúḥ, while pṛthivī́appears in the 1st pāda of 7, implicitly linking this standard pair, although they are contextually separate.
+
+</details>
+</div>

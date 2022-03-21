@@ -7,4 +7,10 @@ Pāda a consists of the etymologically identical phrases tvótāsaḥ ‘aided b
 Pāda b contains a curious verbal periphrasis, syā́ma vanvántaḥ “may we be combatting,” with opt. to √as as aux. plus the pres. act, part. to vanóti. This expression does not seem to be conveying anything different from the opt. to the same pres. stem, vanuyā́ma (5x), e.g., X.38.3 tváyā vayáṃ tā́n [śátrūn] vanuyāma “With you might we combat those (rivals).” As noted above, vratá- in this pāda may have been chosen to recall vṛtráphonologically, forming a faint ring with the √vṛ forms in 22 vṛtrā́ya … vavrivā́ṃsam. It may even be that jāgṛhi ‘be watchful’ evokes a form of √han, as in 20a jághnir vṛtrám; see also jahī́in 26b.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+The tṛca has something of an emphasis on combat and winning, and the Vṛtra topic introduced in 22 is reprised via phonological deformation by vratéṣu in 24c.
+
+</details>
+</div>

@@ -10,4 +10,10 @@ the finite future, is relatively rare in the RV, and, curiously, it tends to hav
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/002/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+These two vss. introduce the trope of “clothing,” a metaphor for mixing the soma juice with various substances: after the pressing proper the soma is mixed first with water (vs. 3) and then with milk (vs. 4), the latter accounting for the ubiquitous “cows” of the IXth Maṇḍala. Thus, though an expression “clothe himself with cows” initially strikes the inexperienced reader as ludicrous, it makes perfect sense in the tightly constructed verbal realm of the Soma hymns: clothing = mixing and cows = waters.
+
+</details>
+</div>

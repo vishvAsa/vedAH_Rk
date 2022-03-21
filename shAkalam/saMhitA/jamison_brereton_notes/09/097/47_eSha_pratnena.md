@@ -7,4 +7,12 @@ In pāda b my interpr. differs significantly from that of Geldner (fld. by Renou
 The following pāda provides a different but parallel image of the mixing of soma with water, with the more widespread trope of “clothing himself in.” The last pāda provides a clever multilevel play, as long as rébhan is properly interpr. As I have often disc. (incl. ad vs. 8 above), √ribh does not mean ‘sing’ as it’s usually glossed, but rather expresses a variety of harsh sounds: rasp, creak, squawk, and crackle. In this pāda Soma is compared to a Hotar priest. But the quintessential Hotar is actually the god Agni, the ritual fire - and fires crackle. So the comparison is to the sound of a lively burning fire, but mediated through the priest.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/46-48.md">
+<details open><summary><h2>46-48 ...{Loading}...</h2></summary>
+
+Again very few signs of cohesion as a whole, though the 1st and last vss. have a few echoes: rathiráḥ (46c, 48a) and a satyá-X bahuvrīhi (satyá-śuṣma46c, satyá-manman- 48d), as well as camū́- (46b, 48b). Also, assuming that the “daughter” in 47b is the Daughter of the Sun (as most do), both 46 and 47 have ref.
+
+to the sun.
+
+</details>
+</div>

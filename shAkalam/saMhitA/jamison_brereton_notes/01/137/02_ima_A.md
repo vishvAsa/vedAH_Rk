@@ -5,4 +5,10 @@ title = "02"
 For the temporal expression in e, see disc. ad I.135.3.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/137/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+ā́yātam is parenthetical and in 2nd position, breaking up syntactic constituents (suṣumá … ádribhiḥ and imé … índavaḥ respectively), in the initial pādas of both these verses.
+
+</details>
+</div>

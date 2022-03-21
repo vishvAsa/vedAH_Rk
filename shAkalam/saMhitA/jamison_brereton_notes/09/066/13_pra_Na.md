@@ -6,4 +6,10 @@ On pādas bc and esp. the remarkable causative future reflexive form vāsayiṣy
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+No signs of cohesion.
+
+</details>
+</div>

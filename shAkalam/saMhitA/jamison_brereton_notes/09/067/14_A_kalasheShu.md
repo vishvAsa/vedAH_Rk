@@ -8,4 +8,10 @@ What is the “armor” (várma) that soma “plunges through” (ví gāhate)? 
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/067/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+Little evidence of unity in the Viśvāmitra tṛca, though the falcon (śyená-) as image of Soma occurs in both 14 and 15. More generally, both 14 and 15 depict the rapid and dramatic movement of soma into the ritual receptacles.
+
+</details>
+</div>

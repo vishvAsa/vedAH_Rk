@@ -8,4 +8,10 @@ Note also the lengthened voc. vṛṣabhā (also in 22a). Lengthened vocatives a
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/045/37-38.md">
+<details open><summary><h2>37-38 ...{Loading}...</h2></summary>
+
+For my interpretation of this bit of dialogue, see the published introduction.
+
+</details>
+</div>

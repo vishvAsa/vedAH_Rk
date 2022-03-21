@@ -8,4 +8,10 @@ The gerundive atasā́yya- is taken by Geldner as belonging to √at ‘wander�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/063/04-07.md">
+<details open><summary><h2>04-07 ...{Loading}...</h2></summary>
+
+tváṃ ha tyád provides the opening of the next four verses. Although tyád is a neut. pronoun and in 4a could function as the object of the otherwise object-less codīḥ, in the following verses it does not have pronominal function; the expression X ha tyád is a way of providing emphasis, particular of the 2nd ps. pronoun (cf., e.g., VII.19.2, VIII.96.16-18). I would now be inclined to tr. the vss. in this sequence with “It was just you who …” rather than the rather recessive “You then, …”
+
+</details>
+</div>

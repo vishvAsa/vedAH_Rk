@@ -20,4 +20,10 @@ To return to the question of the relationship between the two hemistichs, I sugg
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/007/03-05.md">
+<details open><summary><h2>03-05 ...{Loading}...</h2></summary>
+
+The middle of the hymn is characterized by initial (or modified initial) forms of the 2nd sg. prn.: 3a tvát, 3b tvát, 3c VOC tvám, 4a tvā́m, 4c táva, 5a VOC táva.
+
+</details>
+</div>

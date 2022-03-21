@@ -16,4 +16,10 @@ The initial sá in both our pāda and the one on which it is based does not foll
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/31-33.md">
+<details open><summary><h2>31-33 ...{Loading}...</h2></summary>
+
+The first vs. of the tṛca contains a form of √sṛj, thus concatenating with the previous tṛca. Both the first (31) and last (33) vss. contain a reference to the sun, and I see one in the middle vs. as well; see comm. ad 32.
+
+</details>
+</div>

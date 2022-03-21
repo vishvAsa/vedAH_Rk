@@ -8,4 +8,10 @@ The second clause in pāda a, tíṣṭhad duchúnā, has been interpreted in tw
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/020/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+Pādas 3a, 3c, and 4a all begin with vi, with the last example doubled ví (d)vī. This sequence is anticipated by 2a vī.
+
+</details>
+</div>

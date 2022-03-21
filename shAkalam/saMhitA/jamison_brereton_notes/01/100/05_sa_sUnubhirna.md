@@ -6,4 +6,10 @@ The participial phrase śravasyā̀ni tū́rvan has a close parallel in VIII.74.
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/100/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+The pattern of instrumentals set in vs. 4 -- “X with the X-es,” that is, “X among the X-es” -- appears to continue in 5a and c, but the instrumentals there are used differently.
+
+</details>
+</div>

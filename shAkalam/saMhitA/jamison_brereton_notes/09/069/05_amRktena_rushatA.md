@@ -10,4 +10,10 @@ Forms of the root √hṛṣ sometimes take dat. infinitives; cf. VIII.19.19 ág
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/069/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+There is considerable chaining between these two vss.: pári … avyata (4d), pári vyata (5b); niktám (4d), nirṇijānáḥ (5b), nirṇíje (5c), all referring to Soma’s clothing himself in milk. On the connections with the next hymn, see comm. ad IX.70.1.
+
+</details>
+</div>

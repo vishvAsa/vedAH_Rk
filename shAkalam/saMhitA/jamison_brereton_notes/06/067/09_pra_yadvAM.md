@@ -9,4 +9,10 @@ reasonably well-attested ‘watery’ stem ápi ya- and the accent retracted. As
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/067/09-11.md">
+<details open><summary><h2>09-11 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, these vss. seem to concern themselves with rival sacrificers.
+
+</details>
+</div>

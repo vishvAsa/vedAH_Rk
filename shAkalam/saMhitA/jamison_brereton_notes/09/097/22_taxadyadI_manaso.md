@@ -14,4 +14,10 @@ This would more narrowly define the location than the first locative phrase, whi
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/097/22-24.md">
+<details open><summary><h2>22-24 ...{Loading}...</h2></summary>
+
+Karṇaśrut Vāsiṣṭha, a name that has no source in the text and is not otherwise found in the Anukr. This tṛca depicts Soma as a king on a royal journey, and associates him with the resonant words ṛtá- (23b, 24d) and dhárman- (22b) / dharmán- (23c) and the traditional roles they imply.
+
+</details>
+</div>

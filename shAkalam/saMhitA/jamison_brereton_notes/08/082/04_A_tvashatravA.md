@@ -7,4 +7,10 @@ gíraś ca … ukthā́ca, VIII.33.13 bráhmokthā́ca ... (and the converse
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/082/04-05.md">
+<details open><summary><h2>04-05 ...{Loading}...</h2></summary>
+
+(ní) … hūyase (4b) and (prá) … hūyate (5c), though built to identical stems, belong to the roots √hvā/hū ‘call’ and √hu ‘pour’ respectively.
+
+</details>
+</div>

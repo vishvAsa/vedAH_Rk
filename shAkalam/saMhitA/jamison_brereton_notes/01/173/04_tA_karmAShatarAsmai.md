@@ -12,4 +12,10 @@ If this gossamer suggestion is correct, then the first two pādas outline a twos
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/173/03-04.md">
+<details open><summary><h2>03-04 ...{Loading}...</h2></summary>
+
+The -at injunctive pattern noted above comes to a climax in vs. 3, with 5 such verbs. The next -at form, jújoṣat, pāda-initial in 4c, is a subjunctive. The change in mood, while keeping the formal expression -at the same, is surely deliberate.
+
+</details>
+</div>

@@ -6,4 +6,10 @@ As Geldner suggests in his n. 4a, ā́tanuṣva could reflect the common idiom �
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/004/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
+
+Note the preverb chaining: 2d ví sṛja, 3a práti … ví sṛja, 4b práti.
+
+</details>
+</div>

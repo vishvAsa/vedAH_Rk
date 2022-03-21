@@ -6,6 +6,19 @@ In d the utá is oddly positioned, since it appears to be meant to conjoin jām�
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+I tr. śūśuvā́ṃsam in both vss. as ‘swollen with strength’, although the śávasā found in 2c is absent, as a portmanteau tr. to capture the full sense of the root.
+
+This participle picks up śáviṣṭham … śávaḥ in vs. 6.
+
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/019/06-08.md">
+<details open><summary><h2>06-08 ...{Loading}...</h2></summary>
+
+As noted in the published introduction, all three of these vss. contain the phrase “bring here to us”: in 6a and 7b na ā́bhara straddles the early caesura; in 8a ā́no bhara opens the vs. Since vss. 6-8 are the middle vss. of this hymn, this repeated phrase might identify an omphalos, but if so it is quite a weak one. The vss. are not particular noteworthy for their content, and the enclosing vss. do not provide the usual frame structure.
+
+</details>
+</div>

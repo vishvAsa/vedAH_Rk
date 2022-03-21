@@ -6,4 +6,10 @@ Although, as just noted, there’s no unity in the tṛca, there is some continu
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/045/28-30.md">
+<details open><summary><h2>28-30 ...{Loading}...</h2></summary>
+
+Again no unity in the tṛca.
+
+</details>
+</div>

@@ -10,4 +10,10 @@ As in the previous hymn (see comm. ad IX.62.18), the priests are addressed in th
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/063/10-12.md">
+<details open><summary><h2>10-12 ...{Loading}...</h2></summary>
+
+No particular unity, though vss. 11-12 are concerned with wealth.
+
+</details>
+</div>

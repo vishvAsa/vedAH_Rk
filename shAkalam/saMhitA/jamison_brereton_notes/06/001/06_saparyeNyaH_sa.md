@@ -7,4 +7,24 @@ Pāda b hótā … ní ṣasāda yájīyān closely echoes 2a ádhā hótā ny �
 Whatever the exact posture described by jñubā́dhaḥ (for detailed disc. see Scarlatta 343-45), the Engl. idiom “on bended knee” conveys the same sense of physical reverence.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/06/001/06-07.md">
+<details open><summary><h2>06-07 ...{Loading}...</h2></summary>
+
+I do not understand why 6c has the act. pf. part. dīdivā́ṃsam while, in the same metrical position, qualifying the same entity, and apparently meaning the same thing, 7c has the middle part. dī́diyānaḥ (whose tense-aspect stem affiliation is not entirely clear: its accent weakly suggests that it already belongs to the new redupl.
+
+pres. [reinterpreted from the pf.], but the redupl. forms to this root are in flux; see my “perfect impv” paper in the Lubotsky Fs.). Of course a nom. form of the act. part would not fit this slot in 7c, but an acc. form of the middle part. would be fine in 6c. I doubt that the poet is contrasting old perfect and new pres., or trying to draw a semantic difference between the voices. The participle dī́diyāna- is the only medial form to this root; all the finite forms are active, with intrans. value, as are the two act.
+
+participles, old-style pf. dīdivā́ṃs- and new-style redupl. pres. dī́dyant-.
+
+VI.1.7-8: Both Geldner and Renou take návyam in 7a as an adv. (e.g., “aufs neue”), but since the adj. návya- in the nom. (hence not a possible adverb) regularly qualifies Agni (V.12.3, VII.4.8, VIII.11.10, X.4.5), I see no reason not to take it as an adj. here. The reference of course is to the newly kindled ritual fire.
+
+Geldner, flg. Ludwig, thinks that 7c concerns battle, which again I find difficult to see. I am more persuaded by Proferes’s reading (pp. 29-30), that the hymn in general presents Agni as the fire held in common by the larger community and that in vss. 7- 8 “this common fire is a symbol of centralized sovereignty,” therefore a leader of the clans and, in 8a the clan-lord of each and every clan.
+
+Vs. 8 is couched entirely in the acc., referring to Agni. It can’t be directly attached to either what immediately precedes or what immediately follows, since both 7cd and 9ab have Agni in the nom. However, it follows nicely after the accusatives in 7ab, with 7cd an intrusion. To indicate that the description of Agni is in the acc., I have resupplied “we implore” from 7b.
+
+On the semantics of the root √tuś in nitóśana-, see comm. ad VIII.38.2.
+
+The hapax cmpd. prétīṣaṇi- is curiously formed and its sense not entirely clear, esp. because the root affiliation of -iṣaṇi- is uncertain and because the cmpd type is muddled, at least by its interpreters. Geldner takes the 2nd member with √iṣ ‘seek, desire’: “der das Auftreten (des Opferpriesters) wünscht”; while Renou opts for √iṣ ‘impel’: “qui pousse en avant l'incitation,” with alternatives in the notes “qui aspire à aller de l’avant” (√iṣ ‘seek, desire’) or “qui fait avancer l'incitation (des humains)” (√iṣ ‘impel’). The ‘seek, desire’ root is also represented by Debrunner’s “zum Vormarsch strebend” (AiG II.2.208). In my interpr. I take Oldenberg’s point (Noten ad loc.; he doesn’t discuss in ZDMG 55) that the accent suggests a bahuvrīhi, and I favor a connection of the 2nd member with √iṣ ‘impel’ and esp. the 2ndary verbal stems iṣanaya- and iṣaṇya-, both ‘impel’. A literal rendering would then be something like “having the impulsion of the forward progress (of the sacrifice),” but in English the bahuvrīhi gloss is too awkward, hence my “impelling …” The point here is that Agni controls the pace and movement of the sacrifice, which progress is often expressed by the idiom prá √i (cf. the common loc. absol. prayaty àdhvaré “while the ceremony is advancing”) found in the 1st member préti-. The 2nd member iṣaṇi- is immediately followed by the part. iṣáyantam, but I think this is a playful juxtaposition: the two words have nothing to do with each other, and the sense ‘prospering’ for the latter was established in the fuller expression in 2b.
+
+</details>
+</div>

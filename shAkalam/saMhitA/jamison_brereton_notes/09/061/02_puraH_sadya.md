@@ -12,4 +12,10 @@ However, this structural argument runs into problems of mythological content. Al
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/061/01-03.md">
+<details open><summary><h2>01-03 ...{Loading}...</h2></summary>
+
+This tṛca shows some signs of unity. The 1st two vss. are a syntactic unit, with the objects of the verb in 1c partly postponed to 2ab. The third vs. has as its verb pári … kṣárā, which echoes pári srava in 1a.
+
+</details>
+</div>

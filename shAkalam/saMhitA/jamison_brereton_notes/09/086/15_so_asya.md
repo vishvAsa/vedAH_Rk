@@ -11,4 +11,10 @@ In d note the play in the phrase sáṃ yāti saṃyátaḥ, which belong to dif
 ‘feste Aufstellung’. But saṃyát- is generally an adj., usually in the pl. of liquids (V.34.9 ā́paḥ saṃyátaḥ, VIII.100.9); esp. pertinent are two passages in our own hymn: vs. 18 in the next tṛca saṃyátam pipyúṣīm íṣam “continuous, swelling refreshment” and, by implication, in vs. 47 dhā́rāḥ … saṃyátaḥ “continuous streams.” On the basis of these passages, I supply “streams” here as well. See, e.g., vs. 8.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/086/13-15.md">
+<details open><summary><h2>13-15 ...{Loading}...</h2></summary>
+
+This tṛca is characterized by increasingly larger claims for Soma’s cosmic reach. It has fewer connections to previous tṛcas, save for the echo in 15b dhā́ma prathamám vyānaśe of 5a and c, on which see comm. there.
+
+</details>
+</div>

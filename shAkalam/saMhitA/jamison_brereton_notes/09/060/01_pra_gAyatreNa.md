@@ -6,4 +6,10 @@ The tr. “sing forth with a song” is meant to capture the etymological relati
 
 - as this one indeed is.
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/060/01-02.md">
+<details open><summary><h2>01-02 ...{Loading}...</h2></summary>
+
+The chaining described in the published introduction. here involves repeating sahásracakṣasam from 1c in 2a in the same metrical position.
+
+</details>
+</div>

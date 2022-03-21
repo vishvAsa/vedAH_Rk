@@ -10,4 +10,10 @@ The choosing maidens (vrā́ḥ) of the same marriage type are the topic of pād
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/01/124/07-08.md">
+<details open><summary><h2>07-08 ...{Loading}...</h2></summary>
+
+suvā́śā(ḥ) in 7c is neatly echoed by svásā opening 8a.
+
+</details>
+</div>

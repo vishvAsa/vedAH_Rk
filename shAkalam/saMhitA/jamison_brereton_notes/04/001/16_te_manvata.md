@@ -13,4 +13,10 @@ Siamak Adhami], 2003, pp. 39-56).
 Because of its accentuation yaśásā should be adjectival; the question is what head noun to supply. Flg. Lüders (Varuṇa, 521, also fld. by Hoffmann, Witzel Gotō), I supply ‘name’, which appears in pāda a and appears to be the topic of the rest of the vs. Geldner and Oldenberg prefer ‘milk’, but this is contextually less likely.
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/04/001/10-18.md">
+<details open><summary><h2>10-18 ...{Loading}...</h2></summary>
+
+Hoffmann tr. and comments on these vss. in Injunktiv (pp. 175-78).
+
+</details>
+</div>

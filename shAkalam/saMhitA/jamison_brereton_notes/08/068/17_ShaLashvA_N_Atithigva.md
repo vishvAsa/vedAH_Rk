@@ -8,4 +8,14 @@ Dānastutis regularly lump horses and female humans together. Very parallel is I
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/068/15-17.md">
+<details open><summary><h2>15-17 ...{Loading}...</h2></summary>
+
+The donors of the various gifts are generally in the locative here and so would be properly translated “bei,” “chez,” “at (the hands of) …” or the like, but a series of locatival tr. is simply too heavy and awkward.
+
+I have made no effort to sort out the internal relationships among the patrons
+
+- a topic more than amply discussed in the sec. lit.
+
+</details>
+</div>

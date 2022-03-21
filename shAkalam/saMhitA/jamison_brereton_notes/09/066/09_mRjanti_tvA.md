@@ -22,4 +22,10 @@ The presence of ávye at the beg. of the pāda would set the audience’s expect
 In c I take rebháḥ … ajyáse as a pun, dependent on the literal sense of √ribh, which, rather than being ‘sing’ as it generally is glossed, is really ‘creak, rasp’. See comm. ad VI.3.6. Here Soma is as usual ‘anointed’ (ajyase) with milk, and in that regard he is identified as a rebhá-, a ritual officiant with a particular voice quality. But as disc. ad VI.3.6, in a TS passage √ribh is used for a squeaky wheel, and of course the way to fix such a wheel is to “grease” it (√añj). So the unmarked comparison here is “(as) a squeaky (wheel) is greased.”
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/066/07-09.md">
+<details open><summary><h2>07-09 ...{Loading}...</h2></summary>
+
+No particular sign of cohesion either internal or external.
+
+</details>
+</div>

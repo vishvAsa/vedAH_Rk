@@ -15,4 +15,10 @@ I take the phrase giríbhya ā́as expressing the freeing of the odanám from th
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/08/077/04-06.md">
+<details open><summary><h2>04-06 ...{Loading}...</h2></summary>
+
+The name índraḥ is identically positioned in all three verses of this tṛca, at the beginning of the final pāda.
+
+</details>
+</div>

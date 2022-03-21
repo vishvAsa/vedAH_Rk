@@ -16,6 +16,16 @@ Perhaps it’s simply there to convert a putative Triṣṭubh cadence to a Jaga
 
 
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-04.md">
+<details open><summary><h2>02-04 ...{Loading}...</h2></summary>
 
-<div class="js_include" url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md"  newLevelForH1="3" newLevelForH1="2" includeTitle="true"> </div>
+Geldner considers these vss. “doppelsinnig,” with ref. both to the priest-poets and the soma juices. This seems quite reasomable, and his individual notes are worth the attention.
+</details>
+</div>
+<div class="js_include" includetitle="true" newlevelforh1="2" unfilled url="/vedAH_Rk/shAkalam/saMhitA/jamison_brereton_notes/09/073/02-03.md">
+<details open><summary><h2>02-03 ...{Loading}...</h2></summary>
+
+The three even-numbered pādas 2d, 3b, 3d all end with an augmented 3rd pl. redupl. aorist: apīparan, avīvipan, and avīvṛdhan respectively.
+
+</details>
+</div>
