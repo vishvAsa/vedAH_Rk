@@ -2,37 +2,37 @@
 title = "Rig Veda 9.86.5"
 
 +++
--   *viśvā* \< *viśva*
+-   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dhāmāni* \< *dhāman*
+- *dhāmāni* ← *dhāman*
 - \[noun\], accusative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *viśvacakṣa* \< *viśva*
+- *viśvacakṣa* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvacakṣa* \< *cakṣaḥ* \< *cakṣas*
+- *viśvacakṣa* ← *cakṣaḥ* ← *cakṣas*
 - \[noun\], vocative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *ṛbhvasaḥ* \< *ṛbhvas*
+- *ṛbhvasaḥ* ← *ṛbhvas*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *prabhos* \< *prabhoḥ* \< *prabhu*
+- *prabhos* ← *prabhoḥ* ← *prabhu*
 - \[noun\], genitive, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sataḥ* \< *as*
+- *sataḥ* ← *as*
 - \[verb noun\], genitive, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -41,19 +41,19 @@ title = "Rig Veda 9.86.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ketavaḥ* \< *ketu*
+- *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *vyānaśiḥ* \< *vyānaśi*
+- *vyānaśiḥ* ← *vyānaśi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pavase* \< *pū*
+- *pavase* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -61,25 +61,25 @@ title = "Rig Veda 9.86.5"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dharmabhiḥ* \< *dharman*
+- *dharmabhiḥ* ← *dharman*
 - \[noun\], instrumental, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *rājasi* \< *rāj*
+- *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

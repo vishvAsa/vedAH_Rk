@@ -6,45 +6,45 @@ title = "Rig Veda 4.14.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vahiṣṭhā* \< *vahiṣṭhāḥ* \< *vahiṣṭha*
+- *vahiṣṭhā* ← *vahiṣṭhāḥ* ← *vahiṣṭha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *aśvāsa* \< *aśvāsaḥ* \< *aśva*
+- *aśvāsa* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 4.14.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------

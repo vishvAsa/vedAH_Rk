@@ -2,15 +2,15 @@
 title = "Rig Veda 1.100.17"
 
 +++
--   *etat* \< *etad*
+-   *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tyat* \< *tyad* \< *tya*
+- *tyat* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -19,47 +19,47 @@ title = "Rig Veda 1.100.17"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛṣṇa* \< *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇa* ← *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ukthaṃ* \< *uktham* \< *uktha*
+- *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *vārṣāgirā* \< *vārṣāgirāḥ* \< *vārṣāgira*
+- *vārṣāgirā* ← *vārṣāgirāḥ* ← *vārṣāgira*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ṛjrāśvaḥ* \< *ṛjrāśva*
+- *ṛjrāśvaḥ* ← *ṛjrāśva*
 - \[noun\], nominative, singular, masculine
 - “Ṛjrāśva.”
 ------------------------------------------------------------------------
-- *praṣṭibhir* \< *praṣṭibhiḥ* \< *praṣṭi*
+- *praṣṭibhir* ← *praṣṭibhiḥ* ← *praṣṭi*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *ambarīṣaḥ* \< *ambarīṣa*
+- *ambarīṣaḥ* ← *ambarīṣa*
 - \[noun\], nominative, singular, masculine
 - “Ambarīṣa.”
 ------------------------------------------------------------------------
-- *sahadevo* \< *sahadevaḥ* \< *sahadeva*
+- *sahadevo* ← *sahadevaḥ* ← *sahadeva*
 - \[noun\], nominative, singular, masculine
 - “Sahadeva; Sahadeva; Sahadeva.”
 ------------------------------------------------------------------------
-- *bhayamānaḥ* \< *bhayamāna*
+- *bhayamānaḥ* ← *bhayamāna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *surādhāḥ* \< *surādhas*
+- *surādhāḥ* ← *surādhas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

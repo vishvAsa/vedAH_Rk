@@ -2,18 +2,18 @@
 title = "Rig Veda 4.19.4"
 
 +++
--   *akṣodayacchavasā* \< *akṣodayat* \< *kṣoday* \< *√kṣud*
+-   *akṣodayacchavasā* ← *akṣodayat* ← *kṣoday* ← *√kṣud*
 - \[verb\], singular, Imperfect
 - “mix; powderize.”
 ------------------------------------------------------------------------
-- *akṣodayacchavasā* \< *śavasā* \< *śavas*
+- *akṣodayacchavasā* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *kṣāma* \< *kṣāman*
+- *kṣāma* ← *kṣāman*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *budhnaṃ* \< *budhnam* \< *budhna*
+- *budhnaṃ* ← *budhnam* ← *budhna*
 - \[noun\], accusative, singular, neuter
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
@@ -21,50 +21,50 @@ title = "Rig Veda 4.19.4"
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vātas* \< *vātaḥ* \< *vāta*
+- *vātas* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *taviṣībhir* \< *taviṣībhiḥ* \< *taviṣī*
+- *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dṛﾱhāny* \< *dṛﾱhāni* \< *dṛḍha*
+- *dṛﾱhāny* ← *dṛﾱhāni* ← *dṛḍha*
 - \[noun\], accusative, plural, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *aubhnād* \< *aubhnāt* \< *ubh*
+- *aubhnād* ← *aubhnāt* ← *ubh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *uśamāna* \< *uśamānaḥ* \< *vaś*
+- *uśamāna* ← *uśamānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *'vābhinat* \< *avābhinat* \< *avabhid* \< *√bhid*
+- *'vābhinat* ← *avābhinat* ← *avabhid* ← *√bhid*
 - \[verb\], singular, Imperfect
 - “pierce; slash.”
 ------------------------------------------------------------------------
-- *kakubhaḥ* \< *kakubh*
+- *kakubhaḥ* ← *kakubh*
 - \[noun\], accusative, plural, feminine
 - “Kakubh; peak; bulge.”
 ------------------------------------------------------------------------
-- *parvatānām* \< *parvata*
+- *parvatānām* ← *parvata*
 - \[noun\], genitive, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”

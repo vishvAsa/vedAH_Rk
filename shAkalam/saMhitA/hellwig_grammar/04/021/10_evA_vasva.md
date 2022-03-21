@@ -2,47 +2,47 @@
 title = "Rig Veda 4.21.10"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *vasva* \< *vasvaḥ* \< *vasu*
+- *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *satyaḥ* \< *satya*
+- *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *samrāḍḍhantā* \< *samrāj*
+- *samrāḍḍhantā* ← *samrāj*
 - \[noun\], nominative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *samrāḍḍhantā* \< *hantā* \< *han*
+- *samrāḍḍhantā* ← *hantā* ← *han*
 - \[verb\], singular, periphrast. future
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *varivaḥ* \< *varivas*
+- *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *pūrave* \< *pūru*
+- *pūrave* ← *pūru*
 - \[noun\], dative, singular, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -57,36 +57,36 @@ title = "Rig Veda 4.21.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śagdhi* \< *śak*
+- *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *bhakṣīya* \< *bhakṣ*
+- *bhakṣīya* ← *bhakṣ*
 - \[verb\], singular, Aorist optative
 - “eat; feed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'vaso* \< *avasaḥ* \< *avas*
+- *'vaso* ← *avasaḥ* ← *avas*
 - \[noun\], genitive, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *daivyasya* \< *daivya*
+- *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------

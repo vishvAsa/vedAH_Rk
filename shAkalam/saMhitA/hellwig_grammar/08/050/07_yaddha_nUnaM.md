@@ -2,11 +2,11 @@
 title = "Rig Veda 8.50.7"
 
 +++
--   *yaddha* \< *yat*
+-   *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 8.50.7"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 8.50.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pṛthivyāṃ* \< *pṛthivyām* \< *pṛthivī*
+- *pṛthivyāṃ* ← *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yujāna* \< *yujānaḥ* \< *yuj*
+- *yujāna* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -47,19 +47,19 @@ title = "Rig Veda 8.50.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *mahemata* \< *mahemate* \< *mahemati*
+- *mahemata* ← *mahemate* ← *mahemati*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛṣva* \< *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣva* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *ṛṣvebhir* \< *ṛṣvebhiḥ* \< *ṛṣva*
+- *ṛṣvebhir* ← *ṛṣvebhiḥ* ← *ṛṣva*
 - \[noun\], instrumental, plural, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 8.50.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,22 +2,22 @@
 title = "Rig Veda 10.92.14"
 
 +++
--   *viśām* \< *viś*
+-   *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *āsām* \< *idam*
+- *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *abhayānām* \< *abhaya*
+- *abhayānām* ← *abhaya*
 - \[noun\], genitive, plural, feminine
 - “safe.”
 ------------------------------------------------------------------------
-- *adhikṣitaṃ* \< *adhikṣitam* \< *adhikṣit*
+- *adhikṣitaṃ* ← *adhikṣitam* ← *adhikṣit*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -26,52 +26,52 @@ title = "Rig Veda 10.92.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *sva*
+- *svayaśasaṃ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśasaṃ* \< *yaśasam* \< *yaśas*
+- *svayaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *gṛṇīmasi* \< *gṛ*
+- *gṛṇīmasi* ← *gṛ*
 - \[verb\], plural, Present optative
 - “praise.”
 ------------------------------------------------------------------------
-- *gnābhir* \< *gnābhiḥ* \< *gnā*
+- *gnābhir* ← *gnābhiḥ* ← *gnā*
 - \[noun\], instrumental, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *aditim* \< *aditi*
+- *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *anarvaṇam* \< *anarvaṇa*
+- *anarvaṇam* ← *anarvaṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aktor* \< *aktoḥ* \< *aktu*
+- *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *yuvānaṃ* \< *yuvānam* \< *yuvan*
+- *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *nṛmaṇā* \< *nṛmaṇāḥ* \< *nṛmaṇas*
+- *nṛmaṇā* ← *nṛmaṇāḥ* ← *nṛmaṇas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

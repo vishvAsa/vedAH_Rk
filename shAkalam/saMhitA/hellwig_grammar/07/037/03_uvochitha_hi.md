@@ -2,7 +2,7 @@
 title = "Rig Veda 7.37.3"
 
 +++
--   *uvocitha* \< *uc*
+-   *uvocitha* ← *uc*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
 - *hi*
@@ -13,45 +13,45 @@ title = "Rig Veda 7.37.3"
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *deṣṇam* \< *deṣṇa*
+- *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *arbhasya* \< *arbha*
+- *arbhasya* ← *arbha*
 - \[noun\], genitive, singular, neuter
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *vasuno* \< *vasunaḥ* \< *vasu*
+- *vasuno* ← *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vibhāge* \< *vibhāga*
+- *vibhāge* ← *vibhāga*
 - \[noun\], locative, singular, masculine
 - “distinction; direction; part; placement; allotment; section; part;
     rule; distribution; distribution.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrṇā* \< *pṛ*
+- *pūrṇā* ← *pṛ*
 - \[verb noun\], nominative, dual
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *vasunā* \< *vasu*
+- *vasunā* ← *vasu*
 - \[noun\], instrumental, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *gabhastī* \< *gabhasti*
+- *gabhastī* ← *gabhasti*
 - \[noun\], nominative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 7.37.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yamate* \< *yam*
+- *yamate* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *vasavyā* \< *vasavya*
+- *vasavyā* ← *vasavya*
 - \[noun\], accusative, plural, neuter
 - “wealth; wealth.”
 ------------------------------------------------------------------------

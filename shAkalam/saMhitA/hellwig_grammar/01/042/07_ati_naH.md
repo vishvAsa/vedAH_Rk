@@ -6,40 +6,40 @@ title = "Rig Veda 1.42.7"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *saścato* \< *saścataḥ* \< *saścant*
+- *saścato* ← *saścataḥ* ← *saścant*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *naya* \< *nī*
+- *naya* ← *nī*
 - \[verb\], singular, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *sugā* \< *su*
+- *sugā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugā* \< *gā* \< *ga*
+- *sugā* ← *gā* ← *ga*
 - \[noun\], accusative, plural, neuter
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *supathā* \< *su*
+- *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supathā* \< *pathā* \< *patha*
+- *supathā* ← *pathā* ← *patha*
 - \[noun\], accusative, plural, neuter
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
 ------------------------------------------------------------------------
-- *kṛṇu* \< *kṛ*
+- *kṛṇu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,7 +50,7 @@ title = "Rig Veda 1.42.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pūṣann* \< *pūṣan*
+- *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -58,12 +58,12 @@ title = "Rig Veda 1.42.7"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *vidaḥ* \< *vid*
+- *vidaḥ* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

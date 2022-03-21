@@ -2,33 +2,33 @@
 title = "Rig Veda 5.18.5"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pañcāśataṃ* \< *pañcāśatam* \< *pañcāśat*
+- *pañcāśataṃ* ← *pañcāśatam* ← *pañcāśat*
 - \[noun\], accusative, singular, feminine
 - “fifty; pañcāśat \[word\].”
 ------------------------------------------------------------------------
-- *dadur* \< *daduḥ* \< *dā*
+- *dadur* ← *daduḥ* ← *dā*
 - \[verb\], plural, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *aśvānāṃ* \< *aśvānām* \< *aśva*
+- *aśvānāṃ* ← *aśvānām* ← *aśva*
 - \[noun\], genitive, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
 - *sadhastuti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *dyumad* \< *dyumat*
+- *dyumad* ← *dyumat*
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------

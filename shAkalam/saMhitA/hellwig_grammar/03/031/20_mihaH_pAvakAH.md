@@ -2,19 +2,19 @@
 title = "Rig Veda 3.31.20"
 
 +++
--   *mihaḥ* \< *mih*
+-   *mihaḥ* ← *mih*
 - \[noun\], nominative, plural, feminine
 - “fog.”
 ------------------------------------------------------------------------
-- *pāvakāḥ* \< *pāvaka*
+- *pāvakāḥ* ← *pāvaka*
 - \[noun\], nominative, plural, feminine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pratatā* \< *pratatāḥ* \< *pratan* \< *√tan*
+- *pratatā* ← *pratatāḥ* ← *pratan* ← *√tan*
 - \[verb noun\], nominative, plural
 - “branch; fork.”
 ------------------------------------------------------------------------
-- *abhūvan* \< *bhū*
+- *abhūvan* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -26,19 +26,19 @@ title = "Rig Veda 3.31.20"
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pipṛhi* \< *pṛ*
+- *pipṛhi* ← *pṛ*
 - \[verb\], singular, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *pāram* \< *pāra*
+- *pāram* ← *pāra*
 - \[noun\], accusative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *āsām* \< *idam*
+- *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -47,22 +47,22 @@ title = "Rig Veda 3.31.20"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rathiraḥ* \< *rathira*
+- *rathiraḥ* ← *rathira*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *riṣo* \< *riṣaḥ* \< *riṣ*
+- *riṣo* ← *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 3.31.20"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,16 +85,16 @@ title = "Rig Veda 3.31.20"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gojito* \< *go*
+- *gojito* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gojito* \< *jitaḥ* \< *jit*
+- *gojito* ← *jitaḥ* ← *jit*
 - \[noun\], accusative, plural, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

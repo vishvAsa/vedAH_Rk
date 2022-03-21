@@ -2,7 +2,7 @@
 title = "Rig Veda 8.26.9"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,25 +10,25 @@ title = "Rig Veda 8.26.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *havāmaha* \< *havāmahe* \< *hvā*
+- *havāmaha* ← *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ukṣaṇyanto* \< *ukṣaṇyantaḥ* \< *ukṣaṇy*
+- *ukṣaṇyanto* ← *ukṣaṇyantaḥ* ← *ukṣaṇy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *vyaśvavat* \< *vyaśva*
+- *vyaśvavat* ← *vyaśva*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *vyaśvavat* \< *vat*
+- *vyaśvavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *sumatibhir* \< *sumatibhiḥ* \< *sumati*
+- *sumatibhir* ← *sumatibhiḥ* ← *sumati*
 - \[noun\], instrumental, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
@@ -36,19 +36,19 @@ title = "Rig Veda 8.26.9"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *viprāv* \< *viprau* \< *vipra*
+- *viprāv* ← *viprau* ← *vipra*
 - \[noun\], vocative, dual, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihā* \< *ā*
+- *ihā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

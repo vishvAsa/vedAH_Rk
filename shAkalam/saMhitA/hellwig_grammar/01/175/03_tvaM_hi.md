@@ -2,7 +2,7 @@
 title = "Rig Veda 1.175.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,43 +10,43 @@ title = "Rig Veda 1.175.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śūraḥ* \< *śūra*
+- *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *sanitā* \< *san*
+- *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *codayo* \< *codayaḥ* \< *coday* \< *√cud*
+- *codayo* ← *codayaḥ* ← *coday* ← *√cud*
 - \[verb\], singular, Aorist inj. (proh.)
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *sahāvān* \< *sahāvat*
+- *sahāvān* ← *sahāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dasyum* \< *dasyu*
+- *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *avratam* \< *avrata*
+- *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------
-- *oṣaḥ* \< *uṣ*
+- *oṣaḥ* ← *uṣ*
 - \[verb\], singular, Imperfect
 - “burn; punish.”
 ------------------------------------------------------------------------
-- *pātraṃ* \< *pātram* \< *pātra*
+- *pātraṃ* ← *pātram* ← *pātra*
 - \[noun\], accusative, singular, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
@@ -55,7 +55,7 @@ title = "Rig Veda 1.175.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------

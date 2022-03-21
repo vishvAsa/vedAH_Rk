@@ -2,19 +2,19 @@
 title = "Rig Veda 9.63.11"
 
 +++
--   *pavamāna* \< *pū*
+-   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vidā* \< *vidāḥ* \< *vid*
+- *vidā* ← *vidāḥ* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,18 +22,18 @@ title = "Rig Veda 9.63.11"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *duṣṭaram* \< *duṣṭara*
+- *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dūṇāśo* \< *dūṇāśaḥ* \< *dūṇāśa*
+- *dūṇāśo* ← *dūṇāśaḥ* ← *dūṇāśa*
 - \[noun\], nominative, singular, masculine
 - “rare.”
 ------------------------------------------------------------------------
-- *vanuṣyatā* \< *vanuṣy*
+- *vanuṣyatā* ← *vanuṣy*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------

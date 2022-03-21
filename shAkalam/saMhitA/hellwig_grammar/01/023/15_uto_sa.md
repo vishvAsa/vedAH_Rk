@@ -2,34 +2,34 @@
 title = "Rig Veda 1.23.15"
 
 +++
--   *uto* \< *uta*
+-   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mahyam* \< *mad*
+- *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indubhiḥ* \< *indu*
+- *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *ṣaḍ* \< *ṣaṭ* \< *ṣaṣ*
+- *ṣaḍ* ← *ṣaṭ* ← *ṣaṣ*
 - \[noun\], accusative, plural, masculine
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *yuktāṃ* \< *yuj*
+- *yuktāṃ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -37,15 +37,15 @@ title = "Rig Veda 1.23.15"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *anuseṣidhat* \< *anuseṣidh* \< *√sidh*
+- *anuseṣidhat* ← *anuseṣidh* ← *√sidh*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yavaṃ* \< *yavam* \< *yava*
+- *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
@@ -53,6 +53,6 @@ title = "Rig Veda 1.23.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *carkṛṣat* \< *carkṛṣ* \< *√kṛṣ*
+- *carkṛṣat* ← *carkṛṣ* ← *√kṛṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------

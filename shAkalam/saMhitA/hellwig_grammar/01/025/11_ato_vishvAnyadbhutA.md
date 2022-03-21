@@ -2,21 +2,21 @@
 title = "Rig Veda 1.25.11"
 
 +++
--   *ato* \< *atas*
+-   *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *adbhutā* \< *adbhuta*
+- *adbhutā* ← *adbhuta*
 - \[noun\], accusative, plural, neuter
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
-- *cikitvāṃ* \< *cit*
+- *cikitvāṃ* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -24,12 +24,12 @@ title = "Rig Veda 1.25.11"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *paśyati* \< *paś*
+- *paśyati* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,7 +40,7 @@ title = "Rig Veda 1.25.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 1.25.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kartvā* \< *kṛ*
+- *kartvā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

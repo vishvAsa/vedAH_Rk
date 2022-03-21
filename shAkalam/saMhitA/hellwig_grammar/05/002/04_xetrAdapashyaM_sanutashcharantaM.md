@@ -2,31 +2,31 @@
 title = "Rig Veda 5.2.4"
 
 +++
--   *kṣetrād* \< *kṣetrāt* \< *kṣetra*
+-   *kṣetrād* ← *kṣetrāt* ← *kṣetra*
 - \[noun\], ablative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *apaśyaṃ* \< *apaśyam* \< *paś*
+- *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *sanutaś* \< *sanutar*
+- *sanutaś* ← *sanutar*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *carantaṃ* \< *carantam* \< *car*
+- *carantaṃ* ← *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *sumad* \< *sumat*
+- *sumad* ← *sumat*
 - \[adverb\]
 - “together.”
 ------------------------------------------------------------------------
-- *yūthaṃ* \< *yūtham* \< *yūtha*
+- *yūthaṃ* ← *yūtham* ← *yūtha*
 - \[noun\], accusative, singular, masculine
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 5.2.4"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *śobhamānam* \< *śubh*
+- *śobhamānam* ← *śubh*
 - \[verb noun\], accusative, singular
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
@@ -46,13 +46,13 @@ title = "Rig Veda 5.2.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agṛbhrann* \< *agṛbhran* \< *grah*
+- *agṛbhrann* ← *agṛbhran* ← *grah*
 - \[verb\], plural, Root aorist (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -60,7 +60,7 @@ title = "Rig Veda 5.2.4"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *ajaniṣṭa* \< *jan*
+- *ajaniṣṭa* ← *jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -70,24 +70,24 @@ title = "Rig Veda 5.2.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣaḥ* \< *tad*
+- *ṣaḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *paliknīr* \< *paliknīḥ* \< *paliknī*
+- *paliknīr* ← *paliknīḥ* ← *paliknī*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yuvatayo* \< *yuvatayaḥ* \< *yuvati*
+- *yuvatayo* ← *yuvatayaḥ* ← *yuvati*
 - \[noun\], nominative, plural, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *bhavanti* \< *bhū*
+- *bhavanti* ← *bhū*
 - \[verb\], plural, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

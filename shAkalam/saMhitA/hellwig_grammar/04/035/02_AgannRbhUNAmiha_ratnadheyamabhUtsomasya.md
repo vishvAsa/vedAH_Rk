@@ -2,12 +2,12 @@
 title = "Rig Veda 4.35.2"
 
 +++
--   *āgann* \< *āgan* \< *āgam* \< *√gam*
+-   *āgann* ← *āgan* ← *āgam* ← *√gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *ṛbhūṇām* \< *ṛbhu*
+- *ṛbhūṇām* ← *ṛbhu*
 - \[noun\], genitive, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -15,38 +15,38 @@ title = "Rig Veda 4.35.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ratnadheyam* \< *ratna*
+- *ratnadheyam* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadheyam* \< *dheyam* \< *dheya*
+- *ratnadheyam* ← *dheyam* ← *dheya*
 - \[noun\], accusative, singular, neuter
 - “giving; distribution.”
 ------------------------------------------------------------------------
-- *abhūt* \< *bhū*
+- *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *suṣutasya* \< *suṣuta*
+- *suṣutasya* ← *suṣuta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *pītiḥ* \< *pīti*
+- *pītiḥ* ← *pīti*
 - \[noun\], nominative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *su*
+- *sukṛtyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- *sukṛtyayā* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 ------------------------------------------------------------------------
@@ -54,29 +54,29 @@ title = "Rig Veda 4.35.2"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *svapasyayā* \< *su*
+- *svapasyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapasyayā* \< *apasyayā* \< *apasyā*
+- *svapasyayā* ← *apasyayā* ← *apasyā*
 - \[noun\], instrumental, singular, feminine
 - “activity.”
 ------------------------------------------------------------------------
-- *caṃ* \< *\_* \< *√\_*
+- *caṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ekaṃ* \< *ekam* \< *eka*
+- *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *vicakra* \< *vikṛ* \< *√kṛ*
+- *vicakra* ← *vikṛ* ← *√kṛ*
 - \[verb\], plural, Perfect indicative
 - “break up.”
 ------------------------------------------------------------------------
-- *camasaṃ* \< *camasam* \< *camasa*
+- *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------

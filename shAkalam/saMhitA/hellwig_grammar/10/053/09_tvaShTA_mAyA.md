@@ -2,52 +2,52 @@
 title = "Rig Veda 10.53.9"
 
 +++
--   *tvaṣṭā* \< *tvaṣṭṛ*
+-   *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *māyā* \< *māyāḥ* \< *māyā*
+- *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *ved* \< *vet* \< *vid*
+- *ved* ← *vet* ← *vid*
 - \[verb\], singular, Present injunctive
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *apasām* \< *apas*
+- *apasām* ← *apas*
 - \[noun\], genitive, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *apastamo* \< *apastamaḥ* \< *apastama*
+- *apastamo* ← *apastamaḥ* ← *apastama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bibhrat* \< *bhṛ*
+- *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *pātrā* \< *pātra*
+- *pātrā* ← *pātra*
 - \[noun\], accusative, plural, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
 ------------------------------------------------------------------------
-- *devapānāni* \< *deva*
+- *devapānāni* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devapānāni* \< *pānāni* \< *pāna*
+- *devapānāni* ← *pānāni* ← *pāna*
 - \[noun\], accusative, plural, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *śantamā* \< *śaṃtama*
+- *śantamā* ← *śaṃtama*
 - \[noun\], accusative, plural, neuter
 - “beneficent.”
 ------------------------------------------------------------------------
-- *śiśīte* \< *śā*
+- *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
@@ -55,31 +55,31 @@ title = "Rig Veda 10.53.9"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *paraśuṃ* \< *paraśum* \< *paraśu*
+- *paraśuṃ* ← *paraśum* ← *paraśu*
 - \[noun\], accusative, singular, masculine
 - “ax.”
 ------------------------------------------------------------------------
-- *svāyasaṃ* \< *su*
+- *svāyasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyasaṃ* \< *āyasam* \< *āyasa*
+- *svāyasaṃ* ← *āyasam* ← *āyasa*
 - \[noun\], accusative, singular, masculine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛścād* \< *vṛścāt* \< *vraśc*
+- *vṛścād* ← *vṛścāt* ← *vraśc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
-- *etaśo* \< *etaśaḥ* \< *etaśa*
+- *etaśo* ← *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *brahmaṇaspatiḥ* \< *brahmaṇaspati*
+- *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------

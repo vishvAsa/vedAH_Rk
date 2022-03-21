@@ -2,7 +2,7 @@
 title = "Rig Veda 10.172.4"
 
 +++
--   *uṣā* \< *uṣāḥ* \< *uṣas*
+-   *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 10.172.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *svasus* \< *svasuḥ* \< *svasṛ*
+- *svasus* ← *svasuḥ* ← *svasṛ*
 - \[noun\], genitive, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *tamaḥ* \< *tamas*
+- *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vartayati* \< *vartay* \< *√vṛt*
+- *vartayati* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present indikative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *vartaniṃ* \< *vartanim* \< *vartani*
+- *vartaniṃ* ← *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *sujātatā* \< *su*
+- *sujātatā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujātatā* \< *jāta* \< *jan*
+- *sujātatā* ← *jāta* ← *jan*
 - \[verb noun\]
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sujātatā* \< *tā*
+- *sujātatā* ← *tā*
 - \[noun\], nominative, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------

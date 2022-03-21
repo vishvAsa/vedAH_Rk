@@ -2,15 +2,15 @@
 title = "Rig Veda 9.107.5"
 
 +++
--   *duhāna* \< *duhānaḥ* \< *duh*
+-   *duhāna* ← *duhānaḥ* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *ūdhar* \< *ūdhas*
+- *ūdhar* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *divyam* \< *divya*
+- *divyam* ← *divya*
 - \[noun\], accusative, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
@@ -19,48 +19,48 @@ title = "Rig Veda 9.107.5"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *pratnaṃ* \< *pratnam* \< *pratna*
+- *pratnaṃ* ← *pratnam* ← *pratna*
 - \[noun\], accusative, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *sadhastham* \< *sadhastha*
+- *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *āsadat* \< *āsad* \< *√sad*
+- *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *āpṛcchyaṃ* \< *āpṛcchyam* \< *āpṛcchya*
+- *āpṛcchyaṃ* ← *āpṛcchyam* ← *āpṛcchya*
 - \[noun\], accusative, singular, neuter
 - “āpṛcchya \[word\].”
 ------------------------------------------------------------------------
-- *dharuṇaṃ* \< *dharuṇam* \< *dharuṇa*
+- *dharuṇaṃ* ← *dharuṇam* ← *dharuṇa*
 - \[noun\], accusative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *dhūto* \< *dhūtaḥ* \< *dhū*
+- *dhūto* ← *dhūtaḥ* ← *dhū*
 - \[verb noun\], nominative, singular
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------

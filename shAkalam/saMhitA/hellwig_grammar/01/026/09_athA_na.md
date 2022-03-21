@@ -2,15 +2,15 @@
 title = "Rig Veda 1.26.9"
 
 +++
--   *athā* \< *atha*
+-   *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ubhayeṣām* \< *ubhaya*
+- *ubhayeṣām* ← *ubhaya*
 - \[noun\], genitive, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 1.26.9"
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martyānām* \< *martya*
+- *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *mithaḥ* \< *mithas*
+- *mithaḥ* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *praśastayaḥ* \< *praśasti*
+- *praśastayaḥ* ← *praśasti*
 - \[noun\], nominative, plural, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------

@@ -2,18 +2,18 @@
 title = "Rig Veda 10.91.7"
 
 +++
--   *vātopadhūta* \< *vāta*
+-   *vātopadhūta* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātopadhūta* \< *upadhūtaḥ* \< *upadhū* \< *√dhū*
+- *vātopadhūta* ← *upadhūtaḥ* ← *upadhū* ← *√dhū*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *iṣito* \< *iṣitaḥ* \< *iṣay* \< *√iṣ*
+- *iṣito* ← *iṣitaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vaśāṃ* \< *vaś*
+- *vaśāṃ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -25,18 +25,18 @@ title = "Rig Veda 10.91.7"
 - \[noun\], accusative, singular, neuter
 - “dry.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *veviṣad* \< *veviṣat* \< *veviṣ* \< *√viṣ*
+- *veviṣad* ← *veviṣat* ← *veviṣ* ← *√viṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vitiṣṭhase* \< *viṣṭhā* \< *√sthā*
+- *vitiṣṭhase* ← *viṣṭhā* ← *√sthā*
 - \[verb\], singular, Present indikative
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
@@ -44,15 +44,15 @@ title = "Rig Veda 10.91.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yatante* \< *yat*
+- *yatante* ← *yat*
 - \[verb\], plural, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *yathā*
@@ -64,21 +64,21 @@ title = "Rig Veda 10.91.7"
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
 ------------------------------------------------------------------------
-- *chardhāṃsy* \< *śardhāṃsi* \< *śardhas*
+- *chardhāṃsy* ← *śardhāṃsi* ← *śardhas*
 - \[noun\], accusative, plural, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ajarāṇi* \< *ajara*
+- *ajarāṇi* ← *ajara*
 - \[noun\], accusative, plural, neuter
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *dhakṣataḥ* \< *dah*
+- *dhakṣataḥ* ← *dah*
 - \[verb noun\], genitive, singular
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

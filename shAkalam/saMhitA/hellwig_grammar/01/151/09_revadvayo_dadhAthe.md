@@ -2,33 +2,33 @@
 title = "Rig Veda 1.151.9"
 
 +++
--   *revad* \< *revat*
+-   *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *dadhāthe* \< *dhā*
+- *dadhāthe* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *revad* \< *revat*
+- *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *āśāthe* \< *aś*
+- *āśāthe* ← *aś*
 - \[verb\], dual, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -37,7 +37,7 @@ title = "Rig Veda 1.151.9"
 - \[noun\], accusative, singular, neuter
 - “helpful; abiding.”
 ------------------------------------------------------------------------
-- *māhinam* \< *māhina*
+- *māhinam* ← *māhina*
 - \[noun\], accusative, singular, neuter
 - “mighty; large.”
 ------------------------------------------------------------------------
@@ -45,27 +45,27 @@ title = "Rig Veda 1.151.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *'habhir* \< *ahabhiḥ* \< *aha*
+- *'habhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *nota* \< *na*
+- *nota* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nota* \< *uta*
+- *nota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -73,28 +73,28 @@ title = "Rig Veda 1.151.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devatvam* \< *deva*
+- *devatvam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devatvam* \< *tvam* \< *tva*
+- *devatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *paṇayo* \< *paṇayaḥ* \< *paṇi*
+- *paṇayo* ← *paṇayaḥ* ← *paṇi*
 - \[noun\], nominative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *nānaśur* \< *nā* \< *na*
+- *nānaśur* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānaśur* \< *ānaśuḥ* \< *aś*
+- *nānaśur* ← *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *magham* \< *magha*
+- *magham* ← *magha*
 - \[noun\], accusative, singular, masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------

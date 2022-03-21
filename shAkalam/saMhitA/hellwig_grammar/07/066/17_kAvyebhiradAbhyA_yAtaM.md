@@ -2,15 +2,15 @@
 title = "Rig Veda 7.66.17"
 
 +++
--   *kāvyebhir* \< *kāvyebhiḥ* \< *kāvya*
+-   *kāvyebhir* ← *kāvyebhiḥ* ← *kāvya*
 - \[noun\], instrumental, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *adābhyā* \< *adābhya*
+- *adābhyā* ← *adābhya*
 - \[noun\], nominative, dual, masculine
 - “trustworthy; disabused(p).”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -24,7 +24,7 @@ title = "Rig Veda 7.66.17"
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *mitraś* \< *mitraḥ* \< *mitra*
+- *mitraś* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 7.66.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.87.13"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,15 +16,15 @@ title = "Rig Veda 10.87.13"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], nominative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *śapāto* \< *śapātaḥ* \< *śap*
+- *śapāto* ← *śapātaḥ* ← *śap*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “curse; swear; affirm; promise.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

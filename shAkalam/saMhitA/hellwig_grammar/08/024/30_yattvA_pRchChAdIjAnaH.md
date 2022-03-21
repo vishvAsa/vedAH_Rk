@@ -6,41 +6,41 @@ title = "Rig Veda 8.24.30"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pṛcchād* \< *pṛcchāt* \< *pracch*
+- *pṛcchād* ← *pṛcchāt* ← *pracch*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *ījānaḥ* \< *yaj*
+- *ījānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
 - *kuhayā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kuhayākṛte* \< *kuhayākṛti*
+- *kuhayākṛte* ← *kuhayākṛti*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣo* \< *eṣa* \< *etad*
+- *eṣo* ← *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *eṣo* \< *u*
+- *eṣo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *apaśrito* \< *apaśritaḥ* \< *apaśri* \< *√śri*
+- *apaśrito* ← *apaśritaḥ* ← *apaśri* ← *√śri*
 - \[verb noun\], nominative, singular
 - “withdraw.”
 ------------------------------------------------------------------------
-- *valo* \< *valaḥ* \< *vala*
+- *valo* ← *valaḥ* ← *vala*
 - \[noun\], nominative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *gomatīm* \< *gomatī*
+- *gomatīm* ← *gomatī*
 - \[noun\], accusative, singular, feminine
 - “Gomatī; Gomatī; Gomatī; gorocanā; Devi.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 8.24.30"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tiṣṭhati* \< *sthā*
+- *tiṣṭhati* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

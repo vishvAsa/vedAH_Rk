@@ -2,7 +2,7 @@
 title = "Rig Veda 6.45.13"
 
 +++
--   *abhūr* \< *abhūḥ* \< *bhū*
+-   *abhūr* ← *abhūḥ* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -17,10 +17,10 @@ title = "Rig Veda 6.45.13"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇo* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -31,20 +31,20 @@ title = "Rig Veda 6.45.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *hite* \< *dhā*
+- *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *vitantasāyyaḥ* \< *vitantasāyya*
+- *vitantasāyyaḥ* ← *vitantasāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

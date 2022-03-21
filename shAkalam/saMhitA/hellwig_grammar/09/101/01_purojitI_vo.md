@@ -2,10 +2,10 @@
 title = "Rig Veda 9.101.1"
 
 +++
--   *purojitī* \< *purojiti*
+-   *purojitī* ← *purojiti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------

@@ -10,57 +10,57 @@ title = "Rig Veda 7.38.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *śrudhy* \< *śrudhī* \< *śru*
+- *śrudhy* ← *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇe* \< *hiraṇya*
+- *hiraṇyapāṇe* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇe* \< *pāṇe* \< *pāṇi*
+- *hiraṇyapāṇe* ← *pāṇe* ← *pāṇi*
 - \[noun\], vocative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
-- *prabhṛtāv* \< *prabhṛtau* \< *prabhṛti*
+- *prabhṛtāv* ← *prabhṛtau* ← *prabhṛti*
 - \[noun\], locative, singular, feminine
 - “etc.; beginning; prabhṛti \[word\]; beginning.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *urvīm* \< *uru*
+- *urvīm* ← *uru*
 - \[noun\], accusative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *pṛthvīm* \< *pṛthu*
+- *pṛthvīm* ← *pṛthu*
 - \[noun\], accusative, singular, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *amatiṃ* \< *amatim* \< *amati*
+- *amatiṃ* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *sṛjāna* \< *sṛjānaḥ* \< *sṛj*
+- *sṛjāna* ← *sṛjānaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -69,19 +69,19 @@ title = "Rig Veda 7.38.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nṛbhyo* \< *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyo* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], dative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *martabhojanaṃ* \< *marta*
+- *martabhojanaṃ* ← *marta*
 - \[noun\], masculine
 - “man.”
 ------------------------------------------------------------------------
-- *martabhojanaṃ* \< *bhojanam* \< *bhojana*
+- *martabhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *suvānaḥ* \< *sū*
+- *suvānaḥ* ← *sū*
 - \[verb noun\], nominative, singular
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------

@@ -2,48 +2,48 @@
 title = "Rig Veda 8.92.8"
 
 +++
--   *yudhmaṃ* \< *yudhmam* \< *yudhma*
+-   *yudhmaṃ* ← *yudhmam* ← *yudhma*
 - \[noun\], accusative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *anarvāṇaṃ* \< *anarvāṇam* \< *anarvan*
+- *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *somapām* \< *soma*
+- *somapām* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapām* \< *pām* \< *pā*
+- *somapām* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *anapacyutam* \< *an*
+- *anapacyutam* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anapacyutam* \< *apacyutam* \< *apacyu* \< *√cyu*
+- *anapacyutam* ← *apacyutam* ← *apacyu* ← *√cyu*
 - \[verb noun\], accusative, singular
 - “abscond.”
 ------------------------------------------------------------------------
-- *naram* \< *nṛ*
+- *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *avāryakratum* \< *a*
+- *avāryakratum* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avāryakratum* \< *vārya* \< *vāray*
+- *avāryakratum* ← *vārya* ← *vāray*
 - \[verb noun\]
 - “ward off; obstruct; restrain.”
 ------------------------------------------------------------------------
-- *avāryakratum* \< *kratum* \< *kratu*
+- *avāryakratum* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

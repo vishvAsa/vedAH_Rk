@@ -2,50 +2,50 @@
 title = "Rig Veda 1.162.3"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *cchāgaḥ* \< *chāgaḥ* \< *chāga*
+- *cchāgaḥ* ← *chāgaḥ* ← *chāga*
 - \[noun\], nominative, singular, masculine
 - “goat; billy.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *aśvena* \< *aśva*
+- *aśvena* ← *aśva*
 - \[noun\], instrumental, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vājinā* \< *vājin*
+- *vājinā* ← *vājin*
 - \[noun\], instrumental, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *pūṣṇo* \< *pūṣṇaḥ* \< *pūṣan*
+- *pūṣṇo* ← *pūṣṇaḥ* ← *pūṣan*
 - \[noun\], genitive, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *bhāgo* \< *bhāgaḥ* \< *bhāga*
+- *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *nīyate* \< *nī*
+- *nīyate* ← *nī*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *viśvadevyaḥ* \< *viśvadevya*
+- *viśvadevyaḥ* ← *viśvadevya*
 - \[noun\], nominative, singular, masculine
 - “viśvadevya \[word\].”
 ------------------------------------------------------------------------
-- *abhipriyaṃ* \< *abhi*
+- *abhipriyaṃ* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhipriyaṃ* \< *priyam* \< *priya*
+- *abhipriyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
@@ -54,30 +54,30 @@ title = "Rig Veda 1.162.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *puroﾱāśam* \< *puroḍāś*
+- *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *arvatā* \< *arvant*
+- *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *tvaṣṭed* \< *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭed* ← *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *tvaṣṭed* \< *id*
+- *tvaṣṭed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *sauśravasāya* \< *sauśravasa*
+- *sauśravasāya* ← *sauśravasa*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *jinvati* \< *jinv*
+- *jinvati* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------

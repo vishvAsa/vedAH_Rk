@@ -6,35 +6,35 @@ title = "Rig Veda 9.96.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *senānīḥ* \< *senānī*
+- *senānīḥ* ← *senānī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śūro* \< *śūraḥ* \< *śūra*
+- *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “brave; powerful.”
 ------------------------------------------------------------------------
-- *agre* \< *agra*
+- *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *rathānāṃ* \< *rathānām* \< *ratha*
+- *rathānāṃ* ← *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *gavyann* \< *gavyan* \< *gavyat*
+- *gavyann* ← *gavyan* ← *gavyat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *harṣate* \< *hṛṣ*
+- *harṣate* ← *hṛṣ*
 - \[verb\], singular, Present indikative
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -42,12 +42,12 @@ title = "Rig Veda 9.96.1"
 - \[noun\], nominative, singular, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *bhadrān* \< *bhadra*
+- *bhadrān* ← *bhadra*
 - \[noun\], accusative, plural, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *kṛṇvann* \< *kṛṇvan* \< *kṛ*
+- *kṛṇvann* ← *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,16 +58,16 @@ title = "Rig Veda 9.96.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indrahavān* \< *indra*
+- *indrahavān* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrahavān* \< *havān* \< *hava*
+- *indrahavān* ← *havān* ← *hava*
 - \[noun\], accusative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *sakhibhya* \< *sakhibhyaḥ* \< *sakhi*
+- *sakhibhya* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -75,19 +75,19 @@ title = "Rig Veda 9.96.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vastrā* \< *vastra*
+- *vastrā* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
 ------------------------------------------------------------------------
-- *rabhasāni* \< *rabhasa*
+- *rabhasāni* ← *rabhasa*
 - \[noun\], accusative, plural, neuter
 - “fierce; impetuous; powerful; potent; flamboyant.”
 ------------------------------------------------------------------------
-- *datte* \< *dā*
+- *datte* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

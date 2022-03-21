@@ -2,79 +2,79 @@
 title = "Rig Veda 3.7.9"
 
 +++
--   *vṛṣāyante* \< *vṛṣāy*
+-   *vṛṣāyante* ← *vṛṣāy*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *atyāya* \< *atya*
+- *atyāya* ← *atya*
 - \[noun\], dative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *citrāya* \< *citra*
+- *citrāya* ← *citra*
 - \[noun\], dative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *raśmayaḥ* \< *raśmi*
+- *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *suyāmāḥ* \< *su*
+- *suyāmāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyāmāḥ* \< *yāmāḥ* \< *yāma*
+- *suyāmāḥ* ← *yāmāḥ* ← *yāma*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *deva*
 - \[noun\], vocative, singular, masculine
 - “divine.”
 ------------------------------------------------------------------------
-- *hotar* \< *hotṛ*
+- *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *mandrataraś* \< *mandrataraḥ* \< *mandratara*
+- *mandrataraś* ← *mandrataraḥ* ← *mandratara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *cikitvān* \< *cit*
+- *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *eha* \< *ā*
+- *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eha* \< *iha*
+- *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

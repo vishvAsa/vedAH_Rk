@@ -2,42 +2,42 @@
 title = "Rig Veda 7.94.6"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *vipanyavaḥ* \< *vipanyu*
+- *vipanyavaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, masculine
 - “admiring; laudatory.”
 ------------------------------------------------------------------------
-- *prayasvanto* \< *prayasvantaḥ* \< *prayasvat*
+- *prayasvanto* ← *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *medhasātā* \< *medha*
+- *medhasātā* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātā* \< *sātā* \< *sāti*
+- *medhasātā* ← *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *saniṣyavaḥ* \< *saniṣyu*
+- *saniṣyavaḥ* ← *saniṣyu*
 - \[noun\], nominative, plural, masculine
 - “eager; plundering.”
 ------------------------------------------------------------------------

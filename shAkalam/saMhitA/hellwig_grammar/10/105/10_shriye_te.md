@@ -2,24 +2,24 @@
 title = "Rig Veda 10.105.10"
 
 +++
--   *śriye* \< *śrī*
+-   *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pṛśnir* \< *pṛśniḥ* \< *pṛśni*
+- *pṛśnir* ← *pṛśniḥ* ← *pṛśni*
 - \[noun\], nominative, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
 - *upasecanī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhūcchriye* \< *bhūt* \< *bhū*
+- *bhūcchriye* ← *bhūt* \< *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

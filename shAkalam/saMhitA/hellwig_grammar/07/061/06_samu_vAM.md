@@ -10,35 +10,35 @@ title = "Rig Veda 7.61.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *mahayaṃ* \< *mahayam* \< *mahay* \< *√mah*
+- *mahayaṃ* ← *mahayam* ← *mahay* ← *√mah*
 - \[verb\], singular, Present injunctive
 - “glorify.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *sabādhaḥ* \< *sabādhas*
+- *sabādhaḥ* ← *sabādhas*
 - \[noun\], accusative, singular, neuter
 - “eager; ardent.”
 ------------------------------------------------------------------------
@@ -46,24 +46,24 @@ title = "Rig Veda 7.61.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *manmāny* \< *manmāni* \< *manman*
+- *manmāny* ← *manmāni* ← *manman*
 - \[noun\], nominative, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *ṛcase* \< *arc*
+- *ṛcase* ← *arc*
 - \[verb noun\]
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *navāni* \< *nava*
+- *navāni* ← *nava*
 - \[noun\], nominative, plural, neuter
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,17 +74,17 @@ title = "Rig Veda 7.61.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jujuṣann* \< *jujuṣan* \< *juṣ*
+- *jujuṣann* ← *jujuṣan* ← *juṣ*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *imāni* \< *idam*
+- *imāni* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

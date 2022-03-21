@@ -6,16 +6,16 @@ title = "Rig Veda 7.2.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yoṣaṇe* \< *yoṣaṇā*
+- *yoṣaṇe* ← *yoṣaṇā*
 - \[noun\], nominative, dual, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------
-- *divye* \< *divya*
+- *divye* ← *divya*
 - \[noun\], nominative, dual, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *mahī* \< *mahi*
+- *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
@@ -27,26 +27,26 @@ title = "Rig Veda 7.2.6"
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *su*
+- *sudugheva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *dughā* \< *dugha*
+- *sudugheva* ← *dughā* ← *dugha*
 - \[noun\], nominative, singular, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *sudugheva* \< *iva*
+- *sudugheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhenuḥ* \< *dhenu*
+- *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *barhiṣadā* \< *barhiṣad*
+- *barhiṣadā* ← *barhiṣad*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *puruhūte* \< *puru*
+- *puruhūte* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------

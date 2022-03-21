@@ -7,17 +7,17 @@ title = "Rig Veda 2.3.8"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *sādhayantī* \< *sādhay* \< *√sādh*
+- *sādhayantī* ← *sādhay* ← *√sādh*
 - \[verb noun\], nominative, singular
 - “prepare; cure; prepare; perform; produce; compound; treat; treat;
     overpower; achieve; use; cover; prove; prove; process.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -34,47 +34,47 @@ title = "Rig Veda 2.3.8"
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
 ------------------------------------------------------------------------
-- *viśvatūrtiḥ* \< *viśvatūrti*
+- *viśvatūrtiḥ* ← *viśvatūrti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *devīḥ* \< *devī*
+- *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *edam* \< *ā*
+- *edam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *edam* \< *idam*
+- *edam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *acchidram* \< *acchidra*
+- *acchidram* ← *acchidra*
 - \[noun\], accusative, singular, neuter
 - “uninjured; unbroken.”
 ------------------------------------------------------------------------
-- *pāntu* \< *pā*
+- *pāntu* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *śaraṇaṃ* \< *śaraṇam* \< *śaraṇa*
+- *śaraṇaṃ* ← *śaraṇam* ← *śaraṇa*
 - \[noun\], nominative, singular, neuter
 - “refuge; safety; shelter; house; protection.”
 ------------------------------------------------------------------------
-- *niṣadya* \< *niṣad* \< *√sad*
+- *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
 ------------------------------------------------------------------------

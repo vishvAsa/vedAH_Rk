@@ -6,44 +6,44 @@ title = "Rig Veda 7.2.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *samidhāno* \< *samidhānaḥ* \< *samindh* \< *√indh*
+- *samidhāno* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *devaiḥ* \< *deva*
+- *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *turebhiḥ* \< *tura*
+- *turebhiḥ* ← *tura*
 - \[noun\], instrumental, plural, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------

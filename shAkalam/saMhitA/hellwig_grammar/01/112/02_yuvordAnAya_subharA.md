@@ -2,23 +2,23 @@
 title = "Rig Veda 1.112.2"
 
 +++
--   *yuvor* \< *yuvoḥ* \< *tvad*
+-   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *subharā* \< *subharāḥ* \< *subhara*
+- *subharā* ← *subharāḥ* ← *subhara*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *asaścato* \< *asaścataḥ* \< *asaścat*
+- *asaścato* ← *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, masculine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -26,36 +26,36 @@ title = "Rig Veda 1.112.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tasthur* \< *tasthuḥ* \< *sthā*
+- *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vacasaṃ* \< *vacasam* \< *vacasa*
+- *vacasaṃ* ← *vacasam* ← *vacasa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mantave* \< *mantu*
+- *mantave* ← *mantu*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *'vathaḥ* \< *avathaḥ* \< *av*
+- *'vathaḥ* ← *avathaḥ* ← *av*
 - \[verb\], dual, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *karmann* \< *karman*
+- *karmann* ← *karman*
 - \[noun\], locative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -63,33 +63,33 @@ title = "Rig Veda 1.112.2"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “yajña; offering; brick.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

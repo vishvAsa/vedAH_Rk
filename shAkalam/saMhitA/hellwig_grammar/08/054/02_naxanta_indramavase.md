@@ -2,36 +2,36 @@
 title = "Rig Veda 8.54.2"
 
 +++
--   *nakṣanta* \< *nakṣante* \< *nakṣ*
+-   *nakṣanta* ← *nakṣante* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *su*
+- *sukṛtyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- *sukṛtyayā* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 ------------------------------------------------------------------------
-- *yeṣāṃ* \< *yeṣām* \< *yad*
+- *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suteṣu* \< *su*
+- *suteṣu* ← *su*
 - \[verb noun\], locative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *mandase* \< *mand*
+- *mandase* ← *mand*
 - \[verb\], singular, Present indikative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 8.54.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *saṃvarte* \< *saṃvarta*
+- *saṃvarte* ← *saṃvarta*
 - \[noun\], locative, singular, masculine
 - “Saṃvarta; Saṃvarta; Saṃvarta; Pralaya; belleric myrobalan.”
 ------------------------------------------------------------------------
-- *amado* \< *amadaḥ* \< *mad*
+- *amado* ← *amadaḥ* ← *mad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -51,16 +51,16 @@ title = "Rig Veda 8.54.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *kṛśa* \< *kṛśe* \< *kṛśa*
+- *kṛśa* ← *kṛśe* ← *kṛśa*
 - \[noun\], locative, singular, masculine
 - “Kṛśa.”
 ------------------------------------------------------------------------
-- *evāsme* \< *eva*
+- *evāsme* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evāsme* \< *asme* \< *mad*
+- *evāsme* ← *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 8.54.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *matsva* \< *mad*
+- *matsva* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

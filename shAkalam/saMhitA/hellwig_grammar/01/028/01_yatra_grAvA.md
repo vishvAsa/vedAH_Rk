@@ -6,51 +6,51 @@ title = "Rig Veda 1.28.1"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *grāvā* \< *grāvan*
+- *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *pṛthubudhna* \< *pṛthu*
+- *pṛthubudhna* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthubudhna* \< *budhnaḥ* \< *budhna*
+- *pṛthubudhna* ← *budhnaḥ* ← *budhna*
 - \[noun\], nominative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *ūrdhvo* \< *ūrdhvaḥ* \< *ūrdhva*
+- *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sotave* \< *su*
+- *sotave* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *ulūkhala*
+- *ulūkhalasutānām* ← *ulūkhala*
 - \[noun\], masculine
 - “mortar; ulūkhala.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *sutānām* \< *su*
+- *ulūkhalasutānām* ← *sutānām* ← *su*
 - \[verb noun\], genitive, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *aved* \< *ava*
+- *aved* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *aved* \< *id*
+- *aved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 1.28.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jalgulaḥ* \< *jargur* \< *√gṛ*
+- *jalgulaḥ* ← *jargur* ← *√gṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “swallow.”
 ------------------------------------------------------------------------

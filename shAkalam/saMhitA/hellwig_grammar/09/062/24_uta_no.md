@@ -6,35 +6,35 @@ title = "Rig Veda 9.62.24"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gomatīr* \< *gomatīḥ* \< *gomat*
+- *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], accusative, plural, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *pariṣṭubhaḥ* \< *pariṣṭubh*
+- *pariṣṭubhaḥ* ← *pariṣṭubh*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *gṛṇāno* \< *gṛṇānaḥ* \< *gṛ*
+- *gṛṇāno* ← *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *jamadagninā* \< *jamadagni*
+- *jamadagninā* ← *jamadagni*
 - \[noun\], instrumental, singular, masculine
 - “Jamadagni.”
 ------------------------------------------------------------------------

@@ -2,24 +2,24 @@
 title = "Rig Veda 1.165.1"
 
 +++
--   *kayā* \< *ka*
+-   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *śubhā* \< *śubh*
+- *śubhā* ← *śubh*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *savayasaḥ* \< *savayas*
+- *savayasaḥ* ← *savayas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sanīﾱāḥ* \< *sanīḍa*
+- *sanīﾱāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, masculine
 - “kindred; equal; sanīḍa \[word\].”
 ------------------------------------------------------------------------
 - *samānyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -27,40 +27,40 @@ title = "Rig Veda 1.165.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mimikṣuḥ* \< *mikṣ*
+- *mimikṣuḥ* ← *mikṣ*
 - \[verb\], plural, Perfect indicative
 - “season.”
 ------------------------------------------------------------------------
-- *kayā* \< *ka*
+- *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *matī* \< *mati*
+- *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *kuta* \< *kutas*
+- *kuta* ← *kutas*
 - \[adverb\]
 - “how; whence; why.”
 ------------------------------------------------------------------------
-- *etāsa* \< *etāsaḥ* \< *e* \< *√i*
+- *etāsa* ← *etāsaḥ* ← *e* ← *√i*
 - \[verb noun\], nominative, plural
 - “come; travel.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *'rcanti* \< *arcanti* \< *arc*
+- *'rcanti* ← *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------

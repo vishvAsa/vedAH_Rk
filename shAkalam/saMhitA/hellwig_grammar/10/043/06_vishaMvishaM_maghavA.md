@@ -2,85 +2,85 @@
 title = "Rig Veda 10.43.6"
 
 +++
--   *viśaṃ* \< *viśam* \< *viś*
+-   *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *viśam* \< *viś*
+- *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *aśāyata* \< *śī*
+- *aśāyata* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *janānāṃ* \< *janānām* \< *jana*
+- *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *dhenā* \< *dhenāḥ* \< *dhenā*
+- *dhenā* ← *dhenāḥ* ← *dhenā*
 - \[noun\], accusative, plural, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
-- *ava* \< *av*
+- *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *cākaśad* \< *cākaśat* \< *cākaś* \< *√kāś*
+- *cākaśad* ← *cākaśat* ← *cākaś* ← *√kāś*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yasyāha* \< *yasya* \< *yad*
+- *yasyāha* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāha* \< *aha*
+- *yasyāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *śakraḥ* \< *śakra*
+- *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *savaneṣu* \< *savana*
+- *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *raṇyati* \< *raṇ*
+- *raṇyati* ← *raṇ*
 - \[verb\], singular, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tīvraiḥ* \< *tīvra*
+- *tīvraiḥ* ← *tīvra*
 - \[noun\], instrumental, plural, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *somaiḥ* \< *soma*
+- *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sahate* \< *sah*
+- *sahate* ← *sah*
 - \[verb\], singular, Present indikative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *pṛtanyataḥ* \< *pṛtany*
+- *pṛtanyataḥ* ← *pṛtany*
 - \[verb noun\], accusative, plural
 - “attack.”
 ------------------------------------------------------------------------

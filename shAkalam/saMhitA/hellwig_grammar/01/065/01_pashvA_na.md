@@ -2,7 +2,7 @@
 title = "Rig Veda 1.65.1"
 
 +++
--   *paśvā* \< *paśu*
+-   *paśvā* ← *paśu*
 - \[noun\], instrumental, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -11,7 +11,7 @@ title = "Rig Veda 1.65.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tāyuṃ* \< *tāyum* \< *tāyu*
+- *tāyuṃ* ← *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
 ------------------------------------------------------------------------
@@ -19,15 +19,15 @@ title = "Rig Veda 1.65.1"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *catantaṃ* \< *catantam* \< *cat*
+- *catantaṃ* ← *catantam* ← *cat*
 - \[verb noun\], accusative, singular
 - “flee.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *yujānaṃ* \< *yujānam* \< *yuj*
+- *yujānaṃ* ← *yujānam* ← *yuj*
 - \[verb noun\], accusative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -35,11 +35,11 @@ title = "Rig Veda 1.65.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vahantam* \< *vah*
+- *vahantam* ← *vah*
 - \[verb noun\], accusative, singular
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

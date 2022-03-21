@@ -2,35 +2,35 @@
 title = "Rig Veda 8.44.2"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vardhasvānena* \< *vardhasva* \< *vṛdh*
+- *vardhasvānena* ← *vardhasva* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *vardhasvānena* \< *anena* \< *idam*
+- *vardhasvānena* ← *anena* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *manmanā* \< *manman*
+- *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 8.44.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *sūktāni* \< *sūkta*
+- *sūktāni* ← *sūkta*
 - \[noun\], accusative, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *harya* \< *hary*
+- *harya* ← *hary*
 - \[verb\], singular, Present imperative
 - “delight.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

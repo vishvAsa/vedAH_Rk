@@ -6,57 +6,57 @@ title = "Rig Veda 1.120.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *kasmai* \< *ka*
+- *kasmai* ← *ka*
 - \[noun\], dative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhātam* \< *dhā*
+- *dhātam* ← *dhā*
 - \[verb\], dual, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *amitriṇe* \< *amitrin*
+- *amitriṇe* ← *amitrin*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *mākutrā* \< *mā*
+- *mākutrā* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mākutrā* \< *akutrā*
+- *mākutrā* ← *akutrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gṛhebhyo* \< *gṛhebhyaḥ* \< *gṛha*
+- *gṛhebhyo* ← *gṛhebhyaḥ* ← *gṛha*
 - \[noun\], ablative, plural, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *guḥ* \< *gā*
+- *guḥ* ← *gā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *stanābhujo* \< *stanābhujaḥ* \< *stanābhuj*
+- *stanābhujo* ← *stanābhujaḥ* ← *stanābhuj*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *aśiśvīḥ* \< *aśiśu*
+- *aśiśvīḥ* ← *aśiśu*
 - \[noun\], nominative, plural, feminine
 - “aśiśu \[word\]; childless.”
 ------------------------------------------------------------------------

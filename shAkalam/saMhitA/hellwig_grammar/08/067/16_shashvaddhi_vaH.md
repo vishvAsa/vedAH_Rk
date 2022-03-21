@@ -2,31 +2,31 @@
 title = "Rig Veda 8.67.16"
 
 +++
--   *śaśvaddhi* \< *śaśvat*
+-   *śaśvaddhi* ← *śaśvat*
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
 ------------------------------------------------------------------------
-- *śaśvaddhi* \< *hi*
+- *śaśvaddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sudānava* \< *sudānavaḥ* \< *sudānu*
+- *sudānava* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.67.16"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *bubhujmahe* \< *bhuj*
+- *bubhujmahe* ← *bhuj*
 - \[verb\], plural, Perfect indicative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------

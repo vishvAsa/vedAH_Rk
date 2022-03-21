@@ -6,50 +6,50 @@ title = "Rig Veda 1.169.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ghorāṇām* \< *ghora*
+- *ghorāṇām* ← *ghora*
 - \[noun\], genitive, plural, masculine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *etānām* \< *eta*
+- *etānām* ← *eta*
 - \[noun\], genitive, plural, masculine
 - “eta \[word\]; antelope.”
 ------------------------------------------------------------------------
-- *ayāsām* \< *ayās*
+- *ayāsām* ← *ayās*
 - \[noun\], genitive, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *śṛṇva* \< *śṛṇve* \< *śru*
+- *śṛṇva* ← *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *āyatām* \< *e* \< *√i*
+- *āyatām* ← *e* ← *√i*
 - \[verb noun\], genitive, plural
 - “come; travel.”
 ------------------------------------------------------------------------
-- *upabdiḥ* \< *upabdi*
+- *upabdiḥ* ← *upabdi*
 - \[noun\], nominative, singular, masculine
 - “trample.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *pṛtanāyantam* \< *pṛtanāy*
+- *pṛtanāyantam* ← *pṛtanāy*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *ūmair* \< *ūmaiḥ* \< *ūma*
+- *ūmair* ← *ūmaiḥ* ← *ūma*
 - \[noun\], instrumental, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *ṛṇāvānaṃ* \< *ṛṇāvānam* \< *ṛṇāvan*
+- *ṛṇāvānaṃ* ← *ṛṇāvānam* ← *ṛṇāvan*
 - \[noun\], accusative, singular, masculine
 - “indebted(p).”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 1.169.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *patayanta* \< *patay* \< *√pat*
+- *patayanta* ← *patay* ← *√pat*
 - \[verb\], plural, Present injunctive
 - “fly.”
 ------------------------------------------------------------------------
-- *sargaiḥ* \< *sarga*
+- *sargaiḥ* ← *sarga*
 - \[noun\], instrumental, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------

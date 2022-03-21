@@ -2,85 +2,85 @@
 title = "Rig Veda 8.35.6"
 
 +++
--   *giro* \< *giraḥ* \< *gir*
+-   *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *juṣethām* \< *juṣ*
+- *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *juṣethāṃ* \< *juṣethām* \< *juṣ*
+- *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *viśveha* \< *viśvā* \< *viśva*
+- *viśveha* ← *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśveha* \< *iha*
+- *viśveha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *devau* \< *deva*
+- *devau* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savanāva* \< *savanā* \< *savana*
+- *savanāva* ← *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *savanāva* \< *ava*
+- *savanāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *gacchatam* \< *gam*
+- *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *sajoṣasā* \< *sajoṣasau* \< *sajoṣas*
+- *sajoṣasā* ← *sajoṣasau* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣas*
+- *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryeṇa* \< *sūrya*
+- *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *ceṣaṃ* \< *ca*
+- *ceṣaṃ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ceṣaṃ* \< *iṣam* \< *iṣ*
+- *ceṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *voﾱham* \< *voḍham* \< *vah*
+- *voﾱham* ← *voḍham* ← *vah*
 - \[verb\], dual, Aorist imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

@@ -6,12 +6,12 @@ title = "Rig Veda 2.36.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -24,19 +24,19 @@ title = "Rig Veda 2.36.4"
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *yakṣi* \< *yaj*
+- *yakṣi* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *cośan* \< *ca*
+- *cośan* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cośan* \< *uśan* \< *vaś*
+- *cośan* ← *uśan* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *hotar* \< *hotṛ*
+- *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -44,18 +44,18 @@ title = "Rig Veda 2.36.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣadā* \< *sad*
+- *ṣadā* ← *sad*
 - \[verb\], singular, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *yoniṣu* \< *yoni*
+- *yoniṣu* ← *yoni*
 - \[noun\], locative, plural, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *triṣu* \< *tri*
+- *triṣu* ← *tri*
 - \[noun\], locative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -63,15 +63,15 @@ title = "Rig Veda 2.36.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vīhi* \< *vī*
+- *vīhi* ← *vī*
 - \[verb\], singular, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *prasthitaṃ* \< *prasthitam* \< *prasthā* \< *√sthā*
+- *prasthitaṃ* ← *prasthitam* ← *prasthā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “depart; give; depart; go; stay; proceed.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
@@ -79,24 +79,24 @@ title = "Rig Veda 2.36.4"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *pibāgnīdhrāt* \< *pibā* \< *pā*
+- *pibāgnīdhrāt* ← *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibāgnīdhrāt* \< *āgnīdhrāt* \< *āgnīdhra*
+- *pibāgnīdhrāt* ← *āgnīdhrāt* ← *āgnīdhra*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhāgasya* \< *bhāga*
+- *bhāgasya* ← *bhāga*
 - \[noun\], genitive, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *tṛpṇuhi* \< *tṛp*
+- *tṛpṇuhi* ← *tṛp*
 - \[verb\], singular, Present imperative
 - “satiate; enjoy; delight.”
 ------------------------------------------------------------------------

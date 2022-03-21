@@ -2,37 +2,37 @@
 title = "Rig Veda 5.40.3"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vajriñ* \< *vajrin*
+- *vajriñ* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *citrābhir* \< *citrābhiḥ* \< *citra*
+- *citrābhir* ← *citrābhiḥ* ← *citra*
 - \[noun\], instrumental, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣann* \< *vṛṣan*
+- *vṛṣann* ← *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -41,15 +41,15 @@ title = "Rig Veda 5.40.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛṣabhir* \< *vṛṣabhiḥ* \< *vṛṣan*
+- *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *vṛtra*
+- *vṛtrahantama* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *hantama*
+- *vṛtrahantama* ← *hantama*
 - \[noun\], vocative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------

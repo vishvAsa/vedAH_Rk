@@ -5,33 +5,33 @@ title = "Rig Veda 6.16.18"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrtam* \< *pūrta*
+- *pūrtam* ← *pūrta*
 - \[noun\], nominative, singular, neuter
 - “gift.”
 ------------------------------------------------------------------------
-- *akṣipad* \< *akṣipat*
+- *akṣipad* ← *akṣipat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bhuvan* \< *bhuvat* \< *bhū*
+- *bhuvan* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *nemānāṃ* \< *nemānām* \< *nema*
+- *nemānāṃ* ← *nemānām* ← *nema*
 - \[noun\], genitive, plural, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------

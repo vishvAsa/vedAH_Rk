@@ -2,53 +2,53 @@
 title = "Rig Veda 8.22.2"
 
 +++
--   *pūrvāyuṣaṃ* \< *pūrva*
+-   *pūrvāyuṣaṃ* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvāyuṣaṃ* \< *āyuṣam* \< *āyuṣa*
+- *pūrvāyuṣaṃ* ← *āyuṣam* ← *āyuṣa*
 - \[noun\], accusative, singular, masculine
 - “life; longevity.”
 ------------------------------------------------------------------------
-- *suhavam* \< *su*
+- *suhavam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavam* \< *havam* \< *hava*
+- *suhavam* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------
-- *bhujyuṃ* \< *bhujyum* \< *bhujyu*
+- *bhujyuṃ* ← *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *pūrvyam* \< *pūrvya*
+- *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *sacanāvantaṃ* \< *sacanāvantam* \< *sacanāvat*
+- *sacanāvantaṃ* ← *sacanāvantam* ← *sacanāvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sumatibhiḥ* \< *sumati*
+- *sumatibhiḥ* ← *sumati*
 - \[noun\], instrumental, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *sobhare* \< *sobhari*
+- *sobhare* ← *sobhari*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vidveṣasam* \< *vidveṣas*
+- *vidveṣasam* ← *vidveṣas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *anehasam* \< *anehas*
+- *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------

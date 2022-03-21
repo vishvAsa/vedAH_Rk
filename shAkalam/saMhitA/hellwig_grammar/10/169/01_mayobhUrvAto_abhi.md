@@ -2,17 +2,17 @@
 title = "Rig Veda 10.169.1"
 
 +++
--   *mayobhūr* \< *mayaḥ* \< *mayas*
+-   *mayobhūr* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *mayobhūr* \< *bhūḥ* \< *bhū*
+- *mayobhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -21,19 +21,19 @@ title = "Rig Veda 10.169.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vātūsrā* \< *vātu* \< *vā*
+- *vātūsrā* ← *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *vātūsrā* \< *usrāḥ* \< *usrā*
+- *vātūsrā* ← *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
 ------------------------------------------------------------------------
-- *ūrjasvatīr* \< *ūrjasvatīḥ* \< *ūrjasvat*
+- *ūrjasvatīr* ← *ūrjasvatīḥ* ← *ūrjasvat*
 - \[noun\], accusative, plural, feminine
 - “alimentary.”
 ------------------------------------------------------------------------
-- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhi*
+- *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhi*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
@@ -41,29 +41,29 @@ title = "Rig Veda 10.169.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *riśantām* \< *riś*
+- *riśantām* ← *riś*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *pīvasvatīr* \< *pīvasvatīḥ* \< *pīvasvat*
+- *pīvasvatīr* ← *pīvasvatīḥ* ← *pīvasvat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *jīvadhanyāḥ* \< *jīva*
+- *jīvadhanyāḥ* ← *jīva*
 - \[noun\], masculine
 - “life; Jupiter; Brihaspati; jīv; person.”
 ------------------------------------------------------------------------
-- *jīvadhanyāḥ* \< *dhanyāḥ* \< *dhanya*
+- *jīvadhanyāḥ* ← *dhanyāḥ* ← *dhanya*
 - \[noun\], accusative, plural, feminine
 - “fortunate; auspicious; affluent.”
 ------------------------------------------------------------------------
-- *pibantv* \< *pibantu* \< *pā*
+- *pibantv* ← *pibantu* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *avasāya* \< *avasa*
+- *avasāya* ← *avasa*
 - \[noun\], dative, singular, neuter
 - “stores; food.”
 ------------------------------------------------------------------------
-- *padvate* \< *padvat*
+- *padvate* ← *padvat*
 - \[noun\], dative, singular, neuter
 - “footed.”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 10.169.1"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *mṛḍa* \< *mṛḍ*
+- *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

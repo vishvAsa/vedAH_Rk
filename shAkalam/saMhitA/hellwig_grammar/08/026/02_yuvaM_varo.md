@@ -2,43 +2,43 @@
 title = "Rig Veda 8.26.2"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *varo* \< *\_* \< *√\_*
+- *varo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *suṣāmṇe* \< *suṣāman*
+- *suṣāmṇe* ← *suṣāman*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *tane* \< *tan*
+- *tane* ← *tan*
 - \[noun\], dative, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *avobhir* \< *avobhiḥ* \< *avas*
+- *avobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *yātho* \< *yāthaḥ* \< *yā*
+- *yātho* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
 ------------------------------------------------------------------------

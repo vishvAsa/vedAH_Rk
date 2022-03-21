@@ -9,26 +9,26 @@ title = "Rig Veda 4.21.6"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *dhiṣaṇyantaḥ* \< *dhiṣaṇy*
+- *dhiṣaṇyantaḥ* ← *dhiṣaṇy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *saraṇyān* \< *saraṇy*
+- *saraṇyān* ← *saraṇy*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *sadanto* \< *sadantaḥ* \< *sad*
+- *sadanto* ← *sadantaḥ* ← *sad*
 - \[verb noun\], nominative, plural
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *auśijasya* \< *auśija*
+- *auśijasya* ← *auśija*
 - \[noun\], genitive, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *gohe* \< *goha*
+- *gohe* ← *goha*
 - \[noun\], locative, singular, masculine
 - “hole.”
 ------------------------------------------------------------------------
@@ -36,35 +36,35 @@ title = "Rig Veda 4.21.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *duroṣāḥ* \< *duroṣas*
+- *duroṣāḥ* ← *duroṣas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pāstyasya* \< *pāstya*
+- *pāstyasya* ← *pāstya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahān* \< *mahat*
+- *mahān* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *saṃvaraṇeṣu* \< *saṃvaraṇa*
+- *saṃvaraṇeṣu* ← *saṃvaraṇa*
 - \[noun\], locative, plural, neuter
 - “concealment.”
 ------------------------------------------------------------------------
-- *vahniḥ* \< *vahni*
+- *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;

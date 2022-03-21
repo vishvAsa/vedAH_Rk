@@ -10,43 +10,43 @@ title = "Rig Veda 6.71.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *tya*
+- *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *hiraṇyayā* \< *hiraṇyaya*
+- *hiraṇyayā* ← *hiraṇyaya*
 - \[noun\], accusative, dual, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *ayaṃsta* \< *yam*
+- *ayaṃsta* ← *yam*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *savanāya* \< *savana*
+- *savanāya* ← *savana*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *sukratu*
+- *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *pāṇī* \< *pāṇi*
+- *pāṇī* ← *pāṇi*
 - \[noun\], accusative, dual, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
@@ -54,32 +54,32 @@ title = "Rig Veda 6.71.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *pruṣṇute* \< *pruṣ*
+- *pruṣṇute* ← *pruṣ*
 - \[verb\], singular, Present indikative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *makho* \< *makhaḥ* \< *makha*
+- *makho* ← *makhaḥ* ← *makha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *sudakṣo* \< *su*
+- *sudakṣo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣo* \< *dakṣaḥ* \< *dakṣa*
+- *sudakṣo* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *vidharmaṇi* \< *vidharman*
+- *vidharmaṇi* ← *vidharman*
 - \[noun\], locative, singular, neuter
 - “receptacle; enclosure.”
 ------------------------------------------------------------------------

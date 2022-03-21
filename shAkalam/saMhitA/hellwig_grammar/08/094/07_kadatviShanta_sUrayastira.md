@@ -2,22 +2,22 @@
 title = "Rig Veda 8.94.7"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *atviṣanta* \< *tviṣ*
+- *atviṣanta* ← *tviṣ*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *sūrayas* \< *sūrayaḥ* \< *sūri*
+- *sūrayas* ← *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *tira* \< *tiras*
+- *tira* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *āpa* \< *āpaḥ* \< *ap*
+- *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -25,19 +25,19 @@ title = "Rig Veda 8.94.7"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
-- *arṣanti* \< *ṛṣ*
+- *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *pūtadakṣasaḥ* \< *pūta* \< *pū*
+- *pūtadakṣasaḥ* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣasaḥ* \< *dakṣasaḥ* \< *dakṣas*
+- *pūtadakṣasaḥ* ← *dakṣasaḥ* ← *dakṣas*
 - \[noun\], nominative, plural, masculine
 - “intelligent.”
 ------------------------------------------------------------------------

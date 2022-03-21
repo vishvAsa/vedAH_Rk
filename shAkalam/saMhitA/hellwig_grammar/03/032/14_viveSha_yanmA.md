@@ -2,15 +2,15 @@
 title = "Rig Veda 3.32.14"
 
 +++
--   *viveṣa* \< *viṣ*
+-   *viveṣa* ← *viṣ*
 - \[verb\], singular, Perfect indicative
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,13 +18,13 @@ title = "Rig Veda 3.32.14"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *jajāna* \< *jan*
+- *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *stavai* \< *stu*
+- *stavai* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -32,20 +32,20 @@ title = "Rig Veda 3.32.14"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *pāryād* \< *pāryāt* \< *pārya*
+- *pāryād* ← *pāryāt* ← *pārya*
 - \[noun\], ablative, singular, neuter
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ahnaḥ* \< *ahar*
+- *ahnaḥ* ← *ahar*
 - \[noun\], ablative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 3.32.14"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *pīparad* \< *pīparat* \< *pṛ*
+- *pīparad* ← *pīparat* ← *pṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
@@ -61,28 +61,28 @@ title = "Rig Veda 3.32.14"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nāveva* \< *nāvā* \< *nau*
+- *nāveva* ← *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *nāveva* \< *iva*
+- *nāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yāntam* \< *yā*
+- *yāntam* ← *yā*
 - \[verb noun\], accusative, singular
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *ubhaye* \< *ubhaya*
+- *ubhaye* ← *ubhaya*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *havante* \< *hvā*
+- *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

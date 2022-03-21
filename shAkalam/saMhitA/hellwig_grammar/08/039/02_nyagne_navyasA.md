@@ -2,80 +2,80 @@
 title = "Rig Veda 8.39.2"
 
 +++
--   *ny* \< *ni*
+-   *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *navyasā* \< *navyas*
+- *navyasā* ← *navyas*
 - \[noun\], instrumental, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *vacas* \< *vacaḥ* \< *vacas*
+- *vacas* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *tanūṣu* \< *tanū*
+- *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śaṃsam* \< *śaṃsa*
+- *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *arātī* \< *arātīḥ* \< *arāti*
+- *arātī* ← *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *rarāvṇāṃ* \< *\_* \< *√\_*
+- *rarāvṇāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *arātīr* \< *arātīḥ* \< *arāti*
+- *arātīr* ← *arātīḥ* ← *arāti*
 - \[noun\], accusative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *ito* \< *itas*
+- *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
-- *yucchantv* \< *yucchantu* \< *yu*
+- *yucchantv* ← *yucchantu* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *āmuro* \< *āmuraḥ* \< *āmur*
+- *āmuro* ← *āmuraḥ* ← *āmur*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

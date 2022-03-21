@@ -2,30 +2,30 @@
 title = "Rig Veda 9.5.2"
 
 +++
--   *tanūnapāt* \< *tanūnapād* \< *tanūnapāt*
+-   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], nominative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *pavamānaḥ* \< *pū*
+- *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *śṛṅge* \< *śṛṅga*
+- *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *śiśāno* \< *śiśānaḥ* \< *śā*
+- *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *antarikṣeṇa* \< *antarikṣa*
+- *antarikṣeṇa* ← *antarikṣa*
 - \[noun\], instrumental, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *rārajat* \< *rāraj*
+- *rārajat* ← *rāraj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

@@ -2,51 +2,51 @@
 title = "Rig Veda 8.58.3"
 
 +++
--   *jyotiṣmantaṃ* \< *jyotiṣmantam* \< *jyotiṣmant*
+-   *jyotiṣmantaṃ* ← *jyotiṣmantam* ← *jyotiṣmant*
 - \[noun\], accusative, singular, masculine
 - “Jyotiṣmant.”
 ------------------------------------------------------------------------
-- *ketumantaṃ* \< *ketumantam* \< *ketumat*
+- *ketumantaṃ* ← *ketumantam* ← *ketumat*
 - \[noun\], accusative, singular, masculine
 - “clean.”
 ------------------------------------------------------------------------
-- *tricakraṃ* \< *tri*
+- *tricakraṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tricakraṃ* \< *cakram* \< *cakra*
+- *tricakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *sukhaṃ* \< *sukham* \< *sukha*
+- *sukhaṃ* ← *sukham* ← *sukha*
 - \[noun\], accusative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *suṣadam* \< *suṣad*
+- *suṣadam* ← *suṣad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bhūrivāram* \< *bhūri*
+- *bhūrivāram* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūrivāram* \< *vāram* \< *vāra*
+- *bhūrivāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *citrāmaghā* \< *citrāmagha*
+- *citrāmaghā* ← *citrāmagha*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yoge* \< *yoga*
+- *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -55,20 +55,20 @@ title = "Rig Veda 8.58.3"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *'dhijajñe* \< *adhijajñe* \< *adhijan* \< *√jan*
+- *'dhijajñe* ← *adhijajñe* ← *adhijan* ← *√jan*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 8.58.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *riktam* \< *ric*
+- *riktam* ← *ric*
 - \[verb noun\], accusative, singular
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *pibadhyai* \< *pā*
+- *pibadhyai* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

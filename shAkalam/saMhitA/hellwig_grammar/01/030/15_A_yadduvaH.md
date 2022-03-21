@@ -6,15 +6,15 @@ title = "Rig Veda 1.30.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *duvaḥ* \< *duvas*
+- *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------
-- *śatakratav* \< *śatakratu*
+- *śatakratav* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 1.30.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kāmaṃ* \< *kāmam* \< *kāma*
+- *kāmaṃ* ← *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *jaritṝṇām* \< *jaritṛ*
+- *jaritṝṇām* ← *jaritṛ*
 - \[noun\], genitive, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *ṛṇor* \< *ṛṇoḥ* \< *ṛch*
+- *ṛṇor* ← *ṛṇoḥ* ← *ṛch*
 - \[verb\], singular, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *akṣaṃ* \< *akṣam* \< *akṣa*
+- *akṣaṃ* ← *akṣam* ← *akṣa*
 - \[noun\], accusative, singular, masculine
 - “axle.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 1.30.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------

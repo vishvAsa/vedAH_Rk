@@ -2,36 +2,36 @@
 title = "Rig Veda 8.12.18"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāsi* \< *vā*
+- *vāsi* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāsi* \< *asi* \< *as*
+- *vāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sunvato* \< *sunvataḥ* \< *su*
+- *sunvato* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vṛdho* \< *vṛdhaḥ* \< *vṛdha*
+- *vṛdho* ← *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *ukthe* \< *uktha*
+- *ukthe* ← *uktha*
 - \[noun\], locative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 8.12.18"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *raṇyasi* \< *ran*
+- *raṇyasi* ← *ran*
 - \[verb\], singular, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 8.12.18"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indubhiḥ* \< *indu*
+- *indubhiḥ* ← *indu*
 - \[noun\], instrumental, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

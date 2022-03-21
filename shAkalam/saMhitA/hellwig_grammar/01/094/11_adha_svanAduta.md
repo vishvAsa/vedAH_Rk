@@ -6,7 +6,7 @@ title = "Rig Veda 1.94.11"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *svanād* \< *svanāt* \< *svana*
+- *svanād* ← *svanāt* ← *svana*
 - \[noun\], ablative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 1.94.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bibhyuḥ* \< *bhī*
+- *bibhyuḥ* ← *bhī*
 - \[verb\], plural, Perfect indicative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *patatriṇo* \< *patatriṇaḥ* \< *patatrin*
+- *patatriṇo* ← *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “bird; arrow; horse.”
 ------------------------------------------------------------------------
-- *drapsā* \< *drapsāḥ* \< *drapsa*
+- *drapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
@@ -30,51 +30,51 @@ title = "Rig Veda 1.94.11"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yavasādo* \< *yavasādaḥ* \< *yavasād*
+- *yavasādo* ← *yavasādaḥ* ← *yavasād*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *asthiran* \< *sthā*
+- *asthiran* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *sugaṃ* \< *sugam* \< *suga*
+- *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tāvakebhyo* \< *tāvakebhyaḥ* \< *tāvaka*
+- *tāvakebhyo* ← *tāvakebhyaḥ* ← *tāvaka*
 - \[noun\], dative, plural, masculine
 - “your(a).”
 ------------------------------------------------------------------------
-- *rathebhyo* \< *rathebhyaḥ* \< *ratha*
+- *rathebhyo* ← *rathebhyaḥ* ← *ratha*
 - \[noun\], dative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -82,15 +82,15 @@ title = "Rig Veda 1.94.11"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣāmā* \< *riṣ*
+- *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

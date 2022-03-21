@@ -2,7 +2,7 @@
 title = "Rig Veda 8.45.29"
 
 +++
--   *ṛbhukṣaṇaṃ* \< *ṛbhukṣaṇam* \< *ṛbhukṣan*
+-   *ṛbhukṣaṇaṃ* ← *ṛbhukṣaṇam* ← *ṛbhukṣan*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 8.45.29"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vartava* \< *vartave* \< *vṛ*
+- *vartava* ← *vartave* ← *vṛ*
 - \[verb noun\]
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *uktheṣu* \< *uktha*
+- *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *tugryāvṛdham* \< *tugryāvṛdh*
+- *tugryāvṛdham* ← *tugryāvṛdh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 8.45.29"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

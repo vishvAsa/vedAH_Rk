@@ -2,12 +2,12 @@
 title = "Rig Veda 2.41.12"
 
 +++
--   *indra* \< *indraḥ* \< *indra*
+-   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *āśābhyas* \< *āśā*
+- *āśābhyas* ← *āśā*
 - \[noun\], ablative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
 ------------------------------------------------------------------------
@@ -15,17 +15,17 @@ title = "Rig Veda 2.41.12"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sarvābhyo* \< *sarvābhyaḥ* \< *sarva*
+- *sarvābhyo* ← *sarvābhyaḥ* ← *sarva*
 - \[noun\], ablative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -36,16 +36,16 @@ title = "Rig Veda 2.41.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jetā* \< *ji*
+- *jetā* ← *ji*
 - \[verb\], singular, periphrast. future
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------

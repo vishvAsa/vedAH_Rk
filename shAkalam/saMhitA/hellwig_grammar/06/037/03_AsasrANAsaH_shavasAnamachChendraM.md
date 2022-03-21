@@ -2,35 +2,35 @@
 title = "Rig Veda 6.37.3"
 
 +++
--   *āsasrāṇāsaḥ* \< *āsṛ* \< *√sṛ*
+-   *āsasrāṇāsaḥ* ← *āsṛ* ← *√sṛ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *śavasānam* \< *śavasāna*
+- *śavasānam* ← *śavasāna*
 - \[noun\], accusative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *acchendraṃ* \< *acchā*
+- *acchendraṃ* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *acchendraṃ* \< *indram* \< *indra*
+- *acchendraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sucakre* \< *su*
+- *sucakre* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sucakre* \< *cakre* \< *cakra*
+- *sucakre* ← *cakre* ← *cakra*
 - \[noun\], locative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *rathyāso* \< *rathyāsaḥ* \< *rathya*
+- *rathyāso* ← *rathyāsaḥ* ← *rathya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *aśvāḥ* \< *aśva*
+- *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -38,23 +38,23 @@ title = "Rig Veda 6.37.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śrava* \< *śravaḥ* \< *śravas*
+- *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *ṛjyanto* \< *ṛjyantaḥ* \< *ṛj*
+- *ṛjyanto* ← *ṛjyantaḥ* ← *ṛj*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *vaheyur* \< *vaheyuḥ* \< *vah*
+- *vaheyur* ← *vaheyuḥ* ← *vah*
 - \[verb\], plural, Present optative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -62,12 +62,12 @@ title = "Rig Veda 6.37.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vāyor* \< *vāyoḥ* \< *vāyu*
+- *vāyor* ← *vāyoḥ* ← *vāyu*
 - \[noun\], genitive, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], nominative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
@@ -76,6 +76,6 @@ title = "Rig Veda 6.37.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dasyet* \< *das*
+- *dasyet* ← *das*
 - \[verb\], singular, Present optative
 ------------------------------------------------------------------------

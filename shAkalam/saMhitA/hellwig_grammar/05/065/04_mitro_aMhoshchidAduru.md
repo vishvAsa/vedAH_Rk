@@ -2,37 +2,37 @@
 title = "Rig Veda 5.65.4"
 
 +++
--   *mitro* \< *mitraḥ* \< *mitra*
+-   *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *aṃhoś* \< *aṃhoḥ* \< *aṃhu*
+- *aṃhoś* ← *aṃhoḥ* ← *aṃhu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
 - *uru*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kṣayāya* \< *kṣaya*
+- *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *gātuṃ* \< *gātum* \< *gā*
+- *gātuṃ* ← *gātum* ← *gā*
 - \[verb noun\]
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *vanate* \< *van*
+- *vanate* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -40,19 +40,19 @@ title = "Rig Veda 5.65.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pratūrvataḥ* \< *pratūrv* \< *√tūrv*
+- *pratūrvataḥ* ← *pratūrv* ← *√tūrv*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vidhataḥ* \< *vidh*
+- *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------

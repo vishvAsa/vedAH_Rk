@@ -2,27 +2,27 @@
 title = "Rig Veda 10.86.12"
 
 +++
--   *nāham* \< *na*
+-   *nāham* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāham* \< *aham* \< *mad*
+- *nāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāṇi* \< *indrāṇī*
+- *indrāṇi* ← *indrāṇī*
 - \[noun\], vocative, singular, feminine
 - “Śacī; nirguṇḍī.”
 ------------------------------------------------------------------------
-- *rāraṇa* \< *ran*
+- *rāraṇa* ← *ran*
 - \[verb\], singular, Perfect indicative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣākaper* \< *vṛṣākapeḥ* \< *vṛṣākapi*
+- *vṛṣākaper* ← *vṛṣākapeḥ* ← *vṛṣākapi*
 - \[noun\], genitive, singular, masculine
 - “Vishnu; vṛṣākapi \[word\]; Indra.”
 ------------------------------------------------------------------------
@@ -30,40 +30,40 @@ title = "Rig Veda 10.86.12"
 - \[adverb\]
 - “without; ṛte \[word\].”
 ------------------------------------------------------------------------
-- *yasyedam* \< *yasya* \< *yad*
+- *yasyedam* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyedam* \< *idam*
+- *yasyedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *apyaṃ* \< *apyam* \< *apya*
+- *apyaṃ* ← *apyam* ← *apya*
 - \[noun\], nominative, singular, neuter
 - “aquatic; aquatic.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], nominative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gacchati* \< *gam*
+- *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

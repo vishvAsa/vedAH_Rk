@@ -2,46 +2,46 @@
 title = "Rig Veda 4.54.6"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *ahan* \< *ahar*
+- *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savāso* \< *savāsaḥ* \< *sava*
+- *savāso* ← *savāsaḥ* ← *sava*
 - \[noun\], nominative, plural, masculine
 - “yajña; command; impulse; direction; momentum.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *saubhagam* \< *saubhaga*
+- *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *āsuvanti* \< *āsū* \< *√sū*
+- *āsuvanti* ← *āsū* ← *√sū*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -50,31 +50,31 @@ title = "Rig Veda 4.54.6"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *adbhir* \< *adbhiḥ* \< *ap*
+- *adbhir* ← *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *ādityair* \< *ādityaiḥ* \< *āditya*
+- *ādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yaṃsat* \< *yam*
+- *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

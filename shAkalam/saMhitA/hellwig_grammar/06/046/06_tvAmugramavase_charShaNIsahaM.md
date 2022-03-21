@@ -2,20 +2,20 @@
 title = "Rig Veda 6.46.6"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *carṣaṇīsahaṃ* \< *carṣaṇīsaham* \< *carṣaṇīsah*
+- *carṣaṇīsahaṃ* ← *carṣaṇīsaham* ← *carṣaṇīsah*
 - \[noun\], accusative, singular, masculine
 - “regnant.”
 ------------------------------------------------------------------------
@@ -23,16 +23,16 @@ title = "Rig Veda 6.46.6"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *hūmahe* \< *hvā*
+- *hūmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -41,29 +41,29 @@ title = "Rig Veda 6.46.6"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vithurā* \< *vithura*
+- *vithurā* ← *vithura*
 - \[noun\], accusative, plural, neuter
 - “weak.”
 ------------------------------------------------------------------------
-- *pibdanā* \< *pibdana*
+- *pibdanā* ← *pibdana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *'mitrān* \< *amitrān* \< *amitra*
+- *'mitrān* ← *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *suṣahān* \< *suṣaha*
+- *suṣahān* ← *suṣaha*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

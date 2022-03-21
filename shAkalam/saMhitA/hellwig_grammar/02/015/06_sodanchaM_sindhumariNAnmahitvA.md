@@ -2,38 +2,38 @@
 title = "Rig Veda 2.15.6"
 
 +++
--   *sodañcaṃ* \< *sa* \< *tad*
+-   *sodañcaṃ* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sodañcaṃ* \< *udañcam* \< *udañc*
+- *sodañcaṃ* ← *udañcam* ← *udañc*
 - \[noun\], accusative, singular, masculine
 - “northern; northbound; udañc \[word\]; northerly.”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ariṇān* \< *ariṇāt* \< *ri*
+- *ariṇān* ← *ariṇāt* ← *ri*
 - \[verb\], singular, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *vajreṇāna* \< *vajreṇa* \< *vajra*
+- *vajreṇāna* ← *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajreṇāna* \< *anaḥ* \< *anas*
+- *vajreṇāna* ← *anaḥ* ← *anas*
 - \[noun\], accusative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -41,42 +41,42 @@ title = "Rig Veda 2.15.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *pipeṣa* \< *piṣ*
+- *pipeṣa* ← *piṣ*
 - \[verb\], singular, Perfect indicative
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *ajavaso* \< *ajavasaḥ* \< *ajavas*
+- *ajavaso* ← *ajavasaḥ* ← *ajavas*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *javinībhir* \< *javinībhiḥ* \< *javin*
+- *javinībhir* ← *javinībhiḥ* ← *javin*
 - \[noun\], instrumental, plural, feminine
 - “agile.”
 ------------------------------------------------------------------------
-- *vivṛścan* \< *vivraśc* \< *√vraśc*
+- *vivṛścan* ← *vivraśc* ← *√vraśc*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mada* \< *made* \< *mada*
+- *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

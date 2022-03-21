@@ -2,46 +2,46 @@
 title = "Rig Veda 8.26.10"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *sv* \< *su*
+- *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ṛṣe* \< *ṛṣi*
+- *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *stuhi* \< *stu*
+- *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śravato* \< *śravataḥ* \< *śru*
+- *śravato* ← *śravataḥ* ← *śru*
 - \[verb\], dual, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *nedīyasaḥ* \< *nedīyas*
+- *nedīyasaḥ* ← *nedīyas*
 - \[noun\], accusative, plural, masculine
 - “nearer; nedīyas \[word\]; near.”
 ------------------------------------------------------------------------
-- *kūﾱayātaḥ* \< *kūḍayātaḥ* \< *kūḍay* \< *√kūḍ*
+- *kūﾱayātaḥ* ← *kūḍayātaḥ* ← *kūḍay* ← *√kūḍ*
 - \[verb\], dual, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇi*
+- *paṇīṃr* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------

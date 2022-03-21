@@ -2,11 +2,11 @@
 title = "Rig Veda 10.43.11"
 
 +++
--   *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+-   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,39 +14,39 @@ title = "Rig Veda 10.43.11"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *paścād* \< *paścāt*
+- *paścād* ← *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
 ------------------------------------------------------------------------
-- *utottarasmād* \< *uta*
+- *utottarasmād* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utottarasmād* \< *uttarasmāt* \< *uttara*
+- *utottarasmād* ← *uttarasmāt* ← *uttara*
 - \[noun\], ablative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *adharād* \< *adharāt*
+- *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
 ------------------------------------------------------------------------
-- *aghāyoḥ* \< *aghāyu*
+- *aghāyoḥ* ← *aghāyu*
 - \[noun\], ablative, singular, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *purastād* \< *purastāt*
+- *purastād* ← *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
@@ -54,27 +54,27 @@ title = "Rig Veda 10.43.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *madhyato* \< *madhyatas*
+- *madhyato* ← *madhyatas*
 - \[adverb\]
 - “in.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhibhyo* \< *sakhibhyaḥ* \< *sakhi*
+- *sakhibhyo* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *varivaḥ* \< *varivas*
+- *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *kṛṇotu* \< *kṛ*
+- *kṛṇotu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.35.3"
 
 +++
--   *dyāvā* \< *div*
+-   *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,32 +18,32 @@ title = "Rig Veda 10.35.3"
 - \[noun\], nominative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *anāgaso* \< *anāgasaḥ* \< *anāgas*
+- *anāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], accusative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *mahī* \< *mahi*
+- *mahī* ← *mahi*
 - \[noun\], nominative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *trāyetāṃ* \< *trāyetām* \< *trā*
+- *trāyetāṃ* ← *trāyetām* ← *trā*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], nominative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ucchanty* \< *ucchantī* \< *vas*
+- *ucchanty* ← *ucchantī* ← *vas*
 - \[verb noun\], nominative, singular
 - “dawn; shine.”
 ------------------------------------------------------------------------
@@ -51,20 +51,20 @@ title = "Rig Veda 10.35.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *bādhatām* \< *bādh*
+- *bādhatām* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *aghaṃ* \< *agham* \< *agha*
+- *aghaṃ* ← *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *svasty* \< *svasti*
+- *svasty* ← *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -74,11 +74,11 @@ title = "Rig Veda 10.35.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhānam* \< *indh*
+- *idhānam* ← *indh*
 - \[verb noun\], accusative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

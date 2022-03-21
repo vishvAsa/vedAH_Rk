@@ -2,34 +2,34 @@
 title = "Rig Veda 10.54.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *kevalāni* \< *kevala*
+- *kevalāni* ← *kevala*
 - \[noun\], accusative, plural, neuter
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
 ------------------------------------------------------------------------
-- *yāny* \< *yāni* \< *yad*
+- *yāny* ← *yāni* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -41,21 +41,21 @@ title = "Rig Veda 10.54.5"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], nominative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *kāmam* \< *kāma*
+- *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -71,33 +71,33 @@ title = "Rig Veda 10.54.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tārīs* \< *tārīḥ* \< *tṛ*
+- *tārīs* ← *tārīḥ* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ājñātā* \< *ājñātṛ*
+- *ājñātā* ← *ājñātṛ*
 - \[noun\], nominative, singular, masculine
 - “leader.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indrāsi* \< *indra*
+- *indrāsi* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāsi* \< *asi* \< *as*
+- *indrāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dātā* \< *dātṛ*
+- *dātā* ← *dātṛ*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------

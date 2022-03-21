@@ -2,19 +2,19 @@
 title = "Rig Veda 6.8.4"
 
 +++
--   *apām* \< *ap*
+-   *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *mahiṣā* \< *mahiṣāḥ* \< *mahiṣa*
+- *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *agṛbhṇata* \< *grah*
+- *agṛbhṇata* ← *grah*
 - \[verb\], plural, Imperfect
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -22,11 +22,11 @@ title = "Rig Veda 6.8.4"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *rājānam* \< *rājan*
+- *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -34,13 +34,13 @@ title = "Rig Veda 6.8.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tasthur* \< *tasthuḥ* \< *sthā*
+- *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ṛgmiyam* \< *ṛgmiya*
+- *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
@@ -48,34 +48,34 @@ title = "Rig Veda 6.8.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dūto* \< *dūtaḥ* \< *dūta*
+- *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *abharad* \< *abharat* \< *bhṛ*
+- *abharad* ← *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vivasvato* \< *vivasvataḥ* \< *vivasvant*
+- *vivasvato* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *vaiśvānaram* \< *vaiśvānara*
+- *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *mātariśvā* \< *mātariśvan*
+- *mātariśvā* ← *mātariśvan*
 - \[noun\], nominative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------

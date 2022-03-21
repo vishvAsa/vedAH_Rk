@@ -2,31 +2,31 @@
 title = "Rig Veda 8.50.4"
 
 +++
--   *anehasaṃ* \< *anehasam* \< *anehas*
+-   *anehasaṃ* ← *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *havamānam* \< *hvā*
+- *havamānam* ← *hvā*
 - \[verb noun\], accusative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], nominative, plural, feminine
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *kṣaranti* \< *kṣar*
+- *kṣaranti* ← *kṣar*
 - \[verb\], plural, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *dhītayaḥ* \< *dhīti*
+- *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
@@ -34,19 +34,19 @@ title = "Rig Veda 8.50.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *havamānāsa* \< *havamānāsaḥ* \< *hvā*
+- *havamānāsa* ← *havamānāsaḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indava* \< *indavaḥ* \< *indu*
+- *indava* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -55,11 +55,11 @@ title = "Rig Veda 8.50.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stotreṣu* \< *stotra*
+- *stotreṣu* ← *stotra*
 - \[noun\], locative, plural, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

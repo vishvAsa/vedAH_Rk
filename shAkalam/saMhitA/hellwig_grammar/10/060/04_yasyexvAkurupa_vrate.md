@@ -2,11 +2,11 @@
 title = "Rig Veda 10.60.4"
 
 +++
--   *yasyekṣvākur* \< *yasya* \< *yad*
+-   *yasyekṣvākur* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyekṣvākur* \< *ikṣvākuḥ* \< *ikṣvāku*
+- *yasyekṣvākur* ← *ikṣvākuḥ* ← *ikṣvāku*
 - \[noun\], nominative, singular, masculine
 - “Ikṣvāku; Ikṣvāku.”
 ------------------------------------------------------------------------
@@ -14,36 +14,36 @@ title = "Rig Veda 10.60.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vrate* \< *vrata*
+- *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *revān* \< *revat*
+- *revān* ← *revat*
 - \[noun\], nominative, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *marāyy* \< *marāyī* \< *marāyin*
+- *marāyy* ← *marāyī* ← *marāyin*
 - \[noun\], nominative, singular, masculine
 - “Marāyin.”
 ------------------------------------------------------------------------
-- *edhate* \< *edh*
+- *edhate* ← *edh*
 - \[verb\], singular, Present indikative
 - “boom; get; thrive; increase; increase.”
 ------------------------------------------------------------------------
-- *divīva* \< *divi* \< *div*
+- *divīva* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *divīva* \< *iva*
+- *divīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], nominative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------

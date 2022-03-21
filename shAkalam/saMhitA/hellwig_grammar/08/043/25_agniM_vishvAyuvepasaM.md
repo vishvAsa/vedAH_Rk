@@ -2,21 +2,21 @@
 title = "Rig Veda 8.43.25"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *viśvāyuvepasam* \< *viśvāyu*
+- *viśvāyuvepasam* ← *viśvāyu*
 - \[noun\]
 - “lifelong.”
 ------------------------------------------------------------------------
-- *viśvāyuvepasam* \< *vepasam* \< *vepas*
+- *viśvāyuvepasam* ← *vepasam* ← *vepas*
 - \[noun\], accusative, singular, masculine
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *maryaṃ* \< *maryam* \< *marya*
+- *maryaṃ* ← *maryam* ← *marya*
 - \[noun\], accusative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -24,15 +24,15 @@ title = "Rig Veda 8.43.25"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *hitam* \< *hi*
+- *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *saptiṃ* \< *saptim* \< *sapti*
+- *saptiṃ* ← *saptim* ← *sapti*
 - \[noun\], accusative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 8.43.25"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayāmasi* \< *vājay* \< *√vaj*
+- *vājayāmasi* ← *vājay* ← *√vaj*
 - \[verb\], plural, Present indikative
 - “incite.”
 ------------------------------------------------------------------------

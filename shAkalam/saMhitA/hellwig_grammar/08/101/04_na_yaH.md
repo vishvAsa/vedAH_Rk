@@ -6,11 +6,11 @@ title = "Rig Veda 8.101.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saṃpṛcche* \< *sampracch* \< *√pracch*
+- *saṃpṛcche* ← *sampracch* ← *√pracch*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *na*
@@ -22,7 +22,7 @@ title = "Rig Veda 8.101.4"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *havītave* \< *hvā*
+- *havītave* ← *hvā*
 - \[verb noun\]
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -30,22 +30,22 @@ title = "Rig Veda 8.101.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saṃvādāya* \< *saṃvāda*
+- *saṃvādāya* ← *saṃvāda*
 - \[noun\], dative, singular, masculine
 - “dialogue; talk; accord; colloquy; colloquy; conversation; news;
     information.”
 ------------------------------------------------------------------------
-- *ramate* \< *ram*
+- *ramate* ← *ram*
 - \[verb\], singular, Present indikative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *tasmān* \< *tasmāt* \< *tad*
+- *tasmān* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -53,23 +53,23 @@ title = "Rig Veda 8.101.4"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *samṛter* \< *samṛteḥ* \< *samṛti*
+- *samṛter* ← *samṛteḥ* ← *samṛti*
 - \[noun\], ablative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *uruṣyatam* \< *uruṣy*
+- *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *bāhubhyāṃ* \< *bāhubhyām* \< *bāhu*
+- *bāhubhyāṃ* ← *bāhubhyām* ← *bāhu*
 - \[noun\], instrumental, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uruṣyatam* \< *uruṣy*
+- *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------

@@ -2,10 +2,10 @@
 title = "Rig Veda 6.61.11"
 
 +++
--   *āpapruṣī* \< *āprā* \< *√prā*
+-   *āpapruṣī* ← *āprā* ← *√prā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *pārthivāny* \< *pārthivāni* \< *pārthiva*
+- *pārthivāny* ← *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
@@ -13,12 +13,12 @@ title = "Rig Veda 6.61.11"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *rajo* \< *rajaḥ* \< *rajas*
+- *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *antarikṣam* \< *antarikṣa*
+- *antarikṣam* ← *antarikṣa*
 - \[noun\], accusative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 6.61.11"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *nidas* \< *nidaḥ* \< *nid*
+- *nidas* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------

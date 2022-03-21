@@ -2,19 +2,19 @@
 title = "Rig Veda 8.21.10"
 
 +++
--   *haryaśvaṃ* \< *haryaśvam* \< *haryaśva*
+-   *haryaśvaṃ* ← *haryaśvam* ← *haryaśva*
 - \[noun\], accusative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *satpatiṃ* \< *satpatim* \< *satpati*
+- *satpatiṃ* ← *satpatim* ← *satpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *carṣaṇīsahaṃ* \< *carṣaṇīsaham* \< *carṣaṇīsah*
+- *carṣaṇīsahaṃ* ← *carṣaṇīsaham* ← *carṣaṇīsah*
 - \[noun\], accusative, singular, masculine
 - “regnant.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -24,14 +24,14 @@ title = "Rig Veda 8.21.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amandata* \< *mand*
+- *amandata* ← *mand*
 - \[verb\], singular, Imperfect
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -43,37 +43,37 @@ title = "Rig Veda 8.21.10"
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vayati* \< *vī*
+- *vayati* ← *vī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *gavyam* \< *gavya*
+- *gavyam* ← *gavya*
 - \[noun\], accusative, singular, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------

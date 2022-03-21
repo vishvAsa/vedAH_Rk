@@ -11,76 +11,76 @@ title = "Rig Veda 7.29.2"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *brahmakṛtiṃ* \< *brahma* \< *brahman*
+- *brahmakṛtiṃ* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmakṛtiṃ* \< *kṛtim* \< *kṛti*
+- *brahmakṛtiṃ* ← *kṛtim* ← *kṛti*
 - \[noun\], accusative, singular, feminine
 - “literary composition; treatise; activity; action; act.”
 ------------------------------------------------------------------------
-- *juṣāṇo* \< *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *'rvācīno* \< *arvācīnaḥ* \< *arvācīna*
+- *'rvācīno* ← *arvācīnaḥ* ← *arvācīna*
 - \[noun\], nominative, singular, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *tūyam* \< *tūya*
+- *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *mādayasvopa* \< *mādayasva* \< *māday* \< *√mad*
+- *mādayasvopa* ← *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *mādayasvopa* \< *upa*
+- *mādayasvopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *śṛṇava* \< *śṛṇavaḥ* \< *śru*
+- *śṛṇava* ← *śṛṇavaḥ* ← *śru*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,12 +2,12 @@
 title = "Rig Veda 7.25.6"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 7.25.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vāryasya* \< *vārya*
+- *vāryasya* ← *vārya*
 - \[noun\], genitive, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *pūrdhi* \< *pṛ*
+- *pūrdhi* ← *pṛ*
 - \[verb\], singular, Aorist imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
@@ -29,50 +29,50 @@ title = "Rig Veda 7.25.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahīṃ* \< *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *vevidāma* \< *vevid* \< *√vid*
+- *vevidāma* ← *vevid* ← *√vid*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pinva* \< *pinv*
+- *pinva* ← *pinv*
 - \[verb\], singular, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *maghavadbhyaḥ* \< *maghavan*
+- *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *suvīrāṃ* \< *su*
+- *suvīrāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāṃ* \< *vīrām* \< *vīra*
+- *suvīrāṃ* ← *vīrām* ← *vīra*
 - \[noun\], accusative, singular, feminine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -81,7 +81,7 @@ title = "Rig Veda 7.25.6"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

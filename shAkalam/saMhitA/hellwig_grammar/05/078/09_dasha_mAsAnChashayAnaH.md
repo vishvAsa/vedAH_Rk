@@ -2,19 +2,19 @@
 title = "Rig Veda 5.78.9"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *māsāñchaśayānaḥ* \< *māsān* \< *māsa*
+- *māsāñchaśayānaḥ* ← *māsān* ← *māsa*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *māsāñchaśayānaḥ* \< *śaśayānaḥ* \< *śī*
+- *māsāñchaśayānaḥ* ← *śaśayānaḥ* ← *śī*
 - \[verb noun\], nominative, singular
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *kumāro* \< *kumāraḥ* \< *kumāra*
+- *kumāro* ← *kumāraḥ* ← *kumāra*
 - \[noun\], nominative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
@@ -23,31 +23,31 @@ title = "Rig Veda 5.78.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *mātari* \< *mātṛ*
+- *mātari* ← *mātṛ*
 - \[noun\], locative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *niraitu* \< *nire* \< *√i*
+- *niraitu* ← *nire* ← *√i*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *jīvo* \< *jīvaḥ* \< *jīva*
+- *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *akṣato* \< *a*
+- *akṣato* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akṣato* \< *kṣataḥ* \< *kṣan*
+- *akṣato* ← *kṣataḥ* ← *kṣan*
 - \[verb noun\], nominative, singular
 - “injure; love.”
 ------------------------------------------------------------------------
-- *jīvo* \< *jīvaḥ* \< *jīva*
+- *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *jīvantyā* \< *jīvantyāḥ* \< *jīv*
+- *jīvantyā* ← *jīvantyāḥ* ← *jīv*
 - \[verb noun\], ablative, singular
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------

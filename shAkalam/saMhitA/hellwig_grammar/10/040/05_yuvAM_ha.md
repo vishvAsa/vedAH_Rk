@@ -2,7 +2,7 @@
 title = "Rig Veda 10.40.5"
 
 +++
--   *yuvāṃ* \< *yuvām* \< *tvad*
+-   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -13,58 +13,58 @@ title = "Rig Veda 10.40.5"
 - *ghoṣā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yatī* \< *i*
+- *yatī* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *rājña* \< *rājñaḥ* \< *rājan*
+- *rājña* ← *rājñaḥ* ← *rājan*
 - \[noun\], genitive, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *ūce* \< *vac*
+- *ūce* ← *vac*
 - \[verb\], singular, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *pṛcche* \< *pracch*
+- *pṛcche* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nara*
+- *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *bhūtam* \< *bhū*
+- *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ahna* \< *ahne* \< *ahar*
+- *ahna* ← *ahne* ← *ahar*
 - \[noun\], dative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -72,29 +72,29 @@ title = "Rig Veda 10.40.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bhūtam* \< *bhū*
+- *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *aktave* \< *aktu*
+- *aktave* ← *aktu*
 - \[noun\], dative, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *'śvāvate* \< *aśvāvate* \< *aśvāvat*
+- *'śvāvate* ← *aśvāvate* ← *aśvāvat*
 - \[noun\], dative, singular, masculine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *rathine* \< *rathin*
+- *rathine* ← *rathin*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *śaktam* \< *śak*
+- *śaktam* ← *śak*
 - \[verb\], dual, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *arvate* \< *arvat*
+- *arvate* ← *arvat*
 - \[noun\], dative, singular, masculine
 - “running.”
 ------------------------------------------------------------------------

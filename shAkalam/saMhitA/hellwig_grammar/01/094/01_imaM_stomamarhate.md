@@ -2,23 +2,23 @@
 title = "Rig Veda 1.94.1"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *arhate* \< *arh*
+- *arhate* ← *arh*
 - \[verb noun\], dative, singular
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *jātavedase* \< *jātavedas*
+- *jātavedase* ← *jātavedas*
 - \[noun\], dative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -30,16 +30,16 @@ title = "Rig Veda 1.94.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mahemā* \< *mah*
+- *mahemā* ← *mah*
 - \[verb\], plural, Present optative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *manīṣayā* \< *manīṣā*
+- *manīṣayā* ← *manīṣā*
 - \[noun\], instrumental, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
@@ -48,29 +48,29 @@ title = "Rig Veda 1.94.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pramatir* \< *pramatiḥ* \< *pramati*
+- *pramatir* ← *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *saṃsady* \< *saṃsadi* \< *saṃsad*
+- *saṃsady* ← *saṃsadi* ← *saṃsad*
 - \[noun\], locative, singular, feminine
 - “assembly; court; company.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -78,15 +78,15 @@ title = "Rig Veda 1.94.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣāmā* \< *riṣ*
+- *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

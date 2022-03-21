@@ -6,11 +6,11 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhīr* \< *vadhīḥ* \< *vadh*
+- *vadhīr* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dā* \< *dāḥ* \< *dā*
+- *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -38,16 +38,16 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *bhojanāni* \< *bhojana*
+- *bhojanāni* ← *bhojana*
 - \[noun\], accusative, plural, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *moṣīḥ* \< *muṣ*
+- *moṣīḥ* ← *muṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “rob; remove; steal.”
 ------------------------------------------------------------------------
-- *āṇḍā* \< *āṇḍa*
+- *āṇḍā* ← *āṇḍa*
 - \[noun\], accusative, plural, neuter
 - “egg.”
 ------------------------------------------------------------------------
@@ -67,23 +67,23 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghavañchakra* \< *maghavan*
+- *maghavañchakra* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *maghavañchakra* \< *śakra*
+- *maghavañchakra* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *bhen* \< *bhet* \< *bhid*
+- *bhen* ← *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
@@ -94,22 +94,22 @@ title = "Rig Veda 1.104.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pātrā* \< *pātra*
+- *pātrā* ← *pātra*
 - \[noun\], accusative, plural, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
 ------------------------------------------------------------------------
-- *bhet* \< *bhid*
+- *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *sahajānuṣāṇi* \< *sahajānuṣa*
+- *sahajānuṣāṇi* ← *sahajānuṣa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------

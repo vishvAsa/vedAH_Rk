@@ -2,17 +2,17 @@
 title = "Rig Veda 6.40.3"
 
 +++
--   *samiddhe* \< *samindh* \< *√indh*
+-   *samiddhe* ← *samindh* ← *√indh*
 - \[verb noun\], locative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *agnau* \< *agni*
+- *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *suta* \< *sute* \< *su*
+- *suta* ← *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 6.40.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *soma* \< *some* \< *soma*
+- *soma* ← *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -29,58 +29,58 @@ title = "Rig Veda 6.40.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *harayo* \< *harayaḥ* \< *hari*
+- *harayo* ← *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *vahiṣṭhāḥ* \< *vahiṣṭha*
+- *vahiṣṭhāḥ* ← *vahiṣṭha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *tvāyatā* \< *tvāyat*
+- *tvāyatā* ← *tvāyat*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *johavīmīndrā* \< *johavīmi* \< *johav* \< *√hvā*
+- *johavīmīndrā* ← *johavīmi* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
 ------------------------------------------------------------------------
-- *johavīmīndrā* \< *indra*
+- *johavīmīndrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *johavīmīndrā* \< *ā*
+- *johavīmīndrā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,70 +2,70 @@
 title = "Rig Veda 7.70.2"
 
 +++
--   *siṣakti* \< *sac*
+-   *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sumatiś* \< *sumatiḥ* \< *sumati*
+- *sumatiś* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *caniṣṭhātāpi* \< *caniṣṭhā* \< *caniṣṭha*
+- *caniṣṭhātāpi* ← *caniṣṭhā* ← *caniṣṭha*
 - \[noun\], nominative, singular, feminine
 - “gracious.”
 ------------------------------------------------------------------------
-- *caniṣṭhātāpi* \< *atāpi* \< *tap*
+- *caniṣṭhātāpi* ← *atāpi* ← *tap*
 - \[verb\], singular, Aorist passive
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *gharmo* \< *gharmaḥ* \< *gharma*
+- *gharmo* ← *gharmaḥ* ← *gharma*
 - \[noun\], nominative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *samudrān* \< *samudra*
+- *samudrān* ← *samudra*
 - \[noun\], accusative, plural, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *saritaḥ* \< *sarit*
+- *saritaḥ* ← *sarit*
 - \[noun\], accusative, plural, feminine
 - “river; stream.”
 ------------------------------------------------------------------------
-- *piparty* \< *piparti* \< *pṛ*
+- *piparty* ← *piparti* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *etagvā* \< *etagva*
+- *etagvā* ← *etagva*
 - \[noun\], accusative, dual, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -73,15 +73,15 @@ title = "Rig Veda 7.70.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *suyujā* \< *su*
+- *suyujā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujā* \< *yujā* \< *yuj*
+- *suyujā* ← *yujā* ← *yuj*
 - \[noun\], accusative, dual, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *yujānaḥ* \< *yuj*
+- *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;

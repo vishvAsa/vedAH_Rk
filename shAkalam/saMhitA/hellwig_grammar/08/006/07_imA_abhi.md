@@ -2,7 +2,7 @@
 title = "Rig Veda 8.6.7"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 8.6.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumo* \< *nonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumo* ← *nonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------
-- *vipām* \< *vip*
+- *vipām* ← *vip*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *agreṣu* \< *agra*
+- *agreṣu* ← *agra*
 - \[noun\], locative, plural, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *dhītayaḥ* \< *dhīti*
+- *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], nominative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 8.6.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *didyutaḥ* \< *didyut*
+- *didyutaḥ* ← *didyut*
 - \[noun\], nominative, plural, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------

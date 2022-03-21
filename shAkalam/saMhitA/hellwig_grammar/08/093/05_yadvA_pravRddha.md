@@ -2,7 +2,7 @@
 title = "Rig Veda 8.93.5"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 8.93.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pravṛddha* \< *pravṛdh* \< *√vṛdh*
+- *pravṛddha* ← *pravṛdh* ← *√vṛdh*
 - \[verb noun\], vocative, singular
 - “increase; develop; advance.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 8.93.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *marā* \< *marai* \< *mṛ*
+- *marā* ← *marai* ← *mṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
@@ -30,35 +30,35 @@ title = "Rig Veda 8.93.5"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *manyase* \< *man*
+- *manyase* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 8.1.32"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛjrā* \< *ṛjra*
+- *ṛjrā* ← *ṛjra*
 - \[noun\], accusative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *mahyam* \< *mad*
+- *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *māmahe* \< *mah*
+- *māmahe* ← *mah*
 - \[verb\], singular, Perfect indicative
 - “give; accord.”
 ------------------------------------------------------------------------
@@ -22,45 +22,45 @@ title = "Rig Veda 8.1.32"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *tvacā* \< *tvac*
+- *tvacā* ← *tvac*
 - \[noun\], instrumental, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *hiraṇyayā* \< *hiraṇya*
+- *hiraṇyayā* ← *hiraṇya*
 - \[noun\], instrumental, singular, feminine
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *saubhagāsaṅgasya* \< *saubhagā* \< *saubhaga*
+- *saubhagāsaṅgasya* ← *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *saubhagāsaṅgasya* \< *asaṅgasya* \< *asaṅga*
+- *saubhagāsaṅgasya* ← *asaṅgasya* ← *asaṅga*
 - \[noun\], genitive, singular, masculine
 - “non-attachment; Asaṅga.”
 ------------------------------------------------------------------------
-- *svanadrathaḥ* \< *svanat* \< *svan*
+- *svanadrathaḥ* ← *svanat* ← *svan*
 - \[verb noun\]
 - “sound; sound.”
 ------------------------------------------------------------------------
-- *svanadrathaḥ* \< *rathaḥ* \< *ratha*
+- *svanadrathaḥ* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

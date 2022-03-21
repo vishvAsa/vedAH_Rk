@@ -6,7 +6,7 @@ title = "Rig Veda 10.25.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
@@ -15,19 +15,19 @@ title = "Rig Veda 10.25.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *prāham* \< *pra*
+- *prāham* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāham* \< *aham* \< *mad*
+- *prāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mināmi* \< *mī*
+- *mināmi* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
@@ -35,20 +35,20 @@ title = "Rig Veda 10.25.3"
 - \[noun\], instrumental, singular, feminine
 - “naivete.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *piteva* \< *pitā* \< *pitṛ*
+- *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *piteva* \< *iva*
+- *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūnave* \< *sūnu*
+- *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
@@ -56,21 +56,21 @@ title = "Rig Veda 10.25.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *mṛḍā* \< *mṛḍa* \< *mṛḍ*
+- *mṛḍā* ← *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -78,15 +78,15 @@ title = "Rig Veda 10.25.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vadhād* \< *vadhāt* \< *vadha*
+- *vadhād* ← *vadhāt* ← *vadha*
 - \[noun\], ablative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

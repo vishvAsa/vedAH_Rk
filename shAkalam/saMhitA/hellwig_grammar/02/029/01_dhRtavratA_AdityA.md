@@ -2,21 +2,21 @@
 title = "Rig Veda 2.29.1"
 
 +++
--   *dhṛtavratā* \< *dhṛta* \< *dhṛ*
+-   *dhṛtavratā* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *dhṛtavratā* \< *vratāḥ* \< *vrata*
+- *dhṛtavratā* ← *vratāḥ* ← *vrata*
 - \[noun\], vocative, plural, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *iṣirā* \< *iṣirāḥ* \< *iṣira*
+- *iṣirā* ← *iṣirāḥ* ← *iṣira*
 - \[noun\], vocative, plural, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
@@ -24,11 +24,11 @@ title = "Rig Veda 2.29.1"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *mat* \< *mad*
+- *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karta* \< *kṛ*
+- *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,26 +39,26 @@ title = "Rig Veda 2.29.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rahasūr* \< *raha*
+- *rahasūr* ← *raha*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *rahasūr* \< *sūḥ* \< *sū*
+- *rahasūr* ← *sūḥ* ← *sū*
 - \[noun\], nominative, singular, feminine
 - “sū; mother.”
 ------------------------------------------------------------------------
-- *ivāgaḥ* \< *iva*
+- *ivāgaḥ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāgaḥ* \< *āgaḥ* \< *āgas*
+- *ivāgaḥ* ← *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *śṛṇvato* \< *śṛṇvataḥ* \< *śru*
+- *śṛṇvato* ← *śṛṇvataḥ* ← *śru*
 - \[verb noun\], accusative, plural
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -71,30 +71,30 @@ title = "Rig Veda 2.29.1"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bhadrasya* \< *bhadra*
+- *bhadrasya* ← *bhadra*
 - \[noun\], genitive, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------

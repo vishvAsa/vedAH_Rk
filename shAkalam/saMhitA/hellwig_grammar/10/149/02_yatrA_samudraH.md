@@ -2,7 +2,7 @@
 title = "Rig Veda 10.149.2"
 
 +++
--   *yatrā* \< *yatra*
+-   *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 10.149.2"
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *skabhito* \< *skabhitaḥ* \< *skambh*
+- *skabhito* ← *skabhitaḥ* ← *skambh*
 - \[verb noun\], nominative, singular
 - “fixate; establish.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aunad* \< *aunat* \< *und*
+- *aunad* ← *aunat* ← *und*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -29,33 +29,33 @@ title = "Rig Veda 10.149.2"
 - \[noun\], nominative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *bhūr* \< *bhūḥ* \< *bhū*
+- *bhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *ata* \< *atas*
+- *ata* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
@@ -64,12 +64,12 @@ title = "Rig Veda 10.149.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *utthitaṃ* \< *utthitam* \< *utthā* \< *√sthā*
+- *utthitaṃ* ← *utthitam* ← *utthā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “originate; get up; arise; rise; utthā; rise; be active; come forth;
     cause; happen; grow.”
 ------------------------------------------------------------------------
-- *rajo* \< *rajaḥ* \< *rajas*
+- *rajo* ← *rajaḥ* \< *rajas*
 - \[noun\], nominative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”

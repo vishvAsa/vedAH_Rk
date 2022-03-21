@@ -6,22 +6,22 @@ title = "Rig Veda 8.69.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *bradhnasya* \< *bradhna*
+- *bradhnasya* ← *bradhna*
 - \[noun\], genitive, singular, masculine
 - “sun; horse.”
 ------------------------------------------------------------------------
-- *viṣṭapaṃ* \< *viṣṭapam* \< *viṣṭap*
+- *viṣṭapaṃ* ← *viṣṭapam* ← *viṣṭap*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -30,38 +30,38 @@ title = "Rig Veda 8.69.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ganvahi* \< *gam*
+- *ganvahi* ← *gam*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *pītvā* \< *pā*
+- *pītvā* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sacevahi* \< *sac*
+- *sacevahi* ← *sac*
 - \[verb\], dual, Present optative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sakhyuḥ* \< *sakhi*
+- *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *pade* \< *pada*
+- *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;

@@ -6,7 +6,7 @@ title = "Rig Veda 5.29.5"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -15,11 +15,11 @@ title = "Rig Veda 5.29.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* \< *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

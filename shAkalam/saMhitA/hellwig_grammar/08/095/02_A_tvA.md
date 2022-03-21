@@ -6,20 +6,20 @@ title = "Rig Veda 8.95.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śukrā* \< *śukrāḥ* \< *śukra*
+- *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *acucyavuḥ* \< *cyu*
+- *acucyavuḥ* ← *cyu*
 - \[verb\], plural, Plusquamperfect
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *sutāsa* \< *sutāsaḥ* \< *suta*
+- *sutāsa* ← *sutāsaḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -28,22 +28,22 @@ title = "Rig Veda 8.95.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *pibā* \< *piba* \< *pā*
+- *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *asyāndhasa* \< *asya* \< *idam*
+- *asyāndhasa* ← *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyāndhasa* \< *andhasaḥ* \< *andhas*
+- *asyāndhasa* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
@@ -52,16 +52,16 @@ title = "Rig Veda 8.95.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvāsu* \< *viśva*
+- *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hitam* \< *dhā*
+- *hitam* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

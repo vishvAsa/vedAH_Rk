@@ -6,11 +6,11 @@ title = "Rig Veda 8.83.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viṣpitā* \< *viṣpita*
+- *viṣpitā* ← *viṣpita*
 - \[noun\], accusative, plural, neuter
 - “difficulty.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 8.83.3"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *naubhir* \< *naubhiḥ* \< *nau*
+- *naubhir* ← *naubhiḥ* ← *nau*
 - \[noun\], instrumental, plural, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -30,18 +30,18 @@ title = "Rig Veda 8.83.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *parṣatha* \< *pṛ*
+- *parṣatha* ← *pṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *rathyaḥ* \< *rathī*
+- *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

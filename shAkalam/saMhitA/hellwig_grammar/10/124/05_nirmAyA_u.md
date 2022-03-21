@@ -2,29 +2,29 @@
 title = "Rig Veda 10.124.5"
 
 +++
--   *nirmāyā* \< *nirmāyāḥ* \< *nirmāya*
+-   *nirmāyā* ← *nirmāyāḥ* ← *nirmāya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *asurā* \< *asurāḥ* \< *asura*
+- *asurā* ← *asurāḥ* ← *asura*
 - \[noun\], nominative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *abhūvan* \< *bhū*
+- *abhūvan* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 10.124.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -41,27 +41,27 @@ title = "Rig Veda 10.124.5"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *kāmayāse* \< *kāmay* \< *√kam*
+- *kāmayāse* ← *kāmay* ← *√kam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “desire; love.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *anṛtaṃ* \< *anṛtam* \< *anṛta*
+- *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *viviñcan* \< *vivic* \< *√vic*
+- *viviñcan* ← *vivic* ← *√vic*
 - \[verb noun\], nominative, singular
 - “distinguish; distinguish; discriminate; observe.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

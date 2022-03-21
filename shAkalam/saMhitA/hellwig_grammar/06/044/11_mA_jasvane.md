@@ -6,7 +6,7 @@ title = "Rig Veda 6.44.11"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *jasvane* \< *jasvan*
+- *jasvane* ← *jasvan*
 - \[noun\], dative, singular, masculine
 - “hungry.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 6.44.11"
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rarīthā* \< *rarīthāḥ* \< *rā*
+- *rarīthā* ← *rarīthāḥ* ← *rā*
 - \[verb\], singular, Present injunctive
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -26,27 +26,27 @@ title = "Rig Veda 6.44.11"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *revataḥ* \< *revat*
+- *revataḥ* ← *revat*
 - \[noun\], genitive, singular, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *riṣāma* \< *riṣ*
+- *riṣāma* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *pūrvīṣ* \< *pūrvīḥ* \< *puru*
+- *pūrvīṣ* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *ṭa* \< *te* \< *tvad*
+- *ṭa* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -55,36 +55,36 @@ title = "Rig Veda 6.44.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *niṣṣidho* \< *niṣṣidhaḥ* \< *niṣṣidh*
+- *niṣṣidho* ← *niṣṣidhaḥ* ← *niṣṣidh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *janeṣu* \< *jana*
+- *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *jahy* \< *jahi* \< *han*
+- *jahy* ← *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *asuṣvīn* \< *a*
+- *asuṣvīn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asuṣvīn* \< *suṣvīn* \< *suṣvi*
+- *asuṣvīn* ← *suṣvīn* ← *suṣvi*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vṛhāpṛṇataḥ* \< *vṛha* \< *vṛh*
+- *vṛhāpṛṇataḥ* ← *vṛha* ← *vṛh*
 - \[verb\], singular, Present imperative
 - “extract.”
 ------------------------------------------------------------------------
-- *vṛhāpṛṇataḥ* \< *apṛṇataḥ* \< *apṛṇat*
+- *vṛhāpṛṇataḥ* ← *apṛṇataḥ* ← *apṛṇat*
 - \[noun\], accusative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------

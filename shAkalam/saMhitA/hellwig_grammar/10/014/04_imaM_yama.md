@@ -2,7 +2,7 @@
 title = "Rig Veda 10.14.4"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.14.4"
 - \[noun\], vocative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *prastaram* \< *prastara*
+- *prastaram* ← *prastara*
 - \[noun\], accusative, singular, masculine
 - “stone; seat.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 10.14.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sīdāṅgirobhiḥ* \< *sīda* \< *sad*
+- *sīdāṅgirobhiḥ* ← *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sīdāṅgirobhiḥ* \< *aṅgirobhiḥ* \< *aṅgiras*
+- *sīdāṅgirobhiḥ* ← *aṅgirobhiḥ* ← *aṅgiras*
 - \[noun\], instrumental, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *pitṛbhiḥ* \< *pitṛ*
+- *pitṛbhiḥ* ← *pitṛ*
 - \[noun\], instrumental, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *saṃvidānaḥ* \< *saṃvid* \< *√vid*
+- *saṃvidānaḥ* ← *saṃvid* ← *√vid*
 - \[verb noun\], nominative, singular
 - “agree; know; match; recognize.”
 ------------------------------------------------------------------------
@@ -45,31 +45,31 @@ title = "Rig Veda 10.14.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mantrāḥ* \< *mantra*
+- *mantrāḥ* ← *mantra*
 - \[noun\], nominative, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *kaviśastā* \< *kavi*
+- *kaviśastā* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kaviśastā* \< *śastāḥ* \< *śaṃs*
+- *kaviśastā* ← *śastāḥ* ← *śaṃs*
 - \[verb noun\], nominative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *vahantv* \< *vahantu* \< *vah*
+- *vahantv* ← *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -77,11 +77,11 @@ title = "Rig Veda 10.14.4"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *mādayasva* \< *māday* \< *√mad*
+- *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

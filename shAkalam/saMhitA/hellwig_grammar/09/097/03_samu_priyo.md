@@ -10,33 +10,33 @@ title = "Rig Veda 9.97.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *priyo* \< *priyaḥ* \< *priya*
+- *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *mṛjyate* \< *mṛj*
+- *mṛjyate* ← *mṛj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yaśastaro* \< *yaśastaraḥ* \< *yaśastara*
+- *yaśastaro* ← *yaśastaraḥ* ← *yaśastara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yaśasāṃ* \< *yaśasām* \< *yaśas*
+- *yaśasāṃ* ← *yaśasām* ← *yaśas*
 - \[noun\], genitive, plural, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *kṣaito* \< *kṣaitaḥ* \< *kṣaita*
+- *kṣaito* ← *kṣaitaḥ* ← *kṣaita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -44,27 +44,27 @@ title = "Rig Veda 9.97.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *svara* \< *svar*
+- *svara* ← *svar*
 - \[verb\], singular, Present imperative
 - “sing.”
 ------------------------------------------------------------------------
-- *dhanvā* \< *dhanva* \< *dhanv*
+- *dhanvā* ← *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *pūyamāno* \< *pūyamānaḥ* \< *pū*
+- *pūyamāno* ← *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -73,7 +73,7 @@ title = "Rig Veda 9.97.3"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

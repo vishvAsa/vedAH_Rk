@@ -2,25 +2,25 @@
 title = "Rig Veda 1.154.6"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vāstūny* \< *vāstūni* \< *vāstu*
+- *vāstūny* ← *vāstūni* ← *vāstu*
 - \[noun\], accusative, plural, neuter
 - “vacant lot; site; space; extension; house; architecture.”
 ------------------------------------------------------------------------
-- *uśmasi* \< *vaś*
+- *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *gamadhyai* \< *gam*
+- *gamadhyai* ← *gam*
 - \[verb noun\]
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -31,55 +31,55 @@ title = "Rig Veda 1.154.6"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *bhūriśṛṅgā* \< *bhūri*
+- *bhūriśṛṅgā* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūriśṛṅgā* \< *śṛṅgāḥ* \< *śṛṅga*
+- *bhūriśṛṅgā* ← *śṛṅgāḥ* ← *śṛṅga*
 - \[noun\], nominative, plural, masculine
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *ayāsaḥ* \< *ayās*
+- *ayāsaḥ* ← *ayās*
 - \[noun\], nominative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *atrāha* \< *atra*
+- *atrāha* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrāha* \< *aha*
+- *atrāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *urugāyasya* \< *uru*
+- *urugāyasya* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urugāyasya* \< *gāyasya* \< *gāya*
+- *urugāyasya* ← *gāyasya* ← *gāya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *paramam* \< *parama*
+- *paramam* ← *parama*
 - \[noun\], nominative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *padam* \< *pada*
+- *padam* ← *pada*
 - \[noun\], nominative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
@@ -90,7 +90,7 @@ title = "Rig Veda 1.154.6"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------

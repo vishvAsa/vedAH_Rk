@@ -6,43 +6,43 @@ title = "Rig Veda 5.19.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śvaitreyasya* \< *śvaitreya*
+- *śvaitreyasya* ← *śvaitreya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *jantavo* \< *jantavaḥ* \< *jantu*
+- *jantavo* ← *jantavaḥ* ← *jantu*
 - \[noun\], nominative, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *dyumad* \< *dyumat*
+- *dyumad* ← *dyumat*
 - \[noun\], accusative, singular, neuter
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *vardhanta* \< *vṛdh*
+- *vardhanta* ← *vṛdh*
 - \[verb\], plural, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *niṣkagrīvo* \< *niṣka*
+- *niṣkagrīvo* ← *niṣka*
 - \[noun\], neuter
 - “niṣka; gold; Niṣka; niṣka \[word\]; Niṣka.”
 ------------------------------------------------------------------------
-- *niṣkagrīvo* \< *grīvaḥ* \< *grīvā*
+- *niṣkagrīvo* ← *grīvaḥ* ← *grīvā*
 - \[noun\], nominative, singular, masculine
 - “neck; grīvā \[word\].”
 ------------------------------------------------------------------------
-- *bṛhaduktha* \< *bṛhadukthaḥ* \< *bṛhaduktha*
+- *bṛhaduktha* ← *bṛhadukthaḥ* ← *bṛhaduktha*
 - \[noun\], nominative, singular, masculine
 - “Bṛhaduktha.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 5.19.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayuḥ* \< *vājayu*
+- *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------

@@ -2,16 +2,16 @@
 title = "Rig Veda 9.29.4"
 
 +++
--   *viśvā* \< *viśva*
+-   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *saṃjayan* \< *saṃji* \< *√ji*
+- *saṃjayan* ← *saṃji* \< *√ji*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *pavasva* \< *pū*

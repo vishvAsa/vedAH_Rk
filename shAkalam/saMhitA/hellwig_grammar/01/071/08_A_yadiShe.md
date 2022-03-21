@@ -6,77 +6,77 @@ title = "Rig Veda 1.71.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *nṛpatiṃ* \< *nṛpatim* \< *nṛpati*
+- *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
 - \[noun\], accusative, singular, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *teja* \< *tejaḥ* \< *tejas*
+- *teja* ← *tejaḥ* ← *tejas*
 - \[noun\], nominative, singular, neuter
 - “magnificence; luminosity; glory; fire; semen; fire; heat; light;
     quintessence; brilliance; glare; dignity; beauty; tejas; potency;
     ferocity; power; edge; efficacy; ardor; authority.”
 ------------------------------------------------------------------------
-- *ānaṭ* \< *naś*
+- *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *chuci* \< *śuci*
+- *chuci* ← *śuci*
 - \[noun\], accusative, singular, neuter
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *reto* \< *retaḥ* \< *retas*
+- *reto* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *niṣiktaṃ* \< *niṣiktam* \< *niṣic* \< *√sic*
+- *niṣiktaṃ* ← *niṣiktam* ← *niṣic* ← *√sic*
 - \[verb noun\], accusative, singular
 - “submerge; sprinkle; pour; immerse; water.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śardham* \< *śardha*
+- *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *anavadyaṃ* \< *anavadyam* \< *anavadya*
+- *anavadyaṃ* ← *anavadyam* ← *anavadya*
 - \[noun\], accusative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *yuvānaṃ* \< *yuvānam* \< *yuvan*
+- *yuvānaṃ* ← *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *svādhyaṃ* \< *svādhyam* \< *svādhī*
+- *svādhyaṃ* ← *svādhyam* ← *svādhī*
 - \[noun\], accusative, singular, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------
-- *janayat* \< *janay* \< *√jan*
+- *janayat* ← *janay* ← *√jan*
 - \[verb\], singular, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *sūdayac* \< *sūdayat* \< *sūday* \< *√sūd*
+- *sūdayac* ← *sūdayat* ← *sūday* ← *√sūd*
 - \[verb\], singular, Present injunctive
 - “kill; promote.”
 ------------------------------------------------------------------------

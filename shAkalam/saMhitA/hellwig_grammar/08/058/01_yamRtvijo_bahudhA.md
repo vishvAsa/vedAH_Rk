@@ -2,11 +2,11 @@
 title = "Rig Veda 8.58.1"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛtvijo* \< *ṛtvijaḥ* \< *ṛtvij*
+- *ṛtvijo* ← *ṛtvijaḥ* ← *ṛtvij*
 - \[noun\], nominative, plural, masculine
 - “ṛtvij; ṛtvij \[word\].”
 ------------------------------------------------------------------------
@@ -14,40 +14,40 @@ title = "Rig Veda 8.58.1"
 - \[adverb\]
 - “repeatedly; variously; multiply; a lot.”
 ------------------------------------------------------------------------
-- *kalpayantaḥ* \< *kalpay* \< *√kﾱp*
+- *kalpayantaḥ* ← *kalpay* ← *√kﾱp*
 - \[verb noun\], nominative, plural
 - “prepare; assign; create; produce; fix; restore; order; prepare;
     imitate; restore; make; treat.”
 ------------------------------------------------------------------------
-- *sacetaso* \< *sacetasaḥ* \< *sacetas*
+- *sacetaso* ← *sacetasaḥ* ← *sacetas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anūcāno* \< *anūcānaḥ* \< *anuvac* \< *√vac*
+- *anūcāno* ← *anūcānaḥ* ← *anuvac* ← *√vac*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *brāhmaṇo* \< *brāhmaṇaḥ* \< *brāhmaṇa*
+- *brāhmaṇo* ← *brāhmaṇaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
 ------------------------------------------------------------------------
-- *yukta* \< *yuktaḥ* \< *yuj*
+- *yukta* ← *yuktaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -55,16 +55,16 @@ title = "Rig Veda 8.58.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *āsīt* \< *as*
+- *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kā* \< *ka*
+- *kā* ← *ka*
 - \[noun\], nominative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *svit* \< *svid*
+- *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 8.58.1"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *saṃvit* \< *saṃvid*
+- *saṃvit* ← *saṃvid*
 - \[noun\], nominative, singular, feminine
 - “agreement; cannabis; plan; rendezvous.”
 ------------------------------------------------------------------------

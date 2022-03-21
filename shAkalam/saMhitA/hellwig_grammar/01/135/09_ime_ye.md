@@ -2,15 +2,15 @@
 title = "Rig Veda 1.135.9"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 1.135.9"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vāyo* \< *vāyu*
+- *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *bāhvojaso* \< *bāhu*
+- *bāhvojaso* ← *bāhu*
 - \[noun\], masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *bāhvojaso* \< *ojasaḥ* \< *ojas*
+- *bāhvojaso* ← *ojasaḥ* ← *ojas*
 - \[noun\], nominative, plural, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *'ntar* \< *antar*
+- *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
@@ -39,17 +39,17 @@ title = "Rig Veda 1.135.9"
 - \[noun\], locative, singular, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *patayanty* \< *patayanti* \< *patay* \< *√pat*
+- *patayanty* ← *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
 ------------------------------------------------------------------------
-- *ukṣaṇo* \< *ukṣaṇaḥ* \< *ukṣan*
+- *ukṣaṇo* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
@@ -57,64 +57,64 @@ title = "Rig Veda 1.135.9"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vrādhanta* \< *vrādh*
+- *vrādhanta* ← *vrādh*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *ukṣaṇaḥ* \< *ukṣan*
+- *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *dhanvañ* \< *dhanvan*
+- *dhanvañ* ← *dhanvan*
 - \[noun\], locative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anāśavo* \< *anāśavaḥ* \< *anāśu*
+- *anāśavo* ← *anāśavaḥ* ← *anāśu*
 - \[noun\], nominative, plural, masculine
 - “slow.”
 ------------------------------------------------------------------------
-- *jīrāś* \< *jīrāḥ* \< *jīra*
+- *jīrāś* ← *jīrāḥ* ← *jīra*
 - \[noun\], nominative, plural, masculine
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *agiraukasaḥ* \< *agira*
+- *agiraukasaḥ* ← *agira*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *agiraukasaḥ* \< *okasaḥ* \< *oka*
+- *agiraukasaḥ* ← *okasaḥ* ← *oka*
 - \[noun\], nominative, plural, masculine
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *sūryasya* \< *sūrya*
+- *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *iva*
+- *sūryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *raśmayo* \< *raśmayaḥ* \< *raśmi*
+- *raśmayo* ← *raśmayaḥ* ← *raśmi*
 - \[noun\], nominative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *durniyantavo* \< *durniyantavaḥ* \< *durniyantu*
+- *durniyantavo* ← *durniyantavaḥ* ← *durniyantu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *hastayor* \< *hastayoḥ* \< *hasta*
+- *hastayor* ← *hastayoḥ* ← *hasta*
 - \[noun\], locative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *durniyantavaḥ* \< *durniyantu*
+- *durniyantavaḥ* ← *durniyantu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

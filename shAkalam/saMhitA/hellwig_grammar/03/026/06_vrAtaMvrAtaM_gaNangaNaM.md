@@ -2,21 +2,21 @@
 title = "Rig Veda 3.26.6"
 
 +++
--   *vrātaṃ* \< *vrātam* \< *vrāta*
+-   *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
 ------------------------------------------------------------------------
-- *vrātaṃ* \< *vrātam* \< *vrāta*
+- *vrātaṃ* ← *vrātam* ← *vrāta*
 - \[noun\], accusative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
 ------------------------------------------------------------------------
-- *gaṇaṃ* \< *gaṇam* \< *gaṇa*
+- *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *gaṇaṃ* \< *gaṇam* \< *gaṇa*
+- *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;

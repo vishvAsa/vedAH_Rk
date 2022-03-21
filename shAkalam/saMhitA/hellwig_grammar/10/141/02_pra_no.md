@@ -6,15 +6,15 @@ title = "Rig Veda 10.141.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yacchatv* \< *yacchatu* \< *yam*
+- *yacchatv* ← *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------

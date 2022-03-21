@@ -2,16 +2,16 @@
 title = "Rig Veda 10.124.4"
 
 +++
--   *bahvīḥ* \< *bahu*
+-   *bahvīḥ* ← *bahu*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *samā* \< *samāḥ* \< *samā*
+- *samā* ← *samāḥ* ← *samā*
 - \[noun\], accusative, plural, feminine
 - “year; samā \[word\]; Devi.”
 ------------------------------------------------------------------------
-- *akaram* \< *kṛ*
+- *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,32 +26,32 @@ title = "Rig Veda 10.124.4"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛṇānaḥ* \< *vṛ*
+- *vṛṇānaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *jahāmi* \< *hā*
+- *jahāmi* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

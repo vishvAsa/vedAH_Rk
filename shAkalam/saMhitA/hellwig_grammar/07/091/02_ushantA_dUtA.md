@@ -2,11 +2,11 @@
 title = "Rig Veda 7.91.2"
 
 +++
--   *uśantā* \< *vaś*
+-   *uśantā* ← *vaś*
 - \[verb noun\], nominative, dual
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *dūtā* \< *dūta*
+- *dūtā* ← *dūta*
 - \[noun\], nominative, dual, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 7.91.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dabhāya* \< *dabh*
+- *dabhāya* ← *dabh*
 - \[verb noun\]
 ------------------------------------------------------------------------
 - *gopā*
 - \[noun\], nominative, dual, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *māsaś* \< *māsaḥ* \< *mās*
+- *māsaś* ← *māsaḥ* ← *mās*
 - \[noun\], accusative, plural, masculine
 - “month; lunar month.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 7.91.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pāthaḥ* \< *pā*
+- *pāthaḥ* ← *pā*
 - \[verb\], dual, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *śaradaś* \< *śaradaḥ* \< *śarad*
+- *śaradaś* ← *śaradaḥ* ← *śarad*
 - \[noun\], accusative, plural, feminine
 - “fall; year; śarad \[word\].”
 ------------------------------------------------------------------------
@@ -41,40 +41,40 @@ title = "Rig Veda 7.91.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *indravāyū* \< *indra*
+- *indravāyū* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indravāyū* \< *vāyū* \< *vāyu*
+- *indravāyū* ← *vāyū* ← *vāyu*
 - \[noun\], vocative, dual, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *suṣṭutir* \< *suṣṭutiḥ* \< *suṣṭuti*
+- *suṣṭutir* ← *suṣṭutiḥ* ← *suṣṭuti*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iyānā* \< *ī* \< *√i*
+- *iyānā* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *mārḍīkam* \< *mārḍīka*
+- *mārḍīkam* ← *mārḍīka*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *īṭṭe* \< *īḍ*
+- *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *suvitaṃ* \< *suvitam* \< *suvita*
+- *suvitaṃ* ← *suvitam* ← *suvita*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 7.91.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *navyam* \< *navya*
+- *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------

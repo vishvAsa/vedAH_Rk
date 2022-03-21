@@ -2,7 +2,7 @@
 title = "Rig Veda 10.3.7"
 
 +++
--   *sa* \< *saḥ* \< *tad*
+-   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,7 +12,7 @@ title = "Rig Veda 10.3.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -21,7 +21,7 @@ title = "Rig Veda 10.3.7"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -33,54 +33,54 @@ title = "Rig Veda 10.3.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *satsi* \< *sad*
+- *satsi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *divaspṛthivyor* \< *divaspṛthivyoḥ* \< *divaspṛthivī*
+- *divaspṛthivyor* ← *divaspṛthivyoḥ* ← *divaspṛthivī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *aratir* \< *aratiḥ* \< *arati*
+- *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *yuvatyoḥ* \< *yuvati*
+- *yuvatyoḥ* ← *yuvati*
 - \[noun\], genitive, dual, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sutukaḥ* \< *sutuka*
+- *sutukaḥ* ← *sutuka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sutukebhir* \< *sutukebhiḥ* \< *sutuka*
+- *sutukebhir* ← *sutukebhiḥ* ← *sutuka*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *aśvai* \< *aśvaiḥ* \< *aśva*
+- *aśvai* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *rabhasvadbhī* \< *rabhasvadbhiḥ* \< *rabhasvat*
+- *rabhasvadbhī* ← *rabhasvadbhiḥ* ← *rabhasvat*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *rabhasvāṃ* \< *rabhasvat*
+- *rabhasvāṃ* ← *rabhasvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eha* \< *ā*
+- *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eha* \< *iha*
+- *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *gamyāḥ* \< *gam*
+- *gamyāḥ* ← *gam*
 - \[verb\], singular, Aorist optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

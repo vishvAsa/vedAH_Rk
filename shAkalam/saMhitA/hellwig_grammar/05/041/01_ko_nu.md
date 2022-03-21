@@ -2,7 +2,7 @@
 title = "Rig Veda 5.41.1"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 5.41.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *ṛtāyan* \< *ṛtāy*
+- *ṛtāyan* ← *ṛtāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 5.41.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pārthivasya* \< *pārthiva*
+- *pārthivasya* ← *pārthiva*
 - \[noun\], genitive, singular, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
@@ -41,10 +41,10 @@ title = "Rig Veda 5.41.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *de* \< *dā*
+- *de* ← *dā*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 5.41.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sadasi* \< *sadas*
+- *sadasi* ← *sadas*
 - \[noun\], locative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------

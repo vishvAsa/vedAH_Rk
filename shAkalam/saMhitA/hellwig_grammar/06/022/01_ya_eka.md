@@ -2,90 +2,90 @@
 title = "Rig Veda 6.22.1"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *iddhavyaś* \< *id*
+- *iddhavyaś* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhavyaś* \< *havyaḥ* \< *hu*
+- *iddhavyaś* ← *havyaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arca* \< *arce* \< *arc*
+- *arca* ← *arce* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *ābhiḥ* \< *idam*
+- *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *patyate* \< *paty*
+- *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vṛṣṇyāvān* \< *vṛṣṇyāvat*
+- *vṛṣṇyāvān* ← *vṛṣṇyāvat*
 - \[noun\], nominative, singular, masculine
 - “bullocky; manly; vigorous.”
 ------------------------------------------------------------------------
-- *satyaḥ* \< *satya*
+- *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satvā* \< *satvan*
+- *satvā* ← *satvan*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *purumāyaḥ* \< *puru*
+- *purumāyaḥ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumāyaḥ* \< *māyaḥ* \< *māyā*
+- *purumāyaḥ* ← *māyaḥ* ← *māyā*
 - \[noun\], nominative, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *sahasvān* \< *sahasvat*
+- *sahasvān* ← *sahasvat*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------

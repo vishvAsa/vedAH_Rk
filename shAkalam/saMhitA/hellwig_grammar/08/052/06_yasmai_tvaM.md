@@ -2,71 +2,71 @@
 title = "Rig Veda 8.52.6"
 
 +++
--   *yasmai* \< *yad*
+-   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *maṃhase* \< *mah*
+- *maṃhase* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rāyas* \< *rāyaḥ* \< *rai*
+- *rāyas* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *poṣam* \< *poṣa*
+- *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
 ------------------------------------------------------------------------
-- *invati* \< *inv*
+- *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *vasūyavo* \< *vasūyavaḥ* \< *vasūyu*
+- *vasūyavo* ← *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *vasu*
+- *vasupatiṃ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *patim* \< *pati*
+- *vasupatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *śatakratuṃ* \< *śatakratum* \< *śatakratu*
+- *śatakratuṃ* ← *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *stomair* \< *stomaiḥ* \< *stoma*
+- *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

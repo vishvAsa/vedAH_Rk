@@ -9,58 +9,58 @@ title = "Rig Veda 6.65.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *adrisāno* \< *adri*
+- *adrisāno* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *adrisāno* \< *sāno* \< *sānu*
+- *adrisāno* ← *sāno* ← *sānu*
 - \[noun\], vocative, singular, feminine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *gotrā* \< *gotra*
+- *gotrā* ← *gotra*
 - \[noun\], accusative, plural, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aṅgiraso* \< *aṅgirasaḥ* \< *aṅgiras*
+- *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *arkeṇa* \< *arka*
+- *arkeṇa* ← *arka*
 - \[noun\], instrumental, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *bibhidur* \< *bibhiduḥ* \< *bhid*
+- *bibhidur* ← *bibhiduḥ* ← *bhid*
 - \[verb\], plural, Perfect indicative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -69,27 +69,27 @@ title = "Rig Veda 6.65.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], nominative, singular, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *nṛṇām* \< *nṛ*
+- *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *devahūtiḥ* \< *deva*
+- *devahūtiḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtiḥ* \< *hūtiḥ* \< *hūti*
+- *devahūtiḥ* ← *hūtiḥ* ← *hūti*
 - \[noun\], nominative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------

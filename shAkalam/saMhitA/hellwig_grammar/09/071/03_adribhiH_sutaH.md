@@ -2,71 +2,71 @@
 title = "Rig Veda 9.71.3"
 
 +++
--   *adribhiḥ* \< *adri*
+-   *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *gabhastyor* \< *gabhastyoḥ* \< *gabhasti*
+- *gabhastyor* ← *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *vṛṣāyate* \< *vṛṣāy*
+- *vṛṣāyate* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *nabhasā* \< *nabhas*
+- *nabhasā* ← *nabhas*
 - \[noun\], instrumental, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *vepate* \< *vip*
+- *vepate* ← *vip*
 - \[verb\], singular, Present indikative
 - “tremble.”
 ------------------------------------------------------------------------
-- *matī* \< *mati*
+- *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *modate* \< *mud*
+- *modate* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
 ------------------------------------------------------------------------
-- *nasate* \< *nas*
+- *nasate* ← *nas*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sādhate* \< *sādh*
+- *sādhate* ← *sādh*
 - \[verb\], singular, Present indikative
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *nenikte* \< *nenij* \< *√nij*
+- *nenikte* ← *nenij* ← *√nij*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *yajate* \< *yaj*
+- *yajate* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *parīmaṇi* \< *parīman*
+- *parīmaṇi* ← *parīman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

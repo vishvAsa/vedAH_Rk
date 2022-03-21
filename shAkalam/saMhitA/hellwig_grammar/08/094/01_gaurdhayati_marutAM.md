@@ -2,33 +2,33 @@
 title = "Rig Veda 8.94.1"
 
 +++
--   *gaur* \< *gauḥ* \< *go*
+-   *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *dhayati* \< *dhā*
+- *dhayati* ← *dhā*
 - \[verb\], singular, Present indikative
 - “breastfeed; suck.”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *śravasyur* \< *śravasyuḥ* \< *śravasyu*
+- *śravasyur* ← *śravasyuḥ* ← *śravasyu*
 - \[noun\], nominative, singular, feminine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *maghonām* \< *maghavan*
+- *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *yuktā* \< *yuj*
+- *yuktā* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -36,13 +36,13 @@ title = "Rig Veda 8.94.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *vahnī* \< *vahniḥ* \< *vahni*
+- *vahnī* ← *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *rathānām* \< *ratha*
+- *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

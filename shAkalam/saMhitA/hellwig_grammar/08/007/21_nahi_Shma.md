@@ -2,26 +2,26 @@
 title = "Rig Veda 8.7.21"
 
 +++
--   *nahi* \< *na*
+-   *nahi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nahi* \< *hi*
+- *nahi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣma* \< *sma*
+- *ṣma* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -29,26 +29,26 @@ title = "Rig Veda 8.7.21"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *śardhāṃ* \< *śardha*
+- *śardhāṃ* ← *śardha*
 - \[noun\], accusative, plural, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *jinvatha* \< *jinv*
+- *jinvatha* ← *jinv*
 - \[verb\], plural, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------

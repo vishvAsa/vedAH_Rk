@@ -2,28 +2,28 @@
 title = "Rig Veda 10.86.22"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *udañco* \< *udañcaḥ* \< *udañc*
+- *udañco* ← *udañcaḥ* ← *udañc*
 - \[noun\], nominative, plural, masculine
 - “northern; northbound; udañc \[word\]; northerly.”
 ------------------------------------------------------------------------
-- *vṛṣākape* \< *vṛṣākapi*
+- *vṛṣākape* ← *vṛṣākapi*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; vṛṣākapi \[word\]; Indra.”
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *indrājagantana* \< *indra*
+- *indrājagantana* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrājagantana* \< *ajagantana* \< *gam*
+- *indrājagantana* ← *ajagantana* ← *gam*
 - \[verb\], plural, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -34,41 +34,41 @@ title = "Rig Veda 10.86.22"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *pulvagho* \< *pulu*
+- *pulvagho* ← *pulu*
 - \[noun\]
 ------------------------------------------------------------------------
-- *pulvagho* \< *aghaḥ* \< *agha*
+- *pulvagho* ← *aghaḥ* ← *agha*
 - \[noun\], nominative, singular, masculine
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *mṛgaḥ* \< *mṛga*
+- *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *kam* \< *ka*
+- *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *agañ* \< *agan* \< *gam*
+- *agañ* ← *agan* ← *gam*
 - \[verb\], singular, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *janayopano* \< *jana*
+- *janayopano* ← *jana*
 - \[noun\], masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *janayopano* \< *yopanaḥ* \< *yopana*
+- *janayopano* ← *yopanaḥ* ← *yopana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* \< *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

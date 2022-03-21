@@ -2,20 +2,20 @@
 title = "Rig Veda 7.27.3"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *jagataś* \< *jagataḥ* \< *jagant*
+- *jagataś* ← *jagataḥ* ← *jagant*
 - \[noun\], genitive, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -23,57 +23,57 @@ title = "Rig Veda 7.27.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *kṣami* \< *kṣam*
+- *kṣami* ← *kṣam*
 - \[noun\], locative, singular, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *viṣurūpaṃ* \< *viṣurūpam* \< *viṣurūpa*
+- *viṣurūpaṃ* ← *viṣurūpam* ← *viṣurūpa*
 - \[noun\], nominative, singular, neuter
 - “different; manifold.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tato* \< *tatas*
+- *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *codad* \< *codat* \< *cud*
+- *codad* ← *codat* ← *cud*
 - \[verb noun\], nominative, singular
 - “urge; rush.”
 ------------------------------------------------------------------------
-- *rādha* \< *rādhaḥ* \< *rādhas*
+- *rādha* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *upastutaś* \< *upastutaḥ* \< *upastu* \< *√stu*
+- *upastutaś* ← *upastutaḥ* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------

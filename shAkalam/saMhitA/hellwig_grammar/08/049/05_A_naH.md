@@ -6,11 +6,11 @@ title = "Rig Veda 8.49.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -18,16 +18,16 @@ title = "Rig Veda 8.49.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dravaddhiyāno* \< *dravat* \< *dru*
+- *dravaddhiyāno* ← *dravat* ← *dru*
 - \[verb\], singular, Present injunctive
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *dravaddhiyāno* \< *hiyānaḥ* \< *hi*
+- *dravaddhiyāno* ← *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *aśvo* \< *aśvaḥ* \< *aśva*
+- *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -35,26 +35,26 @@ title = "Rig Veda 8.49.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sotṛbhiḥ* \< *sotṛ*
+- *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svadhāvan* \< *svadhāvat*
+- *svadhāvan* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *svadayanti* \< *svaday* \< *√svad*
+- *svadayanti* ← *svaday* ← *√svad*
 - \[verb\], plural, Present indikative
 - “sweeten.”
 ------------------------------------------------------------------------
-- *dhenava* \< *dhenavaḥ* \< *dhenu*
+- *dhenava* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 8.49.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kaṇveṣu* \< *kaṇva*
+- *kaṇveṣu* ← *kaṇva*
 - \[noun\], locative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *rātayaḥ* \< *rāti*
+- *rātayaḥ* ← *rāti*
 - \[noun\], nominative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

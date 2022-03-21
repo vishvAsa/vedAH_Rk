@@ -2,19 +2,19 @@
 title = "Rig Veda 10.78.8"
 
 +++
--   *subhāgān* \< *subhāga*
+-   *subhāgān* ← *subhāga*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṛṇutā* \< *kṛ*
+- *kṛṇutā* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,28 +25,28 @@ title = "Rig Veda 10.78.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suratnān* \< *su*
+- *suratnān* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suratnān* \< *ratnān* \< *ratna*
+- *suratnān* ← *ratnān* ← *ratna*
 - \[noun\], accusative, plural, masculine
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stotṝn* \< *stotṛ*
+- *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vāvṛdhānāḥ* \< *vṛdh*
+- *vāvṛdhānāḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
@@ -55,39 +55,39 @@ title = "Rig Veda 10.78.8"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *stotrasya* \< *stotra*
+- *stotrasya* ← *stotra*
 - \[noun\], genitive, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *sakhyasya* \< *sakhya*
+- *sakhyasya* ← *sakhya*
 - \[noun\], genitive, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *gāta* \< *gā*
+- *gāta* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *sanāddhi* \< *sanāt*
+- *sanāddhi* ← *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sanāddhi* \< *hi*
+- *sanāddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ratnadheyāni* \< *ratna*
+- *ratnadheyāni* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadheyāni* \< *dheyāni* \< *dheya*
+- *ratnadheyāni* ← *dheyāni* ← *dheya*
 - \[noun\], nominative, plural, neuter
 - “giving; distribution.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

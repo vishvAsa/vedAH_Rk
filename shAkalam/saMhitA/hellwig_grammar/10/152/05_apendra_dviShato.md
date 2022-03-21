@@ -2,32 +2,32 @@
 title = "Rig Veda 10.152.5"
 
 +++
--   *apendra* \< *apa*
+-   *apendra* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apendra* \< *indra*
+- *apendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dviṣato* \< *dviṣataḥ* \< *dviṣ*
+- *dviṣato* ← *dviṣataḥ* ← *dviṣ*
 - \[verb noun\], genitive, singular
 - “hate; dislike.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *'pa* \< *apa*
+- *'pa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *jijyāsato* \< *jijyāsataḥ* \< *jijyās* \< *√jyā*
+- *jijyāsato* ← *jijyāsataḥ* ← *jijyās* ← *√jyā*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *vadham* \< *vadha*
+- *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
@@ -36,27 +36,27 @@ title = "Rig Veda 10.152.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *manyoḥ* \< *manyu*
+- *manyoḥ* ← *manyu*
 - \[noun\], genitive, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yaccha* \< *yam*
+- *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *varīyo* \< *varīyaḥ* \< *varīyas*
+- *varīyo* ← *varīyaḥ* ← *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------
-- *yavayā* \< *yavaya* \< *yavay* \< *√yu*
+- *yavayā* ← *yavaya* ← *yavay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away; ward off.”
 ------------------------------------------------------------------------
-- *vadham* \< *vadha*
+- *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”

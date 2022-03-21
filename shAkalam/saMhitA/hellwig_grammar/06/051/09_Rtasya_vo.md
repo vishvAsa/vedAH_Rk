@@ -2,37 +2,37 @@
 title = "Rig Veda 6.51.9"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rathyaḥ* \< *rathī*
+- *rathyaḥ* ← *rathī*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *pūtadakṣān* \< *pūta* \< *pū*
+- *pūtadakṣān* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣān* \< *dakṣān* \< *dakṣa*
+- *pūtadakṣān* ← *dakṣān* ← *dakṣa*
 - \[noun\], accusative, plural, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *pastyasado* \< *pastyasadaḥ* \< *pastyasad*
+- *pastyasado* ← *pastyasadaḥ* ← *pastyasad*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *adabdhān* \< *adabdha*
+- *adabdhān* ← *adabdha*
 - \[noun\], accusative, plural, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -42,28 +42,28 @@ title = "Rig Veda 6.51.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *urucakṣaso* \< *uru*
+- *urucakṣaso* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urucakṣaso* \< *cakṣasaḥ* \< *cakṣas*
+- *urucakṣaso* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], accusative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *viśvān* \< *viśva*
+- *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ title = "Rig Veda 6.51.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *name* \< *nam*
+- *name* ← *nam*
 - \[verb\], singular, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------

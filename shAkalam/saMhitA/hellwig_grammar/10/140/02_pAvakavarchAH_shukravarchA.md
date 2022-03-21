@@ -2,27 +2,27 @@
 title = "Rig Veda 10.140.2"
 
 +++
--   *pāvakavarcāḥ* \< *pāvaka*
+-   *pāvakavarcāḥ* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakavarcāḥ* \< *varcāḥ* \< *varcas*
+- *pāvakavarcāḥ* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
 ------------------------------------------------------------------------
-- *śukravarcā* \< *śukra*
+- *śukravarcā* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śukravarcā* \< *varcāḥ* \< *varcas*
+- *śukravarcā* ← *varcāḥ* ← *varcas*
 - \[noun\], nominative, singular, masculine
 - “shininess; vigor; fecal matter; glare; magnificence; energy;
     prestige; energy; glory; luster; light; varcas \[word\]; glory; body
     waste; droppings; color.”
 ------------------------------------------------------------------------
-- *anūnavarcā* \< *anūna*
+- *anūnavarcā* ← *anūna*
 - \[noun\]
 - “perfect; entire.”
 ------------------------------------------------------------------------

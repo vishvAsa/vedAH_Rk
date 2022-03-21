@@ -2,7 +2,7 @@
 title = "Rig Veda 1.52.7"
 
 +++
--   *hradaṃ* \< *hradam* \< *hrada*
+-   *hradaṃ* ← *hradam* ← *hrada*
 - \[noun\], accusative, singular, neuter
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
@@ -14,41 +14,41 @@ title = "Rig Veda 1.52.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nyṛṣanty* \< *nyṛṣanti* \< *nyṛṣ* \< *√ṛṣ*
+- *nyṛṣanty* ← *nyṛṣanti* ← *nyṛṣ* ← *√ṛṣ*
 - \[verb\], plural, Present indikative
 - “fill; stuff.”
 ------------------------------------------------------------------------
-- *ūrmayo* \< *ūrmayaḥ* \< *ūrmi*
+- *ūrmayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *brahmāṇīndra* \< *brahmāṇi* \< *brahman*
+- *brahmāṇīndra* ← *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmāṇīndra* \< *indra*
+- *brahmāṇīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yāni* \< *yad*
+- *yāni* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vardhanā* \< *vardhana*
+- *vardhanā* ← *vardhana*
 - \[noun\], nominative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
@@ -56,36 +56,36 @@ title = "Rig Veda 1.52.7"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yujyaṃ* \< *yujyam* \< *yujya*
+- *yujyaṃ* ← *yujyam* ← *yujya*
 - \[noun\], accusative, singular, neuter
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *śavas* \< *śavaḥ* \< *śavas*
+- *śavas* ← *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *tatakṣa* \< *takṣ*
+- *tatakṣa* ← *takṣ*
 - \[verb\], singular, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *abhibhūtyojasam* \< *abhibhūti*
+- *abhibhūtyojasam* ← *abhibhūti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *abhibhūtyojasam* \< *ojasam* \< *ojas*
+- *abhibhūtyojasam* ← *ojasam* ← *ojas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

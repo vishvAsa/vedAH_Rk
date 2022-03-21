@@ -2,7 +2,7 @@
 title = "Rig Veda 2.37.2"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -14,31 +14,31 @@ title = "Rig Veda 2.37.2"
 - \[adverb\]
 - “earlier; first; once; previously; ahead.”
 ------------------------------------------------------------------------
-- *ahuve* \< *hvā*
+- *ahuve* ← *hvā*
 - \[verb\], singular, Imperfect
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sed* \< *sa* \< *tad*
+- *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sed* \< *id*
+- *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -46,36 +46,36 @@ title = "Rig Veda 2.37.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hvā*
+- *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dadir* \< *dadiḥ* \< *dadi*
+- *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *patyate* \< *paty*
+- *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *adhvaryubhiḥ* \< *adhvaryu*
+- *adhvaryubhiḥ* ← *adhvaryu*
 - \[noun\], instrumental, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *prasthitaṃ* \< *prasthitam* \< *prasthā* \< *√sthā*
+- *prasthitaṃ* ← *prasthitam* ← *prasthā* ← *√sthā*
 - \[verb noun\], nominative, singular
 - “depart; give; depart; go; stay; proceed.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], nominative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
@@ -83,26 +83,26 @@ title = "Rig Veda 2.37.2"
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *potrāt* \< *potra*
+- *potrāt* ← *potra*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *draviṇodaḥ* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodaḥ* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodaḥ* \< *daḥ* \< *dā*
+- *draviṇodaḥ* ← *daḥ* ← *dā*
 - \[noun\], vocative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *ṛtubhiḥ* \< *ṛtu*
+- *ṛtubhiḥ* ← *ṛtu*
 - \[noun\], instrumental, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------

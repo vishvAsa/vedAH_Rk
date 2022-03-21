@@ -2,45 +2,45 @@
 title = "Rig Veda 1.23.12"
 
 +++
--   *haskārād* \< *haskārāt* \< *haskāra*
+-   *haskārād* ← *haskārāt* ← *haskāra*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *vidyutas* \< *vidyut*
+- *vidyutas* ← *vidyut*
 - \[noun\], genitive, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *jātā* \< *jātāḥ* \< *jan*
+- *jātā* ← *jātāḥ* ← *jan*
 - \[verb noun\], nominative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *avantu* \< *av*
+- *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mṛḍayantu* \< *mṛḍay* \< *√mṛḍ*
+- *mṛḍayantu* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

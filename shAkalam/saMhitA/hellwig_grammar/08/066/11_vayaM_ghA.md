@@ -2,27 +2,27 @@
 title = "Rig Veda 8.66.11"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *apūrvyendra* \< *apūrvya*
+- *apūrvyendra* ← *apūrvya*
 - \[noun\], vocative, singular, masculine
 - “incomparable.”
 ------------------------------------------------------------------------
-- *apūrvyendra* \< *indra*
+- *apūrvyendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -31,7 +31,7 @@ title = "Rig Veda 8.66.11"
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *purūtamāsaḥ* \< *purutama*
+- *purūtamāsaḥ* ← *purutama*
 - \[noun\], nominative, plural, masculine
 - “most(a).”
 ------------------------------------------------------------------------
@@ -39,10 +39,10 @@ title = "Rig Veda 8.66.11"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *vajrivo* \< *vajrivas* \< *vajrivat*
+- *vajrivo* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *bhṛtiṃ* \< *bhṛtim* \< *bhṛti*
+- *bhṛtiṃ* ← *bhṛtim* ← *bhṛti*
 - \[noun\], accusative, singular, feminine
 - “rental; support; wage.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 8.66.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bharāmasi* \< *bhṛ*
+- *bharāmasi* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

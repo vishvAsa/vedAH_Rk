@@ -2,58 +2,58 @@
 title = "Rig Veda 5.35.4"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *jajñiṣe* \< *jan*
+- *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vṛṣṇi* \< *vṛṣan*
+- *vṛṣṇi* ← *vṛṣan*
 - \[noun\], locative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *svakṣatraṃ* \< *svakṣatram* \< *svakṣatra*
+- *svakṣatraṃ* ← *svakṣatram* ← *svakṣatra*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhṛṣan* \< *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣan* ← *dhṛṣat* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *satrāham* \< *satrāha*
+- *satrāham* ← *satrāha*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *indra*
@@ -61,7 +61,7 @@ title = "Rig Veda 5.35.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], nominative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

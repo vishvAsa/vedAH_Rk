@@ -7,7 +7,7 @@ title = "Rig Veda 10.100.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dṛhya* \< *dṛh*
+- *dṛhya* ← *dṛh*
 - \[verb\], singular, Present imperative
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
@@ -15,14 +15,14 @@ title = "Rig Veda 10.100.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tvāvad* \< *tvāvat*
+- *tvāvad* ← *tvāvat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *bhuja* \< *bhuj*
+- *bhuja* ← *bhuj*
 - \[verb\], singular, Present imperative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
@@ -30,35 +30,35 @@ title = "Rig Veda 10.100.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *stutaḥ* \< *stu*
+- *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *sutapā* \< *suta*
+- *sutapā* ← *suta*
 - \[noun\], masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sutapā* \< *pāḥ* \< *pā*
+- *sutapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *bodhi* \< *bhū*
+- *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛdhe* \< *vṛdh*
+- *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* \< *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

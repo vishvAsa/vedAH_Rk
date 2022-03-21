@@ -6,38 +6,38 @@ title = "Rig Veda 8.26.18"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *śvetayāvarī* \< *śveta*
+- *śvetayāvarī* ← *śveta*
 - \[noun\]
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *śvetayāvarī* \< *yāvarī* \< *yāvan*
+- *śvetayāvarī* ← *yāvarī* ← *yāvan*
 - \[noun\], nominative, singular, feminine
 - “traveler.”
 ------------------------------------------------------------------------
-- *vāhiṣṭhā* \< *vāhiṣṭha*
+- *vāhiṣṭhā* ← *vāhiṣṭha*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *hiraṇyavartaniḥ* \< *hiraṇya*
+- *hiraṇyavartaniḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavartaniḥ* \< *vartaniḥ* \< *vartani*
+- *hiraṇyavartaniḥ* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------

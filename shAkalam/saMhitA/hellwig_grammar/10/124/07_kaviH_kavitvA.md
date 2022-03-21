@@ -2,32 +2,32 @@
 title = "Rig Veda 10.124.7"
 
 +++
--   *kaviḥ* \< *kavi*
+-   *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kavitvā* \< *kavi*
+- *kavitvā* ← *kavi*
 - \[noun\], masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kavitvā* \< *tvā* \< *tva*
+- *kavitvā* ← *tvā* ← *tva*
 - \[noun\], instrumental, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rūpam* \< *rūpa*
+- *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *āsajad* \< *āsajat* \< *āsañj* \< *√sañj*
+- *āsajad* ← *āsajat* \< *āsañj* \< *√sañj*
 - \[verb\], singular, Imperfect
 - “adhere; give; hang; mix; attach; addict.”
 ------------------------------------------------------------------------

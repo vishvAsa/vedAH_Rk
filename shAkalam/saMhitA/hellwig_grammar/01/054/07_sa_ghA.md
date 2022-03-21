@@ -2,42 +2,42 @@
 title = "Rig Veda 1.54.7"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *satpatiḥ* \< *sat*
+- *satpatiḥ* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatiḥ* \< *patiḥ* \< *pati*
+- *satpatiḥ* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *śūśuvaj* \< *śūśuvat* \< *śvi*
+- *śūśuvaj* ← *śūśuvat* ← *śvi*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *jano* \< *janaḥ* \< *jana*
+- *jano* ← *janaḥ* ← *jana*
 - \[noun\], nominative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *rātahavyaḥ* \< *rāta* \< *rā*
+- *rātahavyaḥ* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavyaḥ* \< *havyaḥ* \< *havya*
+- *rātahavyaḥ* ← *havyaḥ* ← *havya*
 - \[noun\], nominative, singular, masculine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
@@ -45,19 +45,19 @@ title = "Rig Veda 1.54.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śāsam* \< *śāsa*
+- *śāsam* ← *śāsa*
 - \[noun\], accusative, singular, masculine
 - “ruler; commander.”
 ------------------------------------------------------------------------
-- *invati* \< *inv*
+- *invati* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -65,34 +65,34 @@ title = "Rig Veda 1.54.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *abhigṛṇāti* \< *abhigṛ* \< *√gṛ*
+- *abhigṛṇāti* ← *abhigṛ* ← *√gṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *dānur* \< *dānuḥ* \< *dānu*
+- *dānur* ← *dānuḥ* ← *dānu*
 - \[noun\], nominative, singular, feminine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uparā* \< *upara*
+- *uparā* ← *upara*
 - \[noun\], nominative, singular, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *pinvate* \< *pinv*
+- *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

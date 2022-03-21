@@ -2,11 +2,11 @@
 title = "Rig Veda 8.102.9"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -15,7 +15,7 @@ title = "Rig Veda 8.102.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śriyo* \< *śriyaḥ* \< *śrī*
+- *śriyo* ← *śriyaḥ* \< *śrī*
 - \[noun\], accusative, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī

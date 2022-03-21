@@ -2,30 +2,30 @@
 title = "Rig Veda 7.56.1"
 
 +++
--   *ka* \< *ke* \< *ka*
+-   *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vyaktā* \< *vyaktāḥ* \< *vyañj* \< *√añj*
+- *vyaktā* ← *vyaktāḥ* ← *vyañj* ← *√añj*
 - \[verb noun\], nominative, plural
 - “decorate; fan; anoint.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sanīﾱā* \< *sanīﾱāḥ* \< *sanīḍa*
+- *sanīﾱā* ← *sanīﾱāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, masculine
 - “kindred; equal; sanīḍa \[word\].”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *maryā* \< *maryāḥ* \< *marya*
+- *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 7.56.1"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *svaśvāḥ* \< *su*
+- *svaśvāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvāḥ* \< *aśvāḥ* \< *aśva*
+- *svaśvāḥ* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

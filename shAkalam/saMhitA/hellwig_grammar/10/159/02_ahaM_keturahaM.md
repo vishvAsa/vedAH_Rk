@@ -2,40 +2,40 @@
 title = "Rig Veda 10.159.2"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ketur* \< *ketuḥ* \< *ketu*
+- *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mūrdhāham* \< *mūrdhā* \< *mūrdhan*
+- *mūrdhāham* ← *mūrdhā* ← *mūrdhan*
 - \[noun\], nominative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *mūrdhāham* \< *aham* \< *mad*
+- *mūrdhāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ugrā* \< *ugra*
+- *ugrā* ← *ugra*
 - \[noun\], nominative, singular, feminine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *vivācanī* \< *vivācana*
+- *vivācanī* ← *vivācana*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *mamed* \< *mama* \< *mad*
+- *mamed* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamed* \< *id*
+- *mamed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -43,21 +43,21 @@ title = "Rig Veda 10.159.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *sehānāyā* \< *sehānāyāḥ* \< *sah*
+- *sehānāyā* ← *sehānāyāḥ* ← *sah*
 - \[verb noun\], genitive, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *upācaret* \< *upācar* \< *√car*
+- *upācaret* ← *upācar* ← *√car*
 - \[verb\], singular, Present optative
 - “treat; treat; perform; administer.”
 ------------------------------------------------------------------------

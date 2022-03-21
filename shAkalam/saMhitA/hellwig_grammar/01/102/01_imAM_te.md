@@ -2,15 +2,15 @@
 title = "Rig Veda 1.102.1"
 
 +++
--   *imāṃ* \< *imām* \< *idam*
+-   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhiyam* \< *dhī*
+- *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -19,24 +19,24 @@ title = "Rig Veda 1.102.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhṛ*
+- *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stotre* \< *stotra*
+- *stotre* ← *stotra*
 - \[noun\], locative, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
@@ -48,21 +48,21 @@ title = "Rig Veda 1.102.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ānaje* \< *añj*
+- *ānaje* ← *añj*
 - \[verb\], singular, Perfect indicative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *utsave* \< *utsava*
+- *utsave* ← *utsava*
 - \[noun\], locative, singular, masculine
 - “festival; joy; enterprise; fun.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 1.102.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *prasave* \< *prasava*
+- *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “stimulation.”
 ------------------------------------------------------------------------
@@ -78,25 +78,25 @@ title = "Rig Veda 1.102.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sāsahim* \< *sāsahi*
+- *sāsahim* ← *sāsahi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *devāsaḥ* \< *deva*
+- *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śavasāmadann* \< *śavasā* \< *śavas*
+- *śavasāmadann* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasāmadann* \< *amadan* \< *mad*
+- *śavasāmadann* ← *amadan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

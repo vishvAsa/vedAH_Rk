@@ -2,15 +2,15 @@
 title = "Rig Veda 10.14.11"
 
 +++
--   *yau* \< *yad*
+-   *yau* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śvānau* \< *śvan*
+- *śvānau* ← *śvan*
 - \[noun\], nominative, dual, masculine
 - “dog; śvan \[word\].”
 ------------------------------------------------------------------------
@@ -18,41 +18,41 @@ title = "Rig Veda 10.14.11"
 - \[noun\], vocative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *rakṣitārau* \< *rakṣitṛ*
+- *rakṣitārau* ← *rakṣitṛ*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *caturakṣau* \< *catur*
+- *caturakṣau* ← *catur*
 - \[noun\]
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *caturakṣau* \< *akṣau* \< *akṣa*
+- *caturakṣau* ← *akṣau* ← *akṣa*
 - \[noun\], nominative, dual, masculine
 - “eye; akṣa \[word\]; hole.”
 ------------------------------------------------------------------------
-- *pathirakṣī* \< *pathi*
+- *pathirakṣī* ← *pathi*
 - \[noun\], masculine
 - “path \[word\]; path.”
 ------------------------------------------------------------------------
-- *pathirakṣī* \< *rakṣī* \< *rakṣi*
+- *pathirakṣī* ← *rakṣī* ← *rakṣi*
 - \[noun\], nominative, dual, masculine
 - “rakṣ.”
 ------------------------------------------------------------------------
-- *nṛcakṣasau* \< *nṛ*
+- *nṛcakṣasau* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣasau* \< *cakṣasau* \< *cakṣas*
+- *nṛcakṣasau* ← *cakṣasau* ← *cakṣas*
 - \[noun\], nominative, dual, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *tābhyām* \< *tad*
+- *tābhyām* ← *tad*
 - \[noun\], instrumental, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 10.14.11"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dehi* \< *dā*
+- *dehi* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -76,15 +76,15 @@ title = "Rig Veda 10.14.11"
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *cāsmā* \< *ca*
+- *cāsmā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāsmā* \< *asmai* \< *idam*
+- *cāsmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anamīvaṃ* \< *anamīvam* \< *anamīva*
+- *anamīvaṃ* ← *anamīvam* ← *anamīva*
 - \[noun\], accusative, singular, neuter
 - “good health.”
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ title = "Rig Veda 10.14.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

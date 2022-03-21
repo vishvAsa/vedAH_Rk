@@ -10,40 +10,40 @@ title = "Rig Veda 8.7.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *aruṇapsavaś* \< *aruṇapsavaḥ* \< *aruṇapsu*
+- *aruṇapsavaś* ← *aruṇapsavaḥ* ← *aruṇapsu*
 - \[noun\], nominative, plural, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *citrā* \< *citrāḥ* \< *citra*
+- *citrā* ← *citrāḥ* ← *citra*
 - \[noun\], nominative, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *yāmebhir* \< *yāmebhiḥ* \< *yāma*
+- *yāmebhir* ← *yāmebhiḥ* ← *yāma*
 - \[noun\], instrumental, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *vāśrā* \< *vāśrāḥ* \< *vāśra*
+- *vāśrā* ← *vāśrāḥ* ← *vāśra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣṇunā* \< *snunā* \< *snu*
+- *ṣṇunā* ← *snunā* ← *snu*
 - \[noun\], instrumental, singular, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

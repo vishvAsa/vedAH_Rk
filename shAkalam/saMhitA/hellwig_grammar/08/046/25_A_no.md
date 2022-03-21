@@ -6,37 +6,37 @@ title = "Rig Veda 8.46.25"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vāyo* \< *vāyu*
+- *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *tane* \< *tan*
+- *tane* ← *tan*
 - \[noun\], dative, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *makhāya* \< *makha*
+- *makhāya* ← *makha*
 - \[noun\], dative, singular, masculine
 - “yajña; Makha; festival.”
 ------------------------------------------------------------------------
-- *pājase* \< *pājas*
+- *pājase* ← *pājas*
 - \[noun\], dative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 8.46.25"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -63,18 +63,18 @@ title = "Rig Veda 8.46.25"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *sadyaś* \< *sadyas*
+- *sadyaś* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 8.46.25"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

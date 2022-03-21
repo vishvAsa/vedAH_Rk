@@ -2,7 +2,7 @@
 title = "Rig Veda 10.45.6"
 
 +++
--   *viśvasya* \< *viśva*
+-   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

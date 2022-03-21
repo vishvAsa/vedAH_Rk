@@ -10,11 +10,11 @@ title = "Rig Veda 6.52.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *brahmaṇaḥ* \< *brahman*
+- *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -23,7 +23,7 @@ title = "Rig Veda 6.52.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gopāṃ* \< *gopām* \< *gopā*
+- *gopāṃ* ← *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
@@ -35,24 +35,24 @@ title = "Rig Veda 6.52.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *tvāhur* \< *tvā* \< *tvad*
+- *tvāhur* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāhur* \< *āhuḥ* \< *ah*
+- *tvāhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *abhiśastipāṃ* \< *abhiśasti*
+- *abhiśastipāṃ* ← *abhiśasti*
 - \[noun\], feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *abhiśastipāṃ* \< *pām* \< *pā*
+- *abhiśastipāṃ* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -64,37 +64,37 @@ title = "Rig Veda 6.52.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *paśyasi* \< *paś*
+- *paśyasi* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *nidyamānān* \< *nind*
+- *nidyamānān* ← *nind*
 - \[verb noun\], accusative, plural
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *brahma* \< *brahman*
+- *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *dviṣe* \< *dviṣ*
+- *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *tapuṣiṃ* \< *tapuṣim* \< *tapuṣi*
+- *tapuṣiṃ* ← *tapuṣim* ← *tapuṣi*
 - \[noun\], accusative, singular, feminine
 - “ablaze(p); burning.”
 ------------------------------------------------------------------------
-- *hetim* \< *heti*
+- *hetim* ← *heti*
 - \[noun\], accusative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *as*
+- *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
 ------------------------------------------------------------------------

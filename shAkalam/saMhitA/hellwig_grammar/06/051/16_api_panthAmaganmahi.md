@@ -7,34 +7,34 @@ title = "Rig Veda 6.51.16"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *aganmahi* \< *gam*
+- *aganmahi* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *svastigām* \< *svasti*
+- *svastigām* ← *svasti*
 - \[noun\], neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *svastigām* \< *gām* \< *gā*
+- *svastigām* ← *gām* ← *gā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *anehasam* \< *anehas*
+- *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvāḥ* \< *viśva*
+- *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -43,14 +43,14 @@ title = "Rig Veda 6.51.16"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *vṛṇakti* \< *vṛj*
+- *vṛṇakti* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vindate* \< *vid*
+- *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

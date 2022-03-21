@@ -2,12 +2,12 @@
 title = "Rig Veda 2.11.16"
 
 +++
--   *bṛhanta* \< *bṛhantaḥ* \< *bṛhat*
+-   *bṛhanta* ← *bṛhantaḥ* ← *bṛhat*
 - \[noun\], nominative, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -15,21 +15,21 @@ title = "Rig Veda 2.11.16"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tarutrokthebhir* \< *tarutra*
+- *tarutrokthebhir* ← *tarutra*
 - \[noun\], vocative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *tarutrokthebhir* \< *ukthebhiḥ* \< *uktha*
+- *tarutrokthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -37,25 +37,25 @@ title = "Rig Veda 2.11.16"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *āvivāsān* \< *āvivās* \< *√van*
+- *āvivāsān* ← *āvivās* ← *√van*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *stṛṇānāso* \< *stṛṇānāsaḥ* \< *stṛ*
+- *stṛṇānāso* ← *stṛṇānāsaḥ* ← *stṛ*
 - \[verb noun\], nominative, plural
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
 - *pastyāvat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *tvotā* \< *tvotāḥ* \< *tvota*
+- *tvotā* ← *tvotāḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *id*
@@ -67,11 +67,11 @@ title = "Rig Veda 2.11.16"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *agman* \< *gam*
+- *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

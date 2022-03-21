@@ -2,18 +2,18 @@
 title = "Rig Veda 7.56.9"
 
 +++
--   *sanemy* \< *sanemi*
+-   *sanemy* ← *sanemi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuyota* \< *yu*
+- *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *didyum* \< *didyu*
+- *didyum* ← *didyu*
 - \[noun\], accusative, singular, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
@@ -21,11 +21,11 @@ title = "Rig Veda 7.56.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *durmatir* \< *durmatiḥ* \< *durmati*
+- *durmatir* ← *durmatiḥ* ← *durmati*
 - \[noun\], nominative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
@@ -33,10 +33,10 @@ title = "Rig Veda 7.56.9"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *praṇaṅ* \< *praṇak* \< *praṇaś* \< *√naś*
+- *praṇaṅ* ← *praṇak* ← *praṇaś* ← *√naś*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

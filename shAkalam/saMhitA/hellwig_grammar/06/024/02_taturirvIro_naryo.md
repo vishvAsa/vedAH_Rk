@@ -2,76 +2,76 @@
 title = "Rig Veda 6.24.2"
 
 +++
--   *taturir* \< *taturiḥ* \< *taturi*
+-   *taturir* ← *taturiḥ* ← *taturi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* ← *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *vicetāḥ* \< *vicetas*
+- *vicetāḥ* ← *vicetas*
 - \[noun\], nominative, singular, masculine
 - “wise; diligent.”
 ------------------------------------------------------------------------
-- *śrotā* \< *śru*
+- *śrotā* ← *śru*
 - \[verb\], singular, periphrast. future
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *gṛṇata* \< *gṛṇataḥ* \< *gṛ*
+- *gṛṇata* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], genitive, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *urvyūtiḥ* \< *urvyūti*
+- *urvyūtiḥ* ← *urvyūti*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vasuḥ* \< *vasu*
+- *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *śaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- *śaṃso* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *kārudhāyā* \< *kāru*
+- *kārudhāyā* ← *kāru*
 - \[noun\], masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *kārudhāyā* \< *dhāyāḥ* \< *dhāyas*
+- *kārudhāyā* ← *dhāyāḥ* ← *dhāyas*
 - \[noun\], nominative, singular, masculine
 - “alimentary; sustaining.”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *stuto* \< *stutaḥ* \< *stu*
+- *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], accusative, dual, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *dāti* \< *dā*
+- *dāti* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

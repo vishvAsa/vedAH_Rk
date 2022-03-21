@@ -2,54 +2,54 @@
 title = "Rig Veda 9.84.4"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sahasrajiddhinvāno* \< *sahasra*
+- *sahasrajiddhinvāno* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrajiddhinvāno* \< *jit*
+- *sahasrajiddhinvāno* ← *jit*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *sahasrajiddhinvāno* \< *hinvānaḥ* \< *hi*
+- *sahasrajiddhinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *iṣirām* \< *iṣira*
+- *iṣirām* ← *iṣira*
 - \[noun\], accusative, singular, feminine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *uṣarbudham* \< *uṣarbudh*
+- *uṣarbudham* ← *uṣarbudh*
 - \[noun\], accusative, singular, feminine
 - “early rising.”
 ------------------------------------------------------------------------
-- *induḥ* \< *indu*
+- *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -57,21 +57,21 @@ title = "Rig Veda 9.84.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vāyubhir* \< *vāyubhiḥ* \< *vāyu*
+- *vāyubhir* ← *vāyubhiḥ* ← *vāyu*
 - \[noun\], instrumental, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *endrasya* \< *ā*
+- *endrasya* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endrasya* \< *indrasya* \< *indra*
+- *endrasya* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -80,11 +80,11 @@ title = "Rig Veda 9.84.4"
 - \[noun\], accusative, singular, neuter
 - “heart.”
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *sīdati* \< *sad*
+- *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

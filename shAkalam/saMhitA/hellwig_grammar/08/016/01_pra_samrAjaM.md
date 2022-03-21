@@ -6,40 +6,40 @@ title = "Rig Veda 8.16.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *samrājaṃ* \< *samrājam* \< *samrāj*
+- *samrājaṃ* ← *samrājam* ← *samrāj*
 - \[noun\], accusative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stotā* \< *stota* \< *stu*
+- *stotā* ← *stota* ← *stu*
 - \[verb\], plural, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *gīrbhiḥ* \< *gir*
+- *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *naraṃ* \< *naram* \< *nṛ*
+- *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛṣāham* \< *nṛṣāh*
+- *nṛṣāham* ← *nṛṣāh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------

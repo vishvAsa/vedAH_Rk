@@ -2,7 +2,7 @@
 title = "Rig Veda 1.120.2"
 
 +++
--   *vidvāṃsāv* \< *vidvāṃsau* \< *vid*
+-   *vidvāṃsāv* ← *vidvāṃsau* ← *vid*
 - \[verb noun\], accusative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -11,35 +11,35 @@ title = "Rig Veda 1.120.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *duraḥ* \< *dvār*
+- *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *pṛcched* \< *pṛcchet* \< *pracch*
+- *pṛcched* ← *pṛcchet* ← *pracch*
 - \[verb\], singular, Present optative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *avidvān* \< *avidvas*
+- *avidvān* ← *avidvas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *itthāparo* \< *itthā*
+- *itthāparo* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthāparo* \< *aparaḥ* \< *apara*
+- *itthāparo* ← *aparaḥ* ← *apara*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *acetāḥ* \< *acetas*
+- *acetāḥ* ← *acetas*
 - \[noun\], nominative, singular, masculine
 - “imprudent; stupid.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -47,10 +47,10 @@ title = "Rig Veda 1.120.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *marte* \< *marta*
+- *marte* ← *marta*
 - \[noun\], locative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *akrau* \< *akra*
+- *akrau* ← *akra*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

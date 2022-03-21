@@ -2,23 +2,23 @@
 title = "Rig Veda 10.61.24"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *jenyasya* \< *jenya*
+- *jenyasya* ← *jenya*
 - \[noun\], genitive, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *puṣṭau* \< *puṣṭi*
+- *puṣṭau* ← *puṣṭi*
 - \[noun\], locative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
@@ -27,15 +27,15 @@ title = "Rig Veda 10.61.24"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *rebhanta* \< *rebhantaḥ* \< *ribh*
+- *rebhanta* ← *rebhantaḥ* ← *ribh*
 - \[verb noun\], nominative, plural
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------
-- *īmahe* \< *i*
+- *īmahe* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -49,35 +49,35 @@ title = "Rig Veda 10.61.24"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *saraṇyur* \< *saraṇyuḥ* \< *saraṇyu*
+- *saraṇyur* ← *saraṇyuḥ* ← *saraṇyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sūnur* \< *sūnuḥ* \< *sūnu*
+- *sūnur* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *aśvo* \< *aśvaḥ* \< *aśva*
+- *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vipraś* \< *vipraḥ* \< *vipra*
+- *vipraś* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *cāsi* \< *ca*
+- *cāsi* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāsi* \< *asi* \< *as*
+- *cāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *śravasaś* \< *śravasaḥ* \< *śravas*
+- *śravasaś* ← *śravasaḥ* ← *śravas*
 - \[noun\], genitive, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 10.61.24"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sātau* \< *sāti*
+- *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

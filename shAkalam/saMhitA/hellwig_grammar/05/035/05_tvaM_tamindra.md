@@ -2,11 +2,11 @@
 title = "Rig Veda 5.35.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -17,21 +17,21 @@ title = "Rig Veda 5.35.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *amitrayantam* \< *amitray*
+- *amitrayantam* ← *amitray*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
 - *sarvarathā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -39,16 +39,16 @@ title = "Rig Veda 5.35.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *śavasas* \< *śavas*
+- *śavasas* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

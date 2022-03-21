@@ -2,11 +2,11 @@
 title = "Rig Veda 10.35.9"
 
 +++
--   *adveṣo* \< *a*
+-   *adveṣo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *adveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 10.35.9"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *barhiṣa* \< *barhiṣaḥ* \< *barhis*
+- *barhiṣa* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *starīmaṇi* \< *starīman*
+- *starīmaṇi* ← *starīman*
 - \[noun\], locative, singular, masculine
 - “scatter.”
 ------------------------------------------------------------------------
-- *grāvṇāṃ* \< *grāvṇām* \< *grāvan*
+- *grāvṇāṃ* ← *grāvṇām* ← *grāvan*
 - \[noun\], genitive, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *yoge* \< *yoga*
+- *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -35,39 +35,39 @@ title = "Rig Veda 10.35.9"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *manmanaḥ* \< *manman*
+- *manmanaḥ* ← *manman*
 - \[noun\], genitive, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *sādha* \< *sādhe* \< *sādha*
+- *sādha* ← *sādhe* ← *sādha*
 - \[noun\], locative, singular, masculine
 - “sādha \[word\]; fulfillment.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *ādityānāṃ* \< *ādityānām* \< *āditya*
+- *ādityānāṃ* ← *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *śarmaṇi* \< *śarman*
+- *śarmaṇi* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *sthā* \< *sthāḥ* \< *sthā*
+- *sthā* ← *sthāḥ* ← *sthā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhuraṇyasi* \< *bhuraṇy*
+- *bhuraṇyasi* ← *bhuraṇy*
 - \[verb\], singular, Present indikative
 - “be active.”
 ------------------------------------------------------------------------
-- *svasty* \< *svasti*
+- *svasty* ← *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -77,11 +77,11 @@ title = "Rig Veda 10.35.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhānam* \< *indh*
+- *idhānam* ← *indh*
 - \[verb noun\], accusative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

@@ -2,36 +2,36 @@
 title = "Rig Veda 8.76.6"
 
 +++
--   *indram* \< *indra*
+-   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pratnena* \< *pratna*
+- *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *manmanā* \< *manman*
+- *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *marutvantaṃ* \< *marutvantam* \< *marutvat*
+- *marutvantaṃ* ← *marutvantam* ← *marutvat*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pā*
+- *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

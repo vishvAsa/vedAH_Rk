@@ -6,51 +6,51 @@ title = "Rig Veda 7.57.4"
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *didyud* \< *didyut*
+- *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *āgaḥ* \< *āgas*
+- *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *puruṣatā* \< *puruṣa*
+- *puruṣatā* ← *puruṣa*
 - \[noun\], masculine
 - “man; man; Puruṣa; puṃvajra; puruṣa; servant; puruṣa \[word\];
     assistant; soldier; soul; commoner; generation; people; doll.”
 ------------------------------------------------------------------------
-- *puruṣatā* \< *tā*
+- *puruṣatā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *karāma* \< *kṛ*
+- *karāma* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -65,11 +65,11 @@ title = "Rig Veda 7.57.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vas* \< *vaḥ* \< *tvad*
+- *vas* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *tasyām* \< *tad*
+- *tasyām* ← *tad*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -80,35 +80,35 @@ title = "Rig Veda 7.57.4"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *bhūmā* \< *bhūma* \< *bhū*
+- *bhūmā* ← *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yajatrā* \< *yajatrāḥ* \< *yajatra*
+- *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sumatiś* \< *sumatiḥ* \< *sumati*
+- *sumatiś* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *caniṣṭhā* \< *caniṣṭha*
+- *caniṣṭhā* ← *caniṣṭha*
 - \[noun\], nominative, singular, feminine
 - “gracious.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.45.12"
 
 +++
--   *astāvy* \< *astāvi* \< *stu*
+-   *astāvy* ← *astāvi* ← *stu*
 - \[verb\], singular, Aorist passive
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------

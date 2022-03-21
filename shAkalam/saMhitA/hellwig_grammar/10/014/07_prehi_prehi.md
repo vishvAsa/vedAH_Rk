@@ -2,72 +2,72 @@
 title = "Rig Veda 10.14.7"
 
 +++
--   *prehi* \< *pre* \< *√i*
+-   *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *prehi* \< *pre* \< *√i*
+- *prehi* ← *pre* ← *√i*
 - \[verb\], singular, Present imperative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *pathibhiḥ* \< *pathin*
+- *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *pūrvyebhir* \< *pūrvyebhiḥ* \< *pūrvya*
+- *pūrvyebhir* ← *pūrvyebhiḥ* ← *pūrvya*
 - \[noun\], instrumental, plural, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pitaraḥ* \< *pitṛ*
+- *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pareyuḥ* \< *pare* \< *√i*
+- *pareyuḥ* ← *pare* ← *√i*
 - \[verb\], plural, Present optative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *rājānā* \< *rājan*
+- *rājānā* ← *rājan*
 - \[noun\], accusative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *madantā* \< *mad*
+- *madantā* ← *mad*
 - \[verb noun\], accusative, dual
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *yamam* \< *yama*
+- *yamam* ← *yama*
 - \[noun\], accusative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *paśyāsi* \< *paś*
+- *paśyāsi* ← *paś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *varuṇaṃ* \< *varuṇam* \< *varuṇa*
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -76,7 +76,7 @@ title = "Rig Veda 10.14.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

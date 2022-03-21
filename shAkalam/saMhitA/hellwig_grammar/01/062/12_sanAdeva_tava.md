@@ -2,7 +2,7 @@
 title = "Rig Veda 1.62.12"
 
 +++
--   *sanād* \< *sanāt*
+-   *sanād* ← *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *eva*
@@ -10,15 +10,15 @@ title = "Rig Veda 1.62.12"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *gabhastau* \< *gabhasti*
+- *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
@@ -26,36 +26,36 @@ title = "Rig Veda 1.62.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣīyante* \< *kṣi*
+- *kṣīyante* ← *kṣi*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *nopa* \< *na*
+- *nopa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nopa* \< *upa*
+- *nopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dasyanti* \< *das*
+- *dasyanti* ← *das*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
 - *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *dyumāṃ* \< *dyumat*
+- *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kratumāṃ* \< *kratumat*
+- *kratumāṃ* ← *kratumat*
 - \[noun\], nominative, singular, masculine
 - “prudent; resolute.”
 ------------------------------------------------------------------------
@@ -64,27 +64,27 @@ title = "Rig Veda 1.62.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhīraḥ* \< *dhīra*
+- *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “calm; composed; brave.”
 ------------------------------------------------------------------------
-- *śikṣā* \< *śikṣ*
+- *śikṣā* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *śacīvas* \< *śacīvat*
+- *śacīvas* ← *śacīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------

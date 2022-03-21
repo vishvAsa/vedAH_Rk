@@ -6,7 +6,7 @@ title = "Rig Veda 7.56.23"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *cakra* \< *kṛ*
+- *cakra* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,27 +17,27 @@ title = "Rig Veda 7.56.23"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *pitryāṇy* \< *pitryāṇi* \< *pitrya*
+- *pitryāṇy* ← *pitryāṇi* ← *pitrya*
 - \[noun\], accusative, plural, neuter
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
-- *ukthāni* \< *uktha*
+- *ukthāni* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śasyante* \< *śaṃs*
+- *śasyante* ← *śaṃs*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
@@ -50,39 +50,39 @@ title = "Rig Veda 7.56.23"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *marudbhir* \< *marudbhiḥ* \< *marut*
+- *marudbhir* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ugraḥ* \< *ugra*
+- *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *sāﾱhā* \< *sāḍhā* \< *sāḍhṛ*
+- *sāﾱhā* ← *sāḍhā* ← *sāḍhṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *marudbhir* \< *marudbhiḥ* \< *marut*
+- *marudbhir* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sanitā* \< *san*
+- *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------

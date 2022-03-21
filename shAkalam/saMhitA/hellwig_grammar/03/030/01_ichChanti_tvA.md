@@ -2,49 +2,49 @@
 title = "Rig Veda 3.30.1"
 
 +++
--   *icchanti* \< *iṣ*
+-   *icchanti* ← *iṣ*
 - \[verb\], plural, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *somyāsaḥ* \< *somya*
+- *somyāsaḥ* ← *somya*
 - \[noun\], nominative, plural, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sunvanti* \< *su*
+- *sunvanti* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dadhati* \< *dhā*
+- *dadhati* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *prayāṃsi* \< *prayas*
+- *prayāṃsi* ← *prayas*
 - \[noun\], accusative, plural, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *titikṣante* \< *titikṣ* \< *√tij*
+- *titikṣante* ← *titikṣ* ← *√tij*
 - \[verb\], plural, Present indikative
 - “endure.”
 ------------------------------------------------------------------------
-- *abhiśastiṃ* \< *abhiśastim* \< *abhiśasti*
+- *abhiśastiṃ* ← *abhiśastim* ← *abhiśasti*
 - \[noun\], accusative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -54,7 +54,7 @@ title = "Rig Veda 3.30.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 3.30.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *praketaḥ* \< *praketa*
+- *praketaḥ* ← *praketa*
 - \[noun\], nominative, singular, masculine
 - “sight; knowledge; appearance.”
 ------------------------------------------------------------------------

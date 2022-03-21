@@ -2,59 +2,59 @@
 title = "Rig Veda 1.168.5"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'ntar* \< *antar*
+- *'ntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ṛṣṭividyuto* \< *ṛṣṭi*
+- *ṛṣṭividyuto* ← *ṛṣṭi*
 - \[noun\], feminine
 - “spear.”
 ------------------------------------------------------------------------
-- *ṛṣṭividyuto* \< *vidyutaḥ* \< *vidyut*
+- *ṛṣṭividyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], vocative, plural, masculine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *rejati* \< *rej*
+- *rejati* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *hanveva* \< *hanvā* \< *hanu*
+- *hanveva* ← *hanvā* ← *hanu*
 - \[noun\], instrumental, singular, masculine
 - “jaw.”
 ------------------------------------------------------------------------
-- *hanveva* \< *iva*
+- *hanveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *dhanvacyuta* \< *dhanva* \< *dhanvan*
+- *dhanvacyuta* ← *dhanva* ← *dhanvan*
 - \[noun\], neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *dhanvacyuta* \< *cyutaḥ* \< *cyut*
+- *dhanvacyuta* ← *cyutaḥ* ← *cyut*
 - \[noun\], nominative, plural, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
-- *iṣāṃ* \< *iṣām* \< *iṣ*
+- *iṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -62,27 +62,27 @@ title = "Rig Veda 1.168.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yāmani* \< *yāman*
+- *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *purupraiṣā* \< *puru*
+- *purupraiṣā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupraiṣā* \< *praiṣāḥ* \< *praiṣa*
+- *purupraiṣā* ← *praiṣāḥ* ← *praiṣa*
 - \[noun\], nominative, plural, masculine
 - “order; invitation.”
 ------------------------------------------------------------------------
-- *ahanyo* \< *ahanyaḥ* \< *ahanya*
+- *ahanyo* ← *ahanyaḥ* ← *ahanya*
 - \[noun\], nominative, singular, masculine
 - “daily.”
 ------------------------------------------------------------------------
-- *naitaśaḥ* \< *nā* \< *na*
+- *naitaśaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naitaśaḥ* \< *etaśaḥ* \< *etaśa*
+- *naitaśaḥ* ← *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------

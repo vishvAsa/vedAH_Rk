@@ -2,7 +2,7 @@
 title = "Rig Veda 6.16.14"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,15 +12,15 @@ title = "Rig Veda 6.16.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dadhyaṅṅ* \< *dadhyaṅ* \< *dadhyac*
+- *dadhyaṅṅ* ← *dadhyaṅ* ← *dadhyac*
 - \[noun\], nominative, singular, masculine
 - “Dadhyac.”
 ------------------------------------------------------------------------
-- *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------

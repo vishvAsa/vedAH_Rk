@@ -6,30 +6,30 @@ title = "Rig Veda 1.48.1"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *vāmena* \< *vāma*
+- *vāmena* ← *vāma*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ucchā* \< *vas*
+- *ucchā* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *duhitar* \< *duhitṛ*
+- *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -37,28 +37,28 @@ title = "Rig Veda 1.48.1"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *dyumnena* \< *dyumna*
+- *dyumnena* ← *dyumna*
 - \[noun\], instrumental, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *bṛhatā* \< *bṛhat*
+- *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vibhāvari* \< *vibhāvarī*
+- *vibhāvari* ← *vibhāvarī*
 - \[noun\], vocative, singular, feminine
 - “night; Vibhāvarī; woman.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *dāsvatī* \< *dāsvat*
+- *dāsvatī* ← *dāsvat*
 - \[noun\], nominative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------

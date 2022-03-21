@@ -6,29 +6,29 @@ title = "Rig Veda 6.46.12"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *śūrāsas* \< *śūrāsaḥ* \< *śūra*
+- *śūrāsas* ← *śūrāsaḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *vitanvate* \< *vitan* \< *√tan*
+- *vitanvate* ← *vitan* ← *√tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *pitṝṇām* \< *pitṛ*
+- *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -37,18 +37,18 @@ title = "Rig Veda 6.46.12"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yaccha* \< *yam*
+- *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tane* \< *tan*
+- *tane* ← *tan*
 - \[noun\], dative, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
@@ -56,19 +56,19 @@ title = "Rig Veda 6.46.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *chardir* \< *chardiḥ* \< *chardis*
+- *chardir* ← *chardiḥ* ← *chardis*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering.”
 ------------------------------------------------------------------------
-- *acittaṃ* \< *acittam* \< *acitta*
+- *acittaṃ* ← *acittam* ← *acitta*
 - \[noun\], accusative, singular, neuter
 - “unexpected.”
 ------------------------------------------------------------------------
-- *yāvaya* \< *yāvay* \< *√yu*
+- *yāvaya* ← *yāvay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------

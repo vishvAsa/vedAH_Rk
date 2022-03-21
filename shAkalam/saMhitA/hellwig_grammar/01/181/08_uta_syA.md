@@ -6,69 +6,69 @@ title = "Rig Veda 1.181.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ruśato* \< *ruśataḥ* \< *ruśat*
+- *ruśato* ← *ruśataḥ* ← *ruśat*
 - \[noun\], genitive, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *vapsaso* \< *vapsasaḥ* \< *vapsas*
+- *vapsaso* ← *vapsasaḥ* ← *vapsas*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *gīs* \< *gīḥ* \< *gir*
+- *gīs* ← *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *tribarhiṣi* \< *tri*
+- *tribarhiṣi* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tribarhiṣi* \< *barhiṣi* \< *barhis*
+- *tribarhiṣi* ← *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sadasi* \< *sadas*
+- *sadasi* ← *sadas*
 - \[noun\], locative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *pinvate* \< *pinv*
+- *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *megho* \< *meghaḥ* \< *megha*
+- *megho* ← *meghaḥ* ← *megha*
 - \[noun\], nominative, singular, masculine
 - “cloud; abhra; mass; megha \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *pīpāya* \< *pyā*
+- *pīpāya* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -77,14 +77,14 @@ title = "Rig Veda 1.181.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *seke* \< *seka*
+- *seke* ← *seka*
 - \[noun\], locative, singular, masculine
 - “sprinkle; affusion.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], accusative, plural, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *daśasyan* \< *daśasy*
+- *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

@@ -2,77 +2,77 @@
 title = "Rig Veda 1.110.3"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'mṛtatvam* \< *amṛta*
+- *'mṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *'mṛtatvam* \< *tvam* \< *tva*
+- *'mṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *āsuvad* \< *āsuvat* \< *āsu* \< *√su*
+- *āsuvad* ← *āsuvat* ← *āsu* ← *√su*
 - \[verb\], singular, Imperfect
 - “press out.”
 ------------------------------------------------------------------------
-- *agohyaṃ* \< *agohyam* \< *agohya*
+- *agohyaṃ* ← *agohyam* ← *agohya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yacchravayanta* \< *yat*
+- *yacchravayanta* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchravayanta* \< *śravayantaḥ* \< *śravay* \< *√śru*
+- *yacchravayanta* ← *śravayantaḥ* ← *śravay* ← *√śru*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *aitana* \< *i*
+- *aitana* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *cic* \< *cit*
+- *cic* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *camasam* \< *camasa*
+- *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *asurasya* \< *asura*
+- *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *bhakṣaṇam* \< *bhakṣaṇa*
+- *bhakṣaṇam* ← *bhakṣaṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ekaṃ* \< *ekam* \< *eka*
+- *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *akṛṇutā* \< *kṛ*
+- *akṛṇutā* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -83,7 +83,7 @@ title = "Rig Veda 1.110.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *caturvayam* \< *caturvaya*
+- *caturvayam* ← *caturvaya*
 - \[noun\], accusative, singular, masculine
 - “quadruple.”
 ------------------------------------------------------------------------

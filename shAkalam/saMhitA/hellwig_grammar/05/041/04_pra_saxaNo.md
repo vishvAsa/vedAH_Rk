@@ -6,15 +6,15 @@ title = "Rig Veda 5.41.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sakṣaṇo* \< *sakṣaṇaḥ* \< *sakṣaṇa*
+- *sakṣaṇo* ← *sakṣaṇaḥ* ← *sakṣaṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *divyaḥ* \< *divya*
+- *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *kaṇvahotā* \< *kaṇva*
+- *kaṇvahotā* ← *kaṇva*
 - \[noun\], masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------

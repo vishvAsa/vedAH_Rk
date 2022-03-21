@@ -2,32 +2,32 @@
 title = "Rig Veda 4.20.9"
 
 +++
--   *kayā* \< *ka*
+-   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *tacchṛṇve* \< *tat* \< *tad*
+- *tacchṛṇve* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tacchṛṇve* \< *śṛṇve* \< *śru*
+- *tacchṛṇve* ← *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *śaciṣṭho* \< *śaciṣṭhaḥ* \< *śaciṣṭha*
+- *śaciṣṭho* ← *śaciṣṭhaḥ* ← *śaciṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,15 +41,15 @@ title = "Rig Veda 4.20.9"
 - *muhu*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kā* \< *ka*
+- *kā* ← *ka*
 - \[noun\], accusative, plural, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
@@ -57,31 +57,31 @@ title = "Rig Veda 4.20.9"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vicayiṣṭho* \< *vicayiṣṭhaḥ* \< *vicayiṣṭha*
+- *vicayiṣṭho* ← *vicayiṣṭhaḥ* ← *vicayiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *'thā* \< *atha*
+- *'thā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *dadhāti* \< *dhā*
+- *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------

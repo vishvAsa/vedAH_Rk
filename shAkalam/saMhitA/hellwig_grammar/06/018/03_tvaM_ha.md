@@ -2,7 +2,7 @@
 title = "Rig Veda 6.18.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,41 +14,41 @@ title = "Rig Veda 6.18.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *adamāyo* \< *adamāyaḥ* \< *damāy*
+- *adamāyo* ← *adamāyaḥ* ← *damāy*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyūn* \< *dasyu*
+- *dasyūṃr* ← *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *ekaḥ* \< *eka*
+- *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *kṛṣṭīr* \< *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīr* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *avanor* \< *avanoḥ* \< *van*
+- *avanor* ← *avanoḥ* ← *van*
 - \[verb\], singular, Imperfect
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *āryāya* \< *ārya*
+- *āryāya* ← *ārya*
 - \[noun\], dative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *svin* \< *svid*
+- *svin* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
@@ -56,19 +56,19 @@ title = "Rig Veda 6.18.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vīryaṃ* \< *vīryam* \< *vīrya*
+- *vīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], nominative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -85,12 +85,12 @@ title = "Rig Veda 6.18.3"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -104,7 +104,7 @@ title = "Rig Veda 6.18.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vocaḥ* \< *vac*
+- *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

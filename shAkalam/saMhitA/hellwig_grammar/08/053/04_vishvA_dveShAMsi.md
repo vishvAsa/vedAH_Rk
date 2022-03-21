@@ -2,34 +2,34 @@
 title = "Rig Veda 8.53.4"
 
 +++
--   *viśvā* \< *viśva*
+-   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dveṣāṃsi* \< *dveṣas*
+- *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *jahi* \< *han*
+- *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *cāva* \< *ca*
+- *cāva* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāva* \< *ava*
+- *cāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *cā* \< *ca*
+- *cā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,12 +40,12 @@ title = "Rig Veda 8.53.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sanvantv* \< *sanvantu* \< *san*
+- *sanvantv* ← *sanvantu* ← *san*
 - \[verb\], plural, Present imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
@@ -57,34 +57,34 @@ title = "Rig Veda 8.53.4"
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *śīṣṭeṣu* \< *śīṣṭa*
+- *śīṣṭeṣu* ← *śīṣṭa*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
 - *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madirāso* \< *madirāsaḥ* \< *madira*
+- *madirāso* ← *madirāsaḥ* ← *madira*
 - \[noun\], nominative, plural, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *aṃśavo* \< *aṃśavaḥ* \< *aṃśu*
+- *aṃśavo* ← *aṃśavaḥ* ← *aṃśu*
 - \[noun\], nominative, plural, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tṛmpasi* \< *tṛp*
+- *tṛmpasi* ← *tṛp*
 - \[verb\], singular, Present indikative
 - “satiate; enjoy; delight.”
 ------------------------------------------------------------------------

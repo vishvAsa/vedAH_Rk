@@ -2,7 +2,7 @@
 title = "Rig Veda 9.77.1"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -10,78 +10,78 @@ title = "Rig Veda 9.77.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kośe* \< *kośa*
+- *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *madhumāṃ* \< *madhumat*
+- *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *acikradad* \< *acikradat* \< *krand*
+- *acikradad* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajro* \< *vajraḥ* \< *vajra*
+- *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vapuṣo* \< *vapuṣaḥ* \< *vapus*
+- *vapuṣo* ← *vapuṣaḥ* ← *vapus*
 - \[noun\], ablative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
 ------------------------------------------------------------------------
-- *vapuṣṭaraḥ* \< *vapuṣṭara*
+- *vapuṣṭaraḥ* ← *vapuṣṭara*
 - \[noun\], nominative, singular, masculine
 - “fantastic.”
 ------------------------------------------------------------------------
-- *abhīm* \< *abhi*
+- *abhīm* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhīm* \< *īm* \< *īṃ*
+- *abhīm* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sudughā* \< *su*
+- *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughā* \< *dughāḥ* \< *dugha*
+- *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], nominative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *ghṛtaścuto* \< *ghṛtaścutaḥ* \< *ghṛtaścut*
+- *ghṛtaścuto* ← *ghṛtaścutaḥ* ← *ghṛtaścut*
 - \[noun\], nominative, plural, feminine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *vāśrā* \< *vāśrāḥ* \< *vāśrā*
+- *vāśrā* ← *vāśrāḥ* ← *vāśrā*
 - \[noun\], nominative, plural, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *arṣanti* \< *ṛṣ*
+- *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *payaseva* \< *payasā* \< *payas*
+- *payaseva* ← *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payaseva* \< *iva*
+- *payaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------

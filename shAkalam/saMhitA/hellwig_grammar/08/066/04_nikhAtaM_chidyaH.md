@@ -2,31 +2,31 @@
 title = "Rig Veda 8.66.4"
 
 +++
--   *nikhātaṃ* \< *nikhātam* \< *nikhan* \< *√khan*
+-   *nikhātaṃ* ← *nikhātam* ← *nikhan* ← *√khan*
 - \[verb noun\], accusative, singular
 - “bury; insert.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *purusaṃbhṛtaṃ* \< *puru*
+- *purusaṃbhṛtaṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purusaṃbhṛtaṃ* \< *saṃbhṛtam* \< *sambhṛ* \< *√bhṛ*
+- *purusaṃbhṛtaṃ* ← *saṃbhṛtam* ← *sambhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect; fill; mix; fill into; produce.”
 ------------------------------------------------------------------------
-- *vasūd* \< *vasu*
+- *vasūd* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *vasūd* \< *ud*
+- *vasūd* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -34,35 +34,35 @@ title = "Rig Veda 8.66.4"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vapati* \< *vap*
+- *vapati* ← *vap*
 - \[verb\], singular, Present indikative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vajrī* \< *vajrin*
+- *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *suśipro* \< *su*
+- *suśipro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipro* \< *śipraḥ* \< *śiprā*
+- *suśipro* ← *śipraḥ* ← *śiprā*
 - \[noun\], nominative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *haryaśva* \< *haryaśvaḥ* \< *haryaśva*
+- *haryaśva* ← *haryaśvaḥ* ← *haryaśva*
 - \[noun\], nominative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *karad* \< *karat* \< *kṛ*
+- *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,12 +73,12 @@ title = "Rig Veda 8.66.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -87,7 +87,7 @@ title = "Rig Veda 8.66.4"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vaśat* \< *vaś*
+- *vaśat* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------

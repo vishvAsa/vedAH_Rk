@@ -2,12 +2,12 @@
 title = "Rig Veda 10.105.2"
 
 +++
--   *harī* \< *hari*
+-   *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

@@ -2,75 +2,75 @@
 title = "Rig Veda 1.112.4"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *parijmā* \< *parijman*
+- *parijmā* ← *parijman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tanayasya* \< *tanaya*
+- *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, masculine
 - “son.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *dvimātā* \< *dvimātṛ*
+- *dvimātā* ← *dvimātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tūrṣu* \< *tur*
+- *tūrṣu* ← *tur*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *taraṇir* \< *taraṇiḥ* \< *taraṇi*
+- *taraṇir* ← *taraṇiḥ* ← *taraṇi*
 - \[noun\], nominative, singular, masculine
 - “energetic; agile.”
 ------------------------------------------------------------------------
-- *vibhūṣati* \< *vibhūṣ* \< *√bhūṣ*
+- *vibhūṣati* ← *vibhūṣ* ← *√bhūṣ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yābhis* \< *yābhiḥ* \< *yad*
+- *yābhis* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *trimantur* \< *trimantuḥ* \< *trimantu*
+- *trimantur* ← *trimantuḥ* ← *trimantu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vicakṣaṇas* \< *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇas* ← *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

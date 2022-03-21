@@ -2,27 +2,27 @@
 title = "Rig Veda 5.25.8"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dyumanto* \< *dyumantaḥ* \< *dyumat*
+- *dyumanto* ← *dyumantaḥ* ← *dyumat*
 - \[noun\], nominative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *arcayo* \< *arcayaḥ* \< *arci*
+- *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
-- *grāvevocyate* \< *grāvā* \< *grāvan*
+- *grāvevocyate* ← *grāvā* ← *grāvan*
 - \[noun\], nominative, singular, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *grāvevocyate* \< *iva*
+- *grāvevocyate* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *grāvevocyate* \< *ucyate* \< *vac*
+- *grāvevocyate* ← *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -34,7 +34,7 @@ title = "Rig Veda 5.25.8"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------

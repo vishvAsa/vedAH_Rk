@@ -2,11 +2,11 @@
 title = "Rig Veda 2.14.9"
 
 +++
--   *adhvaryavaḥ* \< *adhvaryu*
+-   *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *kartanā* \< *kṛ*
+- *kartanā* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,39 +17,39 @@ title = "Rig Veda 2.14.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śruṣṭim* \< *śruṣṭi*
+- *śruṣṭim* ← *śruṣṭi*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vane* \< *vana*
+- *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *nipūtaṃ* \< *nipūtam* \< *nipū* \< *√pū*
+- *nipūtaṃ* ← *nipūtam* ← *nipū* ← *√pū*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vana* \< *vane* \< *vana*
+- *vana* ← *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *un* \< *ud*
+- *un* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *nayadhvam* \< *nī*
+- *nayadhvam* ← *nī*
 - \[verb\], plural, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *juṣāṇo* \< *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *hastyam* \< *hastya*
+- *hastyam* ← *hastya*
 - \[noun\], accusative, singular, masculine
 - “hand(a).”
 ------------------------------------------------------------------------
@@ -57,28 +57,28 @@ title = "Rig Veda 2.14.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāvaśe* \< *vaś*
+- *vāvaśe* ← *vaś*
 - \[verb\], singular, Perfect indicative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *madiraṃ* \< *madiram* \< *madira*
+- *madiraṃ* ← *madiram* ← *madira*
 - \[noun\], accusative, singular, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *juhota* \< *hu*
+- *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------

@@ -2,48 +2,48 @@
 title = "Rig Veda 7.1.21"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *suhavo* \< *su*
+- *suhavo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavo* \< *havaḥ* \< *hava*
+- *suhavo* ← *havaḥ* ← *hava*
 - \[noun\], nominative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *raṇvasaṃdṛk* \< *raṇva*
+- *raṇvasaṃdṛk* ← *raṇva*
 - \[noun\]
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *raṇvasaṃdṛk* \< *saṃdṛś*
+- *raṇvasaṃdṛk* ← *saṃdṛś*
 - \[noun\], nominative, singular, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *sudītī* \< *su*
+- *sudītī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudītī* \< *dītī* \< *dīti*
+- *sudītī* ← *dītī* ← *dīti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *didīhi* \< *dīdī*
+- *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 7.1.21"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 7.1.21"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, masculine
 - “son.”
 ------------------------------------------------------------------------
-- *nitya* \< *nitye* \< *nitya*
+- *nitya* ← *nitye* ← *nitya*
 - \[noun\], locative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
@@ -73,22 +73,22 @@ title = "Rig Veda 7.1.21"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhaṅ* \< *dhak* \< *dagh*
+- *dhaṅ* ← *dhak* ← *dagh*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *asman* \< *asmat* \< *mad*
+- *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *naryo* \< *naryaḥ* \< *narya*
+- *naryo* ← *naryaḥ* \< *narya*
 - \[noun\], nominative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------

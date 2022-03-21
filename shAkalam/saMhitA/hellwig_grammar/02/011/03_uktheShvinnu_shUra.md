@@ -2,11 +2,11 @@
 title = "Rig Veda 2.11.3"
 
 +++
--   *uktheṣv* \< *uktheṣu* \< *uktha*
+-   *uktheṣv* ← *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -19,15 +19,15 @@ title = "Rig Veda 2.11.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cākan* \< *kan*
+- *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *stomeṣv* \< *stomeṣu* \< *stoma*
+- *stomeṣv* ← *stomeṣu* ← *stoma*
 - \[noun\], locative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -36,30 +36,30 @@ title = "Rig Veda 2.11.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rudriyeṣu* \< *rudriya*
+- *rudriyeṣu* ← *rudriya*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tubhyed* \< *tubhyā* \< *tvad*
+- *tubhyed* ← *tubhyā* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tubhyed* \< *id*
+- *tubhyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *etā* \< *etāḥ* \< *etad*
+- *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *yāsu* \< *yad*
+- *yāsu* ← *yad*
 - \[noun\], locative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mandasānaḥ* \< *mand*
+- *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -67,12 +67,12 @@ title = "Rig Veda 2.11.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *sisrate* \< *sṛ*
+- *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 2.11.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhrāḥ* \< *śubhra*
+- *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 2.28.10"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 2.28.10"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *yujyo* \< *yujyaḥ* \< *yujya*
+- *yujyo* ← *yujyaḥ* ← *yujya*
 - \[noun\], nominative, singular, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 2.28.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -30,29 +30,29 @@ title = "Rig Veda 2.28.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *svapne* \< *svapna*
+- *svapne* ← *svapna*
 - \[noun\], locative, singular, masculine
 - “dream; sleep.”
 ------------------------------------------------------------------------
-- *bhayam* \< *bhaya*
+- *bhayam* ← *bhaya*
 - \[noun\], nominative, singular, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
 ------------------------------------------------------------------------
-- *bhīrave* \< *bhīru*
+- *bhīrave* ← *bhīru*
 - \[noun\], dative, singular, masculine
 - “timid; afraid(p); bhīru \[word\]; cowardly; fearful.”
 ------------------------------------------------------------------------
-- *mahyam* \< *mad*
+- *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āha* \< *ah*
+- *āha* ← *ah*
 - \[verb\], singular, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *steno* \< *stenaḥ* \< *stena*
+- *steno* ← *stenaḥ* ← *stena*
 - \[noun\], nominative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
@@ -60,18 +60,18 @@ title = "Rig Veda 2.28.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dipsati* \< *dips* \< *√dabh*
+- *dipsati* ← *dips* ← *√dabh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛko* \< *vṛkaḥ* \< *vṛka*
+- *vṛko* ← *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
@@ -79,11 +79,11 @@ title = "Rig Veda 2.28.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tasmād* \< *tasmāt* \< *tad*
+- *tasmād* ← *tasmāt* ← *tad*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -94,11 +94,11 @@ title = "Rig Veda 2.28.10"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *pāhy* \< *pāhi* \< *pā*
+- *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

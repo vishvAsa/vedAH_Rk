@@ -2,38 +2,38 @@
 title = "Rig Veda 10.181.2"
 
 +++
--   *avindan* \< *vid*
+-   *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *atihitaṃ* \< *atihitam* \< *atidhā* \< *√dhā*
+- *atihitaṃ* ← *atihitam* ← *atidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *paramaṃ* \< *paramam* \< *parama*
+- *paramaṃ* ← *paramam* ← *parama*
 - \[noun\], nominative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
@@ -42,19 +42,19 @@ title = "Rig Veda 10.181.2"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhātur* \< *dhātuḥ* \< *dhātṛ*
+- *dhātur* ← *dhātuḥ* ← *dhātṛ*
 - \[noun\], ablative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
-- *dyutānāt* \< *dyutāna*
+- *dyutānāt* ← *dyutāna*
 - \[noun\], ablative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *savituś* \< *savituḥ* \< *savitṛ*
+- *savituś* ← *savituḥ* ← *savitṛ*
 - \[noun\], ablative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 10.181.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viṣṇor* \< *viṣṇoḥ* \< *viṣṇu*
+- *viṣṇor* ← *viṣṇoḥ* ← *viṣṇu*
 - \[noun\], ablative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *bharadvājo* \< *bharadvājaḥ* \< *bharadvāja*
+- *bharadvājo* ← *bharadvājaḥ* ← *bharadvāja*
 - \[noun\], nominative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat* \< *bṛhant*
+- *bṛhad* ← *bṛhat* ← *bṛhant*
 - \[noun\], accusative, singular, neuter
 - “Bṛhant.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 10.181.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -89,7 +89,7 @@ title = "Rig Veda 10.181.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], ablative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

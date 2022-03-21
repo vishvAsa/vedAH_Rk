@@ -6,27 +6,27 @@ title = "Rig Veda 10.52.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *yakṣy* \< *yakṣi* \< *yaj*
+- *yakṣy* ← *yakṣi* ← *yaj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *amṛtatvaṃ* \< *amṛta*
+- *amṛtatvaṃ* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvaṃ* \< *tvam* \< *tva*
+- *amṛtatvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *su*
+- *suvīraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *vīram* \< *vīra*
+- *suvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -34,20 +34,20 @@ title = "Rig Veda 10.52.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *varivaḥ* \< *varivas*
+- *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *karāṇi* \< *kṛ*
+- *karāṇi* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,43 +62,43 @@ title = "Rig Veda 10.52.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dheyām* \< *dhā*
+- *dheyām* ← *dhā*
 - \[verb\], singular, Aorist optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *athemā* \< *atha*
+- *athemā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athemā* \< *imāḥ* \< *idam*
+- *athemā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvāḥ* \< *viśva*
+- *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pṛtanā* \< *pṛtanāḥ* \< *pṛtanā*
+- *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *jayāti* \< *ji*
+- *jayāti* ← *ji*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”

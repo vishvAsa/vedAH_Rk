@@ -6,80 +6,80 @@ title = "Rig Veda 7.41.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *adhvarāyoṣaso* \< *adhvarāya* \< *adhvara*
+- *adhvarāyoṣaso* ← *adhvarāya* ← *adhvara*
 - \[noun\], dative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *adhvarāyoṣaso* \< *uṣasaḥ* \< *uṣas*
+- *adhvarāyoṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *namanta* \< *nam*
+- *namanta* ← *nam*
 - \[verb\], plural, Present injunctive
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *dadhikrāveva* \< *dadhikrāvā* \< *dadhikrāvan*
+- *dadhikrāveva* ← *dadhikrāvā* ← *dadhikrāvan*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *dadhikrāveva* \< *iva*
+- *dadhikrāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śucaye* \< *śuci*
+- *śucaye* ← *śuci*
 - \[noun\], dative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *padāya* \< *pada*
+- *padāya* ← *pada*
 - \[noun\], dative, singular, masculine
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *arvācīnaṃ* \< *arvācīnam* \< *arvācīna*
+- *arvācīnaṃ* ← *arvācīnam* ← *arvācīna*
 - \[noun\], accusative, singular, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *vasuvidam* \< *vasu*
+- *vasuvidam* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasuvidam* \< *vidam* \< *vid*
+- *vasuvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *bhagaṃ* \< *bhagam* \< *bhaga*
+- *bhagaṃ* ← *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ivāśvā* \< *iva*
+- *ivāśvā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāśvā* \< *aśvāḥ* \< *aśva*
+- *ivāśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vājina* \< *vājinaḥ* \< *vājin*
+- *vājina* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *ā* \< *\_* \< *√\_*
+- *ā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

@@ -6,11 +6,11 @@ title = "Rig Veda 8.68.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,31 +18,31 @@ title = "Rig Veda 8.68.8"
 - \[noun\], vocative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *ānaṃśa* \< *aś*
+- *ānaṃśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *nakiḥ* \< *nakir*
+- *nakiḥ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śavāṃsi* \< *śavas*
+- *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naśat* \< *naś*
+- *naśat* ← *naś*
 - \[verb\], singular, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------

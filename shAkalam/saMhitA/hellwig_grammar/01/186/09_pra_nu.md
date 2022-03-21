@@ -10,19 +10,19 @@ title = "Rig Veda 1.186.9"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *cikitre* \< *cit*
+- *cikitre* ← *cit*
 - \[verb\], plural, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 1.186.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yuñjate* \< *yuj*
+- *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -38,11 +38,11 @@ title = "Rig Veda 1.186.9"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *prayujas* \< *prayujaḥ* \< *prayuj*
+- *prayujas* ← *prayujaḥ* ← *prayuj*
 - \[noun\], accusative, plural, feminine
 - “team.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -56,43 +56,43 @@ title = "Rig Veda 1.186.9"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sudine* \< *sudina*
+- *sudine* ← *sudina*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śarur* \< *śaruḥ* \< *śaru*
+- *śarur* ← *śaruḥ* ← *śaru*
 - \[noun\], nominative, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *eriṇam* \< *ā*
+- *eriṇam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eriṇam* \< *iriṇam* \< *iriṇa*
+- *eriṇam* ← *iriṇam* ← *iriṇa*
 - \[noun\], accusative, singular, neuter
 - “hole; rivulet.”
 ------------------------------------------------------------------------
-- *pruṣāyanta* \< *pruṣāy* \< *√pruṣ*
+- *pruṣāyanta* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], plural, Present injunctive
 - “sprinkle.”
 ------------------------------------------------------------------------
-- *senāḥ* \< *senā*
+- *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------

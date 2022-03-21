@@ -2,31 +2,31 @@
 title = "Rig Veda 8.45.31"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *manasyasi* \< *manasy*
+- *manasyasi* ← *manasy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *mandānaḥ* \< *mad*
+- *mandānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *pred* \< *pra*
+- *pred* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pred* \< *id*
+- *pred* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iyakṣasi* \< *iyakṣ* \< *√yaj*
+- *iyakṣasi* ← *iyakṣ* ← *√yaj*
 - \[verb\], singular, Present indikative
 - “endeavor.”
 ------------------------------------------------------------------------
@@ -34,13 +34,13 @@ title = "Rig Veda 8.45.31"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *kar* \< *kaḥ* \< *kṛ*
+- *kar* ← *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,7 +56,7 @@ title = "Rig Veda 8.45.31"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mṛﾱaya* \< *mṛḍaya* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱaya* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

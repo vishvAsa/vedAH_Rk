@@ -6,36 +6,36 @@ title = "Rig Veda 7.86.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *drugdhāni* \< *drugdha*
+- *drugdhāni* ← *drugdha*
 - \[noun\], accusative, plural, neuter
 - “malice; misbehavior.”
 ------------------------------------------------------------------------
-- *pitryā* \< *pitrya*
+- *pitryā* ← *pitrya*
 - \[noun\], accusative, plural, neuter
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
-- *sṛjā* \< *sṛja* \< *sṛj*
+- *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -46,7 +46,7 @@ title = "Rig Veda 7.86.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tanūbhiḥ* \< *tanū*
+- *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -58,23 +58,23 @@ title = "Rig Veda 7.86.5"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *paśutṛpaṃ* \< *paśutṛpam* \< *paśutṛp*
+- *paśutṛpaṃ* ← *paśutṛpam* ← *paśutṛp*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tāyuṃ* \< *tāyum* \< *tāyu*
+- *tāyuṃ* ← *tāyum* ← *tāyu*
 - \[noun\], accusative, singular, masculine
 - “thief.”
 ------------------------------------------------------------------------
-- *sṛjā* \< *sṛja* \< *sṛj*
+- *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -83,11 +83,11 @@ title = "Rig Veda 7.86.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dāmno* \< *dāmnaḥ* \< *dāman*
+- *dāmno* ← *dāmnaḥ* ← *dāman*
 - \[noun\], ablative, singular, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------
-- *vasiṣṭham* \< *vasiṣṭha*
+- *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------

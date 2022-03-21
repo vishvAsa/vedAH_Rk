@@ -2,29 +2,29 @@
 title = "Rig Veda 9.64.28"
 
 +++
--   *davidyutatyā* \< *davidyut* \< *√dyut*
+-   *davidyutatyā* ← *davidyut* ← *√dyut*
 - \[verb noun\], instrumental, singular
 - “flash.”
 ------------------------------------------------------------------------
-- *rucā* \< *ruc*
+- *rucā* ← *ruc*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *pariṣṭobhantyā* \< *pariṣṭubh* \< *√stubh*
+- *pariṣṭobhantyā* ← *pariṣṭubh* ← *√stubh*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *kṛpā* \< *kṛp*
+- *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
 ------------------------------------------------------------------------
-- *somāḥ* \< *soma*
+- *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *śukrā* \< *śukrāḥ* \< *śukra*
+- *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *gavāśiraḥ* \< *gavāśir*
+- *gavāśiraḥ* ← *gavāśir*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

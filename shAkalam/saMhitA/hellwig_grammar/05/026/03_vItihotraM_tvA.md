@@ -2,7 +2,7 @@
 title = "Rig Veda 5.26.3"
 
 +++
--   *vītihotraṃ* \< *vītihotram* \< *vītihotra*
+-   *vītihotraṃ* ← *vītihotram* ← *vītihotra*
 - \[noun\], accusative, singular, masculine
 - “Vītihotra; Agni.”
 ------------------------------------------------------------------------

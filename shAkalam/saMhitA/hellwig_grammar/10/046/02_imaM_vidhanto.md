@@ -2,23 +2,23 @@
 title = "Rig Veda 10.46.2"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vidhanto* \< *vidhantaḥ* \< *vidh*
+- *vidhanto* ← *vidhantaḥ* ← *vidh*
 - \[verb noun\], nominative, plural
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *paśuṃ* \< *paśum* \< *paśu*
+- *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -27,11 +27,11 @@ title = "Rig Veda 10.46.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naṣṭam* \< *naś*
+- *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *padair* \< *padaiḥ* \< *pada*
+- *padair* ← *padaiḥ* ← *pada*
 - \[noun\], instrumental, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
@@ -42,7 +42,7 @@ title = "Rig Veda 10.46.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *gman* \< *gam*
+- *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -53,31 +53,31 @@ title = "Rig Veda 10.46.2"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *catantam* \< *cat*
+- *catantam* ← *cat*
 - \[verb noun\], accusative, singular
 - “flee.”
 ------------------------------------------------------------------------
-- *uśijo* \< *uśijaḥ* \< *uśij*
+- *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *icchanto* \< *icchantaḥ* \< *iṣ*
+- *icchanto* ← *icchantaḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *dhīrā* \< *dhīrāḥ* \< *dhīra*
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
-- *'vindan* \< *avindan* \< *vid*
+- *'vindan* ← *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

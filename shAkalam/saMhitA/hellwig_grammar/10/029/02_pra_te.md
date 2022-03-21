@@ -6,40 +6,40 @@ title = "Rig Veda 10.29.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *prāparasyā* \< *pra*
+- *prāparasyā* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāparasyā* \< *aparasyāḥ* \< *apara*
+- *prāparasyā* ← *aparasyāḥ* ← *apara*
 - \[noun\], genitive, singular, feminine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *nṛtau* \< *nṛti*
+- *nṛtau* ← *nṛti*
 - \[noun\], locative, singular, feminine
 - “dancing; nṛt.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *nṛtamasya* \< *nṛtama*
+- *nṛtamasya* ← *nṛtama*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *nṛṇām* \< *nṛ*
+- *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -47,40 +47,40 @@ title = "Rig Veda 10.29.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *triśokaḥ* \< *triśoka*
+- *triśokaḥ* ← *triśoka*
 - \[noun\], nominative, singular, masculine
 - “Triśoka.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *āvahan* \< *āvahat* \< *āvah* \< *√vah*
+- *āvahan* ← *āvahat* ← *āvah* ← *√vah*
 - \[verb\], singular, Imperfect
 - “bring; marry; cause; run; perform; exude.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *kutsena* \< *kutsa*
+- *kutsena* ← *kutsa*
 - \[noun\], instrumental, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asat* \< *as*
+- *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sasavān* \< *san*
+- *sasavān* ← *san*
 - \[verb noun\], nominative, singular
 - “win; get; gain.”
 ------------------------------------------------------------------------

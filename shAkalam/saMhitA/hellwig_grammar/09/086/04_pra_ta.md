@@ -6,79 +6,79 @@ title = "Rig Veda 9.86.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āśvinīḥ* \< *āśvina*
+- *āśvinīḥ* ← *āśvina*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhījuvo* \< *dhī*
+- *dhījuvo* ← *dhī*
 - \[noun\], feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhījuvo* \< *juvaḥ* \< *jū*
+- *dhījuvo* ← *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, feminine
 - “fleet.”
 ------------------------------------------------------------------------
-- *divyā* \< *divyāḥ* \< *divya*
+- *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *asṛgran* \< *sṛj*
+- *asṛgran* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *dharīmaṇi* \< *dharīman*
+- *dharīmaṇi* ← *dharīman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *prāntar* \< *pra*
+- *prāntar* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāntar* \< *antar*
+- *prāntar* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ṛṣaya* \< *ṛṣi*
+- *ṛṣaya* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *sthāvirīr* \< *sthāvirīḥ* \< *sthāvira*
+- *sthāvirīr* ← *sthāvirīḥ* ← *sthāvira*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *asṛkṣata* \< *sṛj*
+- *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mṛjanty* \< *mṛjanti* \< *mṛj*
+- *mṛjanty* ← *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
 - *ṛṣiṣāṇa*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------

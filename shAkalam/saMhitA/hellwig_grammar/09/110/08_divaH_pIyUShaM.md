@@ -2,35 +2,35 @@
 title = "Rig Veda 9.110.8"
 
 +++
--   *divaḥ* \< *div*
+-   *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pīyūṣam* \< *pīyūṣa*
+- *pīyūṣam* ← *pīyūṣa*
 - \[noun\], nominative, singular, neuter
 - “amṛta; pīyūṣa; ambrosia.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], nominative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *gāhād* \< *gāhāt* \< *gāha*
+- *gāhād* ← *gāhāt* ← *gāha*
 - \[noun\], ablative, singular, masculine
 - “gāha \[word\]; depth.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 9.110.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *adhukṣata* \< *duh*
+- *adhukṣata* ← *duh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “milk.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -55,7 +55,7 @@ title = "Rig Veda 9.110.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *jāyamānaṃ* \< *jāyamānam* \< *jan*
+- *jāyamānaṃ* ← *jāyamānam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -65,7 +65,7 @@ title = "Rig Veda 9.110.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asvaran* \< *svar*
+- *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
 ------------------------------------------------------------------------

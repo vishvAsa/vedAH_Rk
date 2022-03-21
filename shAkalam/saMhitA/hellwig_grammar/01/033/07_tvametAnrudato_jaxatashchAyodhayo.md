@@ -2,31 +2,31 @@
 title = "Rig Veda 1.33.7"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etān* \< *etad*
+- *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *rudato* \< *rudataḥ* \< *rud*
+- *rudato* ← *rudataḥ* ← *rud*
 - \[verb noun\], accusative, plural
 - “cry; howl; lament; howl.”
 ------------------------------------------------------------------------
-- *jakṣataś* \< *jakṣataḥ* \< *jakṣ*
+- *jakṣataś* ← *jakṣataḥ* ← *jakṣ*
 - \[verb noun\], accusative, plural
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *cāyodhayo* \< *ca*
+- *cāyodhayo* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāyodhayo* \< *ayodhayaḥ* \< *yodhay* \< *√yudh*
+- *cāyodhayo* ← *ayodhayaḥ* ← *yodhay* ← *√yudh*
 - \[verb\], singular, Imperfect
 - “fight; equal.”
 ------------------------------------------------------------------------
-- *rajasa* \< *rajasaḥ* \< *rajas*
+- *rajasa* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -36,15 +36,15 @@ title = "Rig Veda 1.33.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *avādaho* \< *avādahaḥ* \< *avadah* \< *√dah*
+- *avādaho* ← *avādahaḥ* ← *avadah* ← *√dah*
 - \[verb\], singular, Imperfect
 - “burn.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 1.33.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dasyum* \< *dasyu*
+- *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
@@ -64,19 +64,19 @@ title = "Rig Veda 1.33.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sunvata* \< *su*
+- *sunvata* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *stuvataḥ* \< *stu*
+- *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *śaṃsam* \< *śaṃsa*
+- *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *av*
+- *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

@@ -2,44 +2,44 @@
 title = "Rig Veda 10.97.11"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vājayann* \< *vājayan* \< *vājay* \< *√vaj*
+- *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhī*
+- *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], accusative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *hasta* \< *haste* \< *hasta*
+- *hasta* ← *haste* ← *hasta*
 - \[noun\], locative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *ādadhe* \< *ādhā* \< *√dhā*
+- *ādadhe* ← *ādhā* ← *√dhā*
 - \[verb\], singular, Present indikative
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *ātmā* \< *ātman*
+- *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
 ------------------------------------------------------------------------
-- *yakṣmasya* \< *yakṣma*
+- *yakṣmasya* ← *yakṣma*
 - \[noun\], genitive, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
 ------------------------------------------------------------------------
-- *naśyati* \< *naś*
+- *naśyati* ← *naś*
 - \[verb\], singular, Present indikative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 10.97.11"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *jīvagṛbho* \< *jīvagṛbhaḥ* \< *jīvagṛbh*
+- *jīvagṛbho* ← *jīvagṛbhaḥ* ← *jīvagṛbh*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *yathā*

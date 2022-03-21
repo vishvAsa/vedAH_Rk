@@ -6,25 +6,25 @@ title = "Rig Veda 3.7.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āruḥ* \< *ṛch*
+- *āruḥ* ← *ṛch*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *śitipṛṣṭhasya* \< *śiti*
+- *śitipṛṣṭhasya* ← *śiti*
 - \[noun\]
 - “white; śiti \[word\]; black.”
 ------------------------------------------------------------------------
-- *śitipṛṣṭhasya* \< *pṛṣṭhasya* \< *pṛṣṭha*
+- *śitipṛṣṭhasya* ← *pṛṣṭhasya* ← *pṛṣṭha*
 - \[noun\], genitive, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *dhāser* \< *dhāseḥ* \< *dhāsi*
+- *dhāser* ← *dhāseḥ* ← *dhāsi*
 - \[noun\], ablative, singular, feminine
 - “seat; home.”
 ------------------------------------------------------------------------
@@ -32,36 +32,36 @@ title = "Rig Veda 3.7.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *viviśuḥ* \< *viś*
+- *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *vāṇīḥ* \< *vāṇī*
+- *vāṇīḥ* ← *vāṇī*
 - \[noun\], nominative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *parikṣitā* \< *parikṣi* \< *√kṣi*
+- *parikṣitā* ← *parikṣi* ← *√kṣi*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *carete* \< *car*
+- *carete* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -71,17 +71,17 @@ title = "Rig Veda 3.7.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sarsrāte* \< *sarsṛ* \< *√sṛ*
+- *sarsrāte* ← *sarsṛ* ← *√sṛ*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *prayakṣe* \< *prayakṣ* \< *√yakṣ*
+- *prayakṣe* ← *prayakṣ* ← *√yakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------

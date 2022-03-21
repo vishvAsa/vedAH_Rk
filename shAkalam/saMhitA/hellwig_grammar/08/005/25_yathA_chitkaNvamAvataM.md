@@ -10,30 +10,30 @@ title = "Rig Veda 8.5.25"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *kaṇvam* \< *kaṇva*
+- *kaṇvam* ← *kaṇva*
 - \[noun\], accusative, singular, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *āvatam* \< *av*
+- *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *priyamedham* \< *priyamedha*
+- *priyamedham* ← *priyamedha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *upastutam* \< *upastuta*
+- *upastutam* ← *upastuta*
 - \[noun\], accusative, singular, masculine
 - “Upastuta.”
 ------------------------------------------------------------------------
-- *atriṃ* \< *atrim* \< *atri*
+- *atriṃ* ← *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *śiñjāram* \< *śiñjāra*
+- *śiñjāram* ← *śiñjāra*
 - \[noun\], accusative, singular, masculine
 - “Śiñjāra.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

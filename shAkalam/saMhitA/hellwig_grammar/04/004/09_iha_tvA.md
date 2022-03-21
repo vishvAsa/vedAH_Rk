@@ -6,11 +6,11 @@ title = "Rig Veda 4.4.9"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhūry* \< *bhūri*
+- *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 4.4.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cared* \< *caret* \< *car*
+- *cared* ← *caret* ← *car*
 - \[verb\], singular, Present optative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -32,14 +32,14 @@ title = "Rig Veda 4.4.9"
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *doṣāvastar* \< *doṣā*
+- *doṣāvastar* ← *doṣā*
 - \[noun\], feminine
 - “night.”
 ------------------------------------------------------------------------
-- *doṣāvastar* \< *vastar* \< *vastṛ*
+- *doṣāvastar* ← *vastar* ← *vastṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *dīdivāṃsam* \< *dīdī*
+- *dīdivāṃsam* ← *dīdī*
 - \[verb noun\], accusative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -47,40 +47,40 @@ title = "Rig Veda 4.4.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *krīﾱantas* \< *krīﾱantaḥ* \< *krīḍ*
+- *krīﾱantas* ← *krīﾱantaḥ* ← *krīḍ*
 - \[verb noun\], nominative, plural
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumanasaḥ* \< *sumanas*
+- *sumanasaḥ* ← *sumanas*
 - \[noun\], nominative, plural, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
-- *sapemābhi* \< *sapema* \< *sap*
+- *sapemābhi* ← *sapema* ← *sap*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *sapemābhi* \< *abhi*
+- *sapemābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dyumnā* \< *dyumna*
+- *dyumnā* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *tasthivāṃso* \< *tasthivāṃsaḥ* \< *sthā*
+- *tasthivāṃso* ← *tasthivāṃsaḥ* ← *sthā*
 - \[verb noun\], nominative, plural
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

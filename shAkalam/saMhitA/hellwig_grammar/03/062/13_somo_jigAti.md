@@ -2,46 +2,46 @@
 title = "Rig Veda 3.62.13"
 
 +++
--   *somo* \< *somaḥ* \< *soma*
+-   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *gātuvid* \< *gātu*
+- *gātuvid* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *gātuvid* \< *vid*
+- *gātuvid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āsadam* \< *āsad* \< *√sad*
+- *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

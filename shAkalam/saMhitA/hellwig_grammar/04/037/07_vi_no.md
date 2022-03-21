@@ -6,52 +6,52 @@ title = "Rig Veda 4.37.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *pathaś* \< *pathaḥ* \< *pathin*
+- *pathaś* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *citana* \< *ci*
+- *citana* ← *ci*
 - \[verb\], plural, Aorist imperative
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
-- *yaṣṭave* \< *yaj*
+- *yaṣṭave* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūraya* \< *sūrayaḥ* \< *sūri*
+- *sūraya* ← *sūrayaḥ* ← *sūri*
 - \[noun\], vocative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *stutā* \< *stutāḥ* \< *stu*
+- *stutā* ← *stutāḥ* ← *stu*
 - \[verb noun\], nominative, plural
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *āśās* \< *āśāḥ* \< *āśā*
+- *āśās* ← *āśāḥ* ← *āśā*
 - \[noun\], accusative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
 ------------------------------------------------------------------------
-- *tarīṣaṇi* \< *tṛ*
+- *tarīṣaṇi* ← *tṛ*
 - \[verb noun\]
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

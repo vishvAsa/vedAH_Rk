@@ -2,27 +2,27 @@
 title = "Rig Veda 6.26.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śraddhābhir* \< *śraddhābhiḥ* \< *śraddhā*
+- *śraddhābhir* ← *śraddhābhiḥ* ← *śraddhā*
 - \[noun\], instrumental, plural, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *mandasānaḥ* \< *mand*
+- *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *somair* \< *somaiḥ* \< *soma*
+- *somair* ← *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dabhītaye* \< *dabhīti*
+- *dabhītaye* ← *dabhīti*
 - \[noun\], dative, singular, masculine
 - “Dabhīti.”
 ------------------------------------------------------------------------
-- *cumurim* \< *cumuri*
+- *cumurim* ← *cumuri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -30,42 +30,42 @@ title = "Rig Veda 6.26.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *siṣvap* \< *svap*
+- *siṣvap* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rajim* \< *raji*
+- *rajim* ← *raji*
 - \[noun\], accusative, singular, masculine
 - “Raji.”
 ------------------------------------------------------------------------
-- *piṭhīnase* \< *piṭhīnas*
+- *piṭhīnase* ← *piṭhīnas*
 - \[noun\], dative, singular, masculine
 - “Piṭhīnas.”
 ------------------------------------------------------------------------
-- *daśasyan* \< *daśasy*
+- *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *ṣaṣṭiṃ* \< *ṣaṣṭim* \< *ṣaṣṭi*
+- *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *sacāhan* \< *sacā*
+- *sacāhan* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāhan* \< *ahan* \< *han*
+- *sacāhan* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

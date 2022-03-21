@@ -2,25 +2,25 @@
 title = "Rig Veda 4.57.2"
 
 +++
--   *kṣetrasya* \< *kṣetra*
+-   *kṣetrasya* ← *kṣetra*
 - \[noun\], genitive, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *madhumantam* \< *madhumat*
+- *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *ūrmiṃ* \< *ūrmim* \< *ūrmi*
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *dhenur* \< *dhenuḥ* \< *dhenu*
+- *dhenur* ← *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -28,22 +28,22 @@ title = "Rig Veda 4.57.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *asmāsu* \< *mad*
+- *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhukṣva* \< *duh*
+- *dhukṣva* ← *duh*
 - \[verb\], singular, Present imperative
 - “milk.”
 ------------------------------------------------------------------------
-- *madhuścutaṃ* \< *madhuścutam* \< *madhuścut*
+- *madhuścutaṃ* ← *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ghṛtam* \< *ghṛta*
+- *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -51,28 +51,28 @@ title = "Rig Veda 4.57.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *supūtam* \< *su*
+- *supūtam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supūtam* \< *pūtam* \< *pū*
+- *supūtam* ← *pūtam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *patayo* \< *patayaḥ* \< *pati*
+- *patayo* ← *patayaḥ* ← *pati*
 - \[noun\], nominative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *mṛﾱayantu* \< *mṛḍayantu* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱayantu* ← *mṛḍayantu* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

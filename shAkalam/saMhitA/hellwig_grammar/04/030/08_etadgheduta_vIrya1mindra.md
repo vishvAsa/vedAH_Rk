@@ -2,14 +2,14 @@
 title = "Rig Veda 4.30.8"
 
 +++
--   *etad* \< *etat* \< *etad*
+-   *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 4.30.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vīryam* \< *vīrya*
+- *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -28,7 +28,7 @@ title = "Rig Veda 4.30.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,20 +39,20 @@ title = "Rig Veda 4.30.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *striyaṃ* \< *striyam* \< *strī*
+- *striyaṃ* ← *striyam* ← *strī*
 - \[noun\], accusative, singular, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *durhaṇāyuvaṃ* \< *durhaṇāyuvam* \< *durhaṇāyu*
+- *durhaṇāyuvaṃ* ← *durhaṇāyuvam* \< *durhaṇāyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *vadhīr* \< *vadhīḥ* \< *vadh*

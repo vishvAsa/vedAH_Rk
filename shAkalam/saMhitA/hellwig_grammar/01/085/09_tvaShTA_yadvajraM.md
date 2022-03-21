@@ -2,24 +2,24 @@
 title = "Rig Veda 1.85.9"
 
 +++
--   *tvaṣṭā* \< *tvaṣṭṛ*
+-   *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *su*
+- *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *kṛtam* \< *kṛ*
+- *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,50 +30,50 @@ title = "Rig Veda 1.85.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *hiraṇyayaṃ* \< *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayaṃ* ← *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭiṃ* \< *sahasra*
+- *sahasrabhṛṣṭiṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭiṃ* \< *bhṛṣṭim* \< *bhṛṣṭi*
+- *sahasrabhṛṣṭiṃ* ← *bhṛṣṭim* ← *bhṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “spike.”
 ------------------------------------------------------------------------
-- *svapā* \< *su*
+- *svapā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapā* \< *apāḥ* \< *apas*
+- *svapā* ← *apāḥ* ← *apas*
 - \[noun\], nominative, singular, masculine
 - “work; deed.”
 ------------------------------------------------------------------------
-- *avartayat* \< *vartay* \< *√vṛt*
+- *avartayat* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *dhatta* \< *dhatte* \< *dhā*
+- *dhatta* ← *dhatte* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nary* \< *\_* \< *√\_*
+- *nary* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *apāṃsi* \< *apas*
+- *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *kartave* \< *kṛ*
+- *kartave* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -84,29 +84,29 @@ title = "Rig Veda 1.85.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *'han* \< *ahan* \< *han*
+- *'han* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *aubjad* \< *aubjat* \< *ubj*
+- *aubjad* ← *aubjat* ← *ubj*
 - \[verb\], singular, Imperfect
 - “oppress.”
 ------------------------------------------------------------------------
-- *arṇavam* \< *arṇava*
+- *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “wave; flood.”
 ------------------------------------------------------------------------

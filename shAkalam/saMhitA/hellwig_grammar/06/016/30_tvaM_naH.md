@@ -2,7 +2,7 @@
 title = "Rig Veda 6.16.30"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* \< *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.21.2"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,17 +10,17 @@ title = "Rig Veda 10.21.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *svābhuvaḥ* \< *su*
+- *svābhuvaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svābhuvaḥ* \< *ābhuvaḥ* \< *ābhū*
+- *svābhuvaḥ* ← *ābhuvaḥ* ← *ābhū*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------

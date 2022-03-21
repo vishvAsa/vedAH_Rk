@@ -2,29 +2,29 @@
 title = "Rig Veda 6.15.5"
 
 +++
--   *pāvakayā* \< *pāvaka*
+-   *pāvakayā* ← *pāvaka*
 - \[noun\], instrumental, singular, feminine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *citayantyā* \< *citay* \< *√cit*
+- *citayantyā* ← *citay* ← *√cit*
 - \[verb noun\], instrumental, singular
 ------------------------------------------------------------------------
-- *kṛpā* \< *kṛp*
+- *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
 ------------------------------------------------------------------------
 - *kṣāman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *ruruca* \< *ruruce* \< *ruc*
+- *ruruca* ← *ruruce* ← *ruc*
 - \[verb\], singular, Perfect indicative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -32,12 +32,12 @@ title = "Rig Veda 6.15.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *tūrvan* \< *tūrv*
+- *tūrvan* ← *tūrv*
 - \[verb noun\], nominative, singular
 - “overpower.”
 ------------------------------------------------------------------------
@@ -45,19 +45,19 @@ title = "Rig Veda 6.15.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *etaśasya* \< *etaśa*
+- *etaśasya* ← *etaśa*
 - \[noun\], genitive, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *raṇa* \< *raṇe* \< *raṇa*
+- *raṇa* ← *raṇe* ← *raṇa*
 - \[noun\], locative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 6.15.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

@@ -2,69 +2,69 @@
 title = "Rig Veda 1.34.5"
 
 +++
--   *trir* \< *tris*
+-   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vahatam* \< *vah*
+- *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *devatātā* \< *devatāti*
+- *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *utāvataṃ* \< *uta*
+- *utāvataṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāvataṃ* \< *avatam* \< *av*
+- *utāvataṃ* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *saubhagatvaṃ* \< *saubhaga*
+- *saubhagatvaṃ* ← *saubhaga*
 - \[noun\], neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *saubhagatvaṃ* \< *tvam* \< *tva*
+- *saubhagatvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
@@ -72,34 +72,34 @@ title = "Rig Veda 1.34.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *triṣṭhaṃ* \< *triṣṭham* \< *triṣṭha*
+- *triṣṭhaṃ* ← *triṣṭham* ← *triṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sūre* \< *sūraḥ* \< *svar*
+- *sūre* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *ruhad* \< *ruhat* \< *ruh*
+- *ruhad* ← *ruhat* ← *ruh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

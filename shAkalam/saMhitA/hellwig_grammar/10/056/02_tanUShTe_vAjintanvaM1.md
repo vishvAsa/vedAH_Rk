@@ -2,11 +2,11 @@
 title = "Rig Veda 10.56.2"
 
 +++
--   *tanūṣ* \< *tanūḥ* \< *tanū*
+-   *tanūṣ* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,70 +14,70 @@ title = "Rig Veda 10.56.2"
 - \[noun\], vocative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *nayantī* \< *nī*
+- *nayantī* ← *nī*
 - \[verb noun\], nominative, singular
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhātu* \< *dhā*
+- *dhātu* ← *dhā*
 - \[verb\], singular, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ahruto* \< *a*
+- *ahruto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahruto* \< *hrutaḥ* \< *hvṛ*
+- *ahruto* ← *hrutaḥ* ← *hvṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *dharuṇāya* \< *dharuṇa*
+- *dharuṇāya* ← *dharuṇa*
 - \[noun\], dative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *divīva* \< *divi* \< *div*
+- *divīva* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *divīva* \< *iva*
+- *divīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jyotiḥ* \< *jyotis*
+- *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
@@ -86,7 +86,7 @@ title = "Rig Veda 10.56.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mimīyāḥ* \< *mī*
+- *mimīyāḥ* ← *mī*
 - \[verb\], singular, Present optative
 - “transgress; damage.”
 ------------------------------------------------------------------------

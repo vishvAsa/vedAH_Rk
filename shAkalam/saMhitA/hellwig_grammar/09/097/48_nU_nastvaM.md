@@ -2,19 +2,19 @@
 title = "Rig Veda 9.97.48"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rathiro* \< *rathiraḥ* \< *rathira*
+- *rathiro* ← *rathiraḥ* ← *rathira*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *deva*
@@ -30,35 +30,35 @@ title = "Rig Veda 9.97.48"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *camvoḥ* \< *camū*
+- *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *pūyamānaḥ* \< *pū*
+- *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *svādiṣṭho* \< *svādiṣṭhaḥ* \< *svādiṣṭha*
+- *svādiṣṭho* ← *svādiṣṭhaḥ* ← *svādiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *madhumāṃ* \< *madhumat*
+- *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -67,19 +67,19 @@ title = "Rig Veda 9.97.48"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *satyamanmā* \< *satya*
+- *satyamanmā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyamanmā* \< *manmā* \< *manman*
+- *satyamanmā* ← *manmā* ← *manman*
 - \[noun\], nominative, singular, masculine
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 6.6.7"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -14,58 +14,58 @@ title = "Rig Veda 6.6.7"
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citayantam* \< *citay* \< *√cit*
+- *citayantam* ← *citay* ← *√cit*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *citrakṣatra* \< *citra*
+- *citrakṣatra* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citrakṣatra* \< *kṣatra*
+- *citrakṣatra* ← *kṣatra*
 - \[noun\], vocative, singular, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *citratamaṃ* \< *citratamam* \< *citratama*
+- *citratamaṃ* ← *citratamam* ← *citratama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vayodhām* \< *vayaḥ* \< *vayas*
+- *vayodhām* ← *vayaḥ* ← *vayas*
 - \[noun\], neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *vayodhām* \< *dhām* \< *dhā*
+- *vayodhām* ← *dhām* ← *dhā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *candraṃ* \< *candram* \< *candra*
+- *candraṃ* ← *candram* ← *candra*
 - \[noun\], accusative, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *puruvīram* \< *puru*
+- *puruvīram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvīram* \< *vīram* \< *vīra*
+- *puruvīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *bṛhantaṃ* \< *bṛhantam* \< *bṛhat*
+- *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -74,15 +74,15 @@ title = "Rig Veda 6.6.7"
 - \[noun\], vocative, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *candrābhir* \< *candrābhiḥ* \< *candra*
+- *candrābhir* ← *candrābhiḥ* ← *candra*
 - \[noun\], instrumental, plural, feminine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *yuvasva* \< *yu*
+- *yuvasva* ← *yu*
 - \[verb\], singular, Present imperative
 - “unite.”
 ------------------------------------------------------------------------

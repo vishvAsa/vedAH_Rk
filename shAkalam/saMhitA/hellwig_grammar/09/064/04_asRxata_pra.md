@@ -2,7 +2,7 @@
 title = "Rig Veda 9.64.4"
 
 +++
--   *asṛkṣata* \< *sṛj*
+-   *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
@@ -11,7 +11,7 @@ title = "Rig Veda 9.64.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
@@ -19,21 +19,21 @@ title = "Rig Veda 9.64.4"
 - \[noun\], instrumental, singular, feminine
 - “gorocanā.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
 - *aśvayā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *śukrāso* \< *śukrāsaḥ* \< *śukra*
+- *śukrāso* ← *śukrāsaḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *vīrayāśavaḥ* \< *vīrayā*
+- *vīrayāśavaḥ* ← *vīrayā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vīrayāśavaḥ* \< *āśavaḥ* \< *āśu*
+- *vīrayāśavaḥ* ← *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------

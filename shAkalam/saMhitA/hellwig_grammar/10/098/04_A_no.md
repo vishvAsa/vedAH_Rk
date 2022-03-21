@@ -6,19 +6,19 @@ title = "Rig Veda 10.98.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *drapsā* \< *drapsāḥ* \< *drapsa*
+- *drapsā* ← *drapsāḥ* ← *drapsa*
 - \[noun\], nominative, plural, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *madhumanto* \< *madhumantaḥ* \< *madhumat*
+- *madhumanto* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *viśantv* \< *viśantu* \< *viś*
+- *viśantv* ← *viśantu* ← *viś*
 - \[verb\], plural, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -27,17 +27,17 @@ title = "Rig Veda 10.98.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dehy* \< *dehi* \< *dā*
+- *dehy* ← *dehi* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *adhirathaṃ* \< *adhiratham* \< *adhiratha*
+- *adhirathaṃ* ← *adhiratham* ← *adhiratha*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -45,12 +45,12 @@ title = "Rig Veda 10.98.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīda* \< *sīda* \< *sad*
+- *ṣīda* ← *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *hotram* \< *hotra*
+- *hotram* ← *hotra*
 - \[noun\], accusative, singular, neuter
 - “yajña; sacrifice.”
 ------------------------------------------------------------------------
@@ -58,24 +58,24 @@ title = "Rig Veda 10.98.4"
 - \[adverb\]
 - “seasonably.”
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devāpe* \< *devāpi*
+- *devāpe* ← *devāpi*
 - \[noun\], vocative, singular, masculine
 - “Devāpi.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *saparya* \< *sapary*
+- *saparya* ← *sapary*
 - \[verb\], singular, Present imperative
 - “worship.”
 ------------------------------------------------------------------------

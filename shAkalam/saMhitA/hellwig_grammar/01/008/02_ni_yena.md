@@ -6,15 +6,15 @@ title = "Rig Veda 1.8.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *muṣṭihatyayā* \< *muṣṭi*
+- *muṣṭihatyayā* ← *muṣṭi*
 - \[noun\], masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
 ------------------------------------------------------------------------
-- *muṣṭihatyayā* \< *hatyayā* \< *hatyā*
+- *muṣṭihatyayā* ← *hatyayā* ← *hatyā*
 - \[noun\], instrumental, singular, feminine
 - “murder; blow; fight; killing.”
 ------------------------------------------------------------------------
@@ -22,24 +22,24 @@ title = "Rig Veda 1.8.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *ruṇadhāmahai* \< *rudh*
+- *ruṇadhāmahai* ← *rudh*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
 ------------------------------------------------------------------------
-- *tvotāso* \< *tvotāsaḥ* \< *tvota*
+- *tvotāso* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *arvatā* \< *arvant*
+- *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------

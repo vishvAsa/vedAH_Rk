@@ -2,13 +2,13 @@
 title = "Rig Veda 10.18.1"
 
 +++
--   *param* \< *para*
+-   *param* ← *para*
 - \[noun\], accusative, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *mṛtyo* \< *mṛtyu*
+- *mṛtyo* ← *mṛtyu*
 - \[noun\], vocative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
@@ -16,53 +16,53 @@ title = "Rig Veda 10.18.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *parehi* \< *pare* \< *√i*
+- *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *panthāṃ* \< *panthām* \< *pathin*
+- *panthāṃ* ← *panthām* ← *pathin*
 - \[noun\], accusative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sva* \< *svaḥ* \< *sva*
+- *sva* ← *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *itaro* \< *itaraḥ* \< *itara*
+- *itaro* ← *itaraḥ* ← *itara*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); itara \[word\]; other than.”
 ------------------------------------------------------------------------
-- *devayānāt* \< *deva*
+- *devayānāt* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayānāt* \< *yānāt* \< *yāna*
+- *devayānāt* ← *yānāt* ← *yāna*
 - \[noun\], ablative, singular, masculine
 - “vehicle; journey; campaign; carriage; vessel; cart.”
 ------------------------------------------------------------------------
-- *cakṣuṣmate* \< *cakṣuṣmat*
+- *cakṣuṣmate* ← *cakṣuṣmat*
 - \[noun\], dative, singular, masculine
 - “seeing; eyed.”
 ------------------------------------------------------------------------
-- *śṛṇvate* \< *śru*
+- *śṛṇvate* ← *śru*
 - \[verb noun\], dative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bravīmi* \< *brū*
+- *bravīmi* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
@@ -71,28 +71,28 @@ title = "Rig Veda 10.18.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prajāṃ* \< *prajām* \< *prajā*
+- *prajāṃ* ← *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *rīriṣo* \< *rīriṣaḥ* \< *riṣ*
+- *rīriṣo* ← *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *mota* \< *mā*
+- *mota* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mota* \< *uta*
+- *mota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vīrān* \< *vīra*
+- *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

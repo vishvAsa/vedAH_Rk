@@ -2,25 +2,25 @@
 title = "Rig Veda 10.104.7"
 
 +++
--   *sahasravājam* \< *sahasra*
+-   *sahasravājam* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasravājam* \< *vājam* \< *vāja*
+- *sahasravājam* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *abhimātiṣāhaṃ* \< *abhimātiṣāham* \< *abhimātiṣāh*
+- *abhimātiṣāhaṃ* ← *abhimātiṣāham* ← *abhimātiṣāh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *suteraṇam* \< *suteraṇa*
+- *suteraṇam* ← *suteraṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *maghavānaṃ* \< *maghavānam* \< *maghavan*
+- *maghavānaṃ* ← *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, masculine
 - “glorious.”
 ------------------------------------------------------------------------
@@ -28,20 +28,20 @@ title = "Rig Veda 10.104.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bhūṣanti* \< *bhūṣ*
+- *bhūṣanti* ← *bhūṣ*
 - \[verb\], plural, Present indikative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *apratītam* \< *apratīta*
+- *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* \< *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

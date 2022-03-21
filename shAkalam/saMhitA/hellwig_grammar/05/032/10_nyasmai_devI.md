@@ -2,11 +2,11 @@
 title = "Rig Veda 5.32.10"
 
 +++
--   *ny* \< *ni*
+-   *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,57 +14,57 @@ title = "Rig Veda 5.32.10"
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *svadhitir* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, feminine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *jihīta* \< *jihīte* \< *hā*
+- *jihīta* ← *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gātur* \< *gātuḥ* \< *gātu*
+- *gātur* ← *gātuḥ* ← *gātu*
 - \[noun\], nominative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *uśatīva* \< *uśatī* \< *vaś*
+- *uśatīva* ← *uśatī* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśatīva* \< *iva*
+- *uśatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yeme* \< *yam*
+- *yeme* ← *yam*
 - \[verb\], singular, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *yuvate* \< *yu*
+- *yuvate* ← *yu*
 - \[verb\], singular, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ābhir* \< *ābhiḥ* \< *idam*
+- *ābhir* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -72,15 +72,15 @@ title = "Rig Veda 5.32.10"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svadhāvne* \< *svadhāvan*
+- *svadhāvne* ← *svadhāvan*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *namanta* \< *nam*
+- *namanta* ← *nam*
 - \[verb\], plural, Present injunctive
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------

@@ -2,54 +2,54 @@
 title = "Rig Veda 4.39.3"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvasya* \< *aśva*
+- *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *dadhikrāvṇo* \< *dadhikrāvṇaḥ* \< *dadhikrāvan*
+- *dadhikrāvṇo* ← *dadhikrāvṇaḥ* ← *dadhikrāvan*
 - \[noun\], genitive, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *akārīt* \< *kṛ*
+- *akārīt* ← *kṛ*
 - \[verb\], singular, Athematic is aor. (Ind.)
 ------------------------------------------------------------------------
-- *samiddhe* \< *samindh* \< *√indh*
+- *samiddhe* ← *samindh* ← *√indh*
 - \[verb noun\], locative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *agnā* \< *agnau* \< *agni*
+- *agnā* ← *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *anāgasaṃ* \< *anāgasam* \< *anāgas*
+- *anāgasaṃ* ← *anāgasam* ← *anāgas*
 - \[noun\], accusative, singular, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇotu* \< *kṛ*
+- *kṛṇotu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -60,22 +60,22 @@ title = "Rig Veda 4.39.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mitreṇa* \< *mitra*
+- *mitreṇa* ← *mitra*
 - \[noun\], instrumental, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇenā* \< *varuṇena* \< *varuṇa*
+- *varuṇenā* ← *varuṇena* ← *varuṇa*
 - \[noun\], instrumental, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------

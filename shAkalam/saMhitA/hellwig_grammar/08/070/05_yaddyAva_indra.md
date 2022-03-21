@@ -2,11 +2,11 @@
 title = "Rig Veda 8.70.5"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dyāva* \< *dyāvaḥ* \< *div*
+- *dyāva* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -15,19 +15,19 @@ title = "Rig Veda 8.70.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *bhūmīr* \< *bhūmīḥ* \< *bhūmi*
+- *bhūmīr* ← *bhūmīḥ* ← *bhūmi*
 - \[noun\], nominative, plural, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
@@ -37,7 +37,7 @@ title = "Rig Veda 8.70.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *syuḥ* \< *as*
+- *syuḥ* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -46,7 +46,7 @@ title = "Rig Veda 8.70.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 8.70.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sūryā* \< *sūryāḥ* \< *sūrya*
+- *sūryā* ← *sūryāḥ* ← *sūrya*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -71,13 +71,13 @@ title = "Rig Veda 8.70.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jātam* \< *jan*
+- *jātam* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *aṣṭa* \< *aṣṭan*
+- *aṣṭa* ← *aṣṭan*
 - \[noun\], nominative, plural, neuter
 - “eight; eighth; aṣṭan \[word\].”
 ------------------------------------------------------------------------

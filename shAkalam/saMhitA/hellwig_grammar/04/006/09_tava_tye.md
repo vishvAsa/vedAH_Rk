@@ -2,54 +2,54 @@
 title = "Rig Veda 4.6.9"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, masculine
 - “pale; green; bay; yellow.”
 ------------------------------------------------------------------------
-- *ghṛtasnā* \< *ghṛta*
+- *ghṛtasnā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtasnā* \< *snāḥ* \< *snā*
+- *ghṛtasnā* ← *snāḥ* ← *snā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *rohitāsa* \< *rohitāsaḥ* \< *rohita*
+- *rohitāsa* ← *rohitāsaḥ* ← *rohita*
 - \[noun\], nominative, plural, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *ṛjvañcaḥ* \< *ṛjvañc*
+- *ṛjvañcaḥ* ← *ṛjvañc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *svañcaḥ* \< *svañc*
+- *svañcaḥ* ← *svañc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *aruṣāso* \< *aruṣāsaḥ* \< *aruṣa*
+- *aruṣāso* ← *aruṣāsaḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vṛṣaṇa* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇa* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ṛjumuṣkā* \< *ṛju*
+- *ṛjumuṣkā* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *ṛjumuṣkā* \< *muṣkāḥ* \< *muṣka*
+- *ṛjumuṣkā* ← *muṣkāḥ* ← *muṣka*
 - \[noun\], nominative, plural, masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 4.6.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *devatātim* \< *devatāti*
+- *devatātim* ← *devatāti*
 - \[noun\], accusative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *ahvanta* \< *hvā*
+- *ahvanta* ← *hvā*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dasmāḥ* \< *dasma*
+- *dasmāḥ* ← *dasma*
 - \[noun\], nominative, plural, masculine
 - “overlord.”
 ------------------------------------------------------------------------

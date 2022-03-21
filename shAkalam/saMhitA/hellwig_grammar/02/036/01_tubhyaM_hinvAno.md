@@ -2,51 +2,51 @@
 title = "Rig Veda 2.36.1"
 
 +++
--   *tubhyaṃ* \< *tubhyam* \< *tvad*
+-   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hinvāno* \< *hinvānaḥ* \< *hi*
+- *hinvāno* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *vasiṣṭa* \< *vas*
+- *vasiṣṭa* ← *vas*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “wear.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *'dhukṣan* \< *adhukṣan* \< *duh*
+- *'dhukṣan* ← *adhukṣan* ← *duh*
 - \[verb\], plural, sa aorist (Ind.)
 - “milk.”
 ------------------------------------------------------------------------
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *avibhir* \< *avibhiḥ* \< *avi*
+- *avibhir* ← *avibhiḥ* ← *avi*
 - \[noun\], instrumental, plural, masculine
 - “sheep; avi \[word\]; menstruating woman; ewe.”
 ------------------------------------------------------------------------
-- *adribhir* \< *adribhiḥ* \< *adri*
+- *adribhir* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *pibendra* \< *pibā* \< *pā*
+- *pibendra* ← *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibendra* \< *indra*
+- *pibendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -55,13 +55,13 @@ title = "Rig Veda 2.36.1"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *prahutaṃ* \< *prahutam* \< *prahu* \< *√hu*
+- *prahutaṃ* ← *prahutam* ← *prahu* ← *√hu*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vaṣaṭkṛtaṃ* \< *vaṣaṭkṛtam* \< *vaṣaṭkṛ* \< *√kṛ*
+- *vaṣaṭkṛtaṃ* ← *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *hotrād* \< *hotrāt* \< *hotra*
+- *hotrād* ← *hotrāt* ← *hotra*
 - \[noun\], ablative, singular, neuter
 - “yajña; sacrifice.”
 ------------------------------------------------------------------------
@@ -69,20 +69,20 @@ title = "Rig Veda 2.36.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *prathamo* \< *prathamaḥ* \< *prathama*
+- *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īśiṣe* \< *īś*
+- *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------

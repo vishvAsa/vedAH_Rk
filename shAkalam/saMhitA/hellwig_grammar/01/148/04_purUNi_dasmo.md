@@ -2,11 +2,11 @@
 title = "Rig Veda 1.148.4"
 
 +++
--   *purūṇi* \< *puru*
+-   *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dasmo* \< *dasmaḥ* \< *dasma*
+- *dasmo* ← *dasmaḥ* ← *dasma*
 - \[noun\], nominative, singular, masculine
 - “fantastic; extraordinary.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 1.148.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *riṇāti* \< *ri*
+- *riṇāti* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *jambhair* \< *jambhaiḥ* \< *jambha*
+- *jambhair* ← *jambhaiḥ* ← *jambha*
 - \[noun\], instrumental, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *vana* \< *vane* \< *vana*
+- *vana* ← *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -38,19 +38,19 @@ title = "Rig Veda 1.148.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vibhāvā* \< *vibhāvan*
+- *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -59,15 +59,15 @@ title = "Rig Veda 1.148.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vāti* \< *vā*
+- *vāti* ← *vā*
 - \[verb\], singular, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *astur* \< *astuḥ* \< *astṛ*
+- *astur* ← *astuḥ* ← *astṛ*
 - \[noun\], genitive, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
@@ -75,18 +75,18 @@ title = "Rig Veda 1.148.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaryām* \< *śaryā*
+- *śaryām* ← *śaryā*
 - \[noun\], accusative, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------
-- *asanām* \< *asana*
+- *asanām* ← *asana*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

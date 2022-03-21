@@ -9,16 +9,16 @@ title = "Rig Veda 4.33.4"
 - *saṃvatsam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *arakṣan* \< *rakṣ*
+- *arakṣan* ← *rakṣ*
 - \[verb\], plural, Imperfect
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -29,14 +29,14 @@ title = "Rig Veda 4.33.4"
 - *saṃvatsam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *mā* \< *māḥ* \< *mās*
+- *mā* ← *māḥ* ← *mās*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *apiṃśan* \< *piś*
+- *apiṃśan* ← *piś*
 - \[verb\], plural, Imperfect
 - “decorate.”
 ------------------------------------------------------------------------
@@ -47,38 +47,38 @@ title = "Rig Veda 4.33.4"
 - *saṃvatsam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *abharan* \< *bhṛ*
+- *abharan* ← *bhṛ*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bhāso* \< *bhāsaḥ* \< *bhāsas*
+- *bhāso* ← *bhāsaḥ* ← *bhāsas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *asyās* \< *asyāḥ* \< *idam*
+- *asyās* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tābhiḥ* \< *tad*
+- *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śamībhir* \< *śamībhiḥ* \< *śamī*
+- *śamībhir* ← *śamībhiḥ* ← *śamī*
 - \[noun\], instrumental, plural, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *āśuḥ* \< *aś*
+- *āśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

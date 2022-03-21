@@ -2,72 +2,72 @@
 title = "Rig Veda 1.64.14"
 
 +++
--   *carkṛtyam* \< *carkar* \< *√kṛ*
+-   *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- *duṣṭaraṃ* ← *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dhattana* \< *dhā*
+- *dhattana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dhanaspṛtam* \< *dhana*
+- *dhanaspṛtam* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanaspṛtam* \< *spṛtam* \< *spṛt*
+- *dhanaspṛtam* ← *spṛtam* ← *spṛt*
 - \[noun\], accusative, singular, masculine
 - “victorious; protecting.”
 ------------------------------------------------------------------------
-- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *viśvacarṣaṇiṃ* \< *viśvacarṣaṇim* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇiṃ* ← *viśvacarṣaṇim* ← *viśvacarṣaṇi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tokam* \< *toka*
+- *tokam* ← *toka*
 - \[noun\], accusative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *puṣyema* \< *puṣ*
+- *puṣyema* ← *puṣ*
 - \[verb\], plural, Present optative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *tanayaṃ* \< *tanayam* \< *tanaya*
+- *tanayaṃ* ← *tanayam* ← *tanaya*
 - \[noun\], accusative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *himāḥ* \< *himā*
+- *himāḥ* ← *himā*
 - \[noun\], accusative, plural, feminine
 - “winter; year.”
 ------------------------------------------------------------------------

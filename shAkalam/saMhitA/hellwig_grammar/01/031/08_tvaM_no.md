@@ -2,38 +2,38 @@
 title = "Rig Veda 1.31.8"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *dhanānāṃ* \< *dhanānām* \< *dhana*
+- *dhanānāṃ* ← *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *yaśasaṃ* \< *yaśasam* \< *yaśas*
+- *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *kāruṃ* \< *kārum* \< *kāru*
+- *kāruṃ* ← *kārum* ← *kāru*
 - \[noun\], accusative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,15 +44,15 @@ title = "Rig Veda 1.31.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *stavānaḥ* \< *stu*
+- *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *ṛdhyāma* \< *ṛdh*
+- *ṛdhyāma* ← *ṛdh*
 - \[verb\], plural, Aorist optative
 - “boom; stick to.”
 ------------------------------------------------------------------------
-- *karmāpasā* \< *karma* \< *karman*
+- *karmāpasā* ← *karma* ← *karman*
 - \[noun\], accusative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -60,16 +60,16 @@ title = "Rig Veda 1.31.8"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *karmāpasā* \< *apasā* \< *apas*
+- *karmāpasā* ← *apasā* ← *apas*
 - \[noun\], instrumental, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *navena* \< *nava*
+- *navena* ← *nava*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -78,11 +78,11 @@ title = "Rig Veda 1.31.8"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *prāvataṃ* \< *prāvatam* \< *prāv* \< *√av*
+- *prāvataṃ* ← *prāvatam* ← *prāv* ← *√av*
 - \[verb\], dual, Present imperative
 - “help; promote.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

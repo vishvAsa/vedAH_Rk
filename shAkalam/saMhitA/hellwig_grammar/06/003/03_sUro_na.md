@@ -2,7 +2,7 @@
 title = "Rig Veda 6.3.3"
 
 +++
--   *sūro* \< *sūraḥ* \< *svar*
+-   *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 6.3.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dṛśatir* \< *dṛśatiḥ* \< *dṛśati*
+- *dṛśatir* ← *dṛśatiḥ* ← *dṛśati*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *arepā* \< *arepāḥ* \< *arepas*
+- *arepā* ← *arepāḥ* ← *arepas*
 - \[noun\], nominative, singular, feminine
 - “immaculate.”
 ------------------------------------------------------------------------
-- *bhīmā* \< *bhīma*
+- *bhīmā* ← *bhīma*
 - \[noun\], nominative, singular, feminine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śucatas* \< *śucataḥ* \< *śuc*
+- *śucatas* ← *śucataḥ* ← *śuc*
 - \[verb noun\], genitive, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -45,43 +45,43 @@ title = "Rig Veda 6.3.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhīḥ* \< *dhī*
+- *dhīḥ* ← *dhī*
 - \[noun\], nominative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *heṣasvataḥ* \< *heṣasvat*
+- *heṣasvataḥ* ← *heṣasvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śurudho* \< *śurudhaḥ* \< *śurudh*
+- *śurudho* ← *śurudhaḥ* ← *śurudh*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *nāyam* \< *na*
+- *nāyam* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyam* \< *ayam* \< *idam*
+- *nāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *aktoḥ* \< *aktu*
+- *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *kutrā* \< *kutra*
+- *kutrā* ← *kutra*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *raṇvo* \< *raṇvaḥ* \< *raṇva*
+- *raṇvo* ← *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *vasatir* \< *vasatiḥ* \< *vasati*
+- *vasatir* ← *vasatiḥ* ← *vasati*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vanejāḥ* \< *vanejā*
+- *vanejāḥ* ← *vanejā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

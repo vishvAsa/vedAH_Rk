@@ -6,25 +6,25 @@ title = "Rig Veda 8.81.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *dakṣiṇenābhi* \< *dakṣiṇena* \< *dakṣiṇa*
+- *dakṣiṇenābhi* ← *dakṣiṇena* ← *dakṣiṇa*
 - \[noun\], instrumental, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
 ------------------------------------------------------------------------
-- *dakṣiṇenābhi* \< *abhi*
+- *dakṣiṇenābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *savyena* \< *savya*
+- *savyena* ← *savya*
 - \[noun\], instrumental, singular, masculine
 - “left; savya \[word\].”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 8.81.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mṛśa* \< *mṛś*
+- *mṛśa* ← *mṛś*
 - \[verb\], singular, Present imperative
 - “touch.”
 ------------------------------------------------------------------------
@@ -45,19 +45,19 @@ title = "Rig Veda 8.81.6"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasor* \< *vasoḥ* \< *vasu*
+- *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], ablative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *bhāk* \< *bhaj*
+- *bhāk* ← *bhaj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”

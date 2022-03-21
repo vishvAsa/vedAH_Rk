@@ -2,18 +2,18 @@
 title = "Rig Veda 1.130.7"
 
 +++
--   *bhinat* \< *bhid*
+-   *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *navatim* \< *navati*
+- *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 1.130.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrave* \< *pūru*
+- *pūrave* ← *pūru*
 - \[noun\], dative, singular, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *divodāsāya* \< *divodāsa*
+- *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
@@ -34,74 +34,74 @@ title = "Rig Veda 1.130.7"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *nṛto* \< *nṛtu*
+- *nṛto* ← *nṛtu*
 - \[noun\], vocative, singular, masculine
 - “dancing.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *nṛto* \< *nṛtu*
+- *nṛto* ← *nṛtu*
 - \[noun\], vocative, singular, masculine
 - “dancing.”
 ------------------------------------------------------------------------
-- *atithigvāya* \< *atithigva*
+- *atithigvāya* ← *atithigva*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *śambaraṃ* \< *śambaram* \< *śambara*
+- *śambaraṃ* ← *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *girer* \< *gireḥ* \< *giri*
+- *girer* ← *gireḥ* ← *giri*
 - \[noun\], ablative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *avābharat* \< *avabhṛ* \< *√bhṛ*
+- *avābharat* ← *avabhṛ* ← *√bhṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *dhanāni* \< *dhana*
+- *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dayamāna* \< *dayamānaḥ* \< *day*
+- *dayamāna* ← *dayamānaḥ* ← *day*
 - \[verb noun\], nominative, singular
 - “share.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dhanāny* \< *dhanāni* \< *dhana*
+- *dhanāny* ← *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

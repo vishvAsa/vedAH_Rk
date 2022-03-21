@@ -10,12 +10,12 @@ title = "Rig Veda 1.38.9"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tamaḥ* \< *tamas*
+- *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *kṛṇvanti* \< *kṛ*
+- *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,15 +26,15 @@ title = "Rig Veda 1.38.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *parjanyenodavāhena* \< *parjanyena* \< *parjanya*
+- *parjanyenodavāhena* ← *parjanyena* ← *parjanya*
 - \[noun\], instrumental, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *parjanyenodavāhena* \< *uda*
+- *parjanyenodavāhena* ← *uda*
 - \[noun\], neuter
 - “water.”
 ------------------------------------------------------------------------
-- *parjanyenodavāhena* \< *vāhena* \< *vāha*
+- *parjanyenodavāhena* ← *vāhena* ← *vāha*
 - \[noun\], instrumental, singular, masculine
 - “transporting; flowing; removing.”
 ------------------------------------------------------------------------
@@ -42,10 +42,10 @@ title = "Rig Veda 1.38.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *vyundanti* \< *vyund* \< *√und*
+- *vyundanti* ← *vyund* ← *√und*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------

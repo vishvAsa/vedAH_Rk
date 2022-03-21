@@ -2,28 +2,28 @@
 title = "Rig Veda 10.83.3"
 
 +++
--   *abhīhi* \< *abhī* \< *√i*
+-   *abhīhi* ← *abhī* ← *√i*
 - \[verb\], singular, Present imperative
 - “approach; enter.”
 ------------------------------------------------------------------------
-- *manyo* \< *manyu*
+- *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *tavasas* \< *tavasaḥ* \< *tavas*
+- *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], ablative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *tavīyān* \< *tavīyas*
+- *tavīyān* ← *tavīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *tapasā* \< *tapas*
+- *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -31,38 +31,38 @@ title = "Rig Veda 10.83.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jahi* \< *hā*
+- *jahi* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *amitrahā* \< *amitra*
+- *amitrahā* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *amitrahā* \< *hā* \< *han*
+- *amitrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtra*
+- *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *hā* \< *han*
+- *vṛtrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *dasyuhā* \< *dasyu*
+- *dasyuhā* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhā* \< *hā* \< *han*
+- *dasyuhā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
@@ -70,12 +70,12 @@ title = "Rig Veda 10.83.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vasūny* \< *vasūni* \< *vasu*
+- *vasūny* ← *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -83,16 +83,16 @@ title = "Rig Veda 10.83.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

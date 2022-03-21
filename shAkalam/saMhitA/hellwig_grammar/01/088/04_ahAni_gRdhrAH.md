@@ -2,15 +2,15 @@
 title = "Rig Veda 1.88.4"
 
 +++
--   *ahāni* \< *ahar*
+-   *ahāni* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *gṛdhrāḥ* \< *gṛdhra*
+- *gṛdhrāḥ* ← *gṛdhra*
 - \[noun\], nominative, plural, masculine
 - “vulture.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
@@ -18,40 +18,40 @@ title = "Rig Veda 1.88.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *āgur* \< *āguḥ* \< *āgā* \< *√gā*
+- *āgur* ← *āguḥ* ← *āgā* ← *√gā*
 - \[verb\], plural, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *vārkāryāṃ* \< *vārkāryām* \< *vārkārya*
+- *vārkāryāṃ* ← *vārkāryām* ← *vārkārya*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devīm* \< *devī*
+- *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kṛṇvanto* \< *kṛṇvantaḥ* \< *kṛ*
+- *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,28 +62,28 @@ title = "Rig Veda 1.88.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gotamāso* \< *gotamāsaḥ* \< *gotama*
+- *gotamāso* ← *gotamāsaḥ* ← *gotama*
 - \[noun\], nominative, plural, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *ūrdhvaṃ* \< *ūrdhvam*
+- *ūrdhvaṃ* ← *ūrdhvam*
 - \[adverb\]
 - “above; up; subsequently; in the following; more; after; thereafter;
     now; furthermore; below.”
 ------------------------------------------------------------------------
-- *nunudra* \< *nunudre* \< *nud*
+- *nunudra* ← *nunudre* ← *nud*
 - \[verb\], plural, Perfect indicative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *utsadhim* \< *utsadhi*
+- *utsadhim* ← *utsadhi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *pibadhyai* \< *pā*
+- *pibadhyai* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

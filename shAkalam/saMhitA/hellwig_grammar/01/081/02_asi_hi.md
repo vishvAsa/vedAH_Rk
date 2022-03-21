@@ -2,7 +2,7 @@
 title = "Rig Veda 1.81.2"
 
 +++
--   *asi* \< *as*
+-   *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -15,10 +15,10 @@ title = "Rig Veda 1.81.2"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *senyo* \< *senyaḥ* \< *senya*
+- *senyo* ← *senyaḥ* ← *senya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'si* \< *asi* \< *as*
+- *'si* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -27,35 +27,35 @@ title = "Rig Veda 1.81.2"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *parādadiḥ* \< *parādadi*
+- *parādadiḥ* ← *parādadi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dabhrasya* \< *dabhra*
+- *dabhrasya* ← *dabhra*
 - \[noun\], genitive, singular, neuter
 - “few; little(a); deficient.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vṛdho* \< *vṛdhaḥ* \< *vṛdha*
+- *vṛdho* ← *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *śikṣasi* \< *śikṣ*
+- *śikṣasi* ← *śikṣ*
 - \[verb\], singular, Present indikative
 - “help; give.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 1.81.2"
 - \[noun\], nominative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

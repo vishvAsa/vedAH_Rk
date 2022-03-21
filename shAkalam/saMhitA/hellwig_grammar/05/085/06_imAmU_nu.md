@@ -2,11 +2,11 @@
 title = "Rig Veda 5.85.6"
 
 +++
--   *imām* \< *idam*
+-   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 5.85.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kavitamasya* \< *kavitama*
+- *kavitamasya* ← *kavitama*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *māyām* \< *māyā*
+- *māyām* ← *māyā*
 - \[noun\], accusative, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *mahīṃ* \< *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -39,21 +39,21 @@ title = "Rig Veda 5.85.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadharṣa* \< *dhṛṣ*
+- *dadharṣa* ← *dhṛṣ*
 - \[verb\], singular, Perfect indicative
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *ekaṃ* \< *ekam* \< *eka*
+- *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *udnā* \< *udan*
+- *udnā* ← *udan*
 - \[noun\], instrumental, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
@@ -61,22 +61,22 @@ title = "Rig Veda 5.85.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛṇanty* \< *pṛṇanti* \< *pṛṇ*
+- *pṛṇanty* ← *pṛṇanti* ← *pṛṇ*
 - \[verb\], plural, Present indikative
 - “satisfy.”
 ------------------------------------------------------------------------
-- *enīr* \< *enīḥ* \< *enī*
+- *enīr* ← *enīḥ* ← *enī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *āsiñcantīr* \< *āsiñcantīḥ* \< *āsic* \< *√sic*
+- *āsiñcantīr* ← *āsiñcantīḥ* ← *āsic* ← *√sic*
 - \[verb noun\], nominative, plural
 - “pour; immerse.”
 ------------------------------------------------------------------------
-- *avanayaḥ* \< *avani*
+- *avanayaḥ* ← *avani*
 - \[noun\], nominative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------

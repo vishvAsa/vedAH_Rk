@@ -2,11 +2,11 @@
 title = "Rig Veda 1.81.9"
 
 +++
--   *ete* \< *etad*
+-   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,20 +15,20 @@ title = "Rig Veda 1.81.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jantavo* \< *jantavaḥ* \< *jantu*
+- *jantavo* ← *jantavaḥ* ← *jantu*
 - \[noun\], nominative, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *puṣyanti* \< *puṣ*
+- *puṣyanti* ← *puṣ*
 - \[verb\], plural, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *vāryam* \< *vārya*
+- *vāryam* ← *vārya*
 - \[noun\], accusative, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------
@@ -40,41 +40,41 @@ title = "Rig Veda 1.81.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *khyo* \< *khyaḥ* \< *khyā*
+- *khyo* ← *khyaḥ* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vedo* \< *vedaḥ* \< *vedas*
+- *vedo* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
-- *adāśuṣāṃ* \< *a*
+- *adāśuṣāṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adāśuṣāṃ* \< *dāśuṣām* \< *dāś*
+- *adāśuṣāṃ* ← *dāśuṣām* ← *dāś*
 - \[verb noun\], genitive, plural
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *teṣāṃ* \< *teṣām* \< *tad*
+- *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *veda* \< *vedaḥ* \< *vedas*
+- *veda* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 1.81.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

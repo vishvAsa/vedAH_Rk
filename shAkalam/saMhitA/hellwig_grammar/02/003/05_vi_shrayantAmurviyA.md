@@ -6,7 +6,7 @@ title = "Rig Veda 2.3.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śrayantām* \< *śri*
+- *śrayantām* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
@@ -14,62 +14,62 @@ title = "Rig Veda 2.3.5"
 - \[adverb\]
 - “wide; widely.”
 ------------------------------------------------------------------------
-- *hūyamānā* \< *hūyamānāḥ* \< *hvā*
+- *hūyamānā* ← *hūyamānāḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dvāro* \< *dvāraḥ* \< *dvār*
+- *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *devīḥ* \< *deva*
+- *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *suprāyaṇā* \< *su*
+- *suprāyaṇā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprāyaṇā* \< *prāyaṇāḥ* \< *prāyaṇa*
+- *suprāyaṇā* ← *prāyaṇāḥ* ← *prāyaṇa*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *namobhiḥ* \< *namas*
+- *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vyacasvatīr* \< *vyacasvatīḥ* \< *vyacasvat*
+- *vyacasvatīr* ← *vyacasvatīḥ* ← *vyacasvat*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *prathantām* \< *prath*
+- *prathantām* ← *prath*
 - \[verb\], plural, Present imperative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *ajuryā* \< *ajuryāḥ* \< *ajurya*
+- *ajuryā* ← *ajuryāḥ* ← *ajurya*
 - \[noun\], nominative, plural, feminine
 - “ageless; amaranthine.”
 ------------------------------------------------------------------------
-- *varṇam* \< *varṇa*
+- *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *punānā* \< *punānāḥ* \< *pū*
+- *punānā* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *yaśasaṃ* \< *yaśasam* \< *yaśas*
+- *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *suvīram* \< *su*
+- *suvīram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīram* \< *vīram* \< *vīra*
+- *suvīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

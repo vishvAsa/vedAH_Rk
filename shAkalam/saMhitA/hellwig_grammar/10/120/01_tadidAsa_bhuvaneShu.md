@@ -2,7 +2,7 @@
 title = "Rig Veda 10.120.1"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,47 +12,47 @@ title = "Rig Veda 10.120.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhuvaneṣu* \< *bhuvana*
+- *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], nominative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *jajña* \< *jajñe* \< *jan*
+- *jajña* ← *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *ugras* \< *ugraḥ* \< *ugra*
+- *ugras* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *tveṣanṛmṇaḥ* \< *tveṣa*
+- *tveṣanṛmṇaḥ* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣanṛmṇaḥ* \< *nṛmṇaḥ* \< *nṛmṇa*
+- *tveṣanṛmṇaḥ* ← *nṛmṇaḥ* ← *nṛmṇa*
 - \[noun\], nominative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *jajñāno* \< *jajñānaḥ* \< *jan*
+- *jajñāno* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -62,11 +62,11 @@ title = "Rig Veda 10.120.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *riṇāti* \< *ri*
+- *riṇāti* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
@@ -74,20 +74,20 @@ title = "Rig Veda 10.120.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *madanty* \< *madanti* \< *mad*
+- *madanty* ← *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *ūmāḥ* \< *ūma*
+- *ūmāḥ* ← *ūma*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------

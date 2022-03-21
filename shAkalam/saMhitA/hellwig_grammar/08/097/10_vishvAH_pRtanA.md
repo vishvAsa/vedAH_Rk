@@ -2,19 +2,19 @@
 title = "Rig Veda 8.97.10"
 
 +++
--   *viśvāḥ* \< *viśva*
+-   *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pṛtanā* \< *pṛtanāḥ* \< *pṛtanā*
+- *pṛtanā* ← *pṛtanāḥ* ← *pṛtanā*
 - \[noun\], accusative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *abhibhūtaraṃ* \< *abhibhūtaram* \< *abhibhūtara*
+- *abhibhūtaraṃ* ← *abhibhūtaram* ← *abhibhūtara*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *naraṃ* \< *naram* \< *nara*
+- *naraṃ* ← *naram* ← *nara*
 - \[noun\], accusative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
@@ -22,16 +22,16 @@ title = "Rig Veda 8.97.10"
 - *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tatakṣur* \< *tatakṣuḥ* \< *takṣ*
+- *tatakṣur* ← *tatakṣuḥ* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jajanuś* \< *jajanuḥ* \< *jan*
+- *jajanuś* ← *jajanuḥ* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -41,44 +41,44 @@ title = "Rig Veda 8.97.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rājase* \< *rāj*
+- *rājase* ← *rāj*
 - \[verb noun\]
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *variṣṭhaṃ* \< *variṣṭham* \< *variṣṭha*
+- *variṣṭhaṃ* ← *variṣṭham* ← *variṣṭha*
 - \[noun\], accusative, singular, masculine
 - “best; preferable.”
 ------------------------------------------------------------------------
-- *vara* \< *vare* \< *vara*
+- *vara* ← *vare* ← *vara*
 - \[noun\], locative, singular, masculine
 - “vara \[word\].”
 ------------------------------------------------------------------------
-- *āmurim* \< *āmuri*
+- *āmurim* ← *āmuri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *utogram* \< *uta*
+- *utogram* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utogram* \< *ugram* \< *ugra*
+- *utogram* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ojiṣṭhaṃ* \< *ojiṣṭham* \< *ojiṣṭha*
+- *ojiṣṭhaṃ* ← *ojiṣṭham* ← *ojiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
-- *tavasaṃ* \< *tavasam* \< *tavas*
+- *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *tarasvinam* \< *tarasvin*
+- *tarasvinam* ← *tarasvin*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic; fast; agile.”
 ------------------------------------------------------------------------

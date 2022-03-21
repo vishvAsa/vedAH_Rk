@@ -2,11 +2,11 @@
 title = "Rig Veda 8.6.19"
 
 +++
--   *imās* \< *imāḥ* \< *idam*
+-   *imās* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,31 +15,31 @@ title = "Rig Veda 8.6.19"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛśnayo* \< *pṛśnayaḥ* \< *pṛśni*
+- *pṛśnayo* ← *pṛśnayaḥ* ← *pṛśni*
 - \[noun\], nominative, plural, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *duhata* \< *duhate* \< *duh*
+- *duhata* ← *duhate* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *āśiram* \< *āśir*
+- *āśiram* ← *āśir*
 - \[noun\], accusative, singular, feminine
 - “mixture.”
 ------------------------------------------------------------------------
-- *enām* \< *enad*
+- *enām* ← *enad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *pipyuṣīḥ* \< *pyā*
+- *pipyuṣīḥ* ← *pyā*
 - \[verb noun\], nominative, plural
 - “swell; abound; swell.”
 ------------------------------------------------------------------------

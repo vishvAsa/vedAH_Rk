@@ -2,76 +2,76 @@
 title = "Rig Veda 6.15.1"
 
 +++
--   *imam* \< *idam*
+-   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *atithim* \< *atithi*
+- *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *uṣarbudhaṃ* \< *uṣarbudham* \< *uṣarbudh*
+- *uṣarbudhaṃ* ← *uṣarbudham* ← *uṣarbudh*
 - \[noun\], accusative, singular, masculine
 - “early rising.”
 ------------------------------------------------------------------------
-- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ṛñjase* \< *ṛj*
+- *ṛñjase* ← *ṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *vetīd* \< *veti* \< *vī*
+- *vetīd* ← *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *vetīd* \< *id*
+- *vetīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *januṣā* \< *janus*
+- *januṣā* ← *janus*
 - \[noun\], instrumental, singular, neuter
 - “birth.”
 ------------------------------------------------------------------------
-- *kaccid* \< *kaccit*
+- *kaccid* ← *kaccit*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
@@ -80,25 +80,25 @@ title = "Rig Veda 6.15.1"
 - \[adverb\]
 - “long.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *atti* \< *ad*
+- *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *garbho* \< *garbhaḥ* \< *garbha*
+- *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *acyutam* \< *acyuta*
+- *acyutam* ← *acyuta*
 - \[noun\], nominative, singular, neuter
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------

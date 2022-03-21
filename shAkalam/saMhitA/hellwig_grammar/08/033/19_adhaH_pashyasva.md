@@ -2,30 +2,30 @@
 title = "Rig Veda 8.33.19"
 
 +++
--   *adhaḥ* \< *adhas*
+-   *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
 ------------------------------------------------------------------------
-- *paśyasva* \< *paś*
+- *paśyasva* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *mopari* \< *mā*
+- *mopari* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mopari* \< *upari*
+- *mopari* ← *upari*
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
 ------------------------------------------------------------------------
-- *saṃtarām* \< *saṃtarā*
+- *saṃtarām* ← *saṃtarā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *pādakau* \< *pādaka*
+- *pādakau* ← *pādaka*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *hara* \< *hṛ*
+- *hara* ← *hṛ*
 - \[verb\], singular, Present imperative
 - “cure; remove; kidnap; rob; take away; get; destroy; take; extract;
     collect; seize; clean; offer; drain; pick; take out; bring; accept;
@@ -35,14 +35,14 @@ title = "Rig Veda 8.33.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kaśaplakau* \< *kaśaplaka*
+- *kaśaplakau* ← *kaśaplaka*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *dṛśan* \< *dṛś*
+- *dṛśan* ← *dṛś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
@@ -57,12 +57,12 @@ title = "Rig Veda 8.33.19"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *brahmā* \< *brahman*
+- *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *babhūvitha* \< *bhū*
+- *babhūvitha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

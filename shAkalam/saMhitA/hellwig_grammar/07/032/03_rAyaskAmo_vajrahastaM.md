@@ -2,23 +2,23 @@
 title = "Rig Veda 7.32.3"
 
 +++
--   *rāyaskāmo* \< *rāyaskāmaḥ* \< *rāyaskāma*
+-   *rāyaskāmo* ← *rāyaskāmaḥ* ← *rāyaskāma*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vajrahastaṃ* \< *vajrahastam* \< *vajrahasta*
+- *vajrahastaṃ* ← *vajrahastam* ← *vajrahasta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *sudakṣiṇam* \< *su*
+- *sudakṣiṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣiṇam* \< *dakṣiṇam* \< *dakṣiṇa*
+- *sudakṣiṇam* ← *dakṣiṇam* ← *dakṣiṇa*
 - \[noun\], accusative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
 ------------------------------------------------------------------------
-- *putro* \< *putraḥ* \< *putra*
+- *putro* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -26,12 +26,12 @@ title = "Rig Veda 7.32.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

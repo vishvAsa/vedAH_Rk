@@ -2,19 +2,19 @@
 title = "Rig Veda 1.23.14"
 
 +++
--   *pūṣā* \< *pūṣan*
+-   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *rājānam* \< *rājan*
+- *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *āghṛṇir* \< *āghṛṇiḥ* \< *āghṛṇi*
+- *āghṛṇir* ← *āghṛṇiḥ* ← *āghṛṇi*
 - \[noun\], nominative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
-- *apagūḍhaṃ* \< *apagūḍham* \< *apaguh* \< *√guh*
+- *apagūḍhaṃ* ← *apagūḍham* ← *apaguh* ← *√guh*
 - \[verb noun\], accusative, singular
 - “hide.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 1.23.14"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *hitam* \< *dhā*
+- *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *avindac* \< *avindat* \< *vid*
+- *avindac* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *citrabarhiṣam* \< \< *citra*
+- *citrabarhiṣam* ← ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citrabarhiṣam* \< *barhiṣam* \< *barhis*
+- *citrabarhiṣam* ← *barhiṣam* ← *barhis*
 - \[noun\], accusative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------

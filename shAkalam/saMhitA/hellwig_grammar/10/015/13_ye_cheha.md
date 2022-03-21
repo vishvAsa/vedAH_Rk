@@ -2,24 +2,24 @@
 title = "Rig Veda 10.15.13"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ceha* \< *ca*
+- *ceha* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ceha* \< *iha*
+- *ceha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -27,15 +27,15 @@ title = "Rig Veda 10.15.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *neha* \< *na*
+- *neha* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *neha* \< *iha*
+- *neha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *yāṃś* \< *yān* \< *yad*
+- *yāṃś* ← *yān* ← *yad*
 - \[noun\], accusative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -43,12 +43,12 @@ title = "Rig Veda 10.15.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vidma* \< *vid*
+- *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *yāṃ* \< *yad*
+- *yāṃ* ← *yad*
 - \[noun\], accusative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 10.15.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pravidma* \< *pravid* \< *√vid*
+- *pravidma* ← *pravid* ← *√vid*
 - \[verb\], plural, Perfect indicative
 - “anticipate; know; understand.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vettha* \< *vid*
+- *vettha* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -80,30 +80,30 @@ title = "Rig Veda 10.15.13"
 - *yati*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *svadhābhir* \< *svadhābhiḥ* \< *svadhā*
+- *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *su*
+- *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *kṛtam* \< *kṛ*
+- *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -114,7 +114,7 @@ title = "Rig Veda 10.15.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

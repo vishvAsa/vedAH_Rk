@@ -2,18 +2,18 @@
 title = "Rig Veda 4.18.6"
 
 +++
--   *etā* \< *etāḥ* \< *etad*
+-   *etā* ← *etāḥ* ← *etad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *arṣanty* \< *arṣanti* \< *ṛṣ*
+- *arṣanty* ← *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *alalābhavantīr* \< *alalābhavantīḥ* \< *alalābhavat*
+- *alalābhavantīr* ← *alalābhavantīḥ* ← *alalābhavat*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *ṛtāvarīr* \< *ṛtāvarīḥ* \< *ṛtāvan*
+- *ṛtāvarīr* ← *ṛtāvarīḥ* ← *ṛtāvan*
 - \[noun\], nominative, plural, feminine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
@@ -21,10 +21,10 @@ title = "Rig Veda 4.18.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *saṃkrośamānāḥ* \< *saṃkruś* \< *√kruś*
+- *saṃkrośamānāḥ* ← *saṃkruś* ← *√kruś*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *etā* \< *etāḥ* \< *etad*
+- *etā* ← *etāḥ* ← *etad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 4.18.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pṛccha* \< *pracch*
+- *pṛccha* ← *pracch*
 - \[verb\], singular, Present imperative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -44,18 +44,18 @@ title = "Rig Veda 4.18.6"
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhananti* \< *bhan*
+- *bhananti* ← *bhan*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *kam* \< *ka*
+- *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------

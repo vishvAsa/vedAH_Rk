@@ -2,23 +2,23 @@
 title = "Rig Veda 1.101.7"
 
 +++
--   *rudrāṇām* \< *rudra*
+-   *rudrāṇām* ← *rudra*
 - \[noun\], genitive, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pradiśā* \< *pradiś*
+- *pradiśā* ← *pradiś*
 - \[noun\], instrumental, singular, feminine
 - “quarter; direction; command; region; indication.”
 ------------------------------------------------------------------------
-- *vicakṣaṇo* \< *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇo* ← *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *rudrebhir* \< *rudrebhiḥ* \< *rudra*
+- *rudrebhir* ← *rudrebhiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 1.101.7"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *tanute* \< *tan*
+- *tanute* ← *tan*
 - \[verb\], singular, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -35,11 +35,11 @@ title = "Rig Veda 1.101.7"
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *jrayaḥ* \< *jrayas*
+- *jrayaḥ* ← *jrayas*
 - \[noun\], accusative, singular, neuter
 - “expanse; area.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -49,27 +49,27 @@ title = "Rig Veda 1.101.7"
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arcati* \< *arc*
+- *arcati* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *śrutam* \< *śru*
+- *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *marutvantaṃ* \< *marutvantam* \< *marutvant*
+- *marutvantaṃ* ← *marutvantam* ← *marutvant*
 - \[noun\], accusative, singular, masculine
 - “Indra; marutvant \[word\].”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 5.43.3"
 
 +++
--   *adhvaryavaś* \< *adhvaryavaḥ* \< *adhvaryu*
+-   *adhvaryavaś* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *cakṛvāṃso* \< *cakṛvāṃsaḥ* \< *kṛ*
+- *cakṛvāṃso* ← *cakṛvāṃsaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,7 +17,7 @@ title = "Rig Veda 5.43.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *madhūni* \< *madhu*
+- *madhūni* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -25,12 +25,12 @@ title = "Rig Veda 5.43.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *bharata* \< *bhṛ*
+- *bharata* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -39,32 +39,32 @@ title = "Rig Veda 5.43.3"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *śukram* \< *śukra*
+- *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm; śukra; śukraprameha; liquid; ejaculation.”
 ------------------------------------------------------------------------
-- *hoteva* \< *hotā* \< *hotṛ*
+- *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hoteva* \< *iva*
+- *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *pāhy* \< *pāhi* \< *pā*
+- *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 5.43.3"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* \< *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------

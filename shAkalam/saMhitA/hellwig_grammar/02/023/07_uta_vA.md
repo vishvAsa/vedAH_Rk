@@ -10,38 +10,38 @@ title = "Rig Veda 2.23.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *marcayād* \< *marcayāt* \< *marcay* \< *√mṛc*
+- *marcayād* ← *marcayāt* ← *marcay* ← *√mṛc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “harm.”
 ------------------------------------------------------------------------
-- *anāgaso* \< *anāgasaḥ* \< *anāgas*
+- *anāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], accusative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *'rātīvā* \< *arātīvā* \< *arātīvan*
+- *'rātīvā* ← *arātīvā* ← *arātīvan*
 - \[noun\], nominative, singular, masculine
 - “hostile.”
 ------------------------------------------------------------------------
-- *martaḥ* \< *marta*
+- *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *sānuko* \< *sānukaḥ* \< *sānuka*
+- *sānuko* ← *sānukaḥ* ← *sānuka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛkaḥ* \< *vṛka*
+- *vṛkaḥ* ← *vṛka*
 - \[noun\], nominative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -49,41 +49,41 @@ title = "Rig Veda 2.23.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vartayā* \< *vartay* \< *√vṛt*
+- *vartayā* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], ablative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *sugaṃ* \< *sugam* \< *suga*
+- *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyai* \< *idam*
+- *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *deva*
+- *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *vītaye* \< *vīti*
+- *devavītaye* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

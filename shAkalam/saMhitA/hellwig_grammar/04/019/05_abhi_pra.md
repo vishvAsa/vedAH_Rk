@@ -10,11 +10,11 @@ title = "Rig Veda 4.19.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dadrur* \< *dadruḥ* \< *dṛ*
+- *dadrur* ← *dadruḥ* ← *dṛ*
 - \[verb\], plural, Perfect indicative
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *janayo* \< *janayaḥ* \< *jani*
+- *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -22,13 +22,13 @@ title = "Rig Veda 4.19.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *garbhaṃ* \< *garbham* \< *garbha*
+- *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 4.19.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yayuḥ* \< *yā*
+- *yayuḥ* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -49,35 +49,35 @@ title = "Rig Veda 4.19.5"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *adrayaḥ* \< *adri*
+- *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *atarpayo* \< *atarpayaḥ* \< *tarpay* \< *√tṛp*
+- *atarpayo* ← *atarpayaḥ* ← *tarpay* ← *√tṛp*
 - \[verb\], singular, Imperfect
 - “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
 ------------------------------------------------------------------------
-- *visṛta* \< *visṛtaḥ* \< *visṛt*
+- *visṛta* ← *visṛtaḥ* ← *visṛt*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *ubja* \< *ubjaḥ* \< *ubj*
+- *ubja* ← *ubjaḥ* ← *ubj*
 - \[verb\], singular, Present injunctive
 - “oppress.”
 ------------------------------------------------------------------------
-- *ūrmīn* \< *ūrmi*
+- *ūrmīn* ← *ūrmi*
 - \[noun\], accusative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtāṃ* \< *vṛ*
+- *vṛtāṃ* ← *vṛ*
 - \[verb noun\], accusative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *ariṇā* \< *ariṇāḥ* \< *ri*
+- *ariṇā* ← *ariṇāḥ* ← *ri*
 - \[verb\], singular, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 4.19.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sindhūn* \< *sindhu*
+- *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------

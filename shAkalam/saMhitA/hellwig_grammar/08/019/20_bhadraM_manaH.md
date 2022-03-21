@@ -2,17 +2,17 @@
 title = "Rig Veda 8.19.20"
 
 +++
--   *bhadram* \< *bhadra*
+-   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -23,19 +23,19 @@ title = "Rig Veda 8.19.20"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vṛtratūrye* \< *vṛtratūrya*
+- *vṛtratūrye* ← *vṛtratūrya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *yenā* \< *yena* \< *yad*
+- *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samatsu* \< *samad*
+- *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *sāsahaḥ* \< *sah*
+- *sāsahaḥ* ← *sah*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -43,13 +43,13 @@ title = "Rig Veda 8.19.20"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *sthirā* \< *sthira*
+- *sthirā* ← *sthira*
 - \[noun\], accusative, plural, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *tanuhi* \< *tan*
+- *tanuhi* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -58,18 +58,18 @@ title = "Rig Veda 8.19.20"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *śardhatāṃ* \< *śardhatām* \< *śṛdh*
+- *śardhatāṃ* ← *śardhatām* ← *śṛdh*
 - \[verb noun\], genitive, plural
 ------------------------------------------------------------------------
-- *vanemā* \< *vanema* \< *van*
+- *vanemā* ← *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *abhiṣṭibhiḥ* \< *abhiṣṭi*
+- *abhiṣṭibhiḥ* ← *abhiṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------

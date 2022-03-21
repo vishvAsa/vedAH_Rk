@@ -6,11 +6,11 @@ title = "Rig Veda 3.36.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -18,7 +18,7 @@ title = "Rig Veda 3.36.9"
 - *mākir*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *etat* \< *etad*
+- *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -26,13 +26,13 @@ title = "Rig Veda 3.36.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṭhād* \< *ṣṭhāt* \< *sthā*
+- *ṣṭhād* ← *ṣṭhāt* ← *sthā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -41,20 +41,20 @@ title = "Rig Veda 3.36.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *vasu*
+- *vasupatiṃ* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasupatiṃ* \< *patim* \< *pati*
+- *vasupatiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -63,38 +63,38 @@ title = "Rig Veda 3.36.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *māhinaṃ* \< *māhinam* \< *māhina*
+- *māhinaṃ* ← *māhinam* ← *māhina*
 - \[noun\], nominative, singular, neuter
 - “mighty; large.”
 ------------------------------------------------------------------------
-- *datram* \< *dattra*
+- *datram* ← *dattra*
 - \[noun\], nominative, singular, neuter
 - “gift.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *taddharyaśva* \< *tat* \< *tad*
+- *taddharyaśva* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *taddharyaśva* \< *haryaśva*
+- *taddharyaśva* ← *haryaśva*
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
@@ -102,7 +102,7 @@ title = "Rig Veda 3.36.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yandhi* \< *yam*
+- *yandhi* ← *yam*
 - \[verb\], singular, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

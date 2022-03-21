@@ -2,40 +2,40 @@
 title = "Rig Veda 7.64.4"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *gartam* \< *garta*
+- *gartam* ← *garta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *takṣad* \< *takṣat* \< *takṣ*
+- *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *etam* \< *etad*
+- *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *ūrdhvāṃ* \< *ūrdhvām* \< *ūrdhva*
+- *ūrdhvāṃ* ← *ūrdhvām* ← *ūrdhva*
 - \[noun\], accusative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *dhītiṃ* \< *dhītim* \< *dhīti*
+- *dhītiṃ* ← *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *kṛṇavad* \< *kṛṇavat* \< *kṛ*
+- *kṛṇavad* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -46,7 +46,7 @@ title = "Rig Veda 7.64.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dhārayac* \< *dhārayat* \< *dhāray* \< *√dhṛ*
+- *dhārayac* ← *dhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
@@ -56,38 +56,38 @@ title = "Rig Veda 7.64.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ukṣethām* \< *ukṣ*
+- *ukṣethām* ← *ukṣ*
 - \[verb\], dual, Present imperative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rājānā* \< *rājan*
+- *rājānā* ← *rājan*
 - \[noun\], vocative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sukṣitīs* \< *su*
+- *sukṣitīs* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣitīs* \< *kṣitīḥ* \< *kṣiti*
+- *sukṣitīs* ← *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *tarpayethām* \< *tarpay* \< *√tṛp*
+- *tarpayethām* ← *tarpay* ← *√tṛp*
 - \[verb\], dual, Present imperative
 - “nourish; offer; nutrify; satisfy; gladden; replenish; fill.”
 ------------------------------------------------------------------------

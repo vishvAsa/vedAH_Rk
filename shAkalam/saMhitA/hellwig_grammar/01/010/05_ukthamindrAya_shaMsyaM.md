@@ -2,32 +2,32 @@
 title = "Rig Veda 1.10.5"
 
 +++
--   *uktham* \< *uktha*
+-   *uktham* ← *uktha*
 - \[noun\], nominative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śaṃsyaṃ* \< *śaṃsyam* \< *śaṃs*
+- *śaṃsyaṃ* ← *śaṃsyam* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *vardhanam* \< *vardhana*
+- *vardhanam* ← *vardhana*
 - \[noun\], nominative, singular, neuter
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *puruniṣṣidhe* \< *puru*
+- *puruniṣṣidhe* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruniṣṣidhe* \< *niṣṣidhe* \< *niṣṣidh*
+- *puruniṣṣidhe* ← *niṣṣidhe* ← *niṣṣidh*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *śakro* \< *śakraḥ* \< *śakra*
+- *śakro* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
@@ -35,19 +35,19 @@ title = "Rig Veda 1.10.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *suteṣu* \< *suta*
+- *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *ṇo* \< *ṇaḥ* \< *mad*
+- *ṇo* ← *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāraṇat* \< *ran*
+- *rāraṇat* ← *ran*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “rejoice.”
 ------------------------------------------------------------------------
-- *sakhyeṣu* \< *sakhya*
+- *sakhyeṣu* ← *sakhya*
 - \[noun\], locative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------

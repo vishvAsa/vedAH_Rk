@@ -2,20 +2,20 @@
 title = "Rig Veda 10.30.7"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtābhyo* \< *vṛtābhyaḥ* \< *vṛ*
+- *vṛtābhyo* ← *vṛtābhyaḥ* ← *vṛ*
 - \[verb noun\], dative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,16 +30,16 @@ title = "Rig Veda 10.30.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* \< *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------

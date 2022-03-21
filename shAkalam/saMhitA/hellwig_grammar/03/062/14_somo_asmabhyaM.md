@@ -2,19 +2,19 @@
 title = "Rig Veda 3.62.14"
 
 +++
--   *somo* \< *somaḥ* \< *soma*
+-   *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dvipade* \< *dvipad*
+- *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------
@@ -22,20 +22,20 @@ title = "Rig Veda 3.62.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *paśave* \< *paśu*
+- *paśave* ← *paśu*
 - \[noun\], dative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *anamīvā* \< *anamīvāḥ* \< *anamīva*
+- *anamīvā* ← *anamīvāḥ* ← *anamīva*
 - \[noun\], accusative, plural, feminine
 - “healthy; comfortable; beneficial.”
 ------------------------------------------------------------------------
-- *iṣas* \< *iṣ*
+- *iṣas* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

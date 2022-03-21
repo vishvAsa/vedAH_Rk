@@ -2,24 +2,24 @@
 title = "Rig Veda 8.98.1"
 
 +++
--   *indrāya* \< *indra*
+-   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *viprāya* \< *vipra*
+- *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *bṛhate* \< *bṛhat*
+- *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -29,21 +29,21 @@ title = "Rig Veda 8.98.1"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *dharmakṛte* \< *dharma*
+- *dharmakṛte* ← *dharma*
 - \[noun\], masculine
 - “Dharma; custom; dharma \[word\]; regulation; duty; Dharma; Dharma;
     Dharma; Dharma; law; law; peculiarity; justice.”
 ------------------------------------------------------------------------
-- *dharmakṛte* \< *kṛte* \< *kṛt*
+- *dharmakṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *vipaścite* \< *vipaścit*
+- *vipaścite* ← *vipaścit*
 - \[noun\], dative, singular, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *panasyave* \< *panasyu*
+- *panasyave* ← *panasyu*
 - \[noun\], dative, singular, masculine
 - “brilliant.”
 ------------------------------------------------------------------------

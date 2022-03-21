@@ -2,15 +2,15 @@
 title = "Rig Veda 1.170.3"
 
 +++
--   *kiṃ* \< *kim*
+-   *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhrātar* \< *bhrātṛ*
+- *bhrātar* ← *bhrātṛ*
 - \[noun\], vocative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.170.3"
 - \[noun\], vocative, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sann* \< *san* \< *as*
+- *sann* ← *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -31,13 +31,13 @@ title = "Rig Veda 1.170.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *manyase* \< *man*
+- *manyase* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -46,7 +46,7 @@ title = "Rig Veda 1.170.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -54,16 +54,16 @@ title = "Rig Veda 1.170.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *'smabhyam* \< *asmabhyam* \< *mad*
+- *'smabhyam* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -71,6 +71,6 @@ title = "Rig Veda 1.170.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ditsasi* \< *dits* \< *√dā*
+- *ditsasi* ← *dits* ← *√dā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

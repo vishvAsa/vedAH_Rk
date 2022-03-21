@@ -6,41 +6,41 @@ title = "Rig Veda 7.68.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *jurate* \< *jṛ*
+- *jurate* ← *jṛ*
 - \[verb noun\], dative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *bhūc* \< *bhūt* \< *bhū*
+- *bhūc* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *cyavānāya* \< *cyavāna*
+- *cyavānāya* ← *cyavāna*
 - \[noun\], dative, singular, masculine
 - “Cyavana.”
 ------------------------------------------------------------------------
-- *pratītyaṃ* \< *pratītyam* \< *pratītya*
+- *pratītyaṃ* ← *pratītyam* ← *pratītya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *havirde* \< *haviḥ* \< *havis*
+- *havirde* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *havirde* \< *de* \< *dā*
+- *havirde* ← *de* ← *dā*
 - \[noun\], dative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 7.68.6"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *varpa* \< *varpaḥ* \< *varpas*
+- *varpa* ← *varpaḥ* ← *varpas*
 - \[noun\], accusative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 7.68.6"
 - \[noun\], accusative, singular, neuter
 - “helpful; abiding.”
 ------------------------------------------------------------------------
-- *dhatthaḥ* \< *dhā*
+- *dhatthaḥ* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

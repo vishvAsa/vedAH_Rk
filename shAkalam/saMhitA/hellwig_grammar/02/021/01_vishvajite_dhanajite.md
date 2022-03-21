@@ -2,99 +2,99 @@
 title = "Rig Veda 2.21.1"
 
 +++
--   *viśvajite* \< *viśva*
+-   *viśvajite* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvajite* \< *jite* \< *jit*
+- *viśvajite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *dhanajite* \< *dhana*
+- *dhanajite* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanajite* \< *jite* \< *jit*
+- *dhanajite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *svarjite* \< *svar*
+- *svarjite* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarjite* \< *jite* \< *jit*
+- *svarjite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *satrājite* \< *satrā*
+- *satrājite* ← *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *satrājite* \< *jite* \< *jit*
+- *satrājite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *nṛjita* \< *nṛ*
+- *nṛjita* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛjita* \< *jite* \< *jit*
+- *nṛjita* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *urvarājite* \< *urvarā*
+- *urvarājite* ← *urvarā*
 - \[noun\], feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *urvarājite* \< *jite* \< *jit*
+- *urvarājite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *aśvajite* \< *aśva*
+- *aśvajite* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvajite* \< *jite* \< *jit*
+- *aśvajite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *gojite* \< *go*
+- *gojite* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gojite* \< *jite* \< *jit*
+- *gojite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *abjite* \< *ap*
+- *abjite* ← *ap*
 - \[noun\], masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *abjite* \< *jite* \< *jit*
+- *abjite* ← *jite* ← *jit*
 - \[noun\], dative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
-- *bharendrāya* \< *bhara* \< *bhṛ*
+- *bharendrāya* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bharendrāya* \< *indrāya* \< *indra*
+- *bharendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *yajatāya* \< *yajata*
+- *yajatāya* ← *yajata*
 - \[noun\], dative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *haryatam* \< *haryata*
+- *haryatam* ← *haryata*
 - \[noun\], accusative, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------

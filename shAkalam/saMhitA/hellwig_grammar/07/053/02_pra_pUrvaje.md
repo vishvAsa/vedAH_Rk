@@ -6,32 +6,32 @@ title = "Rig Veda 7.53.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūrvaje* \< *pūrva*
+- *pūrvaje* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvaje* \< *je* \< *ja*
+- *pūrvaje* ← *je* ← *ja*
 - \[noun\], accusative, dual, feminine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *navyasībhir* \< *navyasībhiḥ* \< *navyas*
+- *navyasībhir* ← *navyasībhiḥ* ← *navyas*
 - \[noun\], instrumental, plural, feminine
 - “new.”
 ------------------------------------------------------------------------
-- *gīrbhiḥ* \< *gir*
+- *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,12 +42,12 @@ title = "Rig Veda 7.53.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 7.53.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -63,16 +63,16 @@ title = "Rig Veda 7.53.2"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *daivyena* \< *daivya*
+- *daivyena* ← *daivya*
 - \[noun\], instrumental, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janena* \< *jana*
+- *janena* ← *jana*
 - \[noun\], instrumental, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -81,11 +81,11 @@ title = "Rig Veda 7.53.2"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], nominative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------

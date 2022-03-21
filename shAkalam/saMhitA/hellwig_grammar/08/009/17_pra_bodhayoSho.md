@@ -6,15 +6,15 @@ title = "Rig Veda 8.9.17"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bodhayoṣo* \< *bodhaya* \< *bodhay* \< *√budh*
+- *bodhayoṣo* ← *bodhaya* ← *bodhay* ← *√budh*
 - \[verb\], singular, Present imperative
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *bodhayoṣo* \< *uṣaḥ* \< *uṣas*
+- *bodhayoṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.9.17"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *sūnṛte* \< *sūnṛta*
+- *sūnṛte* ← *sūnṛta*
 - \[noun\], vocative, singular, feminine
 - “big; friendly.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 8.9.17"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajñahotar* \< *yajña*
+- *yajñahotar* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñahotar* \< *hotar* \< *hotṛ*
+- *yajñahotar* ← *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -54,13 +54,13 @@ title = "Rig Veda 8.9.17"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------

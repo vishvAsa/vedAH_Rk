@@ -2,25 +2,25 @@
 title = "Rig Veda 1.133.4"
 
 +++
--   *yāsāṃ* \< *yāsām* \< *yad*
+-   *yāsāṃ* ← *yāsām* ← *yad*
 - \[noun\], genitive, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tisraḥ* \< *tri*
+- *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *pañcāśato* \< *pañcāśataḥ* \< *pañcāśat*
+- *pañcāśato* ← *pañcāśataḥ* ← *pañcāśat*
 - \[noun\], accusative, plural, feminine
 - “fifty; pañcāśat \[word\].”
 ------------------------------------------------------------------------
-- *'bhivlaṅgair* \< *abhivlaṅgaiḥ* \< *abhivlaṅga*
+- *'bhivlaṅgair* ← *abhivlaṅgaiḥ* ← *abhivlaṅga*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *apāvapaḥ* \< *apavap* \< *√vap*
+- *apāvapaḥ* ← *apavap* ← *√vap*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -30,14 +30,14 @@ title = "Rig Veda 1.133.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manāyati* \< *manāy* \< *√man*
+- *manāyati* ← *manāy* ← *√man*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *takat* \< *taka*
+- *takat* ← *taka*
 - \[noun\], accusative, singular, neuter
 - “he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -45,10 +45,10 @@ title = "Rig Veda 1.133.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manāyati* \< *manāy* \< *√man*
+- *manāyati* ← *manāy* ← *√man*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

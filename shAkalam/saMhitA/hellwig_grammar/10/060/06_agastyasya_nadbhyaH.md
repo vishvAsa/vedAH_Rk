@@ -2,18 +2,18 @@
 title = "Rig Veda 10.60.6"
 
 +++
--   *agastyasya* \< *agastya*
+-   *agastyasya* ← *agastya*
 - \[noun\], genitive, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
 ------------------------------------------------------------------------
-- *nadbhyaḥ* \< *nadh*
+- *nadbhyaḥ* ← *nadh*
 - \[noun\], dative, plural, feminine
 ------------------------------------------------------------------------
-- *saptī* \< *sapti*
+- *saptī* ← *sapti*
 - \[noun\], accusative, dual, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *yunakṣi* \< *yuj*
+- *yunakṣi* ← *yuj*
 - \[verb\], singular, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -21,19 +21,19 @@ title = "Rig Veda 10.60.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *rohitā* \< *rohita*
+- *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *paṇīn* \< *paṇi*
+- *paṇīn* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *akramīr* \< *akramīḥ* \< *kram*
+- *akramīr* ← *akramīḥ* ← *kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
@@ -41,16 +41,16 @@ title = "Rig Veda 10.60.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *viśvān* \< *viśva*
+- *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *arādhasaḥ* \< *arādhas*
+- *arādhasaḥ* ← *arādhas*
 - \[noun\], accusative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------

@@ -2,61 +2,61 @@
 title = "Rig Veda 1.91.21"
 
 +++
--   *aṣāḍhaṃ* \< *aṣāḍham* \< *aṣāḍha*
+-   *aṣāḍhaṃ* ← *aṣāḍham* ← *aṣāḍha*
 - \[noun\], accusative, singular, masculine
 - “invincible.”
 ------------------------------------------------------------------------
-- *yutsu* \< *yudh*
+- *yutsu* ← *yudh*
 - \[noun\], locative, plural
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *papriṃ* \< *paprim* \< *papri*
+- *papriṃ* ← *paprim* ← *papri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svarṣām* \< *svarṣā*
+- *svarṣām* ← *svarṣā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apsāṃ* \< *ap*
+- *apsāṃ* ← *ap*
 - \[noun\]
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *apsāṃ* \< *sām* \< *sā*
+- *apsāṃ* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *vṛjanasya* \< *vṛjana*
+- *vṛjanasya* ← *vṛjana*
 - \[noun\], genitive, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *gopām* \< *gopā*
+- *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *bhareṣujāṃ* \< *bhareṣujām* \< *bhareṣujā*
+- *bhareṣujāṃ* ← *bhareṣujām* ← *bhareṣujā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *su*
+- *sukṣitiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- *sukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, masculine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *suśravasaṃ* \< *suśravasam* \< *suśravas*
+- *suśravasaṃ* ← *suśravasam* ← *suśravas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jayantaṃ* \< *jayantam* \< *ji*
+- *jayantaṃ* ← *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -64,7 +64,7 @@ title = "Rig Veda 1.91.21"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

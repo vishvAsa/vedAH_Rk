@@ -2,16 +2,16 @@
 title = "Rig Veda 3.52.1"
 
 +++
--   *dhānāvantaṃ* \< *dhānāvantam* \< *dhānāvat*
+-   *dhānāvantaṃ* ← *dhānāvantam* ← *dhānāvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *karambhiṇam* \< *karambhin*
+- *karambhiṇam* ← *karambhin*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apūpavantam* \< *apūpavat*
+- *apūpavantam* ← *apūpavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ukthinam* \< *ukthin*
+- *ukthinam* ← *ukthin*
 - \[noun\], accusative, singular, masculine
 - “laudatory.”
 ------------------------------------------------------------------------
@@ -24,12 +24,12 @@ title = "Rig Veda 3.52.1"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

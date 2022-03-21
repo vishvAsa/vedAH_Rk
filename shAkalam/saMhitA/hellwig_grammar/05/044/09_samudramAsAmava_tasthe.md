@@ -2,11 +2,11 @@
 title = "Rig Veda 5.44.9"
 
 +++
--   *samudram* \< *samudra*
+-   *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *āsām* \< *idam*
+- *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,13 +14,13 @@ title = "Rig Veda 5.44.9"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tasthe* \< *sthā*
+- *tasthe* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *agrimā* \< *agrima*
+- *agrimā* ← *agrima*
 - \[noun\], nominative, singular, feminine
 - “chief(a).”
 ------------------------------------------------------------------------
@@ -28,24 +28,24 @@ title = "Rig Veda 5.44.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *riṣyati* \< *riṣ*
+- *riṣyati* ← *riṣ*
 - \[verb\], singular, Present indikative
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *savanaṃ* \< *savanam* \< *savana*
+- *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], nominative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *yasminn* \< *yasmin* \< *yad*
+- *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āyatā* \< *āyam* \< *√yam*
+- *āyatā* ← *āyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “measure in length; measure in width; extend; spread; lengthen;
     unfold; broaden; measure; broaden.”
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
@@ -58,31 +58,31 @@ title = "Rig Veda 5.44.9"
 - \[noun\], nominative, singular, neuter
 - “heart.”
 ------------------------------------------------------------------------
-- *kravaṇasya* \< *kravaṇa*
+- *kravaṇasya* ← *kravaṇa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *rejate* \< *rej*
+- *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *matir* \< *matiḥ* \< *mati*
+- *matir* ← *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *vidyate* \< *vid*
+- *vidyate* ← *vid*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *pūtabandhanī* \< *pūta* \< *pū*
+- *pūtabandhanī* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtabandhanī* \< *bandhanī* \< *bandhana*
+- *pūtabandhanī* ← *bandhanī* ← *bandhana*
 - \[noun\], nominative, singular, feminine
 - “bandhana.”
 ------------------------------------------------------------------------

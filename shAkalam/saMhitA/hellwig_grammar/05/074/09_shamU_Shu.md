@@ -6,53 +6,53 @@ title = "Rig Veda 5.74.9"
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhūyuvāsmākam* \< *madhūyuvā* \< *madhūyu*
+- *madhūyuvāsmākam* ← *madhūyuvā* ← *madhūyu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *madhūyuvāsmākam* \< *asmākam* \< *mad*
+- *madhūyuvāsmākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *carkṛtiḥ* \< *carkṛti*
+- *carkṛtiḥ* ← *carkṛti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *arvācīnā* \< *arvācīna*
+- *arvācīnā* ← *arvācīna*
 - \[noun\], nominative, dual, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *vicetasā* \< *vicetas*
+- *vicetasā* ← *vicetas*
 - \[noun\], vocative, dual, masculine
 - “wise; diligent.”
 ------------------------------------------------------------------------
-- *vibhiḥ* \< *vi*
+- *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *śyeneva* \< *śyenā* \< *śyena*
+- *śyeneva* ← *śyenā* ← *śyena*
 - \[noun\], nominative, dual, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *śyeneva* \< *iva*
+- *śyeneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dīyatam* \< *dī*
+- *dīyatam* ← *dī*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------

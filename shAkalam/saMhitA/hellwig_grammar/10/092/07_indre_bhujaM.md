@@ -2,31 +2,31 @@
 title = "Rig Veda 10.92.7"
 
 +++
--   *indre* \< *indra*
+-   *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhujaṃ* \< *bhujam* \< *bhuj*
+- *bhujaṃ* ← *bhujam* ← *bhuj*
 - \[noun\], accusative, singular, feminine
 - “use; advantage; enjoyment.”
 ------------------------------------------------------------------------
-- *śaśamānāsa* \< *śaśamānāsaḥ* \< *śaśamāna*
+- *śaśamānāsa* ← *śaśamānāsaḥ* ← *śaśamāna*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *sūro* \< *\_* \< *√\_*
+- *sūro* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dṛśīke* \< *dṛśīka*
+- *dṛśīke* ← *dṛśīka*
 - \[noun\], locative, singular, neuter
 - “visual perception.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaś* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇaś* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 10.92.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pauṃsye* \< *pauṃsya*
+- *pauṃsye* ← *pauṃsya*
 - \[noun\], locative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
@@ -42,38 +42,38 @@ title = "Rig Veda 10.92.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asyārhaṇā* \< *asya* \< *idam*
+- *asyārhaṇā* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyārhaṇā* \< *arhaṇā* \< *arhaṇa*
+- *asyārhaṇā* ← *arhaṇā* ← *arhaṇa*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *tatakṣire* \< *takṣ*
+- *tatakṣire* ← *takṣ*
 - \[verb\], plural, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *yujaṃ* \< *yujam* \< *yuj*
+- *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *nṛṣadaneṣu* \< *nṛṣadana*
+- *nṛṣadaneṣu* ← *nṛṣadana*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *kāravaḥ* \< *kāru*
+- *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------

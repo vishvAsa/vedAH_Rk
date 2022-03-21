@@ -2,7 +2,7 @@
 title = "Rig Veda 1.37.9"
 
 +++
--   *sthiraṃ* \< *sthiram* \< *sthira*
+-   *sthiraṃ* ← *sthiram* ← *sthira*
 - \[noun\], nominative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
@@ -12,25 +12,25 @@ title = "Rig Veda 1.37.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *jānam* \< *jāna*
+- *jānam* ← *jāna*
 - \[noun\], nominative, singular, neuter
 - “birth.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *mātur* \< *mātuḥ* \< *mātṛ*
+- *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], ablative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *niretave* \< *niri* \< *√i*
+- *niretave* ← *niri* ← *√i*
 - \[verb noun\]
 - “issue; exit.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 1.37.9"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

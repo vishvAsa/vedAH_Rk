@@ -2,25 +2,25 @@
 title = "Rig Veda 9.77.2"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pūrvyaḥ* \< *pūrvya*
+- *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -28,22 +28,22 @@ title = "Rig Veda 9.77.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *mathāyad* \< *mathāyat* \< *mathāy* \< *√math*
+- *mathāyad* ← *mathāyat* ← *mathāy* ← *√math*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *iṣitas* \< *iṣitaḥ* \< *iṣ*
+- *iṣitas* ← *iṣitaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *rajaḥ* \< *rajas*
+- *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -52,45 +52,45 @@ title = "Rig Veda 9.77.2"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *madhva* \< *madhvaḥ* \< *madhu*
+- *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], ablative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ā* \< *āḥ* \< *as*
+- *ā* ← *āḥ* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yuvate* \< *yu*
+- *yuvate* ← *yu*
 - \[verb\], singular, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
-- *vevijāna* \< *vevijānaḥ* \< *vevij* \< *√vij*
+- *vevijāna* ← *vevijānaḥ* ← *vevij* ← *√vij*
 - \[verb noun\], nominative, singular
 - “quiver.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kṛśānor* \< *kṛśānoḥ* \< *kṛśānu*
+- *kṛśānor* ← *kṛśānoḥ* ← *kṛśānu*
 - \[noun\], ablative, singular, masculine
 - “fire; Agni; Plumbago zeylanica.”
 ------------------------------------------------------------------------
-- *astur* \< *astuḥ* \< *astṛ*
+- *astur* ← *astuḥ* ← *astṛ*
 - \[noun\], ablative, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
-- *manasāha* \< *manasā* \< *manas*
+- *manasāha* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manasāha* \< *aha*
+- *manasāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *bibhyuṣā* \< *bhī*
+- *bibhyuṣā* ← *bhī*
 - \[verb noun\], instrumental, singular
 - “fear; fear.”
 ------------------------------------------------------------------------

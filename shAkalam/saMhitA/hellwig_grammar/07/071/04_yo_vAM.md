@@ -2,48 +2,48 @@
 title = "Rig Veda 7.71.4"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *nṛpatī* \< *nṛpati*
+- *nṛpatī* ← *nṛpati*
 - \[noun\], vocative, dual, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *voﾱhā* \< *voḍhā* \< *voḍhṛ*
+- *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *trivandhuro* \< *tri*
+- *trivandhuro* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivandhuro* \< *vandhuraḥ* \< *vandhura*
+- *trivandhuro* ← *vandhuraḥ* ← *vandhura*
 - \[noun\], nominative, singular, masculine
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *vasumāṃ* \< *vasumat*
+- *vasumāṃ* ← *vasumat*
 - \[noun\], nominative, singular, masculine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
-- *usrayāmā* \< *usra*
+- *usrayāmā* ← *usra*
 - \[noun\], masculine
 - “beam; Asvins.”
 ------------------------------------------------------------------------
-- *usrayāmā* \< *yāmā* \< *yāman*
+- *usrayāmā* ← *yāmā* ← *yāman*
 - \[noun\], nominative, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
@@ -51,23 +51,23 @@ title = "Rig Veda 7.71.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nāsatyopa* \< *nāsatyā* \< *nāsatya*
+- *nāsatyopa* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyopa* \< *upa*
+- *nāsatyopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -76,19 +76,19 @@ title = "Rig Veda 7.71.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viśvapsnyo* \< *viśvapsnyaḥ* \< *viśvapsnya*
+- *viśvapsnyo* ← *viśvapsnyaḥ* ← *viśvapsnya*
 - \[noun\], nominative, singular, masculine
 - “alimentary.”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

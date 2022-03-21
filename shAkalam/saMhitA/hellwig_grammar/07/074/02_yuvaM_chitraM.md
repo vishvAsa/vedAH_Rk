@@ -2,48 +2,48 @@
 title = "Rig Veda 7.74.2"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *dadathur* \< *dadathuḥ* \< *dā*
+- *dadathur* ← *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *bhojanaṃ* \< *bhojanam* \< *bhojana*
+- *bhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *codethāṃ* \< *codethām* \< *cud*
+- *codethāṃ* ← *codethām* ← *cud*
 - \[verb\], dual, Present imperative
 - “urge; rush.”
 ------------------------------------------------------------------------
-- *sūnṛtāvate* \< *sūnṛtāvat*
+- *sūnṛtāvate* ← *sūnṛtāvat*
 - \[noun\], dative, singular, masculine
 - “happy; big; auspicious.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *samanasā* \< *samanas*
+- *samanasā* ← *samanas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
@@ -51,15 +51,15 @@ title = "Rig Veda 7.74.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yacchatam* \< *yam*
+- *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *pibataṃ* \< *pibatam* \< *pā*
+- *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------

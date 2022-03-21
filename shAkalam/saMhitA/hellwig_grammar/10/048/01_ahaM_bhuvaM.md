@@ -2,35 +2,35 @@
 title = "Rig Veda 10.48.1"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhuvaṃ* \< *bhuvam* \< *bhū*
+- *bhuvaṃ* ← *bhuvam* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vasunaḥ* \< *vasu*
+- *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *pūrvyas* \< *pūrvyaḥ* \< *pūrvya*
+- *pūrvyas* ← *pūrvyaḥ* ← *pūrvya*
 - \[noun\], nominative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhanāni* \< *dhana*
+- *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

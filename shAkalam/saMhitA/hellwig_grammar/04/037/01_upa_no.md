@@ -6,42 +6,42 @@ title = "Rig Veda 4.37.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yāta* \< *yā*
+- *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *pathibhir* \< *pathibhiḥ* \< *pathin*
+- *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *devayānaiḥ* \< *deva*
+- *devayānaiḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayānaiḥ* \< *yānaiḥ* \< *yāna*
+- *devayānaiḥ* ← *yānaiḥ* ← *yāna*
 - \[noun\], instrumental, plural, masculine
 - “vehicle; journey; campaign; carriage; vessel; cart.”
 ------------------------------------------------------------------------
@@ -49,35 +49,35 @@ title = "Rig Veda 4.37.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dadhidhve* \< *dhā*
+- *dadhidhve* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *raṇvāḥ* \< *raṇva*
+- *raṇvāḥ* ← *raṇva*
 - \[noun\], vocative, plural, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *sudineṣv* \< *sudineṣu* \< *sudina*
+- *sudineṣv* ← *sudineṣu* ← *sudina*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------

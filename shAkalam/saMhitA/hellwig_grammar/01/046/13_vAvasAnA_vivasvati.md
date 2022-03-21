@@ -2,31 +2,31 @@
 title = "Rig Veda 1.46.13"
 
 +++
--   *vāvasānā* \< *vas*
+-   *vāvasānā* ← *vas*
 - \[verb noun\], vocative, dual
 - “wear.”
 ------------------------------------------------------------------------
-- *vivasvati* \< *vivasvant*
+- *vivasvati* ← *vivasvant*
 - \[noun\], locative, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pītyā* \< *pītyāḥ* \< *pīti*
+- *pītyā* ← *pītyāḥ* ← *pīti*
 - \[noun\], genitive, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *manuṣvacchambhū* \< *manuṣvat*
+- *manuṣvacchambhū* ← *manuṣvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *manuṣvacchambhū* \< *śambhū* \< *śambhu*
+- *manuṣvacchambhū* ← *śambhū* ← *śambhu*
 - \[noun\], vocative, dual, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 1.46.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

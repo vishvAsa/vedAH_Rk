@@ -2,7 +2,7 @@
 title = "Rig Veda 7.18.11"
 
 +++
--   *ekaṃ* \< *ekam* \< *eka*
+-   *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -12,11 +12,11 @@ title = "Rig Veda 7.18.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viṃśatiṃ* \< *viṃśatim* \< *viṃśati*
+- *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
@@ -27,27 +27,27 @@ title = "Rig Veda 7.18.11"
 - *śravasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vaikarṇayor* \< *vaikarṇayoḥ* \< *vaikarṇa*
+- *vaikarṇayor* ← *vaikarṇayoḥ* ← *vaikarṇa*
 - \[noun\], genitive, dual, masculine
 ------------------------------------------------------------------------
-- *janān* \< *jana*
+- *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *astaḥ* \< *stṛ*
+- *astaḥ* ← *stṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *dasmo* \< *dasmaḥ* \< *dasma*
+- *dasmo* ← *dasmaḥ* ← *dasma*
 - \[noun\], nominative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
@@ -63,24 +63,24 @@ title = "Rig Veda 7.18.11"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśāti* \< *śā*
+- *śiśāti* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *śūraḥ* \< *śūra*
+- *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *sargam* \< *sarga*
+- *sargam* ← *sarga*
 - \[noun\], accusative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -91,12 +91,12 @@ title = "Rig Veda 7.18.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

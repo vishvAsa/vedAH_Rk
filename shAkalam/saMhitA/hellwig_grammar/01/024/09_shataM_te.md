@@ -2,11 +2,11 @@
 title = "Rig Veda 1.24.9"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,52 +14,52 @@ title = "Rig Veda 1.24.9"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *bhiṣajaḥ* \< *bhiṣaj*
+- *bhiṣajaḥ* ← *bhiṣaj*
 - \[noun\], nominative, plural, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], nominative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *gabhīrā* \< *gabhīra*
+- *gabhīrā* ← *gabhīra*
 - \[noun\], nominative, singular, feminine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
 ------------------------------------------------------------------------
-- *sumatiṣ* \< *sumatiḥ* \< *sumati*
+- *sumatiṣ* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *ṭe* \< *tvad*
+- *ṭe* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bādhasva* \< *bādh*
+- *bādhasva* ← *bādh*
 - \[verb\], singular, Present imperative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *nirṛtim* \< *nirṛti*
+- *nirṛtim* ← *nirṛti*
 - \[noun\], accusative, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *parācaiḥ* \< *parācais*
+- *parācaiḥ* ← *parācais*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛ*
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -70,11 +70,11 @@ title = "Rig Veda 1.24.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *enaḥ* \< *enas*
+- *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 1.24.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mumugdhy* \< *mumugdhi* \< *muc*
+- *mumugdhy* ← *mumugdhi* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -90,7 +90,7 @@ title = "Rig Veda 1.24.9"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

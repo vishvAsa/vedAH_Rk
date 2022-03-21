@@ -2,15 +2,15 @@
 title = "Rig Veda 7.95.5"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *juhvānā* \< *hu*
+- *juhvānā* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *yuṣmad* \< *yuṣmat* \< *tvad*
+- *yuṣmad* ← *yuṣmat* ← *tvad*
 - \[noun\], ablative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 7.95.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *namobhiḥ* \< *namas*
+- *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -26,21 +26,21 @@ title = "Rig Veda 7.95.5"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *sarasvati* \< *sarasvatī*
+- *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 7.95.5"
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *priyatame* \< *priyatama*
+- *priyatame* ← *priyatama*
 - \[noun\], locative, singular, neuter
 - “beloved; dearest.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -61,13 +61,13 @@ title = "Rig Veda 7.95.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stheyāma* \< *sthā*
+- *stheyāma* ← *sthā*
 - \[verb\], plural, Aorist optative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *śaraṇaṃ* \< *śaraṇam* \< *śaraṇa*
+- *śaraṇaṃ* ← *śaraṇam* ← *śaraṇa*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 7.95.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------

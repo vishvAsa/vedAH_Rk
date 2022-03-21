@@ -2,32 +2,32 @@
 title = "Rig Veda 4.2.5"
 
 +++
--   *gomāṃ* \< *gomat*
+-   *gomāṃ* ← *gomat*
 - \[noun\], nominative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'vimāṃ* \< *avimāṃ* \< *avimat*
+- *'vimāṃ* ← *avimāṃ* ← *avimat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvī* \< *aśvin*
+- *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “rich in horses; horsy.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *nṛvatsakhā* \< *nṛvat*
+- *nṛvatsakhā* ← *nṛvat*
 - \[noun\]
 - “rich in men.”
 ------------------------------------------------------------------------
-- *nṛvatsakhā* \< *sakhā* \< *sakhi*
+- *nṛvatsakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -39,13 +39,13 @@ title = "Rig Veda 4.2.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *apramṛṣyaḥ* \< *apramṛṣya*
+- *apramṛṣyaḥ* ← *apramṛṣya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *iﾱāvāṃ* \< *iḍāvat*
+- *iﾱāvāṃ* ← *iḍāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣo* \< *eṣaḥ* \< *etad*
+- *eṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -53,26 +53,26 @@ title = "Rig Veda 4.2.5"
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *prajāvān* \< *prajāvat*
+- *prajāvān* ← *prajāvat*
 - \[noun\], nominative, singular, masculine
 - “prolific.”
 ------------------------------------------------------------------------
-- *dīrgho* \< *dīrghaḥ* \< *dīrgha*
+- *dīrgho* ← *dīrghaḥ* ← *dīrgha*
 - \[noun\], nominative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *rayiḥ* \< *rayi*
+- *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *pṛthubudhnaḥ* \< *pṛthu*
+- *pṛthubudhnaḥ* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthubudhnaḥ* \< *budhnaḥ* \< *budhna*
+- *pṛthubudhnaḥ* ← *budhnaḥ* ← *budhna*
 - \[noun\], nominative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *sabhāvān* \< *sabhāvat*
+- *sabhāvān* ← *sabhāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

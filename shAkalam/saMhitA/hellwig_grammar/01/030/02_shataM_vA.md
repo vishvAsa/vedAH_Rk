@@ -2,7 +2,7 @@
 title = "Rig Veda 1.30.2"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -10,16 +10,16 @@ title = "Rig Veda 1.30.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śucīnāṃ* \< *śucīnām* \< *śuci*
+- *śucīnāṃ* ← *śucīnām* ← *śuci*
 - \[noun\], genitive, plural, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -27,14 +27,14 @@ title = "Rig Veda 1.30.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *samāśirām* \< *samāśir*
+- *samāśirām* ← *samāśir*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *ed* \< *ā*
+- *ed* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ed* \< *id*
+- *ed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 1.30.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nimnaṃ* \< *nimnam* \< *nimna*
+- *nimnaṃ* ← *nimnam* ← *nimna*
 - \[noun\], accusative, singular, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 1.30.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rīyate* \< *ri*
+- *rīyate* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------

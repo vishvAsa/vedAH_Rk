@@ -2,7 +2,7 @@
 title = "Rig Veda 8.19.12"
 
 +++
--   *viprasya* \< *vipra*
+-   *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -10,33 +10,33 @@ title = "Rig Veda 8.19.12"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *stuvataḥ* \< *stu*
+- *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *yaho* \< *yahu*
+- *yaho* ← *yahu*
 - \[noun\], vocative, singular, masculine
 - “offspring.”
 ------------------------------------------------------------------------
-- *makṣūtamasya* \< *makṣūtama*
+- *makṣūtamasya* ← *makṣūtama*
 - \[noun\], genitive, singular, masculine
 - “following.”
 ------------------------------------------------------------------------
-- *rātiṣu* \< *rāti*
+- *rātiṣu* ← *rāti*
 - \[noun\], locative, plural, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *avodevam* \< *avodeva*
+- *avodevam* ← *avodeva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *uparimartyaṃ* \< *uparimartyam* \< *uparimartya*
+- *uparimartyaṃ* ← *uparimartyam* ← *uparimartya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,15 +47,15 @@ title = "Rig Veda 8.19.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vividuṣo* \< *vividuṣaḥ* \< *vid*
+- *vividuṣo* ← *vividuṣaḥ* ← *vid*
 - \[verb noun\], genitive, singular
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *vacaḥ* \< *vacas*
+- *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------

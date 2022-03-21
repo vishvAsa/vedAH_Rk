@@ -2,7 +2,7 @@
 title = "Rig Veda 8.1.12"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,48 +10,48 @@ title = "Rig Veda 8.1.12"
 - \[adverb\]
 - “without; ṛte \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *abhiśriṣaḥ* \< *abhiśriṣ*
+- *abhiśriṣaḥ* ← *abhiśriṣ*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *jatrubhya* \< *jatrubhyaḥ* \< *jatru*
+- *jatrubhya* ← *jatrubhyaḥ* ← *jatru*
 - \[noun\], ablative, plural, masculine
 - “clavicle.”
 ------------------------------------------------------------------------
-- *ātṛdaḥ* \< *ātṛd* \< *√tṛd*
+- *ātṛdaḥ* ← *ātṛd* ← *√tṛd*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *saṃdhātā* \< *saṃdhātṛ*
+- *saṃdhātā* ← *saṃdhātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *saṃdhim* \< *saṃdhi*
+- *saṃdhim* ← *saṃdhi*
 - \[noun\], accusative, singular, masculine
 - “joint; articulation; peace; connection; Sandhi; transition;
     confluence.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *purūvasur* \< *purūvasuḥ* \< *purūvasu*
+- *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *iṣkartā* \< *iṣkartṛ*
+- *iṣkartā* ← *iṣkartṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vihrutam* \< *vihruta*
+- *vihrutam* ← *vihruta*
 - \[noun\], accusative, singular, neuter
 - “disjointed.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”

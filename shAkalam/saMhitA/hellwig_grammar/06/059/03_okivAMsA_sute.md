@@ -2,68 +2,68 @@
 title = "Rig Veda 6.59.3"
 
 +++
--   *okivāṃsā* \< *uc*
+-   *okivāṃsā* ← *uc*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *sacā*
+- *sacāṃ* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *aśvā* \< *aśva*
+- *aśvā* ← *aśva*
 - \[noun\], nominative, dual, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *saptī* \< *sapti*
+- *saptī* ← *sapti*
 - \[noun\], nominative, dual, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *ivādane* \< *iva*
+- *ivādane* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivādane* \< *adane* \< *adana*
+- *ivādane* ← *adane* ← *adana*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], accusative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *agnī* \< *agni*
+- *agnī* ← *agni*
 - \[noun\], accusative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *avaseha* \< *avasā* \< *avas*
+- *avaseha* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *avaseha* \< *iha*
+- *avaseha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *vajriṇā* \< *vajrin*
+- *vajriṇā* ← *vajrin*
 - \[noun\], ablative, dual, masculine
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devā* \< *deva*
+- *devā* ← *deva*
 - \[noun\], accusative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

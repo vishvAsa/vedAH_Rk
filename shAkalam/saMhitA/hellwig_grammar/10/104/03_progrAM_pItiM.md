@@ -2,38 +2,38 @@
 title = "Rig Veda 10.104.3"
 
 +++
--   *progrām* \< *pra*
+-   *progrām* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *progrām* \< *ugrām* \< *ugra*
+- *progrām* ← *ugrām* ← *ugra*
 - \[noun\], accusative, singular, feminine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *pītiṃ* \< *pītim* \< *pīti*
+- *pītiṃ* ← *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *vṛṣṇa* \< *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇa* ← *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *iyarmi* \< *ṛch*
+- *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *satyām* \< *satya*
+- *satyām* ← *satya*
 - \[noun\], accusative, singular, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *prayai* \< *prayā* \< *√yā*
+- *prayai* ← *prayā* ← *√yā*
 - \[verb noun\]
 - “go; depart; travel; enter (a state); repair to; advance; elapse;
     leave; drive; walk; disappear; die; heal.”
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 10.104.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 10.104.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhenābhir* \< *dhenābhiḥ* \< *dhenā*
+- *dhenābhir* ← *dhenābhiḥ* ← *dhenā*
 - \[noun\], instrumental, plural, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
@@ -58,21 +58,21 @@ title = "Rig Veda 10.104.3"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *mādayasva* \< *māday* \< *√mad*
+- *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *viśvābhiḥ* \< *viśva*
+- *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------

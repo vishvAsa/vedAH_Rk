@@ -2,11 +2,11 @@
 title = "Rig Veda 9.95.1"
 
 +++
--   *kanikranti* \< *kanikrad* \< *√krand*
+-   *kanikranti* ← *kanikrad* ← *√krand*
 - \[verb\], singular, Present indikative
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
@@ -14,37 +14,37 @@ title = "Rig Veda 9.95.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sṛjyamānaḥ* \< *sṛj*
+- *sṛjyamānaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sīdan* \< *sad*
+- *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *vanasya* \< *vana*
+- *vanasya* ← *vana*
 - \[noun\], genitive, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *jaṭhare* \< *jaṭhara*
+- *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yataḥ* \< *yam*
+- *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,31 +55,31 @@ title = "Rig Veda 9.95.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nirṇijaṃ* \< *nirṇijam* \< *nirṇij*
+- *nirṇijaṃ* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *matīr* \< *matīḥ* \< *mati*
+- *matīr* ← *matīḥ* ← *mati*
 - \[noun\], accusative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *janayata* \< *janay* \< *√jan*
+- *janayata* ← *janay* ← *√jan*
 - \[verb\], singular, Present injunctive
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *svadhābhiḥ* \< *svadhā*
+- *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”

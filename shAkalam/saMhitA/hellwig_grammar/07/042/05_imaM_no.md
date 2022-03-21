@@ -2,43 +2,43 @@
 title = "Rig Veda 7.42.5"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *marutsv* \< *marutsu* \< *marut*
+- *marutsv* ← *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *indre* \< *indra*
+- *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yaśasaṃ* \< *yaśasam* \< *yaśas*
+- *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -49,7 +49,7 @@ title = "Rig Veda 7.42.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -57,36 +57,36 @@ title = "Rig Veda 7.42.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *naktā* \< *nakta*
+- *naktā* ← *nakta*
 - \[noun\], nominative, plural, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sadatām* \< *sad*
+- *sadatām* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *uṣāsośantā* \< *uṣāsā* \< *uṣas*
+- *uṣāsośantā* ← *uṣāsā* ← *uṣas*
 - \[noun\], nominative, dual, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *uṣāsośantā* \< *uśantā* \< *vaś*
+- *uṣāsośantā* ← *uśantā* ← *vaś*
 - \[verb noun\], accusative, dual
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *yajeha* \< *yaja* \< *yaj*
+- *yajeha* ← *yaja* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *yajeha* \< *iha*
+- *yajeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------

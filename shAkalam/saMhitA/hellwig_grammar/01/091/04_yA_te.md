@@ -2,72 +2,72 @@
 title = "Rig Veda 1.91.4"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhāmāni* \< *dhāman*
+- *dhāmāni* ← *dhāman*
 - \[noun\], nominative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pṛthivyāṃ* \< *pṛthivyām* \< *pṛthivī*
+- *pṛthivyāṃ* ← *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *parvateṣv* \< *parvateṣu* \< *parvata*
+- *parvateṣv* ← *parvateṣu* ← *parvata*
 - \[noun\], locative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *oṣadhīṣv* \< *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣv* ← *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *tebhir* \< *tebhiḥ* \< *tad*
+- *tebhir* ← *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvaiḥ* \< *viśva*
+- *viśvaiḥ* ← *viśva*
 - \[noun\], instrumental, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sumanā* \< *sumanāḥ* \< *sumanas*
+- *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
-- *aheḍan* \< *a*
+- *aheḍan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aheḍan* \< *heḍan* \< *hīḍ*
+- *aheḍan* ← *heḍan* ← *hīḍ*
 - \[verb noun\], nominative, singular
 - “anger; stew.”
 ------------------------------------------------------------------------
@@ -83,11 +83,11 @@ title = "Rig Veda 1.91.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *gṛbhāya* \< *gṛbhāy* \< *√grah*
+- *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
 ------------------------------------------------------------------------

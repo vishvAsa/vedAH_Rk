@@ -2,23 +2,23 @@
 title = "Rig Veda 8.3.4"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣibhiḥ* \< *ṛṣi*
+- *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *sahaskṛtaḥ* \< *sahaskṛta*
+- *sahaskṛtaḥ* ← *sahaskṛta*
 - \[noun\], nominative, singular, masculine
 - “increased; aroused.”
 ------------------------------------------------------------------------
-- *samudra* \< *samudraḥ* \< *samudra*
+- *samudra* ← *samudraḥ* ← *samudra*
 - \[noun\], nominative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -26,45 +26,45 @@ title = "Rig Veda 8.3.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *paprathe* \< *prath*
+- *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *satyaḥ* \< *satya*
+- *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahimā* \< *mahiman*
+- *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *gṛṇe* \< *gṛ*
+- *gṛṇe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *śavo* \< *śavaḥ* \< *śavas*
+- *śavo* ← *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *viprarājye* \< *vipra*
+- *viprarājye* ← *vipra*
 - \[noun\], masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *viprarājye* \< *rājye* \< *rājya*
+- *viprarājye* ← *rājye* ← *rājya*
 - \[noun\], locative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------

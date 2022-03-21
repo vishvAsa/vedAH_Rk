@@ -2,48 +2,48 @@
 title = "Rig Veda 9.7.1"
 
 +++
--   *asṛgram* \< *sṛj*
+-   *asṛgram* ← *sṛj*
 - \[verb\], plural, Root aorist (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *dharmann* \< *dharman*
+- *dharmann* ← *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *suśriyaḥ* \< *su*
+- *suśriyaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśriyaḥ* \< *śriyaḥ* \< *śrī*
+- *suśriyaḥ* ← *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *vidānā* \< *vidānāḥ* \< *vid*
+- *vidānā* ← *vidānāḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yojanam* \< *yojana*
+- *yojanam* ← *yojana*
 - \[noun\], accusative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------

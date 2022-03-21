@@ -2,7 +2,7 @@
 title = "Rig Veda 8.66.15"
 
 +++
--   *soma* \< *somaḥ* \< *soma*
+-   *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -10,20 +10,20 @@ title = "Rig Veda 8.66.15"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kalayo* \< *kalayaḥ* \< *kali*
+- *kalayo* ← *kalayaḥ* ← *kali*
 - \[noun\], vocative, plural, masculine
 - “Kali; kali; discord; kali \[word\]; belleric myrobalan; trouble;
     quarrel.”
@@ -32,41 +32,41 @@ title = "Rig Veda 8.66.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *bibhītana* \< *bhī*
+- *bibhītana* ← *bhī*
 - \[verb\], plural, Present imperative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *aped* \< *apa*
+- *aped* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *aped* \< *id*
+- *aped* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *dhvasmāyati* \< *dhvasmā* \< *dhvasman*
+- *dhvasmāyati* ← *dhvasmā* ← *dhvasman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dhvasmāyati* \< *ayati* \< *i*
+- *dhvasmāyati* ← *ayati* ← *i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *svayaṃ* \< *svayam*
+- *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
 ------------------------------------------------------------------------
-- *ghaiṣo* \< *gha*
+- *ghaiṣo* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghaiṣo* \< *eṣaḥ* \< *etad*
+- *ghaiṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *apāyati* \< *ape* \< *√i*
+- *apāyati* ← *ape* ← *√i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “disappear; leave; deviate; want; dislodge.”
 ------------------------------------------------------------------------

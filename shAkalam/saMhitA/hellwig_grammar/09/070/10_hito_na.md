@@ -2,7 +2,7 @@
 title = "Rig Veda 9.70.10"
 
 +++
--   *hito* \< *hitaḥ* \< *hi*
+-   *hito* ← *hitaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saptir* \< *saptiḥ* \< *sapti*
+- *saptir* ← *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -18,25 +18,25 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arṣendrasyendo* \< *arṣa* \< *ṛṣ*
+- *arṣendrasyendo* ← *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *arṣendrasyendo* \< *indrasya* \< *indra*
+- *arṣendrasyendo* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *arṣendrasyendo* \< *indo* \< *indu*
+- *arṣendrasyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *jaṭharam* \< *jaṭhara*
+- *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *nāvā* \< *nau*
+- *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -64,16 +64,16 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *parṣi* \< *pṛ*
+- *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *vidvāñchūro* \< *vidvān* \< *vid*
+- *vidvāñchūro* ← *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vidvāñchūro* \< *śūraḥ* \< *śūra*
+- *vidvāñchūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -82,7 +82,7 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yudhyann* \< *yudhyan* \< *yudh*
+- *yudhyann* ← *yudhyan* ← *yudh*
 - \[verb noun\], nominative, singular
 - “fight; overcome.”
 ------------------------------------------------------------------------
@@ -90,14 +90,14 @@ title = "Rig Veda 9.70.10"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nida* \< *nidaḥ* \< *nid*
+- *nida* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *spaḥ* \< *spṛ*
+- *spaḥ* ← *spṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------

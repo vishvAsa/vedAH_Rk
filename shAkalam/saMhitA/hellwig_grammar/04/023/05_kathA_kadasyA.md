@@ -9,32 +9,32 @@ title = "Rig Veda 4.23.5"
 - *kad*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *martasya* \< *marta*
+- *martasya* ← *marta*
 - \[noun\], genitive, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *jujoṣa* \< *juṣ*
+- *jujoṣa* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -46,40 +46,40 @@ title = "Rig Veda 4.23.5"
 - *kad*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *sakhibhyo* \< *sakhibhyaḥ* \< *sakhi*
+- *sakhibhyo* ← *sakhibhyaḥ* ← *sakhi*
 - \[noun\], dative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kāmaṃ* \< *kāmam* \< *kāma*
+- *kāmaṃ* ← *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *suyujaṃ* \< *su*
+- *suyujaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyujaṃ* \< *yujam* \< *yuj*
+- *suyujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *tatasre* \< *taṃs*
+- *tatasre* ← *taṃs*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------

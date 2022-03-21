@@ -2,11 +2,11 @@
 title = "Rig Veda 9.87.7"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *suvānaḥ* \< *su*
+- *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 9.87.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *sargo* \< *sargaḥ* \< *sarga*
+- *sargo* ← *sargaḥ* ← *sarga*
 - \[noun\], nominative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
@@ -30,28 +30,28 @@ title = "Rig Veda 9.87.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sṛṣṭo* \< *sṛṣṭaḥ* \< *sṛj*
+- *sṛṣṭo* ← *sṛṣṭaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *adadhāvad* \< *adadhāvat* \< *dhāv*
+- *adadhāvad* ← *adadhāvat* ← *dhāv*
 - \[verb\], singular, Plusquamperfect
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *tigme* \< *tigma*
+- *tigme* ← *tigma*
 - \[noun\], accusative, dual, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *śiśāno* \< *śiśānaḥ* \< *śā*
+- *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
@@ -59,23 +59,23 @@ title = "Rig Veda 9.87.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śṛṅge* \< *śṛṅga*
+- *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gavyann* \< *gavyan* \< *gavyat*
+- *gavyann* ← *gavyan* ← *gavyat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śūro* \< *śūraḥ* \< *śūra*
+- *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -84,7 +84,7 @@ title = "Rig Veda 9.87.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satvā* \< *satvan*
+- *satvā* ← *satvan*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------

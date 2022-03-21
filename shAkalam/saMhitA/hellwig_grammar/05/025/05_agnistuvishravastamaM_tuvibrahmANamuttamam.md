@@ -2,20 +2,20 @@
 title = "Rig Veda 5.25.5"
 
 +++
--   *agnis* \< *agniḥ* \< *agni*
+-   *agnis* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tuviśravastamaṃ* \< *tuvi*
+- *tuviśravastamaṃ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuviśravastamaṃ* \< *śravastamam* \< *śravastama*
+- *tuviśravastamaṃ* ← *śravastamam* ← *śravastama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tuvibrahmāṇam* \< *tuvi*
+- *tuvibrahmāṇam* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------

@@ -2,29 +2,29 @@
 title = "Rig Veda 10.150.5"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *atrim* \< *atri*
+- *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *bharadvājaṃ* \< *bharadvājam* \< *bharadvāja*
+- *bharadvājaṃ* ← *bharadvājam* ← *bharadvāja*
 - \[noun\], accusative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *gaviṣṭhiram* \< *gaviṣṭhira*
+- *gaviṣṭhiram* ← *gaviṣṭhira*
 - \[noun\], accusative, singular, masculine
 - “Gaviṣṭhira.”
 ------------------------------------------------------------------------
-- *prāvan* \< *prāvat* \< *prāv* \< *√av*
+- *prāvan* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

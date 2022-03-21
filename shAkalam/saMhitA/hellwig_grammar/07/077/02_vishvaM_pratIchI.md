@@ -2,16 +2,16 @@
 title = "Rig Veda 7.77.2"
 
 +++
--   *viśvam* \< *viśva*
+-   *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pratīcī* \< *pratyañc*
+- *pratīcī* ← *pratyañc*
 - \[noun\], nominative, singular, feminine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *saprathā* \< *saprathāḥ* \< *saprathas*
+- *saprathā* ← *saprathāḥ* ← *saprathas*
 - \[noun\], nominative, singular, feminine
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------
@@ -19,73 +19,73 @@ title = "Rig Veda 7.77.2"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *asthād* \< *asthāt* \< *sthā*
+- *asthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ruśad* \< *ruśat*
+- *ruśad* ← *ruśat*
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *vāso* \< *vāsaḥ* \< *vāsas*
+- *vāso* ← *vāsaḥ* ← *vāsas*
 - \[noun\], accusative, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *bibhratī* \< *bhṛ*
+- *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *śukram* \< *śukra*
+- *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *aśvait* \< *śvit*
+- *aśvait* ← *śvit*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇā* \< *hiraṇya*
+- *hiraṇyavarṇā* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇā* \< *varṇā* \< *varṇa*
+- *hiraṇyavarṇā* ← *varṇā* ← *varṇa*
 - \[noun\], nominative, singular, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *sudṛśīkasaṃdṛg* \< *su*
+- *sudṛśīkasaṃdṛg* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudṛśīkasaṃdṛg* \< *dṛśīka*
+- *sudṛśīkasaṃdṛg* ← *dṛśīka*
 - \[noun\]
 - “beautiful.”
 ------------------------------------------------------------------------
-- *sudṛśīkasaṃdṛg* \< *saṃdṛś*
+- *sudṛśīkasaṃdṛg* ← *saṃdṛś*
 - \[noun\], nominative, singular, feminine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *netry* \< *netrī* \< *netṛ*
+- *netry* ← *netrī* ← *netṛ*
 - \[noun\], nominative, singular, feminine
 - “leader.”
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *aroci* \< *ruc*
+- *aroci* ← *ruc*
 - \[verb\], singular, Aorist passive
 - “please; shine.”
 ------------------------------------------------------------------------

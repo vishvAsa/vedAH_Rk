@@ -6,17 +6,17 @@ title = "Rig Veda 1.25.5"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *kṣatraśriyaṃ* \< *kṣatra*
+- *kṣatraśriyaṃ* ← *kṣatra*
 - \[noun\], neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *kṣatraśriyaṃ* \< *śriyam* \< *śrī*
+- *kṣatraśriyaṃ* ← *śriyam* ← *śrī*
 - \[noun\], accusative, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *naram* \< *nara*
+- *naram* ← *nara*
 - \[noun\], accusative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
@@ -25,12 +25,12 @@ title = "Rig Veda 1.25.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *varuṇaṃ* \< *varuṇam* \< *varuṇa*
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *karāmahe* \< *kṛ*
+- *karāmahe* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,15 +41,15 @@ title = "Rig Veda 1.25.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mṛḍīkāyorucakṣasam* \< *mṛḍīkāya* \< *mṛḍīka*
+- *mṛḍīkāyorucakṣasam* ← *mṛḍīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *mṛḍīkāyorucakṣasam* \< *uru*
+- *mṛḍīkāyorucakṣasam* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *mṛḍīkāyorucakṣasam* \< *cakṣasam* \< *cakṣas*
+- *mṛḍīkāyorucakṣasam* ← *cakṣasam* ← *cakṣas*
 - \[noun\], accusative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------

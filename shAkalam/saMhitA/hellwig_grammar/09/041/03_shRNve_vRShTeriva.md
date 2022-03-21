@@ -2,11 +2,11 @@
 title = "Rig Veda 9.41.3"
 
 +++
--   *śṛṇve* \< *śru*
+-   *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vṛṣṭer* \< *vṛṣṭeḥ* \< *vṛṣṭi*
+- *vṛṣṭer* ← *vṛṣṭeḥ* ← *vṛṣṭi*
 - \[noun\], genitive, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
@@ -14,29 +14,29 @@ title = "Rig Veda 9.41.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svanaḥ* \< *svana*
+- *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *pavamānasya* \< *pū*
+- *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *śuṣmiṇaḥ* \< *śuṣmin*
+- *śuṣmiṇaḥ* ← *śuṣmin*
 - \[noun\], genitive, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *vidyuto* \< *vidyutaḥ* \< *vidyut*
+- *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

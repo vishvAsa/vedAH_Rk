@@ -2,13 +2,13 @@
 title = "Rig Veda 5.26.4"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *viśvebhir* \< *viśvebhiḥ* \< *viśva*
+- *viśvebhir* ← *viśvebhiḥ* \< *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

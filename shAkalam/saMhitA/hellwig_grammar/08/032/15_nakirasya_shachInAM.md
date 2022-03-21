@@ -6,19 +6,19 @@ title = "Rig Veda 8.32.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śacīnāṃ* \< *śacīnām* \< *śacī*
+- *śacīnāṃ* ← *śacīnām* ← *śacī*
 - \[noun\], genitive, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *niyantā* \< *niyantṛ*
+- *niyantā* ← *niyantṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer; driver.”
 ------------------------------------------------------------------------
-- *sūnṛtānām* \< *sūnṛtā*
+- *sūnṛtānām* ← *sūnṛtā*
 - \[noun\], genitive, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 8.32.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vaktā* \< *vac*
+- *vaktā* ← *vac*
 - \[verb\], singular, periphrast. future
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -37,7 +37,7 @@ title = "Rig Veda 8.32.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dād* \< *dāt* \< *dā*
+- *dād* ← *dāt* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

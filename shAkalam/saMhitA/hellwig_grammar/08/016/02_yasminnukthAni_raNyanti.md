@@ -2,19 +2,19 @@
 title = "Rig Veda 8.16.2"
 
 +++
--   *yasminn* \< *yasmin* \< *yad*
+-   *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ukthāni* \< *uktha*
+- *ukthāni* ← *uktha*
 - \[noun\], nominative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *raṇyanti* \< *ran*
+- *raṇyanti* ← *ran*
 - \[verb\], plural, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -23,15 +23,15 @@ title = "Rig Veda 8.16.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śravasyā* \< *śravasya*
+- *śravasyā* ← *śravasya*
 - \[noun\], instrumental, singular, neuter
 - “fame; deed.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 8.16.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------

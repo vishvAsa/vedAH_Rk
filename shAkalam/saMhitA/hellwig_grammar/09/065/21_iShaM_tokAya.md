@@ -2,24 +2,24 @@
 title = "Rig Veda 9.65.21"
 
 +++
--   *iṣaṃ* \< *iṣam* \< *iṣ*
+-   *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dadhad* \< *dadhat* \< *dhā*
+- *dadhad* ← *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 9.65.21"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 9.65.21"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sahasriṇam* \< *sahasrin*
+- *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------

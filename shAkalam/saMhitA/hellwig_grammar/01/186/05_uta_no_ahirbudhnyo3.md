@@ -6,22 +6,22 @@ title = "Rig Veda 1.186.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'hir* \< *ahiḥ* \< *ahi*
+- *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnyo* \< *budhnyaḥ* \< *budhnya*
+- *budhnyo* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *mayas* \< *mayaḥ* \< *mayas*
+- *mayas* ← *mayaḥ* ← *mayas*
 - \[noun\], accusative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,7 +32,7 @@ title = "Rig Veda 1.186.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śiśuṃ* \< *śiśum* \< *śiśu*
+- *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -40,56 +40,56 @@ title = "Rig Veda 1.186.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pipyuṣīva* \< *pipyuṣī* \< *pyā*
+- *pipyuṣīva* ← *pipyuṣī* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *pipyuṣīva* \< *iva*
+- *pipyuṣīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *sindhuḥ* \< *sindhu*
+- *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *napātam* \< *napāt*
+- *napātam* ← *napāt*
 - \[noun\], accusative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *junāma* \< *jū*
+- *junāma* ← *jū*
 - \[verb\], plural, Present injunctive
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *manojuvo* \< *manaḥ* \< *manas*
+- *manojuvo* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manojuvo* \< *juvaḥ* \< *jū*
+- *manojuvo* ← *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

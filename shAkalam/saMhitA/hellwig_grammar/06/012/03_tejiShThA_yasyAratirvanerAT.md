@@ -2,21 +2,21 @@
 title = "Rig Veda 6.12.3"
 
 +++
--   *tejiṣṭhā* \< *tejiṣṭha*
+-   *tejiṣṭhā* ← *tejiṣṭha*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yasyāratir* \< *yasya* \< *yad*
+- *yasyāratir* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāratir* \< *aratiḥ* \< *arati*
+- *yasyāratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, feminine
 - “dissatisfaction; anaphrodisia; languor; coldness.”
 ------------------------------------------------------------------------
-- *vanerāṭ* \< *vanerāj*
+- *vanerāṭ* ← *vanerāj*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *todo* \< *todaḥ* \< *toda*
+- *todo* ← *todaḥ* ← *toda*
 - \[noun\], nominative, singular, masculine
 - “toda; ache; prickling.”
 ------------------------------------------------------------------------
@@ -29,16 +29,16 @@ title = "Rig Veda 6.12.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛdhasāno* \< *vṛdhasānaḥ* \< *vṛdh*
+- *vṛdhasāno* ← *vṛdhasānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *adyaut* \< *dyut*
+- *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *adrogho* \< *adroghaḥ* \< *adrogha*
+- *adrogho* ← *adroghaḥ* ← *adrogha*
 - \[noun\], nominative, singular, masculine
 - “sincere; truthful.”
 ------------------------------------------------------------------------
@@ -46,25 +46,25 @@ title = "Rig Veda 6.12.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dravitā* \< *dravitṛ*
+- *dravitā* ← *dravitṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *cetati* \< *cit*
+- *cetati* ← *cit*
 - \[verb\], singular, Present indikative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *tmann* \< *tman*
+- *tmann* ← *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *amartyo* \< *amartyaḥ* \< *amartya*
+- *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *'vartra* \< *avartraḥ* \< *avartra*
+- *'vartra* ← *avartraḥ* ← *avartra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------

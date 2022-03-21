@@ -2,23 +2,23 @@
 title = "Rig Veda 1.139.3"
 
 +++
--   *yuvāṃ* \< *yuvām* \< *tvad*
+-   *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *aśvināśrāvayanta* \< *aśvinā* \< *aśvin*
+- *aśvināśrāvayanta* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvināśrāvayanta* \< *aśrāvayanta* \< *śrāvay* \< *√śru*
+- *aśvināśrāvayanta* ← *aśrāvayanta* ← *śrāvay* ← *√śru*
 - \[verb\], plural, Imperfect
 - “tell.”
 ------------------------------------------------------------------------
@@ -26,33 +26,33 @@ title = "Rig Veda 1.139.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *āyavo* \< *āyavaḥ* \< *āyu*
+- *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yuvāṃ* \< *yuvām* \< *tvad*
+- *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *havyābhy* \< *havyā* \< *havya*
+- *havyābhy* ← *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyābhy* \< *abhi*
+- *havyābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *āyavaḥ* \< *āyu*
+- *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -61,13 +61,13 @@ title = "Rig Veda 1.139.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śriyaḥ* \< *śrī*
+- *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *pṛkṣaś* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣaś* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], nominative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
@@ -75,40 +75,40 @@ title = "Rig Veda 1.139.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvavedasā* \< *viśva*
+- *viśvavedasā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasā* \< *vedasā* \< *vedas*
+- *viśvavedasā* ← *vedasā* ← *vedas*
 - \[noun\], vocative, dual, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *pruṣāyante* \< *pruṣāy* \< *√pruṣ*
+- *pruṣāyante* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], plural, Present indikative
 - “sprinkle.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pavayo* \< *pavayaḥ* \< *pavi*
+- *pavayo* ← *pavayaḥ* ← *pavi*
 - \[noun\], nominative, plural, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
-- *hiraṇyaye* \< *hiraṇyaya*
+- *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *hiraṇyaye* \< *hiraṇyaya*
+- *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------

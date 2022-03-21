@@ -2,63 +2,63 @@
 title = "Rig Veda 1.117.11"
 
 +++
--   *sūnor* \< *sūnoḥ* \< *sūnu*
+-   *sūnor* ← *sūnoḥ* ← *sūnu*
 - \[noun\], genitive, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *mānenāśvinā* \< *mānena* \< *māna*
+- *mānenāśvinā* ← *mānena* ← *māna*
 - \[noun\], instrumental, singular, masculine
 - “arrogance; honor; reverence; obedience; notion; conceit.”
 ------------------------------------------------------------------------
-- *mānenāśvinā* \< *aśvinā* \< *aśvin*
+- *mānenāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gṛṇānā* \< *gṛ*
+- *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *viprāya* \< *vipra*
+- *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *bhuraṇā* \< *bhuraṇa*
+- *bhuraṇā* ← *bhuraṇa*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *radantā* \< *rad*
+- *radantā* ← *rad*
 - \[verb noun\], nominative, dual
 - “dig.”
 ------------------------------------------------------------------------
-- *agastye* \< *agastya*
+- *agastye* ← *agastya*
 - \[noun\], locative, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vāvṛdhānā* \< *vṛdh*
+- *vāvṛdhānā* ← *vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *viśpalāṃ* \< *viśpalām* \< *viśpalā*
+- *viśpalāṃ* ← *viśpalām* ← *viśpalā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *nāsatyāriṇītam* \< *nāsatyā* \< *nāsatya*
+- *nāsatyāriṇītam* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyāriṇītam* \< *ariṇītam* \< *ri*
+- *nāsatyāriṇītam* ← *ariṇītam* ← *ri*
 - \[verb\], dual, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------

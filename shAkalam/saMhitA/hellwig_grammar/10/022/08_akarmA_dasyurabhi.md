@@ -2,11 +2,11 @@
 title = "Rig Veda 10.22.8"
 
 +++
--   *akarmā* \< *akarman*
+-   *akarmā* ← *akarman*
 - \[noun\], nominative, singular, masculine
 - “evil.”
 ------------------------------------------------------------------------
-- *dasyur* \< *dasyuḥ* \< *dasyu*
+- *dasyur* ← *dasyuḥ* ← *dasyu*
 - \[noun\], nominative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 10.22.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* \< *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

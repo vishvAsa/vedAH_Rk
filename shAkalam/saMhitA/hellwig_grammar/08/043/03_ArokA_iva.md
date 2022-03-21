@@ -2,17 +2,17 @@
 title = "Rig Veda 8.43.3"
 
 +++
--   *ārokā* \< *ārokāḥ* \< *āroka*
+-   *ārokā* ← *ārokāḥ* ← *āroka*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -20,33 +20,33 @@ title = "Rig Veda 8.43.3"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *tigmā* \< *tigmāḥ* \< *tigma*
+- *tigmā* ← *tigmāḥ* ← *tigma*
 - \[noun\], nominative, plural, feminine
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tviṣaḥ* \< *tviṣ*
+- *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, feminine
 - “beam; color; beauty.”
 ------------------------------------------------------------------------
-- *dadbhir* \< *dadbhiḥ* \< *dat*
+- *dadbhir* ← *dadbhiḥ* ← *dat*
 - \[noun\], instrumental, plural, masculine
 - “tooth; dat \[word\].”
 ------------------------------------------------------------------------
-- *vanāni* \< *vana*
+- *vanāni* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *bapsati* \< *bhas*
+- *bapsati* ← *bhas*
 - \[verb\], plural, Present indikative
 - “chew; snatch.”
 ------------------------------------------------------------------------

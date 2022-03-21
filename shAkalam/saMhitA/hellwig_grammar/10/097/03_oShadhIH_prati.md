@@ -2,7 +2,7 @@
 title = "Rig Veda 10.97.3"
 
 +++
--   *oṣadhīḥ* \< *oṣadhī*
+-   *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], vocative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 10.97.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *modadhvam* \< *mud*
+- *modadhvam* ← *mud*
 - \[verb\], plural, Present imperative
 - “rejoice; delight; revel.”
 ------------------------------------------------------------------------
-- *puṣpavatīḥ* \< *puṣpavat*
+- *puṣpavatīḥ* ← *puṣpavat*
 - \[noun\], nominative, plural, feminine
 - “menstruating; blooming; flowering.”
 ------------------------------------------------------------------------
-- *prasūvarīḥ* \< *\_* \< *√\_*
+- *prasūvarīḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *aśvā* \< *aśvāḥ* \< *aśva*
+- *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -30,18 +30,18 @@ title = "Rig Veda 10.97.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sajitvarīr* \< *sa*
+- *sajitvarīr* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sajitvarīr* \< *jitvarīḥ* \< *jitvan*
+- *sajitvarīr* ← *jitvarīḥ* ← *jitvan*
 - \[noun\], nominative, plural, feminine
 - “victorious.”
 ------------------------------------------------------------------------
-- *vīrudhaḥ* \< *vīrudh*
+- *vīrudhaḥ* ← *vīrudh*
 - \[noun\], nominative, plural, feminine
 - “plant; shrub.”
 ------------------------------------------------------------------------
-- *pārayiṣṇvaḥ* \< *pārayiṣṇu*
+- *pārayiṣṇvaḥ* ← *pārayiṣṇu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

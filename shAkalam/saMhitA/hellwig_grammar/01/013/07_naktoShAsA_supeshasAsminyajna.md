@@ -5,15 +5,15 @@ title = "Rig Veda 1.13.7"
 -   *naktoṣāsā*
 - \[noun\], accusative, dual, feminine
 ------------------------------------------------------------------------
-- *supeśasāsmin* \< *supeśasā* \< *supeśas*
+- *supeśasāsmin* ← *supeśasā* ← *supeśas*
 - \[noun\], accusative, dual, feminine
 - “beautiful; fine-looking.”
 ------------------------------------------------------------------------
-- *supeśasāsmin* \< *asmin* \< *idam*
+- *supeśasāsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajña* \< *yajñe* \< *yajña*
+- *yajña* ← *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -21,23 +21,23 @@ title = "Rig Veda 1.13.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *hvaye* \< *hvā*
+- *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *āsade* \< *āsad* \< *√sad*
+- *āsade* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

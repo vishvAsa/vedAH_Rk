@@ -2,15 +2,15 @@
 title = "Rig Veda 9.5.10"
 
 +++
--   *vanaspatim* \< *vanaspati*
+-   *vanaspatim* ← *vanaspati*
 - \[noun\], accusative, singular, feminine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -18,31 +18,31 @@ title = "Rig Veda 9.5.10"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aṅgdhi* \< *añj*
+- *aṅgdhi* ← *añj*
 - \[verb\], singular, Present imperative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *sahasravalśaṃ* \< *sahasra*
+- *sahasravalśaṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasravalśaṃ* \< *valśam* \< *valśa*
+- *sahasravalśaṃ* ← *valśam* ← *valśa*
 - \[noun\], accusative, singular, masculine
 - “branch.”
 ------------------------------------------------------------------------
-- *haritam* \< *harita*
+- *haritam* ← *harita*
 - \[noun\], accusative, singular, masculine
 - “green; yellow; fresh; harita \[word\]; green.”
 ------------------------------------------------------------------------
-- *bhrājamānaṃ* \< *bhrājamānam* \< *bhrāj*
+- *bhrājamānaṃ* ← *bhrājamānam* ← *bhrāj*
 - \[verb noun\], accusative, singular
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------

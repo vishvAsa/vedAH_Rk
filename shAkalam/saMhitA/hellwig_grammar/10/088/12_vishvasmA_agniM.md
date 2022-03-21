@@ -2,40 +2,40 @@
 title = "Rig Veda 10.88.12"
 
 +++
--   *viśvasmā* \< *viśvasmai* \< *viśva*
+-   *viśvasmā* ← *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bhuvanāya* \< *bhuvana*
+- *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vaiśvānaraṃ* \< *vaiśvānaram* \< *vaiśvānara*
+- *vaiśvānaraṃ* ← *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *ketum* \< *ketu*
+- *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *akṛṇvan* \< *kṛ*
+- *akṛṇvan* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,46 +50,46 @@ title = "Rig Veda 10.88.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tatānoṣaso* \< *tatāna* \< *tan*
+- *tatānoṣaso* ← *tatāna* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *tatānoṣaso* \< *uṣasaḥ* \< *uṣas*
+- *tatānoṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vibhātīr* \< *vibhātīḥ* \< *vibhā* \< *√bhā*
+- *vibhātīr* ← *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], accusative, plural
 - “shine.”
 ------------------------------------------------------------------------
-- *apo* \< *apa*
+- *apo* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apo* \< *u*
+- *apo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ūrṇoti* \< *vṛ*
+- *ūrṇoti* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *arciṣā* \< *arcis*
+- *arciṣā* ← *arcis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; light; beam; gleam; shininess.”
 ------------------------------------------------------------------------
-- *yan* \< *i*
+- *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

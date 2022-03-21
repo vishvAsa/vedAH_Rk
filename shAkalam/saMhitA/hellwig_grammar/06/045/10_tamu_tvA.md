@@ -2,7 +2,7 @@
 title = "Rig Veda 6.45.10"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,7 +12,7 @@ title = "Rig Veda 6.45.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -20,11 +20,11 @@ title = "Rig Veda 6.45.10"
 - \[noun\], vocative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
@@ -33,20 +33,20 @@ title = "Rig Veda 6.45.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vājānām* \< *vāja*
+- *vājānām* ← *vāja*
 - \[noun\], genitive, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ahūmahi* \< *hvā*
+- *ahūmahi* ← *hvā*
 - \[verb\], plural, Root aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *śravasyavaḥ* \< *śravasyu*
+- *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------

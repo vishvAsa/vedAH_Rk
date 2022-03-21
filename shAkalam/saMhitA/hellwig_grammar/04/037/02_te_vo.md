@@ -2,35 +2,35 @@
 title = "Rig Veda 4.37.2"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *hṛde* \< *hṛd*
+- *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *manase* \< *manas*
+- *manase* ← *manas*
 - \[noun\], dative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yajñā* \< *yajñāḥ* \< *yajña*
+- *yajñā* ← *yajñāḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *juṣṭāso* \< *juṣṭāsaḥ* \< *juṣ*
+- *juṣṭāso* ← *juṣṭāsaḥ* ← *juṣ*
 - \[verb noun\], nominative, plural
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -39,15 +39,15 @@ title = "Rig Veda 4.37.2"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *ghṛtanirṇijo* \< *ghṛta*
+- *ghṛtanirṇijo* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtanirṇijo* \< *nirṇijaḥ* \< *nirṇij*
+- *ghṛtanirṇijo* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], nominative, plural, masculine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *guḥ* \< *gā*
+- *guḥ* ← *gā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -55,36 +55,36 @@ title = "Rig Veda 4.37.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sutāso* \< *sutāsaḥ* \< *suta*
+- *sutāso* ← *sutāsaḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *harayanta* \< *haray*
+- *harayanta* ← *haray*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *pūrṇāḥ* \< *pṛ*
+- *pūrṇāḥ* ← *pṛ*
 - \[verb noun\], nominative, plural
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *kratve* \< *kratu*
+- *kratve* ← *kratu*
 - \[noun\], dative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *dakṣāya* \< *dakṣa*
+- *dakṣāya* ← *dakṣa*
 - \[noun\], dative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *harṣayanta* \< *harṣay* \< *√hṛṣ*
+- *harṣayanta* ← *harṣay* ← *√hṛṣ*
 - \[verb\], plural, Present injunctive
 - “gladden; stimulate; rejoice.”
 ------------------------------------------------------------------------
-- *pītāḥ* \< *pā*
+- *pītāḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

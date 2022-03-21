@@ -2,27 +2,27 @@
 title = "Rig Veda 10.66.7"
 
 +++
--   *agnīṣomā* \< *agnīṣoma*
+-   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], accusative, dual, masculine
 - “Soma; Agni; agnīṣoma \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], accusative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *purupraśastā* \< *puru*
+- *purupraśastā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupraśastā* \< *praśastā* \< *praśaṃs* \< *√śaṃs*
+- *purupraśastā* ← *praśastā* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, dual
 - “recommend; approve; praise; laud; favor; proclaim.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], accusative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -30,51 +30,51 @@ title = "Rig Veda 10.66.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *yāv* \< *yau* \< *yad*
+- *yāv* ← *yau* ← *yad*
 - \[noun\], accusative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ījire* \< *yaj*
+- *ījire* ← *yaj*
 - \[verb\], plural, Perfect indicative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *devayajyayā* \< *deva*
+- *devayajyayā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayajyayā* \< *yajyayā* \< *yajya*
+- *devayajyayā* ← *yajyayā* ← *yajya*
 - \[noun\], instrumental, singular, feminine
 - “sacrifice; yajña.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *trivarūthaṃ* \< *tri*
+- *trivarūthaṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūthaṃ* \< *varūtham* \< *varūtha*
+- *trivarūthaṃ* ← *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 10.66.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yaṃsataḥ* \< *yam*
+- *yaṃsataḥ* ← *yam*
 - \[verb\], dual, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

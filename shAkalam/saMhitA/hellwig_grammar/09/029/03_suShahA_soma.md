@@ -2,20 +2,20 @@
 title = "Rig Veda 9.29.3"
 
 +++
--   *suṣahā* \< *suṣaha*
+-   *suṣahā* ← *suṣaha*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tāni* \< *tad*
+- *tāni* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

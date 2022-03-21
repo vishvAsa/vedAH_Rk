@@ -6,29 +6,29 @@ title = "Rig Veda 1.17.7"
 - \[noun\], vocative, singular, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *citrāya* \< *citra*
+- *citrāya* ← *citra*
 - \[noun\], dative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -36,12 +36,12 @@ title = "Rig Veda 1.17.7"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *jigyuṣas* \< *jigyuṣaḥ* \< *ji*
+- *jigyuṣas* ← *jigyuṣaḥ* ← *ji*
 - \[verb noun\], accusative, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

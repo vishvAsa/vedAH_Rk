@@ -6,25 +6,25 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'vīrate* \< *a*
+- *'vīrate* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'vīrate* \< *vīra*
+- *'vīrate* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *'vīrate* \< *te* \< *tā*
+- *'vīrate* ← *te* ← *tā*
 - \[noun\], dative, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
@@ -32,17 +32,17 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dā* \< *dāḥ* \< *dā*
+- *dā* ← *dāḥ* ← *dā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *durvāsase* \< *durvāsas*
+- *durvāsase* ← *durvāsas*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *'mataye* \< *amataye* \< *amati*
+- *'mataye* ← *amataye* ← *amati*
 - \[noun\], dative, singular, feminine
 - “indigence.”
 ------------------------------------------------------------------------
@@ -50,11 +50,11 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyai* \< *idam*
+- *asyai* ← *idam*
 - \[noun\], dative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṣudhe* \< *kṣudh*
+- *kṣudhe* ← *kṣudh*
 - \[noun\], dative, singular, feminine
 - “hunger; kṣudh.”
 ------------------------------------------------------------------------
@@ -74,11 +74,11 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *rakṣasa* \< *rakṣase* \< *rakṣas*
+- *rakṣasa* ← *rakṣase* ← *rakṣas*
 - \[noun\], dative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *ṛtāvo* \< *ṛtāvaḥ* \< *ṛtāvan*
+- *ṛtāvo* ← *ṛtāvaḥ* ← *ṛtāvan*
 - \[noun\], vocative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 7.1.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* \< *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

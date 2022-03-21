@@ -6,13 +6,13 @@ title = "Rig Veda 8.2.17"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ghem* \< *gha*
+- *ghem* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghem* \< *īm* \< *īṃ*
+- *ghem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -21,25 +21,25 @@ title = "Rig Veda 8.2.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *papana* \< *pan*
+- *papana* ← *pan*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *vajrinn* \< *vajrin*
+- *vajrinn* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *apaso* \< *apasaḥ* \< *apas*
+- *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], genitive, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *naviṣṭau* \< *naviṣṭi*
+- *naviṣṭau* ← *naviṣṭi*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *taved* \< *tava* \< *tvad*
+- *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taved* \< *id*
+- *taved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 8.2.17"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------

@@ -2,80 +2,80 @@
 title = "Rig Veda 1.179.2"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pūrva* \< *pūrve* \< *pūrva*
+- *pūrva* ← *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *ṛtasāpa* \< *ṛtasāpaḥ* \< *ṛtasāp*
+- *ṛtasāpa* ← *ṛtasāpaḥ* ← *ṛtasāp*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āsan* \< *as*
+- *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *avadann* \< *avadan* \< *vad*
+- *avadann* ← *avadan* ← *vad*
 - \[verb\], plural, Imperfect
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *ṛtāni* \< *ṛta*
+- *ṛtāni* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *avāsur* \< *ava*
+- *avāsur* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *avāsur* \< *āsuḥ* \< *as*
+- *avāsur* ← *āsuḥ* ← *as*
 - \[verb\], plural, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *nahy* \< *nahi*
+- *nahy* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *antam* \< *anta*
+- *antam* ← *anta*
 - \[noun\], accusative, singular, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
 ------------------------------------------------------------------------
-- *āpuḥ* \< *āp*
+- *āpuḥ* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 1.179.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -91,15 +91,15 @@ title = "Rig Veda 1.179.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *vṛṣabhir* \< *vṛṣabhiḥ* \< *vṛṣan*
+- *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *jagamyuḥ* \< *gam*
+- *jagamyuḥ* ← *gam*
 - \[verb\], plural, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

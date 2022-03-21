@@ -2,28 +2,28 @@
 title = "Rig Veda 4.25.6"
 
 +++
--   *suprāvyaḥ* \< *suprāvya*
+-   *suprāvyaḥ* ← *suprāvya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *prāśuṣāﾱ* \< *prāśuṣāṭ* \< *prāśuṣah*
+- *prāśuṣāﾱ* ← *prāśuṣāṭ* ← *prāśuṣah*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vīraḥ* \< *vīra*
+- *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *suṣveḥ* \< *suṣvi*
+- *suṣveḥ* ← *suṣvi*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *paktiṃ* \< *paktim* \< *pakti*
+- *paktiṃ* ← *paktim* ← *pakti*
 - \[noun\], accusative, singular, feminine
 - “digestion; food.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,28 +34,28 @@ title = "Rig Veda 4.25.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kevalendraḥ* \< *kevala*
+- *kevalendraḥ* ← *kevala*
 - \[noun\]
 - “pure; alone(p); whole; all(a); pure; entire; kevala \[word\];
     alone(p); single(a); white; absolute.”
 ------------------------------------------------------------------------
-- *kevalendraḥ* \< *indraḥ* \< *indra*
+- *kevalendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nāsuṣver* \< *na*
+- *nāsuṣver* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsuṣver* \< *a*
+- *nāsuṣver* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *nāsuṣver* \< *suṣveḥ* \< *suṣvi*
+- *nāsuṣver* ← *suṣveḥ* ← *suṣvi*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *āpir* \< *āpiḥ* \< *āpi*
+- *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 4.25.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -71,21 +71,21 @@ title = "Rig Veda 4.25.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāmir* \< *jāmiḥ* \< *jāmi*
+- *jāmir* ← *jāmiḥ* ← *jāmi*
 - \[noun\], nominative, singular, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *duṣprāvyo* \< *duṣprāvyaḥ* \< *duṣprāvya*
+- *duṣprāvyo* ← *duṣprāvyaḥ* ← *duṣprāvya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'vahanted* \< *avahantā* \< *avahan* \< *√han*
+- *'vahanted* ← *avahantā* ← *avahan* ← *√han*
 - \[verb\], singular, periphrast. future
 - “thrash; strike.”
 ------------------------------------------------------------------------
-- *'vahanted* \< *id*
+- *'vahanted* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *avācaḥ* \< *avāc*
+- *avācaḥ* ← *avāc*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------

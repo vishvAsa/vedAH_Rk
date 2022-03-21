@@ -2,7 +2,7 @@
 title = "Rig Veda 9.100.8"
 
 +++
--   *pavamāna* \< *pū*
+-   *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 9.100.8"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravaś* \< *śravaḥ* \< *śravas*
+- *śravaś* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *citrebhir* \< *citrebhiḥ* \< *citra*
+- *citrebhir* ← *citrebhiḥ* ← *citra*
 - \[noun\], instrumental, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------

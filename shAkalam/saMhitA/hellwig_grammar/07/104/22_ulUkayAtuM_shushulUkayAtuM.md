@@ -2,34 +2,34 @@
 title = "Rig Veda 7.104.22"
 
 +++
--   *ulūkayātuṃ* \< *ulūka*
+-   *ulūkayātuṃ* ← *ulūka*
 - \[noun\], masculine
 - “owl; Ulūka.”
 ------------------------------------------------------------------------
-- *ulūkayātuṃ* \< *yātum* \< *yātu*
+- *ulūkayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
 ------------------------------------------------------------------------
-- *śuśulūkayātuṃ* \< *śuśulūka*
+- *śuśulūkayātuṃ* ← *śuśulūka*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *śuśulūkayātuṃ* \< *yātum* \< *yātu*
+- *śuśulūkayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
 ------------------------------------------------------------------------
-- *jahi* \< *han*
+- *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *śvayātum* \< *śva* \< *śvan*
+- *śvayātum* ← *śva* ← *śvan*
 - \[noun\], masculine
 - “dog; śvan \[word\].”
 ------------------------------------------------------------------------
-- *śvayātum* \< *yātum* \< *yātu*
+- *śvayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
@@ -38,20 +38,20 @@ title = "Rig Veda 7.104.22"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kokayātum* \< *koka*
+- *kokayātum* ← *koka*
 - \[noun\], masculine
 - “wolf; cuckoo.”
 ------------------------------------------------------------------------
-- *kokayātum* \< *yātum* \< *yātu*
+- *kokayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
 ------------------------------------------------------------------------
-- *suparṇayātum* \< *suparṇa*
+- *suparṇayātum* ← *suparṇa*
 - \[noun\], masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *suparṇayātum* \< *yātum* \< *yātu*
+- *suparṇayātum* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
@@ -60,20 +60,20 @@ title = "Rig Veda 7.104.22"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *gṛdhrayātuṃ* \< *gṛdhra*
+- *gṛdhrayātuṃ* ← *gṛdhra*
 - \[noun\], masculine
 - “vulture.”
 ------------------------------------------------------------------------
-- *gṛdhrayātuṃ* \< *yātum* \< *yātu*
+- *gṛdhrayātuṃ* ← *yātum* ← *yātu*
 - \[noun\], accusative, singular, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
 ------------------------------------------------------------------------
-- *dṛṣadeva* \< *dṛṣadā* \< *dṛṣad*
+- *dṛṣadeva* ← *dṛṣadā* ← *dṛṣad*
 - \[noun\], instrumental, singular, feminine
 - “millstone; rock; jewel.”
 ------------------------------------------------------------------------
-- *dṛṣadeva* \< *iva*
+- *dṛṣadeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -81,11 +81,11 @@ title = "Rig Veda 7.104.22"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mṛṇa* \< *mṛṇ*
+- *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
 ------------------------------------------------------------------------
-- *rakṣa* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣa* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------

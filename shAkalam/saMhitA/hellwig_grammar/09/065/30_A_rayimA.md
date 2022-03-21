@@ -6,7 +6,7 @@ title = "Rig Veda 9.65.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 9.65.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sucetunam* \< *sucetuna*
+- *sucetunam* ← *sucetuna*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sukrato* \< *su*
+- *sukrato* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukrato* \< *krato* \< *kratu*
+- *sukrato* ← *krato* ← *kratu*
 - \[noun\], vocative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *tanūṣv* \< *tanūṣu* \< *tanū*
+- *tanūṣv* ← *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 9.65.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pāntam* \< *pānta*
+- *pāntam* ← *pānta*
 - \[noun\], accusative, singular, masculine
 - “drink; beverage.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 9.65.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------

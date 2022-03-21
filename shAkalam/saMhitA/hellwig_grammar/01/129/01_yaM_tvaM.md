@@ -2,15 +2,15 @@
 title = "Rig Veda 1.129.1"
 
 +++
--   *yaṃ* \< *yam* \< *yad*
+-   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -19,18 +19,18 @@ title = "Rig Veda 1.129.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *medha*
+- *medhasātaye* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *sātaye* \< *sāti*
+- *medhasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *'pākā* \< *apākā*
+- *'pākā* ← *apākā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -39,24 +39,24 @@ title = "Rig Veda 1.129.1"
 - \[noun\], vocative, singular, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *praṇayasi* \< *praṇī* \< *√nī*
+- *praṇayasi* ← *praṇī* ← *√nī*
 - \[verb\], singular, Present indikative
 - “enforce; lead; produce.”
 ------------------------------------------------------------------------
-- *prānavadya* \< *pra*
+- *prānavadya* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prānavadya* \< *anavadya*
+- *prānavadya* ← *anavadya*
 - \[noun\], vocative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *nayasi* \< *nī*
+- *nayasi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *sadyaś* \< *sadyas*
+- *sadyaś* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
@@ -64,17 +64,17 @@ title = "Rig Veda 1.129.1"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *karo* \< *karaḥ* \< *kṛ*
+- *karo* ← *karaḥ* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,7 +85,7 @@ title = "Rig Veda 1.129.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vaśaś* \< *vaśaḥ* \< *vaś*
+- *vaśaś* ← *vaśaḥ* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -93,17 +93,17 @@ title = "Rig Veda 1.129.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *sāsmākam* \< *sa* \< *tad*
+- *sāsmākam* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sāsmākam* \< *asmākam* \< *mad*
+- *sāsmākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -111,19 +111,19 @@ title = "Rig Veda 1.129.1"
 - \[noun\], vocative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *tūtujāna* \< *tuj*
+- *tūtujāna* ← *tuj*
 - \[verb noun\], vocative, singular
 - “draw.”
 ------------------------------------------------------------------------
-- *vedhasām* \< *vedhas*
+- *vedhasām* ← *vedhas*
 - \[noun\], genitive, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vācaṃ* \< *vācam* \< *vāc*
+- *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
@@ -133,7 +133,7 @@ title = "Rig Veda 1.129.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vedhasām* \< *vedhas*
+- *vedhasām* ← *vedhas*
 - \[noun\], genitive, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 1.40.2"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sahasas* \< *sahas*
+- *sahasas* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -22,34 +22,34 @@ title = "Rig Veda 1.40.2"
 - \[noun\], vocative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *martya* \< *martyaḥ* \< *martya*
+- *martya* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *upabrūte* \< *upabrū* \< *√brū*
+- *upabrūte* ← *upabrū* ← *√brū*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *hite* \< *dhā*
+- *hite* ← *dhā*
 - \[verb noun\], locative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *su*
+- *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *vīryam* \< *vīrya*
+- *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -57,26 +57,26 @@ title = "Rig Veda 1.40.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *svaśvyaṃ* \< *su*
+- *svaśvyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvyaṃ* \< *aśvyam* \< *aśvya*
+- *svaśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *dadhīta* \< *dhā*
+- *dadhīta* ← *dhā*
 - \[verb\], singular, Present optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ācake* \< *ākan* \< *√kan*
+- *ācake* ← *ākan* ← *√kan*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------

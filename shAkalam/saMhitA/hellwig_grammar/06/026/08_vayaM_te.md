@@ -2,15 +2,15 @@
 title = "Rig Veda 6.26.8"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asyām* \< *idam*
+- *asyām* ← *idam*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -19,19 +19,19 @@ title = "Rig Veda 6.26.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dyumnahūtau* \< *dyumna*
+- *dyumnahūtau* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *dyumnahūtau* \< *hūtau* \< *hūti*
+- *dyumnahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -39,46 +39,46 @@ title = "Rig Veda 6.26.8"
 - *mahina*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *preṣṭhāḥ* \< *preṣṭha*
+- *preṣṭhāḥ* ← *preṣṭha*
 - \[noun\], nominative, plural, masculine
 - “dearest.”
 ------------------------------------------------------------------------
-- *prātardaniḥ* \< *prātardani*
+- *prātardaniḥ* ← *prātardani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣatraśrīr* \< *kṣatra*
+- *kṣatraśrīr* ← *kṣatra*
 - \[noun\], neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *kṣatraśrīr* \< *śrīḥ* \< *śrī*
+- *kṣatraśrīr* ← *śrīḥ* ← *śrī*
 - \[noun\], nominative, singular, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *śreṣṭho* \< *śreṣṭhaḥ* \< *śreṣṭha*
+- *śreṣṭho* ← *śreṣṭhaḥ* ← *śreṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *ghane* \< *ghana*
+- *ghane* ← *ghana*
 - \[noun\], locative, singular, neuter
 - “abhra; cloud; hammer; ghana; hammer; rainy season; tin; iron; ghana
     \[word\]; ghana; nutgrass; ball; phlegm.”
 ------------------------------------------------------------------------
-- *vṛtrāṇāṃ* \< *vṛtrāṇām* \< *vṛtra*
+- *vṛtrāṇāṃ* ← *vṛtrāṇām* ← *vṛtra*
 - \[noun\], genitive, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

@@ -2,25 +2,25 @@
 title = "Rig Veda 6.52.5"
 
 +++
--   *viśvadānīṃ* \< *viśvadānīm*
+-   *viśvadānīṃ* ← *viśvadānīm*
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *sumanasaḥ* \< *su*
+- *sumanasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumanasaḥ* \< *manasaḥ* \< *manas*
+- *sumanasaḥ* ← *manasaḥ* ← *manas*
 - \[noun\], nominative, plural, masculine
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *paśyema* \< *paś*
+- *paśyema* ← *paś*
 - \[verb\], plural, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -29,12 +29,12 @@ title = "Rig Veda 6.52.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *uccarantam* \< *uccar* \< *√car*
+- *uccarantam* ← *uccar* ← *√car*
 - \[verb noun\], accusative, singular
 - “rise.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 6.52.5"
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
 ------------------------------------------------------------------------
-- *karad* \< *karat* \< *kṛ*
+- *karad* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,33 +54,33 @@ title = "Rig Veda 6.52.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vasupatir* \< *vasu*
+- *vasupatir* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasupatir* \< *patiḥ* \< *pati*
+- *vasupatir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ohāno* \< *ohānaḥ* \< *ūh*
+- *ohāno* ← *ohānaḥ* ← *ūh*
 - \[verb noun\], nominative, singular
 - “diagnose.”
 ------------------------------------------------------------------------
-- *'vasāgamiṣṭhaḥ* \< *avasā* \< *avas*
+- *'vasāgamiṣṭhaḥ* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *'vasāgamiṣṭhaḥ* \< *āgamiṣṭhaḥ* \< *āgamiṣṭha*
+- *'vasāgamiṣṭhaḥ* ← *āgamiṣṭhaḥ* ← *āgamiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “arriving(a).”
 ------------------------------------------------------------------------

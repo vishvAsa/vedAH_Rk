@@ -2,29 +2,29 @@
 title = "Rig Veda 3.26.1"
 
 +++
--   *vaiśvānaram* \< *vaiśvānara*
+-   *vaiśvānaram* ← *vaiśvānara*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *manasāgniṃ* \< *manasā* \< *manas*
+- *manasāgniṃ* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manasāgniṃ* \< *agnim* \< *agni*
+- *manasāgniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *nicāyyā* \< *nicāy* \< *√cāy*
+- *nicāyyā* ← *nicāy* ← *√cāy*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *haviṣmanto* \< *haviṣmantaḥ* \< *haviṣmat*
+- *haviṣmanto* ← *haviṣmantaḥ* ← *haviṣmat*
 - \[noun\], nominative, plural, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *anuṣatyaṃ* \< *anuṣatyam* \< *anuṣatya*
+- *anuṣatyaṃ* ← *anuṣatyam* ← *anuṣatya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *svarvidam* \< *svar*

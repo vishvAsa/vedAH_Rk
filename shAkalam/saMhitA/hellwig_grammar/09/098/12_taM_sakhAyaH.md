@@ -2,24 +2,24 @@
 title = "Rig Veda 9.98.12"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *purorucaṃ* \< *purorucam* \< *puroruc*
+- *purorucaṃ* ← *purorucam* ← *puroruc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -27,26 +27,26 @@ title = "Rig Veda 9.98.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sūrayaḥ* \< *sūri*
+- *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *vājagandhyaṃ* \< *vājagandhyam* \< *vājagandhya*
+- *vājagandhyaṃ* ← *vājagandhyam* ← *vājagandhya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sanema* \< *san*
+- *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājapastyam* \< *vāja*
+- *vājapastyam* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājapastyam* \< *pastyam* \< *pastyā*
+- *vājapastyam* ← *pastyam* ← *pastyā*
 - \[noun\], accusative, singular, masculine
 - “river; dwelling.”
 ------------------------------------------------------------------------

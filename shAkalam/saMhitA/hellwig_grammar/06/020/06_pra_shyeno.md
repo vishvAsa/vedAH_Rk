@@ -6,7 +6,7 @@ title = "Rig Veda 6.20.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -14,54 +14,54 @@ title = "Rig Veda 6.20.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *madiram* \< *madira*
+- *madiram* ← *madira*
 - \[noun\], accusative, singular, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *aṃśum* \< *aṃśu*
+- *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śiro* \< *śiraḥ* \< *śiras*
+- *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *namucer* \< *namuceḥ* \< *namuci*
+- *namucer* ← *namuceḥ* ← *namuci*
 - \[noun\], genitive, singular, masculine
 - “Namuci; namuci \[word\].”
 ------------------------------------------------------------------------
-- *mathāyan* \< *mathāy* \< *√math*
+- *mathāyan* ← *mathāy* ← *√math*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *prāvan* \< *prāvat* \< *prāv* \< *√av*
+- *prāvan* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *namīṃ* \< *namīm* \< *nami*
+- *namīṃ* ← *namīm* ← *nami*
 - \[noun\], accusative, singular, masculine
 - “Nami.”
 ------------------------------------------------------------------------
-- *sāpyaṃ* \< *sāpyam* \< *sāpya*
+- *sāpyaṃ* ← *sāpyam* ← *sāpya*
 - \[noun\], accusative, singular, masculine
 - “Nami.”
 ------------------------------------------------------------------------
-- *sasantam* \< *sas*
+- *sasantam* ← *sas*
 - \[verb noun\], accusative, singular
 - “sleep.”
 ------------------------------------------------------------------------
-- *pṛṇag* \< *pṛṇak* \< *pṛc*
+- *pṛṇag* ← *pṛṇak* ← *pṛc*
 - \[verb\], singular, Present injunctive
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 6.20.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------

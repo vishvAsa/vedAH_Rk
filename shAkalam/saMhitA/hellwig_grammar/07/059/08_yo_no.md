@@ -2,15 +2,15 @@
 title = "Rig Veda 7.59.8"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -18,31 +18,31 @@ title = "Rig Veda 7.59.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *durhṛṇāyus* \< *durhṛṇāyuḥ* \< *durhṛṇāyu*
+- *durhṛṇāyus* ← *durhṛṇāyuḥ* ← *durhṛṇāyu*
 - \[noun\], nominative, singular, masculine
 - “begrudging.”
 ------------------------------------------------------------------------
-- *tiraś* \< *tiras*
+- *tiraś* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *cittāni* \< *citta*
+- *cittāni* ← *citta*
 - \[noun\], accusative, plural, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *jighāṃsati* \< *jighāṃs* \< *√han*
+- *jighāṃsati* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
 ------------------------------------------------------------------------
-- *druhaḥ* \< *druh*
+- *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
-- *pāśān* \< *pāśa*
+- *pāśān* ← *pāśa*
 - \[noun\], accusative, plural, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
@@ -50,13 +50,13 @@ title = "Rig Veda 7.59.8"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mucīṣṭa* \< *muc*
+- *mucīṣṭa* ← *muc*
 - \[verb\], singular, Prekativ
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -64,21 +64,21 @@ title = "Rig Veda 7.59.8"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *tapiṣṭhena* \< *tapiṣṭha*
+- *tapiṣṭhena* ← *tapiṣṭha*
 - \[noun\], instrumental, singular, masculine
 - “burning; ablaze(p).”
 ------------------------------------------------------------------------
-- *hanmanā* \< *hanman*
+- *hanmanā* ← *hanman*
 - \[noun\], instrumental, singular, masculine
 - “weapon; blow.”
 ------------------------------------------------------------------------
-- *hantanā* \< *hantana* \< *han*
+- *hantanā* ← *hantana* ← *han*
 - \[verb\], plural, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

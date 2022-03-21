@@ -6,11 +6,11 @@ title = "Rig Veda 6.61.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -19,31 +19,31 @@ title = "Rig Veda 6.61.7"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *ghorā* \< *ghora*
+- *ghorā* ← *ghora*
 - \[noun\], nominative, singular, feminine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *hiraṇyavartaniḥ* \< *hiraṇya*
+- *hiraṇyavartaniḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavartaniḥ* \< *vartaniḥ* \< *vartani*
+- *hiraṇyavartaniḥ* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *vṛtraghnī* \< *vṛtra*
+- *vṛtraghnī* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtraghnī* \< *ghnī* \< *ghna*
+- *vṛtraghnī* ← *ghnī* ← *ghna*
 - \[noun\], nominative, singular, feminine
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------

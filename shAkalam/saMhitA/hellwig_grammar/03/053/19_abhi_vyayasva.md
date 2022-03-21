@@ -6,32 +6,32 @@ title = "Rig Veda 3.53.19"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vyayasva* \< *vye*
+- *vyayasva* ← *vye*
 - \[verb\], singular, Present imperative
 - “cover.”
 ------------------------------------------------------------------------
-- *khadirasya* \< *khadira*
+- *khadirasya* ← *khadira*
 - \[noun\], genitive, singular, masculine
 - “catechu; khadira \[word\].”
 ------------------------------------------------------------------------
-- *sāram* \< *sāra*
+- *sāram* ← *sāra*
 - \[noun\], accusative, singular, masculine
 - “essence; sāra; heartwood; quintessence; sāra; iron; possession;
     value; sālasārādi; sap; mineral; kernel; catechu; quintessence.”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *spandane* \< *spandana*
+- *spandane* ← *spandana*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śiṃśapāyām* \< *śiṃśapā*
+- *śiṃśapāyām* ← *śiṃśapā*
 - \[noun\], locative, singular, feminine
 - “sissoo; śiṃśapā \[word\].”
 ------------------------------------------------------------------------
@@ -39,15 +39,15 @@ title = "Rig Veda 3.53.19"
 - \[noun\], vocative, singular, masculine
 - “axle.”
 ------------------------------------------------------------------------
-- *vīﾱo* \< *vīḍu*
+- *vīﾱo* ← *vīḍu*
 - \[noun\], vocative, singular, masculine
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *vīﾱita* \< *vīḍita* \< *vīḍay* \< *√vīḍ*
+- *vīﾱita* ← *vīḍita* ← *vīḍay* ← *√vīḍ*
 - \[verb noun\], vocative, singular
 - “solidify; strengthen.”
 ------------------------------------------------------------------------
-- *vīﾱayasva* \< *vīḍay* \< *√vīḍ*
+- *vīﾱayasva* ← *vīḍay* ← *√vīḍ*
 - \[verb\], singular, Present imperative
 - “solidify; strengthen.”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 3.53.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *yāmād* \< *yāmāt* \< *yāma*
+- *yāmād* ← *yāmāt* ← *yāma*
 - \[noun\], ablative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *asmād* \< *asmāt* \< *idam*
+- *asmād* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 3.53.19"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *jīhipo* \< *jīhipaḥ* \< *hāpay* \< *√hā*
+- *jīhipo* ← *jīhipaḥ* ← *hāpay* ← *√hā*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “miss.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

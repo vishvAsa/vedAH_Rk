@@ -2,47 +2,47 @@
 title = "Rig Veda 1.142.8"
 
 +++
--   *mandrajihvā* \< *mandra*
+-   *mandrajihvā* ← *mandra*
 - \[noun\]
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *mandrajihvā* \< *jihvā*
+- *mandrajihvā* ← *jihvā*
 - \[noun\], nominative, dual, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *jugurvaṇī* \< *jugurvaṇi*
+- *jugurvaṇī* ← *jugurvaṇi*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *hotārā* \< *hotṛ*
+- *hotārā* ← *hotṛ*
 - \[noun\], nominative, dual, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], nominative, dual, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *kavī* \< *kavi*
+- *kavī* ← *kavi*
 - \[noun\], nominative, dual, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yakṣatām* \< *yaj*
+- *yakṣatām* ← *yaj*
 - \[verb\], dual, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sidhram* \< *sidhra*
+- *sidhram* ← *sidhra*
 - \[noun\], accusative, singular, masculine
 - “successful; perfect.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 1.142.8"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *divispṛśam* \< *divispṛś*
+- *divispṛśam* ← *divispṛś*
 - \[noun\], accusative, singular, masculine
 - “heavenward.”
 ------------------------------------------------------------------------

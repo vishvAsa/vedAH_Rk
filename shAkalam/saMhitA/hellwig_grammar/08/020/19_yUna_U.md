@@ -2,28 +2,28 @@
 title = "Rig Veda 8.20.19"
 
 +++
--   *yūna* \< *yūnaḥ* \< *yuvan*
+-   *yūna* ← *yūnaḥ* ← *yuvan*
 - \[noun\], accusative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *naviṣṭhayā* \< *naviṣṭha*
+- *naviṣṭhayā* ← *naviṣṭha*
 - \[noun\], instrumental, singular, feminine
 - “late(a).”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], accusative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pāvakāṃ* \< *pāvaka*
+- *pāvakāṃ* ← *pāvaka*
 - \[noun\], accusative, plural, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 8.20.19"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *sobhare* \< *sobhari*
+- *sobhare* ← *sobhari*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *gāya* \< *gā*
+- *gāya* ← *gā*
 - \[verb noun\]
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -52,6 +52,6 @@ title = "Rig Veda 8.20.19"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *carkṛṣat* \< *carkṛṣ* \< *√kṛṣ*
+- *carkṛṣat* ← *carkṛṣ* ← *√kṛṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

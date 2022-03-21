@@ -2,11 +2,11 @@
 title = "Rig Veda 10.42.2"
 
 +++
--   *dohena* \< *doha*
+-   *dohena* ← *doha*
 - \[noun\], instrumental, singular, masculine
 - “bucket.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -15,11 +15,11 @@ title = "Rig Veda 10.42.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śikṣā* \< *śikṣa* \< *śikṣ*
+- *śikṣā* ← *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -27,24 +27,24 @@ title = "Rig Veda 10.42.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bodhaya* \< *bodhay* \< *√budh*
+- *bodhaya* ← *bodhay* ← *√budh*
 - \[verb\], singular, Present imperative
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *jaritar* \< *jaritṛ*
+- *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *jāram* \< *jāra*
+- *jāram* ← *jāra*
 - \[noun\], accusative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kośaṃ* \< *kośam* \< *kośa*
+- *kośaṃ* ← *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
@@ -53,16 +53,16 @@ title = "Rig Veda 10.42.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrṇaṃ* \< *pūrṇam* \< *pṛ*
+- *pūrṇaṃ* ← *pūrṇam* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *vasunā* \< *vasu*
+- *vasunā* ← *vasu*
 - \[noun\], instrumental, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *nyṛṣṭam* \< *nyṛṣ* \< *√ṛṣ*
+- *nyṛṣṭam* ← *nyṛṣ* ← *√ṛṣ*
 - \[verb noun\], accusative, singular
 - “fill; stuff.”
 ------------------------------------------------------------------------
@@ -70,19 +70,19 @@ title = "Rig Veda 10.42.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cyāvaya* \< *cyāvay* \< *√cyu*
+- *cyāvaya* ← *cyāvay* ← *√cyu*
 - \[verb\], singular, Present imperative
 - “chase away; remove; move.”
 ------------------------------------------------------------------------
-- *maghadeyāya* \< *magha*
+- *maghadeyāya* ← *magha*
 - \[noun\], masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *maghadeyāya* \< *deyāya* \< *deya*
+- *maghadeyāya* ← *deyāya* ← *deya*
 - \[noun\], dative, singular, neuter
 - “giving; gift.”
 ------------------------------------------------------------------------
-- *śūram* \< *śūra*
+- *śūram* ← *śūra*
 - \[noun\], accusative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”

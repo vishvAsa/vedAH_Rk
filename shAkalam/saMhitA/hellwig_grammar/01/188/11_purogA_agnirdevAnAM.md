@@ -2,22 +2,22 @@
 title = "Rig Veda 1.188.11"
 
 +++
--   *purogā* \< *purogāḥ* \< *purogā*
+-   *purogā* ← *purogāḥ* ← *purogā*
 - \[noun\], nominative, singular, masculine
 - “leader.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gāyatreṇa* \< *gāyatra*
+- *gāyatreṇa* ← *gāyatra*
 - \[noun\], instrumental, singular, neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
@@ -25,14 +25,14 @@ title = "Rig Veda 1.188.11"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajyate* \< *añj*
+- *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *svāhākṛtīṣu* \< *svāhākṛtī*
+- *svāhākṛtīṣu* ← *svāhākṛtī*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------

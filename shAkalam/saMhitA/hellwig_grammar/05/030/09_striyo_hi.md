@@ -2,7 +2,7 @@
 title = "Rig Veda 5.30.9"
 
 +++
--   *striyo* \< *striyaḥ* \< *strī*
+-   *striyo* ← *striyaḥ* ← *strī*
 - \[noun\], accusative, plural, feminine
 - “woman; wife; feminine; strīvajra; sexual activity; strī \[word\];
     daughter; female.”
@@ -11,15 +11,15 @@ title = "Rig Veda 5.30.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dāsa* \< *dāsaḥ* \< *dāsa*
+- *dāsa* ← *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *āyudhāni* \< *āyudha*
+- *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,15 +30,15 @@ title = "Rig Veda 5.30.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karann* \< *karan* \< *kṛ*
+- *karann* ← *karan* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -49,15 +49,15 @@ title = "Rig Veda 5.30.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *abalā* \< *abalāḥ* \< *abala*
+- *abalā* ← *abalāḥ* ← *abala*
 - \[noun\], nominative, plural, feminine
 - “weak.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *senāḥ* \< *senā*
+- *senāḥ* ← *senā*
 - \[noun\], nominative, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
@@ -65,47 +65,47 @@ title = "Rig Veda 5.30.9"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhene* \< *dhenā*
+- *dhene* ← *dhenā*
 - \[noun\], accusative, dual, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
-- *athopa* \< *athā* \< *atha*
+- *athopa* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athopa* \< *upa*
+- *athopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *praid* \< *prait* \< *pre* \< *√i*
+- *praid* ← *prait* ← *pre* ← *√i*
 - \[verb\], singular, Imperfect
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *yudhaye* \< *yudh*
+- *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *dasyum* \< *dasyu*
+- *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

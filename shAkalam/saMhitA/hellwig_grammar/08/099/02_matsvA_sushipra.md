@@ -2,32 +2,32 @@
 title = "Rig Veda 8.99.2"
 
 +++
--   *matsvā* \< *matsva* \< *mad*
+-   *matsvā* ← *matsva* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *suśipra* \< *su*
+- *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipra* \< *śipra* \< *śiprā*
+- *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *harivas* \< *harivat*
+- *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -35,31 +35,31 @@ title = "Rig Veda 8.99.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhūṣanti* \< *bhūṣ*
+- *bhūṣanti* ← *bhūṣ*
 - \[verb\], plural, Present indikative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śravāṃsy* \< *śravāṃsi* \< *śravas*
+- *śravāṃsy* ← *śravāṃsi* ← *śravas*
 - \[noun\], nominative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *upamāny* \< *upamāni* \< *upama*
+- *upamāny* ← *upamāni* ← *upama*
 - \[noun\], nominative, plural, neuter
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *ukthyā* \< *ukthya*
+- *ukthyā* ← *ukthya*
 - \[noun\], nominative, plural, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
-- *suteṣv* \< *suteṣu* \< *suta*
+- *suteṣv* ← *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -68,6 +68,6 @@ title = "Rig Veda 8.99.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

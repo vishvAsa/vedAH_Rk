@@ -6,35 +6,35 @@ title = "Rig Veda 7.34.21"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *juṣeta* \< *juṣ*
+- *juṣeta* ← *juṣ*
 - \[verb\], singular, Present optative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *syād* \< *syāt* \< *as*
+- *syād* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aramatir* \< *aramatiḥ* \< *aramati*
+- *aramatir* ← *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vasūyuḥ* \< *vasūyu*
+- *vasūyuḥ* ← *vasūyu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

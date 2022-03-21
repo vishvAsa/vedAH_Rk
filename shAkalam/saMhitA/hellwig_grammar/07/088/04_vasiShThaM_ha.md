@@ -2,7 +2,7 @@
 title = "Rig Veda 7.88.4"
 
 +++
--   *vasiṣṭhaṃ* \< *vasiṣṭham* \< *vasiṣṭha*
+-   *vasiṣṭhaṃ* ← *vasiṣṭham* ← *vasiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 7.88.4"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *nāvy* \< *nāvi* \< *nau*
+- *nāvy* ← *nāvi* ← *nau*
 - \[noun\], locative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *ādhād* \< *ādhāt* \< *ādhā* \< *√dhā*
+- *ādhād* ← *ādhāt* ← *ādhā* ← *√dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *ṛṣiṃ* \< *ṛṣim* \< *ṛṣi*
+- *ṛṣiṃ* ← *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,38 +38,38 @@ title = "Rig Veda 7.88.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svapā* \< *su*
+- *svapā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapā* \< *apāḥ* \< *apas*
+- *svapā* ← *apāḥ* ← *apas*
 - \[noun\], nominative, singular, masculine
 - “work; deed.”
 ------------------------------------------------------------------------
-- *mahobhiḥ* \< *mahas*
+- *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *stotāraṃ* \< *stotāram* \< *stotṛ*
+- *stotāraṃ* ← *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *vipraḥ* \< *vipra*
+- *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *sudinatve* \< *sudina*
+- *sudinatve* ← *sudina*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *sudinatve* \< *tve* \< *tva*
+- *sudinatve* ← *tve* ← *tva*
 - \[noun\], locative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ahnāṃ* \< *ahnām* \< *ahar*
+- *ahnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *yān* \< *yāt*
+- *yān* ← *yāt*
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
@@ -77,20 +77,20 @@ title = "Rig Veda 7.88.4"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *dyāvas* \< *dyāvaḥ* \< *div*
+- *dyāvas* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *tatanan* \< *tan*
+- *tatanan* ← *tan*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *yād* \< *yāt*
+- *yād* ← *yāt*
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *uṣāsaḥ* \< *uṣas*
+- *uṣāsaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------

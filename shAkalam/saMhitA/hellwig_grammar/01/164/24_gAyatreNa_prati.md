@@ -2,7 +2,7 @@
 title = "Rig Veda 1.164.24"
 
 +++
--   *gāyatreṇa* \< *gāyatra*
+-   *gāyatreṇa* ← *gāyatra*
 - \[noun\], instrumental, singular, neuter
 - “Gāyatrī; Gāyatra.”
 ------------------------------------------------------------------------
@@ -10,58 +10,58 @@ title = "Rig Veda 1.164.24"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *mimīte* \< *mā*
+- *mimīte* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *arkam* \< *arka*
+- *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *arkeṇa* \< *arka*
+- *arkeṇa* ← *arka*
 - \[noun\], instrumental, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *traiṣṭubhena* \< *traiṣṭubha*
+- *traiṣṭubhena* ← *traiṣṭubha*
 - \[noun\], instrumental, singular, neuter
 - “Triṣṭubh.”
 ------------------------------------------------------------------------
-- *vākam* \< *vāka*
+- *vākam* ← *vāka*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vākena* \< *vāka*
+- *vākena* ← *vāka*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *vākaṃ* \< *vākam* \< *vāka*
+- *vākaṃ* ← *vākam* ← *vāka*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dvipadā* \< *dvipad*
+- *dvipadā* ← *dvipad*
 - \[noun\], instrumental, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *catuṣpadākṣareṇa* \< *catuṣpadā* \< *catuṣpada*
+- *catuṣpadākṣareṇa* ← *catuṣpadā* ← *catuṣpada*
 - \[noun\], instrumental, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------
-- *catuṣpadākṣareṇa* \< *akṣareṇa* \< *akṣara*
+- *catuṣpadākṣareṇa* ← *akṣareṇa* ← *akṣara*
 - \[noun\], instrumental, singular, neuter
 - “syllable; Om; sound; Brahma; vowel; word; final emancipation.”
 ------------------------------------------------------------------------
-- *mimate* \< *mā*
+- *mimate* ← *mā*
 - \[verb\], plural, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *vāṇīḥ* \< *vāṇī*
+- *vāṇīḥ* ← *vāṇī*
 - \[noun\], accusative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------

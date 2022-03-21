@@ -2,37 +2,37 @@
 title = "Rig Veda 5.44.14"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jāgāra* \< *jāgṛ*
+- *jāgāra* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ṛcaḥ* \< *ṛc*
+- *ṛcaḥ* ← *ṛc*
 - \[noun\], nominative, plural, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 ------------------------------------------------------------------------
-- *kāmayante* \< *kāmay* \< *√kam*
+- *kāmayante* ← *kāmay* ← *√kam*
 - \[verb\], plural, Present indikative
 - “desire; love.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jāgāra* \< *jāgṛ*
+- *jāgāra* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -42,59 +42,59 @@ title = "Rig Veda 5.44.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sāmāni* \< *sāman*
+- *sāmāni* ← *sāman*
 - \[noun\], nominative, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *jāgāra* \< *jāgṛ*
+- *jāgāra* ← *jāgṛ*
 - \[verb\], singular, Perfect indicative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *āha* \< *ah*
+- *āha* ← *ah*
 - \[verb\], singular, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *tavāham* \< *tava* \< *tvad*
+- *tavāham* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavāham* \< *aham* \< *mad*
+- *tavāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *nyokāḥ* \< *nyokas*
+- *nyokāḥ* ← *nyokas*
 - \[noun\], nominative, singular, masculine
 - “homelike.”
 ------------------------------------------------------------------------

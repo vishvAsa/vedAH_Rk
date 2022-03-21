@@ -2,52 +2,52 @@
 title = "Rig Veda 5.53.4"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *añjiṣu* \< *añji*
+- *añjiṣu* ← *añji*
 - \[noun\], locative, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāśīṣu* \< *vāśī*
+- *vāśīṣu* ← *vāśī*
 - \[noun\], locative, plural, feminine
 - “ax; chisel.”
 ------------------------------------------------------------------------
-- *svabhānavaḥ* \< *sva*
+- *svabhānavaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svabhānavaḥ* \< *bhānavaḥ* \< *bhānu*
+- *svabhānavaḥ* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *srakṣu* \< *sraj*
+- *srakṣu* ← *sraj*
 - \[noun\], locative, plural
 - “wreath; sraj \[word\].”
 ------------------------------------------------------------------------
-- *rukmeṣu* \< *rukma*
+- *rukmeṣu* ← *rukma*
 - \[noun\], locative, plural, neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *khādiṣu* \< *khādi*
+- *khādiṣu* ← *khādi*
 - \[noun\], locative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *śrāyā* \< *śrāyāḥ* \< *śrāya*
+- *śrāyā* ← *śrāyāḥ* ← *śrāya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ratheṣu* \< *ratha*
+- *ratheṣu* ← *ratha*
 - \[noun\], locative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dhanvasu* \< *dhanvan*
+- *dhanvasu* ← *dhanvan*
 - \[noun\], locative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------

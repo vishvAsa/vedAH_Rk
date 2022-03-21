@@ -6,11 +6,11 @@ title = "Rig Veda 8.21.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *karmann* \< *karman*
+- *karmann* ← *karman*
 - \[noun\], locative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -18,64 +18,64 @@ title = "Rig Veda 8.21.2"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yuvograś* \< *yuvā* \< *yuvan*
+- *yuvograś* ← *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *yuvograś* \< *ugraḥ* \< *ugra*
+- *yuvograś* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *cakrāma* \< *kram*
+- *cakrāma* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣat* ← *dhṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhy* \< *id*
+- *iddhy* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhy* \< *hi*
+- *iddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *avitāraṃ* \< *avitāram* \< *avitṛ*
+- *avitāraṃ* ← *avitāram* ← *avitṛ*
 - \[noun\], accusative, singular, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *vavṛmahe* \< *vṛ*
+- *vavṛmahe* ← *vṛ*
 - \[verb\], plural, Perfect indicative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 8.21.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sānasim* \< *sānasi*
+- *sānasim* ← *sānasi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------

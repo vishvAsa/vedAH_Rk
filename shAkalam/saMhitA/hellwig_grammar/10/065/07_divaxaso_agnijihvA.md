@@ -2,51 +2,51 @@
 title = "Rig Veda 10.65.7"
 
 +++
--   *divakṣaso* \< *divakṣasaḥ* \< *divakṣas*
+-   *divakṣaso* ← *divakṣasaḥ* ← *divakṣas*
 - \[noun\], nominative, plural, masculine
 - “celestial.”
 ------------------------------------------------------------------------
-- *agnijihvā* \< *agni*
+- *agnijihvā* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agnijihvā* \< *jihvāḥ* \< *jihvā*
+- *agnijihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdha* \< *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- *ṛtāvṛdha* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], nominative, plural, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yoniṃ* \< *yonim* \< *yoni*
+- *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *vimṛśanta* \< *vimṛśantaḥ* \< *vimṛś* \< *√mṛś*
+- *vimṛśanta* ← *vimṛśantaḥ* ← *vimṛś* ← *√mṛś*
 - \[verb noun\], nominative, plural
 - “deliberate; consider; hesitate; wipe off; think; chew over.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *skabhitvy* \< *skabhitvī* \< *skambh*
+- *skabhitvy* ← *skabhitvī* ← *skambh*
 - \[verb noun\]
 - “fixate; establish.”
 ------------------------------------------------------------------------
-- *apa* \< *apaḥ* \< *ap*
+- *apa* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 10.65.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cakrur* \< *cakruḥ* \< *kṛ*
+- *cakrur* ← *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -65,21 +65,21 @@ title = "Rig Veda 10.65.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *janitvī* \< *jan*
+- *janitvī* ← *jan*
 - \[verb noun\]
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *tanvī* \< *tanū*
+- *tanvī* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 10.65.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *māmṛjuḥ* \< *mṛj*
+- *māmṛjuḥ* ← *mṛj*
 - \[verb\], plural, Perfect indicative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------

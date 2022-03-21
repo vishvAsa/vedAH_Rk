@@ -2,11 +2,11 @@
 title = "Rig Veda 1.81.8"
 
 +++
--   *mādayasva* \< *māday* \< *√mad*
+-   *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.81.8"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 1.81.8"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -36,11 +36,11 @@ title = "Rig Veda 1.81.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *purūvasum* \< *purūvasu*
+- *purūvasum* ← *purūvasu*
 - \[noun\], accusative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
@@ -48,30 +48,30 @@ title = "Rig Veda 1.81.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *kāmān* \< *kāma*
+- *kāmān* ← *kāma*
 - \[noun\], accusative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *sasṛjmahe* \< *sṛj*
+- *sasṛjmahe* ← *sṛj*
 - \[verb\], plural, Perfect indicative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *'thā* \< *athā* \< *atha*
+- *'thā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vitā* \< *avitā* \< *av*
+- *'vitā* ← *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

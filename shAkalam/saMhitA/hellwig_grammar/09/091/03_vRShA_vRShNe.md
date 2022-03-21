@@ -2,83 +2,83 @@
 title = "Rig Veda 9.91.3"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *roruvad* \< *roruvat* \< *roro* \< *√ru*
+- *roruvad* ← *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *aṃśur* \< *aṃśuḥ* \< *aṃśu*
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ruśad* \< *ruśat*
+- *ruśad* ← *ruśat*
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *īrte* \< *īr*
+- *īrte* ← *īr*
 - \[verb\], singular, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *ṛkvā* \< *ṛkvan*
+- *ṛkvā* ← *ṛkvan*
 - \[noun\], nominative, singular, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *pathibhir* \< *pathibhiḥ* \< *pathin*
+- *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *vacovid* \< *vacaḥ* \< *vacas*
+- *vacovid* ← *vacaḥ* ← *vacas*
 - \[noun\], neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *vacovid* \< *vid*
+- *vacovid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *adhvasmabhiḥ* \< *adhvasman*
+- *adhvasmabhiḥ* ← *adhvasman*
 - \[noun\], instrumental, plural, masculine
 - “immaculate.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *aṇvaṃ* \< *aṇvam* \< *aṇva*
+- *aṇvaṃ* ← *aṇvam* ← *aṇva*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

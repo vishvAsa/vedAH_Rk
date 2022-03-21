@@ -2,18 +2,18 @@
 title = "Rig Veda 10.45.3"
 
 +++
--   *samudre* \< *samudra*
+-   *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nṛmaṇā* \< *nṛmaṇāḥ* \< *nṛmaṇas*
+- *nṛmaṇā* ← *nṛmaṇāḥ* ← *nṛmaṇas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -21,33 +21,33 @@ title = "Rig Veda 10.45.3"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *nṛ*
+- *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *īdhe* \< *indh*
+- *īdhe* ← *indh*
 - \[verb\], singular, Perfect indicative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ūdhan* \< *ūdhas*
+- *ūdhan* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *tṛtīye* \< *tṛtīya*
+- *tṛtīye* ← *tṛtīya*
 - \[noun\], locative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
 ------------------------------------------------------------------------

@@ -6,27 +6,27 @@ title = "Rig Veda 1.159.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *manye* \< *man*
+- *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *adruho* \< *adruhaḥ* \< *adruh*
+- *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], genitive, singular, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *mātur* \< *mātuḥ* \< *mātṛ*
+- *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -35,43 +35,43 @@ title = "Rig Veda 1.159.2"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *svatavas* \< *sva*
+- *svatavas* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svatavas* \< *tavaḥ* \< *tavas*
+- *svatavas* ← *tavaḥ* ← *tavas*
 - \[noun\], accusative, singular, neuter
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *taddhavīmabhiḥ* \< *tat* \< *tad*
+- *taddhavīmabhiḥ* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *taddhavīmabhiḥ* \< *havīmabhiḥ* \< *havīman*
+- *taddhavīmabhiḥ* ← *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, neuter
 - “call; invocation.”
 ------------------------------------------------------------------------
-- *suretasā* \< *su*
+- *suretasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suretasā* \< *retasā* \< *retas*
+- *suretasā* ← *retasā* ← *retas*
 - \[noun\], nominative, dual, masculine
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhūman*
+- *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------
-- *cakratur* \< *cakratuḥ* \< *kṛ*
+- *cakratur* ← *cakratuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -86,15 +86,15 @@ title = "Rig Veda 1.159.2"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *prajāyā* \< *prajāyai* \< *prajā*
+- *prajāyā* ← *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *varīmabhiḥ* \< *varīman*
+- *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------

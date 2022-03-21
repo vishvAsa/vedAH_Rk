@@ -2,88 +2,88 @@
 title = "Rig Veda 10.91.15"
 
 +++
--   *ahāvy* \< *ahāvi* \< *hu*
+-   *ahāvy* ← *ahāvi* ← *hu*
 - \[verb\], singular, Aorist passive
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *havir* \< *haviḥ* \< *havis*
+- *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *āsye* \< *āsya*
+- *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *srucīva* \< *sruci* \< *sruc*
+- *srucīva* ← *sruci* ← *sruc*
 - \[noun\], locative, singular, feminine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *srucīva* \< *iva*
+- *srucīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *camvīva* \< *camvi* \< *camū*
+- *camvīva* ← *camvi* ← *camū*
 - \[noun\], locative, singular, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *camvīva* \< *iva*
+- *camvīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vājasaniṃ* \< *vāja*
+- *vājasaniṃ* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasaniṃ* \< *sanim* \< *sani*
+- *vājasaniṃ* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvīram* \< *su*
+- *suvīram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīram* \< *vīram* \< *vīra*
+- *suvīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *praśastaṃ* \< *praśastam* \< *praśaṃs* \< *√śaṃs*
+- *praśastaṃ* ← *praśastam* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], accusative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yaśasam* \< *yaśasa*
+- *yaśasam* ← *yaśasa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”

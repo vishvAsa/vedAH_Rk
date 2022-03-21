@@ -2,33 +2,33 @@
 title = "Rig Veda 1.162.22"
 
 +++
--   *sugavyaṃ* \< *su*
+-   *sugavyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugavyaṃ* \< *gavyam* \< *gavyā*
+- *sugavyaṃ* ← *gavyam* ← *gavyā*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *svaśvyam* \< *su*
+- *svaśvyam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvyam* \< *aśvyam* \< *aśvya*
+- *svaśvyam* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *puṃsaḥ* \< *puṃs*
+- *puṃsaḥ* ← *puṃs*
 - \[noun\], accusative, plural, masculine
 - “man; masculine; man; puṃvajra; puruṣa; son; puṃs \[word\].”
 ------------------------------------------------------------------------
-- *putrāṃ* \< *putra*
+- *putrāṃ* ← *putra*
 - \[noun\], accusative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -36,26 +36,26 @@ title = "Rig Veda 1.162.22"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *viśvāpuṣaṃ* \< *viśvāpuṣam* \< *viśvāpuṣ*
+- *viśvāpuṣaṃ* ← *viśvāpuṣam* ← *viśvāpuṣ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *anāgāstvaṃ* \< *anāgāstvam* \< *anāgāstva*
+- *anāgāstvaṃ* ← *anāgāstvam* ← *anāgāstva*
 - \[noun\], accusative, singular, neuter
 - “blamelessness; purity.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇotu* \< *kṛ*
+- *kṛṇotu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,23 +66,23 @@ title = "Rig Veda 1.162.22"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvo* \< *aśvaḥ* \< *aśva*
+- *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vanatāṃ* \< *vanatām* \< *van*
+- *vanatāṃ* ← *vanatām* ← *van*
 - \[verb\], singular, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *haviṣmān* \< *haviṣmat*
+- *haviṣmān* ← *haviṣmat*
 - \[noun\], nominative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------

@@ -2,63 +2,63 @@
 title = "Rig Veda 1.116.7"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *pajriyāya* \< *pajriya*
+- *pajriyāya* ← *pajriya*
 - \[noun\], dative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *kakṣīvate* \< *kakṣīvant*
+- *kakṣīvate* ← *kakṣīvant*
 - \[noun\], dative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
 ------------------------------------------------------------------------
-- *aradatam* \< *rad*
+- *aradatam* ← *rad*
 - \[verb\], dual, Imperfect
 - “dig.”
 ------------------------------------------------------------------------
-- *purandhim* \< *puraṃdhi*
+- *purandhim* ← *puraṃdhi*
 - \[noun\], accusative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *kārotarāc* \< *kārotarāt* \< *kārotara*
+- *kārotarāc* ← *kārotarāt* ← *kārotara*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *chaphād* \< *śaphāt* \< *śapha*
+- *chaphād* ← *śaphāt* ← *śapha*
 - \[noun\], ablative, singular, masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
-- *aśvasya* \< *aśva*
+- *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *kumbhāṃ* \< *kumbha*
+- *kumbhāṃ* ← *kumbha*
 - \[noun\], accusative, plural, masculine
 - “jar; Kumbha; kumbha \[word\]; kumbhapuṭa; kumbha; Aquarius.”
 ------------------------------------------------------------------------
-- *asiñcataṃ* \< *asiñcatam* \< *sic*
+- *asiñcataṃ* ← *asiñcatam* ← *sic*
 - \[verb\], dual, Imperfect
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *surāyāḥ* \< *surā*
+- *surāyāḥ* ← *surā*
 - \[noun\], genitive, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
 ------------------------------------------------------------------------

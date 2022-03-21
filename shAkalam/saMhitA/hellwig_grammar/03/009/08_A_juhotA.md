@@ -6,59 +6,59 @@ title = "Rig Veda 3.9.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *juhotā* \< *hu*
+- *juhotā* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *svadhvaraṃ* \< *su*
+- *svadhvaraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvaraṃ* \< *adhvaram* \< *adhvara*
+- *svadhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *śīram* \< *śīra*
+- *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣam* \< *pāvaka*
+- *pāvakaśociṣam* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣam* \< *śociṣam* \< *śocis*
+- *pāvakaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *dūtam* \< *dūta*
+- *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *ajiram* \< *ajira*
+- *ajiram* ← *ajira*
 - \[noun\], accusative, singular, masculine
 - “fast; agile; ajira \[word\].”
 ------------------------------------------------------------------------
-- *pratnam* \< *pratna*
+- *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *īḍyaṃ* \< *īḍyam* \< *īḍ*
+- *īḍyaṃ* ← *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *śruṣṭī* \< *śruṣṭi*
+- *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *saparyata* \< *sapary*
+- *saparyata* ← *sapary*
 - \[verb\], plural, Present imperative
 - “worship.”
 ------------------------------------------------------------------------

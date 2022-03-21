@@ -2,7 +2,7 @@
 title = "Rig Veda 8.97.1"
 
 +++
--   *yā* \< *yāḥ* \< *yad*
+-   *yā* ← *yāḥ* ← *yad*
 - \[noun\], accusative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,43 +11,43 @@ title = "Rig Veda 8.97.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhuja* \< *bhujaḥ* \< *bhuj*
+- *bhuja* ← *bhujaḥ* ← *bhuj*
 - \[noun\], accusative, plural, feminine
 - “use; advantage; enjoyment.”
 ------------------------------------------------------------------------
-- *ābharaḥ* \< *ābhṛ* \< *√bhṛ*
+- *ābharaḥ* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Present injunctive
 - “bring.”
 ------------------------------------------------------------------------
-- *svarvāṃ* \< *svarvat*
+- *svarvāṃ* ← *svarvat*
 - \[noun\], nominative, singular, masculine
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *asurebhyaḥ* \< *asura*
+- *asurebhyaḥ* ← *asura*
 - \[noun\], ablative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *stotāram* \< *stotṛ*
+- *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -55,14 +55,14 @@ title = "Rig Veda 8.97.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------

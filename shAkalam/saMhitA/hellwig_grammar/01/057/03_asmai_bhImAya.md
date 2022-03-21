@@ -2,15 +2,15 @@
 title = "Rig Veda 1.57.3"
 
 +++
--   *asmai* \< *idam*
+-   *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhīmāya* \< *bhīma*
+- *bhīmāya* ← *bhīma*
 - \[noun\], dative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.57.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *adhvara* \< *adhvare* \< *adhvara*
+- *adhvara* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣa*
+- *uṣo* ← *uṣaḥ* ← *uṣa*
 - \[noun\], nominative, singular, masculine
 - “dawn.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 1.57.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhra* \< *śubhraḥ* \< *śubhra*
+- *śubhra* ← *śubhraḥ* ← *śubhra*
 - \[noun\], nominative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
@@ -38,43 +38,43 @@ title = "Rig Veda 1.57.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *panīyase* \< *panīyas*
+- *panīyase* ← *panīyas*
 - \[noun\], dative, singular, masculine
 - “admirable.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *śravase* \< *śravas*
+- *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *nāmendriyaṃ* \< *nāma* \< *nāman*
+- *nāmendriyaṃ* ← *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *nāmendriyaṃ* \< *indriyam* \< *indriya*
+- *nāmendriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “aindra.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], nominative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *akāri* \< *kṛ*
+- *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,15 +85,15 @@ title = "Rig Veda 1.57.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *nāyase* \< *na*
+- *nāyase* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyase* \< *ayase* \< *i*
+- *nāyase* ← *ayase* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

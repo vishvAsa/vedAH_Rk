@@ -2,41 +2,41 @@
 title = "Rig Veda 1.191.14"
 
 +++
--   *triḥ* \< *tris*
+-   *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *mayūryaḥ* \< *mayūrī*
+- *mayūryaḥ* ← *mayūrī*
 - \[noun\], nominative, plural, feminine
 - “peahen.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *svasāro* \< *svasāraḥ* \< *svasṛ*
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *agruvaḥ* \< *agru*
+- *agruvaḥ* ← *agru*
 - \[noun\], nominative, plural, feminine
 - “unmarried.”
 ------------------------------------------------------------------------
-- *tās* \< *tāḥ* \< *tad*
+- *tās* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viṣaṃ* \< *viṣam* \< *viṣa*
+- *viṣaṃ* ← *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
@@ -45,17 +45,17 @@ title = "Rig Veda 1.191.14"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jabhrira* \< *jabhrire* \< *bhṛ*
+- *jabhrira* ← *jabhrire* ← *bhṛ*
 - \[verb\], plural, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *udakaṃ* \< *udakam* \< *udaka*
+- *udakaṃ* ← *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
 ------------------------------------------------------------------------
-- *kumbhinīr* \< *kumbhinīḥ* \< *kumbhin*
+- *kumbhinīr* ← *kumbhinīḥ* ← *kumbhin*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *iva*

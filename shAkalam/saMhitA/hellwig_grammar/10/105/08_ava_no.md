@@ -6,23 +6,23 @@ title = "Rig Veda 10.105.8"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛjinā* \< *vṛjina*
+- *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
 ------------------------------------------------------------------------
-- *śiśīhy* \< *śiśīhi* \< *śā*
+- *śiśīhy* ← *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *ṛcā* \< *ṛc*
+- *ṛcā* ← *ṛc*
 - \[noun\], instrumental, singular, feminine
 - “Rig-Veda; Mantra; verse; ṛc \[word\]; ṛc.”
 ------------------------------------------------------------------------
-- *vanemānṛcaḥ* \< *vanema* \< *van*
+- *vanemānṛcaḥ* ← *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------

@@ -2,36 +2,36 @@
 title = "Rig Veda 6.69.2"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *janitārā* \< *janitṛ*
+- *janitārā* ← *janitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; janitṛ \[word\].”
 ------------------------------------------------------------------------
-- *matīnām* \< *mati*
+- *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *indrāviṣṇū* \< *indrāviṣṇu*
+- *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *kalaśā* \< *kalaśa*
+- *kalaśā* ← *kalaśa*
 - \[noun\], nominative, dual, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *somadhānā* \< *soma*
+- *somadhānā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somadhānā* \< *dhānā* \< *dhāna*
+- *somadhānā* ← *dhānā* ← *dhāna*
 - \[noun\], nominative, dual, masculine
 - “containing.”
 ------------------------------------------------------------------------
@@ -39,21 +39,21 @@ title = "Rig Veda 6.69.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *śasyamānā* \< *śasyamānāḥ* \< *śaṃs*
+- *śasyamānā* ← *śasyamānāḥ* ← *śaṃs*
 - \[verb noun\], nominative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *avantu* \< *av*
+- *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -61,15 +61,15 @@ title = "Rig Veda 6.69.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *stomāso* \< *stomāsaḥ* \< *stoma*
+- *stomāso* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *gīyamānāso* \< *gīyamānāsaḥ* \< *gā*
+- *gīyamānāso* ← *gīyamānāsaḥ* ← *gā*
 - \[verb noun\], nominative, plural
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”

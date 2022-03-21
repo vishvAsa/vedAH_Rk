@@ -2,74 +2,74 @@
 title = "Rig Veda 6.31.2"
 
 +++
--   *tvad* \< *tvat* \< *tvad*
+-   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhiyendra* \< *bhiyā* \< *bhī*
+- *bhiyendra* ← *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *bhiyendra* \< *indra*
+- *bhiyendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pārthivāni* \< *pārthiva*
+- *pārthivāni* ← *pārthiva*
 - \[noun\], nominative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *viśvācyutā* \< *viśvā* \< *viśva*
+- *viśvācyutā* ← *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvācyutā* \< *acyutā* \< *acyuta*
+- *viśvācyutā* ← *acyutā* ← *acyuta*
 - \[noun\], nominative, plural, neuter
 - “firm; regular; permanent; immovable; unchanging.”
 ------------------------------------------------------------------------
-- *cic* \< *cit*
+- *cic* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cyāvayante* \< *cyāvay* \< *√cyu*
+- *cyāvayante* ← *cyāvay* ← *√cyu*
 - \[verb\], plural, Present indikative
 - “chase away; remove; move.”
 ------------------------------------------------------------------------
-- *rajāṃsi* \< *rajas*
+- *rajāṃsi* ← *rajas*
 - \[noun\], nominative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *dyāvākṣāmā* \< *dyāvākṣam*
+- *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *parvatāso* \< *parvatāsaḥ* \< *parvata*
+- *parvatāso* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *vanāni* \< *vana*
+- *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dṛﾱham* \< *dṛḍha*
+- *dṛﾱham* ← *dṛḍha*
 - \[noun\], nominative, singular, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *bhayate* \< *bhī*
+- *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *ajmann* \< *ajman*
+- *ajmann* ← *ajman*
 - \[noun\], locative, singular, neuter
 - “drive.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 6.31.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

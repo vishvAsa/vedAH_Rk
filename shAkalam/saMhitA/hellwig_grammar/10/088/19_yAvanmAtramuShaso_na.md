@@ -2,10 +2,10 @@
 title = "Rig Veda 10.88.19"
 
 +++
--   *yāvanmātram* \< *yāvanmātra*
+-   *yāvanmātram* ← *yāvanmātra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -13,25 +13,25 @@ title = "Rig Veda 10.88.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pratīkaṃ* \< *pratīkam* \< *pratīka*
+- *pratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, neuter
 - “face; surface.”
 ------------------------------------------------------------------------
-- *suparṇyo* \< *suparṇyaḥ* \< *suparṇī*
+- *suparṇyo* ← *suparṇyaḥ* ← *suparṇī*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *vasate* \< *vas*
+- *vasate* ← *vas*
 - \[verb\], plural, Present indikative
 - “wear.”
 ------------------------------------------------------------------------
-- *mātariśvaḥ* \< *mātariśvan*
+- *mātariśvaḥ* ← *mātariśvan*
 - \[noun\], vocative, singular
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
-- *tāvad* \< *tāvat*
+- *tāvad* ← *tāvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dadhāty* \< *dadhāti* \< *dhā*
+- *dadhāty* ← *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -40,28 +40,28 @@ title = "Rig Veda 10.88.19"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *āyan* \< *e* \< *√i*
+- *āyan* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *brāhmaṇo* \< *brāhmaṇaḥ* \< *brāhmaṇa*
+- *brāhmaṇo* ← *brāhmaṇaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
 ------------------------------------------------------------------------
-- *hotur* \< *hotuḥ* \< *hotṛ*
+- *hotur* ← *hotuḥ* ← *hotṛ*
 - \[noun\], genitive, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *avaro* \< *avaraḥ* \< *avara*
+- *avaro* ← *avaraḥ* ← *avara*
 - \[noun\], nominative, singular, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *niṣīdan* \< *niṣad* \< *√sad*
+- *niṣīdan* ← *niṣad* ← *√sad*
 - \[verb noun\], nominative, singular
 - “sit down; sit; put.”
 ------------------------------------------------------------------------

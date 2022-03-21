@@ -2,24 +2,24 @@
 title = "Rig Veda 9.42.2"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *pratnena* \< *pratna*
+- *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *manmanā* \< *manman*
+- *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devebhyas* \< *devebhyaḥ* \< *deva*
+- *devebhyas* ← *devebhyaḥ* ← *deva*
 - \[noun\], ablative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -28,15 +28,15 @@ title = "Rig Veda 9.42.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

@@ -6,75 +6,75 @@ title = "Rig Veda 1.158.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *garan* \< *gṛ*
+- *garan* ← *gṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “devour; swallow; surround.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *mātṛtamā* \< *mātṛtamāḥ* \< *mātṛtama*
+- *mātṛtamā* ← *mātṛtamāḥ* ← *mātṛtama*
 - \[noun\], nominative, plural, feminine
 - “motherly.”
 ------------------------------------------------------------------------
-- *dāsā* \< *dāsāḥ* \< *dāsa*
+- *dāsā* ← *dāsāḥ* ← *dāsa*
 - \[noun\], nominative, plural, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *susamubdham* \< *su*
+- *susamubdham* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susamubdham* \< *samubdham* \< *samubh* \< *√ubh*
+- *susamubdham* ← *samubdham* ← *samubh* ← *√ubh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *avādhuḥ* \< *avadhā* \< *√dhā*
+- *avādhuḥ* ← *avadhā* ← *√dhā*
 - \[verb\], plural, Root aorist (Ind.)
 - “concentrate; immerse; set down.”
 ------------------------------------------------------------------------
-- *śiro* \< *śiraḥ* \< *śiras*
+- *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *traitano* \< *traitanaḥ* \< *traitana*
+- *traitano* ← *traitanaḥ* ← *traitana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vitakṣat* \< *vitakṣ* \< *√takṣ*
+- *vitakṣat* ← *vitakṣ* ← *√takṣ*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *svayaṃ* \< *svayam*
+- *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
 ------------------------------------------------------------------------
-- *dāsa* \< *dāsaḥ* \< *dāsa*
+- *dāsa* ← *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *uro* \< *uraḥ* \< *uras*
+- *uro* ← *uraḥ* ← *uras*
 - \[noun\], accusative, singular, neuter
 - “breast; thorax; uras \[word\]; bosom; center.”
 ------------------------------------------------------------------------
-- *aṃsāv* \< *aṃsau* \< *aṃsa*
+- *aṃsāv* ← *aṃsau* ← *aṃsa*
 - \[noun\], accusative, dual, masculine
 - “shoulder; aṃsa \[word\].”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 1.158.5"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *gdha* \< *\_* \< *√\_*
+- *gdha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

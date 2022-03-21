@@ -6,27 +6,27 @@ title = "Rig Veda 8.50.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *svadhvara* \< *su*
+- *svadhvara* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvara* \< *adhvare* \< *adhvara*
+- *svadhvara* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *iyāno* \< *iyānaḥ* \< *ī* \< *√i*
+- *iyāno* ← *iyānaḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -34,36 +34,36 @@ title = "Rig Veda 8.50.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tośate* \< *tuś*
+- *tośate* ← *tuś*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *svadāvan*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *svadanti* \< *svad*
+- *svadanti* ← *svad*
 - \[verb\], plural, Present indikative
 - “sweeten.”
 ------------------------------------------------------------------------
-- *gūrtayaḥ* \< *gūrti*
+- *gūrtayaḥ* ← *gūrti*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *paure* \< *paura*
+- *paure* ← *paura*
 - \[noun\], locative, singular, masculine
 - “townsman; citizen.”
 ------------------------------------------------------------------------
-- *chandayase* \< *chanday* \< *√chand*
+- *chandayase* ← *chanday* ← *√chand*
 - \[verb\], singular, Present indikative
 - “satisfy.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

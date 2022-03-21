@@ -2,69 +2,69 @@
 title = "Rig Veda 8.96.3"
 
 +++
--   *indrasya* \< *indra*
+-   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajra* \< *vajraḥ* \< *vajra*
+- *vajra* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *āyaso* \< *āyasaḥ* \< *āyasa*
+- *āyaso* ← *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *nimiśla* \< *nimiślaḥ* \< *nimiśla*
+- *nimiśla* ← *nimiślaḥ* ← *nimiśla*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *bhūyiṣṭham* \< *bhūyiṣṭha*
+- *bhūyiṣṭham* ← *bhūyiṣṭha*
 - \[noun\], nominative, singular, neuter
 - “prevailing; most(a); chief(a); devoted(p).”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *śīrṣann* \< *śīrṣan*
+- *śīrṣann* ← *śīrṣan*
 - \[noun\], locative, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kratavo* \< *kratavaḥ* \< *kratu*
+- *kratavo* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *nireka* \< *nireke* \< *nireka*
+- *nireka* ← *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *āsann* \< *āsan*
+- *āsann* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *eṣanta* \< *\_* \< *√\_*
+- *eṣanta* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *śrutyā* \< *śrutyai* \< *śruti*
+- *śrutyā* ← *śrutyai* ← *śruti*
 - \[noun\], dative, singular, feminine
 - “Veda; rule; ear; proverb; legend; hearing; news; sacred text.”
 ------------------------------------------------------------------------
-- *upāke* \< *upāka*
+- *upāke* ← *upāka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

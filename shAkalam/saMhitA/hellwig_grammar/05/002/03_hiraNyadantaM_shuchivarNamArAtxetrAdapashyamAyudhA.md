@@ -2,15 +2,15 @@
 title = "Rig Veda 5.2.3"
 
 +++
--   *hiraṇyadantaṃ* \< *hiraṇyadantam* \< *hiraṇyadat*
+-   *hiraṇyadantaṃ* ← *hiraṇyadantam* ← *hiraṇyadat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śucivarṇam* \< *śuci*
+- *śucivarṇam* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucivarṇam* \< *varṇam* \< *varṇa*
+- *śucivarṇam* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
@@ -19,36 +19,36 @@ title = "Rig Veda 5.2.3"
 - \[adverb\]
 - “far; ārāt \[word\].”
 ------------------------------------------------------------------------
-- *kṣetrād* \< *kṣetrāt* \< *kṣetra*
+- *kṣetrād* ← *kṣetrāt* ← *kṣetra*
 - \[noun\], ablative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *apaśyam* \< *paś*
+- *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *āyudhā* \< *āyudha*
+- *āyudhā* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *mimānam* \< *mā*
+- *mimānam* ← *mā*
 - \[verb noun\], accusative, singular
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *dadāno* \< *dadānaḥ* \< *dā*
+- *dadāno* ← *dadānaḥ* ← *dā*
 - \[verb noun\], nominative, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
@@ -56,18 +56,18 @@ title = "Rig Veda 5.2.3"
 - *vipṛkvat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *anindrāḥ* \< *anindra*
+- *anindrāḥ* ← *anindra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *kṛṇavann* \< *kṛṇavan* \< *kṛ*
+- *kṛṇavann* ← *kṛṇavan* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,6 +78,6 @@ title = "Rig Veda 5.2.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *anukthāḥ* \< *anuktha*
+- *anukthāḥ* ← *anuktha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

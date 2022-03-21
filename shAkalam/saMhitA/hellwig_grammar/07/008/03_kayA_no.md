@@ -2,15 +2,15 @@
 title = "Rig Veda 7.8.3"
 
 +++
--   *kayā* \< *ka*
+-   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -20,15 +20,15 @@ title = "Rig Veda 7.8.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vasaḥ* \< *vas*
+- *vasaḥ* ← *vas*
 - \[verb\], singular, Aorist conj./subj.
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *suvṛktiṃ* \< *suvṛktim* \< *suvṛkti*
+- *suvṛktiṃ* ← *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *kām* \< *ka*
+- *kām* ← *ka*
 - \[noun\], accusative, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -36,17 +36,17 @@ title = "Rig Veda 7.8.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *svadhām* \< *svadhā*
+- *svadhām* ← *svadhā*
 - \[noun\], accusative, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *ṛṇavaḥ* \< *ṛch*
+- *ṛṇavaḥ* ← *ṛch*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *śasyamānaḥ* \< *śaṃs*
+- *śasyamānaḥ* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
@@ -55,38 +55,38 @@ title = "Rig Veda 7.8.3"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *bhavema* \< *bhū*
+- *bhavema* ← *bhū*
 - \[verb\], plural, Present optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *patayaḥ* \< *pati*
+- *patayaḥ* ← *pati*
 - \[noun\], nominative, plural, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *sudatra* \< *su*
+- *sudatra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudatra* \< *datra* \< *dattra*
+- *sudatra* ← *datra* ← *dattra*
 - \[noun\], vocative, singular, masculine
 - “gift.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *vantāro* \< *vantāraḥ* \< *vantṛ*
+- *vantāro* ← *vantāraḥ* ← *vantṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *duṣṭarasya* \< *duṣṭara*
+- *duṣṭarasya* ← *duṣṭara*
 - \[noun\], genitive, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *sādhoḥ* \< *sādhu*
+- *sādhoḥ* ← *sādhu*
 - \[noun\], genitive, singular, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”

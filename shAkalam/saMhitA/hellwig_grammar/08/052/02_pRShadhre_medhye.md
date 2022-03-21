@@ -2,28 +2,28 @@
 title = "Rig Veda 8.52.2"
 
 +++
--   *pṛṣadhre* \< *pṛṣadhra*
+-   *pṛṣadhre* ← *pṛṣadhra*
 - \[noun\], locative, singular, masculine
 - “Pṛṣadhra.”
 ------------------------------------------------------------------------
-- *medhye* \< *medhya*
+- *medhye* ← *medhya*
 - \[noun\], locative, singular, masculine
 - “barley; goat.”
 ------------------------------------------------------------------------
-- *mātariśvanīndra* \< *mātariśvani* \< *mātariśvan*
+- *mātariśvanīndra* ← *mātariśvani* ← *mātariśvan*
 - \[noun\], locative, singular, masculine
 - “wind; Mātariśvan; Vayu; vāta.”
 ------------------------------------------------------------------------
-- *mātariśvanīndra* \< *indra*
+- *mātariśvanīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suvāne* \< *su*
+- *suvāne* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *amandathāḥ* \< *mand*
+- *amandathāḥ* ← *mand*
 - \[verb\], singular, Imperfect
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 8.52.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *daśaśipre* \< *daśaśipra*
+- *daśaśipre* ← *daśaśipra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *daśoṇye* \< *daśoṇya*
+- *daśoṇye* ← *daśoṇya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *syūmaraśmāv* \< *syūmaraśmau* \< *syūmaraśmi*
+- *syūmaraśmāv* ← *syūmaraśmau* ← *syūmaraśmi*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛjūnasi* \< *ṛjūnas*
+- *ṛjūnasi* ← *ṛjūnas*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

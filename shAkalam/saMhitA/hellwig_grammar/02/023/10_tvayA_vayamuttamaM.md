@@ -2,41 +2,41 @@
 title = "Rig Veda 2.23.10"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uttamaṃ* \< *uttamam* \< *uttama*
+- *uttamaṃ* ← *uttamam* ← *uttama*
 - \[noun\], accusative, singular, neuter
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *dhīmahe* \< *\_* \< *√\_*
+- *dhīmahe* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *papriṇā* \< *papri*
+- *papriṇā* ← *papri*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *sasninā* \< *sasni*
+- *sasninā* ← *sasni*
 - \[noun\], instrumental, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -44,18 +44,18 @@ title = "Rig Veda 2.23.10"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *duḥśaṃso* \< *duḥśaṃsaḥ* \< *duḥśaṃsa*
+- *duḥśaṃso* ← *duḥśaṃsaḥ* ← *duḥśaṃsa*
 - \[noun\], nominative, singular, masculine
 - “calumniatory; wicked.”
 ------------------------------------------------------------------------
-- *abhidipsur* \< *abhidipsuḥ* \< *abhidipsu*
+- *abhidipsur* ← *abhidipsuḥ* ← *abhidipsu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
@@ -63,20 +63,20 @@ title = "Rig Veda 2.23.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *suśaṃsā* \< *su*
+- *suśaṃsā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśaṃsā* \< *śaṃsāḥ* \< *śaṃsa*
+- *suśaṃsā* ← *śaṃsāḥ* ← *śaṃsa*
 - \[noun\], nominative, plural, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *matibhis* \< *matibhiḥ* \< *mati*
+- *matibhis* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *tāriṣīmahi* \< *tṛ*
+- *tāriṣīmahi* ← *tṛ*
 - \[verb\], plural, Aorist optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

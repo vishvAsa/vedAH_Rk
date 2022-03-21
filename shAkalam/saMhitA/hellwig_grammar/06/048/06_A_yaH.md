@@ -6,37 +6,37 @@ title = "Rig Veda 6.48.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *dhūmena* \< *dhūma*
+- *dhūmena* ← *dhūma*
 - \[noun\], instrumental, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *dhāvate* \< *dhāv*
+- *dhāvate* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -44,18 +44,18 @@ title = "Rig Veda 6.48.6"
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *dadṛśa* \< *dadṛśe* \< *dṛś*
+- *dadṛśa* ← *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *ūrmyāsv* \< *ūrmyāsu* \< *ūrmyā*
+- *ūrmyāsv* ← *ūrmyāsu* ← *ūrmyā*
 - \[noun\], locative, plural, feminine
 - “night.”
 ------------------------------------------------------------------------
@@ -63,27 +63,27 @@ title = "Rig Veda 6.48.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śyāvāsv* \< *śyāvāsu* \< *śyāva*
+- *śyāvāsv* ← *śyāvāsu* ← *śyāva*
 - \[noun\], locative, plural, feminine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śyāvā* \< *śyāvāḥ* \< *śyāva*
+- *śyāvā* ← *śyāvāḥ* ← *śyāva*
 - \[noun\], accusative, plural, feminine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------

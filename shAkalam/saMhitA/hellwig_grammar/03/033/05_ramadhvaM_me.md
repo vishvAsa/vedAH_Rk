@@ -2,23 +2,23 @@
 title = "Rig Veda 3.33.5"
 
 +++
--   *ramadhvam* \< *ram*
+-   *ramadhvam* ← *ram*
 - \[verb\], plural, Present imperative
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vacase* \< *vacas*
+- *vacase* ← *vacas*
 - \[noun\], dative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *somyāya* \< *somya*
+- *somyāya* ← *somya*
 - \[noun\], dative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
-- *ṛtāvarīr* \< *ṛtāvarīḥ* \< *ṛtāvan*
+- *ṛtāvarīr* ← *ṛtāvarīḥ* ← *ṛtāvan*
 - \[noun\], vocative, plural, feminine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 3.33.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *muhūrtam* \< *muhūrta*
+- *muhūrtam* ← *muhūrta*
 - \[noun\], accusative, singular, neuter
 - “moment; Muhūrta; moment; Muhūrta.”
 ------------------------------------------------------------------------
-- *evaiḥ* \< *eva*
+- *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 3.33.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -46,29 +46,29 @@ title = "Rig Veda 3.33.5"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *bṛhatī* \< *bṛhat*
+- *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *manīṣāvasyur* \< *manīṣā*
+- *manīṣāvasyur* ← *manīṣā*
 - \[noun\], nominative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *manīṣāvasyur* \< *avasyuḥ* \< *avasyu*
+- *manīṣāvasyur* ← *avasyuḥ* ← *avasyu*
 - \[noun\], nominative, singular, feminine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
-- *ahve* \< *hvā*
+- *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *kuśikasya* \< *kuśika*
+- *kuśikasya* ← *kuśika*
 - \[noun\], genitive, singular, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *sūnuḥ* \< *sūnu*
+- *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------

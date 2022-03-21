@@ -2,11 +2,11 @@
 title = "Rig Veda 9.88.1"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -15,35 +15,35 @@ title = "Rig Veda 9.88.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sunve* \< *su*
+- *sunve* ← *su*
 - \[verb\], singular, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 9.88.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,30 +66,30 @@ title = "Rig Veda 9.88.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vavṛṣa* \< *vavṛṣe* \< *vṛ*
+- *vavṛṣa* ← *vavṛṣe* ← *vṛ*
 - \[verb\], singular, Perfect indicative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *indum* \< *indu*
+- *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *yujyāya* \< *yujya*
+- *yujyāya* ← *yujya*
 - \[noun\], dative, singular, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

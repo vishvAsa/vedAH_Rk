@@ -6,35 +6,35 @@ title = "Rig Veda 1.147.1"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śucayanta* \< *śucayantaḥ* \< *śocay* \< *√śuc*
+- *śucayanta* ← *śucayantaḥ* ← *śocay* ← *√śuc*
 - \[verb noun\], nominative, plural
 - “distress; afflict; burn.”
 ------------------------------------------------------------------------
-- *āyor* \< *āyoḥ* \< *āyu*
+- *āyor* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *dadāśur* \< *dadāśuḥ* \< *dāś*
+- *dadāśur* ← *dadāśuḥ* ← *dāś*
 - \[verb\], plural, Perfect indicative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *āśuṣāṇāḥ* \< *āśuṣ* \< *√śuṣ*
+- *āśuṣāṇāḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -42,20 +42,20 @@ title = "Rig Veda 1.147.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *toke* \< *toka*
+- *toke* ← *toka*
 - \[noun\], accusative, dual, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, masculine
 - “son.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 1.147.1"
 - \[noun\], locative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *raṇayanta* \< *raṇay* \< *√raṇ*
+- *raṇayanta* ← *raṇay* ← *√raṇ*
 - \[verb\], plural, Imperfect
 - “delight.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

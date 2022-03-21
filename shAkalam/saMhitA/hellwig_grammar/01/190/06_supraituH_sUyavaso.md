@@ -2,14 +2,14 @@
 title = "Rig Veda 1.190.6"
 
 +++
--   *supraituḥ* \< *supraitu*
+-   *supraituḥ* ← *supraitu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *sūyavaso* \< *su*
+- *sūyavaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sūyavaso* \< *yavasaḥ* \< *yavasa*
+- *sūyavaso* ← *yavasaḥ* ← *yavasa*
 - \[noun\], nominative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
@@ -17,25 +17,25 @@ title = "Rig Veda 1.190.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *panthā* \< *panthāḥ* \< *pathin*
+- *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *durniyantuḥ* \< *durniyantu*
+- *durniyantuḥ* ← *durniyantu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pariprīto* \< *pariprītaḥ* \< *pariprī* \< *√prī*
+- *pariprīto* ← *pariprītaḥ* ← *pariprī* ← *√prī*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mitraḥ* \< *mitra*
+- *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *anarvāṇo* \< *anarvāṇaḥ* \< *anarvan*
+- *anarvāṇo* ← *anarvāṇaḥ* ← *anarvan*
 - \[noun\], nominative, plural, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
@@ -43,26 +43,26 @@ title = "Rig Veda 1.190.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakṣate* \< *cakṣ*
+- *cakṣate* ← *cakṣ*
 - \[verb\], plural, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'pīvṛtā* \< *apīvṛtāḥ* \< *apivṛ* \< *√vṛ*
+- *'pīvṛtā* ← *apīvṛtāḥ* ← *apivṛ* ← *√vṛ*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *aporṇuvanto* \< *aporṇuvantaḥ* \< *apavṛ* \< *√vṛ*
+- *aporṇuvanto* ← *aporṇuvantaḥ* ← *apavṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “open.”
 ------------------------------------------------------------------------
-- *asthuḥ* \< *sthā*
+- *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

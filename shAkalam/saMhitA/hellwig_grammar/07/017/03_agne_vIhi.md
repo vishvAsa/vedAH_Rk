@@ -2,38 +2,38 @@
 title = "Rig Veda 7.17.3"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vīhi* \< *vī* \< *√i*
+- *vīhi* ← *vī* ← *√i*
 - \[verb\], singular, Present imperative
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *yakṣi* \< *yaj*
+- *yakṣi* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *svadhvarā* \< *su*
+- *svadhvarā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvarā* \< *adhvarā* \< *adhvara*
+- *svadhvarā* ← *adhvarā* ← *adhvara*
 - \[noun\], accusative, plural, neuter
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,7 +44,7 @@ title = "Rig Veda 7.17.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

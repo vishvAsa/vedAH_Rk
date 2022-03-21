@@ -6,11 +6,11 @@ title = "Rig Veda 8.2.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śukro* \< *śukraḥ* \< *śukra*
+- *śukro* ← *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
@@ -18,32 +18,32 @@ title = "Rig Veda 8.2.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *durāśīr* \< *durāśir*
+- *durāśīr* ← *durāśir*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tṛprā* \< *tṛprāḥ* \< *tṛpra*
+- *tṛprā* ← *tṛprāḥ* ← *tṛpra*
 - \[noun\], nominative, plural, masculine
 - “tṛpra \[word\].”
 ------------------------------------------------------------------------
-- *uruvyacasam* \< *uru*
+- *uruvyacasam* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruvyacasam* \< *vyacasam* \< *vyacas*
+- *uruvyacasam* ← *vyacasam* ← *vyacas*
 - \[noun\], accusative, singular, masculine
 - “area; capacity.”
 ------------------------------------------------------------------------
-- *apaspṛṇvate* \< *apaspṛ* \< *√spṛ*
+- *apaspṛṇvate* ← *apaspṛ* ← *√spṛ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *suhārdam* \< *su*
+- *suhārdam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhārdam* \< *hārdam* \< *hārda*
+- *suhārdam* ← *hārdam* ← *hārda*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

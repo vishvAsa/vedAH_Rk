@@ -6,19 +6,19 @@ title = "Rig Veda 4.4.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
@@ -26,48 +26,48 @@ title = "Rig Veda 4.4.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tanuṣva* \< *tan*
+- *tanuṣva* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *amitrāṃ* \< *amitra*
+- *amitrāṃ* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *oṣatāt* \< *uṣ*
+- *oṣatāt* ← *uṣ*
 - \[verb\], singular, Present imperative
 - “burn; punish.”
 ------------------------------------------------------------------------
-- *tigmahete* \< *tigma*
+- *tigmahete* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmahete* \< *hete* \< *heti*
+- *tigmahete* ← *hete* ← *heti*
 - \[noun\], vocative, singular, masculine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arātiṃ* \< *arātim* \< *arāti*
+- *arātiṃ* ← *arātim* ← *arāti*
 - \[noun\], accusative, singular, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *samidhāna* \< *samindh* \< *√indh*
+- *samidhāna* ← *samindh* ← *√indh*
 - \[verb noun\], vocative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -82,18 +82,18 @@ title = "Rig Veda 4.4.4"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhakṣy* \< *dhakṣi* \< *dah*
+- *dhakṣy* ← *dhakṣi* ← *dah*
 - \[verb\], singular, Present indikative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
 ------------------------------------------------------------------------
-- *atasaṃ* \< *atasam* \< *atasa*
+- *atasaṃ* ← *atasam* ← *atasa*
 - \[noun\], accusative, singular, neuter
 - “shrub; scrub.”
 ------------------------------------------------------------------------
@@ -101,7 +101,7 @@ title = "Rig Veda 4.4.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śuṣkam* \< *śuṣka*
+- *śuṣkam* ← *śuṣka*
 - \[noun\], accusative, singular, neuter
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
 ------------------------------------------------------------------------

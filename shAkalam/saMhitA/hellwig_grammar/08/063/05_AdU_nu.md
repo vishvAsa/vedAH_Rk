@@ -2,11 +2,11 @@
 title = "Rig Veda 8.63.5"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 8.63.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 8.63.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -31,37 +31,37 @@ title = "Rig Veda 8.63.5"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *varasya* \< *vara*
+- *varasya* ← *vara*
 - \[noun\], genitive, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
-- *yajyavaḥ* \< *yajyu*
+- *yajyavaḥ* ← *yajyu*
 - \[noun\], nominative, plural, masculine
 - “worshiping.”
 ------------------------------------------------------------------------
-- *śvātram* \< *śvātra*
+- *śvātram* ← *śvātra*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *arkā* \< *arkāḥ* \< *arka*
+- *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *anūṣatendra* \< *anūṣata* \< *nū*
+- *anūṣatendra* ← *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *anūṣatendra* \< *indra*
+- *anūṣatendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gotrasya* \< *gotra*
+- *gotrasya* ← *gotra*
 - \[noun\], genitive, singular, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

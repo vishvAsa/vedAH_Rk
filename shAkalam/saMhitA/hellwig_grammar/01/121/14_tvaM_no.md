@@ -2,15 +2,15 @@
 title = "Rig Veda 1.121.14"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -19,21 +19,21 @@ title = "Rig Veda 1.121.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *durhaṇāyāḥ* \< *durhaṇā*
+- *durhaṇāyāḥ* ← *durhaṇā*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *vajrivo* \< *vajrivas* \< *vajrivat*
+- *vajrivo* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *duritād* \< *duritāt* \< *durita*
+- *duritād* ← *duritāt* ← *durita*
 - \[noun\], ablative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
@@ -41,37 +41,37 @@ title = "Rig Veda 1.121.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *aśvabudhyān* \< *aśva*
+- *aśvabudhyān* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvabudhyān* \< *budhyān* \< *budhya*
+- *aśvabudhyān* ← *budhyān* ← *budhya*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *yandhi* \< *yam*
+- *yandhi* ← *yam*
 - \[verb\], singular, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *śravase* \< *śravas*
+- *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *sūnṛtāyai* \< *sūnṛtā*
+- *sūnṛtāyai* ← *sūnṛtā*
 - \[noun\], dative, singular, feminine
 - “liberality.”
 ------------------------------------------------------------------------

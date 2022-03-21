@@ -2,29 +2,29 @@
 title = "Rig Veda 1.121.7"
 
 +++
--   *svidhmā* \< *su*
+-   *svidhmā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svidhmā* \< *idhmā* \< *idhma*
+- *svidhmā* ← *idhmā* ← *idhma*
 - \[noun\], nominative, singular, feminine
 - “fuel.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vanadhitir* \< *vanadhitiḥ* \< *vanadhiti*
+- *vanadhitir* ← *vanadhitiḥ* ← *vanadhiti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *apasyāt* \< *apasy*
+- *apasyāt* ← *apasy*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -32,28 +32,28 @@ title = "Rig Veda 1.121.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *rodhanā* \< *rodhana*
+- *rodhanā* ← *rodhana*
 - \[noun\], accusative, plural, neuter
 - “rodhana; shutting.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *prabhāsi* \< *prabhā* \< *√bhā*
+- *prabhāsi* ← *prabhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “dawn; look.”
 ------------------------------------------------------------------------
-- *kṛtvyāṃ* \< *kṛtvya*
+- *kṛtvyāṃ* ← *kṛtvya*
 - \[noun\], accusative, plural, masculine
 - “confident.”
 ------------------------------------------------------------------------
@@ -61,17 +61,17 @@ title = "Rig Veda 1.121.7"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *anarviśe* \< *anarviś*
+- *anarviśe* ← *anarviś*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *paśviṣe* \< *paśviṣ*
+- *paśviṣe* ← *paśviṣ*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *turāya* \< *tura*
+- *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------

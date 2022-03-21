@@ -2,7 +2,7 @@
 title = "Rig Veda 8.76.1"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,28 +10,28 @@ title = "Rig Veda 8.76.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *māyinaṃ* \< *māyinam* \< *māyin*
+- *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *huva* \< *huve* \< *hvā*
+- *huva* ← *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *īśānam* \< *īś*
+- *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *marutvantaṃ* \< *marutvantam* \< *marutvant*
+- *marutvantaṃ* ← *marutvantam* ← *marutvant*
 - \[noun\], accusative, singular, masculine
 - “Indra; marutvant \[word\].”
 ------------------------------------------------------------------------
@@ -39,6 +39,6 @@ title = "Rig Veda 8.76.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛñjase* \< *vṛj*
+- *vṛñjase* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------

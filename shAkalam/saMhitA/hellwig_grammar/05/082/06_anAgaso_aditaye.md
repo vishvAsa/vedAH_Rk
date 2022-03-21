@@ -2,37 +2,37 @@
 title = "Rig Veda 5.82.6"
 
 +++
--   *anāgaso* \< *anāgasaḥ* \< *anāgas*
+-   *anāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *aditaye* \< *aditi*
+- *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savituḥ* \< *savitṛ*
+- *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *save* \< *sava*
+- *save* ← *sava*
 - \[noun\], locative, singular, masculine
 - “yajña; command; impulse; direction; momentum.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vāmāni* \< *vāma*
+- *vāmāni* ← *vāma*
 - \[noun\], accusative, plural, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *dhīmahi* \< *dhā*
+- *dhīmahi* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

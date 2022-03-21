@@ -2,20 +2,20 @@
 title = "Rig Veda 7.31.2"
 
 +++
--   *śaṃsed* \< *śaṃsa* \< *śaṃs*
+-   *śaṃsed* ← *śaṃsa* ← *śaṃs*
 - \[verb\], singular, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *śaṃsed* \< *id*
+- *śaṃsed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ukthaṃ* \< *uktham* \< *uktha*
+- *ukthaṃ* ← *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *sudānava* \< *sudānave* \< *sudānu*
+- *sudānava* ← *sudānave* ← *sudānu*
 - \[noun\], dative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 7.31.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyukṣaṃ* \< *dyukṣam* \< *dyukṣa*
+- *dyukṣaṃ* ← *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, neuter
 - “celestial; divine; divine; brilliant.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 7.31.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -46,11 +46,11 @@ title = "Rig Veda 7.31.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *satyarādhase* \< *satya*
+- *satyarādhase* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyarādhase* \< *rādhase* \< *rādhas*
+- *satyarādhase* ← *rādhase* ← *rādhas*
 - \[noun\], dative, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

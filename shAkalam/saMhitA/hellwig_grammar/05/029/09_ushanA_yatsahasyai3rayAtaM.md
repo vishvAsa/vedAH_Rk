@@ -9,11 +9,11 @@ title = "Rig Veda 5.29.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sahasyair* \< *sahasyaiḥ* \< *sahasya*
+- *sahasyair* ← *sahasyaiḥ* ← *sahasya*
 - \[noun\], instrumental, plural, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *ayātaṃ* \< *ayātam* \< *yā*
+- *ayātaṃ* ← *ayātam* \< *yā*
 - \[verb\], dual, Root aorist (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

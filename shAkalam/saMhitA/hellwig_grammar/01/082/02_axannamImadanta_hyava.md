@@ -2,15 +2,15 @@
 title = "Rig Veda 1.82.2"
 
 +++
--   *akṣann* \< *akṣan* \< *ghas*
+-   *akṣann* ← *akṣan* ← *ghas*
 - \[verb\], plural, Root aorist (Ind.)
 - “eat.”
 ------------------------------------------------------------------------
-- *amīmadanta* \< *mad*
+- *amīmadanta* ← *mad*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -18,43 +18,43 @@ title = "Rig Veda 1.82.2"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *priyā* \< *priyāḥ* \< *priya*
+- *priyā* ← *priyāḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *adhūṣata* \< *dhū*
+- *adhūṣata* ← *dhū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *astoṣata* \< *stu*
+- *astoṣata* ← *stu*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *svabhānavo* \< *sva*
+- *svabhānavo* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svabhānavo* \< *bhānavaḥ* \< *bhānu*
+- *svabhānavo* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *naviṣṭhayā* \< *naviṣṭha*
+- *naviṣṭhayā* ← *naviṣṭha*
 - \[noun\], instrumental, singular, feminine
 - “late(a).”
 ------------------------------------------------------------------------
-- *matī* \< *mati*
+- *matī* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *yojā* \< *yuj*
+- *yojā* ← *yuj*
 - \[verb\], singular, Aorist conj./subj.
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -62,7 +62,7 @@ title = "Rig Veda 1.82.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 1.82.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”

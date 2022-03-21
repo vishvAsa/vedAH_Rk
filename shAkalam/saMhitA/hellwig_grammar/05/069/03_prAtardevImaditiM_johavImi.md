@@ -6,60 +6,60 @@ title = "Rig Veda 5.69.3"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *devīm* \< *devī*
+- *devīm* ← *devī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *johavīmi* \< *johav* \< *√hvā*
+- *johavīmi* ← *johav* ← *√hvā*
 - \[verb\], singular, Present indikative
 - “appeal.”
 ------------------------------------------------------------------------
-- *madhyandina* \< *madhyandine* \< *madhyaṃdina*
+- *madhyandina* ← *madhyandine* ← *madhyaṃdina*
 - \[noun\], locative, singular, masculine
 - “noon; Pentapetes phoenicea Linn..”
 ------------------------------------------------------------------------
-- *uditā* \< *uditi*
+- *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
 - “rise.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *sarvatāteﾱe* \< *sarvatātā* \< *sarvatāti*
+- *sarvatāteﾱe* ← *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *sarvatāteﾱe* \< *īḍe* \< *īḍ*
+- *sarvatāteﾱe* ← *īḍe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayāya* \< *tanaya*
+- *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *yoḥ* \< *yos*
+- *yoḥ* ← *yos*
 - \[noun\], accusative, singular, neuter
 - “fortune.”
 ------------------------------------------------------------------------

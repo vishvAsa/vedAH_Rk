@@ -2,92 +2,92 @@
 title = "Rig Veda 1.164.49"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stanaḥ* \< *stana*
+- *stanaḥ* ← *stana*
 - \[noun\], nominative, singular, masculine
 - “breast; udder; stana \[word\]; sprout; nipple.”
 ------------------------------------------------------------------------
-- *śaśayo* \< *śaśayaḥ* \< *śaśaya*
+- *śaśayo* ← *śaśayaḥ* ← *śaśaya*
 - \[noun\], nominative, singular, masculine
 - “abundant.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mayobhūr* \< *mayaḥ* \< *mayas*
+- *mayobhūr* ← *mayaḥ* ← *mayas*
 - \[noun\], neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *mayobhūr* \< *bhūḥ* \< *bhū*
+- *mayobhūr* ← *bhūḥ* ← *bhū*
 - \[noun\], nominative, singular, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *puṣyasi* \< *puṣ*
+- *puṣyasi* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *vāryāṇi* \< *vārya*
+- *vāryāṇi* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *ratna*
+- *ratnadhā* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *dhāḥ* \< *dhā*
+- *ratnadhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *vasuvid* \< *vasu*
+- *vasuvid* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasuvid* \< *vid*
+- *vasuvid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudatraḥ* \< *su*
+- *sudatraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudatraḥ* \< *datraḥ* \< *dattra*
+- *sudatraḥ* ← *datraḥ* ← *dattra*
 - \[noun\], nominative, singular, masculine
 - “gift.”
 ------------------------------------------------------------------------
-- *sarasvati* \< *sarasvatī*
+- *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -97,11 +97,11 @@ title = "Rig Veda 1.164.49"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *dhātave* \< *dhā*
+- *dhātave* ← *dhā*
 - \[verb noun\]
 - “breastfeed; suck.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

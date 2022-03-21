@@ -2,36 +2,36 @@
 title = "Rig Veda 8.18.22"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *mṛtyubandhava* \< *mṛtyu*
+- *mṛtyubandhava* ← *mṛtyu*
 - \[noun\], masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *mṛtyubandhava* \< *bandhavaḥ* \< *bandhu*
+- *mṛtyubandhava* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *manavaḥ* \< *manu*
+- *manavaḥ* ← *manu*
 - \[noun\], nominative, plural, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *smasi* \< *as*
+- *smasi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -40,23 +40,23 @@ title = "Rig Veda 8.18.22"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sū* \< *su*
+- *sū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *tiretana* \< *tṛ*
+- *tiretana* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

@@ -2,41 +2,41 @@
 title = "Rig Veda 10.17.6"
 
 +++
--   *prapathe* \< *prapatha*
+-   *prapathe* ← *prapatha*
 - \[noun\], locative, singular, masculine
 - “journey; way.”
 ------------------------------------------------------------------------
-- *pathām* \< *pathin*
+- *pathām* ← *pathin*
 - \[noun\], genitive, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *ajaniṣṭa* \< *jan*
+- *ajaniṣṭa* ← *jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *prapathe* \< *prapatha*
+- *prapathe* ← *prapatha*
 - \[noun\], locative, singular, masculine
 - “journey; way.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *prapathe* \< *prapatha*
+- *prapathe* ← *prapatha*
 - \[noun\], locative, singular, masculine
 - “journey; way.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 10.17.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *priyatame* \< *priyatama*
+- *priyatame* ← *priyatama*
 - \[noun\], accusative, dual, neuter
 - “beloved; dearest.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], accusative, dual, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
@@ -68,13 +68,13 @@ title = "Rig Veda 10.17.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *prajānan* \< *prajñā* \< *√jñā*
+- *prajānan* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
 ------------------------------------------------------------------------

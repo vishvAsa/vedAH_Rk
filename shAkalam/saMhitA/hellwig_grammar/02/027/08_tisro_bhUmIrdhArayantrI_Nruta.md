@@ -2,23 +2,23 @@
 title = "Rig Veda 2.27.8"
 
 +++
--   *tisro* \< *tisraḥ* \< *tri*
+-   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *bhūmīr* \< *bhūmīḥ* \< *bhūmi*
+- *bhūmīr* ← *bhūmīḥ* ← *bhūmi*
 - \[noun\], accusative, plural, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *dhārayan* \< *dhāray* \< *√dhṛ*
+- *dhārayan* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *trīṃr* \< *tri*
+- *trīṃr* ← *tri*
 - \[noun\], accusative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -26,20 +26,20 @@ title = "Rig Veda 2.27.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], nominative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *vratā* \< *vrata*
+- *vratā* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 2.27.8"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṛtenādityā* \< *ṛtena* \< *ṛta*
+- *ṛtenādityā* ← *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtenādityā* \< *ādityāḥ* \< *āditya*
+- *ṛtenādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
@@ -63,19 +63,19 @@ title = "Rig Veda 2.27.8"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *mahi*
+- *mahitvaṃ* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvaṃ* \< *tvam* \< *tva*
+- *mahitvaṃ* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

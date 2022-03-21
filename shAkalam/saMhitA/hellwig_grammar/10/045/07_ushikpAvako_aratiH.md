@@ -2,22 +2,22 @@
 title = "Rig Veda 10.45.7"
 
 +++
--   *uśik* \< *uśij*
+-   *uśik* ← *uśij*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pāvako* \< *pāvakaḥ* \< *pāvaka*
+- *pāvako* ← *pāvakaḥ* ← *pāvaka*
 - \[noun\], nominative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *aratiḥ* \< *arati*
+- *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *sumedhā* \< *sumedhāḥ* \< *sumedhas*
+- *sumedhā* ← *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *marteṣv* \< *marteṣu* \< *marta*
+- *marteṣv* ← *marteṣu* \< *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------

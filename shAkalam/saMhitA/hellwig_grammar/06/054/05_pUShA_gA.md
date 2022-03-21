@@ -2,52 +2,52 @@
 title = "Rig Veda 6.54.5"
 
 +++
--   *pūṣā* \< *pūṣan*
+-   *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *rakṣatv* \< *rakṣatu* \< *rakṣ*
+- *rakṣatv* ← *rakṣatu* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *arvataḥ* \< *arvant*
+- *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *sanotu* \< *san*
+- *sanotu* ← *san*
 - \[verb\], singular, Present imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

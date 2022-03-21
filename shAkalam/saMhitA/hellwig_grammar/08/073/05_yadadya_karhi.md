@@ -2,7 +2,7 @@
 title = "Rig Veda 8.73.5"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -13,41 +13,41 @@ title = "Rig Veda 8.73.5"
 - *karhi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *karhicicchuśrūyātam* \< *karhicit*
+- *karhicicchuśrūyātam* ← *karhicit*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *karhicicchuśrūyātam* \< *śuśrūyātam* \< *śru*
+- *karhicicchuśrūyātam* ← *śuśrūyātam* ← *śru*
 - \[verb\], dual, Perfect optative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

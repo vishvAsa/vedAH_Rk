@@ -2,54 +2,54 @@
 title = "Rig Veda 8.25.12"
 
 +++
--   *aghnate* \< *a*
+-   *aghnate* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aghnate* \< *ghnate* \< *han*
+- *aghnate* ← *ghnate* ← *han*
 - \[verb noun\], dative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *viṣṇave* \< *viṣṇu*
+- *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ariṣyantaḥ* \< *a*
+- *ariṣyantaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ariṣyantaḥ* \< *riṣyantaḥ* \< *riṣ*
+- *ariṣyantaḥ* ← *riṣyantaḥ* ← *riṣ*
 - \[verb noun\], nominative, plural
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *sudānave* \< *sudānu*
+- *sudānave* ← *sudānu*
 - \[noun\], dative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *svayāvan* \< *sva*
+- *svayāvan* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayāvan* \< *yāvan*
+- *svayāvan* ← *yāvan*
 - \[noun\], vocative, singular, masculine
 - “traveler.”
 ------------------------------------------------------------------------
-- *sindho* \< *sindhu*
+- *sindho* ← *sindhu*
 - \[noun\], vocative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *pūrvacittaye* \< *pūrvacitti*
+- *pūrvacittaye* ← *pūrvacitti*
 - \[noun\], dative, singular, feminine
 - “Pūrvacitti.”
 ------------------------------------------------------------------------

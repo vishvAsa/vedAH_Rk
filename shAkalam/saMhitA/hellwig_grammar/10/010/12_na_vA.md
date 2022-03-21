@@ -6,7 +6,7 @@ title = "Rig Veda 10.10.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 10.10.12"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanu*
+- *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -30,44 +30,44 @@ title = "Rig Veda 10.10.12"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *papṛcyām* \< *pṛc*
+- *papṛcyām* ← *pṛc*
 - \[verb\], singular, Perfect optative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *pāpam* \< *pāpa*
+- *pāpam* ← *pāpa*
 - \[noun\], accusative, singular, masculine
 - “evil; dangerous; wicked; pāpa \[word\].”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *svasāraṃ* \< *svasāram* \< *svasṛ*
+- *svasāraṃ* ← *svasāram* ← *svasṛ*
 - \[noun\], accusative, singular
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *nigacchāt* \< *nigam* \< *√gam*
+- *nigacchāt* ← *nigam* ← *√gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “love.”
 ------------------------------------------------------------------------
-- *anyena* \< *anya*
+- *anyena* ← *anya*
 - \[noun\], instrumental, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *mat* \< *mad*
+- *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pramudaḥ* \< *pramud*
+- *pramudaḥ* ← *pramud*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *kalpayasva* \< *kalpay* \< *√kﾱp*
+- *kalpayasva* ← *kalpay* ← *√kﾱp*
 - \[verb\], singular, Present imperative
 - “prepare; assign; create; produce; fix; restore; order; prepare;
     imitate; restore; make; treat.”
@@ -76,24 +76,24 @@ title = "Rig Veda 10.10.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhrātā* \< *bhrātṛ*
+- *bhrātā* ← *bhrātṛ*
 - \[noun\], nominative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *vaṣṭy* \< *vaṣṭi* \< *vaś*
+- *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *etat* \< *etad*
+- *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------

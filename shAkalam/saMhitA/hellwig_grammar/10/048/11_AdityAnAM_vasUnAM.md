@@ -2,19 +2,19 @@
 title = "Rig Veda 10.48.11"
 
 +++
--   *ādityānāṃ* \< *ādityānām* \< *āditya*
+-   *ādityānāṃ* ← *ādityānām* ← *āditya*
 - \[noun\], genitive, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *rudriyāṇāṃ* \< *rudriyāṇām* \< *rudriya*
+- *rudriyāṇāṃ* ← *rudriyāṇām* ← *rudriya*
 - \[noun\], genitive, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

@@ -6,7 +6,7 @@ title = "Rig Veda 5.52.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rukmair* \< *rukmaiḥ* \< *rukma*
+- *rukmair* ← *rukmaiḥ* ← *rukma*
 - \[noun\], instrumental, plural, neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
@@ -14,32 +14,32 @@ title = "Rig Veda 5.52.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yudhā* \< *yudh*
+- *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *ṛṣvā* \< *ṛṣvāḥ* \< *ṛṣva*
+- *ṛṣvā* ← *ṛṣvāḥ* ← *ṛṣva*
 - \[noun\], accusative, plural, feminine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *ṛṣṭīr* \< *ṛṣṭīḥ* \< *ṛṣṭi*
+- *ṛṣṭīr* ← *ṛṣṭīḥ* ← *ṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------
-- *asṛkṣata* \< *sṛj*
+- *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *enāṃ* \< *enān* \< *enad*
+- *enāṃ* ← *enān* ← *enad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -47,36 +47,36 @@ title = "Rig Veda 5.52.6"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *vidyuto* \< *vidyutaḥ* \< *vidyut*
+- *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *jajjhatīr* \< *jajjhatīḥ* \< *jajhjhatī*
+- *jajjhatīr* ← *jajjhatīḥ* ← *jajhjhatī*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhānur* \< *bhānuḥ* \< *bhānu*
+- *bhānur* ← *bhānuḥ* ← *bhānu*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *arta* \< *ṛch*
+- *arta* ← *ṛch*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

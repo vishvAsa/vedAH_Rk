@@ -6,7 +6,7 @@ title = "Rig Veda 7.21.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yātava* \< *yātavaḥ* \< *yātu*
+- *yātava* ← *yātavaḥ* ← *yātu*
 - \[noun\], nominative, plural, masculine
 - “monster; mythical monster; sorcerer; yātu \[word\]; witchcraft;
     sorcery.”
@@ -16,11 +16,11 @@ title = "Rig Veda 7.21.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jūjuvur* \< *jūjuvuḥ* \< *jū*
+- *jūjuvur* ← *jūjuvuḥ* ← *jū*
 - \[verb\], plural, Perfect indicative
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -28,33 +28,33 @@ title = "Rig Veda 7.21.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vandanā* \< *vandanāḥ* \< *vandana*
+- *vandanā* ← *vandanāḥ* ← *vandana*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *śaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *vedyābhiḥ* \< *vedyā*
+- *vedyābhiḥ* ← *vedyā*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śardhad* \< *śardhat* \< *śṛdh*
+- *śardhad* ← *śardhat* ← *śṛdh*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *viṣuṇasya* \< *viṣuṇa*
+- *viṣuṇasya* ← *viṣuṇa*
 - \[noun\], genitive, singular, masculine
 - “different; assorted; antipathetic; changing.”
 ------------------------------------------------------------------------
-- *jantor* \< *jantoḥ* \< *jantu*
+- *jantor* ← *jantoḥ* ← *jantu*
 - \[noun\], genitive, singular, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 7.21.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śiśnadevā* \< *śiśna*
+- *śiśnadevā* ← *śiśna*
 - \[noun\], neuter
 - “penis; tail.”
 ------------------------------------------------------------------------
-- *śiśnadevā* \< *devāḥ* \< *deva*
+- *śiśnadevā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -76,15 +76,15 @@ title = "Rig Veda 7.21.5"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *gur* \< *guḥ* \< *gā*
+- *gur* ← *guḥ* ← *gā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

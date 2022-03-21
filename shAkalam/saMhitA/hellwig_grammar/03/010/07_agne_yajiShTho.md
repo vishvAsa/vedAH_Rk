@@ -2,37 +2,37 @@
 title = "Rig Veda 3.10.7"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yajiṣṭho* \< *yajiṣṭhaḥ* \< *yajiṣṭha*
+- *yajiṣṭho* ← *yajiṣṭhaḥ* ← *yajiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayate* \< *devay*
+- *devayate* ← *devay*
 - \[verb noun\], dative, singular
 - “solicit.”
 ------------------------------------------------------------------------
-- *yaja* \< *yaj*
+- *yaja* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *mandro* \< *mandraḥ* \< *mandra*
+- *mandro* ← *mandraḥ* ← *mandra*
 - \[noun\], nominative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 3.10.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājasy* \< *rājasi* \< *rāj*
+- *rājasy* ← *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 3.10.7"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------

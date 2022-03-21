@@ -6,28 +6,28 @@ title = "Rig Veda 8.27.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *adruho* \< *adruhaḥ* \< *adruh*
+- *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], vocative, plural, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *'cchidraṃ* \< *acchidram* \< *acchidra*
+- *'cchidraṃ* ← *acchidram* ← *acchidra*
 - \[noun\], accusative, singular, neuter
 - “uninjured; unbroken.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchata* \< *yam*
+- *yacchata* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -35,35 +35,35 @@ title = "Rig Veda 8.27.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt*
+- *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *antito* \< *antitas*
+- *antito* ← *antitas*
 - \[adverb\]
 - “nearby.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *ādadharṣati* \< *ādhṛṣ* \< *√dhṛṣ*
+- *ādadharṣati* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “overcome; suppress.”
 ------------------------------------------------------------------------

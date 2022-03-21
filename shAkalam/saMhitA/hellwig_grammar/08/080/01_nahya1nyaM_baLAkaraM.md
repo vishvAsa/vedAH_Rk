@@ -2,18 +2,18 @@
 title = "Rig Veda 8.80.1"
 
 +++
--   *nahy* \< *nahi*
+-   *nahy* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *anyam* \< *anya*
+- *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *baﾱākaram* \< *baḍā*
+- *baﾱākaram* ← *baḍā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *baﾱākaram* \< *akaram* \< *kṛ*
+- *baﾱākaram* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -24,19 +24,19 @@ title = "Rig Veda 8.80.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *marḍitāraṃ* \< *marḍitāram* \< *marḍitṛ*
+- *marḍitāraṃ* ← *marḍitāram* ← *marḍitṛ*
 - \[noun\], accusative, singular, masculine
 - “sympathizer.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 8.80.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mṛﾱaya* \< *mṛḍaya* \< *mṛḍay* \< *√mṛḍ*
+- *mṛﾱaya* ← *mṛḍaya* ← *mṛḍay* ← *√mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

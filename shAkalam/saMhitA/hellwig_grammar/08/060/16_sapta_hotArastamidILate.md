@@ -2,15 +2,15 @@
 title = "Rig Veda 8.60.16"
 
 +++
--   *sapta* \< *saptan*
+-   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *hotāras* \< *hotāraḥ* \< *hotṛ*
+- *hotāras* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -20,42 +20,42 @@ title = "Rig Veda 8.60.16"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *īﾱate* \< *īḍate* \< *īḍ*
+- *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *tvāgne* \< *tvā* \< *tvad*
+- *tvāgne* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāgne* \< *agne* \< *agni*
+- *tvāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sutyajam* \< *su*
+- *sutyajam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutyajam* \< *tyajam* \< *tyaj*
+- *sutyajam* ← *tyajam* ← *tyaj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ahrayam* \< *ahraya*
+- *ahrayam* ← *ahraya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bhinatsy* \< *bhinatsi* \< *bhid*
+- *bhinatsy* ← *bhinatsi* ← *bhid*
 - \[verb\], singular, Present indikative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *adriṃ* \< *adrim* \< *adri*
+- *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *tapasā* \< *tapas*
+- *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
@@ -64,27 +64,27 @@ title = "Rig Veda 8.60.16"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *prāgne* \< *pra*
+- *prāgne* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāgne* \< *agne* \< *agni*
+- *prāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *janāṃ* \< *jana*
+- *janāṃ* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

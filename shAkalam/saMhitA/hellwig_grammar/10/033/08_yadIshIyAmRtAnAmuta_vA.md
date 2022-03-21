@@ -2,15 +2,15 @@
 title = "Rig Veda 10.33.8"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īśīyāmṛtānām* \< *īśīya* \< *īś*
+- *īśīyāmṛtānām* ← *īśīya* ← *īś*
 - \[verb\], singular, Present optative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *īśīyāmṛtānām* \< *amṛtānām* \< *amṛta*
+- *īśīyāmṛtānām* ← *amṛtānām* ← *amṛta*
 - \[noun\], genitive, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 10.33.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *martyānām* \< *martya*
+- *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *jīved* \< *jīvet* \< *jīv*
+- *jīved* ← *jīvet* ← *jīv*
 - \[verb\], singular, Present optative
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

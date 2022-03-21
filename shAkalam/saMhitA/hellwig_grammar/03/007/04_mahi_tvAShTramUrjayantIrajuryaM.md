@@ -6,49 +6,49 @@ title = "Rig Veda 3.7.4"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *tvāṣṭram* \< *tvāṣṭra*
+- *tvāṣṭram* ← *tvāṣṭra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ūrjayantīr* \< *ūrjayantīḥ* \< *ūrjay*
+- *ūrjayantīr* ← *ūrjayantīḥ* ← *ūrjay*
 - \[verb noun\], accusative, plural
 - “strengthen.”
 ------------------------------------------------------------------------
-- *ajuryaṃ* \< *ajuryam* \< *ajurya*
+- *ajuryaṃ* ← *ajuryam* ← *ajurya*
 - \[noun\], accusative, singular, masculine
 - “ageless; amaranthine.”
 ------------------------------------------------------------------------
-- *stabhūyamānaṃ* \< *stabhūyamānam* \< *stabhūy* \< *√stambh*
+- *stabhūyamānaṃ* ← *stabhūyamānam* ← *stabhūy* ← *√stambh*
 - \[verb noun\], accusative, singular
 - “stand.”
 ------------------------------------------------------------------------
-- *vahato* \< *vahataḥ* \< *vahat*
+- *vahato* ← *vahataḥ* ← *vahat*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aṅgebhir* \< *aṅgebhiḥ* \< *aṅga*
+- *aṅgebhir* ← *aṅgebhiḥ* ← *aṅga*
 - \[noun\], instrumental, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
 ------------------------------------------------------------------------
-- *didyutānaḥ* \< *dyut*
+- *didyutānaḥ* ← *dyut*
 - \[verb noun\], nominative, singular
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *sadhastha* \< *sadhasthe* \< *sadhastha*
+- *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *ekām* \< *eka*
+- *ekām* ← *eka*
 - \[noun\], accusative, singular, feminine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -58,7 +58,7 @@ title = "Rig Veda 3.7.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 3.7.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

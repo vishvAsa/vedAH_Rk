@@ -5,69 +5,69 @@ title = "Rig Veda 5.58.8"
 -   *haye*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mṛﾱatā* \< *mṛḍ*
+- *mṛﾱatā* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tuvīmaghāso* \< *tuvīmaghāsaḥ* \< *tuvīmagha*
+- *tuvīmaghāso* ← *tuvīmaghāsaḥ* ← *tuvīmagha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *amṛtā* \< *amṛtāḥ* \< *amṛta*
+- *amṛtā* ← *amṛtāḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *ṛtajñāḥ* \< *ṛta*
+- *ṛtajñāḥ* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajñāḥ* \< *jñāḥ* \< *jña*
+- *ṛtajñāḥ* ← *jñāḥ* ← *jña*
 - \[noun\], nominative, plural, masculine
 - “conversant(p); aware(p); wise.”
 ------------------------------------------------------------------------
-- *satyaśrutaḥ* \< *satya*
+- *satyaśrutaḥ* ← *satya*
 - \[noun\], neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *satyaśrutaḥ* \< *śrutaḥ* \< *śrut*
+- *satyaśrutaḥ* ← *śrutaḥ* ← *śrut*
 - \[noun\], nominative, plural, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *yuvāno* \< *yuvānaḥ* \< *yuvan*
+- *yuvāno* ← *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *bṛhadgirayo* \< *bṛhat*
+- *bṛhadgirayo* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhadgirayo* \< *girayaḥ* \< *giri*
+- *bṛhadgirayo* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *ukṣamāṇāḥ* \< *vakṣ*
+- *ukṣamāṇāḥ* ← *vakṣ*
 - \[verb noun\], nominative, plural
 - “grow; grow.”
 ------------------------------------------------------------------------

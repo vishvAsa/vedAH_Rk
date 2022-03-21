@@ -2,14 +2,14 @@
 title = "Rig Veda 4.32.17"
 
 +++
--   *sahasraṃ* \< *sahasram* \< *sahasra*
+-   *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *vyatīnāṃ* \< *vyatīnām* \< *vyati*
+- *vyatīnāṃ* ← *vyatīnām* ← *vyati*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *yuktānām* \< *yuj*
+- *yuktānām* ← *yuj*
 - \[verb noun\], genitive, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -17,24 +17,24 @@ title = "Rig Veda 4.32.17"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *khāryaḥ* \< *khārī*
+- *khāryaḥ* ← *khārī*
 - \[noun\], accusative, plural, feminine
 - “khārī; khārī \[word\]; khārī.”
 ------------------------------------------------------------------------

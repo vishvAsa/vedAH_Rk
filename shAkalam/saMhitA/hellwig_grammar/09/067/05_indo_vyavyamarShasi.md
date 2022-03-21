@@ -2,19 +2,19 @@
 title = "Rig Veda 9.67.5"
 
 +++
--   *indo* \< *indu*
+-   *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *avyam* \< *avya*
+- *avyam* ← *avya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arṣasi* \< *ṛṣ*
+- *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 9.67.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 9.67.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *saubhagā* \< *saubhaga*
+- *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 9.67.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 9.67.5"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], accusative, plural, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------

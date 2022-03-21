@@ -2,17 +2,17 @@
 title = "Rig Veda 5.26.2"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ghṛtasnav* \< *ghṛtasno* \< *ghṛtasnu*
+- *ghṛtasnav* ← *ghṛtasno* \< *ghṛtasnu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *īmahe* \< *ī* \< *√i*

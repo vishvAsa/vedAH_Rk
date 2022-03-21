@@ -2,37 +2,37 @@
 title = "Rig Veda 1.115.5"
 
 +++
--   *tan* \< *tat* \< *tad*
+-   *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇasyābhicakṣe* \< *varuṇasya* \< *varuṇa*
+- *varuṇasyābhicakṣe* ← *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇasyābhicakṣe* \< *abhicakṣe* \< *abhicakṣ* \< *√cakṣ*
+- *varuṇasyābhicakṣe* ← *abhicakṣe* ← *abhicakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *rūpaṃ* \< *rūpam* \< *rūpa*
+- *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -43,45 +43,45 @@ title = "Rig Veda 1.115.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dyor* \< *dyoḥ* \< *div*
+- *dyor* ← *dyoḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *anantam* \< *ananta*
+- *anantam* ← *ananta*
 - \[noun\], nominative, singular, neuter
 - “infinite; ananta \[word\]; countless; permanent; boundless.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *ruśad* \< *ruśat*
+- *ruśad* ← *ruśat*
 - \[noun\], nominative, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pājaḥ* \< *pājas*
+- *pājaḥ* ← *pājas*
 - \[noun\], nominative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *kṛṣṇam* \< *kṛṣṇa*
+- *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *dharitaḥ* \< *haritaḥ* \< *harit*
+- *dharitaḥ* ← *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ title = "Rig Veda 1.115.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *bharanti* \< *bhṛ*
+- *bharanti* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 4.1.13"
 
 +++
--   *asmākam* \< *mad*
+-   *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -11,12 +11,12 @@ title = "Rig Veda 4.1.13"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *manuṣyā* \< *manuṣyāḥ* \< *manuṣya*
+- *manuṣyā* ← *manuṣyāḥ* ← *manuṣya*
 - \[noun\], nominative, plural, masculine
 - “human.”
 ------------------------------------------------------------------------
@@ -28,37 +28,37 @@ title = "Rig Veda 4.1.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sedur* \< *seduḥ* \< *sad*
+- *sedur* ← *seduḥ* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *āśuṣāṇāḥ* \< *āśuṣ* \< *√śuṣ*
+- *āśuṣāṇāḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *aśmavrajāḥ* \< *aśma* \< *aśman*
+- *aśmavrajāḥ* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *aśmavrajāḥ* \< *vrajāḥ* \< *vraja*
+- *aśmavrajāḥ* ← *vrajāḥ* ← *vraja*
 - \[noun\], accusative, plural, feminine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *sudughā* \< *su*
+- *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughā* \< *dughāḥ* \< *dugha*
+- *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], accusative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *vavre* \< *vavra*
+- *vavre* ← *vavra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *antar*
@@ -69,19 +69,19 @@ title = "Rig Veda 4.1.13"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *usrā* \< *usrāḥ* \< *usrā*
+- *usrā* ← *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
 ------------------------------------------------------------------------
-- *ājann* \< *ājan* \< *aj*
+- *ājann* ← *ājan* ← *aj*
 - \[verb\], plural, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *huvānāḥ* \< *hvā*
+- *huvānāḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

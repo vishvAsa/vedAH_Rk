@@ -6,35 +6,35 @@ title = "Rig Veda 8.46.21"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īvad* \< *īvat*
+- *īvad* ← *īvat*
 - \[noun\], accusative, singular, neuter
 - “such(a).”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *adevaḥ* \< *adeva*
+- *adevaḥ* ← *adeva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pūrtam* \< *pūrta*
+- *pūrtam* ← *pūrta*
 - \[noun\], accusative, singular, neuter
 - “gift.”
 ------------------------------------------------------------------------
-- *ādade* \< *ādā* \< *√dā*
+- *ādade* ← *ādā* ← *√dā*
 - \[verb\], singular, Perfect indicative
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
@@ -44,34 +44,34 @@ title = "Rig Veda 8.46.21"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vaśo* \< *vaśaḥ* \< *vaśa*
+- *vaśo* ← *vaśaḥ* ← *vaśa*
 - \[noun\], nominative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
 ------------------------------------------------------------------------
-- *aśvyaḥ* \< *aśvya*
+- *aśvyaḥ* ← *aśvya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pṛthuśravasi* \< *pṛthuśravas*
+- *pṛthuśravasi* ← *pṛthuśravas*
 - \[noun\], locative, singular, masculine
 - “Pṛthuśravas; Pṛthuśravas; Pṛthuśravas.”
 ------------------------------------------------------------------------
-- *kānīte* \< *kānīta*
+- *kānīte* ← *kānīta*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *'syā* \< *asyāḥ* \< *idam*
+- *'syā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vyuṣy* \< *vyuṣi* \< *vyuṣ*
+- *vyuṣy* ← *vyuṣi* ← *vyuṣ*
 - \[noun\], locative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *ādade* \< *ādā* \< *√dā*
+- *ādade* ← *ādā* ← *√dā*
 - \[verb\], singular, Perfect indicative
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;

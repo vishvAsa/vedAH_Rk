@@ -2,34 +2,34 @@
 title = "Rig Veda 9.70.7"
 
 +++
--   *ruvati* \< *ru*
+-   *ruvati* ← *ru*
 - \[verb\], singular, Present indikative
 - “bellow; howl.”
 ------------------------------------------------------------------------
-- *bhīmo* \< *bhīmaḥ* \< *bhīma*
+- *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *vṛṣabhas* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhas* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *taviṣyayā* \< *taviṣyā*
+- *taviṣyayā* ← *taviṣyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *śṛṅge* \< *śṛṅga*
+- *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *śiśāno* \< *śiśānaḥ* \< *śā*
+- *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *hariṇī* \< *harin*
+- *hariṇī* ← *harin*
 - \[noun\], accusative, dual, neuter
 - “gold; aureate.”
 ------------------------------------------------------------------------
-- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
@@ -37,21 +37,21 @@ title = "Rig Veda 9.70.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yoniṃ* \< *yonim* \< *yoni*
+- *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *su*
+- *sukṛtaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtaṃ* \< *kṛtam* \< *kṛ*
+- *sukṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,31 +66,31 @@ title = "Rig Veda 9.70.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdati* \< *sīdati* \< *sad*
+- *ṣīdati* ← *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *gavyayī* \< *gavyaya*
+- *gavyayī* ← *gavyaya*
 - \[noun\], nominative, singular, feminine
 - “bovine.”
 ------------------------------------------------------------------------
-- *tvag* \< *tvac*
+- *tvag* ← *tvac*
 - \[noun\], nominative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *nirṇig* \< *nirṇij*
+- *nirṇig* ← *nirṇij*
 - \[noun\], nominative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *avyayī* \< *avyaya*
+- *avyayī* ← *avyaya*
 - \[noun\], nominative, singular, feminine
 - “sheep.”
 ------------------------------------------------------------------------

@@ -6,42 +6,42 @@ title = "Rig Veda 9.86.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āśavaḥ* \< *āśu*
+- *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhījavo* \< *dhī*
+- *dhījavo* ← *dhī*
 - \[noun\], feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhījavo* \< *javaḥ* \< *jū*
+- *dhījavo* ← *javaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *madā* \< *madāḥ* \< *mada*
+- *madā* ← *madāḥ* ← *mada*
 - \[noun\], nominative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *arṣanti* \< *ṛṣ*
+- *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *raghujā* \< *raghu*
+- *raghujā* ← *raghu*
 - \[noun\], masculine
 - “Rāghava; Raghu; racehorse.”
 ------------------------------------------------------------------------
-- *raghujā* \< *jāḥ* \< *jā*
+- *raghujā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, plural, masculine
 - “born.”
 ------------------------------------------------------------------------
@@ -49,29 +49,29 @@ title = "Rig Veda 9.86.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *divyāḥ* \< *divya*
+- *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *suparṇā* \< *suparṇāḥ* \< *suparṇa*
+- *suparṇā* ← *suparṇāḥ* ← *suparṇa*
 - \[noun\], nominative, plural, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *madhumanta* \< *madhumantaḥ* \< *madhumat*
+- *madhumanta* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *madintamāsaḥ* \< *madintama*
+- *madintamāsaḥ* ← *madintama*
 - \[noun\], nominative, plural, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
@@ -79,12 +79,12 @@ title = "Rig Veda 9.86.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------

@@ -6,15 +6,15 @@ title = "Rig Veda 9.96.24"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rucaḥ* \< *ruc*
+- *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, feminine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *pavamānasya* \< *pū*
+- *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -22,64 +22,64 @@ title = "Rig Veda 9.96.24"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *yoṣeva* \< *yoṣā*
+- *yoṣeva* ← *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *yoṣeva* \< *iva*
+- *yoṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *su*
+- *sudughāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *dughāḥ* \< *dugha*
+- *sudughāḥ* ← *dughāḥ* ← *dugha*
 - \[noun\], nominative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *sudhārāḥ* \< *su*
+- *sudhārāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhārāḥ* \< *dhārāḥ* \< *dhārā*
+- *sudhārāḥ* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ānītaḥ* \< *ānī* \< *√nī*
+- *ānītaḥ* ← *ānī* ← *√nī*
 - \[verb noun\], nominative, singular
 - “bring; pull; take; collect; give; return; withdraw; extract.”
 ------------------------------------------------------------------------
-- *puruvāro* \< *puru*
+- *puruvāro* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāro* \< *vāraḥ* \< *vāra*
+- *puruvāro* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *acikradat* \< *krand*
+- *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *devayūnām* \< *devayu*
+- *devayūnām* ← *devayu*
 - \[noun\], genitive, plural, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------

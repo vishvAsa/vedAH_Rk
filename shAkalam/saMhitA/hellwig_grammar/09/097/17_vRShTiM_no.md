@@ -2,79 +2,79 @@
 title = "Rig Veda 9.97.17"
 
 +++
--   *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+-   *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *divyāṃ* \< *divyām* \< *divya*
+- *divyāṃ* ← *divyām* ← *divya*
 - \[noun\], accusative, singular, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *jigatnum* \< *jigatnu*
+- *jigatnum* ← *jigatnu*
 - \[noun\], accusative, singular, feminine
 - “moving.”
 ------------------------------------------------------------------------
-- *iﾱāvatīṃ* \< *iﾱāvatīm* \< *iḍāvat*
+- *iﾱāvatīṃ* ← *iﾱāvatīm* ← *iḍāvat*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *śaṅgayīṃ* \< *śaṅgayīm* \< *śaṃgaya*
+- *śaṅgayīṃ* ← *śaṅgayīm* ← *śaṃgaya*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *jīradānum* \< *jīra*
+- *jīradānum* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānum* \< *dānum* \< *dānu*
+- *jīradānum* ← *dānum* ← *dānu*
 - \[noun\], accusative, singular, feminine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *stukeva* \< *stukā*
+- *stukeva* ← *stukā*
 - \[noun\], nominative, singular, feminine
 - “tuft.”
 ------------------------------------------------------------------------
-- *stukeva* \< *iva*
+- *stukeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vītā* \< *vīta*
+- *vītā* ← *vīta*
 - \[noun\], nominative, singular, feminine
 - “straight; smooth.”
 ------------------------------------------------------------------------
-- *dhanvā* \< *dhanva* \< *dhanv*
+- *dhanvā* ← *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *vicinvan* \< *vici* \< *√ci*
+- *vicinvan* ← *vici* ← *√ci*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *bandhūṃr* \< *bandhu*
+- *bandhūṃr* ← *bandhu*
 - \[noun\], accusative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imān* \< *idam*
+- *imāṃ* ← *imān* ← *idam*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *avarāṃ* \< *avara*
+- *avarāṃ* ← *avara*
 - \[noun\], accusative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *vāyūn* \< *vāyu*
+- *vāyūn* ← *vāyu*
 - \[noun\], accusative, plural, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”

@@ -2,24 +2,24 @@
 title = "Rig Veda 10.87.15"
 
 +++
--   *parādya* \< *parā*
+-   *parādya* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parādya* \< *adya*
+- *parādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vṛjinaṃ* \< *vṛjinam* \< *vṛjina*
+- *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
-- *śṛṇantu* \< *śṛ*
+- *śṛṇantu* ← *śṛ*
 - \[verb\], plural, Present imperative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------

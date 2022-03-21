@@ -6,26 +6,26 @@ title = "Rig Veda 8.49.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutāsa* \< *sutāsaḥ* \< *su*
+- *sutāsa* ← *sutāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *madā* \< *madāḥ* \< *mada*
+- *madā* ← *madāḥ* ← *mada*
 - \[noun\], nominative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,10 +34,10 @@ title = "Rig Veda 8.49.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -45,22 +45,22 @@ title = "Rig Veda 8.49.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vajrinn* \< *vajrin*
+- *vajrinn* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *okyaṃ* \< *okyam* \< *okya*
+- *okyaṃ* ← *okyam* ← *okya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *saraḥ* \< *saras*
+- *saraḥ* ← *saras*
 - \[noun\], accusative, singular, neuter
 - “lake; saras \[word\]; pond.”
 ------------------------------------------------------------------------
-- *pṛṇanti* \< *pṛṇ*
+- *pṛṇanti* ← *pṛṇ*
 - \[verb\], plural, Present indikative
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 8.49.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

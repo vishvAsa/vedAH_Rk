@@ -2,7 +2,7 @@
 title = "Rig Veda 8.21.7"
 
 +++
--   *nūtnā* \< *nūtnāḥ* \< *nūtna*
+-   *nūtnā* ← *nūtnāḥ* ← *nūtna*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *id*
@@ -14,19 +14,19 @@ title = "Rig Veda 8.21.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *abhūma* \< *bhū*
+- *abhūma* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -36,19 +36,19 @@ title = "Rig Veda 8.21.7"
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -57,7 +57,7 @@ title = "Rig Veda 8.21.7"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *parīṇasaḥ* \< *parīṇas*
+- *parīṇasaḥ* ← *parīṇas*
 - \[noun\], genitive, singular, masculine
 - “plenty.”
 ------------------------------------------------------------------------

@@ -2,31 +2,31 @@
 title = "Rig Veda 5.53.16"
 
 +++
--   *stuhi* \< *stu*
+-   *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *bhojān* \< *bhoja*
+- *bhojān* ← *bhoja*
 - \[noun\], accusative, plural, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *stuvato* \< *stuvataḥ* \< *stu*
+- *stuvato* ← *stuvataḥ* ← *stu*
 - \[verb noun\], genitive, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yāmani* \< *yāman*
+- *yāmani* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *raṇan* \< *ran*
+- *raṇan* ← *ran*
 - \[verb\], plural, Present injunctive
 - “rejoice.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -35,15 +35,15 @@ title = "Rig Veda 5.53.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavase* \< *yavasa*
+- *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *yataḥ* \< *i*
+- *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pūrvāṃ* \< *pūrvān* \< *pūrva*
+- *pūrvāṃ* ← *pūrvān* ← *pūrva*
 - \[noun\], accusative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -53,7 +53,7 @@ title = "Rig Veda 5.53.16"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sakhīṃr* \< *sakhīn* \< *sakhi*
+- *sakhīṃr* ← *sakhīn* ← *sakhi*
 - \[noun\], accusative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -61,20 +61,20 @@ title = "Rig Veda 5.53.16"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *hvaya* \< *hvā*
+- *hvaya* ← *hvā*
 - \[verb\], singular, Present imperative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *gṛṇīhi* \< *gṛ*
+- *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *kāminaḥ* \< *kāmin*
+- *kāminaḥ* ← *kāmin*
 - \[noun\], accusative, plural, masculine
 - “desirous; aroused; loving.”
 ------------------------------------------------------------------------

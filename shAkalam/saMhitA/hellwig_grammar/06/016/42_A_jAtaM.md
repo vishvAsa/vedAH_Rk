@@ -6,17 +6,17 @@ title = "Rig Veda 6.16.42"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jātaṃ* \< *jātam* \< *jan*
+- *jātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *jātavedasi* \< *jātavedas*
+- *jātavedasi* ← *jātavedas*
 - \[noun\], locative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”

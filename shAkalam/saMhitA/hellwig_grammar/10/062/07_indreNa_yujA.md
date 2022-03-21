@@ -2,12 +2,12 @@
 title = "Rig Veda 10.62.7"
 
 +++
--   *indreṇa* \< *indra*
+-   *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -15,55 +15,55 @@ title = "Rig Veda 10.62.7"
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *sṛjanta* \< *sṛj*
+- *sṛjanta* ← *sṛj*
 - \[verb\], plural, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vāghato* \< *vāghataḥ* \< *vāghant*
+- *vāghato* ← *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *aśvinam* \< *aśvin*
+- *aśvinam* ← *aśvin*
 - \[noun\], accusative, singular, masculine
 - “rich in horses; horsy.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dadato* \< *dadataḥ* \< *dā*
+- *dadato* ← *dadataḥ* ← *dā*
 - \[verb noun\], nominative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *aṣṭakarṇyaḥ* \< *aṣṭakarṇī*
+- *aṣṭakarṇyaḥ* ← *aṣṭakarṇī*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *akrata* \< *kṛ*
+- *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

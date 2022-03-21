@@ -6,16 +6,16 @@ title = "Rig Veda 6.1.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tatantha* \< *tan*
+- *tatantha* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 6.1.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāsā* \< *bhās*
+- *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
-- *śravobhiś* \< *śravobhiḥ* \< *śravas*
+- *śravobhiś* ← *śravobhiḥ* ← *śravas*
 - \[noun\], instrumental, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -35,48 +35,48 @@ title = "Rig Veda 6.1.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śravasyas* \< *śravasyaḥ* \< *śravasya*
+- *śravasyas* ← *śravasyaḥ* ← *śravasya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tarutraḥ* \< *tarutra*
+- *tarutraḥ* ← *tarutra*
 - \[noun\], nominative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *bṛhadbhir* \< *bṛhadbhiḥ* \< *bṛhat*
+- *bṛhadbhir* ← *bṛhadbhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vājai* \< *vājaiḥ* \< *vāja*
+- *vājai* ← *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *sthavirebhir* \< *sthavirebhiḥ* \< *sthavira*
+- *sthavirebhir* ← *sthavirebhiḥ* ← *sthavira*
 - \[noun\], instrumental, plural, masculine
 - “old; strong; hardy; firm; firm.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *revadbhir* \< *revadbhiḥ* \< *revat*
+- *revadbhir* ← *revadbhiḥ* ← *revat*
 - \[noun\], instrumental, plural, masculine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vitaraṃ* \< *vitaram*
+- *vitaraṃ* ← *vitaram*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāhi* \< *bhā*
+- *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------

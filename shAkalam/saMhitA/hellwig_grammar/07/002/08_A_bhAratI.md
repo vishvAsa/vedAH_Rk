@@ -11,29 +11,29 @@ title = "Rig Veda 7.2.8"
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
 ------------------------------------------------------------------------
-- *bhāratībhiḥ* \< *bhāratī*
+- *bhāratībhiḥ* ← *bhāratī*
 - \[noun\], instrumental, plural, feminine
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, feminine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍā*
+- *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *manuṣyebhir* \< *manuṣyebhiḥ* \< *manuṣya*
+- *manuṣyebhir* ← *manuṣyebhiḥ* ← *manuṣya*
 - \[noun\], instrumental, plural, masculine
 - “man; people; man; manuṣya \[word\].”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -44,7 +44,7 @@ title = "Rig Veda 7.2.8"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *sārasvatebhir* \< *sārasvatebhiḥ* \< *sārasvata*
+- *sārasvatebhir* ← *sārasvatebhiḥ* ← *sārasvata*
 - \[noun\], instrumental, plural, masculine
 - “Sārasvata; Sārasvata; Sārasvata; Sārasvata.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 7.2.8"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* \< *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------

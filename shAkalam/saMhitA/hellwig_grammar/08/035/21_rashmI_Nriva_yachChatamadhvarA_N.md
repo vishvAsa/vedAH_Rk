@@ -2,7 +2,7 @@
 title = "Rig Veda 8.35.21"
 
 +++
--   *raśmīṃr* \< *raśmi*
+-   *raśmīṃr* ← *raśmi*
 - \[noun\], accusative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 8.35.21"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yacchatam* \< *yam*
+- *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *adhvarāṃ* \< *adhvara*
+- *adhvarāṃ* ← *adhvara*
 - \[noun\], accusative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -22,45 +22,45 @@ title = "Rig Veda 8.35.21"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śyāvāśvasya* \< *śyāvāśva*
+- *śyāvāśvasya* ← *śyāvāśva*
 - \[noun\], genitive, singular, masculine
 - “Śyāvāśva.”
 ------------------------------------------------------------------------
-- *sunvato* \< *sunvataḥ* \< *su*
+- *sunvato* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *madacyutā* \< *mada*
+- *madacyutā* ← *mada*
 - \[noun\], masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *madacyutā* \< *cyutā* \< *cyut*
+- *madacyutā* ← *cyutā* ← *cyut*
 - \[noun\], vocative, dual, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
-- *sajoṣasā* \< *sajoṣasau* \< *sajoṣas*
+- *sajoṣasā* ← *sajoṣasau* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣas*
+- *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryeṇa* \< *sūrya*
+- *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *cāśvinā* \< *ca*
+- *cāśvinā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāśvinā* \< *aśvinā* \< *aśvin*
+- *cāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *tiroahnyam* \< *tiroahnya*
+- *tiroahnyam* ← *tiroahnya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

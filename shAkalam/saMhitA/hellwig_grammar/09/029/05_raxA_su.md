@@ -2,7 +2,7 @@
 title = "Rig Veda 9.29.5"
 
 +++
--   *rakṣā* \< *rakṣ*
+-   *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 9.29.5"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *a*
+- *araruṣaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------

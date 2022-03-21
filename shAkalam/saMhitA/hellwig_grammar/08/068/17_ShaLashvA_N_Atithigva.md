@@ -2,32 +2,32 @@
 title = "Rig Veda 8.68.17"
 
 +++
--   *ṣaﾱ* \< *ṣaṣ*
+-   *ṣaﾱ* ← *ṣaṣ*
 - \[noun\], accusative, singular, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *aśvāṃ* \< *aśva*
+- *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ātithigva* \< *ātithigve* \< *ātithigva*
+- *ātithigva* ← *ātithigve* ← *ātithigva*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *indrote* \< *indrota*
+- *indrote* ← *indrota*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *vadhūmataḥ* \< *vadhūmat*
+- *vadhūmataḥ* ← *vadhūmat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *pūtakratau* \< *pūtakratu*
+- *pūtakratau* ← *pūtakratu*
 - \[noun\], locative, singular, masculine
 - “pūtakratu \[word\].”
 ------------------------------------------------------------------------
-- *sanam* \< *san*
+- *sanam* ← *san*
 - \[verb\], singular, Aorist inj. (proh.)
 - “win; get; gain.”
 ------------------------------------------------------------------------

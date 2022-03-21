@@ -2,11 +2,11 @@
 title = "Rig Veda 1.174.3"
 
 +++
--   *ajā* \< *aja* \< *aj*
+-   *ajā* ← *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *vṛta* \< *vṛtaḥ* \< *vṛt*
+- *vṛta* ← *vṛtaḥ* ← *vṛt*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *indra*
@@ -14,16 +14,16 @@ title = "Rig Veda 1.174.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śūrapatnīr* \< *śūra*
+- *śūrapatnīr* ← *śūra*
 - \[noun\], masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śūrapatnīr* \< *patnīḥ* \< *patnī*
+- *śūrapatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 1.174.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yebhiḥ* \< *yad*
+- *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -43,25 +43,25 @@ title = "Rig Veda 1.174.3"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣ*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣ*
 - \[verb\], singular, Present injunctive
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aśuṣaṃ* \< *aśuṣam* \< *aśuṣa*
+- *aśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
 ------------------------------------------------------------------------
-- *tūrvayāṇaṃ* \< *tūrvayāṇam* \< *tūrvayāṇa*
+- *tūrvayāṇaṃ* ← *tūrvayāṇam* ← *tūrvayāṇa*
 - \[noun\], accusative, singular, masculine
 - “Tūrvayāṇa.”
 ------------------------------------------------------------------------
-- *siṃho* \< *siṃhaḥ* \< *siṃha*
+- *siṃho* ← *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 1.174.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *apāṃsi* \< *apas*
+- *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *vastoḥ* \< *vastu*
+- *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------

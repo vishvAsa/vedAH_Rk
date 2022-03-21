@@ -2,74 +2,74 @@
 title = "Rig Veda 4.4.11"
 
 +++
--   *maho* \< *mahaḥ* \< *mah*
+-   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rujāmi* \< *ruj*
+- *rujāmi* ← *ruj*
 - \[verb\], singular, Present indikative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *bandhutā* \< *bandhu*
+- *bandhutā* ← *bandhu*
 - \[noun\], masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *bandhutā* \< *tā*
+- *bandhutā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *vacobhis* \< *vacobhiḥ* \< *vacas*
+- *vacobhis* ← *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], ablative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *gotamād* \< *gotamāt* \< *gotama*
+- *gotamād* ← *gotamāt* ← *gotama*
 - \[noun\], ablative, singular, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *iyāya* \< *i*
+- *iyāya* ← *i*
 - \[verb\], singular, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vacasaś* \< *vacasaḥ* \< *vacas*
+- *vacasaś* ← *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *cikiddhi* \< *cit*
+- *cikiddhi* ← *cit*
 - \[verb\], singular, Perfect imperative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *hotar* \< *hotṛ*
+- *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -77,16 +77,16 @@ title = "Rig Veda 4.4.11"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *sukrato* \< *su*
+- *sukrato* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukrato* \< *krato* \< *kratu*
+- *sukrato* ← *krato* ← *kratu*
 - \[noun\], vocative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *damūnāḥ* \< *damūnas*
+- *damūnāḥ* ← *damūnas*
 - \[noun\], nominative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------

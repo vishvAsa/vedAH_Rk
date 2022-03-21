@@ -2,7 +2,7 @@
 title = "Rig Veda 2.38.4"
 
 +++
--   *punaḥ* \< *punar*
+-   *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
@@ -11,78 +11,78 @@ title = "Rig Veda 2.38.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *avyad* \< *avyat* \< *vye*
+- *avyad* ← *avyat* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
 ------------------------------------------------------------------------
-- *vitataṃ* \< *vitatam* \< *vitan* \< *√tan*
+- *vitataṃ* ← *vitatam* ← *vitan* ← *√tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *vayantī* \< *ve*
+- *vayantī* ← *ve*
 - \[verb noun\], nominative, singular
 - “weave.”
 ------------------------------------------------------------------------
 - *madhyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kartor* \< *kartoḥ* \< *kartu*
+- *kartor* ← *kartoḥ* ← *kartu*
 - \[noun\], genitive, singular, masculine
 - “performance.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *adhācchakma* \< *adhāt* \< *dhā*
+- *adhācchakma* ← *adhāt* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *adhācchakma* \< *śakma* \< *śakman*
+- *adhācchakma* ← *śakma* ← *śakman*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *dhīraḥ* \< *dhīra*
+- *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *saṃhāyāsthād* \< *saṃhāya* \< *saṃhā* \< *√hā*
+- *saṃhāyāsthād* ← *saṃhāya* ← *saṃhā* ← *√hā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *saṃhāyāsthād* \< *asthāt* \< *sthā*
+- *saṃhāyāsthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṛtūṃr* \< *ṛtu*
+- *ṛtūṃr* ← *ṛtu*
 - \[noun\], accusative, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *adardhar* \< *dhardhṛ* \< *√dhṛ*
+- *adardhar* ← *dhardhṛ* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *aramatiḥ* \< *aramati*
+- *aramatiḥ* ← *aramati*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *āgāt* \< *āgā* \< *√gā*
+- *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------

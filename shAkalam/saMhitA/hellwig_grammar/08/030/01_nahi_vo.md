@@ -5,20 +5,20 @@ title = "Rig Veda 8.30.1"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *arbhako* \< *arbhakaḥ* \< *arbhaka*
+- *arbhako* ← *arbhakaḥ* ← *arbhaka*
 - \[noun\], nominative, singular, masculine
 - “humble; weak.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -27,19 +27,19 @@ title = "Rig Veda 8.30.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kumārakaḥ* \< *kumāraka*
+- *kumārakaḥ* ← *kumāraka*
 - \[noun\], nominative, singular, masculine
 - “kumārabandha; child.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *satomahānta* \< *satomahāntaḥ* \< *satomahat*
+- *satomahānta* ← *satomahāntaḥ* ← *satomahat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------

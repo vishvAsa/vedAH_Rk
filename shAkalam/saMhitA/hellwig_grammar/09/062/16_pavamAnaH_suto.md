@@ -2,42 +2,42 @@
 title = "Rig Veda 9.62.16"
 
 +++
--   *pavamānaḥ* \< *pū*
+-   *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ivāsarat* \< *iva*
+- *ivāsarat* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāsarat* \< *asarat* \< *sṛ*
+- *ivāsarat* ← *asarat* ← *sṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *camūṣu* \< *camū*
+- *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *śakmanāsadam* \< *śakman*
+- *śakmanāsadam* ← *śakman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *śakmanāsadam* \< *āsadam* \< *āsad* \< *√sad*
+- *śakmanāsadam* ← *āsadam* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 5.26.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajña* \< *yajñaḥ* \< *yajña*
+- *yajña* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *etv* \< *etu* \< *i*
+- *etv* ← *etu* \< *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

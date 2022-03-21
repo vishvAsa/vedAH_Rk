@@ -2,74 +2,74 @@
 title = "Rig Veda 9.96.6"
 
 +++
--   *brahmā* \< *brahman*
+-   *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *padavīḥ* \< *padavī*
+- *padavīḥ* ← *padavī*
 - \[noun\], nominative, singular, feminine
 - “path; padavī \[word\].”
 ------------------------------------------------------------------------
-- *kavīnām* \< *kavi*
+- *kavīnām* ← *kavi*
 - \[noun\], genitive, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *ṛṣir* \< *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣir* ← *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *viprāṇām* \< *vipra*
+- *viprāṇām* ← *vipra*
 - \[noun\], genitive, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *mahiṣo* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣo* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *mṛgāṇām* \< *mṛga*
+- *mṛgāṇām* ← *mṛga*
 - \[noun\], genitive, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *gṛdhrāṇāṃ* \< *gṛdhrāṇām* \< *gṛdhra*
+- *gṛdhrāṇāṃ* ← *gṛdhrāṇām* ← *gṛdhra*
 - \[noun\], genitive, plural, masculine
 - “vulture.”
 ------------------------------------------------------------------------
-- *svadhitir* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *vanānāṃ* \< *vanānām* \< *vana*
+- *vanānāṃ* ← *vanānām* ← *vana*
 - \[noun\], genitive, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavitram* \< *pavitra*
+- *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *aty* \< *ati*
+- *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *rebhan* \< *ribh*
+- *rebhan* ← *ribh*
 - \[verb noun\], nominative, singular
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------

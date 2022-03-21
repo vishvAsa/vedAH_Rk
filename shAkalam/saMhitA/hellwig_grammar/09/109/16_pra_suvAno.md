@@ -6,27 +6,27 @@ title = "Rig Veda 9.109.16"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *suvāno* \< *suvānaḥ* \< *su*
+- *suvāno* ← *suvānaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *akṣāḥ* \< *akṣār* \< *kṣar*
+- *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
-- *sahasradhāras* \< *sahasra*
+- *sahasradhāras* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāras* \< *dhāraḥ* \< *dhārā*
+- *sahasradhāras* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *tiraḥ* \< *tiras*
+- *tiraḥ* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *pavitraṃ* \< *pavitram* \< *pavitra*
+- *pavitraṃ* ← *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -34,10 +34,10 @@ title = "Rig Veda 9.109.16"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyam* \< *avya*
+- *avyam* ← *avya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

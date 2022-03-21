@@ -2,14 +2,14 @@
 title = "Rig Veda 9.86.13"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *matavāñchakuno* \< *matavān* \< *matavat*
+- *matavāñchakuno* ← *matavān* ← *matavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *matavāñchakuno* \< *śakunaḥ* \< *śakuna*
+- *matavāñchakuno* ← *śakunaḥ* ← *śakuna*
 - \[noun\], nominative, singular, masculine
 - “bird; large bird.”
 ------------------------------------------------------------------------
@@ -17,30 +17,30 @@ title = "Rig Veda 9.86.13"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *hito* \< *hitaḥ* \< *hi*
+- *hito* ← *hitaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *'vye* \< *avye* \< *avya*
+- *'vye* ← *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *sasāra* \< *sṛ*
+- *sasāra* ← *sṛ*
 - \[verb\], singular, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pavamānaḥ* \< *pū*
+- *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ūrmiṇā* \< *ūrmi*
+- *ūrmiṇā* ← *ūrmi*
 - \[noun\], instrumental, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -53,26 +53,26 @@ title = "Rig Veda 9.86.13"
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
 ------------------------------------------------------------------------
-- *kave* \< *kavi*
+- *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 9.86.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

@@ -6,16 +6,16 @@ title = "Rig Veda 10.22.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *śruta* \< *śrutaḥ* \< *śru*
+- *śruta* ← *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 10.22.2"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *stave* \< *stu*
+- *stave* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vajry* \< *vajrī* \< *vajrin*
+- *vajry* ← *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *ṛcīṣamaḥ* \< *ṛcīṣama*
+- *ṛcīṣamaḥ* ← *ṛcīṣama*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 10.22.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

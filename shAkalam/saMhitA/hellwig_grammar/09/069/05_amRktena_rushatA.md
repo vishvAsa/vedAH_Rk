@@ -2,27 +2,27 @@
 title = "Rig Veda 9.69.5"
 
 +++
--   *amṛktena* \< *amṛkta*
+-   *amṛktena* ← *amṛkta*
 - \[noun\], instrumental, singular, neuter
 - “new; undamaged; complete.”
 ------------------------------------------------------------------------
-- *ruśatā* \< *ruśat*
+- *ruśatā* ← *ruśat*
 - \[noun\], instrumental, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *vāsasā* \< *vāsas*
+- *vāsasā* ← *vāsas*
 - \[noun\], instrumental, singular, neuter
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *amartyo* \< *amartyaḥ* \< *amartya*
+- *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *nirṇijānaḥ* \< *nirṇij* \< *√nij*
+- *nirṇijānaḥ* ← *nirṇij* ← *√nij*
 - \[verb noun\], nominative, singular
 - “wash; dye.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 9.69.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vyata* \< *vye*
+- *vyata* ← *vye*
 - \[verb\], singular, Aorist inj. (proh.)
 - “cover.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛṣṭham* \< *pṛṣṭha*
+- *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
@@ -47,11 +47,11 @@ title = "Rig Veda 9.69.5"
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
 ------------------------------------------------------------------------
-- *nirṇije* \< *nirṇij*
+- *nirṇije* ← *nirṇij*
 - \[noun\], dative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *kṛtopastaraṇaṃ* \< *kṛta* \< *kṛ*
+- *kṛtopastaraṇaṃ* ← *kṛta* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,14 +62,14 @@ title = "Rig Veda 9.69.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtopastaraṇaṃ* \< *upastaraṇam* \< *upastaraṇa*
+- *kṛtopastaraṇaṃ* ← *upastaraṇam* ← *upastaraṇa*
 - \[noun\], accusative, singular, neuter
 - “sofa.”
 ------------------------------------------------------------------------
-- *camvor* \< *camvoḥ* \< *camū*
+- *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], genitive, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *nabhasmayam* \< *nabhasmaya*
+- *nabhasmayam* ← *nabhasmaya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

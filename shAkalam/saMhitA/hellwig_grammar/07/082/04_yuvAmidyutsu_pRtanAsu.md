@@ -2,7 +2,7 @@
 title = "Rig Veda 7.82.4"
 
 +++
--   *yuvām* \< *tvad*
+-   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -10,66 +10,66 @@ title = "Rig Veda 7.82.4"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yutsu* \< *yudh*
+- *yutsu* ← *yudh*
 - \[noun\], locative, plural
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *vahnayo* \< *vahnayaḥ* \< *vahni*
+- *vahnayo* ← *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *yuvāṃ* \< *yuvām* \< *tvad*
+- *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *kṣemasya* \< *kṣema*
+- *kṣemasya* ← *kṣema*
 - \[noun\], genitive, singular, masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
 ------------------------------------------------------------------------
-- *prasave* \< *prasava*
+- *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “stimulation.”
 ------------------------------------------------------------------------
-- *mitajñavaḥ* \< *mitajñu*
+- *mitajñavaḥ* ← *mitajñu*
 - \[noun\], nominative, plural, masculine
 - “kneeling.”
 ------------------------------------------------------------------------
-- *īśānā* \< *īś*
+- *īśānā* ← *īś*
 - \[verb noun\], accusative, dual
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vasva* \< *vasvaḥ* \< *vasu*
+- *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *kārava* \< *kāravaḥ* \< *kāru*
+- *kārava* ← *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *suhavā* \< *su*
+- *suhavā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavā* \< *havā* \< *hava*
+- *suhavā* ← *havā* ← *hava*
 - \[noun\], vocative, dual, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

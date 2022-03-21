@@ -2,26 +2,26 @@
 title = "Rig Veda 1.65.6"
 
 +++
--   *atyo* \< *atyaḥ* \< *atya*
+-   *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *nājman* \< *na*
+- *nājman* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nājman* \< *ajman*
+- *nājman* ← *ajman*
 - \[noun\], locative, singular, neuter
 - “drive.”
 ------------------------------------------------------------------------
-- *sargaprataktaḥ* \< *sarga*
+- *sargaprataktaḥ* ← *sarga*
 - \[noun\], masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *sargaprataktaḥ* \< *prataktaḥ* \< *pratak* \< *√tak*
+- *sargaprataktaḥ* ← *prataktaḥ* ← *pratak* ← *√tak*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -29,18 +29,18 @@ title = "Rig Veda 1.65.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣodaḥ* \< *kṣodas*
+- *kṣodaḥ* ← *kṣodas*
 - \[noun\], nominative, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *varāte* \< *vṛ*
+- *varāte* ← *vṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

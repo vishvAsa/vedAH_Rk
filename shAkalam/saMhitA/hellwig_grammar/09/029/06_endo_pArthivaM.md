@@ -2,7 +2,7 @@
 title = "Rig Veda 9.29.6"
 
 +++
--   *endo* \< *ā*
+-   *endo* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------

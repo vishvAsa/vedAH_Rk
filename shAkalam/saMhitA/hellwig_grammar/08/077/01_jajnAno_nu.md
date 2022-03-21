@@ -2,7 +2,7 @@
 title = "Rig Veda 8.77.1"
 
 +++
--   *jajñāno* \< *jajñānaḥ* \< *jan*
+-   *jajñāno* ← *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -12,7 +12,7 @@ title = "Rig Veda 8.77.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *śatakratur* \< *śatakratuḥ* \< *śatakratu*
+- *śatakratur* ← *śatakratuḥ* ← *śatakratu*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 8.77.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pṛcchad* \< *pṛcchat* \< *pracch*
+- *pṛcchad* ← *pṛcchat* ← *pracch*
 - \[verb\], singular, Present injunctive
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
@@ -28,21 +28,21 @@ title = "Rig Veda 8.77.1"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *mātaram* \< *mātṛ*
+- *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *ka* \< *ke* \< *ka*
+- *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ugrāḥ* \< *ugra*
+- *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ke* \< *ka*
+- *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 8.77.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śṛṇvire* \< *śru*
+- *śṛṇvire* ← *śru*
 - \[verb\], plural, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------

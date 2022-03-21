@@ -2,29 +2,29 @@
 title = "Rig Veda 10.53.2"
 
 +++
--   *arādhi* \< *rādh*
+-   *arādhi* ← *rādh*
 - \[verb\], singular, Aorist passive
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *niṣadā* \< *niṣad*
+- *niṣadā* ← *niṣad*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *yajīyān* \< *yajīyas*
+- *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayāṃsi* \< *prayas*
+- *prayāṃsi* ← *prayas*
 - \[noun\], accusative, plural, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *sudhitāni* \< *sudhita*
+- *sudhitāni* ← *sudhita*
 - \[noun\], accusative, plural, neuter
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 10.53.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *khyat* \< *khyā*
+- *khyat* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *yajāmahai* \< *yaj*
+- *yajāmahai* ← *yaj*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *yajñiyān* \< *yajñiya*
+- *yajñiyān* ← *yajñiya*
 - \[noun\], accusative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -48,20 +48,20 @@ title = "Rig Veda 10.53.2"
 - \[adverb\]
 - “very well; hanta \[word\].”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *īḍāmahā* \< *īḍāmahai* \< *īḍ*
+- *īḍāmahā* ← *īḍāmahai* ← *īḍ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *īḍyāṃ* \< *īḍ*
+- *īḍyāṃ* ← *īḍ*
 - \[verb noun\], accusative, plural
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *ājyena* \< *ājya*
+- *ājyena* ← *ājya*
 - \[noun\], instrumental, singular, neuter
 - “ghee; clarified butter; ājya.”
 ------------------------------------------------------------------------

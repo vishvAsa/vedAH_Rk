@@ -2,43 +2,43 @@
 title = "Rig Veda 5.42.12"
 
 +++
--   *damūnaso* \< *damūnasaḥ* \< *damūnas*
+-   *damūnaso* ← *damūnasaḥ* ← *damūnas*
 - \[noun\], nominative, plural, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *apaso* \< *apasaḥ* \< *apas*
+- *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suhastā* \< *su*
+- *suhastā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastā* \< *hastāḥ* \< *hasta*
+- *suhastā* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *vibhvataṣṭāḥ* \< *vibhva* \< *vibhvan*
+- *vibhvataṣṭāḥ* ← *vibhva* ← *vibhvan*
 - \[noun\], masculine
 - “Vibhvan.”
 ------------------------------------------------------------------------
-- *vibhvataṣṭāḥ* \< *taṣṭāḥ* \< *takṣ*
+- *vibhvataṣṭāḥ* ← *taṣṭāḥ* ← *takṣ*
 - \[verb noun\], nominative, plural
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
@@ -47,16 +47,16 @@ title = "Rig Veda 5.42.12"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *bṛhaddivota* \< *bṛhat*
+- *bṛhaddivota* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaddivota* \< *divā* \< *diva*
+- *bṛhaddivota* ← *divā* ← *diva*
 - \[noun\], nominative, singular, feminine
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *bṛhaddivota* \< *uta*
+- *bṛhaddivota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
@@ -64,13 +64,13 @@ title = "Rig Veda 5.42.12"
 - \[noun\], nominative, singular, feminine
 - “Rākā; rākā; full moon.”
 ------------------------------------------------------------------------
-- *daśasyantīr* \< *daśasyantīḥ* \< *daśasy*
+- *daśasyantīr* ← *daśasyantīḥ* ← *daśasy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *varivasyantu* \< *varivasy*
+- *varivasyantu* ← *varivasy*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *śubhrāḥ* \< *śubhra*
+- *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, feminine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------

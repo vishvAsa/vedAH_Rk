@@ -2,7 +2,7 @@
 title = "Rig Veda 7.20.7"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -11,50 +11,50 @@ title = "Rig Veda 7.20.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvo* \< *pūrvaḥ* \< *pūrva*
+- *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *aparāya* \< *apara*
+- *aparāya* ← *apara*
 - \[noun\], dative, singular, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *śikṣann* \< *śikṣan* \< *śikṣ*
+- *śikṣann* ← *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
 ------------------------------------------------------------------------
-- *ayaj* \< *ayat* \< *i*
+- *ayaj* ← *ayat* ← *i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *jyāyān* \< *jyāyas*
+- *jyāyān* ← *jyāyas*
 - \[noun\], nominative, singular, masculine
 - “better; elder; greater; bigger.”
 ------------------------------------------------------------------------
-- *kanīyaso* \< *kanīyasaḥ* \< *kanīyas*
+- *kanīyaso* ← *kanīyasaḥ* ← *kanīyas*
 - \[noun\], genitive, singular, masculine
 - “younger; less; smaller; kanīyas \[word\]; inferior; precedent.”
 ------------------------------------------------------------------------
-- *deṣṇam* \< *deṣṇa*
+- *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------
-- *amṛta* \< *amṛtaḥ* \< *amṛta*
+- *amṛta* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *āsīta* \< *ās*
+- *āsīta* ← *ās*
 - \[verb\], singular, Present optative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
@@ -72,20 +72,20 @@ title = "Rig Veda 7.20.7"
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citryam* \< *citrya*
+- *citryam* ← *citrya*
 - \[noun\], accusative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *bharā* \< *bharāḥ* \< *bhṛ*
+- *bharā* ← *bharāḥ* ← *bhṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 9.54.1"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pratnām* \< *pratna*
+- *pratnām* ← *pratna*
 - \[noun\], accusative, singular, feminine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
@@ -14,34 +14,34 @@ title = "Rig Veda 9.54.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyutaṃ* \< *dyutam* \< *dyut*
+- *dyutaṃ* ← *dyutam* ← *dyut*
 - \[noun\], accusative, singular, feminine
 - “beam.”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *duduhre* \< *duh*
+- *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *ahrayaḥ* \< *ahraya*
+- *ahrayaḥ* ← *ahraya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *sahasrasām* \< *sahasra*
+- *sahasrasām* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasām* \< *sām* \< *sā*
+- *sahasrasām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *ṛṣim* \< *ṛṣi*
+- *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------

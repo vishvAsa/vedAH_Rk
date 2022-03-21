@@ -2,15 +2,15 @@
 title = "Rig Veda 5.29.11"
 
 +++
--   *stomāsas* \< *stomāsaḥ* \< *stoma*
+-   *stomāsas* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gaurivīter* \< *gaurivīteḥ* \< *gaurivīti*
+- *gaurivīter* ← *gaurivīteḥ* \< *gaurivīti*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *avardhann* \< *avardhan* \< *vṛdh*

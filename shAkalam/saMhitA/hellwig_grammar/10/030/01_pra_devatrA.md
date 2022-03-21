@@ -9,20 +9,20 @@ title = "Rig Veda 10.30.1"
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *brahmaṇe* \< *brahman*
+- *brahmaṇe* ← *brahman*
 - \[noun\], dative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *gātur* \< *gātuḥ* \< *gātu*
+- *gātur* ← *gātuḥ* ← *gātu*
 - \[noun\], nominative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *etv* \< *etu* \< *i*
+- *etv* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

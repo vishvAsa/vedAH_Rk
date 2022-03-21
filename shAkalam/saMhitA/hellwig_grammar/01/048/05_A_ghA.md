@@ -6,60 +6,60 @@ title = "Rig Veda 1.48.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yoṣeva* \< *yoṣā*
+- *yoṣeva* ← *yoṣā*
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *yoṣeva* \< *iva*
+- *yoṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūnary* \< *sūnarī* \< *sūnara*
+- *sūnary* ← *sūnarī* ← *sūnara*
 - \[noun\], nominative, singular, feminine
 - “noble.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *prabhuñjatī* \< *prabhuj* \< *√bhuj*
+- *prabhuñjatī* ← *prabhuj* ← *√bhuj*
 - \[verb noun\], nominative, singular
 - “consume; eat.”
 ------------------------------------------------------------------------
-- *jarayantī* \< *jaray* \< *√jṛ*
+- *jarayantī* ← *jaray* ← *√jṛ*
 - \[verb noun\], nominative, singular
 - “jāray; digest; consume.”
 ------------------------------------------------------------------------
-- *vṛjanam* \< *vṛjana*
+- *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *padvad* \< *padvat*
+- *padvad* ← *padvat*
 - \[noun\], accusative, singular, neuter
 - “footed.”
 ------------------------------------------------------------------------
-- *īyata* \< *īyate* \< *i*
+- *īyata* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *pātayati* \< *pātay* \< *√pat*
+- *pātayati* ← *pātay* ← *√pat*
 - \[verb\], singular, Present indikative
 - “pātay; kill; make fall; destroy; lower; put on; cut off; use; make
     fly; drip; divide; give; pour; prick.”
 ------------------------------------------------------------------------
-- *pakṣiṇaḥ* \< *pakṣin*
+- *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], accusative, plural, masculine
 - “bird; mākṣika; poultry.”
 ------------------------------------------------------------------------

@@ -2,50 +2,50 @@
 title = "Rig Veda 2.30.11"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śardham* \< *śardha*
+- *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *sumnayur* \< *sumnayuḥ* \< *sumnayu*
+- *sumnayur* ← *sumnayuḥ* ← *sumnayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *giropa* \< *girā* \< *gir*
+- *giropa* ← *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *giropa* \< *upa*
+- *giropa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -54,36 +54,36 @@ title = "Rig Veda 2.30.11"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *sarvavīraṃ* \< *sarva*
+- *sarvavīraṃ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvavīraṃ* \< *vīram* \< *vīra*
+- *sarvavīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *naśāmahā* \< *naśāmahai* \< *naś*
+- *naśāmahā* ← *naśāmahai* ← *naś*
 - \[verb\], plural, Present imperative
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *apatyasācaṃ* \< *apatyasācam* \< *apatyasāc*
+- *apatyasācaṃ* ← *apatyasācam* ← *apatyasāc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutyaṃ* \< *śrutyam* \< *śrutya*
+- *śrutyaṃ* ← *śrutyam* ← *śrutya*
 - \[noun\], accusative, singular, masculine
 - “celebrated; glorious.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 1.187.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pitav* \< *pito* \< *pitu*
+- *pitav* ← *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
@@ -18,44 +18,44 @@ title = "Rig Veda 1.187.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cara* \< *car*
+- *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *śivaḥ* \< *śiva*
+- *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *śivābhir* \< *śivābhiḥ* \< *śiva*
+- *śivābhir* ← *śivābhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *mayobhur* \< *mayobhuḥ* \< *mayobhu*
+- *mayobhur* ← *mayobhuḥ* ← *mayobhu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adviṣeṇyaḥ* \< *adviṣeṇya*
+- *adviṣeṇyaḥ* ← *adviṣeṇya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *suśevo* \< *su*
+- *suśevo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśevo* \< *śevaḥ* \< *śeva*
+- *suśevo* ← *śevaḥ* ← *śeva*
 - \[noun\], nominative, singular, masculine
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *advayāḥ* \< *advayas*
+- *advayāḥ* ← *advayas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,24 +2,24 @@
 title = "Rig Veda 10.37.9"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *ketunā* \< *ketu*
+- *ketunā* ← *ketu*
 - \[noun\], instrumental, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
@@ -28,11 +28,11 @@ title = "Rig Veda 10.37.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cerate* \< *ca*
+- *cerate* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cerate* \< *īrate* \< *īr*
+- *cerate* ← *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
@@ -44,56 +44,56 @@ title = "Rig Veda 10.37.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśante* \< *viś*
+- *viśante* ← *viś*
 - \[verb\], plural, Present indikative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *aktubhiḥ* \< *aktu*
+- *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *anāgāstvena* \< *anāgāstva*
+- *anāgāstvena* ← *anāgāstva*
 - \[noun\], instrumental, singular, neuter
 - “blamelessness; purity.”
 ------------------------------------------------------------------------
-- *harikeśa* \< *hari*
+- *harikeśa* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *harikeśa* \< *keśa*
+- *harikeśa* ← *keśa*
 - \[noun\], vocative, singular, masculine
 - “mane; hair; keśa \[word\].”
 ------------------------------------------------------------------------
-- *sūryāhnāhnā* \< *sūrya*
+- *sūryāhnāhnā* ← *sūrya*
 - \[noun\], vocative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryāhnāhnā* \< *ahnā* \< *ahar*
+- *sūryāhnāhnā* ← *ahnā* ← *ahar*
 - \[noun\], instrumental, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *sūryāhnāhnā* \< *ahnā* \< *ahar*
+- *sūryāhnāhnā* ← *ahnā* ← *ahar*
 - \[noun\], instrumental, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasyasā* \< *vasyas*
+- *vasyasā* ← *vasyas*
 - \[noun\], instrumental, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *vasyasod* \< *vasyasā* \< *vasyas*
+- *vasyasod* ← *vasyasā* ← *vasyas*
 - \[noun\], instrumental, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *vasyasod* \< *ud*
+- *vasyasod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ihi* \< *i*
+- *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

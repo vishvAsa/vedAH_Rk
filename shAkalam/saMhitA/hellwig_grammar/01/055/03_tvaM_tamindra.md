@@ -2,11 +2,11 @@
 title = "Rig Veda 1.55.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -17,7 +17,7 @@ title = "Rig Veda 1.55.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *parvataṃ* \< *parvatam* \< *parvata*
+- *parvataṃ* ← *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -26,23 +26,23 @@ title = "Rig Veda 1.55.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhojase* \< *bhuj*
+- *bhojase* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *nṛmṇasya* \< *nṛmṇa*
+- *nṛmṇasya* ← *nṛmṇa*
 - \[noun\], genitive, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *dharmaṇām* \< *dharman*
+- *dharmaṇām* ← *dharman*
 - \[noun\], genitive, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *irajyasi* \< *irajy* \< *√rañj*
+- *irajyasi* ← *irajy* ← *√rañj*
 - \[verb\], singular, Present indikative
 - “direct.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 1.55.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vīryeṇa* \< *vīrya*
+- *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -60,21 +60,21 @@ title = "Rig Veda 1.55.3"
 - \[noun\], instrumental, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *cekite* \< *cekit* \< *√cit*
+- *cekite* ← *cekit* ← *√cit*
 - \[verb\], singular, Present indikative
 - “chew over.”
 ------------------------------------------------------------------------
-- *viśvasmā* \< *viśvasmai* \< *viśva*
+- *viśvasmā* ← *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ugraḥ* \< *ugra*
+- *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *karmaṇe* \< *karman*
+- *karmaṇe* ← *karman*
 - \[noun\], dative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -82,6 +82,6 @@ title = "Rig Veda 1.55.3"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *purohitaḥ* \< *purodhā* \< *√dhā*
+- *purohitaḥ* ← *purodhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

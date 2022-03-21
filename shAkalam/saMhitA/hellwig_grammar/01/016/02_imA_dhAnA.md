@@ -2,44 +2,44 @@
 title = "Rig Veda 1.16.2"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhānā* \< *dhānāḥ* \< *dhānā*
+- *dhānā* ← *dhānāḥ* ← *dhānā*
 - \[noun\], accusative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
 ------------------------------------------------------------------------
-- *ghṛtasnuvo* \< *ghṛtasnuvaḥ* \< *ghṛtasnu*
+- *ghṛtasnuvo* ← *ghṛtasnuvaḥ* ← *ghṛtasnu*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ihopa* \< *iha*
+- *ihopa* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihopa* \< *upa*
+- *ihopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vakṣataḥ* \< *vah*
+- *vakṣataḥ* ← *vah*
 - \[verb\], dual, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sukhatame* \< *sukhatama*
+- *sukhatame* ← *sukhatama*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

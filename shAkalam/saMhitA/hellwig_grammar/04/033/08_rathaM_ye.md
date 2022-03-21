@@ -2,15 +2,15 @@
 title = "Rig Veda 4.33.8"
 
 +++
--   *rathaṃ* \< *ratham* \< *ratha*
+-   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakruḥ* \< *kṛ*
+- *cakruḥ* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,42 +21,42 @@ title = "Rig Veda 4.33.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suvṛtaṃ* \< *suvṛtam* \< *suvṛt*
+- *suvṛtaṃ* ← *suvṛtam* ← *suvṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nareṣṭhāṃ* \< *nareṣṭhām* \< *nareṣṭhā*
+- *nareṣṭhāṃ* ← *nareṣṭhām* ← *nareṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhenuṃ* \< *dhenum* \< *dhenu*
+- *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *viśvajuvaṃ* \< *viśva*
+- *viśvajuvaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvajuvaṃ* \< *juvam* \< *jū*
+- *viśvajuvaṃ* ← *juvam* ← *jū*
 - \[noun\], accusative, singular, feminine
 - “fleet.”
 ------------------------------------------------------------------------
-- *viśvarūpām* \< *viśva*
+- *viśvarūpām* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvarūpām* \< *rūpām* \< *rūpa*
+- *viśvarūpām* ← *rūpām* ← *rūpa*
 - \[noun\], accusative, singular, feminine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -66,43 +66,43 @@ title = "Rig Veda 4.33.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *takṣantv* \< *takṣantu* \< *takṣ*
+- *takṣantv* ← *takṣantu* ← *takṣ*
 - \[verb\], plural, Present imperative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svavasaḥ* \< *su*
+- *svavasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svavasaḥ* \< *avasaḥ* \< *avas*
+- *svavasaḥ* ← *avasaḥ* ← *avas*
 - \[noun\], nominative, plural, masculine
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *svapasaḥ* \< *su*
+- *svapasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapasaḥ* \< *apasaḥ* \< *apas*
+- *svapasaḥ* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
-- *suhastāḥ* \< *su*
+- *suhastāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastāḥ* \< *hastāḥ* \< *hasta*
+- *suhastāḥ* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 7.83.5"
 
 +++
--   *indrāvaruṇāv* \< *indrāvaruṇau* \< *indrāvaruṇa*
+-   *indrāvaruṇāv* ← *indrāvaruṇau* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 7.83.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tapanti* \< *tap*
+- *tapanti* ← *tap*
 - \[verb\], plural, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *māghāny* \< *mā* \< *mad*
+- *māghāny* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *māghāny* \< *aghāni* \< *agha*
+- *māghāny* ← *aghāni* ← *agha*
 - \[noun\], nominative, plural, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vanuṣām* \< *vanus*
+- *vanuṣām* ← *vanus*
 - \[noun\], genitive, plural, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *arātayaḥ* \< *arāti*
+- *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -45,38 +45,38 @@ title = "Rig Veda 7.83.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vasva* \< *vasvaḥ* \< *vasu*
+- *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *rājatho* \< *rājathaḥ* \< *rāj*
+- *rājatho* ← *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *'dha* \< *adha*
+- *'dha* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vatam* \< *avatam* \< *av*
+- *'vatam* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

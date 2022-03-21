@@ -2,27 +2,27 @@
 title = "Rig Veda 4.30.3"
 
 +++
--   *viśve* \< *viśva*
+-   *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *caned* \< *cana*
+- *caned* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *caned* \< *id*
+- *caned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
 - *anā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -32,22 +32,22 @@ title = "Rig Veda 4.30.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yuyudhuḥ* \< *yudh*
+- *yuyudhuḥ* ← *yudh*
 - \[verb\], plural, Perfect indicative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ahā* \< *aha*
+- *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *naktam* \< *nakta*
+- *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *ātiraḥ* \< *ātṛ* \< *√tṛ*
+- *ātiraḥ* ← *ātṛ* ← *√tṛ*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

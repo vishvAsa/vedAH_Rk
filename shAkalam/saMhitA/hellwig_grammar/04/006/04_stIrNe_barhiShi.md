@@ -2,60 +2,60 @@
 title = "Rig Veda 4.6.4"
 
 +++
--   *stīrṇe* \< *stṛ*
+-   *stīrṇe* ← *stṛ*
 - \[verb noun\], locative, singular
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *samidhāne* \< *samindh* \< *√indh*
+- *samidhāne* ← *samindh* ← *√indh*
 - \[verb noun\], locative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *agnā* \< *agnau* \< *agni*
+- *agnā* ← *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ūrdhvo* \< *ūrdhvaḥ* \< *ūrdhva*
+- *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *adhvaryur* \< *adhvaryuḥ* \< *adhvaryu*
+- *adhvaryur* ← *adhvaryuḥ* ← *adhvaryu*
 - \[noun\], nominative, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *jujuṣāṇo* \< *jujuṣāṇaḥ* \< *juṣ*
+- *jujuṣāṇo* ← *jujuṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *asthāt* \< *sthā*
+- *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *paśupā* \< *paśu*
+- *paśupā* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *paśupā* \< *pāḥ* \< *pā*
+- *paśupā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
@@ -63,23 +63,23 @@ title = "Rig Veda 4.6.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *triviṣṭy* \< *triviṣṭi*
+- *triviṣṭy* ← *triviṣṭi*
 - \[adverb\]
 - “thrice.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pradiva* \< *pradivaḥ* \< *pradiv*
+- *pradiva* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *urāṇaḥ* \< *vṛ*
+- *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------

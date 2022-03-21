@@ -6,11 +6,11 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -19,12 +19,12 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śaṃsata* \< *śaṃs*
+- *śaṃsata* ← *śaṃs*
 - \[verb\], plural, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -32,24 +32,24 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣaṇyata* \< *riṣaṇy* \< *√riṣ*
+- *riṣaṇyata* ← *riṣaṇy* ← *√riṣ*
 - \[verb\], plural, Present imperative
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *stotā* \< *stota* \< *stu*
+- *stotā* ← *stota* ← *stu*
 - \[verb\], plural, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “again; repeatedly; continually.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -73,7 +73,7 @@ title = "Rig Veda 8.1.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śaṃsata* \< *śaṃs*
+- *śaṃsata* ← *śaṃs*
 - \[verb\], plural, Present imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”

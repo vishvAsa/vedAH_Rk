@@ -2,38 +2,38 @@
 title = "Rig Veda 6.17.11"
 
 +++
--   *vardhān* \< *vṛdh*
+-   *vardhān* ← *vṛdh*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, plural, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *pacacchatam* \< *pacat* \< *pac*
+- *pacacchatam* ← *pacat* ← *pac*
 - \[verb\], singular, Present injunctive
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *pacacchatam* \< *śatam* \< *śata*
+- *pacacchatam* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *mahiṣāṃ* \< *mahiṣa*
+- *mahiṣāṃ* ← *mahiṣa*
 - \[noun\], accusative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
@@ -42,47 +42,47 @@ title = "Rig Veda 6.17.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *viṣṇus* \< *viṣṇuḥ* \< *viṣṇu*
+- *viṣṇus* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *sarāṃsi* \< *saras*
+- *sarāṃsi* ← *saras*
 - \[noun\], accusative, plural, neuter
 - “lake; saras \[word\]; pond.”
 ------------------------------------------------------------------------
-- *dhāvan* \< *dhāv*
+- *dhāvan* ← *dhāv*
 - \[verb\], plural, Present injunctive
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *vṛtrahaṇam* \< *vṛtra*
+- *vṛtrahaṇam* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahaṇam* \< *haṇam* \< *han*
+- *vṛtrahaṇam* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *madiram* \< *madira*
+- *madiram* ← *madira*
 - \[noun\], accusative, singular, masculine
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *aṃśum* \< *aṃśu*
+- *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

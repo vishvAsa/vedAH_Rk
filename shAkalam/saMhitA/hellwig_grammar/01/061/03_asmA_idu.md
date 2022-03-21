@@ -2,7 +2,7 @@
 title = "Rig Veda 1.61.3"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,51 +14,51 @@ title = "Rig Veda 1.61.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *upamaṃ* \< *upamam* \< *upama*
+- *upamaṃ* ← *upamam* ← *upama*
 - \[noun\], accusative, singular, masculine
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *svarṣām* \< *svarṣā*
+- *svarṣām* ← *svarṣā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bharāmy* \< *bharāmi* \< *bhṛ*
+- *bharāmy* ← *bharāmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *āṅgūṣam* \< *āṅgūṣa*
+- *āṅgūṣam* ← *āṅgūṣa*
 - \[noun\], accusative, singular, masculine
 - “hymn.”
 ------------------------------------------------------------------------
-- *āsyena* \< *āsya*
+- *āsyena* ← *āsya*
 - \[noun\], instrumental, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *acchoktibhir* \< *acchoktibhiḥ* \< *acchokti*
+- *acchoktibhir* ← *acchoktibhiḥ* ← *acchokti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *matīnāṃ* \< *matīnām* \< *mati*
+- *matīnāṃ* ← *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *sūriṃ* \< *sūrim* \< *sūri*
+- *sūriṃ* ← *sūrim* ← *sūri*
 - \[noun\], accusative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *vāvṛdhadhyai* \< *vṛdh*
+- *vāvṛdhadhyai* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

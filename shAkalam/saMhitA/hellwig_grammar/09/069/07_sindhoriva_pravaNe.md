@@ -2,7 +2,7 @@
 title = "Rig Veda 9.69.7"
 
 +++
--   *sindhor* \< *sindhoḥ* \< *sindhu*
+-   *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -10,66 +10,66 @@ title = "Rig Veda 9.69.7"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pravaṇe* \< *pravaṇa*
+- *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “descent.”
 ------------------------------------------------------------------------
-- *nimna* \< *nimne* \< *nimna*
+- *nimna* ← *nimne* ← *nimna*
 - \[noun\], locative, singular, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
-- *āśavo* \< *āśavaḥ* \< *āśu*
+- *āśavo* ← *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *vṛṣacyutā* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣacyutā* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣacyutā* \< *cyutāḥ* \< *cyu*
+- *vṛṣacyutā* ← *cyutāḥ* ← *cyu*
 - \[verb noun\], nominative, plural
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *madāso* \< *madāsaḥ* \< *mada*
+- *madāso* ← *madāsaḥ* ← *mada*
 - \[noun\], nominative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *niveśe* \< *niveśa*
+- *niveśe* ← *niveśa*
 - \[noun\], locative, singular, masculine
 - “camp.”
 ------------------------------------------------------------------------
-- *dvipade* \< *dvipad*
+- *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------
-- *'sme* \< *asme* \< *mad*
+- *'sme* ← *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājāḥ* \< *vāja*
+- *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -77,13 +77,13 @@ title = "Rig Veda 9.69.7"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tiṣṭhantu* \< *sthā*
+- *tiṣṭhantu* ← *sthā*
 - \[verb\], plural, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------

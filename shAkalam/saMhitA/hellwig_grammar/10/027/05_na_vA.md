@@ -6,7 +6,7 @@ title = "Rig Veda 10.27.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 10.27.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *māṃ* \< *mām* \< *mad*
+- *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *vārayante* \< *vāray*
+- *vārayante* ← *vāray*
 - \[verb\], plural, Present indikative
 - “ward off; obstruct; restrain.”
 ------------------------------------------------------------------------
@@ -30,43 +30,43 @@ title = "Rig Veda 10.27.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *parvatāso* \< *parvatāsaḥ* \< *parvata*
+- *parvatāso* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *manasye* \< *manasy*
+- *manasye* ← *manasy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svanāt* \< *svana*
+- *svanāt* ← *svana*
 - \[noun\], ablative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *kṛdhukarṇo* \< *kṛdhukarṇaḥ* \< *kṛdhukarṇa*
+- *kṛdhukarṇo* ← *kṛdhukarṇaḥ* ← *kṛdhukarṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhayāta* \< *bhayāte* \< *bhī*
+- *bhayāta* ← *bhayāte* ← *bhī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *eved* \< *eva*
+- *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *eved* \< *id*
+- *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -74,11 +74,11 @@ title = "Rig Veda 10.27.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *kiraṇaḥ* \< *kiraṇa*
+- *kiraṇaḥ* ← *kiraṇa*
 - \[noun\], nominative, singular, masculine
 - “beam; sunbeam; Kiraṇa; dust; sun; chapter.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 10.27.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ejāt* \< *ej*
+- *ejāt* ← *ej*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------

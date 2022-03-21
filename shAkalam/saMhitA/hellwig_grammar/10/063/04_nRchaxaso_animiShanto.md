@@ -2,75 +2,75 @@
 title = "Rig Veda 10.63.4"
 
 +++
--   *nṛcakṣaso* \< *nṛ*
+-   *nṛcakṣaso* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣaso* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣaso* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *animiṣanto* \< *a*
+- *animiṣanto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *animiṣanto* \< *nimiṣantaḥ* \< *nimiṣ* \< *√miṣ*
+- *animiṣanto* ← *nimiṣantaḥ* ← *nimiṣ* ← *√miṣ*
 - \[verb noun\], nominative, plural
 - “blink.”
 ------------------------------------------------------------------------
-- *arhaṇā* \< *arhaṇāḥ* \< *arhaṇa*
+- *arhaṇā* ← *arhaṇāḥ* ← *arhaṇa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ānaśuḥ* \< *aś*
+- *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *jyotīrathā* \< *jyotīrathāḥ* \< *jyotīratha*
+- *jyotīrathā* ← *jyotīrathāḥ* ← *jyotīratha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ahimāyā* \< *ahi*
+- *ahimāyā* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *ahimāyā* \< *māyāḥ* \< *māyā*
+- *ahimāyā* ← *māyāḥ* ← *māyā*
 - \[noun\], nominative, plural, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *anāgaso* \< *anāgasaḥ* \< *anāgas*
+- *anāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *varṣmāṇaṃ* \< *varṣmāṇam* \< *varṣman*
+- *varṣmāṇaṃ* ← *varṣmāṇam* ← *varṣman*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vasate* \< *vas*
+- *vasate* ← *vas*
 - \[verb\], plural, Present indikative
 - “wear.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

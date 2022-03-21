@@ -2,31 +2,31 @@
 title = "Rig Veda 4.30.11"
 
 +++
--   *etad* \< *etat* \< *etad*
+-   *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anaḥ* \< *anas*
+- *anaḥ* ← *anas*
 - \[noun\], nominative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *śaye* \< *śī*
+- *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *susampiṣṭaṃ* \< *su*
+- *susampiṣṭaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susampiṣṭaṃ* \< *sampiṣṭam* \< *sampiṣ* \< *√piṣ*
+- *susampiṣṭaṃ* ← *sampiṣṭam* ← *sampiṣ* ← *√piṣ*
 - \[verb noun\], nominative, singular
 - “grind; knead; jam.”
 ------------------------------------------------------------------------
-- *vipāśy* \< *vipāśi* \< *vipāś*
+- *vipāśy* ← *vipāśi* ← *vipāś*
 - \[noun\], locative, singular, feminine
 - “Vipāś.”
 ------------------------------------------------------------------------
@@ -34,14 +34,14 @@ title = "Rig Veda 4.30.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sasāra* \< *sṛ*
+- *sasāra* ← *sṛ*
 - \[verb\], singular, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------

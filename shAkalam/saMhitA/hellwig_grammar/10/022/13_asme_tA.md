@@ -2,17 +2,17 @@
 title = "Rig Veda 10.22.13"
 
 +++
--   *asme* \< *mad*
+-   *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -21,12 +21,12 @@ title = "Rig Veda 10.22.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *satyāhiṃsantīr* \< *satyā* \< *satya*
+- *satyāhiṃsantīr* ← *satyā* ← *satya*
 - \[noun\], nominative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------

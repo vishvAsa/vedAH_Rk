@@ -2,83 +2,83 @@
 title = "Rig Veda 10.84.4"
 
 +++
--   *eko* \< *ekaḥ* \< *eka*
+-   *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *bahūnām* \< *bahu*
+- *bahūnām* ← *bahu*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *manyav* \< *manyo* \< *manyu*
+- *manyav* ← *manyo* ← *manyu*
 - \[noun\], vocative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *īḍito* \< *īḍitaḥ* \< *īḍ*
+- *īḍito* ← *īḍitaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *viśaṃ* \< *viśam* \< *viś*
+- *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *viśaṃ* \< *viśam* \< *viś*
+- *viśaṃ* ← *viśam* ← *viś*
 - \[noun\], accusative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *yudhaye* \< *yudh*
+- *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *śiśādhi* \< *śā*
+- *śiśādhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *akṛttaruk* \< *akṛtta*
+- *akṛttaruk* ← *akṛtta*
 - \[noun\]
 ------------------------------------------------------------------------
-- *akṛttaruk* \< *ruc*
+- *akṛttaruk* ← *ruc*
 - \[noun\], nominative, singular, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *tvayā* \< *tvad*
+- *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *ghoṣaṃ* \< *ghoṣam* \< *ghoṣa*
+- *ghoṣaṃ* ← *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *vijayāya* \< *vijaya*
+- *vijayāya* ← *vijaya*
 - \[noun\], dative, singular, masculine
 - “victory; Arjuna; Vijaya; Vijaya; Vijaya; Vijaya; Vijaya.”
 ------------------------------------------------------------------------
-- *kṛṇmahe* \< *kṛ*
+- *kṛṇmahe* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

@@ -6,37 +6,37 @@ title = "Rig Veda 9.34.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *ahrutā* \< *ahrutāḥ* \< *ahruta*
+- *ahrutā* ← *ahrutāḥ* ← *ahruta*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *arṣanti* \< *ṛṣ*
+- *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *sasrutaḥ* \< *sasrut*
+- *sasrutaḥ* ← *sasrut*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *dhenūr* \< *dhenūḥ* \< *dhenu*
+- *dhenūr* ← *dhenūḥ* ← *dhenu*
 - \[noun\], accusative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *vāśro* \< *vāśraḥ* \< *vāśra*
+- *vāśro* ← *vāśraḥ* ← *vāśra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *avīvaśat* \< *vāś*
+- *avīvaśat* ← *vāś*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------

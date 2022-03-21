@@ -2,39 +2,39 @@
 title = "Rig Veda 8.9.21"
 
 +++
--   *yan* \< *yat*
+-   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *yonā* \< *yoni*
+- *yonā* ← *yoni*
 - \[noun\], locative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *niṣīdathaḥ* \< *niṣad* \< *√sad*
+- *niṣīdathaḥ* ← *niṣad* ← *√sad*
 - \[verb\], dual, Present indikative
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 8.9.21"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sumnebhir* \< *sumnebhiḥ* \< *sumna*
+- *sumnebhir* ← *sumnebhiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *ukthyā* \< *ukthya*
+- *ukthyā* ← *ukthya*
 - \[noun\], vocative, dual, masculine
 - “applaudable.”
 ------------------------------------------------------------------------

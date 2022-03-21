@@ -2,7 +2,7 @@
 title = "Rig Veda 10.89.8"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.89.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *ṛṇayā* \< *ṛṇayāḥ* \< *ṛṇayā*
+- *ṛṇayā* ← *ṛṇayāḥ* ← *ṛṇayā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -22,11 +22,11 @@ title = "Rig Veda 10.89.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhīro* \< *dhīraḥ* \< *dhīra*
+- *dhīro* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *'sir* \< *asiḥ* \< *asi*
+- *'sir* ← *asiḥ* ← *asi*
 - \[noun\], nominative, singular, masculine
 - “sword; knife; knife.”
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ title = "Rig Veda 10.89.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *parva* \< *parvan*
+- *parva* ← *parvan*
 - \[noun\], accusative, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *vṛjinā* \< *vṛjina*
+- *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
 ------------------------------------------------------------------------
-- *śṛṇāsi* \< *śṛ*
+- *śṛṇāsi* ← *śṛ*
 - \[verb\], singular, Present indikative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
@@ -50,25 +50,25 @@ title = "Rig Veda 10.89.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *yujaṃ* \< *yujam* \< *yuj*
+- *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -76,16 +76,16 @@ title = "Rig Veda 10.89.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *janā* \< *janāḥ* \< *jana*
+- *janā* ← *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *minanti* \< *mī*
+- *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *mitram* \< *mitra*
+- *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------

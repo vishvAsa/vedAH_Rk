@@ -2,11 +2,11 @@
 title = "Rig Veda 10.167.1"
 
 +++
--   *tubhyedam* \< *tubhya* \< *tvad*
+-   *tubhyedam* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tubhyedam* \< *idam*
+- *tubhyedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 10.167.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣicyate* \< *sic*
+- *ṣicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
@@ -27,35 +27,35 @@ title = "Rig Veda 10.167.1"
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *kalaśasya* \< *kalaśa*
+- *kalaśasya* ← *kalaśa*
 - \[noun\], genitive, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *rājasi* \< *rāj*
+- *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *puruvīrām* \< *puru*
+- *puruvīrām* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvīrām* \< *vīrām* \< *vīra*
+- *puruvīrām* ← *vīrām* ← *vīra*
 - \[noun\], accusative, singular, feminine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 10.167.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,25 +78,25 @@ title = "Rig Veda 10.167.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tapaḥ* \< *tapas*
+- *tapaḥ* ← *tapas*
 - \[noun\], accusative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *paritapyājayaḥ* \< *paritapya* \< *paritap* \< *√tap*
+- *paritapyājayaḥ* ← *paritapya* ← *paritap* ← *√tap*
 - \[verb noun\]
 - “suffer; heat; trouble; burn; suffer.”
 ------------------------------------------------------------------------
-- *paritapyājayaḥ* \< *ajayaḥ* \< *ji*
+- *paritapyājayaḥ* ← *ajayaḥ* ← *ji*
 - \[verb\], singular, Imperfect
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------

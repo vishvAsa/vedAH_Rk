@@ -2,25 +2,25 @@
 title = "Rig Veda 8.25.22"
 
 +++
--   *ṛjram* \< *ṛjra*
+-   *ṛjram* ← *ṛjra*
 - \[noun\], accusative, singular, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *ukṣaṇyāyane* \< *ukṣaṇyāyana*
+- *ukṣaṇyāyane* ← *ukṣaṇyāyana*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *rajataṃ* \< *rajatam* \< *rajata*
+- *rajataṃ* ← *rajatam* ← *rajata*
 - \[noun\], accusative, singular, masculine
 - “silver.”
 ------------------------------------------------------------------------
-- *harayāṇe* \< *harayāṇa*
+- *harayāṇe* ← *harayāṇa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yuktam* \< *yuj*
+- *yuktam* ← *yuj*
 - \[verb noun\], accusative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -28,10 +28,10 @@ title = "Rig Veda 8.25.22"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *asanāma* \< *san*
+- *asanāma* ← *san*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *suṣāmaṇi* \< *suṣāman*
+- *suṣāmaṇi* ← *suṣāman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,79 +2,79 @@
 title = "Rig Veda 5.6.1"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *manye* \< *man*
+- *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vasur* \< *vasuḥ* \< *vasu*
+- *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *astaṃ* \< *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, masculine
 - “set; Asta.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, masculine
 - “set; Asta.”
 ------------------------------------------------------------------------
-- *arvanta* \< *arvantaḥ* \< *arvant*
+- *arvanta* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *āśavo* \< *āśavaḥ* \< *āśu*
+- *āśavo* ← *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *'staṃ* \< *astam* \< *asta*
+- *'staṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, masculine
 - “set; Asta.”
 ------------------------------------------------------------------------
-- *nityāso* \< *nityāsaḥ* \< *nitya*
+- *nityāso* ← *nityāsaḥ* ← *nitya*
 - \[noun\], nominative, plural, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *vājina* \< *vājinaḥ* \< *vājin*
+- *vājina* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 5.6.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

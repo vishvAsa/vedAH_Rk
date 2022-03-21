@@ -2,18 +2,18 @@
 title = "Rig Veda 1.46.3"
 
 +++
--   *vacyante* \< *vañc*
+-   *vacyante* ← *vañc*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *kakuhāso* \< *kakuhāsaḥ* \< *kakuha*
+- *kakuhāso* ← *kakuhāsaḥ* ← *kakuha*
 - \[noun\], nominative, plural, masculine
 - “huge; eminent; distinguished.”
 ------------------------------------------------------------------------
-- *jūrṇāyām* \< *jṛ*
+- *jūrṇāyām* ← *jṛ*
 - \[verb noun\], locative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
@@ -21,26 +21,26 @@ title = "Rig Veda 1.46.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *viṣṭapi* \< *viṣṭap*
+- *viṣṭapi* ← *viṣṭap*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vibhiṣ* \< *vi*
+- *vibhiṣ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *patāt* \< *pat*
+- *patāt* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”

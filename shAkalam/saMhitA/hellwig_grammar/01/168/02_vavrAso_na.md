@@ -2,37 +2,37 @@
 title = "Rig Veda 1.168.2"
 
 +++
--   *vavrāso* \< *vavrāsaḥ* \< *vavra*
+-   *vavrāso* ← *vavrāsaḥ* ← *vavra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *svajāḥ* \< *sva*
+- *svajāḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svajāḥ* \< *jāḥ* \< *ja*
+- *svajāḥ* ← *jāḥ* ← *ja*
 - \[noun\], nominative, plural, masculine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
 ------------------------------------------------------------------------
-- *svatavasa* \< *sva*
+- *svatavasa* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svatavasa* \< *tavasaḥ* \< *tavas*
+- *svatavasa* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -40,48 +40,48 @@ title = "Rig Veda 1.168.2"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *abhijāyanta* \< *abhijan* \< *√jan*
+- *abhijāyanta* ← *abhijan* ← *√jan*
 - \[verb\], plural, Present injunctive
 - “be born; originate; become.”
 ------------------------------------------------------------------------
-- *dhūtayaḥ* \< *dhūti*
+- *dhūtayaḥ* ← *dhūti*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *sahasriyāso* \< *sahasriyāsaḥ* \< *sahasriya*
+- *sahasriyāso* ← *sahasriyāsaḥ* ← *sahasriya*
 - \[noun\], nominative, plural, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *normaya* \< *nā* \< *na*
+- *normaya* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *normaya* \< *ūrmayaḥ* \< *ūrmi*
+- *normaya* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *āsā* \< *ās*
+- *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *vandyāso* \< *vandyāsaḥ* \< *vand*
+- *vandyāso* ← *vandyāsaḥ* ← *vand*
 - \[verb noun\], nominative, plural
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *nokṣaṇaḥ* \< *nā* \< *na*
+- *nokṣaṇaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nokṣaṇaḥ* \< *ukṣaṇaḥ* \< *ukṣan*
+- *nokṣaṇaḥ* ← *ukṣaṇaḥ* ← *ukṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------

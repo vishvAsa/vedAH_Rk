@@ -2,7 +2,7 @@
 title = "Rig Veda 8.61.14"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,45 +10,45 @@ title = "Rig Veda 8.61.14"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *rādhaspate* \< *rādhaspati*
+- *rādhaspate* ← *rādhaspati*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *rādhaso* \< *rādhasaḥ* \< *rādhas*
+- *rādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *kṣayasyāsi* \< *kṣayasya* \< *kṣaya*
+- *kṣayasyāsi* ← *kṣayasya* ← *kṣaya*
 - \[noun\], genitive, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *kṣayasyāsi* \< *asi* \< *as*
+- *kṣayasyāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vidhataḥ* \< *vidh*
+- *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
@@ -57,13 +57,13 @@ title = "Rig Veda 8.61.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sutāvanto* \< *sutāvantaḥ* \< *sutāvat*
+- *sutāvanto* ← *sutāvantaḥ* ← *sutāvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

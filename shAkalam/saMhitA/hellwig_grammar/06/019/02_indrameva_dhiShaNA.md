@@ -2,7 +2,7 @@
 title = "Rig Veda 6.19.2"
 
 +++
--   *indram* \< *indra*
+-   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -16,61 +16,61 @@ title = "Rig Veda 6.19.2"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *dhād* \< *dhāt* \< *dhā*
+- *dhād* ← *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *ṛṣvam* \< *ṛṣva*
+- *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *ajaraṃ* \< *ajaram* \< *ajara*
+- *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *yuvānam* \< *yuvan*
+- *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *aṣāﾱhena* \< *a*
+- *aṣāﾱhena* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aṣāﾱhena* \< *sāḍhena* \< *sah*
+- *aṣāﾱhena* ← *sāḍhena* ← *sah*
 - \[verb noun\], instrumental, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śūśuvāṃsaṃ* \< *śūśuvāṃsam* \< *śvi*
+- *śūśuvāṃsaṃ* ← *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *sadyaś* \< *sadyas*
+- *sadyaś* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

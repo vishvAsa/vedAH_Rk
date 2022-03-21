@@ -2,35 +2,35 @@
 title = "Rig Veda 1.23.6"
 
 +++
--   *varuṇaḥ* \< *varuṇa*
+-   *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *prāvitā* \< *prāvitṛ*
+- *prāvitā* ← *prāvitṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhuvan* \< *bhuvat* \< *bhū*
+- *bhuvan* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *karatāṃ* \< *karatām* \< *kṛ*
+- *karatāṃ* ← *karatām* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,11 +41,11 @@ title = "Rig Veda 1.23.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *surādhasaḥ* \< *surādhas*
+- *surādhasaḥ* ← *surādhas*
 - \[noun\], accusative, plural, masculine
 - “affluent; big.”
 ------------------------------------------------------------------------

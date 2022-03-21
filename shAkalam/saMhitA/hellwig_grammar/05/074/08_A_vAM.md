@@ -6,50 +6,50 @@ title = "Rig Veda 5.74.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathānāṃ* \< *rathānām* \< *ratha*
+- *rathānāṃ* ← *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yeṣṭho* \< *yeṣṭhaḥ* \< *yeṣṭha*
+- *yeṣṭho* ← *yeṣṭhaḥ* ← *yeṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yātv* \< *yātu* \< *yā*
+- *yātv* ← *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asmayus* \< *asmayuḥ* \< *asmayu*
+- *asmayus* ← *asmayuḥ* ← *asmayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tira* \< *tiras*
+- *tira* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *āṅgūṣo* \< *āṅgūṣaḥ* \< *āṅgūṣa*
+- *āṅgūṣo* ← *āṅgūṣaḥ* ← *āṅgūṣa*
 - \[noun\], nominative, singular, masculine
 - “hymn.”
 ------------------------------------------------------------------------
-- *martyeṣv* \< *martyeṣu* \< *martya*
+- *martyeṣv* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “mortal.”
 ------------------------------------------------------------------------

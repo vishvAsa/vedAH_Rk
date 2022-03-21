@@ -2,18 +2,18 @@
 title = "Rig Veda 1.8.5"
 
 +++
--   *mahāṃ* \< *mahat*
+-   *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *paraś* \< *paras*
+- *paraś* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
@@ -25,24 +25,24 @@ title = "Rig Veda 1.8.5"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *mahi*
+- *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *tvam* \< *tva*
+- *mahitvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vajriṇe* \< *vajrin*
+- *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -50,10 +50,10 @@ title = "Rig Veda 1.8.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prathinā* \< *prathiman*
+- *prathinā* ← *prathiman*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

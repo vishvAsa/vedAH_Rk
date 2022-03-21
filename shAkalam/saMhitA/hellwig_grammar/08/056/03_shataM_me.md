@@ -2,30 +2,30 @@
 title = "Rig Veda 8.56.3"
 
 +++
--   *śatam* \< *śata*
+-   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gardabhānāṃ* \< *gardabhānām* \< *gardabha*
+- *gardabhānāṃ* ← *gardabhānām* ← *gardabha*
 - \[noun\], genitive, plural, masculine
 - “ass.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *ūrṇāvatīnām* \< *ūrṇāvatī*
+- *ūrṇāvatīnām* ← *ūrṇāvatī*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *dāsāṃ* \< *dāsa*
+- *dāsāṃ* ← *dāsa*
 - \[noun\], accusative, plural, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 8.56.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *srajaḥ* \< *sraj*
+- *srajaḥ* ← *sraj*
 - \[noun\], accusative, plural, feminine
 - “wreath; sraj \[word\].”
 ------------------------------------------------------------------------

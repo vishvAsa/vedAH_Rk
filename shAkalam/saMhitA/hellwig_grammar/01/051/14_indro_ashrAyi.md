@@ -2,58 +2,58 @@
 title = "Rig Veda 1.51.14"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *aśrāyi* \< *śri*
+- *aśrāyi* ← *śri*
 - \[verb\], singular, Aorist passive
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *sudhyo* \< *su*
+- *sudhyo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhyo* \< *dhyaḥ* \< *dhī*
+- *sudhyo* ← *dhyaḥ* ← *dhī*
 - \[noun\], genitive, singular, masculine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *nireke* \< *nireka*
+- *nireke* ← *nireka*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *pajreṣu* \< *pajra*
+- *pajreṣu* ← *pajra*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *duryo* \< *duryaḥ* \< *durya*
+- *duryo* ← *duryaḥ* ← *durya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yūpaḥ* \< *yūpa*
+- *yūpaḥ* ← *yūpa*
 - \[noun\], nominative, singular, masculine
 - “column; stake.”
 ------------------------------------------------------------------------
-- *aśvayur* \< *aśvayuḥ* \< *aśvayu*
+- *aśvayur* ← *aśvayuḥ* ← *aśvayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *gavyū* \< *gavyuḥ* \< *gavyu*
+- *gavyū* ← *gavyuḥ* ← *gavyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rathayur* \< *rathayuḥ* \< *rathayu*
+- *rathayur* ← *rathayuḥ* ← *rathayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vasūyur* \< *vasūyuḥ* \< *vasūyu*
+- *vasūyur* ← *vasūyuḥ* ← *vasūyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -62,14 +62,14 @@ title = "Rig Veda 1.51.14"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *kṣayati* \< *kṣi*
+- *kṣayati* ← *kṣi*
 - \[verb\], singular, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *prayantā* \< *prayantṛ*
+- *prayantā* ← *prayantṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

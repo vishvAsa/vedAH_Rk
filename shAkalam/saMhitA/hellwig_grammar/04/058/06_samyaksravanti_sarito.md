@@ -2,16 +2,16 @@
 title = "Rig Veda 4.58.6"
 
 +++
--   *samyak* \< *samyañc*
+-   *samyak* ← *samyañc*
 - \[noun\], accusative, singular, neuter
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *sravanti* \< *sru*
+- *sravanti* ← *sru*
 - \[verb\], plural, Present indikative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *sarito* \< *saritaḥ* \< *sarit*
+- *sarito* ← *saritaḥ* ← *sarit*
 - \[noun\], nominative, plural, feminine
 - “river; stream.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 4.58.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenā* \< *dhenāḥ* \< *dhenā*
+- *dhenā* ← *dhenāḥ* ← *dhenā*
 - \[noun\], nominative, plural, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
@@ -27,36 +27,36 @@ title = "Rig Veda 4.58.6"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *pūyamānāḥ* \< *pū*
+- *pūyamānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *arṣanty* \< *arṣanti* \< *ṛṣ*
+- *arṣanty* ← *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *ūrmayo* \< *ūrmayaḥ* \< *ūrmi*
+- *ūrmayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *mṛgā* \< *mṛgāḥ* \< *mṛga*
+- *mṛgā* ← *mṛgāḥ* ← *mṛga*
 - \[noun\], nominative, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -64,9 +64,9 @@ title = "Rig Veda 4.58.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣipaṇor* \< *kṣipaṇoḥ* \< *kṣipaṇu*
+- *kṣipaṇor* ← *kṣipaṇoḥ* ← *kṣipaṇu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *īṣamāṇāḥ* \< *īṣ*
+- *īṣamāṇāḥ* ← *īṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------

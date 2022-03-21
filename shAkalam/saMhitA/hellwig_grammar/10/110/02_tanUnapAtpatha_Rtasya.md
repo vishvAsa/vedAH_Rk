@@ -2,31 +2,31 @@
 title = "Rig Veda 10.110.2"
 
 +++
--   *tanūnapāt* \< *tanūnapād* \< *tanūnapāt*
+-   *tanūnapāt* ← *tanūnapād* ← *tanūnapāt*
 - \[noun\], vocative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *patha* \< *pathaḥ* \< *pathin*
+- *patha* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yānān* \< *yāna*
+- *yānān* ← *yāna*
 - \[noun\], accusative, plural, masculine
 - “leading; leading to heaven.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *samañjan* \< *samañj* \< *√añj*
+- *samañjan* ← *samañj* ← *√añj*
 - \[verb noun\], nominative, singular
 - “anoint.”
 ------------------------------------------------------------------------
-- *svadayā* \< *svaday* \< *√svad*
+- *svadayā* ← *svaday* ← *√svad*
 - \[verb\], singular, Present imperative
 - “sweeten.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 10.110.2"
 - \[noun\], vocative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *manmāni* \< *manman*
+- *manmāni* ← *manman*
 - \[noun\], accusative, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -47,11 +47,11 @@ title = "Rig Veda 10.110.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ṛndhan* \< *ṛdh*
+- *ṛndhan* ← *ṛdh*
 - \[verb noun\], nominative, singular
 - “boom; stick to.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 10.110.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṛṇuhy* \< *kṛṇuhi* \< *kṛ*
+- *kṛṇuhy* ← *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,11 +73,11 @@ title = "Rig Veda 10.110.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

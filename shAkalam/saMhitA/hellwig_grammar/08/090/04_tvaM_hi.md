@@ -2,7 +2,7 @@
 title = "Rig Veda 8.90.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 8.90.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *satyo* \< *satyaḥ* \< *satya*
+- *satyo* ← *satyaḥ* ← *satya*
 - \[noun\], nominative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *anānato* \< *an*
+- *anānato* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anānato* \< *ānataḥ* \< *ānam* \< *√nam*
+- *anānato* ← *ānataḥ* ← *ānam* ← *√nam*
 - \[verb noun\], nominative, singular
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
@@ -34,16 +34,16 @@ title = "Rig Veda 8.90.4"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *nyṛñjase* \< *nyṛj* \< *√ṛj*
+- *nyṛñjase* ← *nyṛj* ← *√ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -55,15 +55,15 @@ title = "Rig Veda 8.90.4"
 - \[noun\], vocative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *'rvāñcaṃ* \< *arvāñcam* \< *arvāñc*
+- *'rvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -71,7 +71,7 @@ title = "Rig Veda 8.90.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

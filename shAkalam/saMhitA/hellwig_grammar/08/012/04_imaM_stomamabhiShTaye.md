@@ -2,19 +2,19 @@
 title = "Rig Veda 8.12.4"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 8.12.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūtam* \< *pū*
+- *pūtam* ← *pū*
 - \[verb noun\], accusative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *yenā* \< *yena* \< *yad*
+- *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 8.12.4"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *sadya* \< *sadyas*
+- *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *vavakṣitha* \< *vakṣ*
+- *vavakṣitha* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------

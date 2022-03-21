@@ -2,25 +2,25 @@
 title = "Rig Veda 9.61.21"
 
 +++
--   *sammiślo* \< *sammiślaḥ* \< *sammiśla*
+-   *sammiślo* ← *sammiślaḥ* ← *sammiśla*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sūpasthābhir* \< *su*
+- *sūpasthābhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sūpasthābhir* \< *upasthābhiḥ* \< *upastha*
+- *sūpasthābhir* ← *upasthābhiḥ* ← *upastha*
 - \[noun\], instrumental, plural, feminine
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
@@ -28,16 +28,16 @@ title = "Rig Veda 9.61.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenubhiḥ* \< *dhenu*
+- *dhenubhiḥ* ← *dhenu*
 - \[noun\], instrumental, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *sīdañchyeno* \< *sīdan* \< *sad*
+- *sīdañchyeno* ← *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sīdañchyeno* \< *śyenaḥ* \< *śyena*
+- *sīdañchyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 9.61.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;

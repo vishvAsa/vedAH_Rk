@@ -2,11 +2,11 @@
 title = "Rig Veda 8.61.9"
 
 +++
--   *avipro* \< *a*
+-   *avipro* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avipro* \< *vipraḥ* \< *vipra*
+- *avipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
@@ -14,36 +14,36 @@ title = "Rig Veda 8.61.9"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *avidhad* \< *avidhat* \< *vidh*
+- *avidhad* ← *avidhat* ← *vidh*
 - \[verb\], singular, Imperfect
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *vipro* \< *vipraḥ* \< *vipra*
+- *vipro* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *vendra* \< *vā*
+- *vendra* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vendra* \< *indra*
+- *vendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vacaḥ* \< *vacas*
+- *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -53,18 +53,18 @@ title = "Rig Veda 8.61.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mamandat* \< *mand*
+- *mamandat* ← *mand*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
 - *tvāyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *prācāmanyo* \< *prācāmanyu*
+- *prācāmanyo* ← *prācāmanyu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *ahaṃsana*

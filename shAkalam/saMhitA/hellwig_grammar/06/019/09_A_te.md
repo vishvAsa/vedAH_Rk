@@ -6,38 +6,38 @@ title = "Rig Veda 6.19.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣmo* \< *śuṣmaḥ* \< *śuṣma*
+- *śuṣmo* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *vṛṣabha* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabha* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *paścād* \< *paścāt*
+- *paścād* ← *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
 ------------------------------------------------------------------------
-- *ottarād* \< *ā*
+- *ottarād* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ottarād* \< *uttarāt* \< *uttara*
+- *ottarād* ← *uttarāt* ← *uttara*
 - \[noun\], ablative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *adharād* \< *adharāt* \< *adhara*
+- *adharād* ← *adharāt* ← *adhara*
 - \[noun\], ablative, singular, masculine
 - “lower; adhara \[word\]; worse.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 6.19.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśvato* \< *viśvatas*
+- *viśvato* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 6.19.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *etv* \< *etu* \< *i*
+- *etv* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
@@ -78,20 +78,20 @@ title = "Rig Veda 6.19.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dyumnaṃ* \< *dyumnam* \< *dyumna*
+- *dyumnaṃ* ← *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *svarvad* \< *svarvat*
+- *svarvad* ← *svarvat*
 - \[noun\], accusative, singular, neuter
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *dhehy* \< *dhehi* \< *dhā*
+- *dhehy* ← *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

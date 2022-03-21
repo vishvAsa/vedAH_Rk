@@ -2,29 +2,29 @@
 title = "Rig Veda 8.32.11"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *saṃsthe* \< *saṃstha*
+- *saṃsthe* ← *saṃstha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *cicchatakratur* \< *cit*
+- *cicchatakratur* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchatakratur* \< *śatakratuḥ* \< *śatakratu*
+- *cicchatakratur* ← *śatakratuḥ* ← *śatakratu*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,15 +35,15 @@ title = "Rig Veda 8.32.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *jaritṛbhyaḥ* \< *jaritṛ*
+- *jaritṛbhyaḥ* ← *jaritṛ*
 - \[noun\], dative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *purūvasuḥ* \< *purūvasu*
+- *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------

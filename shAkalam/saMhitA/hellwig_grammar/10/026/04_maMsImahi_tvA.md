@@ -2,21 +2,21 @@
 title = "Rig Veda 10.26.4"
 
 +++
--   *maṃsīmahi* \< *man*
+-   *maṃsīmahi* ← *man*
 - \[verb\], plural, Aorist optative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmākaṃ* \< *asmākam* \< *mad*
+- *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 10.26.4"
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *matīnāṃ* \< *matīnām* \< *mati*
+- *matīnāṃ* ← *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -38,19 +38,19 @@ title = "Rig Veda 10.26.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sādhanaṃ* \< *sādhanam* \< *sādhana*
+- *sādhanaṃ* ← *sādhanam* ← *sādhana*
 - \[noun\], accusative, singular, masculine
 - “effective; performing.”
 ------------------------------------------------------------------------
-- *viprāṇāṃ* \< *viprāṇām* \< *vipra*
+- *viprāṇāṃ* ← *viprāṇām* ← *vipra*
 - \[noun\], genitive, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *cādhavam* \< *ca*
+- *cādhavam* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cādhavam* \< *ādhavam* \< *ādhava*
+- *cādhavam* ← *ādhavam* ← *ādhava*
 - \[noun\], accusative, singular, masculine
 - “agitator.”
 ------------------------------------------------------------------------

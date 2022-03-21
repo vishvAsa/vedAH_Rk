@@ -2,81 +2,81 @@
 title = "Rig Veda 1.101.2"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vyaṃsaṃ* \< *vyaṃsam* \< *vyaṃsa*
+- *vyaṃsaṃ* ← *vyaṃsam* ← *vyaṃsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jāhṛṣāṇena* \< *hṛṣ*
+- *jāhṛṣāṇena* ← *hṛṣ*
 - \[verb noun\], instrumental, singular
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
-- *manyunā* \< *manyu*
+- *manyunā* ← *manyu*
 - \[noun\], instrumental, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śambaraṃ* \< *śambaram* \< *śambara*
+- *śambaraṃ* ← *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ahan* \< *han*
+- *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *piprum* \< *pipru*
+- *piprum* ← *pipru*
 - \[noun\], accusative, singular, masculine
 - “Pipru.”
 ------------------------------------------------------------------------
-- *avratam* \< *avrata*
+- *avratam* ← *avrata*
 - \[noun\], accusative, singular, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *aśuṣaṃ* \< *aśuṣam* \< *aśuṣa*
+- *aśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *āvṛṇaṅ* \< *āvṛṇak* \< *āvṛj* \< *√vṛj*
+- *āvṛṇaṅ* ← *āvṛṇak* ← *āvṛj* ← *√vṛj*
 - \[verb\], singular, Imperfect
 - “appropriate; accord.”
 ------------------------------------------------------------------------
-- *marutvantaṃ* \< *marutvantam* \< *marutvant*
+- *marutvantaṃ* ← *marutvantam* ← *marutvant*
 - \[noun\], accusative, singular, masculine
 - “Indra; marutvant \[word\].”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

@@ -2,52 +2,52 @@
 title = "Rig Veda 5.4.4"
 
 +++
--   *juṣasvāgna* \< *juṣasva* \< *juṣ*
+-   *juṣasvāgna* ← *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *juṣasvāgna* \< *agne* \< *agni*
+- *juṣasvāgna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *iﾱayā* \< *iḍā*
+- *iﾱayā* ← *iḍā*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *yatamāno* \< *yatamānaḥ* \< *yat*
+- *yatamāno* ← *yatamānaḥ* ← *yat*
 - \[verb noun\], nominative, singular
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samidhaṃ* \< *samidham* \< *samidh*
+- *samidhaṃ* ← *samidham* ← *samidh*
 - \[noun\], accusative, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *jātaveda* \< *jātavedaḥ* \< *jātavedas*
+- *jātaveda* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
@@ -59,19 +59,19 @@ title = "Rig Veda 5.4.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *haviradyāya* \< *haviḥ* \< *havis*
+- *haviradyāya* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *haviradyāya* \< *adyāya* \< *adya*
+- *haviradyāya* ← *adyāya* ← *adya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

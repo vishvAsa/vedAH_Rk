@@ -2,52 +2,52 @@
 title = "Rig Veda 1.83.5"
 
 +++
--   *yajñair* \< *yajñaiḥ* \< *yajña*
+-   *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *atharvā* \< *atharvan*
+- *atharvā* ← *atharvan*
 - \[noun\], nominative, singular, masculine
 - “Atharvan; Atharvavedin.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *pathas* \< *pathaḥ* \< *pathin*
+- *pathas* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *tate* \< *tan*
+- *tate* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *tataḥ* \< *tatas*
+- *tataḥ* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *vratapā* \< *vrata*
+- *vratapā* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vratapā* \< *pāḥ* \< *pā*
+- *vratapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *vena* \< *venaḥ* \< *vena*
+- *vena* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ājani* \< *ājan* \< *√jan*
+- *ājani* ← *ājan* ← *√jan*
 - \[verb\], singular, Aorist passive
 - “be born.”
 ------------------------------------------------------------------------
@@ -55,20 +55,20 @@ title = "Rig Veda 1.83.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ājad* \< *ājat* \< *aj*
+- *ājad* ← *ājat* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *uśanā* \< *uśanas*
+- *uśanā* ← *uśanas*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; Uśanas; uśanas \[word\]; Uśanas; Venus.”
 ------------------------------------------------------------------------
-- *kāvyaḥ* \< *kāvya*
+- *kāvyaḥ* ← *kāvya*
 - \[noun\], nominative, singular, masculine
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
@@ -76,19 +76,19 @@ title = "Rig Veda 1.83.5"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *yamasya* \< *yama*
+- *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *jātam* \< *jāta*
+- *jātam* ← *jāta*
 - \[noun\], accusative, singular, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

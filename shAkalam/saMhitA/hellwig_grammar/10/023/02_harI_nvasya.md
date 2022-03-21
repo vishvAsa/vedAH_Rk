@@ -2,96 +2,96 @@
 title = "Rig Veda 10.23.2"
 
 +++
--   *harī* \< *hari*
+-   *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vane* \< *vana*
+- *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb noun\]
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *vasv* \< *vasu*
+- *vasv* ← *vasu*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *maghair* \< *maghaiḥ* \< *magha*
+- *maghair* ← *maghaiḥ* ← *magha*
 - \[noun\], instrumental, plural, masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtra*
+- *vṛtrahā* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *hā* \< *han*
+- *vṛtrahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *vāja* \< *vājaḥ* \< *vāja*
+- *vāja* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular
 - “Indra.”
 ------------------------------------------------------------------------
-- *patyate* \< *paty*
+- *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *śavo* \< *śavaḥ* \< *śavas*
+- *śavo* ← *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *kṣṇaumi* \< *kṣṇu*
+- *kṣṇaumi* ← *kṣṇu*
 - \[verb\], singular, Present indikative
 - “whet.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”

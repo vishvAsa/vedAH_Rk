@@ -6,11 +6,11 @@ title = "Rig Veda 6.48.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūṣann* \< *pūṣan*
+- *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -18,12 +18,12 @@ title = "Rig Veda 6.48.16"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *drava* \< *dru*
+- *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *śaṃsiṣaṃ* \< *śaṃsiṣam* \< *śaṃs*
+- *śaṃsiṣaṃ* ← *śaṃsiṣam* ← *śaṃs*
 - \[verb\], singular, Aorist inj. (proh.)
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
@@ -32,25 +32,25 @@ title = "Rig Veda 6.48.16"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *apikarṇa* \< *apikarṇe* \< *apikarṇa*
+- *apikarṇa* ← *apikarṇe* ← *apikarṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *āghṛṇe* \< *āghṛṇi*
+- *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
-- *aghā* \< *aghāḥ* \< *agha*
+- *aghā* ← *aghāḥ* ← *agha*
 - \[noun\], nominative, plural, feminine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *arātayaḥ* \< *arāti*
+- *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------

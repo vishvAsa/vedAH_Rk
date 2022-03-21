@@ -2,7 +2,7 @@
 title = "Rig Veda 8.3.18"
 
 +++
--   *ime* \< *idam*
+-   *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,50 +10,50 @@ title = "Rig Veda 8.3.18"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kāravo* \< *kāravaḥ* \< *kāru*
+- *kāravo* ← *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *vāvaśur* \< *vāvaśuḥ* \< *vaś*
+- *vāvaśur* ← *vāvaśuḥ* ← *vaś*
 - \[verb\], plural, Perfect indicative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *medha*
+- *medhasātaye* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *sātaye* \< *sāti*
+- *medhasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -62,10 +62,10 @@ title = "Rig Veda 8.3.18"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇo* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *veno* \< *venaḥ* \< *vena*
+- *veno* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 8.3.18"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śṛṇudhī* \< *śṛṇudhi* \< *śru*
+- *śṛṇudhī* ← *śṛṇudhi* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

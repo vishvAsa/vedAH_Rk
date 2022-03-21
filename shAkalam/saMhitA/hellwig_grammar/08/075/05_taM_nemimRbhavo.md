@@ -2,17 +2,17 @@
 title = "Rig Veda 8.75.5"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nemim* \< *nemi*
+- *nemim* ← *nemi*
 - \[noun\], accusative, singular, masculine
 - “rim; felloe.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -20,22 +20,22 @@ title = "Rig Veda 8.75.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *namasva* \< *nam*
+- *namasva* ← *nam*
 - \[verb\], singular, Present imperative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *sahūtibhiḥ* \< *sahūti*
+- *sahūtibhiḥ* ← *sahūti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *nedīyo* \< *nedīyaḥ* \< *nedīyas*
+- *nedīyo* ← *nedīyaḥ* ← *nedīyas*
 - \[noun\], accusative, singular, neuter
 - “nearer; nedīyas \[word\]; near.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *aṅgiraḥ* \< *aṅgiras*
+- *aṅgiraḥ* ← *aṅgiras*
 - \[noun\], vocative, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”

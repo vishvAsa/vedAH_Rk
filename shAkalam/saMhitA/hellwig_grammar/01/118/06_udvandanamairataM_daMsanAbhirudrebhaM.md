@@ -6,14 +6,14 @@ title = "Rig Veda 1.118.6"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *vandanam* \< *vandana*
+- *vandanam* ← *vandana*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *airataṃ* \< *airatam* \< *īr*
+- *airataṃ* ← *airatam* ← *īr*
 - \[verb\], dual, Imperfect
 - “go.”
 ------------------------------------------------------------------------
-- *daṃsanābhir* \< *daṃsanābhiḥ* \< *daṃsanā*
+- *daṃsanābhir* ← *daṃsanābhiḥ* ← *daṃsanā*
 - \[noun\], instrumental, plural, feminine
 - “wonder; power.”
 ------------------------------------------------------------------------
@@ -21,48 +21,48 @@ title = "Rig Veda 1.118.6"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *rebhaṃ* \< *rebham* \< *rebha*
+- *rebhaṃ* ← *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *niṣ* \< *niḥ*
+- *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *ṭaugryam* \< *taugryam* \< *taugrya*
+- *ṭaugryam* ← *taugryam* ← *taugrya*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *pārayathaḥ* \< *pāray* \< *√pṛ*
+- *pārayathaḥ* ← *pāray* ← *√pṛ*
 - \[verb\], dual, Present indikative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *samudrāt* \< *samudra*
+- *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *punaś* \< *punar*
+- *punaś* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *cyavānaṃ* \< *cyavānam* \< *cyavāna*
+- *cyavānaṃ* ← *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
 ------------------------------------------------------------------------
-- *cakrathur* \< *cakrathuḥ* \< *kṛ*
+- *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,7 +73,7 @@ title = "Rig Veda 1.118.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yuvānam* \< *yuvan*
+- *yuvānam* ← *yuvan*
 - \[noun\], accusative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”

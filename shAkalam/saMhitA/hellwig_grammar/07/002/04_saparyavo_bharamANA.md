@@ -2,7 +2,7 @@
 title = "Rig Veda 7.2.4"
 
 +++
--   *saparyavo* \< *saparyavaḥ* \< *saparyu*
+-   *saparyavo* ← *saparyavaḥ* \< *saparyu*
 - \[noun\], nominative, plural, masculine
 - “deferent.”
 ------------------------------------------------------------------------

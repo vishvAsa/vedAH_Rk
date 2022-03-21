@@ -2,15 +2,15 @@
 title = "Rig Veda 9.21.5"
 
 +++
--   *āsmin* \< *ā*
+-   *āsmin* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āsmin* \< *asmin* \< *idam*
+- *āsmin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *piśaṅgam* \< *piśaṅga*
+- *piśaṅgam* ← *piśaṅga*
 - \[noun\], accusative, singular, masculine
 - “tawny; red; brown.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 10.27.15"
 
 +++
--   *sapta* \< *saptan*
+-   *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *vīrāso* \< *vīrāsaḥ* \< *vīra*
+- *vīrāso* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *adharād* \< *adharāt*
+- *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
 ------------------------------------------------------------------------
@@ -18,49 +18,49 @@ title = "Rig Veda 10.27.15"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *āyann* \< *āyan* \< *i*
+- *āyann* ← *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *aṣṭottarāttāt* \< *aṣṭa* \< *aṣṭan*
+- *aṣṭottarāttāt* ← *aṣṭa* ← *aṣṭan*
 - \[noun\], nominative, plural, masculine
 - “eight; eighth; aṣṭan \[word\].”
 ------------------------------------------------------------------------
-- *aṣṭottarāttāt* \< *uttarāttāt*
+- *aṣṭottarāttāt* ← *uttarāttāt*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajagmiran* \< *gam*
+- *ajagmiran* ← *gam*
 - \[verb\], plural, Plusquamperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], nominative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
 - *paścātāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sthivimanta* \< *sthivimantaḥ* \< *sthivimat*
+- *sthivimanta* ← *sthivimantaḥ* ← *sthivimat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āyan* \< *i*
+- *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 10.27.15"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tiranty* \< *tiranti* \< *tṛ*
+- *tiranty* ← *tiranti* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *aśnaḥ* \< *aśan*
+- *aśnaḥ* ← *aśan*
 - \[noun\], genitive, singular, masculine
 - “stone; rock.”
 ------------------------------------------------------------------------

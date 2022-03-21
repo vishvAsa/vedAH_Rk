@@ -6,11 +6,11 @@ title = "Rig Veda 1.5.10"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *martā* \< *martāḥ* \< *marta*
+- *martā* ← *martāḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.5.10"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *druhan* \< *druh*
+- *druhan* ← *druh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “stew; rival; hurt.”
 ------------------------------------------------------------------------
-- *tanūnām* \< *tanu*
+- *tanūnām* ← *tanu*
 - \[noun\], genitive, plural, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
@@ -31,18 +31,18 @@ title = "Rig Veda 1.5.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *īśāno* \< *īśānaḥ* \< *īś*
+- *īśāno* ← *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *yavayā* \< *yavay* \< *√yu*
+- *yavayā* ← *yavay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away; ward off.”
 ------------------------------------------------------------------------
-- *vadham* \< *vadha*
+- *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”

@@ -2,27 +2,27 @@
 title = "Rig Veda 9.50.1"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣmāsa* \< *śuṣmāsaḥ* \< *śuṣma*
+- *śuṣmāsa* ← *śuṣmāsaḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], ablative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmer* \< *ūrmeḥ* \< *ūrmi*
+- *ūrmer* ← *ūrmeḥ* ← *ūrmi*
 - \[noun\], genitive, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -30,19 +30,19 @@ title = "Rig Veda 9.50.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svanaḥ* \< *svana*
+- *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *vāṇasya* \< *vāṇa*
+- *vāṇasya* ← *vāṇa*
 - \[noun\], genitive, singular, masculine
 - “music.”
 ------------------------------------------------------------------------
-- *codayā* \< *codaya* \< *coday* \< *√cud*
+- *codayā* ← *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *pavim* \< *pavi*
+- *pavim* ← *pavi*
 - \[noun\], accusative, singular, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------

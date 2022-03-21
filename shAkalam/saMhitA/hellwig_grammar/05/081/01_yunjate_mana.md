@@ -2,7 +2,7 @@
 title = "Rig Veda 5.81.1"
 
 +++
--   *yuñjate* \< *yuj*
+-   *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,7 +10,7 @@ title = "Rig Veda 5.81.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *mana* \< *manaḥ* \< *manas*
+- *mana* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -19,7 +19,7 @@ title = "Rig Veda 5.81.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yuñjate* \< *yuj*
+- *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -27,25 +27,25 @@ title = "Rig Veda 5.81.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vipaścitaḥ* \< *vipaścit*
+- *vipaścitaḥ* ← *vipaścit*
 - \[noun\], nominative, plural, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
@@ -53,45 +53,45 @@ title = "Rig Veda 5.81.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *hotrā* \< *hotra*
+- *hotrā* ← *hotra*
 - \[noun\], accusative, plural, neuter
 - “yajña; sacrifice.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vayunāvid* \< *vayunā*
+- *vayunāvid* ← *vayunā*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *vayunāvid* \< *vid*
+- *vayunāvid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savituḥ* \< *savitṛ*
+- *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *pariṣṭutiḥ* \< *pariṣṭuti*
+- *pariṣṭutiḥ* ← *pariṣṭuti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

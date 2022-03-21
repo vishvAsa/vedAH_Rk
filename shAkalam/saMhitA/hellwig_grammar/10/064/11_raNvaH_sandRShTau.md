@@ -2,14 +2,14 @@
 title = "Rig Veda 10.64.11"
 
 +++
--   *raṇvaḥ* \< *raṇva*
+-   *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *saṃdṛṣṭau* \< *saṃdṛṣṭi*
+- *saṃdṛṣṭau* ← *saṃdṛṣṭi*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *pitumāṃ* \< *pitumat*
+- *pitumāṃ* ← *pitumat*
 - \[noun\], nominative, singular, masculine
 - “alimentary.”
 ------------------------------------------------------------------------
@@ -17,42 +17,42 @@ title = "Rig Veda 10.64.11"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣayo* \< *kṣayaḥ* \< *kṣaya*
+- *kṣayo* ← *kṣayaḥ* ← *kṣaya*
 - \[noun\], nominative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *rudrāṇām* \< *rudra*
+- *rudrāṇām* ← *rudra*
 - \[noun\], genitive, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *upastutiḥ* \< *upastuti*
+- *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
-- *gobhiḥ* \< *go*
+- *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ṣyāma* \< *syāma* \< *as*
+- *ṣyāma* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yaśaso* \< *yaśasaḥ* \< *yaśas*
+- *yaśaso* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *janeṣv* \< *janeṣu* \< *jana*
+- *janeṣv* ← *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -65,16 +65,16 @@ title = "Rig Veda 10.64.11"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *iḍayā* \< *iḍā*
+- *iḍayā* ← *iḍā*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *sacemahi* \< *sac*
+- *sacemahi* ← *sac*
 - \[verb\], plural, Present optative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

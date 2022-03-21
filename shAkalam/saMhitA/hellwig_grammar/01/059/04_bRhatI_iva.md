@@ -2,7 +2,7 @@
 title = "Rig Veda 1.59.4"
 
 +++
--   *bṛhatī* \< *bṛhat*
+-   *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, dual, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -11,24 +11,24 @@ title = "Rig Veda 1.59.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūnave* \< *sūnu*
+- *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manuṣyo* \< *manuṣyaḥ* \< *manuṣya*
+- *manuṣyo* ← *manuṣyaḥ* ← *manuṣya*
 - \[noun\], nominative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
@@ -36,34 +36,34 @@ title = "Rig Veda 1.59.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dakṣaḥ* \< *dakṣa*
+- *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *svarvate* \< *svarvat*
+- *svarvate* ← *svarvat*
 - \[noun\], dative, singular, masculine
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *satya*
+- *satyaśuṣmāya* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmāya* \< *śuṣmāya* \< *śuṣma*
+- *satyaśuṣmāya* ← *śuṣmāya* ← *śuṣma*
 - \[noun\], dative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *vaiśvānarāya* \< *vaiśvānara*
+- *vaiśvānarāya* ← *vaiśvānara*
 - \[noun\], dative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *nṛtamāya* \< *nṛtama*
+- *nṛtamāya* ← *nṛtama*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *yahvīḥ* \< *yahvī*
+- *yahvīḥ* ← *yahvī*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------

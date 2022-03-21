@@ -2,7 +2,7 @@
 title = "Rig Veda 8.79.9"
 
 +++
--   *ava* \< *av*
+-   *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -10,29 +10,29 @@ title = "Rig Veda 8.79.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sve* \< *sva*
+- *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *durmatīr* \< *durmatīḥ* \< *durmati*
+- *durmatīr* ← *durmatīḥ* ← *durmati*
 - \[noun\], accusative, plural, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *īkṣe* \< *īś*
+- *īkṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 8.79.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dviṣaḥ* \< *dviṣ*
+- *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *sedha* \< *sidh*
+- *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------
-- *mīḍhvo* \< *mīḍhvaḥ* \< *mīḍhvas*
+- *mīḍhvo* ← *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 8.79.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
-- *sedha* \< *sidh*
+- *sedha* ← *sidh*
 - \[verb\], singular, Present imperative
 - “chase away; repel.”
 ------------------------------------------------------------------------

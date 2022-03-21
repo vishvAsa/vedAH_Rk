@@ -2,7 +2,7 @@
 title = "Rig Veda 3.29.4"
 
 +++
--   *iﾱāyās* \< *iﾱāyāḥ* \< *iḍā*
+-   *iﾱāyās* ← *iﾱāyāḥ* \< *iḍā*
 - \[noun\], genitive, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------

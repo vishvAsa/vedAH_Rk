@@ -2,7 +2,7 @@
 title = "Rig Veda 9.86.9"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 9.86.9"
 - \[noun\], nominative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *acikradad* \< *acikradat* \< *krand*
+- *acikradad* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *dyauś* \< *dyauḥ* \< *div*
+- *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 9.86.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -42,39 +42,39 @@ title = "Rig Veda 9.86.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dharmabhiḥ* \< *dharman*
+- *dharmabhiḥ* ← *dharman*
 - \[noun\], instrumental, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vivevidat* \< *vivevid* \< *√vid*
+- *vivevidat* ← *vivevid* ← *√vid*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *sīdati* \< *sad*
+- *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

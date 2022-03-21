@@ -2,28 +2,28 @@
 title = "Rig Veda 8.26.13"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yajñebhir* \< *yajñebhiḥ* \< *yajña*
+- *yajñebhir* ← *yajñebhiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *āvṛto* \< *āvṛtaḥ* \< *āvṛ* \< *√vṛ*
+- *āvṛto* ← *āvṛtaḥ* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], nominative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
 ------------------------------------------------------------------------
-- *'dhivastrā* \< *adhivastrā* \< *adhivastra*
+- *'dhivastrā* ← *adhivastrā* ← *adhivastra*
 - \[noun\], nominative, singular, feminine
 - “clothed.”
 ------------------------------------------------------------------------
-- *vadhūr* \< *vadhūḥ* \< *vadhū*
+- *vadhūr* ← *vadhūḥ* ← *vadhū*
 - \[noun\], nominative, singular, feminine
 - “wife; woman; bride; female; Trigonella corniculata; female; cow.”
 ------------------------------------------------------------------------
@@ -31,14 +31,14 @@ title = "Rig Veda 8.26.13"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *saparyantā* \< *sapary*
+- *saparyantā* ← *sapary*
 - \[verb noun\], nominative, dual
 - “worship.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *cakrāte* \< *kṛ*
+- *cakrāte* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -49,7 +49,7 @@ title = "Rig Veda 8.26.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

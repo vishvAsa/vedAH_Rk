@@ -2,7 +2,7 @@
 title = "Rig Veda 10.86.18"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -11,49 +11,49 @@ title = "Rig Veda 10.86.18"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛṣākapiḥ* \< *vṛṣākapi*
+- *vṛṣākapiḥ* ← *vṛṣākapi*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; vṛṣākapi \[word\]; Indra.”
 ------------------------------------------------------------------------
-- *parasvantaṃ* \< *parasvantam* \< *parasvant*
+- *parasvantaṃ* ← *parasvantam* ← *parasvant*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *hataṃ* \< *hatam* \< *han*
+- *hataṃ* ← *hatam* ← *han*
 - \[verb noun\], accusative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vidat* \< *vid*
+- *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *asiṃ* \< *asim* \< *asi*
+- *asiṃ* ← *asim* ← *asi*
 - \[noun\], accusative, singular, masculine
 - “sword; knife; knife.”
 ------------------------------------------------------------------------
-- *sūnāṃ* \< *sūnām* \< *sūnā*
+- *sūnāṃ* ← *sūnām* ← *sūnā*
 - \[noun\], accusative, singular, feminine
 - “abattoir; killing; butchery.”
 ------------------------------------------------------------------------
-- *navaṃ* \< *navam* \< *nava*
+- *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *carum* \< *caru*
+- *carum* ← *caru*
 - \[noun\], accusative, singular, masculine
 - “caru; pot; Caru.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *edhasyāna* \< *\_* \< *√\_*
+- *edhasyāna* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ācitaṃ* \< *ācitam* \< *āci* \< *√ci*
+- *ācitaṃ* ← *ācitam* ← *āci* \< *√ci*
 - \[verb noun\], accusative, singular
 - “cover; fill; accumulate.”
 ------------------------------------------------------------------------

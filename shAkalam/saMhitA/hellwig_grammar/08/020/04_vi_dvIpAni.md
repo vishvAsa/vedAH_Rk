@@ -6,28 +6,28 @@ title = "Rig Veda 8.20.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dvīpāni* \< *dvīpa*
+- *dvīpāni* ← *dvīpa*
 - \[noun\], nominative, plural, neuter
 - “Dvīpa; island; dvīpa \[word\].”
 ------------------------------------------------------------------------
-- *pāpatan* \< *pāpat* \< *√pat*
+- *pāpatan* ← *pāpat* ← *√pat*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *tiṣṭhad* \< *tiṣṭhat* \< *sthā*
+- *tiṣṭhad* ← *tiṣṭhat* ← *sthā*
 - \[verb\], singular, Present injunctive
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ducchunobhe* \< *ducchunā*
+- *ducchunobhe* ← *ducchunā*
 - \[noun\], nominative, singular, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
-- *ducchunobhe* \< *ubhe* \< *ubh*
+- *ducchunobhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *yujanta* \< *yuj*
+- *yujanta* ← *yuj*
 - \[verb\], plural, Aorist inj. (proh.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -43,36 +43,36 @@ title = "Rig Veda 8.20.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dhanvāny* \< *dhanvāni* \< *dhanvan*
+- *dhanvāny* ← *dhanvāni* ← *dhanvan*
 - \[noun\], nominative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *airata* \< *īr*
+- *airata* ← *īr*
 - \[verb\], plural, Imperfect
 - “go.”
 ------------------------------------------------------------------------
-- *śubhrakhādayo* \< *śubhra*
+- *śubhrakhādayo* ← *śubhra*
 - \[noun\]
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *śubhrakhādayo* \< *khādayaḥ* \< *khādi*
+- *śubhrakhādayo* ← *khādayaḥ* ← *khādi*
 - \[noun\], nominative, plural, masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ejatha* \< *ej*
+- *ejatha* ← *ej*
 - \[verb\], plural, Present indikative
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *svabhānavaḥ* \< *sva*
+- *svabhānavaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svabhānavaḥ* \< *bhānavaḥ* \< *bhānu*
+- *svabhānavaḥ* ← *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”

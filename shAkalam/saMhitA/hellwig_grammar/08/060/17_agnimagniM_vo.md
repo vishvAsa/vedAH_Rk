@@ -2,53 +2,53 @@
 title = "Rig Veda 8.60.17"
 
 +++
--   *agnim* \< *agni*
+-   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *adhriguṃ* \< *adhrigum* \< *adhrigu*
+- *adhriguṃ* ← *adhrigum* ← *adhrigu*
 - \[noun\], accusative, singular, masculine
 - “rich; powerful.”
 ------------------------------------------------------------------------
-- *huvema* \< *hu*
+- *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], nominative, plural, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *hitaprayasaḥ* \< *hita* \< *dhā*
+- *hitaprayasaḥ* ← *hita* ← *dhā*
 - \[verb noun\]
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *hitaprayasaḥ* \< *prayasaḥ* \< *prayas*
+- *hitaprayasaḥ* ← *prayasaḥ* ← *prayas*
 - \[noun\], nominative, plural, masculine
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *śaśvatīṣv* \< *śaśvatīṣu* \< *śaśvat*
+- *śaśvatīṣv* ← *śaśvatīṣu* ← *śaśvat*
 - \[noun\], locative, plural, feminine
 - “all(a).”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 8.60.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------

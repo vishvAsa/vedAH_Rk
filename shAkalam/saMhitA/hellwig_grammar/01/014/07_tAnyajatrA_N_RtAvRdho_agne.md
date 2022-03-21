@@ -2,30 +2,30 @@
 title = "Rig Veda 1.14.7"
 
 +++
--   *tān* \< *tad*
+-   *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yajatrāṃ* \< *yajatra*
+- *yajatrāṃ* ← *yajatra*
 - \[noun\], accusative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdho* \< *ṛtāvṛdhaḥ* \< *ṛtāvṛdh*
+- *ṛtāvṛdho* ← *ṛtāvṛdhaḥ* ← *ṛtāvṛdh*
 - \[noun\], accusative, plural, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *patnīvatas* \< *patnīvat*
+- *patnīvatas* ← *patnīvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -36,19 +36,19 @@ title = "Rig Veda 1.14.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *sujihva* \< *su*
+- *sujihva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujihva* \< *jihva* \< *jihvā*
+- *sujihva* ← *jihva* ← *jihvā*
 - \[noun\], vocative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *pāyaya* \< *pāyay* \< *√pā*
+- *pāyaya* ← *pāyay* ← *√pā*
 - \[verb\], singular, Present imperative
 - “make to drink; temper; suckle.”
 ------------------------------------------------------------------------

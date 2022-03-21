@@ -2,26 +2,26 @@
 title = "Rig Veda 9.100.6"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vājasātamaḥ* \< *vāja*
+- *vājasātamaḥ* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātamaḥ* \< *sātamaḥ* \< *sātama*
+- *vājasātamaḥ* ← *sātamaḥ* ← *sātama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

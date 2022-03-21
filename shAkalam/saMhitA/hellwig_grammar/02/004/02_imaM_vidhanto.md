@@ -2,84 +2,84 @@
 title = "Rig Veda 2.4.2"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vidhanto* \< *vidhantaḥ* \< *vidh*
+- *vidhanto* ← *vidhantaḥ* ← *vidh*
 - \[verb noun\], nominative, plural
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *dvitādadhur* \< *dvitā*
+- *dvitādadhur* ← *dvitā*
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *dvitādadhur* \< *adhuḥ* \< *dhā*
+- *dvitādadhur* ← *adhuḥ* ← *dhā*
 - \[verb\], plural, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *āyoḥ* \< *āyu*
+- *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūmā* \< *bhūman*
+- *bhūmā* ← *bhūman*
 - \[noun\], accusative, plural, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aratir* \< *aratiḥ* \< *arati*
+- *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *jīrāśvaḥ* \< *jīra*
+- *jīrāśvaḥ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīrāśvaḥ* \< *aśvaḥ* \< *aśva*
+- *jīrāśvaḥ* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

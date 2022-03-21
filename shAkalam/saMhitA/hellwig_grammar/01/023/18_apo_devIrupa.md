@@ -2,11 +2,11 @@
 title = "Rig Veda 1.23.18"
 
 +++
--   *apo* \< *apaḥ* \< *ap*
+-   *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], accusative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.23.18"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *hvaye* \< *hvā*
+- *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -22,24 +22,24 @@ title = "Rig Veda 1.23.18"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *gāvaḥ* \< *go*
+- *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *pibanti* \< *pā*
+- *pibanti* ← *pā*
 - \[verb\], plural, Present indikative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sindhubhyaḥ* \< *sindhu*
+- *sindhubhyaḥ* ← *sindhu*
 - \[noun\], dative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *kartvaṃ* \< *kartvam* \< *kṛ*
+- *kartvaṃ* ← *kartvam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,7 +50,7 @@ title = "Rig Veda 1.23.18"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------

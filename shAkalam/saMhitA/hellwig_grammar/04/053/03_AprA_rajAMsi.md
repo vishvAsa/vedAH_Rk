@@ -2,33 +2,33 @@
 title = "Rig Veda 4.53.3"
 
 +++
--   *āprā* \< *āprāḥ* \< *āprā* \< *√prā*
+-   *āprā* ← *āprāḥ* ← *āprā* ← *√prā*
 - \[verb\], singular, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------
-- *rajāṃsi* \< *rajas*
+- *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *divyāni* \< *divya*
+- *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *pārthivā* \< *pārthiva*
+- *pārthivā* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *ślokaṃ* \< *ślokam* \< *śloka*
+- *ślokaṃ* ← *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,12 +39,12 @@ title = "Rig Veda 4.53.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svāya* \< *sva*
+- *svāya* ← *sva*
 - \[noun\], dative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dharmaṇe* \< *dharman*
+- *dharmaṇe* ← *dharman*
 - \[noun\], dative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
@@ -52,37 +52,37 @@ title = "Rig Veda 4.53.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *asrāk* \< *sṛj*
+- *asrāk* ← *sṛj*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *savīmani* \< *savīman*
+- *savīmani* ← *savīman*
 - \[noun\], locative, singular, neuter
 - “impulse.”
 ------------------------------------------------------------------------
-- *niveśayan* \< *niveśay* \< *√viś*
+- *niveśayan* ← *niveśay* ← *√viś*
 - \[verb noun\], nominative, singular
 - “put; fill into; insert; establish; camp; insert; send; lay; dwell;
     fix; transfer; dress.”
 ------------------------------------------------------------------------
-- *prasuvann* \< *prasuvan* \< *prasū* \< *√sū*
+- *prasuvann* ← *prasuvan* ← *prasū* ← *√sū*
 - \[verb noun\], nominative, singular
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *aktubhir* \< *aktubhiḥ* \< *aktu*
+- *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *jagat* \< *jagant*
+- *jagat* ← *jagant*
 - \[noun\], accusative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------

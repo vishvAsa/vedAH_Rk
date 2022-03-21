@@ -2,32 +2,32 @@
 title = "Rig Veda 7.3.1"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *agnibhiḥ* \< *agni*
+- *agnibhiḥ* ← *agni*
 - \[noun\], instrumental, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *yajiṣṭhaṃ* \< *yajiṣṭham* \< *yajiṣṭha*
+- *yajiṣṭhaṃ* ← *yajiṣṭham* \< *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *dūtam* \< *dūta*

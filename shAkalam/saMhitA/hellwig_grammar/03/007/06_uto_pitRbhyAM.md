@@ -2,51 +2,51 @@
 title = "Rig Veda 3.7.6"
 
 +++
--   *uto* \< *uta*
+-   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *pitṛbhyām* \< *pitṛ*
+- *pitṛbhyām* ← *pitṛ*
 - \[noun\], dative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pravidānu* \< *pravidā* \< *pravid*
+- *pravidānu* ← *pravidā* ← *pravid*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *pravidānu* \< *anu*
+- *pravidānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *ghoṣam* \< *ghoṣa*
+- *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mahas*
+- *maho* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *mahadbhyām* \< *mahat*
+- *mahadbhyām* ← *mahat*
 - \[noun\], dative, dual, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *anayanta* \< *nī*
+- *anayanta* ← *nī*
 - \[verb\], plural, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *śūṣam* \< *śūṣa*
+- *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
 ------------------------------------------------------------------------
-- *ukṣā* \< *ukṣan*
+- *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 3.7.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dhānam* \< *dhāna*
+- *dhānam* ← *dhāna*
 - \[noun\], accusative, singular, neuter
 - “pile; receptacle; case.”
 ------------------------------------------------------------------------
-- *aktor* \< *aktoḥ* \< *aktu*
+- *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
@@ -74,21 +74,21 @@ title = "Rig Veda 3.7.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svaṃ* \< *svam* \< *sva*
+- *svaṃ* ← *svam* ← *sva*
 - \[noun\], accusative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *jaritur* \< *jarituḥ* \< *jaritṛ*
+- *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vavakṣa* \< *vakṣ*
+- *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------

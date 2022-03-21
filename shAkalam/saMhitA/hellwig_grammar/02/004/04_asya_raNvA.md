@@ -2,61 +2,61 @@
 title = "Rig Veda 2.4.4"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *raṇvā* \< *raṇva*
+- *raṇvā* ← *raṇva*
 - \[noun\], nominative, singular, feminine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *svasyeva* \< *svasya* \< *sva*
+- *svasyeva* ← *svasya* ← *sva*
 - \[noun\], genitive, singular, neuter
 - “property; wealth.”
 ------------------------------------------------------------------------
-- *svasyeva* \< *iva*
+- *svasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *puṣṭiḥ* \< *puṣṭi*
+- *puṣṭiḥ* ← *puṣṭi*
 - \[noun\], nominative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *saṃdṛṣṭir* \< *saṃdṛṣṭiḥ* \< *saṃdṛṣṭi*
+- *saṃdṛṣṭir* ← *saṃdṛṣṭiḥ* ← *saṃdṛṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *hiyānasya* \< *hi*
+- *hiyānasya* ← *hi*
 - \[verb noun\], genitive, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *dakṣoḥ* \< *dakṣu*
+- *dakṣoḥ* ← *dakṣu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bharibhrad* \< *bharibhrat* \< *bharibhṛ* \< *√bhṛ*
+- *bharibhrad* ← *bharibhrat* ← *bharibhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *jihvām* \< *jihvā*
+- *jihvām* ← *jihvā*
 - \[noun\], accusative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -64,13 +64,13 @@ title = "Rig Veda 2.4.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathya*
+- *rathyo* ← *rathyaḥ* ← *rathya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dodhavīti* \< *dodhav* \< *√dhū*
+- *dodhavīti* ← *dodhav* ← *√dhū*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vārān* \< *vāra*
+- *vārān* ← *vāra*
 - \[noun\], accusative, plural, masculine
 - “hair; tail.”
 ------------------------------------------------------------------------

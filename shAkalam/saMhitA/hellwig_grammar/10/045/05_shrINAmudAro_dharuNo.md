@@ -2,33 +2,33 @@
 title = "Rig Veda 10.45.5"
 
 +++
--   *śrīṇām* \< *śrī*
+-   *śrīṇām* ← *śrī*
 - \[noun\], genitive, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *udāro* \< *udāraḥ* \< *udāra*
+- *udāro* ← *udāraḥ* ← *udāra*
 - \[noun\], nominative, singular, masculine
 - “eminent; strong; distinguished.”
 ------------------------------------------------------------------------
-- *dharuṇo* \< *dharuṇaḥ* \< *dharuṇa*
+- *dharuṇo* ← *dharuṇaḥ* ← *dharuṇa*
 - \[noun\], nominative, singular, masculine
 - “holding; supportive.”
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *manīṣāṇām* \< *manīṣā*
+- *manīṣāṇām* ← *manīṣā*
 - \[noun\], genitive, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *prārpaṇaḥ* \< *prārpaṇa*
+- *prārpaṇaḥ* ← *prārpaṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *somagopāḥ* \< *soma*
+- *somagopāḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

@@ -2,40 +2,40 @@
 title = "Rig Veda 8.68.6"
 
 +++
--   *paromātram* \< *paromātra*
+-   *paromātram* ← *paromātra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛcīṣamam* \< *ṛcīṣama*
+- *ṛcīṣamam* ← *ṛcīṣama*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *surādhasam* \< *su*
+- *surādhasam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surādhasam* \< *rādhasam* \< *rādhas*
+- *surādhasam* ← *rādhasam* ← *rādhas*
 - \[noun\], accusative, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *īśānaṃ* \< *īśānam* \< *īś*
+- *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 4.16.5"
 
 +++
--   *vavakṣa* \< *vakṣ*
+-   *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *amitam* \< *amita*
+- *amitam* ← *amita*
 - \[noun\], accusative, singular, neuter
 - “infinite; illimitable; countless.”
 ------------------------------------------------------------------------
-- *ṛjīṣy* \< *ṛjīṣī* \< *ṛjīṣin*
+- *ṛjīṣy* ← *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -26,32 +26,32 @@ title = "Rig Veda 4.16.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], accusative, plural, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *ataś* \< *atas*
+- *ataś* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahimā* \< *mahiman*
+- *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 4.16.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *recy* \< *reci* \< *ric*
+- *recy* ← *reci* ← *ric*
 - \[verb\], singular, Aorist passive
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
@@ -67,20 +67,20 @@ title = "Rig Veda 4.16.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanā* \< *bhuvana*
+- *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *babhūva* \< *bhū*
+- *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -2,39 +2,39 @@
 title = "Rig Veda 6.63.6"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *śrībhir* \< *śrībhiḥ* \< *śrī*
+- *śrībhir* ← *śrībhiḥ* ← *śrī*
 - \[noun\], instrumental, plural, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *darśatābhir* \< *darśatābhiḥ* \< *darśata*
+- *darśatābhir* ← *darśatābhiḥ* ← *darśata*
 - \[noun\], instrumental, plural, feminine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *ābhiḥ* \< *idam*
+- *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *puṣṭim* \< *puṣṭi*
+- *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *ūhathuḥ* \< *vah*
+- *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sūryāyāḥ* \< *sūryā*
+- *sūryāyāḥ* ← *sūryā*
 - \[noun\], genitive, singular, feminine
 - “Citrullus colocynthis Schrad..”
 ------------------------------------------------------------------------
@@ -42,29 +42,29 @@ title = "Rig Veda 6.63.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *vapuṣe* \< *vapus*
+- *vapuṣe* ← *vapus*
 - \[noun\], dative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
 ------------------------------------------------------------------------
-- *'nu* \< *anu*
+- *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *paptan* \< *pat*
+- *paptan* ← *pat*
 - \[verb\], plural, Aorist inj. (proh.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *nakṣad* \< *nakṣat* \< *nakṣ*
+- *nakṣad* ← *nakṣat* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
 ------------------------------------------------------------------------
@@ -72,14 +72,14 @@ title = "Rig Veda 6.63.6"
 - \[noun\], nominative, singular, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
-- *suṣṭutā* \< *suṣṭuta*
+- *suṣṭutā* ← *suṣṭuta*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *dhiṣṇyā* \< *dhiṣṇya*
+- *dhiṣṇyā* ← *dhiṣṇya*
 - \[noun\], vocative, dual, masculine
 - “wise; beneficent.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------

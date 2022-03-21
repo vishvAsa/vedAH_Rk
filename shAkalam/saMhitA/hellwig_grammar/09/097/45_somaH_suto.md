@@ -2,19 +2,19 @@
 title = "Rig Veda 9.97.45"
 
 +++
--   *somaḥ* \< *soma*
+-   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *dhārayātyo* \< *dhārayā* \< *dhārā*
+- *dhārayātyo* ← *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *dhārayātyo* \< *atyaḥ* \< *atya*
+- *dhārayātyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -22,14 +22,14 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hitvā* \< *hā*
+- *hitvā* ← *hā*
 - \[verb noun\]
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nimnam* \< *nimna*
+- *nimnam* ← *nimna*
 - \[noun\], accusative, singular, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *akṣāḥ* \< *akṣār* \< *kṣar*
+- *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
@@ -57,22 +57,22 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yoniṃ* \< *yonim* \< *yoni*
+- *yoniṃ* ← *yonim* ← *yoni*
 - \[noun\], accusative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *vanyam* \< *vanya*
+- *vanyam* ← *vanya*
 - \[noun\], accusative, singular, masculine
 - “sylvan.”
 ------------------------------------------------------------------------
-- *asadat* \< *sad*
+- *asadat* ← *sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -80,17 +80,17 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indur* \< *induḥ* \< *indu*
+- *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *asarat* \< *sṛ*
+- *asarat* ← *sṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
@@ -98,7 +98,7 @@ title = "Rig Veda 9.97.45"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *adbhiḥ* \< *ap*
+- *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

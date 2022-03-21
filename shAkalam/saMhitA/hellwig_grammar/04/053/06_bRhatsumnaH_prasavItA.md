@@ -2,84 +2,84 @@
 title = "Rig Veda 4.53.6"
 
 +++
--   *bṛhatsumnaḥ* \< *bṛhat*
+-   *bṛhatsumnaḥ* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhatsumnaḥ* \< *sumnaḥ* \< *sumna*
+- *bṛhatsumnaḥ* ← *sumnaḥ* ← *sumna*
 - \[noun\], nominative, singular, masculine
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *prasavītā* \< *prasavītṛ*
+- *prasavītā* ← *prasavītṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *niveśano* \< *niveśanaḥ* \< *niveśana*
+- *niveśano* ← *niveśanaḥ* ← *niveśana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *jagata* \< *jagataḥ* \< *jagat*
+- *jagata* ← *jagataḥ* ← *jagat*
 - \[noun\], genitive, singular, masculine
 - “movable; Jagatī; moving.”
 ------------------------------------------------------------------------
-- *sthātur* \< *sthātuḥ* \< *sthātṛ*
+- *sthātur* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vaśī* \< *vaśin*
+- *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchatv* \< *yacchatu* \< *yam*
+- *yacchatv* ← *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṣayāya* \< *kṣaya*
+- *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *trivarūtham* \< *tri*
+- *trivarūtham* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūtham* \< *varūtham* \< *varūtha*
+- *trivarūtham* ← *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *aṃhasaḥ* \< *aṃhas*
+- *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------

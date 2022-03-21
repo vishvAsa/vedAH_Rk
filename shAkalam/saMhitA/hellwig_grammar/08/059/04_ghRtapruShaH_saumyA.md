@@ -2,45 +2,45 @@
 title = "Rig Veda 8.59.4"
 
 +++
--   *ghṛtapruṣaḥ* \< *ghṛta*
+-   *ghṛtapruṣaḥ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapruṣaḥ* \< *pruṣaḥ* \< *pruṣ*
+- *ghṛtapruṣaḥ* ← *pruṣaḥ* ← *pruṣ*
 - \[noun\], nominative, plural, feminine
 - “dropping.”
 ------------------------------------------------------------------------
-- *saumyā* \< *saumyāḥ* \< *saumya*
+- *saumyā* ← *saumyāḥ* ← *saumya*
 - \[noun\], nominative, plural, feminine
 - “dear; saumya; mild; auspicious; northern; beautiful; low; good;
     northerly; cheerful.”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *jīra*
+- *jīradānavaḥ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *dānavaḥ* \< *dānu*
+- *jīradānavaḥ* ← *dānavaḥ* ← *dānu*
 - \[noun\], nominative, plural, feminine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *svasāraḥ* \< *svasṛ*
+- *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *sadana* \< *sadane* \< *sadana*
+- *sadana* ← *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -48,34 +48,34 @@ title = "Rig Veda 8.59.4"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *ghṛtaścutas* \< *ghṛtaścutaḥ* \< *ghṛtaścut*
+- *ghṛtaścutas* ← *ghṛtaścutaḥ* ← *ghṛtaścut*
 - \[noun\], nominative, plural, feminine
 - “ghee-dripping.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhattaṃ* \< *dhattam* \< *dhā*
+- *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *śikṣatam* \< *śikṣ*
+- *śikṣatam* ← *śikṣ*
 - \[verb\], dual, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------

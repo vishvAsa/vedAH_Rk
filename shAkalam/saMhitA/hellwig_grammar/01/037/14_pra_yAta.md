@@ -6,7 +6,7 @@ title = "Rig Veda 1.37.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yāta* \< *yā*
+- *yāta* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -14,40 +14,40 @@ title = "Rig Veda 1.37.14"
 - *śībham*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āśubhiḥ* \< *āśu*
+- *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kaṇveṣu* \< *kaṇva*
+- *kaṇveṣu* ← *kaṇva*
 - \[noun\], locative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *duvaḥ* \< *dū*
+- *duvaḥ* ← *dū*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *tatro* \< *tatra*
+- *tatro* ← *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *tatro* \< *u*
+- *tatro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mādayādhvai* \< *māday* \< *√mad*
+- *mādayādhvai* ← *māday* ← *√mad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

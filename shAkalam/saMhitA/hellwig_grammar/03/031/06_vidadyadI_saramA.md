@@ -2,11 +2,11 @@
 title = "Rig Veda 3.31.6"
 
 +++
--   *vidad* \< *vidat* \< *vid*
+-   *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
@@ -14,10 +14,10 @@ title = "Rig Veda 3.31.6"
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
 ------------------------------------------------------------------------
-- *rugṇam* \< *rugṇa*
+- *rugṇam* ← *rugṇa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *adrer* \< *adreḥ* \< *adri*
+- *adrer* ← *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -25,18 +25,18 @@ title = "Rig Veda 3.31.6"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *pāthaḥ* \< *pāthas*
+- *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *sadhryak* \< *sadhryañc*
+- *sadhryak* ← *sadhryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,25 +47,25 @@ title = "Rig Veda 3.31.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *agraṃ* \< *agram* \< *agra*
+- *agraṃ* ← *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *nayat* \< *nī*
+- *nayat* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *supady* \< *su*
+- *supady* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supady* \< *padī* \< *padin*
+- *supady* ← *padī* ← *padin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *akṣarāṇām* \< *akṣara*
+- *akṣarāṇām* ← *akṣara*
 - \[noun\], genitive, plural, masculine
 - “imperishable.”
 ------------------------------------------------------------------------
@@ -73,22 +73,22 @@ title = "Rig Veda 3.31.6"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *ravam* \< *rava*
+- *ravam* ← *rava*
 - \[noun\], accusative, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *jānatī* \< *jñā*
+- *jānatī* ← *jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *gāt* \< *gā*
+- *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

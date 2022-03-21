@@ -2,11 +2,11 @@
 title = "Rig Veda 9.2.3"
 
 +++
--   *adhukṣata* \< *duh*
+-   *adhukṣata* ← *duh*
 - \[verb\], singular, sa aorist (Ind.)
 - “milk.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
@@ -19,23 +19,23 @@ title = "Rig Veda 9.2.3"
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], genitive, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vasiṣṭa* \< *vas*
+- *vasiṣṭa* ← *vas*
 - \[verb\], singular, Aorist inj. (proh.)
 - “wear.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *sukratu*
+- *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------

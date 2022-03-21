@@ -6,28 +6,28 @@ title = "Rig Veda 8.46.31"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *yac* \< *yat*
+- *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *cārathe* \< *cāratha*
+- *cārathe* ← *cāratha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *gaṇe* \< *gaṇa*
+- *gaṇe* ← *gaṇa*
 - \[noun\], locative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *uṣṭrāṃ* \< *\_* \< *√\_*
+- *uṣṭrāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *acikradat* \< *krand*
+- *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
@@ -35,14 +35,14 @@ title = "Rig Veda 8.46.31"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *śvitneṣu* \< *śvitna*
+- *śvitneṣu* ← *śvitna*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *viṃśatiṃ* \< *viṃśatim* \< *viṃśati*
+- *viṃśatiṃ* ← *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------

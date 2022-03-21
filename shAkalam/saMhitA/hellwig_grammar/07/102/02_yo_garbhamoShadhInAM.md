@@ -2,26 +2,26 @@
 title = "Rig Veda 7.102.2"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *garbham* \< *garbha*
+- *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *oṣadhīnāṃ* \< *oṣadhīnām* \< *oṣadhi*
+- *oṣadhīnāṃ* ← *oṣadhīnām* ← *oṣadhi*
 - \[noun\], genitive, plural, feminine
 - “herb; plant; drug; simple; oṣadhi \[word\]; remedy.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *kṛṇoty* \< *kṛṇoti* \< *kṛ*
+- *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,15 +32,15 @@ title = "Rig Veda 7.102.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *arvatām* \< *arvant*
+- *arvatām* ← *arvant*
 - \[noun\], genitive, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *parjanyaḥ* \< *parjanya*
+- *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *puruṣīṇām* \< *puruṣī*
+- *puruṣīṇām* ← *puruṣī*
 - \[noun\], genitive, plural, feminine
 - “woman.”
 ------------------------------------------------------------------------

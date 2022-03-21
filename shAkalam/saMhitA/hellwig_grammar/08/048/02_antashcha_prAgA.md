@@ -2,7 +2,7 @@
 title = "Rig Veda 8.48.2"
 
 +++
--   *antaś* \< *antar*
+-   *antaś* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
@@ -10,59 +10,59 @@ title = "Rig Veda 8.48.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *prāgā* \< *prāgāḥ* \< *pragā* \< *√gā*
+- *prāgā* ← *prāgāḥ* ← *pragā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *aditir* \< *aditiḥ* \< *aditi*
+- *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *bhavāsy* \< *bhavāsi* \< *bhū*
+- *bhavāsy* ← *bhavāsi* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *avayātā* \< *avayātṛ*
+- *avayātā* ← *avayātṛ*
 - \[noun\], nominative, singular, masculine
 - “averting.”
 ------------------------------------------------------------------------
-- *haraso* \< *harasaḥ* \< *haras*
+- *haraso* ← *harasaḥ* ← *haras*
 - \[noun\], genitive, singular, neuter
 - “fire; fury; grip; capture.”
 ------------------------------------------------------------------------
-- *daivyasya* \< *daivya*
+- *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *indav* \< *indo* \< *indu*
+- *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *śrauṣṭīva* \< *śrauṣṭī*
+- *śrauṣṭīva* ← *śrauṣṭī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śrauṣṭīva* \< *iva*
+- *śrauṣṭīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhuram* \< *dhur*
+- *dhuram* ← *dhur*
 - \[noun\], accusative, singular, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
@@ -70,11 +70,11 @@ title = "Rig Veda 8.48.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *ṛdhyāḥ* \< *ṛdh*
+- *ṛdhyāḥ* ← *ṛdh*
 - \[verb\], singular, Aorist optative
 - “boom; stick to.”
 ------------------------------------------------------------------------

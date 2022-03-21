@@ -2,21 +2,21 @@
 title = "Rig Veda 10.87.18"
 
 +++
--   *viṣaṃ* \< *viṣam* \< *viṣa*
+-   *viṣaṃ* ← *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yātudhānāḥ* \< *yātudhāna*
+- *yātudhānāḥ* ← *yātudhāna*
 - \[noun\], nominative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *pibantv* \< *pibantu* \< *pā*
+- *pibantv* ← *pibantu* \< *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

@@ -2,49 +2,49 @@
 title = "Rig Veda 10.117.2"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ādhrāya* \< *ādhra*
+- *ādhrāya* ← *ādhra*
 - \[noun\], dative, singular, masculine
 - “weak.”
 ------------------------------------------------------------------------
-- *cakamānāya* \< *kam*
+- *cakamānāya* ← *kam*
 - \[verb noun\], dative, singular
 - “desire.”
 ------------------------------------------------------------------------
-- *pitvo* \< *pitvaḥ* \< *pā*
+- *pitvo* ← *pitvaḥ* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *'nnavān* \< *annavān* \< *annavat*
+- *'nnavān* ← *annavān* ← *annavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *raphitāyopajagmuṣe* \< *raphitāya* \< *raphita*
+- *raphitāyopajagmuṣe* ← *raphitāya* ← *raphita*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *raphitāyopajagmuṣe* \< *upajagmuṣe* \< *upagam* \< *√gam*
+- *raphitāyopajagmuṣe* ← *upajagmuṣe* ← *upagam* ← *√gam*
 - \[verb noun\], dative, singular
 - “enter (a state); go; approach; meet; arrive; repair to.”
 ------------------------------------------------------------------------
-- *sthiram* \< *sthira*
+- *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,20 +55,20 @@ title = "Rig Veda 10.117.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sevate* \< *sev*
+- *sevate* ← *sev*
 - \[verb\], singular, Present indikative
 - “consume; frequent; practice; worship; dwell; enjoy; indulge; eat;
     honor; endeavor; endow; respect; haunt; perform.”
 ------------------------------------------------------------------------
-- *puroto* \< *purā*
+- *puroto* ← *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *puroto* \< *uta*
+- *puroto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *puroto* \< *u*
+- *puroto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -76,13 +76,13 @@ title = "Rig Veda 10.117.2"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *marḍitāraṃ* \< *marḍitāram* \< *marḍitṛ*
+- *marḍitāraṃ* ← *marḍitāram* ← *marḍitṛ*
 - \[noun\], accusative, singular, masculine
 - “sympathizer.”
 ------------------------------------------------------------------------
@@ -90,7 +90,7 @@ title = "Rig Veda 10.117.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vindate* \< *vid*
+- *vindate* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

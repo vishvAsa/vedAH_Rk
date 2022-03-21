@@ -2,11 +2,11 @@
 title = "Rig Veda 4.17.1"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -17,7 +17,7 @@ title = "Rig Veda 4.17.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -33,55 +33,55 @@ title = "Rig Veda 4.17.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kṣatram* \< *kṣatra*
+- *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
 - *maṃhanā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *manyata* \< *man*
+- *manyata* ← *man*
 - \[verb\], singular, Present injunctive
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *jaghanvān* \< *han*
+- *jaghanvān* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *sṛjaḥ* \< *sṛj*
+- *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sindhūṃr* \< *sindhūn* \< *sindhu*
+- *sindhūṃr* ← *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ahinā* \< *ahi*
+- *ahinā* ← *ahi*
 - \[noun\], instrumental, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *jagrasānān* \< *gras*
+- *jagrasānān* ← *gras*
 - \[verb noun\], accusative, plural
 - “swallow; eclipse; eclipse; devour; obscure; hide; haunt; sting;
     eat.”

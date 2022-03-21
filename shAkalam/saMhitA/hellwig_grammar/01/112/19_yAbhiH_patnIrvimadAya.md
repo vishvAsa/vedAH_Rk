@@ -2,19 +2,19 @@
 title = "Rig Veda 1.112.19"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *vimadāya* \< *vimada*
+- *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *nyūhathur* \< *nyūhathuḥ* \< *nivah* \< *√vah*
+- *nyūhathur* ← *nyūhathuḥ* ← *nivah* ← *√vah*
 - \[verb\], dual, Perfect indicative
 ------------------------------------------------------------------------
 - *ā*
@@ -28,61 +28,61 @@ title = "Rig Veda 1.112.19"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aruṇīr* \< *aruṇīḥ* \< *aruṇī*
+- *aruṇīr* ← *aruṇīḥ* ← *aruṇī*
 - \[noun\], accusative, plural, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *aśikṣatam* \< *śikṣ*
+- *aśikṣatam* ← *śikṣ*
 - \[verb\], dual, Imperfect
 - “help; give.”
 ------------------------------------------------------------------------
-- *yābhiḥ* \< *yad*
+- *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudāsa* \< *sudāse* \< *sudās*
+- *sudāsa* ← *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *ūhathuḥ* \< *vah*
+- *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sudevyaṃ* \< *su*
+- *sudevyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudevyaṃ* \< *devyam* \< *devya*
+- *sudevyaṃ* ← *devyam* ← *devya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

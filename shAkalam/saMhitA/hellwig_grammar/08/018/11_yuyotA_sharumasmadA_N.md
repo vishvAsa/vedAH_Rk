@@ -2,42 +2,42 @@
 title = "Rig Veda 8.18.11"
 
 +++
--   *yuyotā* \< *yuyota* \< *yu*
+-   *yuyotā* ← *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *śarum* \< *śaru*
+- *śarum* ← *śaru*
 - \[noun\], accusative, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ādityāsa* \< *ādityāsaḥ* \< *āditya*
+- *ādityāsa* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *utāmatim* \< *uta*
+- *utāmatim* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāmatim* \< *amatim* \< *amati*
+- *utāmatim* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *ṛdhag* \< *ṛdhak*
+- *ṛdhag* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *kṛṇuta* \< *kṛ*
+- *kṛṇuta* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,12 +48,12 @@ title = "Rig Veda 8.18.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *viśva*
+- *viśvavedasaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasaḥ* \< *vedasaḥ* \< *vedas*
+- *viśvavedasaḥ* ← *vedasaḥ* ← *vedas*
 - \[noun\], vocative, plural, masculine
 - “knowledge.”
 ------------------------------------------------------------------------

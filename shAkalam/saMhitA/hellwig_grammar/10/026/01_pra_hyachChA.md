@@ -6,7 +6,7 @@ title = "Rig Veda 10.26.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -14,20 +14,20 @@ title = "Rig Veda 10.26.1"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *manīṣā* \< *manīṣāḥ* \< *manīṣā*
+- *manīṣā* ← *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *spārhā* \< *spārhāḥ* \< *spārha*
+- *spārhā* ← *spārhāḥ* ← *spārha*
 - \[noun\], nominative, plural, feminine
 - “desirable.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *niyutaḥ* \< *niyut*
+- *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
@@ -35,22 +35,22 @@ title = "Rig Veda 10.26.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “fantastic.”
 ------------------------------------------------------------------------
-- *niyudrathaḥ* \< *niyudratha*
+- *niyudrathaḥ* ← *niyudratha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *aviṣṭu* \< *av*
+- *aviṣṭu* ← *av*
 - \[verb\], singular, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *māhinaḥ* \< *māhina*
+- *māhinaḥ* ← *māhina*
 - \[noun\], nominative, singular, masculine
 - “mighty; large.”
 ------------------------------------------------------------------------

@@ -2,17 +2,17 @@
 title = "Rig Veda 3.28.5"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tṛtīye* \< *tṛtīya*
+- *tṛtīye* ← *tṛtīya*
 - \[noun\], locative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
@@ -20,19 +20,19 @@ title = "Rig Veda 3.28.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kāniṣaḥ* \< *kan*
+- *kāniṣaḥ* ← *kan*
 - \[verb\], singular, Aorist conj./subj.
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *puroḍāśaṃ* \< *puroḍāśam* \< *puroḍāś*
+- *puroḍāśaṃ* ← *puroḍāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *sahasaḥ* \< *sahas*
+- *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sūnav* \< *sūno* \< *sūnu*
+- *sūnav* ← *sūno* \< *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------

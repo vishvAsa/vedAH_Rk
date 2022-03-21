@@ -2,36 +2,36 @@
 title = "Rig Veda 1.191.15"
 
 +++
--   *iyattakaḥ* \< *iyattaka*
+-   *iyattakaḥ* ← *iyattaka*
 - \[noun\], nominative, singular, masculine
 - “small.”
 ------------------------------------------------------------------------
-- *kuṣumbhakas* \< *kuṣumbhakaḥ* \< *kuṣumbhaka*
+- *kuṣumbhakas* ← *kuṣumbhakaḥ* ← *kuṣumbhaka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *takam* \< *taka*
+- *takam* ← *taka*
 - \[noun\], accusative, singular, masculine
 - “he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *bhinadmy* \< *bhinadmi* \< *bhid*
+- *bhinadmy* ← *bhinadmi* ← *bhid*
 - \[verb\], singular, Present indikative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *aśmanā* \< *aśman*
+- *aśmanā* ← *aśman*
 - \[noun\], instrumental, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *tato* \< *tatas*
+- *tato* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
     consequently; furthermore.”
 ------------------------------------------------------------------------
-- *viṣam* \< *viṣa*
+- *viṣam* ← *viṣa*
 - \[noun\], nominative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
@@ -40,13 +40,13 @@ title = "Rig Veda 1.191.15"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāvṛte* \< *vṛt*
+- *vāvṛte* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *parācīr* \< *parācīḥ* \< *parāñc*
+- *parācīr* ← *parācīḥ* ← *parāñc*
 - \[noun\], accusative, plural, feminine
 - “fleeing(a); departing(a).”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 1.191.15"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *saṃvataḥ* \< *saṃvat*
+- *saṃvataḥ* ← *saṃvat*
 - \[noun\], accusative, plural, feminine
 - “tract.”
 ------------------------------------------------------------------------

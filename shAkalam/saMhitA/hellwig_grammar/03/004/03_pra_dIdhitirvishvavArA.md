@@ -6,37 +6,37 @@ title = "Rig Veda 3.4.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dīdhitir* \< *dīdhitiḥ* \< *dīdhiti*
+- *dīdhitir* ← *dīdhitiḥ* ← *dīdhiti*
 - \[noun\], nominative, singular, feminine
 - “beam.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *viśva*
+- *viśvavārā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *vārā* \< *vāra*
+- *viśvavārā* ← *vārā* ← *vāra*
 - \[noun\], nominative, singular, feminine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *iḍaḥ* \< *iḍ*
+- *iḍaḥ* ← *iḍ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; libation.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *yajadhyai* \< *yaj*
+- *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -44,36 +44,36 @@ title = "Rig Veda 3.4.3"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vandadhyai* \< *vand*
+- *vandadhyai* ← *vand*
 - \[verb noun\]
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *iṣito* \< *iṣitaḥ* \< *iṣay* \< *√iṣ*
+- *iṣito* ← *iṣitaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yajīyān* \< *yajīyas*
+- *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 8.63.9"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vṛṣṇo* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇo* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vyodana* \< *vi*
+- *vyodana* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vyodana* \< *odane* \< *odana*
+- *vyodana* ← *odane* ← *odana*
 - \[noun\], locative, singular, masculine
 - “boiled rice; porridge; odana \[word\]; soft diet.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 8.63.9"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *kramiṣṭa* \< *kram*
+- *kramiṣṭa* ← *kram*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *yavaṃ* \< *yavam* \< *yava*
+- *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.63.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *paśva* \< *paśve* \< *paśu*
+- *paśva* ← *paśve* ← *paśu*
 - \[noun\], nominative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -47,7 +47,7 @@ title = "Rig Veda 8.63.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

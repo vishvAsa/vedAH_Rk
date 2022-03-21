@@ -6,56 +6,56 @@ title = "Rig Veda 6.68.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutrātro* \< *su*
+- *sutrātro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutrātro* \< *trātraḥ* \< *trātra*
+- *sutrātro* ← *trātraḥ* ← *trātra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *devagopāḥ* \< *deva*
+- *devagopāḥ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devagopāḥ* \< *gopāḥ* \< *gopā*
+- *devagopāḥ* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *sūribhya* \< *sūribhyaḥ* \< *sūri*
+- *sūribhya* ← *sūribhyaḥ* ← *sūri*
 - \[noun\], dative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *rayiḥ* \< *rayi*
+- *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *ṣyāt* \< *syāt* \< *as*
+- *ṣyāt* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yeṣāṃ* \< *yeṣām* \< *yad*
+- *yeṣāṃ* ← *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śuṣmaḥ* \< *śuṣma*
+- *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *sāhvān* \< *sah*
+- *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -63,18 +63,18 @@ title = "Rig Veda 6.68.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *dyumnā* \< *dyumna*
+- *dyumnā* ← *dyumna*
 - \[noun\], accusative, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *tirate* \< *tṛ*
+- *tirate* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *taturiḥ* \< *taturi*
+- *taturiḥ* ← *taturi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 9.58.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yayos* \< *yayoḥ* \< *yad*
+- *yayos* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *triṃśataṃ* \< *triṃśatam* \< *triṃśat*
+- *triṃśataṃ* ← *triṃśatam* ← *triṃśat*
 - \[noun\], accusative, singular, feminine
 - “thirty; triṃśat \[word\].”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -26,28 +26,28 @@ title = "Rig Veda 9.58.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dadmahe* \< *dā*
+- *dadmahe* ← *dā*
 - \[verb\], plural, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *tarat* \< *tṛ*
+- *tarat* ← *tṛ*
 - \[verb\], singular, Present injunctive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mandī* \< *mandin*
+- *mandī* ← *mandin*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------

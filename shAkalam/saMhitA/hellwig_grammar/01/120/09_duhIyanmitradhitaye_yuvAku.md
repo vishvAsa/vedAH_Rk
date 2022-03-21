@@ -2,18 +2,18 @@
 title = "Rig Veda 1.120.9"
 
 +++
--   *duhīyan* \< *duh*
+-   *duhīyan* ← *duh*
 - \[verb\], plural, Present optative
 - “milk.”
 ------------------------------------------------------------------------
-- *mitradhitaye* \< *mitradhiti*
+- *mitradhitaye* ← *mitradhiti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
 - *yuvāku*
 - \[noun\], accusative, singular, neuter
 - “your(a).”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -21,18 +21,18 @@ title = "Rig Veda 1.120.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mimītaṃ* \< *mimītam* \< *mā*
+- *mimītaṃ* ← *mimītam* ← *mā*
 - \[verb\], dual, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *vājavatyai* \< *vājavat*
+- *vājavatyai* ← *vājavat*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -40,14 +40,14 @@ title = "Rig Veda 1.120.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mimītaṃ* \< *mimītam* \< *mā*
+- *mimītaṃ* ← *mimītam* ← *mā*
 - \[verb\], dual, Present imperative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *dhenumatyai* \< *dhenumat*
+- *dhenumatyai* ← *dhenumat*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------

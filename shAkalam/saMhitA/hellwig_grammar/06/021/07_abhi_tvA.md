@@ -6,15 +6,15 @@ title = "Rig Veda 6.21.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pājo* \< *pājaḥ* \< *pājas*
+- *pājo* ← *pājaḥ* ← *pājas*
 - \[noun\], nominative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], genitive, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 6.21.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tasthe* \< *sthā*
+- *tasthe* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -32,7 +32,7 @@ title = "Rig Veda 6.21.7"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *jajñānam* \< *jan*
+- *jajñānam* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -42,7 +42,7 @@ title = "Rig Veda 6.21.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -52,34 +52,34 @@ title = "Rig Veda 6.21.7"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pratnena* \< *pratna*
+- *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *yujyena* \< *yujya*
+- *yujyena* ← *yujya*
 - \[noun\], instrumental, singular, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhi*
+- *sakhyā* ← *sakhi*
 - \[noun\], instrumental, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
@@ -87,13 +87,13 @@ title = "Rig Veda 6.21.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nudasva* \< *nud*
+- *nudasva* ← *nud*
 - \[verb\], singular, Present imperative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------

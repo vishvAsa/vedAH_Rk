@@ -2,32 +2,32 @@
 title = "Rig Veda 2.35.10"
 
 +++
--   *hiraṇyarūpaḥ* \< *hiraṇya*
+-   *hiraṇyarūpaḥ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyarūpaḥ* \< *rūpaḥ* \< *rūpa*
+- *hiraṇyarūpaḥ* ← *rūpaḥ* ← *rūpa*
 - \[noun\], nominative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *hiraṇyasaṃdṛg* \< *hiraṇya*
+- *hiraṇyasaṃdṛg* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyasaṃdṛg* \< *saṃdṛś*
+- *hiraṇyasaṃdṛg* ← *saṃdṛś*
 - \[noun\], nominative, singular, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -35,13 +35,13 @@ title = "Rig Veda 2.35.10"
 - \[noun\], nominative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *sed* \< *sa* \< *tad*
+- *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sed* \< *id*
+- *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -49,16 +49,16 @@ title = "Rig Veda 2.35.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇaḥ* \< *hiraṇya*
+- *hiraṇyavarṇaḥ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇaḥ* \< *varṇaḥ* \< *varṇa*
+- *hiraṇyavarṇaḥ* ← *varṇaḥ* ← *varṇa*
 - \[noun\], nominative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *hiraṇyayāt* \< *hiraṇyaya*
+- *hiraṇyayāt* ← *hiraṇyaya*
 - \[noun\], ablative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
@@ -66,36 +66,36 @@ title = "Rig Veda 2.35.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yoner* \< *yoneḥ* \< *yoni*
+- *yoner* ← *yoneḥ* ← *yoni*
 - \[noun\], ablative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *niṣadyā* \< *niṣadya* \< *niṣad* \< *√sad*
+- *niṣadyā* ← *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *hiraṇyadā* \< *hiraṇya*
+- *hiraṇyadā* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyadā* \< *dāḥ* \< *dā*
+- *hiraṇyadā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, plural, feminine
 - “giving.”
 ------------------------------------------------------------------------
-- *dadaty* \< *dadati* \< *dā*
+- *dadaty* ← *dadati* ← *dā*
 - \[verb\], plural, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

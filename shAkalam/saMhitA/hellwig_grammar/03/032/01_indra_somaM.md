@@ -7,32 +7,32 @@ title = "Rig Veda 3.32.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapate* \< *soma*
+- *somapate* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapate* \< *pate* \< *pati*
+- *somapate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *pibemam* \< *piba* \< *pā*
+- *pibemam* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibemam* \< *imam* \< *idam*
+- *pibemam* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mādhyandinaṃ* \< *mādhyandinam* \< *mādhyaṃdina*
+- *mādhyandinaṃ* ← *mādhyandinam* ← *mādhyaṃdina*
 - \[noun\], accusative, singular, neuter
 - “midday.”
 ------------------------------------------------------------------------
-- *savanaṃ* \< *savanam* \< *savana*
+- *savanaṃ* ← *savanam* ← *savana*
 - \[noun\], accusative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
@@ -40,34 +40,34 @@ title = "Rig Veda 3.32.1"
 - \[noun\], nominative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *prapruthyā* \< *prapruth* \< *√pruth*
+- *prapruthyā* ← *prapruth* ← *√pruth*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *śipre* \< *śiprā*
+- *śipre* ← *śiprā*
 - \[noun\], accusative, dual, feminine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
 - *ṛjīṣin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vimucyā* \< *vimuc* \< *√muc*
+- *vimucyā* ← *vimuc* ← *√muc*
 - \[verb noun\]
 - “emit; get rid of; liberate; cure; release; heal; unyoke; take off;
     die; loosen; ejaculate; shoot; put; dislodge; spill; exclude.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
@@ -76,7 +76,7 @@ title = "Rig Veda 3.32.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *mādayasva* \< *māday* \< *√mad*
+- *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

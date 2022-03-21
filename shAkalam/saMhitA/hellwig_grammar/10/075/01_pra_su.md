@@ -10,29 +10,29 @@ title = "Rig Veda 10.75.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mahimānam* \< *mahiman*
+- *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *uttamaṃ* \< *uttamam* \< *uttama*
+- *uttamaṃ* ← *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *kārur* \< *kāruḥ* \< *kāru*
+- *kārur* ← *kāruḥ* ← *kāru*
 - \[noun\], nominative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *vocāti* \< *vac*
+- *vocāti* ← *vac*
 - \[verb\], singular, Aorist conj./subj.
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

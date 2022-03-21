@@ -6,74 +6,74 @@ title = "Rig Veda 7.100.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakrame* \< *kram*
+- *cakrame* ← *kram*
 - \[verb\], singular, Perfect indicative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *eṣa* \< *eṣaḥ* \< *etad*
+- *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *etāṃ* \< *etām* \< *etad*
+- *etāṃ* ← *etām* ← *etad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *kṣetrāya* \< *kṣetra*
+- *kṣetrāya* ← *kṣetra*
 - \[noun\], dative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *viṣṇur* \< *viṣṇuḥ* \< *viṣṇu*
+- *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *manuṣe* \< *manus*
+- *manuṣe* ← *manus*
 - \[noun\], dative, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *daśasyan* \< *daśasy*
+- *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *dhruvāso* \< *dhruvāsaḥ* \< *dhruva*
+- *dhruvāso* ← *dhruvāsaḥ* ← *dhruva*
 - \[noun\], nominative, plural, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kīrayo* \< *kīrayaḥ* \< *kīri*
+- *kīrayo* ← *kīrayaḥ* ← *kīri*
 - \[noun\], nominative, plural, masculine
 - “pauper.”
 ------------------------------------------------------------------------
-- *janāsa* \< *janāsaḥ* \< *jana*
+- *janāsa* ← *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *urukṣitiṃ* \< *uru*
+- *urukṣitiṃ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urukṣitiṃ* \< *kṣitim* \< *kṣiti*
+- *urukṣitiṃ* ← *kṣitim* ← *kṣiti*
 - \[noun\], accusative, singular, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *sujanimā* \< *su*
+- *sujanimā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujanimā* \< *janimā* \< *janiman*
+- *sujanimā* ← *janimā* ← *janiman*
 - \[noun\], nominative, singular, masculine
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

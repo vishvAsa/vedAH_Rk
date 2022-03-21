@@ -6,36 +6,36 @@ title = "Rig Veda 1.162.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *aryamāyur* \< *aryamā* \< *aryaman*
+- *aryamāyur* ← *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *aryamāyur* \< *āyuḥ* \< *āyu*
+- *aryamāyur* ← *āyuḥ* ← *āyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -43,43 +43,43 @@ title = "Rig Veda 1.162.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *khyan* \< *khyā*
+- *khyan* ← *khyā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *devajātasya* \< *deva*
+- *devajātasya* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajātasya* \< *jātasya* \< *jan*
+- *devajātasya* ← *jātasya* ← *jan*
 - \[verb noun\], genitive, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sapteḥ* \< *sapti*
+- *sapteḥ* ← *sapti*
 - \[noun\], genitive, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *pravakṣyāmo* \< *pravakṣyāmaḥ* \< *pravac* \< *√vac*
+- *pravakṣyāmo* ← *pravakṣyāmaḥ* ← *pravac* ← *√vac*
 - \[verb\], plural, Future
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *vīryāṇi* \< *vīrya*
+- *vīryāṇi* ← *vīrya*
 - \[noun\], accusative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

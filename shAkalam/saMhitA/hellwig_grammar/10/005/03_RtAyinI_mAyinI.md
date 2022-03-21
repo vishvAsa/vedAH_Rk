@@ -2,62 +2,62 @@
 title = "Rig Veda 10.5.3"
 
 +++
--   *ṛtāyinī* \< *ṛtāyin*
+-   *ṛtāyinī* ← *ṛtāyin*
 - \[noun\], nominative, dual, neuter
 ------------------------------------------------------------------------
-- *māyinī* \< *māyin*
+- *māyinī* ← *māyin*
 - \[noun\], nominative, dual, neuter
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dadhāte* \< *dhā*
+- *dadhāte* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *mitvā* \< *mā*
+- *mitvā* ← *mā*
 - \[verb noun\]
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *śiśuṃ* \< *śiśum* \< *śiśu*
+- *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *jajñatur* \< *jajñatuḥ* \< *jan*
+- *jajñatur* ← *jajñatuḥ* ← *jan*
 - \[verb\], dual, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vardhayantī* \< *vardhay* \< *√vṛdh*
+- *vardhayantī* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *nābhiṃ* \< *nābhim* \< *nābhi*
+- *nābhiṃ* ← *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *carato* \< *carataḥ* \< *car*
+- *carato* ← *carataḥ* ← *car*
 - \[verb noun\], genitive, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *dhruvasya* \< *dhruva*
+- *dhruvasya* ← *dhruva*
 - \[noun\], genitive, singular, masculine
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *kaveś* \< *kaveḥ* \< *kavi*
+- *kaveś* ← *kaveḥ* ← *kavi*
 - \[noun\], genitive, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -66,16 +66,16 @@ title = "Rig Veda 10.5.3"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tantum* \< *tantu*
+- *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *viyantaḥ* \< *vī* \< *√i*
+- *viyantaḥ* ← *vī* ← *√i*
 - \[verb noun\], nominative, plural
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------

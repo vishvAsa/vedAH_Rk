@@ -2,15 +2,15 @@
 title = "Rig Veda 9.106.13"
 
 +++
--   *pavate* \< *pū*
+-   *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *haryato* \< *haryataḥ* \< *haryata*
+- *haryato* ← *haryataḥ* ← *haryata*
 - \[noun\], nominative, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
@@ -18,26 +18,26 @@ title = "Rig Veda 9.106.13"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *hvarāṃsi* \< *hvaras*
+- *hvarāṃsi* ← *hvaras*
 - \[noun\], accusative, plural, neuter
 - “intrigue.”
 ------------------------------------------------------------------------
-- *raṃhyā* \< *raṃhi*
+- *raṃhyā* ← *raṃhi*
 - \[noun\], instrumental, singular, feminine
 - “speed.”
 ------------------------------------------------------------------------
-- *abhyarṣan* \< *abhyṛṣ* \< *√ṛṣ*
+- *abhyarṣan* ← *abhyṛṣ* ← *√ṛṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *stotṛbhyo* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhyo* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *vīravad* \< *vīravat*
+- *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
 ------------------------------------------------------------------------
-- *yaśaḥ* \< *yaśas*
+- *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------

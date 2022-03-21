@@ -2,11 +2,11 @@
 title = "Rig Veda 10.35.7"
 
 +++
--   *śreṣṭhaṃ* \< *śreṣṭham* \< *śreṣṭha*
+-   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], accusative, singular, masculine
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 10.35.7"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *savitar* \< *savitṛ*
+- *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *vareṇyam* \< *vareṇya*
+- *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
@@ -32,11 +32,11 @@ title = "Rig Veda 10.35.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suva* \< *sū*
+- *suva* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -46,29 +46,29 @@ title = "Rig Veda 10.35.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *ratna*
+- *ratnadhā* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *dhāḥ* \< *dhā*
+- *ratnadhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *janitrīṃ* \< *janitrīm* \< *janitrī*
+- *janitrīṃ* ← *janitrīm* ← *janitrī*
 - \[noun\], accusative, singular, feminine
 - “mother.”
 ------------------------------------------------------------------------
-- *dhiṣaṇām* \< *dhiṣaṇā*
+- *dhiṣaṇām* ← *dhiṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
@@ -76,17 +76,17 @@ title = "Rig Veda 10.35.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *svasty* \< *svasti*
+- *svasty* ← *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -96,11 +96,11 @@ title = "Rig Veda 10.35.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhānam* \< *indh*
+- *idhānam* ← *indh*
 - \[verb noun\], accusative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

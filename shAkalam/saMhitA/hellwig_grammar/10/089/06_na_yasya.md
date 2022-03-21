@@ -6,7 +6,7 @@ title = "Rig Veda 10.89.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -18,56 +18,56 @@ title = "Rig Veda 10.89.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanvan*
+- *dhanva* ← *dhanvan*
 - \[noun\], nominative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *nāntarikṣaṃ* \< *na*
+- *nāntarikṣaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāntarikṣaṃ* \< *antarikṣam* \< *antarikṣa*
+- *nāntarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *nādrayaḥ* \< *nā* \< *na*
+- *nādrayaḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nādrayaḥ* \< *adrayaḥ* \< *adri*
+- *nādrayaḥ* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *akṣāḥ* \< *kṣar*
+- *akṣāḥ* ← *kṣar*
 - \[verb\], singular, Root aorist (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *manyur* \< *manyuḥ* \< *manyu*
+- *manyur* ← *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *adhinīyamānaḥ* \< *adhi*
+- *adhinīyamānaḥ* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *adhinīyamānaḥ* \< *nīyamānaḥ* \< *nī*
+- *adhinīyamānaḥ* ← *nīyamānaḥ* ← *nī*
 - \[verb noun\], nominative, singular
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *śṛṇāti* \< *śṛ*
+- *śṛṇāti* ← *śṛ*
 - \[verb\], singular, Present indikative
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 10.89.6"
 - \[noun\], accusative, singular, neuter
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *rujati* \< *ruj*
+- *rujati* ← *ruj*
 - \[verb\], singular, Present indikative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *sthirāṇi* \< *sthira*
+- *sthirāṇi* ← *sthira*
 - \[noun\], accusative, plural, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;

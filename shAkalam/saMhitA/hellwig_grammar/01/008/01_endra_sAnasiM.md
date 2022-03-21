@@ -2,43 +2,43 @@
 title = "Rig Veda 1.8.1"
 
 +++
--   *endra* \< *ā*
+-   *endra* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endra* \< *indra*
+- *endra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sānasiṃ* \< *sānasim* \< *sānasi*
+- *sānasiṃ* ← *sānasim* ← *sānasi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *sajitvānaṃ* \< *sa*
+- *sajitvānaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sajitvānaṃ* \< *jitvānam* \< *jitvan*
+- *sajitvānaṃ* ← *jitvānam* ← *jitvan*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *sadāsaham* \< *sadāsah*
+- *sadāsaham* ← *sadāsah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *varṣiṣṭham* \< *varṣiṣṭha*
+- *varṣiṣṭham* ← *varṣiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “highest.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

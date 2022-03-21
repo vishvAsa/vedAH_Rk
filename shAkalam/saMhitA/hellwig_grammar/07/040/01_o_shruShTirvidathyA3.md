@@ -2,18 +2,18 @@
 title = "Rig Veda 7.40.1"
 
 +++
--   *o* \< *ā*
+-   *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *śruṣṭir* \< *śruṣṭiḥ* \< *śruṣṭi*
+- *śruṣṭir* ← *śruṣṭiḥ* ← *śruṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vidathyā* \< *vidathya*
+- *vidathyā* ← *vidathya*
 - \[noun\], nominative, singular, feminine
 - “wise.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 7.40.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -29,20 +29,20 @@ title = "Rig Veda 7.40.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *dadhīmahi* \< *dhā*
+- *dadhīmahi* ← *dhā*
 - \[verb\], plural, Present optative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *turāṇām* \< *tura*
+- *turāṇām* ← *tura*
 - \[noun\], genitive, plural, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -50,32 +50,32 @@ title = "Rig Veda 7.40.1"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *suvāti* \< *sū*
+- *suvāti* ← *sū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *syāmāsya* \< *syāma* \< *as*
+- *syāmāsya* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *syāmāsya* \< *asya* \< *idam*
+- *syāmāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ratnino* \< *ratninaḥ* \< *ratnin*
+- *ratnino* ← *ratninaḥ* ← *ratnin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vibhāge* \< *vibhāga*
+- *vibhāge* ← *vibhāga*
 - \[noun\], locative, singular, masculine
 - “distinction; direction; part; placement; allotment; section; part;
     rule; distribution; distribution.”

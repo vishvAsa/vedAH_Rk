@@ -2,27 +2,27 @@
 title = "Rig Veda 8.86.5"
 
 +++
--   *ṛtena* \< *ṛta*
+-   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *śamāyata* \< *śamāyate* \< *śamāy*
+- *śamāyata* ← *śamāyate* ← *śamāy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *śṛṅgam* \< *śṛṅga*
+- *śṛṅgam* ← *śṛṅga*
 - \[noun\], nominative, singular, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
@@ -34,15 +34,15 @@ title = "Rig Veda 8.86.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paprathe* \< *prath*
+- *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], nominative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sāsāha* \< *sah*
+- *sāsāha* ← *sah*
 - \[verb\], singular, Perfect indicative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 8.86.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *pṛtanyato* \< *pṛtanyataḥ* \< *pṛtany*
+- *pṛtanyato* ← *pṛtanyataḥ* ← *pṛtany*
 - \[verb noun\], accusative, plural
 - “attack.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 8.86.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -70,15 +70,15 @@ title = "Rig Veda 8.86.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yauṣṭaṃ* \< *yauṣṭam* \< *yu*
+- *yauṣṭaṃ* ← *yauṣṭam* ← *yu*
 - \[verb\], dual, Aorist inj. (proh.)
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *mumocatam* \< *muc*
+- *mumocatam* ← *muc*
 - \[verb\], dual, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;

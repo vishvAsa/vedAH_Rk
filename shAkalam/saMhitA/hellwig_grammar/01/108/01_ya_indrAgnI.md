@@ -2,29 +2,29 @@
 title = "Rig Veda 1.108.1"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *indra*
+- *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *citratamo* \< *citratamaḥ* \< *citratama*
+- *citratamo* ← *citratamaḥ* ← *citratama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -32,61 +32,61 @@ title = "Rig Veda 1.108.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *tenā* \< *tena* \< *tad*
+- *tenā* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tenā* \< *ā*
+- *tenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tasthivāṃsāthā* \< *tasthivāṃsā* \< *sthā*
+- *tasthivāṃsāthā* ← *tasthivāṃsā* ← *sthā*
 - \[verb noun\], nominative, dual
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *tasthivāṃsāthā* \< *athā* \< *atha*
+- *tasthivāṃsāthā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pibataṃ* \< *pibatam* \< *pā*
+- *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------

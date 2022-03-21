@@ -2,25 +2,25 @@
 title = "Rig Veda 8.20.10"
 
 +++
--   *vṛṣaṇaśvena* \< *vṛṣaṇaśva*
+-   *vṛṣaṇaśvena* ← *vṛṣaṇaśva*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vṛṣapsunā* \< *vṛṣapsu*
+- *vṛṣapsunā* ← *vṛṣapsu*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vṛṣanābhinā* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣanābhinā* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣanābhinā* \< *nābhinā* \< *nābhi*
+- *vṛṣanābhinā* ← *nābhinā* ← *nābhi*
 - \[noun\], instrumental, singular, masculine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
@@ -29,7 +29,7 @@ title = "Rig Veda 8.20.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śyenāso* \< *śyenāsaḥ* \< *śyena*
+- *śyenāso* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 8.20.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pakṣiṇo* \< *pakṣiṇaḥ* \< *pakṣin*
+- *pakṣiṇo* ← *pakṣiṇaḥ* ← *pakṣin*
 - \[noun\], nominative, plural, masculine
 - “winged.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 8.20.10"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vītaye* \< *vī*
+- *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *gata* \< *gam*
+- *gata* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

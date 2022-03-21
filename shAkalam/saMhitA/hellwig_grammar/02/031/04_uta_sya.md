@@ -6,39 +6,39 @@ title = "Rig Veda 2.31.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *sakṣaṇis* \< *sakṣaṇiḥ* \< *sakṣaṇi*
+- *sakṣaṇis* ← *sakṣaṇiḥ* ← *sakṣaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *gnābhiḥ* \< *gnā*
+- *gnābhiḥ* ← *gnā*
 - \[noun\], instrumental, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *jūjuvad* \< *jūjuvat* \< *jū*
+- *jūjuvad* ← *jūjuvat* ← *jū*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -46,39 +46,39 @@ title = "Rig Veda 2.31.4"
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *bṛhaddivota* \< *bṛhaddivā* \< *bṛhaddiva*
+- *bṛhaddivota* ← *bṛhaddivā* ← *bṛhaddiva*
 - \[noun\], nominative, singular, masculine
 - “Bṛhaddiva.”
 ------------------------------------------------------------------------
-- *bṛhaddivota* \< *uta*
+- *bṛhaddivota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *purandhir* \< *purandhiḥ* \< *purandhi*
+- *purandhir* ← *purandhiḥ* ← *purandhi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”

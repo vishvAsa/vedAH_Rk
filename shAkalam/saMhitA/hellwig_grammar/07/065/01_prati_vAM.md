@@ -6,69 +6,69 @@ title = "Rig Veda 7.65.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sūra* \< *sūre* \< *sūra*
+- *sūra* ← *sūre* ← *sūra*
 - \[noun\], locative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *udite* \< *udi* \< *√i*
+- *udite* ← *udi* ← *√i*
 - \[verb noun\], locative, singular
 - “rise; originate; rise; increase.”
 ------------------------------------------------------------------------
-- *sūktair* \< *sūktaiḥ* \< *sūkta*
+- *sūktair* ← *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *varuṇam* \< *varuṇa*
+- *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *pūtadakṣam* \< *pūta* \< *pū*
+- *pūtadakṣam* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣam* \< *dakṣam* \< *dakṣa*
+- *pūtadakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *yayor* \< *yayoḥ* \< *yad*
+- *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asuryam* \< *asurya*
+- *asuryam* ← *asurya*
 - \[noun\], nominative, singular, neuter
 - “dignity.”
 ------------------------------------------------------------------------
-- *akṣitaṃ* \< *akṣitam* \< *akṣita*
+- *akṣitaṃ* ← *akṣitam* ← *akṣita*
 - \[noun\], nominative, singular, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------
-- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], nominative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *ācitā* \< *ācit*
+- *ācitā* ← *ācit*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *jigatnu*

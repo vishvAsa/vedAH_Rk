@@ -2,7 +2,7 @@
 title = "Rig Veda 7.68.5"
 
 +++
--   *citraṃ* \< *citram* \< *citra*
+-   *citraṃ* ← *citram* ← *citra*
 - \[noun\], nominative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -12,65 +12,65 @@ title = "Rig Veda 7.68.5"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhojanaṃ* \< *bhojanam* \< *bhojana*
+- *bhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], nominative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *atraye* \< *atri*
+- *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *mahiṣvantaṃ* \< *mahiṣvantam* \< *mahiṣvanta*
+- *mahiṣvantaṃ* ← *mahiṣvantam* ← *mahiṣvanta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yuyotam* \< *yu*
+- *yuyotam* ← *yu*
 - \[verb\], dual, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *omānaṃ* \< *omānam* \< *oman*
+- *omānaṃ* ← *omānam* ← *oman*
 - \[noun\], accusative, singular, masculine
 - “relief; aid.”
 ------------------------------------------------------------------------
-- *dadhate* \< *dhā*
+- *dadhate* ← *dhā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *priyaḥ* \< *priya*
+- *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

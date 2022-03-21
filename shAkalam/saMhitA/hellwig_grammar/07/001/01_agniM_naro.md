@@ -2,17 +2,17 @@
 title = "Rig Veda 7.1.1"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *dīdhitibhir* \< *dīdhitibhiḥ* \< *dīdhiti*
+- *dīdhitibhir* ← *dīdhitibhiḥ* \< *dīdhiti*
 - \[noun\], instrumental, plural, feminine
 - “beam.”
 ------------------------------------------------------------------------

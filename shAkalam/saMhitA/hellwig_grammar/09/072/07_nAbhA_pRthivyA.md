@@ -2,36 +2,36 @@
 title = "Rig Veda 9.72.7"
 
 +++
--   *nābhā* \< *nābhi*
+-   *nābhā* ← *nābhi*
 - \[noun\], locative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *dharuṇo* \< *dharuṇaḥ* \< *dharuṇa*
+- *dharuṇo* ← *dharuṇaḥ* ← *dharuṇa*
 - \[noun\], nominative, singular, masculine
 - “holding; supportive.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *'pām* \< *apām* \< *ap*
+- *'pām* ← *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *ūrmau* \< *ūrmi*
+- *ūrmau* ← *ūrmi*
 - \[noun\], locative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *sindhuṣv* \< *sindhuṣu* \< *sindhu*
+- *sindhuṣv* ← *sindhuṣu* ← *sindhu*
 - \[noun\], locative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -39,36 +39,36 @@ title = "Rig Veda 9.72.7"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ukṣitaḥ* \< *ukṣ*
+- *ukṣitaḥ* ← *ukṣ*
 - \[verb noun\], nominative, singular
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajro* \< *vajraḥ* \< *vajra*
+- *vajro* ← *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vibhūvasuḥ* \< *vibhūvasu*
+- *vibhūvasuḥ* ← *vibhūvasu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *hṛde* \< *hṛd*
+- *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 9.72.7"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *matsaraḥ* \< *matsara*
+- *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------

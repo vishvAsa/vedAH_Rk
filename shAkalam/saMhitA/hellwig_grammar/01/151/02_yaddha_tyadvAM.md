@@ -2,34 +2,34 @@
 title = "Rig Veda 1.151.2"
 
 +++
--   *yaddha* \< *yat*
+-   *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *purumīﾱhasya* \< *purumīḍha*
+- *purumīﾱhasya* ← *purumīḍha*
 - \[noun\], genitive, singular, masculine
 - “Purumīḍha.”
 ------------------------------------------------------------------------
-- *sominaḥ* \< *somin*
+- *sominaḥ* ← *somin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mitrāso* \< *mitrāsaḥ* \< *mitra*
+- *mitrāso* ← *mitrāsaḥ* ← *mitra*
 - \[noun\], nominative, plural, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -37,16 +37,16 @@ title = "Rig Veda 1.151.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *svābhuvaḥ* \< *su*
+- *svābhuvaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svābhuvaḥ* \< *ābhuvaḥ* \< *ābhū*
+- *svābhuvaḥ* ← *ābhuvaḥ* ← *ābhū*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
@@ -54,20 +54,20 @@ title = "Rig Veda 1.151.2"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *vidataṃ* \< *vidatam* \< *vid*
+- *vidataṃ* ← *vidatam* ← *vid*
 - \[verb\], dual, Aorist imperative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *arcata* \< *arcate* \< *arc*
+- *arcata* ← *arcate* ← *arc*
 - \[verb noun\], dative, singular
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -75,14 +75,14 @@ title = "Rig Veda 1.151.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pastyāvataḥ* \< *pastyāvat*
+- *pastyāvataḥ* ← *pastyāvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

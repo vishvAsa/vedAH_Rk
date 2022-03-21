@@ -2,23 +2,23 @@
 title = "Rig Veda 1.110.9"
 
 +++
--   *vājebhir* \< *vājebhiḥ* \< *vāja*
+-   *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājasātāv* \< *vājasātau* \< *vājasāti*
+- *vājasātāv* ← *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *aviḍḍhy* \< *aviḍḍhi* \< *av*
+- *aviḍḍhy* ← *aviḍḍhi* ← *av*
 - \[verb\], singular, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *ṛbhumāṃ* \< *ṛbhumat*
+- *ṛbhumāṃ* ← *ṛbhumat*
 - \[noun\], nominative, singular, masculine
 - “prudent.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 1.110.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *citram* \< *citra*
+- *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -37,42 +37,42 @@ title = "Rig Veda 1.110.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *darṣi* \< *dṛ*
+- *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *māmahantām* \< *mah*
+- *māmahantām* ← *mah*
 - \[verb\], plural, Perfect imperative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *sindhuḥ* \< *sindhu*
+- *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 1.110.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 10.127.2"
 
 +++
--   *orv* \< *ā*
+-   *orv* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *orv* \< *uru*
+- *orv* ← *uru*
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *aprā* \< *aprāḥ* \< *prā*
+- *aprā* ← *aprāḥ* ← *prā*
 - \[verb\], singular, Root aorist (Ind.)
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *amartyā* \< *amartya*
+- *amartyā* ← *amartya*
 - \[noun\], nominative, singular, feminine
 - “immortal.”
 ------------------------------------------------------------------------
-- *nivato* \< *nivataḥ* \< *nivat*
+- *nivato* ← *nivataḥ* \< *nivat*
 - \[noun\], accusative, plural, feminine
 - “depth.”
 ------------------------------------------------------------------------

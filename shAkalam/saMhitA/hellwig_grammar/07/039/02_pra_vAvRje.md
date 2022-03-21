@@ -6,22 +6,22 @@ title = "Rig Veda 7.39.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāvṛje* \< *vṛj*
+- *vāvṛje* ← *vṛj*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *suprayā* \< *su*
+- *suprayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprayā* \< *prayāḥ* \< *prayas*
+- *suprayā* ← *prayāḥ* ← *prayas*
 - \[noun\], nominative, singular, masculine
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -29,57 +29,57 @@ title = "Rig Veda 7.39.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśpatīva* \< *viśpatī* \< *viśpati*
+- *viśpatīva* ← *viśpatī* ← *viśpati*
 - \[noun\], nominative, dual, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *viśpatīva* \< *iva*
+- *viśpatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bīriṭa* \< *bīriṭe* \< *bīriṭa*
+- *bīriṭa* ← *bīriṭe* ← *bīriṭa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *iyāte* \< *i*
+- *iyāte* ← *i*
 - \[verb\], dual, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *aktor* \< *aktoḥ* \< *aktu*
+- *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *pūrvahūtau* \< *pūrva*
+- *pūrvahūtau* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvahūtau* \< *hūtau* \< *hūti*
+- *pūrvahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vāyuḥ* \< *vāyu*
+- *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *niyutvān* \< *niyutvat*
+- *niyutvān* ← *niyutvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

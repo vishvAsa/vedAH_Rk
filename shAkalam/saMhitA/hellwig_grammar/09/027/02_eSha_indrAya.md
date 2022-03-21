@@ -2,25 +2,25 @@
 title = "Rig Veda 9.27.2"
 
 +++
--   *eṣa* \< *eṣaḥ* \< *etad*
+-   *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *svarjit* \< *svar*
+- *svarjit* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarjit* \< *jit*
+- *svarjit* ← *jit*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; victorious; winning.”
 ------------------------------------------------------------------------
@@ -28,19 +28,19 @@ title = "Rig Veda 9.27.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣicyate* \< *sicyate* \< *sic*
+- *ṣicyate* ← *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *dakṣasādhanaḥ* \< *dakṣa*
+- *dakṣasādhanaḥ* ← *dakṣa*
 - \[noun\], masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *dakṣasādhanaḥ* \< *sādhanaḥ* \< *sādhana*
+- *dakṣasādhanaḥ* ← *sādhanaḥ* ← *sādhana*
 - \[noun\], nominative, singular, masculine
 - “effective; performing.”
 ------------------------------------------------------------------------

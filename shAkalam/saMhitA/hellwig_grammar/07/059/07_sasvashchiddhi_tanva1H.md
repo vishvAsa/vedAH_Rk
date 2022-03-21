@@ -2,23 +2,23 @@
 title = "Rig Veda 7.59.7"
 
 +++
--   *sasvaś* \< *sasvar*
+-   *sasvaś* ← *sasvar*
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śumbhamānā* \< *śumbhamānāḥ* \< *śubh*
+- *śumbhamānā* ← *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
@@ -26,38 +26,38 @@ title = "Rig Veda 7.59.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *haṃsāso* \< *haṃsāsaḥ* \< *haṃsa*
+- *haṃsāso* ← *haṃsāsaḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭhā* \< *nīla*
+- *nīlapṛṣṭhā* ← *nīla*
 - \[noun\]
 - “blue; black; black; nīla \[word\]; green.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭhā* \< *pṛṣṭhāḥ* \< *pṛṣṭha*
+- *nīlapṛṣṭhā* ← *pṛṣṭhāḥ* ← *pṛṣṭha*
 - \[noun\], nominative, plural, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *apaptan* \< *pat*
+- *apaptan* ← *pat*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *abhito* \< *abhitas*
+- *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -65,12 +65,12 @@ title = "Rig Veda 7.59.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣeda* \< *seda* \< *sad*
+- *ṣeda* ← *seda* ← *sad*
 - \[verb\], plural, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -78,15 +78,15 @@ title = "Rig Veda 7.59.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raṇvāḥ* \< *raṇva*
+- *raṇvāḥ* ← *raṇva*
 - \[noun\], nominative, plural, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *madantaḥ* \< *mad*
+- *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

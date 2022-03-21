@@ -2,16 +2,16 @@
 title = "Rig Veda 5.1.10"
 
 +++
--   *tubhyam* \< *tvad*
+-   *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bharanti* \< *bhṛ*
+- *bharanti* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *kṣitayo* \< *kṣitayaḥ* \< *kṣiti*
+- *kṣitayo* ← *kṣitayaḥ* ← *kṣiti*
 - \[noun\], nominative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
@@ -20,25 +20,25 @@ title = "Rig Veda 5.1.10"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *balim* \< *bali*
+- *balim* ← *bali*
 - \[noun\], accusative, singular, masculine
 - “sulfur; bali; Bali; tribute; tax; bali \[word\]; Bali.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *antita* \< *antitas*
+- *antita* ← *antitas*
 - \[adverb\]
 - “nearby.”
 ------------------------------------------------------------------------
-- *ota* \< *ā*
+- *ota* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ota* \< *uta*
+- *ota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
@@ -50,15 +50,15 @@ title = "Rig Veda 5.1.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhandiṣṭhasya* \< *bhandiṣṭha*
+- *bhandiṣṭhasya* ← *bhandiṣṭha*
 - \[noun\], genitive, singular, masculine
 - “favored.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *cikiddhi* \< *cit*
+- *cikiddhi* ← *cit*
 - \[verb\], singular, Perfect imperative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 5.1.10"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -81,11 +81,11 @@ title = "Rig Veda 5.1.10"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 5.60.7"
 
 +++
--   *agniś* \< *agniḥ* \< *agni*
+-   *agniś* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -12,33 +12,33 @@ title = "Rig Veda 5.60.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *viśvavedaso* \< *viśva*
+- *viśvavedaso* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedaso* \< *vedasaḥ* \< *vedas*
+- *viśvavedaso* ← *vedasaḥ* ← *vedas*
 - \[noun\], nominative, plural, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vahadhva* \< *vahadhve* \< *vah*
+- *vahadhva* ← *vahadhve* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *uttarād* \< *uttarāt* \< *uttara*
+- *uttarād* ← *uttarāt* ← *uttara*
 - \[noun\], ablative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
@@ -49,41 +49,41 @@ title = "Rig Veda 5.60.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣṇubhiḥ* \< *snubhiḥ* \< *snu*
+- *ṣṇubhiḥ* ← *snubhiḥ* ← *snu*
 - \[noun\], instrumental, plural, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mandasānā* \< *mandasānāḥ* \< *mand*
+- *mandasānā* ← *mandasānāḥ* ← *mand*
 - \[verb noun\], nominative, plural
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *dhunayo* \< *dhunayaḥ* \< *dhuni*
+- *dhunayo* ← *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *riśādaso* \< *riśādasaḥ* \< *riśādas*
+- *riśādaso* ← *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *vāmaṃ* \< *vāmam* \< *vāma*
+- *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *dhatta* \< *dhā*
+- *dhatta* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

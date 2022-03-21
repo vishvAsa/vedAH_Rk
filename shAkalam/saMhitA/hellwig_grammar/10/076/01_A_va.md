@@ -6,39 +6,39 @@ title = "Rig Veda 10.76.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ṛñjasa* \< *ṛñjase* \< *ṛj*
+- *ṛñjasa* ← *ṛñjase* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *ūrjāṃ* \< *ūrjām* \< *ūrjā*
+- *ūrjāṃ* ← *ūrjām* ← *ūrjā*
 - \[noun\], accusative, singular, feminine
 - “refreshment.”
 ------------------------------------------------------------------------
-- *vyuṣṭiṣv* \< *vyuṣṭiṣu* \< *vyuṣṭi*
+- *vyuṣṭiṣv* ← *vyuṣṭiṣu* ← *vyuṣṭi*
 - \[noun\], locative, plural, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *anaktana* \< *añj*
+- *anaktana* ← *añj*
 - \[verb\], plural, Present imperative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -46,30 +46,30 @@ title = "Rig Veda 10.76.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ahanī* \< *ahar*
+- *ahanī* ← *ahar*
 - \[noun\], nominative, dual
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *sacābhuvā* \< *sacābhū*
+- *sacābhuvā* ← *sacābhū*
 - \[noun\], nominative, dual, neuter
 - “ally.”
 ------------------------------------------------------------------------
-- *sadaḥ* \< *sadas*
+- *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *sado* \< *sadaḥ* \< *sadas*
+- *sado* ← *sadaḥ* ← *sadas*
 - \[noun\], accusative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *varivasyāta* \< *varivasyātaḥ* \< *varivasyā*
+- *varivasyāta* ← *varivasyātaḥ* ← *varivasyā*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *udbhidā* \< *\_* \< *√\_*
+- *udbhidā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 6.47.2"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *svādur* \< *svāduḥ* \< *svādu*
+- *svādur* ← *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
@@ -14,47 +14,47 @@ title = "Rig Veda 6.47.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *madiṣṭha* \< *madiṣṭhaḥ* \< *madiṣṭha*
+- *madiṣṭha* ← *madiṣṭhaḥ* ← *madiṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yasyendro* \< *yasya* \< *yad*
+- *yasyendro* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyendro* \< *indraḥ* \< *indra*
+- *yasyendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *vṛtra*
+- *vṛtrahatye* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *hatye* \< *hatya*
+- *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *mamāda* \< *mad*
+- *mamāda* ← *mad*
 - \[verb\], singular, Perfect indicative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cyautnā* \< *cyautna*
+- *cyautnā* ← *cyautna*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *śambarasya* \< *śambara*
+- *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 6.47.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 6.47.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dehyo* \< *dehyaḥ* \< *dehī*
+- *dehyo* ← *dehyaḥ* ← *dehī*
 - \[noun\], accusative, plural, feminine
 - “wall; rampart.”
 ------------------------------------------------------------------------

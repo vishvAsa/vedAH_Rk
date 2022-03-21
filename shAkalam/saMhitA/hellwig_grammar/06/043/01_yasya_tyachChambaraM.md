@@ -2,43 +2,43 @@
 title = "Rig Veda 6.43.1"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tyacchambaram* \< *tyad* \< *tya*
+- *tyacchambaram* ← *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *tyacchambaram* \< *śambaram* \< *śambara*
+- *tyacchambaram* ← *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *divodāsāya* \< *divodāsa*
+- *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *randhayaḥ* \< *randhay* \< *√radh*
+- *randhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 6.43.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

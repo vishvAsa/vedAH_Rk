@@ -2,7 +2,7 @@
 title = "Rig Veda 5.40.6"
 
 +++
--   *svarbhānor* \< *svarbhānoḥ* \< *svarbhānu*
+-   *svarbhānor* ← *svarbhānoḥ* ← *svarbhānu*
 - \[noun\], genitive, singular, masculine
 - “Rahu.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 5.40.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -19,30 +19,30 @@ title = "Rig Veda 5.40.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *māyā* \< *māyāḥ* \< *māyā*
+- *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *avo* \< *avas*
+- *avo* ← *avas*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vartamānā* \< *vartamānāḥ* \< *vṛt*
+- *vartamānā* ← *vartamānāḥ* ← *vṛt*
 - \[verb noun\], accusative, plural
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *avāhan* \< *avahan* \< *√han*
+- *avāhan* ← *avahan* ← *√han*
 - \[verb\], singular, Imperfect
 - “thrash; strike.”
 ------------------------------------------------------------------------
-- *gūﾱhaṃ* \< *gūﾱham* \< *guh*
+- *gūﾱhaṃ* ← *gūﾱham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 4.36.7"
 
 +++
--   *śreṣṭhaṃ* \< *śreṣṭham* \< *śreṣṭha*
+-   *śreṣṭhaṃ* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], nominative, singular, neuter
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *peśo* \< *peśaḥ* \< *peśas*
+- *peśo* ← *peśaḥ* ← *peśas*
 - \[noun\], nominative, singular, neuter
 - “decoration; shape.”
 ------------------------------------------------------------------------
@@ -18,39 +18,39 @@ title = "Rig Veda 4.36.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *darśataṃ* \< *darśatam* \< *darśata*
+- *darśataṃ* ← *darśatam* ← *darśata*
 - \[noun\], nominative, singular, neuter
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhavas* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavas* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jujuṣṭana* \< *juṣ*
+- *jujuṣṭana* ← *juṣ*
 - \[verb\], plural, Perfect imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *dhīrāso* \< *dhīrāsaḥ* \< *dhīra*
+- *dhīrāso* ← *dhīrāsaḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
@@ -58,40 +58,40 @@ title = "Rig Veda 4.36.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣṭhā* \< *as*
+- *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *vipaścitas* \< *vipaścitaḥ* \< *vipaścit*
+- *vipaścitas* ← *vipaścitaḥ* ← *vipaścit*
 - \[noun\], nominative, plural, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *tān* \< *tad*
+- *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vedayāmasi* \< *veday* \< *√vid*
+- *vedayāmasi* ← *veday* ← *√vid*
 - \[verb\], plural, Present indikative
 - “bode.”
 ------------------------------------------------------------------------

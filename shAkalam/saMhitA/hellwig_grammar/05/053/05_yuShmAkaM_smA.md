@@ -2,14 +2,14 @@
 title = "Rig Veda 5.53.5"
 
 +++
--   *yuṣmākaṃ* \< *yuṣmākam* \< *tvad*
+-   *yuṣmākaṃ* ← *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rathāṃ* \< *ratha*
+- *rathāṃ* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -17,36 +17,36 @@ title = "Rig Veda 5.53.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *mude* \< *mud*
+- *mude* ← *mud*
 - \[noun\], dative, singular, feminine
 - “joy; delight.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *jīra*
+- *jīradānavaḥ* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīradānavaḥ* \< *dānavaḥ* \< *dānu*
+- *jīradānavaḥ* ← *dānavaḥ* ← *dānu*
 - \[noun\], nominative, plural, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *vṛṣṭī* \< *vṛṣṭi*
+- *vṛṣṭī* ← *vṛṣṭi*
 - \[noun\], instrumental, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yatīr* \< *yatīḥ* \< *i*
+- *yatīr* ← *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

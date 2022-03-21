@@ -6,26 +6,26 @@ title = "Rig Veda 9.30.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *nṛṣāhyaṃ* \< *nṛṣāhyam* \< *nṛṣāhya*
+- *nṛṣāhyaṃ* ← *nṛṣāhyam* ← *nṛṣāhya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vīravantam* \< *vīravat*
+- *vīravantam* ← *vīravat*
 - \[noun\], accusative, singular, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 9.30.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------

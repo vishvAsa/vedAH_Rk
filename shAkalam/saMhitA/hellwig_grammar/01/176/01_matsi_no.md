@@ -2,43 +2,43 @@
 title = "Rig Veda 1.176.1"
 
 +++
--   *matsi* \< *mad*
+-   *matsi* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasyaiṣṭaya* \< *vasyaiṣṭaye* \< *vasyaiṣṭi*
+- *vasyaiṣṭaya* ← *vasyaiṣṭaye* ← *vasyaiṣṭi*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *viśa* \< *viś*
+- *viśa* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *ṛghāyamāṇa* \< *ṛghāyamāṇaḥ* \< *ṛghāy*
+- *ṛghāyamāṇa* ← *ṛghāyamāṇaḥ* ← *ṛghāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *invasi* \< *inv*
+- *invasi* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *śatrum* \< *śatru*
+- *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 1.176.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vindasi* \< *vid*
+- *vindasi* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

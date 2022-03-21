@@ -2,24 +2,24 @@
 title = "Rig Veda 1.48.2"
 
 +++
--   *aśvāvatīr* \< *aśvāvatīḥ* \< *aśvāvat*
+-   *aśvāvatīr* ← *aśvāvatīḥ* ← *aśvāvat*
 - \[noun\], nominative, plural, feminine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *gomatīr* \< *gomatīḥ* \< *gomat*
+- *gomatīr* ← *gomatīḥ* ← *gomat*
 - \[noun\], nominative, plural, feminine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *viśvasuvido* \< *viśva*
+- *viśvasuvido* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvasuvido* \< *su*
+- *viśvasuvido* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *viśvasuvido* \< *vidaḥ* \< *vid*
+- *viśvasuvido* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, feminine
 - “finding.”
 ------------------------------------------------------------------------
@@ -27,12 +27,12 @@ title = "Rig Veda 1.48.2"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *cyavanta* \< *cyu*
+- *cyavanta* ← *cyu*
 - \[verb\], plural, Present injunctive
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *vastave* \< *vas*
+- *vastave* ← *vas*
 - \[verb noun\]
 - “dawn; shine.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 1.48.2"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īraya* \< *īray* \< *√īr*
+- *īraya* ← *īray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
@@ -49,26 +49,26 @@ title = "Rig Veda 1.48.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūnṛtā* \< *sūnṛta*
+- *sūnṛtā* ← *sūnṛta*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *uṣaś* \< *uṣaḥ* \< *uṣas*
+- *uṣaś* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *coda* \< *cud*
+- *coda* ← *cud*
 - \[verb\], singular, Present imperative
 - “urge; rush.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *maghonām* \< *maghavan*
+- *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------

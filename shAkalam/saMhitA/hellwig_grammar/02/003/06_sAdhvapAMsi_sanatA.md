@@ -2,23 +2,23 @@
 title = "Rig Veda 2.3.6"
 
 +++
--   *sādhv* \< *sādhu*
+-   *sādhv* ← *sādhu*
 - \[noun\], accusative, singular, neuter
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *apāṃsi* \< *apas*
+- *apāṃsi* ← *apas*
 - \[noun\], accusative, plural, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
 - *sanatā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ukṣite* \< *vakṣ*
+- *ukṣite* ← *vakṣ*
 - \[verb noun\], nominative, dual
 - “grow; grow.”
 ------------------------------------------------------------------------
@@ -26,45 +26,45 @@ title = "Rig Veda 2.3.6"
 - \[noun\], nominative, dual, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *vayyeva* \< *vayyā* \< *vayī*
+- *vayyeva* ← *vayyā* ← *vayī*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *vayyeva* \< *iva*
+- *vayyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *raṇvite* \< *raṇvita*
+- *raṇvite* ← *raṇvita*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *tantuṃ* \< *tantum* \< *tantu*
+- *tantuṃ* ← *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *tataṃ* \< *tatam* \< *tan*
+- *tataṃ* ← *tatam* ← *tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *saṃvayantī* \< *saṃve* \< *√ve*
+- *saṃvayantī* ← *saṃve* ← *√ve*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *samīcī* \< *samyañc*
+- *samīcī* ← *samyañc*
 - \[noun\], nominative, dual, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *peśaḥ* \< *peśas*
+- *peśaḥ* ← *peśas*
 - \[noun\], accusative, singular, neuter
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *sudughe* \< *sudughā*
+- *sudughe* ← *sudughā*
 - \[noun\], nominative, dual, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *payasvatī* \< *payasvat*
+- *payasvatī* ← *payasvat*
 - \[noun\], nominative, dual, feminine
 - “sappy; watery; milk(a).”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 7.26.3"
 
 +++
--   *cakāra* \< *kṛ*
+-   *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,13 +13,13 @@ title = "Rig Veda 7.26.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *kṛṇavan* \< *kṛṇavat* \< *kṛ*
+- *kṛṇavan* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,29 +34,29 @@ title = "Rig Veda 7.26.3"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *anyā* \< *anya*
+- *anyā* ← *anya*
 - \[noun\], accusative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *yāni* \< *yad*
+- *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bruvanti* \< *brū*
+- *bruvanti* ← *brū*
 - \[verb\], plural, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *suteṣu* \< *suta*
+- *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *janīr* \< *janīḥ* \< *jani*
+- *janīr* ← *janīḥ* ← *jani*
 - \[noun\], accusative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -64,18 +64,18 @@ title = "Rig Veda 7.26.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ekaḥ* \< *eka*
+- *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *samāno* \< *samānaḥ* \< *samāna*
+- *samāno* ← *samānaḥ* ← *samāna*
 - \[noun\], nominative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
@@ -84,15 +84,15 @@ title = "Rig Veda 7.26.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *māmṛje* \< *mṛj*
+- *māmṛje* ← *mṛj*
 - \[verb\], singular, Perfect indicative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *pura* \< *puraḥ* \< *pur*
+- *pura* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -101,7 +101,7 @@ title = "Rig Veda 7.26.3"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sarvāḥ* \< *sarva*
+- *sarvāḥ* ← *sarva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;

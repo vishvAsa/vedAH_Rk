@@ -6,24 +6,24 @@ title = "Rig Veda 3.30.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *paramā* \< *parama*
+- *paramā* ← *parama*
 - \[noun\], nominative, plural, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *rajāṃsy* \< *rajāṃsi* \< *rajas*
+- *rajāṃsy* ← *rajāṃsi* ← *rajas*
 - \[noun\], nominative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -40,34 +40,34 @@ title = "Rig Veda 3.30.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *harivo* \< *harivas* \< *harivat*
+- *harivo* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *haribhyām* \< *hari*
+- *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *sthirāya* \< *sthira*
+- *sthirāya* ← *sthira*
 - \[noun\], dative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *kṛtemā* \< *kṛtā* \< *kṛ*
+- *kṛtemā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,11 +78,11 @@ title = "Rig Veda 3.30.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtemā* \< *imā* \< *idam*
+- *kṛtemā* ← *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yuktā* \< *yuktāḥ* \< *yuj*
+- *yuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], nominative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -90,15 +90,15 @@ title = "Rig Veda 3.30.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *grāvāṇaḥ* \< *grāvan*
+- *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *samidhāne* \< *samindh* \< *√indh*
+- *samidhāne* ← *samindh* ← *√indh*
 - \[verb noun\], locative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *agnau* \< *agni*
+- *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

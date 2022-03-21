@@ -2,12 +2,12 @@
 title = "Rig Veda 8.32.23"
 
 +++
--   *sūryo* \< *sūryaḥ* \< *sūrya*
+-   *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *raśmiṃ* \< *raśmim* \< *raśmi*
+- *raśmiṃ* ← *raśmim* ← *raśmi*
 - \[noun\], accusative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
@@ -15,33 +15,33 @@ title = "Rig Veda 8.32.23"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *sṛjā* \< *sṛja* \< *sṛj*
+- *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yacchantu* \< *yam*
+- *yacchantu* ← *yam*
 - \[verb\], plural, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *nimnam* \< *nimna*
+- *nimnam* ← *nimna*
 - \[noun\], accusative, singular, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -49,6 +49,6 @@ title = "Rig Veda 8.32.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sadhryak* \< *sadhryañc*
+- *sadhryak* ← *sadhryañc*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------

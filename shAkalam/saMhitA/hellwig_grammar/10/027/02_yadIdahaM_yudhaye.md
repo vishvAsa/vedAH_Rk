@@ -2,71 +2,71 @@
 title = "Rig Veda 10.27.2"
 
 +++
--   *yadīd* \< *yadi*
+-   *yadīd* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *yadīd* \< *id*
+- *yadīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yudhaye* \< *yudh*
+- *yudhaye* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *saṃnayāny* \< *saṃnayāni* \< *saṃnī* \< *√nī*
+- *saṃnayāny* ← *saṃnayāni* ← *saṃnī* ← *√nī*
 - \[verb\], singular, Present imperative
 - “get.”
 ------------------------------------------------------------------------
-- *adevayūn* \< *a*
+- *adevayūn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevayūn* \< *devayūn* \< *devayu*
+- *adevayūn* ← *devayūn* ← *devayu*
 - \[noun\], accusative, plural, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanu*
+- *tanvā* ← *tanu*
 - \[noun\], instrumental, singular, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
-- *śūśujānān* \< *śuj*
+- *śūśujānān* ← *śuj*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *amā*
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tumraṃ* \< *tumram* \< *tumra*
+- *tumraṃ* ← *tumram* ← *tumra*
 - \[noun\], accusative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *pacāni* \< *pac*
+- *pacāni* ← *pac*
 - \[verb\], singular, Present imperative
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *tīvraṃ* \< *tīvram* \< *tīvra*
+- *tīvraṃ* ← *tīvram* ← *tīvra*
 - \[noun\], accusative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *sutam* \< *suta*
+- *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *pañcadaśaṃ* \< *pañcadaśam* \< *pañcadaśa*
+- *pañcadaśaṃ* ← *pañcadaśam* ← *pañcadaśa*
 - \[noun\], accusative, singular, masculine
 - “fifteenth; fifteen.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 10.27.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣiñcam* \< *siñcam* \< *sic*
+- *ṣiñcam* ← *siñcam* ← *sic*
 - \[verb\], singular, Present injunctive
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

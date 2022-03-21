@@ -6,45 +6,45 @@ title = "Rig Veda 10.32.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'cchā* \< *acchā*
+- *'cchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *devayuṣ* \< *devayuḥ* \< *devayu*
+- *devayuṣ* ← *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *padam* \< *pada*
+- *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *rudrebhir* \< *rudrebhiḥ* \< *rudra*
+- *rudrebhir* ← *rudrebhiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *turvaṇiḥ* \< *turvaṇi*
+- *turvaṇiḥ* ← *turvaṇi*
 - \[noun\], nominative, singular, masculine
 - “victorious; overpowering.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 10.32.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yeṣv* \< *yeṣu* \< *yad*
+- *yeṣv* ← *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amṛteṣu* \< *amṛta*
+- *amṛteṣu* ← *amṛta*
 - \[noun\], locative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -76,15 +76,15 @@ title = "Rig Veda 10.32.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūmebhyaḥ* \< *ūma*
+- *ūmebhyaḥ* ← *ūma*
 - \[noun\], dative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
-- *siñcatā* \< *sic*
+- *siñcatā* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

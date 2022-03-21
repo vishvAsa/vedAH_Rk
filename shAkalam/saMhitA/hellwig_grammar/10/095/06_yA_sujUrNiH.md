@@ -2,44 +2,44 @@
 title = "Rig Veda 10.95.6"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sujūrṇiḥ* \< *sujūrṇi*
+- *sujūrṇiḥ* ← *sujūrṇi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śreṇiḥ* \< *śreṇi*
+- *śreṇiḥ* ← *śreṇi*
 - \[noun\], nominative, singular, feminine
 - “club; line.”
 ------------------------------------------------------------------------
-- *sumnaāpir* \< *sumnaāpiḥ* \< *sumnaāpi*
+- *sumnaāpir* ← *sumnaāpiḥ* ← *sumnaāpi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *hradecakṣur* \< *hradecakṣuḥ* \< *hradecakṣus*
+- *hradecakṣur* ← *hradecakṣuḥ* ← *hradecakṣus*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *granthinī* \< *granthin*
+- *granthinī* ← *granthin*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *caraṇyuḥ* \< *caraṇyu*
+- *caraṇyuḥ* ← *caraṇyu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *añjayo* \< *añjayaḥ* \< *añji*
+- *añjayo* ← *añjayaḥ* ← *añji*
 - \[noun\], nominative, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *'ruṇayo* \< *aruṇayaḥ* \< *aruṇa*
+- *'ruṇayo* ← *aruṇayaḥ* ← *aruṇa*
 - \[noun\], nominative, plural, feminine
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
@@ -47,17 +47,17 @@ title = "Rig Veda 10.95.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sasruḥ* \< *sṛ*
+- *sasruḥ* ← *sṛ*
 - \[verb\], plural, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -66,11 +66,11 @@ title = "Rig Veda 10.95.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *'navanta* \< *anavanta* \< *nū*
+- *'navanta* ← *anavanta* ← *nū*
 - \[verb\], plural, Imperfect
 - “praise; shout.”
 ------------------------------------------------------------------------

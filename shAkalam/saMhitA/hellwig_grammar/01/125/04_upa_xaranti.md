@@ -6,18 +6,18 @@ title = "Rig Veda 1.125.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *kṣaranti* \< *kṣar*
+- *kṣaranti* ← *kṣar*
 - \[verb\], plural, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *mayobhuva* \< *mayobhuvaḥ* \< *mayobhu*
+- *mayobhuva* ← *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *ījānaṃ* \< *ījānam* \< *yaj*
+- *ījānaṃ* ← *ījānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 1.125.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yakṣyamāṇaṃ* \< *yakṣyamāṇam* \< *yaj*
+- *yakṣyamāṇaṃ* ← *yakṣyamāṇam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 1.125.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *pṛṇantaṃ* \< *pṛṇantam* \< *pṛṇ*
+- *pṛṇantaṃ* ← *pṛṇantam* ← *pṛṇ*
 - \[verb noun\], accusative, singular
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -45,32 +45,32 @@ title = "Rig Veda 1.125.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *papuriṃ* \< *papurim* \< *papuri*
+- *papuriṃ* ← *papurim* ← *papuri*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- *śravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhāra*
+- *dhārā* ← *dhārāḥ* ← *dhāra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------

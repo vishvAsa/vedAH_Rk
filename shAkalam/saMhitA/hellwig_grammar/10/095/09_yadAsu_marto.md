@@ -2,34 +2,34 @@
 title = "Rig Veda 10.95.9"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *amṛtāsu* \< *amṛta*
+- *amṛtāsu* ← *amṛta*
 - \[noun\], locative, plural, feminine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *nispṛk* \< *nispṛh*
+- *nispṛk* ← *nispṛh*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *kṣoṇībhiḥ* \< *kṣoṇī*
+- *kṣoṇībhiḥ* ← *kṣoṇī*
 - \[noun\], instrumental, plural, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *kratubhir* \< *kratubhiḥ* \< *kratu*
+- *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -38,37 +38,37 @@ title = "Rig Veda 10.95.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛṅkte* \< *pṛc*
+- *pṛṅkte* ← *pṛc*
 - \[verb\], singular, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ātayo* \< *ātayaḥ* \< *āti*
+- *ātayo* ← *ātayaḥ* ← *āti*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śumbhata* \< *śubh*
+- *śumbhata* ← *śubh*
 - \[verb\], plural, Present imperative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *svā* \< *svāḥ* \< *sva*
+- *svā* ← *svāḥ* ← *sva*
 - \[noun\], accusative, plural, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *aśvāso* \< *aśvāsaḥ* \< *aśva*
+- *aśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -76,9 +76,9 @@ title = "Rig Veda 10.95.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *krīḍayo* \< *krīḍayaḥ* \< *krīḍi*
+- *krīḍayo* ← *krīḍayaḥ* ← *krīḍi*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *dandaśānāḥ* \< *dandaś* \< *√daṃś*
+- *dandaśānāḥ* ← *dandaś* ← *√daṃś*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------

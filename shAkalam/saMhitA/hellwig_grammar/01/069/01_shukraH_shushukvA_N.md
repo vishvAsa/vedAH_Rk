@@ -2,15 +2,15 @@
 title = "Rig Veda 1.69.1"
 
 +++
--   *śukraḥ* \< *śukra*
+-   *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śuśukvāṃ* \< *śuc*
+- *śuśukvāṃ* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣ*
+- *uṣo* ← *uṣaḥ* ← *uṣ*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 1.69.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāraḥ* \< *jāra*
+- *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
-- *paprā* \< *prā*
+- *paprā* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *samīcī* \< *samyañc*
+- *samīcī* ← *samyañc*
 - \[noun\], accusative, dual, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 1.69.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jyotiḥ* \< *jyotis*
+- *jyotiḥ* ← *jyotis*
 - \[noun\], nominative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”

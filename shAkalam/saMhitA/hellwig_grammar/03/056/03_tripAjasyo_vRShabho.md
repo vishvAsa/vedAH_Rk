@@ -2,24 +2,24 @@
 title = "Rig Veda 3.56.3"
 
 +++
--   *tripājasyo* \< *tri*
+-   *tripājasyo* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tripājasyo* \< *pājasyaḥ* \< *pājasya*
+- *tripājasyo* ← *pājasyaḥ* ← *pājasya*
 - \[noun\], nominative, singular, masculine
 - “abdomen; belly.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *viśvarūpa* \< *viśva*
+- *viśvarūpa* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvarūpa* \< *rūpaḥ* \< *rūpa*
+- *viśvarūpa* ← *rūpaḥ* ← *rūpa*
 - \[noun\], nominative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
@@ -30,52 +30,52 @@ title = "Rig Veda 3.56.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tryudhā* \< *tri*
+- *tryudhā* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tryudhā* \< *udhā* \< *udhan*
+- *tryudhā* ← *udhā* ← *udhan*
 - \[noun\], nominative, singular, masculine
 - “udder.”
 ------------------------------------------------------------------------
-- *purudha* \< *purudhā*
+- *purudha* ← *purudhā*
 - \[adverb\]
 - “multiply.”
 ------------------------------------------------------------------------
-- *prajāvān* \< *prajāvat*
+- *prajāvān* ← *prajāvat*
 - \[noun\], nominative, singular, masculine
 - “prolific.”
 ------------------------------------------------------------------------
-- *tryanīkaḥ* \< *tri*
+- *tryanīkaḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tryanīkaḥ* \< *anīkaḥ* \< *anīka*
+- *tryanīkaḥ* ← *anīkaḥ* ← *anīka*
 - \[noun\], nominative, singular, masculine
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *patyate* \< *paty*
+- *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *māhināvān* \< *māhināvat*
+- *māhināvān* ← *māhināvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *retodhā* \< *retodhāḥ* \< *retodhā*
+- *retodhā* ← *retodhāḥ* ← *retodhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *śaśvatīnām* \< *śaśvat*
+- *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
 ------------------------------------------------------------------------

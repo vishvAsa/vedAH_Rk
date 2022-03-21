@@ -2,13 +2,13 @@
 title = "Rig Veda 9.97.38"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -16,7 +16,7 @@ title = "Rig Veda 9.97.38"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sūre* \< *sūra*
+- *sūre* ← *sūra*
 - \[noun\], locative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -24,19 +24,19 @@ title = "Rig Veda 9.97.38"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhātobhe* \< *dhātā* \< *dhātṛ*
+- *dhātobhe* ← *dhātā* ← *dhātṛ*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
-- *dhātobhe* \< *ubhe* \< *ubh*
+- *dhātobhe* ← *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *aprā* \< *aprāḥ* \< *prā*
+- *aprā* ← *aprāḥ* ← *prā*
 - \[verb\], singular, Root aorist (Ind.)
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
@@ -44,34 +44,34 @@ title = "Rig Veda 9.97.38"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣa* \< *sa* \< *tad*
+- *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *vṛ*
+- *āvaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *priyasāsa* \< *priyasāsaḥ* \< *priyasa*
+- *priyasāsa* ← *priyasāsaḥ* ← *priyasa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -79,16 +79,16 @@ title = "Rig Veda 9.97.38"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *dhanaṃ* \< *dhanam* \< *dhana*
+- *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *kāriṇe* \< *kārin*
+- *kāriṇe* ← *kārin*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
@@ -99,7 +99,7 @@ title = "Rig Veda 9.97.38"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yaṃsat* \< *yam*
+- *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

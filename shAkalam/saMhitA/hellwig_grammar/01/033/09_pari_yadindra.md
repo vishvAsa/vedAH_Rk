@@ -6,7 +6,7 @@ title = "Rig Veda 1.33.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -15,33 +15,33 @@ title = "Rig Veda 1.33.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *abubhojīr* \< *abubhojīḥ* \< *bhuj*
+- *abubhojīr* ← *abubhojīḥ* ← *bhuj*
 - \[verb\], singular, Plusquamperfect
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *amanyamānāṃ* \< *a*
+- *amanyamānāṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *amanyamānāṃ* \< *manyamānāṃ* \< *man*
+- *amanyamānāṃ* ← *manyamānāṃ* ← *man*
 - \[verb noun\], accusative, plural
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
@@ -51,26 +51,26 @@ title = "Rig Veda 1.33.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *manyamānair* \< *manyamānaiḥ* \< *man*
+- *manyamānair* ← *manyamānaiḥ* ← *man*
 - \[verb noun\], instrumental, plural
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *brahmabhir* \< *brahmabhiḥ* \< *brahman*
+- *brahmabhir* ← *brahmabhiḥ* ← *brahman*
 - \[noun\], instrumental, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *adhamo* \< *adhamaḥ* \< *dham*
+- *adhamo* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *dasyum* \< *dasyu*
+- *dasyum* ← *dasyu*
 - \[noun\], accusative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------

@@ -2,77 +2,77 @@
 title = "Rig Veda 6.18.4"
 
 +++
--   *sad* \< *sat*
+-   *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tuvijātasya* \< *tuvi*
+- *tuvijātasya* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvijātasya* \< *jātasya* \< *jan*
+- *tuvijātasya* ← *jātasya* ← *jan*
 - \[verb noun\], genitive, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *manye* \< *man*
+- *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *sahaḥ* \< *sahas*
+- *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
 - *sahiṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *turatas* \< *turataḥ* \< *tur*
+- *turatas* ← *turataḥ* ← *tur*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *turasya* \< *tura*
+- *turasya* ← *tura*
 - \[noun\], genitive, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], nominative, singular, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ugrasya* \< *ugra*
+- *ugrasya* ← *ugra*
 - \[noun\], genitive, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *tavasas* \< *tavasaḥ* \< *tavas*
+- *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], genitive, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *tavīyo* \< *tavīyaḥ* \< *tavīyas*
+- *tavīyo* ← *tavīyaḥ* ← *tavīyas*
 - \[noun\], nominative, singular, neuter
 - “stronger.”
 ------------------------------------------------------------------------
-- *'radhrasya* \< *aradhrasya* \< *aradhra*
+- *'radhrasya* ← *aradhrasya* ← *aradhra*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *radhraturo* \< *radhraturaḥ* \< *radhratur*
+- *radhraturo* ← *radhraturaḥ* ← *radhratur*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *babhūva* \< *bhū*
+- *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

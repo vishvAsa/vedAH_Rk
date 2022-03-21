@@ -2,68 +2,68 @@
 title = "Rig Veda 1.123.7"
 
 +++
--   *apānyad* \< *apa*
+-   *apānyad* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apānyad* \< *anyat* \< *anya*
+- *apānyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viṣurūpe* \< *viṣurūpa*
+- *viṣurūpe* ← *viṣurūpa*
 - \[noun\], nominative, dual, neuter
 - “different; manifold.”
 ------------------------------------------------------------------------
-- *ahanī* \< *ahar*
+- *ahanī* ← *ahar*
 - \[noun\], nominative, dual, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *carete* \< *car*
+- *carete* ← *car*
 - \[verb\], dual, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *parikṣitos* \< *parikṣitoḥ* \< *parikṣit*
+- *parikṣitos* ← *parikṣitoḥ* ← *parikṣit*
 - \[noun\], genitive, dual, neuter
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *anyā* \< *anya*
+- *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *guhākar* \< *guhā*
+- *guhākar* ← *guhā*
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *guhākar* \< *akaḥ* \< *kṛ*
+- *guhākar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,19 +74,19 @@ title = "Rig Veda 1.123.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *adyaud* \< *adyaut* \< *dyut*
+- *adyaud* ← *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *uṣāḥ* \< *uṣas*
+- *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *śośucatā* \< *śośuc* \< *√śuc*
+- *śośucatā* ← *śośuc* ← *√śuc*
 - \[verb noun\], instrumental, singular
 - “blaze.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

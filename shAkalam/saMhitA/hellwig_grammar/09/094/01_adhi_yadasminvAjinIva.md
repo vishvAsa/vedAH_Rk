@@ -6,35 +6,35 @@ title = "Rig Veda 9.94.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vājinīva* \< *vājini* \< *vājin*
+- *vājinīva* ← *vājini* ← *vājin*
 - \[noun\], locative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājinīva* \< *iva*
+- *vājinīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śubha* \< *śubhaḥ* \< *śubh*
+- *śubha* ← *śubhaḥ* ← *śubh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *spardhante* \< *spṛdh*
+- *spardhante* ← *spṛdh*
 - \[verb\], plural, Present indikative
 - “rival.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *sūrye* \< *sūrya*
+- *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -43,26 +43,26 @@ title = "Rig Veda 9.94.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśaḥ* \< *viś*
+- *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vṛṇānaḥ* \< *vṛ*
+- *vṛṇānaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kavīyan* \< *kavīy*
+- *kavīyan* ← *kavīy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
@@ -71,16 +71,16 @@ title = "Rig Veda 9.94.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *paśuvardhanāya* \< *paśu*
+- *paśuvardhanāya* ← *paśu*
 - \[noun\], masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *paśuvardhanāya* \< *vardhanāya* \< *vardhana*
+- *paśuvardhanāya* ← *vardhanāya* ← *vardhana*
 - \[noun\], dative, singular, neuter
 - “increase; increase.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------

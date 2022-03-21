@@ -2,7 +2,7 @@
 title = "Rig Veda 8.76.4"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 8.76.4"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -26,25 +26,25 @@ title = "Rig Veda 8.76.4"
 - \[noun\], nominative, singular, neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *marutvatā* \< *marutvat*
+- *marutvatā* ← *marutvat*
 - \[noun\], instrumental, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *jitam* \< *ji*
+- *jitam* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------

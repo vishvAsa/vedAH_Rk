@@ -2,43 +2,43 @@
 title = "Rig Veda 7.56.22"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yaddhananta* \< *yat*
+- *yaddhananta* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddhananta* \< *hananta* \< *han*
+- *yaddhananta* ← *hananta* ← *han*
 - \[verb\], plural, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *manyubhir* \< *manyubhiḥ* \< *manyu*
+- *manyubhir* ← *manyubhiḥ* ← *manyu*
 - \[noun\], instrumental, plural, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *janāsaḥ* \< *jana*
+- *janāsaḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *śūrā* \< *śūrāḥ* \< *śūra*
+- *śūrā* ← *śūrāḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *yahvīṣv* \< *yahvīṣu* \< *yahvī*
+- *yahvīṣv* ← *yahvīṣu* ← *yahvī*
 - \[noun\], locative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *oṣadhīṣu* \< *oṣadhī*
+- *oṣadhīṣu* ← *oṣadhī*
 - \[noun\], locative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -46,35 +46,35 @@ title = "Rig Veda 7.56.22"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rudriyāsas* \< *rudriyāsaḥ* \< *rudriya*
+- *rudriyāsas* ← *rudriyāsaḥ* ← *rudriya*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *trātāro* \< *trātāraḥ* \< *trātṛ*
+- *trātāro* ← *trātāraḥ* ← *trātṛ*
 - \[noun\], nominative, plural, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *bhūta* \< *bhū*
+- *bhūta* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *pṛtanāsv* \< *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsv* ← *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

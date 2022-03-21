@@ -2,28 +2,28 @@
 title = "Rig Veda 7.5.6"
 
 +++
--   *tve* \< *tvad*
+-   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asuryaṃ* \< *asuryam* \< *asurya*
+- *asuryaṃ* ← *asuryam* ← *asurya*
 - \[noun\], accusative, singular, neuter
 - “dignity.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], nominative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṛṇvan* \< *ṛch*
+- *ṛṇvan* ← *ṛch*
 - \[verb\], plural, Present injunctive
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -32,44 +32,44 @@ title = "Rig Veda 7.5.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mitramaho* \< *mitra*
+- *mitramaho* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitramaho* \< *mahas* \< *mahat*
+- *mitramaho* ← *mahas* ← *mahat*
 - \[noun\], vocative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyūn* \< *dasyu*
+- *dasyūṃr* ← *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *okaso* \< *okasaḥ* \< *oka*
+- *okaso* ← *okasaḥ* ← *oka*
 - \[noun\], ablative, singular, neuter
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *āja* \< *ājaḥ* \< *aj*
+- *āja* ← *ājaḥ* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------
@@ -77,17 +77,17 @@ title = "Rig Veda 7.5.6"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *janayann* \< *janayan* \< *janay* \< *√jan*
+- *janayann* ← *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *āryāya* \< *ārya*
+- *āryāya* ← *ārya*
 - \[noun\], dative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------

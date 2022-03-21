@@ -2,19 +2,19 @@
 title = "Rig Veda 9.65.15"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madyaṃ* \< *madyam* \< *mad*
+- *madyaṃ* ← *madyam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *rasaṃ* \< *rasam* \< *rasa*
+- *rasaṃ* ← *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -22,33 +22,33 @@ title = "Rig Veda 9.65.15"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *tīvraṃ* \< *tīvram* \< *tīvra*
+- *tīvraṃ* ← *tīvram* ← *tīvra*
 - \[noun\], accusative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *duhanty* \< *duhanti* \< *duh*
+- *duhanty* ← *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pavasvābhimātihā* \< *pavasva* \< *pū*
+- *pavasvābhimātihā* ← *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pavasvābhimātihā* \< *abhimāti*
+- *pavasvābhimātihā* ← *abhimāti*
 - \[noun\], feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *pavasvābhimātihā* \< *hā* \< *han*
+- *pavasvābhimātihā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------

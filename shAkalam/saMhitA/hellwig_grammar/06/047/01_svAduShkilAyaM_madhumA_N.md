@@ -2,74 +2,74 @@
 title = "Rig Veda 6.47.1"
 
 +++
--   *svāduṣ* \< *svāduḥ* \< *svādu*
+-   *svāduṣ* ← *svāduḥ* ← *svādu*
 - \[noun\], nominative, singular, masculine
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *kilāyam* \< *kila*
+- *kilāyam* ← *kila*
 - \[adverb\]
 - “assuredly; indeed; kila \[indecl.\].”
 ------------------------------------------------------------------------
-- *kilāyam* \< *ayam* \< *idam*
+- *kilāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *madhumāṃ* \< *madhumat*
+- *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *utāyaṃ* \< *uta*
+- *utāyaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāyaṃ* \< *ayam* \< *idam*
+- *utāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tīvraḥ* \< *tīvra*
+- *tīvraḥ* ← *tīvra*
 - \[noun\], nominative, singular, masculine
 - “intense; severe; pungent; acute; potent; loud.”
 ------------------------------------------------------------------------
-- *kilāyaṃ* \< *kila*
+- *kilāyaṃ* ← *kila*
 - \[adverb\]
 - “assuredly; indeed; kila \[indecl.\].”
 ------------------------------------------------------------------------
-- *kilāyaṃ* \< *ayam* \< *idam*
+- *kilāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rasavāṃ* \< *rasavat*
+- *rasavāṃ* ← *rasavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *utāyam* \< *uta*
+- *utāyam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāyam* \< *ayam* \< *idam*
+- *utāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *papivāṃsam* \< *pā*
+- *papivāṃsam* ← *pā*
 - \[verb noun\], accusative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -82,11 +82,11 @@ title = "Rig Veda 6.47.1"
 - \[noun\], nominative, singular, masculine
 - “some(a); any(a); some(a); any(a).”
 ------------------------------------------------------------------------
-- *sahata* \< *sahate* \< *sah*
+- *sahata* ← *sahate* ← *sah*
 - \[verb\], singular, Present indikative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *āhaveṣu* \< *āhava*
+- *āhaveṣu* ← *āhava*
 - \[noun\], locative, plural, masculine
 - “battle; fight; challenge; war.”
 ------------------------------------------------------------------------

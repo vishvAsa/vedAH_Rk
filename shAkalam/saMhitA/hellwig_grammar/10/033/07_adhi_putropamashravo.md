@@ -6,40 +6,40 @@ title = "Rig Veda 10.33.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *putropamaśravo* \< *putra*
+- *putropamaśravo* ← *putra*
 - \[noun\], vocative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *putropamaśravo* \< *upamaśravaḥ* \< *upamaśravas*
+- *putropamaśravo* ← *upamaśravaḥ* ← *upamaśravas*
 - \[noun\], vocative, singular, masculine
 - “Upamaśravas.”
 ------------------------------------------------------------------------
-- *napān* \< *napāt*
+- *napān* ← *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *mitrātither* \< *mitrātitheḥ* \< *mitrātithi*
+- *mitrātither* ← *mitrātitheḥ* ← *mitrātithi*
 - \[noun\], genitive, singular, masculine
 - “Mitrātithi.”
 ------------------------------------------------------------------------
-- *ihi* \< *i*
+- *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pituṣ* \< *pituḥ* \< *pitṛ*
+- *pituṣ* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ṭe* \< *te* \< *tvad*
+- *ṭe* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vanditā* \< *vanditṛ*
+- *vanditā* ← *vanditṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

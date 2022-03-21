@@ -2,42 +2,42 @@
 title = "Rig Veda 5.47.7"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *yor* \< *yoḥ* \< *yos*
+- *yor* ← *yoḥ* ← *yos*
 - \[noun\], nominative, singular, neuter
 - “fortune.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -45,21 +45,21 @@ title = "Rig Veda 5.47.7"
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *śastam* \< *śaṃs*
+- *śastam* ← *śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *aśīmahi* \< *aś*
+- *aśīmahi* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *gādham* \< *gādha*
+- *gādham* ← *gādha*
 - \[noun\], accusative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
@@ -67,24 +67,24 @@ title = "Rig Veda 5.47.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *pratiṣṭhāṃ* \< *pratiṣṭhām* \< *pratiṣṭhā*
+- *pratiṣṭhāṃ* ← *pratiṣṭhām* ← *pratiṣṭhā*
 - \[noun\], accusative, singular, feminine
 - “foundation; base; fame; consecration; location.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *dive* \< *div*
+- *dive* ← *div*
 - \[noun\], dative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *bṛhate* \< *bṛhat*
+- *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *sādanāya* \< *sādana*
+- *sādanāya* ← *sādana*
 - \[noun\], dative, singular, neuter
 - “home; dwelling; seat.”
 ------------------------------------------------------------------------

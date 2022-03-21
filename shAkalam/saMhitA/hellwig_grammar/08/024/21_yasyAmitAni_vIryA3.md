@@ -2,15 +2,15 @@
 title = "Rig Veda 8.24.21"
 
 +++
--   *yasyāmitāni* \< *yasya* \< *yad*
+-   *yasyāmitāni* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāmitāni* \< *amitāni* \< *amita*
+- *yasyāmitāni* ← *amitāni* ← *amita*
 - \[noun\], nominative, plural, neuter
 - “infinite; illimitable; countless.”
 ------------------------------------------------------------------------
-- *vīryā* \< *vīrya*
+- *vīryā* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -20,15 +20,15 @@ title = "Rig Veda 8.24.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *paryetave* \< *parī* \< *√i*
+- *paryetave* ← *parī* ← *√i*
 - \[verb noun\]
 - “circumambulate; wander; revolve; overwhelm.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], nominative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
@@ -37,16 +37,16 @@ title = "Rig Veda 8.24.21"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

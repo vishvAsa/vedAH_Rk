@@ -6,12 +6,12 @@ title = "Rig Veda 9.20.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *devavītaye* \< *deva*
+- *devavītaye* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

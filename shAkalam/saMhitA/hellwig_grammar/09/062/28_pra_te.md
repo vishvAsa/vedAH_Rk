@@ -6,11 +6,11 @@ title = "Rig Veda 9.62.28"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 9.62.28"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣṭayo* \< *vṛṣṭayaḥ* \< *vṛṣṭi*
+- *vṛṣṭayo* ← *vṛṣṭayaḥ* ← *vṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *yanty* \< *yanti* \< *i*
+- *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *asaścataḥ* \< *asaścat*
+- *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, feminine
 - “inexhaustible.”
 ------------------------------------------------------------------------
@@ -38,10 +38,10 @@ title = "Rig Veda 9.62.28"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śukrām* \< *śukra*
+- *śukrām* ← *śukra*
 - \[noun\], accusative, singular, feminine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *upastiram* \< *upastir*
+- *upastiram* ← *upastir*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

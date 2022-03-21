@@ -2,10 +2,10 @@
 title = "Rig Veda 1.10.7"
 
 +++
--   *suvivṛtaṃ* \< *suvivṛtam* \< *suvivṛt*
+-   *suvivṛtaṃ* ← *suvivṛtam* ← *suvivṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sunirajam* \< *suniraja*
+- *sunirajam* ← *suniraja*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -13,18 +13,18 @@ title = "Rig Veda 1.10.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvādātam* \< *tvādāta*
+- *tvādātam* ← *tvādāta*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yaśaḥ* \< *yaśas*
+- *yaśaḥ* ← *yaśas*
 - \[noun\], nominative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -33,17 +33,17 @@ title = "Rig Veda 1.10.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *vṛdhi* \< *vṛ*
+- *vṛdhi* ← *vṛ*
 - \[verb\], singular, Aorist imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,11 +54,11 @@ title = "Rig Veda 1.10.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------

@@ -6,46 +6,46 @@ title = "Rig Veda 5.45.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *yātu* \< *yā*
+- *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *saptāśvaḥ* \< *sapta* \< *saptan*
+- *saptāśvaḥ* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptāśvaḥ* \< *aśvaḥ* \< *aśva*
+- *saptāśvaḥ* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *kṣetraṃ* \< *kṣetram* \< *kṣetra*
+- *kṣetraṃ* ← *kṣetram* ← *kṣetra*
 - \[noun\], accusative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asyorviyā* \< *asya* \< *idam*
+- *asyorviyā* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyorviyā* \< *urviyā*
+- *asyorviyā* ← *urviyā*
 - \[adverb\]
 - “wide; widely.”
 ------------------------------------------------------------------------
-- *dīrghayāthe* \< *dīrgha*
+- *dīrghayāthe* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghayāthe* \< *yāthe* \< *yātha*
+- *dīrghayāthe* ← *yāthe* \< *yātha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *raghuḥ* \< *raghu*

@@ -2,15 +2,15 @@
 title = "Rig Veda 6.70.6"
 
 +++
--   *ūrjaṃ* \< *ūrjam* \< *ūrj*
+-   *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dyauś* \< *dyauḥ* \< *div*
+- *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -26,65 +26,65 @@ title = "Rig Veda 6.70.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pinvatām* \< *pinv*
+- *pinvatām* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *viśvavidā* \< *viśva*
+- *viśvavidā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavidā* \< *vidā* \< *vid*
+- *viśvavidā* ← *vidā* ← *vid*
 - \[noun\], nominative, dual, feminine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *sudaṃsasā* \< *su*
+- *sudaṃsasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudaṃsasā* \< *daṃsasā* \< *daṃsas*
+- *sudaṃsasā* ← *daṃsasā* ← *daṃsas*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *saṃrarāṇe* \< *saṃrā* \< *√rā*
+- *saṃrarāṇe* ← *saṃrā* ← *√rā*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
 - *rodasī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *viśvaśambhuvā* \< *viśva*
+- *viśvaśambhuvā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaśambhuvā* \< *śambhuvā* \< *śambhu*
+- *viśvaśambhuvā* ← *śambhuvā* ← *śambhu*
 - \[noun\], nominative, dual, feminine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
-- *saniṃ* \< *sanim* \< *sani*
+- *saniṃ* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 - “gain.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -92,7 +92,7 @@ title = "Rig Veda 6.70.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *invatām* \< *inv*
+- *invatām* ← *inv*
 - \[verb\], dual, Present imperative
 - “bring; drive.”
 ------------------------------------------------------------------------

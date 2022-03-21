@@ -2,47 +2,47 @@
 title = "Rig Veda 9.91.1"
 
 +++
--   *asarji* \< *sṛj*
+-   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vakvā* \< *vakvan*
+- *vakvā* ← *vakvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rathye* \< *rathya*
+- *rathye* ← *rathya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yathājau* \< *yathā*
+- *yathājau* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathājau* \< *ājau* \< *āji*
+- *yathājau* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *manotā* \< *manotṛ*
+- *manotā* ← *manotṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *prathamo* \< *prathamaḥ* \< *prathama*
+- *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *manīṣī* \< *manīṣin*
+- *manīṣī* ← *manīṣin*
 - \[noun\], nominative, singular, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *svasāro* \< *svasāraḥ* \< *svasṛ*
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
@@ -50,29 +50,29 @@ title = "Rig Veda 9.91.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *'janti* \< *ajanti* \< *aj*
+- *'janti* ← *ajanti* ← *aj*
 - \[verb\], plural, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *vahniṃ* \< *vahnim* \< *vahni*
+- *vahniṃ* ← *vahnim* ← *vahni*
 - \[noun\], accusative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *sadanāny* \< *sadanāni* \< *sadana*
+- *sadanāny* ← *sadanāni* ← *sadana*
 - \[noun\], accusative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.80.9"
 
 +++
--   *sahasraṃ* \< *sahasram* \< *sahasra*
+-   *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.80.9"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *arcata* \< *arc*
+- *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -18,44 +18,44 @@ title = "Rig Veda 1.80.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṭobhata* \< *stubh*
+- *ṣṭobhata* ← *stubh*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *viṃśatiḥ* \< *viṃśati*
+- *viṃśatiḥ* ← *viṃśati*
 - \[noun\], nominative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *śatainam* \< *śatā* \< *śata*
+- *śatainam* ← *śatā* ← *śata*
 - \[noun\], nominative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatainam* \< *enam* \< *enad*
+- *śatainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *anonavur* \< *anonavuḥ* \< *nonāv* \< *√nū*
+- *anonavur* ← *anonavuḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Imperfect
 - “bellow.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmodyatam* \< *brahma* \< *brahman*
+- *brahmodyatam* ← *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmodyatam* \< *udyatam* \< *udyam* \< *√yam*
+- *brahmodyatam* ← *udyatam* ← *udyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “raise; prepare; begin; endeavor; specialize.”
 ------------------------------------------------------------------------
-- *arcann* \< *arcan* \< *arc*
+- *arcann* ← *arcan* ← *arc*
 - \[verb\], plural, Present injunctive
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -63,12 +63,12 @@ title = "Rig Veda 1.80.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *sva*
+- *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *rājyam* \< *rājya*
+- *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------

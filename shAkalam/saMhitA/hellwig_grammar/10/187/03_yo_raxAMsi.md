@@ -2,42 +2,42 @@
 title = "Rig Veda 10.187.3"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rakṣāṃsi* \< *rakṣas*
+- *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *nijūrvati* \< *nijūrv* \< *√jūrv*
+- *nijūrvati* ← *nijūrv* ← *√jūrv*
 - \[verb\], singular, Present indikative
 - “burn.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣa*
+- *vṛṣā* ← *vṛṣa*
 - \[noun\], vocative, dual, masculine
 - “bull; vṛṣa \[word\]; vṛṣ; Justicia gendarussa Burm.F.; bull;
     Taurus; bull.”
 ------------------------------------------------------------------------
-- *śukreṇa* \< *śukra*
+- *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *parṣad* \< *parṣat* \< *pṛ*
+- *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 10.187.3"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dviṣaḥ* \< *dviṣ*
+- *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------

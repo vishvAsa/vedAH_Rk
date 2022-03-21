@@ -2,7 +2,7 @@
 title = "Rig Veda 8.74.10"
 
 +++
--   *aśvam* \< *aśva*
+-   *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 8.74.10"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *gāṃ* \< *gām* \< *go*
+- *gāṃ* ← *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *rathaprāṃ* \< *ratha*
+- *rathaprāṃ* ← *ratha*
 - \[noun\], masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathaprāṃ* \< *prām* \< *prā*
+- *rathaprāṃ* ← *prām* ← *prā*
 - \[noun\], accusative, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *tveṣam* \< *tveṣa*
+- *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -36,38 +36,38 @@ title = "Rig Veda 8.74.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satpatim* \< *sat*
+- *satpatim* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatim* \< *patim* \< *pati*
+- *satpatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śravāṃsi* \< *śravas*
+- *śravāṃsi* ← *śravas*
 - \[noun\], accusative, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *tūrvatha* \< *tūrv*
+- *tūrvatha* ← *tūrv*
 - \[verb\], plural, Present indikative
 - “overpower.”
 ------------------------------------------------------------------------
-- *panyaṃ* \< *panyam* \< *panya*
+- *panyaṃ* ← *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *panyaṃ* \< *panyam* \< *panya*
+- *panyaṃ* ← *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------

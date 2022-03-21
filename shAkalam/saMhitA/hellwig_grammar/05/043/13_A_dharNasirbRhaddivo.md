@@ -6,44 +6,44 @@ title = "Rig Veda 5.43.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dharṇasir* \< *dharṇasiḥ* \< *dharṇasi*
+- *dharṇasir* ← *dharṇasiḥ* ← *dharṇasi*
 - \[noun\], nominative, singular, masculine
 - “permanent; firm.”
 ------------------------------------------------------------------------
-- *bṛhaddivo* \< *bṛhat*
+- *bṛhaddivo* ← *bṛhat*
 - \[noun\]
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhaddivo* \< *divaḥ* \< *diva*
+- *bṛhaddivo* ← *divaḥ* ← *diva*
 - \[noun\], nominative, singular, masculine
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *rarāṇo* \< *rarāṇaḥ* \< *rā*
+- *rarāṇo* ← *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *viśvebhir* \< *viśvebhiḥ* \< *viśva*
+- *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *gantv* \< *gantu* \< *gam*
+- *gantv* ← *gantu* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *omabhir* \< *omabhiḥ* \< *oman*
+- *omabhir* ← *omabhiḥ* ← *oman*
 - \[noun\], instrumental, plural, masculine
 - “relief; aid.”
 ------------------------------------------------------------------------
-- *huvānaḥ* \< *hvā*
+- *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *gnā* \< *gnāḥ* \< *gnā*
+- *gnā* ← *gnāḥ* \< *gnā*
 - \[noun\], accusative, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------

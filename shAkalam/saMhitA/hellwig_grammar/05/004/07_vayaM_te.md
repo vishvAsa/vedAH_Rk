@@ -2,33 +2,33 @@
 title = "Rig Veda 5.4.7"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *vidhema* \< *vidh*
+- *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havyaiḥ* \< *havya*
+- *havyaiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
@@ -37,29 +37,29 @@ title = "Rig Veda 5.4.7"
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *bhadraśoce* \< *bhadra*
+- *bhadraśoce* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadraśoce* \< *śoce* \< *śoci*
+- *bhadraśoce* ← *śoce* ← *śoci*
 - \[noun\], vocative, singular, masculine
 - “fire.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *viśvavāraṃ* \< *viśva*
+- *viśvavāraṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavāraṃ* \< *vāram* \< *vāra*
+- *viśvavāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
@@ -67,24 +67,24 @@ title = "Rig Veda 5.4.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *invāsme* \< *inva* \< *inv*
+- *invāsme* ← *inva* ← *inv*
 - \[verb\], singular, Present imperative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *invāsme* \< *asme* \< *mad*
+- *invāsme* ← *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *draviṇāni* \< *draviṇa*
+- *draviṇāni* ← *draviṇa*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

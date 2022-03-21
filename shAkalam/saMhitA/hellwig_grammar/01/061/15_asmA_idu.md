@@ -2,7 +2,7 @@
 title = "Rig Veda 1.61.15"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.61.15"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
@@ -22,67 +22,67 @@ title = "Rig Veda 1.61.15"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dāyy* \< *dāyi* \< *dā*
+- *dāyy* ← *dāyi* ← *dā*
 - \[verb\], singular, Aorist passive
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vavne* \< *van*
+- *vavne* ← *van*
 - \[verb\], singular, Perfect indicative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *bhūrer* \< *bhūreḥ* \< *bhūri*
+- *bhūrer* ← *bhūreḥ* ← *bhūri*
 - \[noun\], genitive, singular, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *īśānaḥ* \< *īś*
+- *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *praitaśaṃ* \< *pra*
+- *praitaśaṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *praitaśaṃ* \< *etaśam* \< *etaśa*
+- *praitaśaṃ* ← *etaśam* ← *etaśa*
 - \[noun\], accusative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *sūrye* \< *sūrya*
+- *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *paspṛdhānaṃ* \< *paspṛdhānam* \< *spṛdh*
+- *paspṛdhānaṃ* ← *paspṛdhānam* ← *spṛdh*
 - \[verb noun\], accusative, singular
 - “rival.”
 ------------------------------------------------------------------------
-- *sauvaśvye* \< *sauvaśvya*
+- *sauvaśvye* ← *sauvaśvya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *suṣvim* \< *suṣvi*
+- *suṣvim* ← *suṣvi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āvad* \< *āvat* \< *av*
+- *āvad* ← *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

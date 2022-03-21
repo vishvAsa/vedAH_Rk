@@ -2,11 +2,11 @@
 title = "Rig Veda 8.93.17"
 
 +++
--   *ayā* \< *idam*
+-   *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -15,7 +15,7 @@ title = "Rig Veda 8.93.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gavyayā* \< *gavyā*
+- *gavyayā* ← *gavyā*
 - \[noun\], instrumental, singular, feminine
 - “gorocanā.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 8.93.17"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *soma* \< *some* \< *soma*
+- *soma* ← *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ābhavaḥ* \< *ābhū* \< *√bhū*
+- *ābhavaḥ* ← *ābhū* ← *√bhū*
 - \[verb\], singular, Imperfect
 - “originate.”
 ------------------------------------------------------------------------

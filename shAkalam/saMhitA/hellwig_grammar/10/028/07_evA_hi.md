@@ -2,7 +2,7 @@
 title = "Rig Veda 10.28.7"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
@@ -11,21 +11,21 @@ title = "Rig Veda 10.28.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *māṃ* \< *mām* \< *mad*
+- *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tavasaṃ* \< *tavasam* \< *tavas*
+- *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *jajñur* \< *jajñuḥ* \< *jñā*
+- *jajñur* ← *jajñuḥ* ← *jñā*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
@@ -46,7 +46,7 @@ title = "Rig Veda 10.28.7"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -55,46 +55,46 @@ title = "Rig Veda 10.28.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vadhīṃ* \< *vadhīm* \< *vadh*
+- *vadhīṃ* ← *vadhīm* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *mandasāno* \< *mandasānaḥ* \< *mand*
+- *mandasāno* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *'pa* \< *apa*
+- *'pa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vrajam* \< *vraja*
+- *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahi*
+- *mahinā* ← *mahi*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *vam* \< *vṛ*
+- *vam* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

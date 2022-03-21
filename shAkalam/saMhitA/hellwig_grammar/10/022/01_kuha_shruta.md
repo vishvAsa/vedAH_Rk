@@ -6,16 +6,16 @@ title = "Rig Veda 10.22.1"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *śruta* \< *śrutaḥ* \< *śru*
+- *śruta* ← *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kasminn* \< *kasmin* \< *ka*
+- *kasminn* ← *kasmin* ← *ka*
 - \[noun\], locative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -23,12 +23,12 @@ title = "Rig Veda 10.22.1"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------

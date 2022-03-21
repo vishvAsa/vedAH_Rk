@@ -2,29 +2,29 @@
 title = "Rig Veda 4.32.11"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *vedhaso* \< *vedhasaḥ* \< *vedhas*
+- *vedhaso* ← *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *yāni* \< *yad*
+- *yāni* ← *yad*
 - \[noun\], accusative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,11 +35,11 @@ title = "Rig Veda 4.32.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pauṃsyā* \< *pauṃsya*
+- *pauṃsyā* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *suteṣv* \< *suteṣu* \< *suta*
+- *suteṣv* ← *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -48,6 +48,6 @@ title = "Rig Veda 4.32.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

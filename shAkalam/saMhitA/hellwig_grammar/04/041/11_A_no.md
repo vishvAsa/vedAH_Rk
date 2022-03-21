@@ -6,21 +6,21 @@ title = "Rig Veda 4.41.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bṛhantā* \< *bṛhat*
+- *bṛhantā* ← *bṛhat*
 - \[noun\], nominative, dual, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhatībhir* \< *bṛhatībhiḥ* \< *bṛhat*
+- *bṛhatībhir* ← *bṛhatībhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 4.41.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -39,45 +39,45 @@ title = "Rig Veda 4.41.11"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *vājasātau* \< *vājasāti*
+- *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *didyavaḥ* \< *didyu*
+- *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *prakrīﾱān* \< *prakrīḍān* \< *prakrīḍ* \< *√krīḍ*
+- *prakrīﾱān* ← *prakrīḍān* ← *prakrīḍ* ← *√krīḍ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sanitāra* \< *sanitāraḥ* \< *san*
+- *sanitāra* ← *sanitāraḥ* ← *san*
 - \[verb\], plural, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *ājeḥ* \< *āji*
+- *ājeḥ* ← *āji*
 - \[noun\], genitive, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------

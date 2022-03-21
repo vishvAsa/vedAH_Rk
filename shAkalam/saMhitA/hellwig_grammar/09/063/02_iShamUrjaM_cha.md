@@ -2,11 +2,11 @@
 title = "Rig Veda 9.63.2"
 
 +++
--   *iṣam* \< *iṣ*
+-   *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 9.63.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pinvasa* \< *pinvase* \< *pinv*
+- *pinvasa* ← *pinvase* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *matsarintamaḥ* \< *matsarintama*
+- *matsarintamaḥ* ← *matsarintama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *camūṣv* \< *camūṣu* \< *camū*
+- *camūṣv* ← *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 9.63.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdasi* \< *sīdasi* \< *sad*
+- *ṣīdasi* ← *sīdasi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

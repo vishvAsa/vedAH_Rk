@@ -2,45 +2,45 @@
 title = "Rig Veda 1.38.4"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pṛśnimātaro* \< *pṛśni*
+- *pṛśnimātaro* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *pṛśnimātaro* \< *mātaraḥ* \< *mātṛ*
+- *pṛśnimātaro* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *martāsaḥ* \< *marta*
+- *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *syātana* \< *as*
+- *syātana* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *stotā* \< *stotṛ*
+- *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *amṛtaḥ* \< *amṛta*
+- *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *syāt* \< *as*
+- *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

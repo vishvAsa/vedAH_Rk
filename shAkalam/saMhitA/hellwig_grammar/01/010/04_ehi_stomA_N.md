@@ -2,11 +2,11 @@
 title = "Rig Veda 1.10.4"
 
 +++
--   *ehi* \< *e* \< *√i*
+-   *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *stomāṃ* \< *stoma*
+- *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 1.10.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *svarābhi* \< *svara* \< *svar*
+- *svarābhi* ← *svara* ← *svar*
 - \[verb\], singular, Present imperative
 - “sing.”
 ------------------------------------------------------------------------
-- *svarābhi* \< *abhi*
+- *svarābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇīhy* \< *gṛṇīhi* \< *gṛ*
+- *gṛṇīhy* ← *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 1.10.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ruva* \< *ru*
+- *ruva* ← *ru*
 - \[verb\], singular, Present imperative
 - “bellow; howl.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -43,24 +43,24 @@ title = "Rig Veda 1.10.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *sacendra* \< *sacā*
+- *sacendra* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacendra* \< *indra*
+- *sacendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 1.10.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------

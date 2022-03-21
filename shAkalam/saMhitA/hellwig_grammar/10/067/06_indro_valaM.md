@@ -2,28 +2,28 @@
 title = "Rig Veda 10.67.6"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *valaṃ* \< *valam* \< *vala*
+- *valaṃ* ← *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *rakṣitāraṃ* \< *rakṣitāram* \< *rakṣitṛ*
+- *rakṣitāraṃ* ← *rakṣitāram* ← *rakṣitṛ*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *dughānāṃ* \< *dughānām* \< *dughā*
+- *dughānāṃ* ← *dughānām* ← *dughā*
 - \[noun\], genitive, plural, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *kareṇeva* \< *kareṇa* \< *kara*
+- *kareṇeva* ← *kareṇa* ← *kara*
 - \[noun\], instrumental, singular, masculine
 - “hand; proboscis; two; hand; Kara; act.”
 ------------------------------------------------------------------------
-- *kareṇeva* \< *iva*
+- *kareṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -31,35 +31,35 @@ title = "Rig Veda 10.67.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakartā* \< *kṛt*
+- *cakartā* ← *kṛt*
 - \[verb\], singular, Perfect indicative
 - “cut; cut; cut off; fell; cut.”
 ------------------------------------------------------------------------
-- *raveṇa* \< *rava*
+- *raveṇa* ← *rava*
 - \[noun\], instrumental, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
 ------------------------------------------------------------------------
-- *svedāñjibhir* \< *sveda*
+- *svedāñjibhir* ← *sveda*
 - \[noun\], masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
 ------------------------------------------------------------------------
-- *svedāñjibhir* \< *añjibhiḥ* \< *añji*
+- *svedāñjibhir* ← *añjibhiḥ* ← *añji*
 - \[noun\], instrumental, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *āśiram* \< *āśir*
+- *āśiram* ← *āśir*
 - \[noun\], accusative, singular, feminine
 - “mixture.”
 ------------------------------------------------------------------------
-- *icchamāno* \< *icchamānaḥ* \< *iṣ*
+- *icchamāno* ← *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *'rodayat* \< *arodayat* \< *roday* \< *√rud*
+- *'rodayat* ← *arodayat* ← *roday* ← *√rud*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *paṇim* \< *paṇi*
+- *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
@@ -67,12 +67,12 @@ title = "Rig Veda 10.67.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *amuṣṇāt* \< *muṣ*
+- *amuṣṇāt* ← *muṣ*
 - \[verb\], singular, Imperfect
 - “rob; remove; steal.”
 ------------------------------------------------------------------------

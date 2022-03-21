@@ -2,7 +2,7 @@
 title = "Rig Veda 8.6.20"
 
 +++
--   *yā* \< *yāḥ* \< *yad*
+-   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,25 +11,25 @@ title = "Rig Veda 8.6.20"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prasvas* \< *prasvaḥ* \< *prasū*
+- *prasvas* ← *prasvaḥ* ← *prasū*
 - \[noun\], nominative, plural, feminine
 - “mother; grass.”
 ------------------------------------------------------------------------
-- *tvāsā* \< *tvā* \< *tvad*
+- *tvāsā* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāsā* \< *āsā* \< *ās*
+- *tvāsā* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *garbham* \< *garbha*
+- *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *acakriran* \< *kṛ*
+- *acakriran* ← *kṛ*
 - \[verb\], plural, Plusquamperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,15 +44,15 @@ title = "Rig Veda 8.6.20"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dharmeva* \< *dharmā* \< *dharman*
+- *dharmeva* ← *dharmā* ← *dharman*
 - \[noun\], nominative, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *dharmeva* \< *iva*
+- *dharmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

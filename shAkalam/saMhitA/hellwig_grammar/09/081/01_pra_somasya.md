@@ -6,74 +6,74 @@ title = "Rig Veda 9.81.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavamānasyormaya* \< *pavamānasya* \< *pū*
+- *pavamānasyormaya* ← *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pavamānasyormaya* \< *ūrmayaḥ* \< *ūrmi*
+- *pavamānasyormaya* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *jaṭharaṃ* \< *jaṭharam* \< *jaṭhara*
+- *jaṭharaṃ* ← *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *supeśasaḥ* \< *supeśas*
+- *supeśasaḥ* ← *supeśas*
 - \[noun\], nominative, plural, masculine
 - “beautiful; fine-looking.”
 ------------------------------------------------------------------------
-- *dadhnā* \< *dadhi*
+- *dadhnā* ← *dadhi*
 - \[noun\], instrumental, singular, neuter
 - “sour milk; curd; dadhi \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *unnītā* \< *unnītāḥ* \< *unnī* \< *√nī*
+- *unnītā* ← *unnītāḥ* ← *unnī* ← *√nī*
 - \[verb noun\], nominative, plural
 - “detect; describe; deduce.”
 ------------------------------------------------------------------------
-- *yaśasā* \< *yaśas*
+- *yaśasā* ← *yaśas*
 - \[noun\], instrumental, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *śūram* \< *śūra*
+- *śūram* ← *śūra*
 - \[noun\], accusative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *udamandiṣuḥ* \< *unmad* \< *√mad*
+- *udamandiṣuḥ* ← *unmad* ← *√mad*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “madden; rut.”
 ------------------------------------------------------------------------
-- *sutāḥ* \< *su*
+- *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------

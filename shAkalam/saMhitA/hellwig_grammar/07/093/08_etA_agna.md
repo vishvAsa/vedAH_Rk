@@ -2,61 +2,61 @@
 title = "Rig Veda 7.93.8"
 
 +++
--   *etā* \< *etāḥ* \< *etad*
+-   *etā* ← *etāḥ* ← *etad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *āśuṣāṇāsa* \< *āśuṣāṇāsaḥ* \< *āśuṣ* \< *√śuṣ*
+- *āśuṣāṇāsa* ← *āśuṣāṇāsaḥ* ← *āśuṣ* ← *√śuṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *iṣṭīr* \< *iṣṭīḥ* \< *iṣṭi*
+- *iṣṭīr* ← *iṣṭīḥ* ← *iṣṭi*
 - \[noun\], accusative, plural, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *yuvoḥ* \< *tvad*
+- *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sacābhy* \< *sacā*
+- *sacābhy* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacābhy* \< *abhi*
+- *sacābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *mendro* \< *mā*
+- *mendro* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mendro* \< *indraḥ* \< *indra*
+- *mendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viṣṇur* \< *viṣṇuḥ* \< *viṣṇu*
+- *viṣṇur* ← *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -64,19 +64,19 @@ title = "Rig Veda 7.93.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *khyan* \< *khyā*
+- *khyan* ← *khyā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -85,7 +85,7 @@ title = "Rig Veda 7.93.8"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

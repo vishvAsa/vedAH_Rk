@@ -2,49 +2,49 @@
 title = "Rig Veda 1.64.15"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ṣṭhiram* \< *sthira*
+- *ṣṭhiram* ← *sthira*
 - \[noun\], accusative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vīravantam* \< *vīravat*
+- *vīravantam* ← *vīravat*
 - \[noun\], accusative, singular, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *ṛtīṣāhaṃ* \< *ṛtīṣāham* \< *ṛtīṣah*
+- *ṛtīṣāhaṃ* ← *ṛtīṣāham* ← *ṛtīṣah*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *asmāsu* \< *mad*
+- *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhatta* \< *dhā*
+- *dhatta* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sahasriṇaṃ* \< *sahasriṇam* \< *sahasrin*
+- *sahasriṇaṃ* ← *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *śatinaṃ* \< *śatinam* \< *śatin*
+- *śatinaṃ* ← *śatinam* ← *śatin*
 - \[noun\], accusative, singular, masculine
 - “hundredfold.”
 ------------------------------------------------------------------------
-- *śūśuvāṃsam* \< *śvi*
+- *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 1.64.15"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *dhiyāvasur* \< *dhiyāvasuḥ* \< *dhiyāvasu*
+- *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *jagamyāt* \< *gam*
+- *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,20 +2,20 @@
 title = "Rig Veda 5.29.7"
 
 +++
--   *sakhā* \< *sakhi*
+-   *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *apacat* \< *pac*
+- *apacat* ← *pac*
 - \[verb\], singular, Imperfect
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *tūyam* \< *tūya*
+- *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------

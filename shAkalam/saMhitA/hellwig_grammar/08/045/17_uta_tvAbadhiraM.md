@@ -6,40 +6,40 @@ title = "Rig Veda 8.45.17"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvābadhiraṃ* \< *tvā* \< *tvad*
+- *tvābadhiraṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvābadhiraṃ* \< *a*
+- *tvābadhiraṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *tvābadhiraṃ* \< *badhiram* \< *badhira*
+- *tvābadhiraṃ* ← *badhiram* ← *badhira*
 - \[noun\], accusative, singular, masculine
 - “deaf.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śrutkarṇaṃ* \< *śrut*
+- *śrutkarṇaṃ* ← *śrut*
 - \[noun\]
 - “listening.”
 ------------------------------------------------------------------------
-- *śrutkarṇaṃ* \< *karṇam* \< *karṇa*
+- *śrutkarṇaṃ* ← *karṇam* ← *karṇa*
 - \[noun\], accusative, singular, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt*
+- *dūrād* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 8.45.17"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

@@ -2,73 +2,73 @@
 title = "Rig Veda 1.130.8"
 
 +++
--   *indraḥ* \< *indra*
+-   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *samatsu* \< *samad*
+- *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *yajamānam* \< *yaj*
+- *yajamānam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *āryam* \< *ārya*
+- *āryam* ← *ārya*
 - \[noun\], accusative, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *prāvad* \< *prāvat* \< *prāv* \< *√av*
+- *prāvad* ← *prāvat* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *viśveṣu* \< *viśva*
+- *viśveṣu* ← *viśva*
 - \[noun\], locative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *śatamūtir* \< *śatamūtiḥ* \< *śatamūti*
+- *śatamūtir* ← *śatamūtiḥ* ← *śatamūti*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ājiṣu* \< *āji*
+- *ājiṣu* ← *āji*
 - \[noun\], locative, plural, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *svarmīﾱheṣv* \< *svarmīﾱheṣu* \< *svarmīḍha*
+- *svarmīﾱheṣv* ← *svarmīﾱheṣu* ← *svarmīḍha*
 - \[noun\], locative, plural, neuter
 ------------------------------------------------------------------------
-- *ājiṣu* \< *āji*
+- *ājiṣu* ← *āji*
 - \[noun\], locative, plural, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *śāsad* \< *śāsat* \< *śās*
+- *śāsad* ← *śāsat* ← *śās*
 - \[verb noun\], nominative, singular
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *avratān* \< *avrata*
+- *avratān* ← *avrata*
 - \[noun\], accusative, plural, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------
-- *tvacaṃ* \< *tvacam* \< *tvac*
+- *tvacaṃ* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *kṛṣṇām* \< *kṛṣṇa*
+- *kṛṣṇām* ← *kṛṣṇa*
 - \[noun\], accusative, singular, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *arandhayat* \< *randhay* \< *√radh*
+- *arandhayat* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *dakṣan* \< *dah*
+- *dakṣan* ← *dah*
 - \[verb noun\], nominative, singular
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
@@ -77,27 +77,27 @@ title = "Rig Veda 1.130.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tatṛṣāṇam* \< *tṛṣ*
+- *tatṛṣāṇam* ← *tṛṣ*
 - \[verb noun\], accusative, singular
 - “thirst.”
 ------------------------------------------------------------------------
-- *oṣati* \< *uṣ*
+- *oṣati* ← *uṣ*
 - \[verb\], singular, Present indikative
 - “burn; punish.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *arśasānam* \< *arśasāna*
+- *arśasānam* ← *arśasāna*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *oṣati* \< *uṣ*
+- *oṣati* ← *uṣ*
 - \[verb\], singular, Present indikative
 - “burn; punish.”
 ------------------------------------------------------------------------

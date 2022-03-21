@@ -2,7 +2,7 @@
 title = "Rig Veda 9.21.6"
 
 +++
--   *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+-   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -10,20 +10,20 @@ title = "Rig Veda 9.21.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rathyaṃ* \< *rathyam* \< *rathya*
+- *rathyaṃ* ← *rathyam* ← *rathya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *navaṃ* \< *navam* \< *nava*
+- *navaṃ* ← *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *dadhātā* \< *dadhāta* \< *dhā*
+- *dadhātā* ← *dadhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ketam* \< *keta*
+- *ketam* ← *keta*
 - \[noun\], accusative, singular, masculine
 - “wish; will; purpose; expectation; house.”
 ------------------------------------------------------------------------

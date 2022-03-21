@@ -2,21 +2,21 @@
 title = "Rig Veda 7.64.1"
 
 +++
--   *divi* \< *div*
+-   *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *kṣayantā* \< *kṣi*
+- *kṣayantā* ← *kṣi*
 - \[verb noun\], nominative, dual
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”
 ------------------------------------------------------------------------
-- *rajasaḥ* \< *rajas*
+- *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *pṛthivyām* \< *pṛthivī*
+- *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -24,69 +24,69 @@ title = "Rig Veda 7.64.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *nirṇijo* \< *nirṇijaḥ* \< *nirṇij*
+- *nirṇijo* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], accusative, plural, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *dadīran* \< *dā*
+- *dadīran* ← *dā*
 - \[verb\], plural, Present optative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *havyaṃ* \< *havyam* \< *havya*
+- *havyaṃ* ← *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *sujāto* \< *su*
+- *sujāto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujāto* \< *jātaḥ* \< *jan*
+- *sujāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sukṣatro* \< *su*
+- *sukṣatro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṣatro* \< *kṣatraḥ* \< *kṣatra*
+- *sukṣatro* ← *kṣatraḥ* ← *kṣatra*
 - \[noun\], nominative, singular, masculine
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *juṣanta* \< *juṣ*
+- *juṣanta* ← *juṣ*
 - \[verb\], plural, Present injunctive
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

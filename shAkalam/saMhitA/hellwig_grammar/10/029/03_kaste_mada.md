@@ -2,15 +2,15 @@
 title = "Rig Veda 10.29.3"
 
 +++
--   *kas* \< *kaḥ* \< *ka*
+-   *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mada* \< *madaḥ* \< *mada*
+- *mada* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -21,30 +21,30 @@ title = "Rig Veda 10.29.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rantyo* \< *rantyaḥ* \< *rantya*
+- *rantyo* ← *rantyaḥ* ← *rantya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural
 - “door; means.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
@@ -53,19 +53,19 @@ title = "Rig Veda 10.29.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhāva* \< *dhāv*
+- *dhāva* ← *dhāv*
 - \[verb\], singular, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāho* \< *vāhaḥ* \< *vāhas*
+- *vāho* ← *vāhaḥ* ← *vāhas*
 - \[noun\], accusative, singular, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------

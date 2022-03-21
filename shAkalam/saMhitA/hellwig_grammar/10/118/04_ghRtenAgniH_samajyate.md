@@ -2,11 +2,11 @@
 title = "Rig Veda 10.118.4"
 
 +++
--   *ghṛtenāgniḥ* \< *ghṛtena* \< *ghṛta*
+-   *ghṛtenāgniḥ* ← *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtenāgniḥ* \< *agniḥ* \< *agni*
+- *ghṛtenāgniḥ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,27 +16,27 @@ title = "Rig Veda 10.118.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajyate* \< *añj*
+- *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *madhupratīka* \< *madhu*
+- *madhupratīka* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *madhupratīka* \< *pratīkaḥ* \< *pratīka*
+- *madhupratīka* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *āhutaḥ* \< *āhu* \< *√hu*
+- *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *rocamāno* \< *rocamānaḥ* \< *ruc*
+- *rocamāno* ← *rocamānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *vibhāvasuḥ* \< *vibhāvasu*
+- *vibhāvasuḥ* ← *vibhāvasu*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sun; Surya.”
 ------------------------------------------------------------------------

@@ -2,53 +2,53 @@
 title = "Rig Veda 5.54.3"
 
 +++
--   *vidyunmahaso* \< *vidyut*
+-   *vidyunmahaso* ← *vidyut*
 - \[noun\], feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *vidyunmahaso* \< *mahasaḥ* \< *mahas*
+- *vidyunmahaso* ← *mahasaḥ* ← *mahas*
 - \[noun\], nominative, plural, masculine
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *aśmadidyavo* \< *aśma* \< *aśman*
+- *aśmadidyavo* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *aśmadidyavo* \< *didyavaḥ* \< *didyu*
+- *aśmadidyavo* ← *didyavaḥ* ← *didyu*
 - \[noun\], nominative, plural, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *vātatviṣo* \< *vāta*
+- *vātatviṣo* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātatviṣo* \< *tviṣaḥ* \< *tviṣ*
+- *vātatviṣo* ← *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, masculine
 - “beam; color; beauty.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *parvatacyutaḥ* \< *parvata*
+- *parvatacyutaḥ* ← *parvata*
 - \[noun\], masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *parvatacyutaḥ* \< *cyutaḥ* \< *cyut*
+- *parvatacyutaḥ* ← *cyutaḥ* ← *cyut*
 - \[noun\], nominative, plural, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
 - *abdayā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -60,28 +60,28 @@ title = "Rig Veda 5.54.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *hrādunīvṛta* \< *hrādunī*
+- *hrādunīvṛta* ← *hrādunī*
 - \[noun\], feminine
 - “hail.”
 ------------------------------------------------------------------------
-- *hrādunīvṛta* \< *vṛta* \< *vṛ*
+- *hrādunīvṛta* ← *vṛta* ← *vṛ*
 - \[verb noun\], vocative, plural
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *stanayadamā* \< *stanayat* \< *stanay* \< *√stan*
+- *stanayadamā* ← *stanayat* ← *stanay* ← *√stan*
 - \[verb noun\]
 - “thunder; thunder.”
 ------------------------------------------------------------------------
-- *stanayadamā* \< *amāḥ* \< *ama*
+- *stanayadamā* ← *amāḥ* ← *ama*
 - \[noun\], nominative, plural, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *rabhasā* \< *rabhasāḥ* \< *rabhasa*
+- *rabhasā* ← *rabhasāḥ* ← *rabhasa*
 - \[noun\], nominative, plural, masculine
 - “fierce; impetuous; powerful; potent; flamboyant.”
 ------------------------------------------------------------------------
-- *udojasaḥ* \< *udojas*
+- *udojasaḥ* ← *udojas*
 - \[noun\], nominative, plural, masculine
 - “powerful.”
 ------------------------------------------------------------------------

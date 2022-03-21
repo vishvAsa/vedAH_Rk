@@ -6,58 +6,58 @@ title = "Rig Veda 4.38.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *smāsya* \< *sma*
+- *smāsya* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smāsya* \< *asya* \< *idam*
+- *smāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *panayanti* \< *panay* \< *√pan*
+- *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *janā* \< *janāḥ* \< *jana*
+- *janā* ← *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *jūtiṃ* \< *jūtim* \< *jūti*
+- *jūtiṃ* ← *jūtim* ← *jūti*
 - \[noun\], accusative, singular, feminine
 - “jūti \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṭipro* \< *kṛṣṭi*
+- *kṛṣṭipro* ← *kṛṣṭi*
 - \[noun\], feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *kṛṣṭipro* \< *praḥ* \< *prā*
+- *kṛṣṭipro* ← *praḥ* ← *prā*
 - \[noun\], genitive, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *abhibhūtim* \< *abhibhūti*
+- *abhibhūtim* ← *abhibhūti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *āśoḥ* \< *āśu*
+- *āśoḥ* ← *āśu*
 - \[noun\], genitive, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *utainam* \< *uta*
+- *utainam* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utainam* \< *enam* \< *enad*
+- *utainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *āhuḥ* \< *ah*
+- *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *samithe* \< *samitha*
+- *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
 ------------------------------------------------------------------------
-- *viyantaḥ* \< *vī* \< *√i*
+- *viyantaḥ* ← *vī* ← *√i*
 - \[verb noun\], nominative, plural
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
@@ -65,15 +65,15 @@ title = "Rig Veda 4.38.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dadhikrā* \< *dadhikrāḥ* \< *dadhikrā*
+- *dadhikrā* ← *dadhikrāḥ* ← *dadhikrā*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *asarat* \< *sṛ*
+- *asarat* ← *sṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *sahasraiḥ* \< *sahasra*
+- *sahasraiḥ* ← *sahasra*
 - \[noun\], instrumental, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

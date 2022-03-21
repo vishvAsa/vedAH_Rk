@@ -2,7 +2,7 @@
 title = "Rig Veda 1.140.6"
 
 +++
--   *bhūṣan* \< *bhūṣ*
+-   *bhūṣan* ← *bhūṣ*
 - \[verb noun\], nominative, singular
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
@@ -10,49 +10,49 @@ title = "Rig Veda 1.140.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *'dhi* \< *adhi*
+- *'dhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *babhrūṣu* \< *babhru*
+- *babhrūṣu* ← *babhru*
 - \[noun\], locative, plural, feminine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *namnate* \< *nannate* \< *nannam* \< *√nam*
+- *namnate* ← *nannate* ← *nannam* ← *√nam*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *iva*
+- *vṛṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], accusative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *roruvat* \< *roro* \< *√ru*
+- *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *ojāyamānas* \< *ojāyamānaḥ* \< *ojāy*
+- *ojāyamānas* ← *ojāyamānaḥ* ← *ojāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *tanvaś* \< *tanvaḥ* \< *tanū*
+- *tanvaś* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 1.140.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śumbhate* \< *śubh*
+- *śumbhate* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *bhīmo* \< *bhīmaḥ* \< *bhīma*
+- *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
@@ -72,14 +72,14 @@ title = "Rig Veda 1.140.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śṛṅgā* \< *śṛṅga*
+- *śṛṅgā* ← *śṛṅga*
 - \[noun\], accusative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *davidhāva* \< *dodhu* \< *√dhū*
+- *davidhāva* ← *dodhu* ← *√dhū*
 - \[verb\], singular, Perfect indicative
 - “shake.”
 ------------------------------------------------------------------------
-- *durgṛbhiḥ* \< *durgṛbhi*
+- *durgṛbhiḥ* ← *durgṛbhi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

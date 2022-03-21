@@ -2,15 +2,15 @@
 title = "Rig Veda 10.22.15"
 
 +++
--   *pibā* \< *piba* \< *pā*
+-   *pibā* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibed* \< *piba* \< *pā*
+- *pibed* ← *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibed* \< *id*
+- *pibed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 10.22.15"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 10.22.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣaṇyo* \< *riṣaṇyaḥ* \< *riṣaṇy* \< *√riṣ*
+- *riṣaṇyo* ← *riṣaṇyaḥ* ← *riṣaṇy* \< *√riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------

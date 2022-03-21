@@ -2,22 +2,22 @@
 title = "Rig Veda 9.15.6"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *pibdanā* \< *pibdana*
+- *pibdanā* ← *pibdana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *paruṣā* \< *parus*
+- *paruṣā* ← *parus*
 - \[noun\], instrumental, singular, neuter
 - “joint.”
 ------------------------------------------------------------------------
-- *yayivāṃ* \< *yayivān* \< *yā*
+- *yayivāṃ* ← *yayivān* ← *yā*
 - \[verb noun\], nominative, singular
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -30,11 +30,11 @@ title = "Rig Veda 9.15.6"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *śādeṣu* \< *śāda*
+- *śādeṣu* ← *śāda*
 - \[noun\], locative, plural, masculine
 - “śāda \[word\].”
 ------------------------------------------------------------------------
-- *gacchati* \< *gam*
+- *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

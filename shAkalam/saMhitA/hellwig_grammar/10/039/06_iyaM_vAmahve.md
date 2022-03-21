@@ -2,71 +2,71 @@
 title = "Rig Veda 10.39.6"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ahve* \< *hvā*
+- *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *śṛṇutam* \< *śru*
+- *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *putrāyeva* \< *putrāya* \< *putra*
+- *putrāyeva* ← *putrāya* ← *putra*
 - \[noun\], dative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *putrāyeva* \< *iva*
+- *putrāyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śikṣatam* \< *śikṣ*
+- *śikṣatam* ← *śikṣ*
 - \[verb\], dual, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *anāpir* \< *an*
+- *anāpir* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anāpir* \< *āpiḥ* \< *āpi*
+- *anāpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, feminine
 - “friend.”
 ------------------------------------------------------------------------
-- *ajñā* \< *a*
+- *ajñā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ajñā* \< *jñā*
+- *ajñā* ← *jñā*
 - \[noun\], nominative, singular, feminine
 - “relative.”
 ------------------------------------------------------------------------
-- *asajātyāmatiḥ* \< *asajātyā* \< *asajātya*
+- *asajātyāmatiḥ* ← *asajātyā* ← *asajātya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *asajātyāmatiḥ* \< *amatiḥ* \< *amati*
+- *asajātyāmatiḥ* ← *amatiḥ* ← *amati*
 - \[noun\], nominative, singular, feminine
 - “poor.”
 ------------------------------------------------------------------------
@@ -74,13 +74,13 @@ title = "Rig Veda 10.39.6"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *tasyā* \< *tasyāḥ* \< *tad*
+- *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhiśaster* \< *abhiśasteḥ* \< *abhiśasti*
+- *abhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], genitive, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
@@ -88,6 +88,6 @@ title = "Rig Veda 10.39.6"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *spṛtam* \< *spṛ*
+- *spṛtam* ← *spṛ*
 - \[verb\], dual, Aorist imperative
 ------------------------------------------------------------------------

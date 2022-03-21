@@ -2,11 +2,11 @@
 title = "Rig Veda 1.11.2"
 
 +++
--   *sakhye* \< *sakhya*
+-   *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 1.11.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
@@ -23,20 +23,20 @@ title = "Rig Veda 1.11.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *bhema* \< *bhī*
+- *bhema* ← *bhī*
 - \[verb\], plural, Aorist inj. (proh.)
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *śavasas* \< *śavas*
+- *śavasas* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,15 +48,15 @@ title = "Rig Veda 1.11.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumo* \< *ṇonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumo* ← *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------
-- *jetāram* \< *jetṛ*
+- *jetāram* ← *jetṛ*
 - \[noun\], accusative, singular, masculine
 - “curative; victorious.”
 ------------------------------------------------------------------------
-- *aparājitam* \< *aparājita*
+- *aparājitam* ← *aparājita*
 - \[noun\], accusative, singular, masculine
 - “unbeaten; unexcelled.”
 ------------------------------------------------------------------------

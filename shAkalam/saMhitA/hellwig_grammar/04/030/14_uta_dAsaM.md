@@ -6,19 +6,19 @@ title = "Rig Veda 4.30.14"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dāsaṃ* \< *dāsam* \< *dāsa*
+- *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *kaulitaram* \< *kaulitara*
+- *kaulitaram* ← *kaulitara*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *parvatād* \< *parvatāt* \< *parvata*
+- *parvatād* ← *parvatāt* ← *parvata*
 - \[noun\], ablative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -27,7 +27,7 @@ title = "Rig Veda 4.30.14"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *avāhann* \< *avāhan* \< *avahan* \< *√han*
+- *avāhann* ← *avāhan* ← *avahan* ← *√han*
 - \[verb\], singular, Imperfect
 - “thrash; strike.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 4.30.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śambaram* \< *śambara*
+- *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------

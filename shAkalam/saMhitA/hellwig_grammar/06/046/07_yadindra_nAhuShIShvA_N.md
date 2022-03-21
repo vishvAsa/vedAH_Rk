@@ -2,7 +2,7 @@
 title = "Rig Veda 6.46.7"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,17 +11,17 @@ title = "Rig Veda 6.46.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nāhuṣīṣv* \< *nāhuṣīṣu* \< *nāhuṣa*
+- *nāhuṣīṣv* ← *nāhuṣīṣu* ← *nāhuṣa*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *nṛmṇaṃ* \< *nṛmṇam* \< *nṛmṇa*
+- *nṛmṇaṃ* ← *nṛmṇam* ← *nṛmṇa*
 - \[noun\], nominative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 6.46.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kṛṣṭiṣu* \< *kṛṣṭi*
+- *kṛṣṭiṣu* ← *kṛṣṭi*
 - \[noun\], locative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -41,16 +41,16 @@ title = "Rig Veda 6.46.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], nominative, plural, neuter
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṣitīnāṃ* \< *kṣitīnām* \< *kṣiti*
+- *kṣitīnāṃ* ← *kṣitīnām* ← *kṣiti*
 - \[noun\], genitive, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *dyumnam* \< *dyumna*
+- *dyumnam* ← *dyumna*
 - \[noun\], nominative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -58,21 +58,21 @@ title = "Rig Veda 6.46.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *satrā* \< *sattra*
+- *satrā* ← *sattra*
 - \[noun\], accusative, plural, neuter
 - “Sattra; disguise.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pauṃsyā* \< *pauṃsya*
+- *pauṃsyā* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

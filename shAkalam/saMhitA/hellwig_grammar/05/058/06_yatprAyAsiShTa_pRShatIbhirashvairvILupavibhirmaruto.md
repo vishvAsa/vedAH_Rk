@@ -6,67 +6,67 @@ title = "Rig Veda 5.58.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *prāyāsiṣṭa* \< *prayā* \< *√yā*
+- *prāyāsiṣṭa* ← *prayā* ← *√yā*
 - \[verb\], plural, Athematic sis aor. (Ind.)
 - “go; depart; travel; enter (a state); repair to; advance; elapse;
     leave; drive; walk; disappear; die; heal.”
 ------------------------------------------------------------------------
-- *pṛṣatībhir* \< *pṛṣatībhiḥ* \< *pṛṣatī*
+- *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *aśvair* \< *aśvaiḥ* \< *aśva*
+- *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vīﾱupavibhir* \< *vīﾱu* \< *vīḍu*
+- *vīﾱupavibhir* ← *vīﾱu* ← *vīḍu*
 - \[noun\]
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *vīﾱupavibhir* \< *pavibhiḥ* \< *pavi*
+- *vīﾱupavibhir* ← *pavibhiḥ* ← *pavi*
 - \[noun\], instrumental, plural, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rathebhiḥ* \< *ratha*
+- *rathebhiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *kṣodanta* \< *kṣodante* \< *kṣud*
+- *kṣodanta* ← *kṣodante* ← *kṣud*
 - \[verb\], plural, Present indikative
 - “pound.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *riṇate* \< *ri*
+- *riṇate* ← *ri*
 - \[verb\], plural, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *vanāny* \< *vanāni* \< *vana*
+- *vanāny* ← *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *avosriyo* \< *ava*
+- *avosriyo* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *avosriyo* \< *usriyaḥ* \< *usriya*
+- *avosriyo* ← *usriyaḥ* ← *usriya*
 - \[noun\], nominative, singular, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *krandatu* \< *krand*
+- *krandatu* ← *krand*
 - \[verb\], singular, Present imperative
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

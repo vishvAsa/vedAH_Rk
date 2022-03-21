@@ -2,12 +2,12 @@
 title = "Rig Veda 1.6.3"
 
 +++
--   *ketuṃ* \< *ketum* \< *ketu*
+-   *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *kṛṇvann* \< *kṛṇvan* \< *kṛ*
+- *kṛṇvann* ← *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -18,29 +18,29 @@ title = "Rig Veda 1.6.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *aketave* \< *aketu*
+- *aketave* ← *aketu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *peśo* \< *peśaḥ* \< *peśas*
+- *peśo* ← *peśaḥ* ← *peśas*
 - \[noun\], accusative, singular, neuter
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *maryā* \< *maryāḥ* \< *marya*
+- *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], vocative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *apeśase* \< *apeśas*
+- *apeśase* ← *apeśas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *uṣadbhir* \< *uṣadbhiḥ* \< *uṣas*
+- *uṣadbhir* ← *uṣadbhiḥ* ← *uṣas*
 - \[noun\], instrumental, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ajāyathāḥ* \< *jan*
+- *ajāyathāḥ* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

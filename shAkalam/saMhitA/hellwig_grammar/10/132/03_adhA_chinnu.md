@@ -2,11 +2,11 @@
 title = "Rig Veda 10.132.3"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 10.132.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *didhiṣāmahe* \< *didhiṣ* \< *√dhā*
+- *didhiṣāmahe* ← *didhiṣ* ← *√dhā*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -29,21 +29,21 @@ title = "Rig Veda 10.132.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *rekṇaḥ* \< *rekṇas*
+- *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
 ------------------------------------------------------------------------
-- *patyamānāḥ* \< *pat*
+- *patyamānāḥ* ← *pat*
 - \[verb noun\], nominative, plural
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *dadvāṃ* \< *\_* \< *√\_*
+- *dadvāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 10.132.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *puṣyati* \< *puṣ*
+- *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *rekṇaḥ* \< *rekṇas*
+- *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 10.132.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *v* \< *\_* \< *√\_*
+- *v* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *āran* \< *\_* \< *√\_*
+- *āran* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -79,11 +79,11 @@ title = "Rig Veda 10.132.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *maghāni* \< *magha*
+- *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------

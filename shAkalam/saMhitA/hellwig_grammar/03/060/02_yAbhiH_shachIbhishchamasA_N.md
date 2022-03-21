@@ -2,78 +2,78 @@
 title = "Rig Veda 3.60.2"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śacībhiś* \< *śacībhiḥ* \< *śacī*
+- *śacībhiś* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *camasāṃ* \< *camasa*
+- *camasāṃ* ← *camasa*
 - \[noun\], accusative, plural, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *apiṃśata* \< *piś*
+- *apiṃśata* ← *piś*
 - \[verb\], plural, Imperfect
 - “decorate.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ariṇīta* \< *ri*
+- *ariṇīta* ← *ri*
 - \[verb\], plural, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *carmaṇaḥ* \< *carman*
+- *carmaṇaḥ* ← *carman*
 - \[noun\], ablative, singular, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *niratakṣata* \< *nistakṣ* \< *√takṣ*
+- *niratakṣata* ← *nistakṣ* ← *√takṣ*
 - \[verb\], plural, Imperfect
 - “create; fashion; carve; shape.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devatvam* \< *deva*
+- *devatvam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devatvam* \< *tvam* \< *tva*
+- *devatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 3.60.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ānaśa* \< *aś*
+- *ānaśa* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

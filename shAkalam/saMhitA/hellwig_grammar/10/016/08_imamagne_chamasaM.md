@@ -2,17 +2,17 @@
 title = "Rig Veda 10.16.8"
 
 +++
--   *imam* \< *idam*
+-   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *camasam* \< *camasa*
+- *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
@@ -24,15 +24,15 @@ title = "Rig Veda 10.16.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jihvaraḥ* \< *hvṛ*
+- *jihvaraḥ* ← *hvṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *priyo* \< *priyaḥ* \< *priya*
+- *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -41,48 +41,48 @@ title = "Rig Veda 10.16.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *somyānām* \< *somya*
+- *somyānām* ← *somya*
 - \[noun\], genitive, plural, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *camaso* \< *camasaḥ* \< *camasa*
+- *camaso* ← *camasaḥ* ← *camasa*
 - \[noun\], nominative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *devapānas* \< *deva*
+- *devapānas* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devapānas* \< *pānaḥ* \< *pāna*
+- *devapānas* ← *pānaḥ* ← *pāna*
 - \[noun\], nominative, singular, masculine
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *tasmin* \< *tad*
+- *tasmin* ← *tad*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *amṛtā* \< *amṛtāḥ* \< *amṛta*
+- *amṛtā* ← *amṛtāḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *mādayante* \< *māday* \< *√mad*
+- *mādayante* ← *māday* ← *√mad*
 - \[verb\], plural, Present indikative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

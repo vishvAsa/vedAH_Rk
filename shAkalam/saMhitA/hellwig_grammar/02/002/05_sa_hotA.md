@@ -2,17 +2,17 @@
 title = "Rig Veda 2.2.5"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -21,18 +21,18 @@ title = "Rig Veda 2.2.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *bhūtv* \< *bhūtu* \< *bhū*
+- *bhūtv* ← *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -42,33 +42,33 @@ title = "Rig Veda 2.2.5"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *havyair* \< *havyaiḥ* \< *havya*
+- *havyair* ← *havyaiḥ* ← *havya*
 - \[noun\], instrumental, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *manuṣa* \< *manuṣaḥ* \< *manus*
+- *manuṣa* ← *manuṣaḥ* ← *manus*
 - \[noun\], nominative, plural, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *hiriśipro* \< *hiriśipraḥ* \< *hiriśipra*
+- *hiriśipro* ← *hiriśipraḥ* ← *hiriśipra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛdhasānāsu* \< *\_* \< *√\_*
+- *vṛdhasānāsu* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *jarbhurad* \< *jarbhurat* \< *jarbhur* \< *√bhur*
+- *jarbhurad* ← *jarbhurat* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -76,14 +76,14 @@ title = "Rig Veda 2.2.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *stṛbhiś* \< *stṛbhiḥ* \< *star*
+- *stṛbhiś* ← *stṛbhiḥ* ← *star*
 - \[noun\], instrumental, plural, masculine
 - “star.”
 ------------------------------------------------------------------------
-- *citayad* \< *citayat* \< *citay* \< *√cit*
+- *citayad* ← *citayat* ← *citay* ← *√cit*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

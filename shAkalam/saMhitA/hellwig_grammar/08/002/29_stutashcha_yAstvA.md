@@ -2,7 +2,7 @@
 title = "Rig Veda 8.2.29"
 
 +++
--   *stutaś* \< *stutaḥ* \< *stut*
+-   *stutaś* ← *stutaḥ* ← *stut*
 - \[noun\], nominative, plural, feminine
 - “stut \[word\].”
 ------------------------------------------------------------------------
@@ -10,28 +10,28 @@ title = "Rig Veda 8.2.29"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yās* \< *yāḥ* \< *yad*
+- *yās* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vardhanti* \< *vṛdh*
+- *vardhanti* ← *vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *nṛmṇāya* \< *nṛmṇa*
+- *nṛmṇāya* ← *nṛmṇa*
 - \[noun\], dative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
@@ -40,11 +40,11 @@ title = "Rig Veda 8.2.29"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kāriṇaṃ* \< *kāriṇam* \< *kārin*
+- *kāriṇaṃ* ← *kāriṇam* ← *kārin*
 - \[noun\], accusative, singular, masculine
 - “causing; making; acting; performing; producing; doing.”
 ------------------------------------------------------------------------
-- *vṛdhantaḥ* \< *vṛdh*
+- *vṛdhantaḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

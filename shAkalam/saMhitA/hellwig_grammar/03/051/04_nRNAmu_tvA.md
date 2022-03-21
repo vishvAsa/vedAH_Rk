@@ -2,7 +2,7 @@
 title = "Rig Veda 3.51.4"
 
 +++
--   *nṛṇām* \< *nṛ*
+-   *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 3.51.4"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nṛtamaṃ* \< *nṛtamam* \< *nṛtama*
+- *nṛtamaṃ* ← *nṛtamam* ← *nṛtama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -34,58 +34,58 @@ title = "Rig Veda 3.51.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vīram* \< *vīra*
+- *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *arcatā* \< *arc*
+- *arcatā* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *sabādhaḥ* \< *sabādh*
+- *sabādhaḥ* ← *sabādh*
 - \[noun\], nominative, plural, masculine
 - “pressing; clamant.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *sahase* \< *sahas*
+- *sahase* ← *sahas*
 - \[noun\], dative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *purumāyo* \< *puru*
+- *purumāyo* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumāyo* \< *māyaḥ* \< *māyā*
+- *purumāyo* ← *māyaḥ* ← *māyā*
 - \[noun\], nominative, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *jihīte* \< *hā*
+- *jihīte* ← *hā*
 - \[verb\], singular, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pradiva* \< *pradivaḥ* \< *pradiv*
+- *pradiva* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *īśe* \< *īś*
+- *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------

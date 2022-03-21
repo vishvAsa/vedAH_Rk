@@ -2,11 +2,11 @@
 title = "Rig Veda 8.13.4"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,30 +15,30 @@ title = "Rig Veda 8.13.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇo* \< *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇo* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *rātiḥ* \< *rāti*
+- *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *kṣarati* \< *kṣar*
+- *kṣarati* ← *kṣar*
 - \[verb\], singular, Present indikative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *sunvataḥ* \< *su*
+- *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *mandāno* \< *mandānaḥ* \< *mad*
+- *mandāno* ← *mandānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *barhiṣo* \< *barhiṣaḥ* \< *barhis*
+- *barhiṣo* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 8.13.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājasi* \< *rāj*
+- *rājasi* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

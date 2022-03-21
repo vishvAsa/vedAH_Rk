@@ -2,7 +2,7 @@
 title = "Rig Veda 7.23.4"
 
 +++
--   *āpaś* \< *āpaḥ* \< *ap*
+-   *āpaś* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *pipyu* \< *pipyuḥ* \< *pyā*
+- *pipyu* ← *pipyuḥ* ← *pyā*
 - \[verb\], plural, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *staryo* \< *staryaḥ* \< *starī*
+- *staryo* ← *staryaḥ* ← *starī*
 - \[noun\], nominative, plural, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
@@ -22,24 +22,24 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *nakṣann* \< *nakṣan* \< *nakṣ*
+- *nakṣann* ← *nakṣan* ← *nakṣ*
 - \[verb\], plural, Present injunctive
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *jaritāras* \< *jaritāraḥ* \< *jaritṛ*
+- *jaritāras* ← *jaritāraḥ* ← *jaritṛ*
 - \[noun\], nominative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,12 +48,12 @@ title = "Rig Veda 7.23.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vāyur* \< *vāyuḥ* \< *vāyu*
+- *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -62,11 +62,11 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -82,12 +82,12 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dayase* \< *day*
+- *dayase* ← *day*
 - \[verb\], singular, Present indikative
 - “share.”
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ title = "Rig Veda 7.23.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

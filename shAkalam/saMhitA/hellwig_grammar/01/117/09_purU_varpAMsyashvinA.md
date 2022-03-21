@@ -2,19 +2,19 @@
 title = "Rig Veda 1.117.9"
 
 +++
--   *purū* \< *puru*
+-   *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *varpāṃsy* \< *varpāṃsi* \< *varpas*
+- *varpāṃsy* ← *varpāṃsi* ← *varpas*
 - \[noun\], accusative, plural, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dhā*
+- *dadhānā* ← *dhā*
 - \[verb noun\], nominative, dual
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -23,50 +23,50 @@ title = "Rig Veda 1.117.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pedava* \< *pedave* \< *pedu*
+- *pedava* ← *pedave* ← *pedu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *ūhathur* \< *ūhathuḥ* \< *vah*
+- *ūhathur* ← *ūhathuḥ* ← *vah*
 - \[verb\], dual, Perfect indicative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *āśum* \< *āśu*
+- *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *sahasrasāṃ* \< *sahasra*
+- *sahasrasāṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasāṃ* \< *sām* \< *sā*
+- *sahasrasāṃ* ← *sām* ← *sā*
 - \[noun\], accusative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *apratītam* \< *apratīta*
+- *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
 ------------------------------------------------------------------------
-- *ahihanaṃ* \< *ahi*
+- *ahihanaṃ* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *ahihanaṃ* \< *hanam* \< *han*
+- *ahihanaṃ* ← *hanam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *śravasyaṃ* \< *śravasyam* \< *śravasya*
+- *śravasyaṃ* ← *śravasyam* ← *śravasya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tarutram* \< *tarutra*
+- *tarutram* ← *tarutra*
 - \[noun\], accusative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------

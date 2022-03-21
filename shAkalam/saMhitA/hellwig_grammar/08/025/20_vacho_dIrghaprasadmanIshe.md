@@ -2,26 +2,26 @@
 title = "Rig Veda 8.25.20"
 
 +++
--   *vaco* \< *vacaḥ* \< *vacas*
+-   *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], nominative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *dīrghaprasadmanīśe* \< *dīrghaprasadmani* \< *dīrghaprasadman*
+- *dīrghaprasadmanīśe* ← *dīrghaprasadmani* ← *dīrghaprasadman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *dīrghaprasadmanīśe* \< *īśe* \< *īś*
+- *dīrghaprasadmanīśe* ← *īśe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vājasya* \< *vāja*
+- *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *īśe* \< *īś*
+- *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
@@ -29,20 +29,20 @@ title = "Rig Veda 8.25.20"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pitvo* \< *pitvaḥ* \< *pitu*
+- *pitvo* ← *pitvaḥ* ← *pitu*
 - \[noun\], genitive, singular, neuter
 - “food.”
 ------------------------------------------------------------------------
-- *'viṣasya* \< *a*
+- *'viṣasya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'viṣasya* \< *viṣasya* \< *viṣa*
+- *'viṣasya* ← *viṣasya* ← *viṣa*
 - \[noun\], genitive, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

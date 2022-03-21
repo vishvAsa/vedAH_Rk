@@ -2,15 +2,15 @@
 title = "Rig Veda 5.34.3"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ghraṃsa* \< *ghraṃse* \< *ghraṃsa*
+- *ghraṃsa* ← *ghraṃse* ← *ghraṃsa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
@@ -21,30 +21,30 @@ title = "Rig Veda 5.34.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ūdhani* \< *ūdhas*
+- *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sunoti* \< *su*
+- *sunoti* ← *su*
 - \[verb\], singular, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *dyumāṃ* \< *dyumat*
+- *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
@@ -52,40 +52,40 @@ title = "Rig Veda 5.34.3"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *apāpa* \< *apa*
+- *apāpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāpa* \< *apa*
+- *apāpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śakras* \< *śakraḥ* \< *śakra*
+- *śakras* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *tatanuṣṭim* \< *tatanuṣṭi*
+- *tatanuṣṭim* ← *tatanuṣṭi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ūhati* \< *ūh*
+- *ūhati* ← *ūh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *tanūśubhram* \< *tanū*
+- *tanūśubhram* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūśubhram* \< *śubhram* \< *śubhra*
+- *tanūśubhram* ← *śubhram* ← *śubhra*
 - \[noun\], accusative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kavāsakhaḥ* \< *kavāsakha*
+- *kavāsakhaḥ* ← *kavāsakha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

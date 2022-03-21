@@ -6,43 +6,43 @@ title = "Rig Veda 4.45.2"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pṛkṣāso* \< *pṛkṣāsaḥ* \< *pṛkṣa*
+- *pṛkṣāso* ← *pṛkṣāsaḥ* ← *pṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “strong; full of life.”
 ------------------------------------------------------------------------
-- *madhumanta* \< *madhumantaḥ* \< *madhumat*
+- *madhumanta* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *aśvāsa* \< *aśvāsaḥ* \< *aśva*
+- *aśvāsa* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vyuṣṭiṣu* \< *vyuṣṭi*
+- *vyuṣṭiṣu* ← *vyuṣṭi*
 - \[noun\], locative, plural, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *aporṇuvantas* \< *aporṇuvantaḥ* \< *apavṛ* \< *√vṛ*
+- *aporṇuvantas* ← *aporṇuvantaḥ* ← *apavṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “open.”
 ------------------------------------------------------------------------
-- *tama* \< *tamaḥ* \< *tamas*
+- *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
@@ -51,7 +51,7 @@ title = "Rig Veda 4.45.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *parīvṛtaṃ* \< *parīvṛtam* \< *parīvṛ* \< *√vṛ*
+- *parīvṛtaṃ* ← *parīvṛtam* ← *parīvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “enclose.”
 ------------------------------------------------------------------------
@@ -59,15 +59,15 @@ title = "Rig Veda 4.45.2"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *ṇa* \< *na*
+- *ṇa* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], nominative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *tanvanta* \< *tanvantaḥ* \< *tan*
+- *tanvanta* ← *tanvantaḥ* ← *tan*
 - \[verb noun\], nominative, plural
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -76,7 +76,7 @@ title = "Rig Veda 4.45.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rajaḥ* \< *rajas*
+- *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”

@@ -2,15 +2,15 @@
 title = "Rig Veda 1.72.8"
 
 +++
--   *svādhyo* \< *su*
+-   *svādhyo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svādhyo* \< *ādhyaḥ* \< *ādhī*
+- *svādhyo* ← *ādhyaḥ* ← *ādhī*
 - \[noun\], nominative, plural, feminine
 - “longing.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 1.72.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -26,58 +26,58 @@ title = "Rig Veda 1.72.8"
 - \[noun\], accusative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṛtajñā* \< *ṛta*
+- *ṛtajñā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajñā* \< *jñāḥ* \< *jña*
+- *ṛtajñā* ← *jñāḥ* ← *jña*
 - \[noun\], nominative, plural, masculine
 - “conversant(p); aware(p); wise.”
 ------------------------------------------------------------------------
-- *ajānan* \< *jñā*
+- *ajānan* ← *jñā*
 - \[verb\], plural, Imperfect
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
     know; learn; ascertain; detect; deem.”
 ------------------------------------------------------------------------
-- *vidad* \< *vidat* \< *vid*
+- *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *gavyaṃ* \< *gavyam* \< *gavya*
+- *gavyaṃ* ← *gavyam* ← *gavya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *saramā*
 - \[noun\], nominative, singular, feminine
 - “Saramā.”
 ------------------------------------------------------------------------
-- *dṛḍham* \< *dṛḍha*
+- *dṛḍham* ← *dṛḍha*
 - \[noun\], accusative, singular, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *ūrvaṃ* \< *ūrvam* \< *ūrva*
+- *ūrvaṃ* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, neuter
 - “great.”
 ------------------------------------------------------------------------
-- *yenā* \< *yena* \< *yad*
+- *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yenā* \< *ā*
+- *yenā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
@@ -85,19 +85,19 @@ title = "Rig Veda 1.72.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣī* \< *mānuṣa*
+- *mānuṣī* ← *mānuṣa*
 - \[noun\], nominative, singular, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *bhojate* \< *bhuj*
+- *bhojate* ← *bhuj*
 - \[verb\], singular, Aorist conj./subj.
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *viṭ* \< *viś*
+- *viṭ* ← *viś*
 - \[noun\], nominative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

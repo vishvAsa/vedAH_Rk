@@ -2,19 +2,19 @@
 title = "Rig Veda 1.47.7"
 
 +++
--   *yan* \< *yat*
+-   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 1.47.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *stho* \< *sthaḥ* \< *as*
+- *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -31,22 +31,22 @@ title = "Rig Veda 1.47.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *turvaśe* \< *turvaśa*
+- *turvaśe* ← *turvaśa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *suvṛtā* \< *suvṛt*
+- *suvṛtā* ← *suvṛt*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -54,23 +54,23 @@ title = "Rig Veda 1.47.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gataṃ* \< *gatam* \< *gam*
+- *gataṃ* ← *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------

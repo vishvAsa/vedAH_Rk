@@ -2,52 +2,52 @@
 title = "Rig Veda 10.150.2"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vaco* \< *vacaḥ* \< *vacas*
+- *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *jujuṣāṇa* \< *jujuṣāṇaḥ* \< *juṣ*
+- *jujuṣāṇa* ← *jujuṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *upāgahi* \< *upāgam* \< *√gam*
+- *upāgahi* ← *upāgam* ← *√gam*
 - \[verb\], singular, Aorist imperative
 - “enter (a state); come; approach; arrive; result.”
 ------------------------------------------------------------------------
-- *martāsas* \< *martāsaḥ* \< *marta*
+- *martāsas* ← *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *samidhāna* \< *samindh* \< *√indh*
+- *samidhāna* ← *samindh* ← *√indh*
 - \[verb noun\], vocative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *mṛḍīkāya* \< *mṛḍīka*
+- *mṛḍīkāya* ← *mṛḍīka*
 - \[noun\], dative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

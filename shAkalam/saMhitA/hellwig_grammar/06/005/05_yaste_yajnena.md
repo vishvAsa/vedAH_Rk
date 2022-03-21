@@ -2,54 +2,54 @@
 title = "Rig Veda 6.5.5"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajñena* \< *yajña*
+- *yajñena* ← *yajña*
 - \[noun\], instrumental, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *samidhā* \< *samidh*
+- *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *arkebhiḥ* \< *arka*
+- *arkebhiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *dadāśat* \< *dāś*
+- *dadāśat* ← *dāś*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *martyeṣv* \< *martyeṣu* \< *martya*
+- *martyeṣv* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “mortal.”
 ------------------------------------------------------------------------
@@ -57,19 +57,19 @@ title = "Rig Veda 6.5.5"
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *pracetā* \< *pracetāḥ* \< *pracetas*
+- *pracetā* ← *pracetāḥ* ← *pracetas*
 - \[noun\], nominative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *dyumnena* \< *dyumna*
+- *dyumnena* ← *dyumna*
 - \[noun\], instrumental, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *śravasā* \< *śravas*
+- *śravasā* ← *śravas*
 - \[noun\], instrumental, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 6.5.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------

@@ -6,12 +6,12 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *grāmāso* \< *grāmāsaḥ* \< *grāma*
+- *grāmāso* ← *grāmāsaḥ* ← *grāma*
 - \[noun\], nominative, plural, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
 ------------------------------------------------------------------------
-- *avikṣata* \< *viś*
+- *avikṣata* ← *viś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 10.127.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *padvanto* \< *padvantaḥ* \< *padvat*
+- *padvanto* ← *padvantaḥ* ← *padvat*
 - \[noun\], nominative, plural, masculine
 - “footed.”
 ------------------------------------------------------------------------

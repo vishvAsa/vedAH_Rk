@@ -6,11 +6,11 @@ title = "Rig Veda 8.56.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dasyave* \< *dasyu*
+- *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 8.56.1"
 - \[noun\], vocative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *adarśy* \< *adarśi* \< *dṛś*
+- *adarśy* ← *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *ahrayam* \< *ahraya*
+- *ahrayam* ← *ahraya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -39,10 +39,10 @@ title = "Rig Veda 8.56.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prathinā* \< *prathiman*
+- *prathinā* ← *prathiman*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

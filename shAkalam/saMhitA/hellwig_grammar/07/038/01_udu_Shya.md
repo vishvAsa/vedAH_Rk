@@ -10,36 +10,36 @@ title = "Rig Veda 7.38.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *tya*
+- *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *yayāma* \< *yam*
+- *yayāma* ← *yam*
 - \[verb\], singular, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *hiraṇyayīm* \< *hiraṇyaya*
+- *hiraṇyayīm* ← *hiraṇyaya*
 - \[noun\], accusative, singular, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *amatiṃ* \< *amatim* \< *amati*
+- *amatiṃ* ← *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *yām* \< *yad*
+- *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśiśret* \< *śri*
+- *aśiśret* ← *śri*
 - \[verb\], singular, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
@@ -47,16 +47,16 @@ title = "Rig Veda 7.38.1"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hvā*
+- *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *mānuṣebhir* \< *mānuṣebhiḥ* \< *mānuṣa*
+- *mānuṣebhir* ← *mānuṣebhiḥ* ← *mānuṣa*
 - \[noun\], instrumental, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
@@ -64,20 +64,20 @@ title = "Rig Veda 7.38.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ratnā* \< *ratna*
+- *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *purūvasur* \< *purūvasuḥ* \< *purūvasu*
+- *purūvasur* ← *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *dadhāti* \< *dhā*
+- *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

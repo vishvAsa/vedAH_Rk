@@ -6,20 +6,20 @@ title = "Rig Veda 7.88.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śundhyuvaṃ* \< *śundhyuvam* \< *śundhyu*
+- *śundhyuvaṃ* ← *śundhyuvam* ← *śundhyu*
 - \[noun\], accusative, singular, masculine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *varuṇāya* \< *varuṇa*
+- *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *preṣṭhām* \< *preṣṭha*
+- *preṣṭhām* ← *preṣṭha*
 - \[noun\], accusative, singular, feminine
 - “dearest.”
 ------------------------------------------------------------------------
-- *matiṃ* \< *matim* \< *mati*
+- *matiṃ* ← *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -28,27 +28,27 @@ title = "Rig Veda 7.88.1"
 - \[noun\], vocative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *mīﾱhuṣe* \< *mīḍhuṣe* \< *mīḍhvas*
+- *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *bharasva* \< *bhṛ*
+- *bharasva* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *arvāñcaṃ* \< *arvāñcam* \< *arvāñc*
+- *arvāñcaṃ* ← *arvāñcam* ← *arvāñc*
 - \[noun\], accusative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *karate* \< *kṛ*
+- *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -59,18 +59,18 @@ title = "Rig Veda 7.88.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yajatraṃ* \< *yajatram* \< *yajatra*
+- *yajatraṃ* ← *yajatram* ← *yajatra*
 - \[noun\], accusative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *sahasrāmaghaṃ* \< *sahasrāmagham* \< *sahasrāmagha*
+- *sahasrāmaghaṃ* ← *sahasrāmagham* ← *sahasrāmagha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”

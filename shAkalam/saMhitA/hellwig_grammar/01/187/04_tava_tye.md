@@ -2,19 +2,19 @@
 title = "Rig Veda 1.187.4"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *pito* \< *pitu*
+- *pito* ← *pitu*
 - \[noun\], vocative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *rasā* \< *rasāḥ* \< *rasa*
+- *rasā* ← *rasāḥ* ← *rasa*
 - \[noun\], nominative, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -22,7 +22,7 @@ title = "Rig Veda 1.187.4"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *rajāṃsy* \< *rajāṃsi* \< *rajas*
+- *rajāṃsy* ← *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -31,15 +31,15 @@ title = "Rig Veda 1.187.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *viṣṭhitāḥ* \< *viṣṭhā* \< *√sthā*
+- *viṣṭhitāḥ* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vātā* \< *vātāḥ* \< *vāta*
+- *vātā* ← *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -48,7 +48,7 @@ title = "Rig Veda 1.187.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śritāḥ* \< *śri*
+- *śritāḥ* ← *śri*
 - \[verb noun\], nominative, plural
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

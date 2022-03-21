@@ -6,24 +6,24 @@ title = "Rig Veda 3.38.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *taṣṭā* \< *taṣṭṛ*
+- *taṣṭeva* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
 ------------------------------------------------------------------------
-- *taṣṭeva* \< *iva*
+- *taṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dīdhayā* \< *dhī*
+- *dīdhayā* ← *dhī*
 - \[verb\], singular, Perfect indicative
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *manīṣām* \< *manīṣā*
+- *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -31,14 +31,14 @@ title = "Rig Veda 3.38.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *sudhuro* \< *sudhuraḥ* \< *sudhura*
+- *sudhuro* ← *sudhuraḥ* ← *sudhura*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *jihānaḥ* \< *hā*
+- *jihānaḥ* ← *hā*
 - \[verb noun\], nominative, singular
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
@@ -49,35 +49,35 @@ title = "Rig Veda 3.38.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *priyāṇi* \< *priya*
+- *priyāṇi* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *marmṛśat* \< *marmṛś* \< *√mṛś*
+- *marmṛśat* ← *marmṛś* ← *√mṛś*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *parāṇi* \< *para*
+- *parāṇi* ← *para*
 - \[noun\], accusative, plural, neuter
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
     concluding; foreign; earlier; worse; longer; finest; excessive.”
 ------------------------------------------------------------------------
-- *kavīṃr* \< *kavi*
+- *kavīṃr* ← *kavi*
 - \[noun\], accusative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *icchāmi* \< *iṣ*
+- *icchāmi* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *saṃdṛśe* \< *saṃdṛś* \< *√dṛś*
+- *saṃdṛśe* ← *saṃdṛś* ← *√dṛś*
 - \[verb noun\]
 - “see; look; consider.”
 ------------------------------------------------------------------------
-- *sumedhāḥ* \< *sumedhas*
+- *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------

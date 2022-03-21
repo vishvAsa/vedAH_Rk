@@ -2,36 +2,36 @@
 title = "Rig Veda 1.1.8"
 
 +++
--   *rājantam* \< *rāj*
+-   *rājantam* ← *rāj*
 - \[verb noun\], accusative, singular
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *adhvarāṇāṃ* \< *adhvarāṇām* \< *adhvara*
+- *adhvarāṇāṃ* ← *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *gopām* \< *gopā*
+- *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dīdivim* \< *dīdivi*
+- *dīdivim* ← *dīdivi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vardhamānaṃ* \< *vardhamānam* \< *vṛdh*
+- *vardhamānaṃ* ← *vardhamānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *sve* \< *sva*
+- *sve* ← *sva*
 - \[noun\], locative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------

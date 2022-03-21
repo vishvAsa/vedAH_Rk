@@ -2,20 +2,20 @@
 title = "Rig Veda 1.50.5"
 
 +++
--   *pratyaṅ* \< *pratyañc*
+-   *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viśaḥ* \< *viś*
+- *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *pratyaṅṅ* \< *pratyaṅ* \< *pratyañc*
+- *pratyaṅṅ* ← *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 1.50.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *mānuṣān* \< *mānuṣa*
+- *mānuṣān* ← *mānuṣa*
 - \[noun\], accusative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *pratyaṅ* \< *pratyañc*
+- *pratyaṅ* ← *pratyañc*
 - \[noun\], nominative, singular, masculine
 - “western; facing; westbound; backward; pratyañc \[word\]; inverted.”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -44,7 +44,7 @@ title = "Rig Veda 1.50.5"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *dṛśe* \< *dṛś*
+- *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;

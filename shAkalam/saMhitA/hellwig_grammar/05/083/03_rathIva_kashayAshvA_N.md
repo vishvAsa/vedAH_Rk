@@ -2,34 +2,34 @@
 title = "Rig Veda 5.83.3"
 
 +++
--   *rathīva* \< *rathī* \< *rathin*
+-   *rathīva* ← *rathī* ← *rathin*
 - \[noun\], nominative, singular, masculine
 - “driver; charioteer; Kshatriya; owner of a car.”
 ------------------------------------------------------------------------
-- *rathīva* \< *iva*
+- *rathīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kaśayāśvāṃ* \< *kaśayā* \< *kaśā*
+- *kaśayāśvāṃ* ← *kaśayā* ← *kaśā*
 - \[noun\], instrumental, singular, feminine
 - “whip.”
 ------------------------------------------------------------------------
-- *kaśayāśvāṃ* \< *aśvāṃ* \< *aśva*
+- *kaśayāśvāṃ* ← *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *abhikṣipann* \< *abhikṣipan* \< *abhikṣip* \< *√kṣip*
+- *abhikṣipann* ← *abhikṣipan* ← *abhikṣip* ← *√kṣip*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *dūtān* \< *dūta*
+- *dūtān* ← *dūta*
 - \[noun\], accusative, plural, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,7 +40,7 @@ title = "Rig Veda 5.83.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *varṣyāṃ* \< *varṣya*
+- *varṣyāṃ* ← *varṣya*
 - \[noun\], accusative, plural, masculine
 - “rain; rainy.”
 ------------------------------------------------------------------------
@@ -52,18 +52,18 @@ title = "Rig Veda 5.83.3"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *siṃhasya* \< *siṃha*
+- *siṃhasya* ← *siṃha*
 - \[noun\], genitive, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
-- *stanathā* \< *stanathāḥ* \< *stanatha*
+- *stanathā* ← *stanathāḥ* ← *stanatha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 5.83.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *parjanyaḥ* \< *parjanya*
+- *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -86,11 +86,11 @@ title = "Rig Veda 5.83.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *varṣyaṃ* \< *varṣyam* \< *varṣya*
+- *varṣyaṃ* ← *varṣyam* ← *varṣya*
 - \[noun\], accusative, singular, neuter
 - “rain; rainy.”
 ------------------------------------------------------------------------
-- *nabhaḥ* \< *nabhas*
+- *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------

@@ -2,25 +2,25 @@
 title = "Rig Veda 9.44.4"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vājayuś* \< *vājayuḥ* \< *vājayu*
+- *vājayuś* ← *vājayuḥ* ← *vājayu*
 - \[noun\], nominative, singular, masculine
 - “competing(a); competitive.”
 ------------------------------------------------------------------------
-- *cakrāṇaś* \< *cakrāṇaḥ* \< *kṛ*
+- *cakrāṇaś* ← *cakrāṇaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -31,22 +31,22 @@ title = "Rig Veda 9.44.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *barhiṣmāṃ* \< *barhiṣmat*
+- *barhiṣmāṃ* ← *barhiṣmat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsati* \< *vivās* \< *√van*
+- *vivāsati* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

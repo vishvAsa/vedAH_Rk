@@ -6,75 +6,75 @@ title = "Rig Veda 4.3.7"
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *puṣṭimbharāya* \< *puṣṭimbhara*
+- *puṣṭimbharāya* ← *puṣṭimbhara*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *pūṣṇe* \< *pūṣan*
+- *pūṣṇe* ← *pūṣan*
 - \[noun\], dative, singular
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *su*
+- *sumakhāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *makhāya* \< *makha*
+- *sumakhāya* ← *makhāya* ← *makha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *havirde* \< *haviḥ* \< *havis*
+- *havirde* ← *haviḥ* ← *havis*
 - \[noun\], neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *havirde* \< *de* \< *dā*
+- *havirde* ← *de* ← *dā*
 - \[noun\], dative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *viṣṇava* \< *viṣṇave* \< *viṣṇu*
+- *viṣṇava* ← *viṣṇave* ← *viṣṇu*
 - \[noun\], dative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *urugāyāya* \< *urugāya*
+- *urugāyāya* ← *urugāya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *reto* \< *retaḥ* \< *retas*
+- *reto* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *bravaḥ* \< *brū*
+- *bravaḥ* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śarave* \< *śaru*
+- *śarave* ← *śaru*
 - \[noun\], dative, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------
-- *bṛhatyai* \< *bṛhat*
+- *bṛhatyai* ← *bṛhat*
 - \[noun\], dative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”

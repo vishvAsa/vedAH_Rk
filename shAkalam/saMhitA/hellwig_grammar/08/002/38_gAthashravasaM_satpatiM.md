@@ -2,38 +2,38 @@
 title = "Rig Veda 8.2.38"
 
 +++
--   *gāthaśravasaṃ* \< *gātha*
+-   *gāthaśravasaṃ* ← *gātha*
 - \[noun\], masculine
 - “song.”
 ------------------------------------------------------------------------
-- *gāthaśravasaṃ* \< *śravasam* \< *śravas*
+- *gāthaśravasaṃ* ← *śravasam* ← *śravas*
 - \[noun\], accusative, singular, masculine
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *satpatiṃ* \< *satpatim* \< *satpati*
+- *satpatiṃ* ← *satpatim* ← *satpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *śravaskāmam* \< *śravaskāma*
+- *śravaskāmam* ← *śravaskāma*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *purutmānam* \< *puru*
+- *purutmānam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purutmānam* \< *tmānam* \< *tman*
+- *purutmānam* ← *tmānam* ← *tman*
 - \[noun\], accusative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *kaṇvāso* \< *kaṇvāsaḥ* \< *kaṇva*
+- *kaṇvāso* ← *kaṇvāsaḥ* ← *kaṇva*
 - \[noun\], vocative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *gāta* \< *gā*
+- *gāta* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 10.61.11"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *kanāyāḥ* \< *kanā*
+- *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *navīyo* \< *navīyaḥ* \< *navīyas*
+- *navīyo* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 10.61.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *reta* \< *retaḥ* \< *retas*
+- *reta* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *turaṇyan* \< *turaṇy*
+- *turaṇyan* ← *turaṇy*
 - \[verb\], plural, Present injunctive
 - “rush.”
 ------------------------------------------------------------------------
@@ -47,29 +47,29 @@ title = "Rig Veda 10.61.11"
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rekṇa* \< *rekṇaḥ* \< *rekṇas*
+- *rekṇa* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
 ------------------------------------------------------------------------
-- *āyajanta* \< *āyaj* \< *√yaj*
+- *āyajanta* ← *āyaj* ← *√yaj*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *sabardughāyāḥ* \< *sabardugha*
+- *sabardughāyāḥ* ← *sabardugha*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *paya* \< *payaḥ* \< *payas*
+- *paya* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *usriyāyāḥ* \< *usriyā*
+- *usriyāyāḥ* ← *usriyā*
 - \[noun\], genitive, singular, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------

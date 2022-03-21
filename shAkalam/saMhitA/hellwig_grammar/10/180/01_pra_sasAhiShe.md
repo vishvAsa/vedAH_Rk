@@ -6,7 +6,7 @@ title = "Rig Veda 10.180.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sasāhiṣe* \< *sah*
+- *sasāhiṣe* ← *sah*
 - \[verb\], singular, Perfect indicative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 10.180.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *śatrūñ* \< *śatrūn* \< *śatru*
+- *śatrūñ* ← *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *jyeṣṭhas* \< *jyeṣṭhaḥ* \< *jyeṣṭha*
+- *jyeṣṭhas* ← *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣma* \< *śuṣmaḥ* \< *śuṣma*
+- *śuṣma* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
@@ -34,49 +34,49 @@ title = "Rig Veda 10.180.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *rātir* \< *rātiḥ* \< *rāti*
+- *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *dakṣiṇenā* \< *dakṣiṇa*
+- *dakṣiṇenā* ← *dakṣiṇa*
 - \[noun\], instrumental, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *sindhūnām* \< *sindhu*
+- *sindhūnām* ← *sindhu*
 - \[noun\], genitive, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *revatīnām* \< *revat*
+- *revatīnām* ← *revat*
 - \[noun\], genitive, plural, feminine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------

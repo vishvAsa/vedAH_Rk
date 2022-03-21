@@ -2,23 +2,23 @@
 title = "Rig Veda 1.24.1"
 
 +++
--   *kasya* \< *ka*
+-   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *katamasyāmṛtānām* \< *katamasya* \< *katama*
+- *katamasyāmṛtānām* ← *katamasya* ← *katama*
 - \[noun\], genitive, singular, masculine
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *katamasyāmṛtānām* \< *amṛtānām* \< *amṛta*
+- *katamasyāmṛtānām* ← *amṛtānām* ← *amṛta*
 - \[noun\], genitive, plural, masculine
 - “mercury; Phaseolus trilobus Ait.; Vishnu; Shiva; deity.”
 ------------------------------------------------------------------------
-- *manāmahe* \< *man*
+- *manāmahe* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
@@ -28,29 +28,29 @@ title = "Rig Veda 1.24.1"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahyā* \< *mahyai* \< *mahi*
+- *mahyā* ← *mahyai* ← *mahi*
 - \[noun\], dative, singular, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *aditaye* \< *aditi*
+- *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
@@ -59,14 +59,14 @@ title = "Rig Veda 1.24.1"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *dāt* \< *dā*
+- *dāt* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -75,13 +75,13 @@ title = "Rig Veda 1.24.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dṛśeyam* \< *dṛś*
+- *dṛśeyam* ← *dṛś*
 - \[verb\], singular, Present optative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *mātaraṃ* \< *mātaram* \< *mātṛ*
+- *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

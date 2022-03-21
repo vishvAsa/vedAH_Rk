@@ -2,7 +2,7 @@
 title = "Rig Veda 8.65.2"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,22 +10,22 @@ title = "Rig Veda 8.65.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *prasravaṇe* \< *prasravaṇa*
+- *prasravaṇe* ← *prasravaṇa*
 - \[noun\], locative, singular, neuter
 - “waterfall; spring; discharge.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *mādayāse* \< *māday* \< *√mad*
+- *mādayāse* ← *māday* ← *√mad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *svarṇare* \< *svarṇara*
+- *svarṇare* ← *svarṇara*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 8.65.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------

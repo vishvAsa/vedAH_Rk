@@ -2,11 +2,11 @@
 title = "Rig Veda 8.97.14"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pura* \< *puraḥ* \< *pur*
+- *pura* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
@@ -15,18 +15,18 @@ title = "Rig Veda 8.97.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cikid* \< *cikit*
+- *cikid* ← *cikit*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *enā* \< *enāḥ* \< *enad*
+- *enā* ← *enāḥ* ← *enad*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
@@ -38,20 +38,20 @@ title = "Rig Veda 8.97.14"
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *nāśayadhyai* \< *nāśay* \< *√naś*
+- *nāśayadhyai* ← *nāśay* ← *√naś*
 - \[verb noun\]
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 8.97.14"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rejete* \< *rej*
+- *rejete* ← *rej*
 - \[verb\], dual, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------

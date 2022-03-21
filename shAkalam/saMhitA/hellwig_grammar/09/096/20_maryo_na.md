@@ -2,7 +2,7 @@
 title = "Rig Veda 9.96.20"
 
 +++
--   *maryo* \< *maryaḥ* \< *marya*
+-   *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 9.96.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhras* \< *śubhraḥ* \< *śubhra*
+- *śubhras* ← *śubhraḥ* ← *śubhra*
 - \[noun\], nominative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *mṛjāno* \< *mṛjānaḥ* \< *mṛj*
+- *mṛjāno* ← *mṛjānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *'tyo* \< *atyaḥ* \< *atya*
+- *'tyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -30,28 +30,28 @@ title = "Rig Veda 9.96.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sṛtvā* \< *sṛ*
+- *sṛtvā* ← *sṛ*
 - \[verb noun\]
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *sanaye* \< *sani*
+- *sanaye* ← *sani*
 - \[noun\], dative, singular, feminine
 - “gain.”
 ------------------------------------------------------------------------
-- *dhanānām* \< *dhana*
+- *dhanānām* ← *dhana*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *vṛṣā* \< *vṛṣan*
+- *vṛṣeva* ← *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣeva* \< *iva*
+- *vṛṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yūthā* \< *yūtha*
+- *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
@@ -59,20 +59,20 @@ title = "Rig Veda 9.96.20"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *arṣan* \< *ṛṣ*
+- *arṣan* ← *ṛṣ*
 - \[verb noun\], nominative, singular
 - “run.”
 ------------------------------------------------------------------------
-- *kanikradac* \< *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradac* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *camvor* \< *camvoḥ* \< *camū*
+- *camvor* ← *camvoḥ* ← *camū*
 - \[noun\], locative, dual, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 9.96.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

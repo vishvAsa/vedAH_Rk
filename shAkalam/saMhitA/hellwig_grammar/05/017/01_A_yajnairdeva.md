@@ -6,7 +6,7 @@ title = "Rig Veda 5.17.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajñair* \< *yajñaiḥ* \< *yajña*
+- *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 5.17.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *martya* \< *martyaḥ* \< *martya*
+- *martya* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
@@ -23,21 +23,21 @@ title = "Rig Veda 5.17.1"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *tavyāṃsam* \< *tavyas*
+- *tavyāṃsam* ← *tavyas*
 - \[noun\], accusative, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kṛte* \< *kṛ*
+- *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,23 +48,23 @@ title = "Rig Veda 5.17.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svadhvare* \< *su*
+- *svadhvare* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvare* \< *adhvare* \< *adhvara*
+- *svadhvare* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *pūrur* \< *pūruḥ* \< *pūru*
+- *pūrur* ← *pūruḥ* ← *pūru*
 - \[noun\], nominative, singular, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *īﾱītāvase* \< *īﾱīta* \< *īḍ*
+- *īﾱītāvase* ← *īﾱīta* ← *īḍ*
 - \[verb\], singular, Present optative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *īﾱītāvase* \< *avase* \< *av*
+- *īﾱītāvase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

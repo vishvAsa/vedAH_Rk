@@ -2,85 +2,85 @@
 title = "Rig Veda 1.159.4"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *māyino* \< *māyinaḥ* \< *māyin*
+- *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], nominative, plural, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *mamire* \< *mā*
+- *mamire* ← *mā*
 - \[verb\], plural, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *supracetaso* \< *su*
+- *supracetaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supracetaso* \< *pracetasaḥ* \< *pracetas*
+- *supracetaso* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *jāmī* \< *jāmi*
+- *jāmī* ← *jāmi*
 - \[noun\], accusative, dual, feminine
 - “sister; woman; daughter-in-law.”
 ------------------------------------------------------------------------
-- *sayonī* \< *sayoni*
+- *sayonī* ← *sayoni*
 - \[noun\], accusative, dual, feminine
 - “related.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], accusative, plural, neuter
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *samokasā* \< *samokas*
+- *samokasā* ← *samokas*
 - \[noun\], accusative, dual, feminine
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *tantum* \< *tantu*
+- *tantum* ← *tantu*
 - \[noun\], accusative, singular, masculine
 - “thread; fiber; lineage; cobweb; fibril; stalk.”
 ------------------------------------------------------------------------
-- *ā* \< *\_* \< *√\_*
+- *ā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tanvate* \< *tan*
+- *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *kavayaḥ* \< *kavi*
+- *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *sudītayaḥ* \< *su*
+- *sudītayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudītayaḥ* \< *dītayaḥ* \< *dīti*
+- *sudītayaḥ* ← *dītayaḥ* ← *dīti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

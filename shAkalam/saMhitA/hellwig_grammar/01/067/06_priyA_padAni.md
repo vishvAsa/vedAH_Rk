@@ -2,19 +2,19 @@
 title = "Rig Veda 1.67.6"
 
 +++
--   *priyā* \< *priya*
+-   *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *padāni* \< *pada*
+- *padāni* ← *pada*
 - \[noun\], accusative, plural, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *paśvo* \< *paśvaḥ* \< *paśu*
+- *paśvo* ← *paśvaḥ* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -23,15 +23,15 @@ title = "Rig Veda 1.67.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -41,11 +41,11 @@ title = "Rig Veda 1.67.6"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *guhaṃ* \< *guham* \< *guha*
+- *guhaṃ* ← *guham* ← *guha*
 - \[noun\], accusative, singular, masculine
 - “Guha; Skanda; Vishnu.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *gā*
+- *gāḥ* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

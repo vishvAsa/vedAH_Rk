@@ -2,32 +2,32 @@
 title = "Rig Veda 10.151.2"
 
 +++
--   *priyaṃ* \< *priyam* \< *priya*
+-   *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śraddhe* \< *śraddhā*
+- *śraddhe* ← *śraddhā*
 - \[noun\], vocative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *dadataḥ* \< *dā*
+- *dadataḥ* ← *dā*
 - \[verb noun\], genitive, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śraddhe* \< *śraddhā*
+- *śraddhe* ← *śraddhā*
 - \[noun\], vocative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *didāsataḥ* \< *didās* \< *√dā*
+- *didāsataḥ* ← *didās* \< *√dā*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
 - *priyam* \< *priya*

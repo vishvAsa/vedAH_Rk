@@ -2,7 +2,7 @@
 title = "Rig Veda 9.66.18"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,42 +10,42 @@ title = "Rig Veda 9.66.18"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sūra* \< *sūraḥ* \< *svar*
+- *sūra* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *eṣas* \< *ā*
+- *eṣas* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eṣas* \< *iṣaḥ* \< *iṣ*
+- *eṣas* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *tokasya* \< *toka*
+- *tokasya* ← *toka*
 - \[noun\], genitive, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *sātā* \< *sāti*
+- *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *tanūnām* \< *tanu*
+- *tanūnām* ← *tanu*
 - \[noun\], genitive, plural, feminine
 - “body; embodiment; life; life; root; body; form.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *yujyāya* \< *yujya*
+- *yujyāya* ← *yujya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------

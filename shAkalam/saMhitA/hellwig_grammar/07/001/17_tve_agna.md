@@ -2,24 +2,24 @@
 title = "Rig Veda 7.1.17"
 
 +++
--   *tve* \< *tvad*
+-   *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *āhavanāni* \< *āhavana*
+- *āhavanāni* ← *āhavana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *bhūrīśānāsa* \< *bhūrī* \< *bhūri*
+- *bhūrīśānāsa* ← *bhūrī* ← *bhūri*
 - \[noun\], accusative, plural, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūrīśānāsa* \< *īśānāsaḥ* \< *īś*
+- *bhūrīśānāsa* ← *īśānāsaḥ* ← *īś*
 - \[verb noun\], nominative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 7.1.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *juhuyāma* \< *hu*
+- *juhuyāma* ← *hu*
 - \[verb\], plural, Present optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *nityā* \< *nitya*
+- *nityā* ← *nitya*
 - \[noun\], accusative, plural, neuter
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;

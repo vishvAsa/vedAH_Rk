@@ -2,22 +2,22 @@
 title = "Rig Veda 10.13.2"
 
 +++
--   *yame* \< *yama*
+-   *yame* ← *yama*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yatamāne* \< *yat*
+- *yatamāne* ← *yat*
 - \[verb noun\], nominative, dual
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *aitam* \< *i*
+- *aitam* ← *i*
 - \[verb\], dual, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -25,20 +25,20 @@ title = "Rig Veda 10.13.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bharan* \< *bhṛ*
+- *bharan* ← *bhṛ*
 - \[verb\], plural, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣāḥ* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣāḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *devayantaḥ* \< *devay*
+- *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
@@ -46,12 +46,12 @@ title = "Rig Veda 10.13.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sīdataṃ* \< *sīdatam* \< *sad*
+- *sīdataṃ* ← *sīdatam* ← *sad*
 - \[verb\], dual, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
@@ -60,32 +60,32 @@ title = "Rig Veda 10.13.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *vidāne* \< *vid*
+- *vidāne* ← *vid*
 - \[verb noun\], nominative, dual
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *svāsasthe* \< *svāsastha*
+- *svāsasthe* ← *svāsastha*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *bhavatam* \< *bhū*
+- *bhavatam* ← *bhū*
 - \[verb\], dual, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *indave* \< *indu*
+- *indave* ← *indu*
 - \[noun\], dative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,13 +2,13 @@
 title = "Rig Veda 1.25.12"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -16,29 +16,29 @@ title = "Rig Veda 1.25.12"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *sukratur* \< *su*
+- *sukratur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratur* \< *kratuḥ* \< *kratu*
+- *sukratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *ādityaḥ* \< *āditya*
+- *ādityaḥ* ← *āditya*
 - \[noun\], nominative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *supathā* \< *su*
+- *supathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supathā* \< *pathā* \< *patha*
+- *supathā* ← *pathā* ← *patha*
 - \[noun\], accusative, plural, neuter
 - “way; method; passage; road; scope; path; patha \[word\]; path;
     region; way.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -53,15 +53,15 @@ title = "Rig Veda 1.25.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇa* \< *ṇaḥ* \< *mad*
+- *ṇa* ← *ṇaḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyūṃṣi* \< *āyus*
+- *āyūṃṣi* ← *āyus*
 - \[noun\], accusative, plural, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tāriṣat* \< *tṛ*
+- *tāriṣat* ← *tṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

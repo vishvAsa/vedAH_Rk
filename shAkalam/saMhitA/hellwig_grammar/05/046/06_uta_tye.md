@@ -6,50 +6,50 @@ title = "Rig Veda 5.46.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *parvatāsaḥ* \< *parvata*
+- *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *suśastayaḥ* \< *su*
+- *suśastayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśastayaḥ* \< *śastayaḥ* \< *śasti*
+- *suśastayaḥ* ← *śastayaḥ* ← *śasti*
 - \[noun\], nominative, plural, masculine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *sudītayo* \< *su*
+- *sudītayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudītayo* \< *dītayaḥ* \< *dīti*
+- *sudītayo* ← *dītayaḥ* ← *dīti*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *nadyas* \< *nadyaḥ* \< *nadī*
+- *nadyas* ← *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *trāmaṇe* \< *trāman*
+- *trāmaṇe* ← *trāman*
 - \[noun\], dative, singular, neuter
 - “protection.”
 ------------------------------------------------------------------------
-- *bhuvan* \< *bhū*
+- *bhuvan* ← *bhū*
 - \[verb\], plural, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* \< *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”

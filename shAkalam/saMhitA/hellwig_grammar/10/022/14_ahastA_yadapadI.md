@@ -2,34 +2,34 @@
 title = "Rig Veda 10.22.14"
 
 +++
--   *ahastā* \< *ahasta*
+-   *ahastā* ← *ahasta*
 - \[noun\], nominative, singular, feminine
 - “handless.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apadī* \< *apada*
+- *apadī* ← *apada*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vardhata* \< *vṛdh*
+- *vardhata* ← *vṛdh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *kṣāḥ* \< *kṣā*
+- *kṣāḥ* ← *kṣā*
 - \[noun\], nominative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *vedyānām* \< *vedyā*
+- *vedyānām* ← *vedyā*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------

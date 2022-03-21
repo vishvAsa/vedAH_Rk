@@ -2,11 +2,11 @@
 title = "Rig Veda 6.31.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatāny* \< *śatāni* \< *śata*
+- *śatāny* ← *śatāni* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -14,29 +14,29 @@ title = "Rig Veda 6.31.4"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *śambarasya* \< *śambara*
+- *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *jaghanthāpratīni* \< *jaghantha* \< *han*
+- *jaghanthāpratīni* ← *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *jaghanthāpratīni* \< *apratīni* \< *aprati*
+- *jaghanthāpratīni* ← *apratīni* ← *aprati*
 - \[noun\], accusative, plural, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *dasyoḥ* \< *dasyu*
+- *dasyoḥ* ← *dasyu*
 - \[noun\], genitive, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *aśikṣo* \< *aśikṣaḥ* \< *śikṣ*
+- *aśikṣo* ← *aśikṣaḥ* ← *śikṣ*
 - \[verb\], singular, Imperfect
 - “help; give.”
 ------------------------------------------------------------------------
@@ -44,34 +44,34 @@ title = "Rig Veda 6.31.4"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *śacīvo* \< *śacīvas* \< *śacīvat*
+- *śacīvo* ← *śacīvas* ← *śacīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *divodāsāya* \< *divodāsa*
+- *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutakre* \< *sutakri*
+- *sutakre* ← *sutakri*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *bharadvājāya* \< *bharadvāja*
+- *bharadvājāya* ← *bharadvāja*
 - \[noun\], dative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------

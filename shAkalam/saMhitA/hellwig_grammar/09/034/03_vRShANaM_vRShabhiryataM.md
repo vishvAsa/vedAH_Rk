@@ -2,38 +2,38 @@
 title = "Rig Veda 9.34.3"
 
 +++
--   *vṛṣāṇaṃ* \< *vṛṣāṇam* \< *vṛṣan*
+-   *vṛṣāṇaṃ* ← *vṛṣāṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣabhir* \< *vṛṣabhiḥ* \< *vṛṣan*
+- *vṛṣabhir* ← *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *yataṃ* \< *yatam* \< *yam*
+- *yataṃ* ← *yatam* ← *yam*
 - \[verb noun\], accusative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *sunvanti* \< *su*
+- *sunvanti* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *duhanti* \< *duh*
+- *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *śakmanā* \< *śakman*
+- *śakmanā* ← *śakman*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------

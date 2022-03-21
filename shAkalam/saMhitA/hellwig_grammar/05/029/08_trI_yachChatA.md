@@ -2,19 +2,19 @@
 title = "Rig Veda 5.29.8"
 
 +++
--   *trī* \< *tri*
+-   *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *yacchatā* \< *yat*
+- *yacchatā* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchatā* \< *śatā* \< *śata*
+- *yacchatā* ← *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *mahiṣāṇām* \< *mahiṣa*
+- *mahiṣāṇām* ← *mahiṣa*
 - \[noun\], genitive, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------

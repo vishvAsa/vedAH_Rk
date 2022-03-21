@@ -2,75 +2,75 @@
 title = "Rig Veda 6.41.5"
 
 +++
--   *hvayāmasi* \< *hvā*
+-   *hvayāmasi* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tvendra* \< *tvā* \< *tvad*
+- *tvendra* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvendra* \< *indra*
+- *tvendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *araṃ* \< *aram*
+- *araṃ* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *somas* \< *somaḥ* \< *soma*
+- *somas* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *bhavāti* \< *bhū*
+- *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *mādayasvā* \< *mādayasva* \< *māday* \< *√mad*
+- *mādayasvā* ← *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *suteṣu* \< *suta*
+- *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “son; child.”
 ------------------------------------------------------------------------
-- *prāsmāṃ* \< *pra*
+- *prāsmāṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāsmāṃ* \< *asmāṃ* \< *mad*
+- *prāsmāṃ* ← *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ava* \< *av*
+- *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 6.41.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

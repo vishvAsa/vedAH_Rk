@@ -2,7 +2,7 @@
 title = "Rig Veda 6.21.2"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,51 +12,51 @@ title = "Rig Veda 6.21.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *stuṣa* \< *stuṣe* \< *stu*
+- *stuṣa* ← *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vidāno* \< *vidānaḥ* \< *vid*
+- *vidāno* ← *vidānaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *girvāhasaṃ* \< *gir*
+- *girvāhasaṃ* ← *gir*
 - \[noun\], feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *girvāhasaṃ* \< *vāhasam* \< *vāhas*
+- *girvāhasaṃ* ← *vāhasam* ← *vāhas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *yajñavṛddham* \< *yajña*
+- *yajñavṛddham* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñavṛddham* \< *vṛddham* \< *vṛdh*
+- *yajñavṛddham* ← *vṛddham* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *divam* \< *div*
+- *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -64,32 +64,32 @@ title = "Rig Veda 6.21.2"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *purumāyasya* \< *puru*
+- *purumāyasya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumāyasya* \< *māyasya* \< *māyā*
+- *purumāyasya* ← *māyasya* ← *māyā*
 - \[noun\], genitive, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *mahi*
+- *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *tvam* \< *tva*
+- *mahitvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------

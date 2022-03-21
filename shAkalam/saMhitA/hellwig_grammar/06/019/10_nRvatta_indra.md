@@ -2,15 +2,15 @@
 title = "Rig Veda 6.19.10"
 
 +++
--   *nṛvat* \< *nṛ*
+-   *nṛvat* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛvat* \< *vat*
+- *nṛvat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -19,25 +19,25 @@ title = "Rig Veda 6.19.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nṛtamābhir* \< *nṛtamābhiḥ* \< *nṛtama*
+- *nṛtamābhir* ← *nṛtamābhiḥ* ← *nṛtama*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vaṃsīmahi* \< *van*
+- *vaṃsīmahi* ← *van*
 - \[verb\], plural, Aorist optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vāmaṃ* \< *vāmam* \< *vāma*
+- *vāmaṃ* ← *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *śromatebhiḥ* \< *śromata*
+- *śromatebhiḥ* ← *śromata*
 - \[noun\], instrumental, plural, neuter
 - “fame.”
 ------------------------------------------------------------------------
-- *īkṣe* \< *īś*
+- *īkṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 6.19.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vasva* \< *vasvaḥ* \< *vasu*
+- *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
@@ -57,12 +57,12 @@ title = "Rig Veda 6.19.10"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
@@ -71,11 +71,11 @@ title = "Rig Veda 6.19.10"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *sthūram* \< *sthūra*
+- *sthūram* ← *sthūra*
 - \[noun\], accusative, singular, masculine
 - “large; portly; fleshy.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”

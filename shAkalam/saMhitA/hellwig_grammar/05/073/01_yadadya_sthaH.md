@@ -2,7 +2,7 @@
 title = "Rig Veda 5.73.1"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,27 +10,27 @@ title = "Rig Veda 5.73.1"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *sthaḥ* \< *as*
+- *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *arvāvaty* \< *arvāvati* \< *arvāvat*
+- *arvāvaty* ← *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -38,23 +38,23 @@ title = "Rig Veda 5.73.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *puru*
+- *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *bhujā* \< *bhuj*
+- *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], nominative, dual, masculine
 - “eating; consuming.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *antarikṣa* \< *antarikṣe* \< *antarikṣa*
+- *antarikṣa* ← *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 5.73.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,23 +2,23 @@
 title = "Rig Veda 8.4.13"
 
 +++
--   *ratheṣṭhāyādhvaryavaḥ* \< *ratheṣṭhāya* \< *ratheṣṭha*
+-   *ratheṣṭhāyādhvaryavaḥ* ← *ratheṣṭhāya* ← *ratheṣṭha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *ratheṣṭhāyādhvaryavaḥ* \< *adhvaryavaḥ* \< *adhvaryu*
+- *ratheṣṭhāyādhvaryavaḥ* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sotana* \< *su*
+- *sotana* ← *su*
 - \[verb\], plural, Aorist imperative
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -26,10 +26,10 @@ title = "Rig Veda 8.4.13"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *bradhnasyādrayo* \< *bradhnasya* \< *bradhna*
+- *bradhnasyādrayo* ← *bradhnasya* ← *bradhna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *bradhnasyādrayo* \< *adrayaḥ* \< *adri*
+- *bradhnasyādrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -37,18 +37,18 @@ title = "Rig Veda 8.4.13"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakṣate* \< *cakṣ*
+- *cakṣate* ← *cakṣ*
 - \[verb\], plural, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *sunvanto* \< *sunvantaḥ* \< *su*
+- *sunvanto* ← *sunvantaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *dāśvadhvaram* \< *dāśu*
+- *dāśvadhvaram* ← *dāśu*
 - \[noun\]
 ------------------------------------------------------------------------
-- *dāśvadhvaram* \< *adhvaram* \< *adhvara*
+- *dāśvadhvaram* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

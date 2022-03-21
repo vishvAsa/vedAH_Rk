@@ -2,55 +2,55 @@
 title = "Rig Veda 3.30.7"
 
 +++
--   *yasmai* \< *yad*
+-   *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhāyur* \< *dhāyuḥ* \< *dhāyu*
+- *dhāyur* ← *dhāyuḥ* ← *dhāyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adadhā* \< *adadhāḥ* \< *dhā*
+- *adadhā* ← *adadhāḥ* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *martyāyābhaktaṃ* \< *martyāya* \< *martya*
+- *martyāyābhaktaṃ* ← *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *martyāyābhaktaṃ* \< *a*
+- *martyāyābhaktaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *martyāyābhaktaṃ* \< *bhaktam* \< *bhaj*
+- *martyāyābhaktaṃ* ← *bhaktam* ← *bhaj*
 - \[verb noun\], accusative, singular
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *bhajate* \< *bhaj*
+- *bhajate* ← *bhaj*
 - \[verb\], singular, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *gehyaṃ* \< *gehyam* \< *gehya*
+- *gehyaṃ* ← *gehyam* ← *gehya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *saḥ* \< *tad*
+- *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *bhadrā* \< *bhadra*
+- *bhadrā* ← *bhadra*
 - \[noun\], nominative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -59,18 +59,18 @@ title = "Rig Veda 3.30.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *ghṛtācī* \< *ghṛtāñc*
+- *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *sahasradānā* \< *sahasra*
+- *sahasradānā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradānā* \< *dānā* \< *dāna*
+- *sahasradānā* ← *dānā* ← *dāna*
 - \[noun\], nominative, singular, feminine
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
@@ -79,7 +79,7 @@ title = "Rig Veda 3.30.7"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *rātiḥ* \< *rāti*
+- *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

@@ -2,76 +2,76 @@
 title = "Rig Veda 1.166.6"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ugrā* \< *ugrāḥ* \< *ugra*
+- *ugrā* ← *ugrāḥ* ← *ugra*
 - \[noun\], vocative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sucetunāriṣṭagrāmāḥ* \< *sucetunā*
+- *sucetunāriṣṭagrāmāḥ* ← *sucetunā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sucetunāriṣṭagrāmāḥ* \< *ariṣṭa*
+- *sucetunāriṣṭagrāmāḥ* ← *ariṣṭa*
 - \[noun\]
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *sucetunāriṣṭagrāmāḥ* \< *grāmāḥ* \< *grāma*
+- *sucetunāriṣṭagrāmāḥ* ← *grāmāḥ* ← *grāma*
 - \[noun\], vocative, plural, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *pipartana* \< *pṛ*
+- *pipartana* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *didyud* \< *didyut*
+- *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *radati* \< *rad*
+- *radati* ← *rad*
 - \[verb\], singular, Present indikative
 - “dig.”
 ------------------------------------------------------------------------
-- *krivirdatī* \< *krivirdat*
+- *krivirdatī* ← *krivirdat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *riṇāti* \< *ri*
+- *riṇāti* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *paśvaḥ* \< *paśu*
+- *paśvaḥ* ← *paśu*
 - \[noun\], accusative, plural, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *sudhiteva* \< *sudhitā* \< *sudhita*
+- *sudhiteva* ← *sudhitā* ← *sudhita*
 - \[noun\], nominative, singular, feminine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *sudhiteva* \< *iva*
+- *sudhiteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------

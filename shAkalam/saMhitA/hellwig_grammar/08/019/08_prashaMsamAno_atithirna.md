@@ -2,11 +2,11 @@
 title = "Rig Veda 8.19.8"
 
 +++
--   *praśaṃsamāno* \< *praśaṃsamānaḥ* \< *praśaṃs* \< *√śaṃs*
+-   *praśaṃsamāno* ← *praśaṃsamānaḥ* ← *praśaṃs* ← *√śaṃs*
 - \[verb noun\], nominative, singular
 - “recommend; approve; praise; laud; favor; proclaim.”
 ------------------------------------------------------------------------
-- *atithir* \< *atithiḥ* \< *atithi*
+- *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 8.19.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mitriyo* \< *mitriyaḥ* \< *mitriya*
+- *mitriyo* ← *mitriyaḥ* ← *mitriya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'gnī* \< *agniḥ* \< *agni*
+- *'gnī* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -31,16 +31,16 @@ title = "Rig Veda 8.19.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vedyaḥ* \< *vid*
+- *vedyaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṣemāso* \< *kṣemāsaḥ* \< *kṣema*
+- *kṣemāso* ← *kṣemāsaḥ* ← *kṣema*
 - \[noun\], nominative, plural, masculine
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
@@ -50,25 +50,25 @@ title = "Rig Veda 8.19.8"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sādhavas* \< *sādhavaḥ* \< *sādhu*
+- *sādhavas* ← *sādhavaḥ* ← *sādhu*
 - \[noun\], nominative, plural, masculine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------

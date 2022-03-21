@@ -2,7 +2,7 @@
 title = "Rig Veda 8.45.35"
 
 +++
--   *bibhayā* \< *bibhaya* \< *bhī*
+-   *bibhayā* ← *bibhaya* ← *bhī*
 - \[verb\], singular, Perfect indicative
 - “fear; fear.”
 ------------------------------------------------------------------------
@@ -10,25 +10,25 @@ title = "Rig Veda 8.45.35"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvāvata* \< *tvāvataḥ* \< *tvāvat*
+- *tvāvata* ← *tvāvataḥ* ← *tvāvat*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *ugrād* \< *ugrāt* \< *ugra*
+- *ugrād* ← *ugrāt* ← *ugra*
 - \[noun\], ablative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *abhiprabhaṅgiṇaḥ* \< *abhiprabhaṅgin*
+- *abhiprabhaṅgiṇaḥ* ← *abhiprabhaṅgin*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *dasmād* \< *dasmāt* \< *dasma*
+- *dasmād* ← *dasmāt* ← *dasma*
 - \[noun\], ablative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛtīṣahaḥ* \< *ṛtīṣah*
+- *ṛtīṣahaḥ* ← *ṛtīṣah*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------

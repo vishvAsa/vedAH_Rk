@@ -2,33 +2,33 @@
 title = "Rig Veda 1.181.7"
 
 +++
--   *asarji* \< *sṛj*
+-   *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sthavirā* \< *sthavira*
+- *sthavirā* ← *sthavira*
 - \[noun\], nominative, singular, feminine
 - “old; strong; hardy; firm; firm.”
 ------------------------------------------------------------------------
-- *vedhasā* \< *vedhas*
+- *vedhasā* ← *vedhas*
 - \[noun\], vocative, dual, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *gīr* \< *gīḥ* \< *gir*
+- *gīr* ← *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *bāﾱhe* \< *bāḍhe* \< *bāḍha*
+- *bāﾱhe* ← *bāḍhe* ← *bāḍha*
 - \[noun\], locative, singular, masculine
 - “bāḍha \[word\]; all right(p); excessive.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -36,43 +36,43 @@ title = "Rig Veda 1.181.7"
 - \[adverb\]
 - “threefold.”
 ------------------------------------------------------------------------
-- *kṣarantī* \< *kṣar*
+- *kṣarantī* ← *kṣar*
 - \[verb noun\], nominative, singular
 - “run; melt.”
 ------------------------------------------------------------------------
-- *upastutāv* \< *upastutau* \< *upastu* \< *√stu*
+- *upastutāv* ← *upastutau* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *avataṃ* \< *avatam* \< *av*
+- *avataṃ* ← *avatam* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *nādhamānaṃ* \< *nādhamānam* \< *nādh*
+- *nādhamānaṃ* ← *nādhamānam* ← *nādh*
 - \[verb noun\], accusative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *ayāmañchṛṇutaṃ* \< *a*
+- *ayāmañchṛṇutaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayāmañchṛṇutaṃ* \< *yāman*
+- *ayāmañchṛṇutaṃ* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *ayāmañchṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *ayāmañchṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

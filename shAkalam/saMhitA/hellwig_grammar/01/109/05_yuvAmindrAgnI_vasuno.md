@@ -2,65 +2,65 @@
 title = "Rig Veda 1.109.5"
 
 +++
--   *yuvām* \< *tvad*
+-   *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *indra*
+- *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vasuno* \< *vasunaḥ* \< *vasu*
+- *vasuno* ← *vasunaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vibhāge* \< *vibhāga*
+- *vibhāge* ← *vibhāga*
 - \[noun\], locative, singular, masculine
 - “distinction; direction; part; placement; allotment; section; part;
     rule; distribution; distribution.”
 ------------------------------------------------------------------------
-- *tavastamā* \< *tavastama*
+- *tavastamā* ← *tavastama*
 - \[noun\], accusative, dual, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *śuśrava* \< *śru*
+- *śuśrava* ← *śru*
 - \[verb\], singular, Perfect indicative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *vṛtra*
+- *vṛtrahatye* ← *vṛtra*
 - \[noun\], neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtrahatye* \< *hatye* \< *hatya*
+- *vṛtrahatye* ← *hatye* ← *hatya*
 - \[noun\], locative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *tāv* \< *tau* \< *tad*
+- *tāv* ← *tau* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āsadyā* \< *āsadya* \< *āsad* \< *√sad*
+- *āsadyā* ← *āsadya* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -68,14 +68,14 @@ title = "Rig Veda 1.109.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *carṣaṇī* \< *carṣaṇi*
+- *carṣaṇī* ← *carṣaṇi*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *mādayethāṃ* \< *mādayethām* \< *māday* \< *√mad*
+- *mādayethāṃ* ← *mādayethām* ← *māday* ← *√mad*
 - \[verb\], dual, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------

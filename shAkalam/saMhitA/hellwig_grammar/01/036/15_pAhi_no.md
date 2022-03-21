@@ -2,41 +2,41 @@
 title = "Rig Veda 1.36.15"
 
 +++
--   *pāhi* \< *pā*
+-   *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rakṣasaḥ* \< *rakṣas*
+- *rakṣasaḥ* ← *rakṣas*
 - \[noun\], ablative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *dhūrter* \< *dhūrteḥ* \< *dhūrti*
+- *dhūrter* ← *dhūrteḥ* ← *dhūrti*
 - \[noun\], ablative, singular, feminine
 - “fraud; damage.”
 ------------------------------------------------------------------------
-- *arāvṇaḥ* \< *arāvan*
+- *arāvṇaḥ* ← *arāvan*
 - \[noun\], genitive, singular, masculine
 - “begrudging; hostile; stingy.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *rīṣata* \< *rīṣataḥ* \< *riṣ*
+- *rīṣata* ← *rīṣataḥ* ← *riṣ*
 - \[verb noun\], ablative, singular
 - “suffer; harm.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 1.36.15"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *jighāṃsato* \< *jighāṃsataḥ* \< *jighāṃs* \< *√han*
+- *jighāṃsato* ← *jighāṃsataḥ* ← *jighāṃs* ← *√han*
 - \[verb noun\], ablative, singular
 - “kill.”
 ------------------------------------------------------------------------
-- *bṛhadbhāno* \< *bṛhadbhānu*
+- *bṛhadbhāno* ← *bṛhadbhānu*
 - \[noun\], vocative, singular, masculine
 - “Agni; Bṛhadbhānu; Vishnu.”
 ------------------------------------------------------------------------

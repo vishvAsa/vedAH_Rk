@@ -2,54 +2,54 @@
 title = "Rig Veda 6.27.2"
 
 +++
--   *sad* \< *sat*
+-   *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *sad* \< *sat*
+- *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pītāv* \< *pītau* \< *pīti*
+- *pītāv* ← *pītau* ← *pīti*
 - \[noun\], locative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sad* \< *sat*
+- *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -60,7 +60,7 @@ title = "Rig Veda 6.27.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *raṇā* \< *raṇāḥ* \< *raṇa*
+- *raṇā* ← *raṇāḥ* ← *raṇa*
 - \[noun\], nominative, plural, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
@@ -68,24 +68,24 @@ title = "Rig Veda 6.27.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *niṣadi* \< *niṣad*
+- *niṣadi* ← *niṣad*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
 - *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -93,11 +93,11 @@ title = "Rig Veda 6.27.2"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *vividre* \< *vid*
+- *vividre* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *sad* \< *sat*
+- *sad* ← *sat*
 - \[noun\], accusative, singular, neuter
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
@@ -105,7 +105,7 @@ title = "Rig Veda 6.27.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nūtanāsaḥ* \< *nūtana*
+- *nūtanāsaḥ* ← *nūtana*
 - \[noun\], nominative, plural, masculine
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------

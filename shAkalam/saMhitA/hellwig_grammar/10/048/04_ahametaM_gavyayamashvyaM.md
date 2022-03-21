@@ -2,19 +2,19 @@
 title = "Rig Veda 10.48.4"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *etaṃ* \< *etam* \< *etad*
+- *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *gavyayam* \< *gavyaya*
+- *gavyayam* ← *gavyaya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *aśvyam* \< *aśvya*
+- *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
 ------------------------------------------------------------------------

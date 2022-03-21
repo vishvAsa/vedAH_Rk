@@ -2,60 +2,60 @@
 title = "Rig Veda 10.49.8"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *saptahā* \< *sapta* \< *saptan*
+- *saptahā* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptahā* \< *hā* \< *han*
+- *saptahā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *nahuṣo* \< *nahuṣaḥ* \< *nahus*
+- *nahuṣo* ← *nahuṣaḥ* ← *nahus*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *nahuṣṭaraḥ* \< *nahuṣṭara*
+- *nahuṣṭaraḥ* ← *nahuṣṭara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *prāśrāvayaṃ* \< *prāśrāvayam* \< *praśrāvay* \< *√śru*
+- *prāśrāvayaṃ* ← *prāśrāvayam* ← *praśrāvay* ← *√śru*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *turvaśaṃ* \< *turvaśam* \< *turvaśa*
+- *turvaśaṃ* ← *turvaśam* ← *turvaśa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yadum* \< *yadu*
+- *yadum* ← *yadu*
 - \[noun\], accusative, singular, masculine
 - “Yadu; Yadu.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *anyaṃ* \< *anyam* \< *anya*
+- *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahas* \< *sahaḥ* \< *sahas*
+- *sahas* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *karaṃ* \< *karam* \< *kṛ*
+- *karaṃ* ← *karam* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -66,14 +66,14 @@ title = "Rig Veda 10.49.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *vrādhato* \< *vrādhataḥ* \< *vrādh*
+- *vrādhato* ← *vrādhataḥ* ← *vrādh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 10.49.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vakṣayam* \< *vakṣay* \< *√vakṣ*
+- *vakṣayam* ← *vakṣay* ← *√vakṣ*
 - \[verb\], singular, Present injunctive
 - “strengthen.”
 ------------------------------------------------------------------------

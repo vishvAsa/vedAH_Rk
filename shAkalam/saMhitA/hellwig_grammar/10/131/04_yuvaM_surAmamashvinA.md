@@ -2,22 +2,22 @@
 title = "Rig Veda 10.131.4"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *surāmam* \< *surāma*
+- *surāmam* ← *surāma*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *namucāv* \< *namucau* \< *namuci*
+- *namucāv* ← *namucau* ← *namuci*
 - \[noun\], locative, singular, masculine
 - “Namuci; namuci \[word\].”
 ------------------------------------------------------------------------
-- *āsure* \< *āsura*
+- *āsure* ← *āsura*
 - \[noun\], locative, singular, masculine
 - “āsura; demoniac.”
 ------------------------------------------------------------------------
@@ -25,24 +25,24 @@ title = "Rig Veda 10.131.4"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *vipipānā* \< *vipā* \< *√pā*
+- *vipipānā* ← *vipā* ← *√pā*
 - \[verb noun\], nominative, dual
 - “drink; drink.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], nominative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *karmasv* \< *karmasu* \< *karman*
+- *karmasv* ← *karmasu* ← *karman*
 - \[noun\], locative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -50,7 +50,7 @@ title = "Rig Veda 10.131.4"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *āvatam* \< *av*
+- *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

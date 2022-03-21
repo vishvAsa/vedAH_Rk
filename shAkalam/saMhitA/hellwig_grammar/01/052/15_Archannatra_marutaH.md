@@ -2,7 +2,7 @@
 title = "Rig Veda 1.52.15"
 
 +++
--   *ārcann* \< *ārcan* \< *arc*
+-   *ārcann* ← *ārcan* ← *arc*
 - \[verb\], plural, Imperfect
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -11,31 +11,31 @@ title = "Rig Veda 1.52.15"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sasminn* \< *sasmin* \< *tad*
+- *sasminn* ← *sasmin* ← *tad*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *amadann* \< *amadan* \< *mad*
+- *amadann* ← *amadan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -43,22 +43,22 @@ title = "Rig Veda 1.52.15"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtrasya* \< *vṛtra*
+- *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *bhṛṣṭimatā* \< *bhṛṣṭimat*
+- *bhṛṣṭimatā* ← *bhṛṣṭimat*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *vadhena* \< *vadha*
+- *vadhena* ← *vadha*
 - \[noun\], instrumental, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
@@ -67,7 +67,7 @@ title = "Rig Veda 1.52.15"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -76,15 +76,15 @@ title = "Rig Veda 1.52.15"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ānaṃ* \< *ānam* \< *āna*
+- *ānaṃ* ← *ānam* ← *āna*
 - \[noun\], accusative, singular, masculine
 - “face.”
 ------------------------------------------------------------------------
-- *jaghantha* \< *han*
+- *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

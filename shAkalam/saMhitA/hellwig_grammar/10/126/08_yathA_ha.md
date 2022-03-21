@@ -10,15 +10,15 @@ title = "Rig Veda 10.126.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *gauryaṃ* \< *gauryam* \< *gaurī*
+- *gauryaṃ* ← *gauryam* ← *gaurī*
 - \[noun\], accusative, singular, feminine
 - “Parvati; gorocanā; turmeric; gaurī; gaurīpāṣāṇa; abhra; Gaurī.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 10.126.8"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *padi* \< *pad*
+- *padi* ← *pad*
 - \[noun\], locative, singular, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *ṣitām* \< *sitām* \< *sā*
+- *ṣitām* ← *sitām* ← *sā*
 - \[verb noun\], accusative, singular
 - “tie.”
 ------------------------------------------------------------------------
-- *amuñcatā* \< *amuñcata* \< *muc*
+- *amuñcatā* ← *amuñcata* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -42,28 +42,28 @@ title = "Rig Veda 10.126.8"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], nominative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *evo* \< *eva*
+- *evo* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evo* \< *u*
+- *evo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣv* \< *su*
+- *ṣv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *asman* \< *asmat* \< *mad*
+- *asman* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *muñcatā* \< *muñcata* \< *muc*
+- *muñcatā* ← *muñcata* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -71,11 +71,11 @@ title = "Rig Veda 10.126.8"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aṃhaḥ* \< *aṃhas*
+- *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -83,17 +83,17 @@ title = "Rig Veda 10.126.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tāry* \< *tāri* \< *tṛ*
+- *tāry* ← *tāri* ← *tṛ*
 - \[verb\], singular, Aorist passive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram* \< *pratara*
+- *prataraṃ* ← *prataram* \< *pratara*
 - \[noun\], accusative, singular, masculine
 - “pratara.”
 ------------------------------------------------------------------------

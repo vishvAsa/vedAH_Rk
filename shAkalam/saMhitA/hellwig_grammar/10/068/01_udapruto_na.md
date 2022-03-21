@@ -2,76 +2,76 @@
 title = "Rig Veda 10.68.1"
 
 +++
--   *udapruto* \< *uda* \< *udan*
+-   *udapruto* ← *uda* ← *udan*
 - \[noun\], neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *udapruto* \< *prutaḥ* \< *prut*
+- *udapruto* ← *prutaḥ* ← *prut*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *rakṣamāṇā* \< *rakṣamāṇāḥ* \< *rakṣ*
+- *rakṣamāṇā* ← *rakṣamāṇāḥ* ← *rakṣ*
 - \[verb noun\], nominative, plural
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *vāvadato* \< *vāvadataḥ* \< *vāvad* \< *√vad*
+- *vāvadato* ← *vāvadataḥ* ← *vāvad* ← *√vad*
 - \[verb noun\], nominative, plural
 - “make noise; chatter.”
 ------------------------------------------------------------------------
-- *abhriyasyeva* \< *abhriyasya* \< *abhriya*
+- *abhriyasyeva* ← *abhriyasya* ← *abhriya*
 - \[noun\], genitive, singular, masculine
 - “cumulonimbus.”
 ------------------------------------------------------------------------
-- *abhriyasyeva* \< *iva*
+- *abhriyasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ghoṣāḥ* \< *ghoṣa*
+- *ghoṣāḥ* ← *ghoṣa*
 - \[noun\], nominative, plural, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *giribhrajo* \< *giri*
+- *giribhrajo* ← *giri*
 - \[noun\]
 - “mountain(a).”
 ------------------------------------------------------------------------
-- *giribhrajo* \< *bhrajaḥ* \< *bhraj*
+- *giribhrajo* ← *bhrajaḥ* ← *bhraj*
 - \[noun\], nominative, plural, masculine
 - “erection.”
 ------------------------------------------------------------------------
-- *normayo* \< *na*
+- *normayo* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *normayo* \< *ūrmayaḥ* \< *ūrmi*
+- *normayo* ← *ūrmayaḥ* ← *ūrmi*
 - \[noun\], nominative, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *madanto* \< *madantaḥ* \< *mad*
+- *madanto* ← *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arkā* \< *arkāḥ* \< *arka*
+- *arkā* ← *arkāḥ* ← *arka*
 - \[noun\], nominative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *anāvan* \< *nū*
+- *anāvan* ← *nū*
 - \[verb\], plural, Imperfect
 - “praise; shout.”
 ------------------------------------------------------------------------

@@ -2,17 +2,17 @@
 title = "Rig Veda 1.122.7"
 
 +++
--   *stuṣe* \< *stu*
+-   *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -25,51 +25,51 @@ title = "Rig Veda 1.122.7"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *rātir* \< *rātiḥ* \< *rāti*
+- *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *pṛkṣayāmeṣu* \< *pṛkṣayāma*
+- *pṛkṣayāmeṣu* ← *pṛkṣayāma*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *pajre* \< *pajra*
+- *pajre* ← *pajra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutarathe* \< *śrutaratha*
+- *śrutarathe* ← *śrutaratha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *priyarathe* \< *priyaratha*
+- *priyarathe* ← *priyaratha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *dadhānāḥ* \< *dhā*
+- *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *sadyaḥ* \< *sadyas*
+- *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *puṣṭiṃ* \< *puṣṭim* \< *puṣṭi*
+- *puṣṭiṃ* ← *puṣṭim* ← *puṣṭi*
 - \[noun\], accusative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *nirundhānāso* \< *nirundhānāsaḥ* \< *nirudh* \< *√rudh*
+- *nirundhānāso* ← *nirundhānāsaḥ* ← *nirudh* ← *√rudh*
 - \[verb noun\], nominative, plural
 - “close; insert; seal; obstruct; fill into; enclose; put; stop;
     suppress; puṭ; banish; impede; envelop; capture.”
 ------------------------------------------------------------------------
-- *agman* \< *gam*
+- *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

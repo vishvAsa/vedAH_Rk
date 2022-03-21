@@ -2,63 +2,63 @@
 title = "Rig Veda 1.108.6"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *abravam* \< *brū*
+- *abravam* ← *brū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṇāno* \< *vṛṇānaḥ* \< *vṛ*
+- *vṛṇāno* ← *vṛṇānaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *'yaṃ* \< *ayam* \< *idam*
+- *'yaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *asurair* \< *asuraiḥ* \< *asura*
+- *asurair* ← *asuraiḥ* ← *asura*
 - \[noun\], instrumental, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vihavyaḥ* \< *vihvā* \< *√hvā*
+- *vihavyaḥ* ← *vihvā* ← *√hvā*
 - \[verb noun\], nominative, singular
 - “raise; compete.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tām* \< *tad*
+- *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *satyāṃ* \< *satyām* \< *satya*
+- *satyāṃ* ← *satyām* ← *satya*
 - \[noun\], accusative, singular, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *śraddhām* \< *śraddhā*
+- *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -70,24 +70,24 @@ title = "Rig Veda 1.108.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pibataṃ* \< *pibatam* \< *pā*
+- *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------

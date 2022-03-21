@@ -2,78 +2,78 @@
 title = "Rig Veda 10.96.8"
 
 +++
--   *hariśmaśārur* \< *hari*
+-   *hariśmaśārur* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *hariśmaśārur* \< *śmaśāruḥ* \< *śmaśāru*
+- *hariśmaśārur* ← *śmaśāruḥ* ← *śmaśāru*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *harikeśa* \< *hari*
+- *harikeśa* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *harikeśa* \< *keśaḥ* \< *keśa*
+- *harikeśa* ← *keśaḥ* ← *keśa*
 - \[noun\], nominative, singular, masculine
 - “mane; hair; keśa \[word\].”
 ------------------------------------------------------------------------
-- *āyasas* \< *āyasaḥ* \< *āyasa*
+- *āyasas* ← *āyasaḥ* ← *āyasa*
 - \[noun\], nominative, singular, masculine
 - “iron; metallic.”
 ------------------------------------------------------------------------
-- *turaspeye* \< *turaspeya*
+- *turaspeye* ← *turaspeya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *haripā* \< *hari*
+- *haripā* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *haripā* \< *pāḥ* \< *pā*
+- *haripā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *avardhata* \< *vṛdh*
+- *avardhata* ← *vṛdh*
 - \[verb\], singular, Imperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *arvadbhir* \< *arvadbhiḥ* \< *arvant*
+- *arvadbhir* ← *arvadbhiḥ* ← *arvant*
 - \[noun\], instrumental, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *vājinīvasur* \< *vājinīvasuḥ* \< *vājinīvasu*
+- *vājinīvasur* ← *vājinīvasuḥ* ← *vājinīvasu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *pāriṣaddharī* \< *pāriṣat* \< *pṛ*
+- *pāriṣaddharī* ← *pāriṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *pāriṣaddharī* \< *harī* \< *hari*
+- *pāriṣaddharī* ← *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.61.6"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,66 +14,66 @@ title = "Rig Veda 1.61.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *takṣad* \< *takṣat* \< *takṣ*
+- *takṣad* ← *takṣat* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *svapastamaṃ* \< *su*
+- *svapastamaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapastamaṃ* \< *apastamam* \< *apastama*
+- *svapastamaṃ* ← *apastamam* ← *apastama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svaryaṃ* \< *svaryam* \< *svarya*
+- *svaryaṃ* ← *svaryam* ← *svarya*
 - \[noun\], accusative, singular, masculine
 - “good for the voice.”
 ------------------------------------------------------------------------
-- *raṇāya* \< *raṇa*
+- *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *vṛtrasya* \< *vṛtra*
+- *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vidad* \< *vidat* \< *vid*
+- *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *marma* \< *marman*
+- *marma* ← *marman*
 - \[noun\], accusative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
 ------------------------------------------------------------------------
-- *tujann* \< *tujan* \< *tuj*
+- *tujann* ← *tujan* ← *tuj*
 - \[verb noun\], nominative, singular
 - “draw.”
 ------------------------------------------------------------------------
-- *īśānas* \< *īśānaḥ* \< *īś*
+- *īśānas* ← *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *tujatā* \< *tuj*
+- *tujatā* ← *tuj*
 - \[verb noun\], instrumental, singular
 - “draw.”
 ------------------------------------------------------------------------
-- *kiyedhāḥ* \< *kiyedhā*
+- *kiyedhāḥ* ← *kiyedhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

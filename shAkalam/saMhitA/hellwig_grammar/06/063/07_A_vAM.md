@@ -6,34 +6,34 @@ title = "Rig Veda 6.63.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *'śvāso* \< *aśvāsaḥ* \< *aśva*
+- *'śvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vahiṣṭhā* \< *vahiṣṭhāḥ* \< *vahiṣṭha*
+- *vahiṣṭhā* ← *vahiṣṭhāḥ* ← *vahiṣṭha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayo* \< *prayaḥ* \< *prayas*
+- *prayo* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -42,44 +42,44 @@ title = "Rig Veda 6.63.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *manojavā* \< *manaḥ* \< *manas*
+- *manojavā* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manojavā* \< *javāḥ* \< *javas*
+- *manojavā* ← *javāḥ* ← *javas*
 - \[noun\], nominative, singular, masculine
 - “speed.”
 ------------------------------------------------------------------------
-- *asarjīṣaḥ* \< *asarji* \< *sṛj*
+- *asarjīṣaḥ* ← *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *asarjīṣaḥ* \< *iṣaḥ* \< *iṣ*
+- *asarjīṣaḥ* ← *iṣaḥ* ← *iṣ*
 - \[noun\], nominative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pṛkṣa* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣa* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], nominative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *iṣidho* \< *iṣidhaḥ* \< *iṣidh*
+- *iṣidho* ← *iṣidhaḥ* ← *iṣidh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------

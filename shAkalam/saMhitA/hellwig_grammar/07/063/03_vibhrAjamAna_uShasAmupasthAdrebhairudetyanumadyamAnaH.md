@@ -2,18 +2,18 @@
 title = "Rig Veda 7.63.3"
 
 +++
--   *vibhrājamāna* \< *vibhrājamānaḥ* \< *vibhrāj* \< *√bhrāj*
+-   *vibhrājamāna* ← *vibhrājamānaḥ* ← *vibhrāj* ← *√bhrāj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *uṣasām* \< *uṣas*
+- *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *upasthād* \< *upasthāt* \< *upastha*
+- *upasthād* ← *upasthāt* ← *upastha*
 - \[noun\], ablative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *rebhair* \< *rebhaiḥ* \< *rebha*
+- *rebhair* ← *rebhaiḥ* ← *rebha*
 - \[noun\], instrumental, plural, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
@@ -21,39 +21,39 @@ title = "Rig Veda 7.63.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *anumadyamānaḥ* \< *anumad* \< *√mad*
+- *anumadyamānaḥ* ← *anumad* ← *√mad*
 - \[verb noun\], nominative, singular
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *cacchanda* \< *chand*
+- *cacchanda* ← *chand*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samānaṃ* \< *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
@@ -62,11 +62,11 @@ title = "Rig Veda 7.63.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pramināti* \< *pramī* \< *√mī*
+- *pramināti* ← *pramī* ← *√mī*
 - \[verb\], singular, Present indikative
 - “destroy.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”

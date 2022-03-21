@@ -2,20 +2,20 @@
 title = "Rig Veda 10.139.1"
 
 +++
--   *sūryaraśmir* \< *sūrya*
+-   *sūryaraśmir* ← *sūrya*
 - \[noun\], masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryaraśmir* \< *raśmiḥ* \< *raśmi*
+- *sūryaraśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *harikeśaḥ* \< *hari*
+- *harikeśaḥ* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *harikeśaḥ* \< *keśaḥ* \< *keśa*
+- *harikeśaḥ* ← *keśaḥ* ← *keśa*
 - \[noun\], nominative, singular, masculine
 - “mane; hair; keśa \[word\].”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 10.139.1"
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
@@ -36,11 +36,11 @@ title = "Rig Veda 10.139.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ayāṃ* \< *ayān* \< *yam*
+- *ayāṃ* ← *ayān* ← *yam*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *ajasram* \< *ajasra*
+- *ajasram* ← *ajasra*
 - \[noun\], accusative, singular, neuter
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------

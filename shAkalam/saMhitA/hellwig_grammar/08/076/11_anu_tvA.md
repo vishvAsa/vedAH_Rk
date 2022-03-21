@@ -6,7 +6,7 @@ title = "Rig Veda 8.76.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 8.76.11"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *krakṣamāṇam* \< *krakṣamāṇa*
+- *krakṣamāṇam* ← *krakṣamāṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *akṛpetām* \< *kṛp*
+- *akṛpetām* ← *kṛp*
 - \[verb\], dual, Imperfect
 ------------------------------------------------------------------------
 - *indra*
@@ -29,19 +29,19 @@ title = "Rig Veda 8.76.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dasyuhābhavaḥ* \< *dasyu*
+- *dasyuhābhavaḥ* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhābhavaḥ* \< *hā* \< *han*
+- *dasyuhābhavaḥ* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *dasyuhābhavaḥ* \< *abhavaḥ* \< *bhū*
+- *dasyuhābhavaḥ* ← *abhavaḥ* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

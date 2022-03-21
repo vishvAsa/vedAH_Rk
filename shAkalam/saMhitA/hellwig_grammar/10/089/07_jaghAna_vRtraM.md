@@ -2,37 +2,37 @@
 title = "Rig Veda 10.89.7"
 
 +++
--   *jaghāna* \< *han*
+-   *jaghāna* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *svadhitir* \< *svadhitiḥ* \< *svadhiti*
+- *svadhitir* ← *svadhitiḥ* ← *svadhiti*
 - \[noun\], nominative, singular, masculine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *vaneva* \< *vanā* \< *vana*
+- *vaneva* ← *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *vaneva* \< *iva*
+- *vaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ruroja* \< *ruj*
+- *ruroja* ← *ruj*
 - \[verb\], singular, Perfect indicative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *aradan* \< *aradat* \< *rad*
+- *aradan* ← *aradat* ← *rad*
 - \[verb\], singular, Imperfect
 - “dig.”
 ------------------------------------------------------------------------
@@ -40,27 +40,27 @@ title = "Rig Veda 10.89.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhūn* \< *sindhu*
+- *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *bibheda* \< *bhid*
+- *bibheda* ← *bhid*
 - \[verb\], singular, Perfect indicative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *giriṃ* \< *girim* \< *giri*
+- *giriṃ* ← *girim* ← *giri*
 - \[noun\], accusative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *navam* \< *nava*
+- *navam* ← *nava*
 - \[noun\], accusative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 10.89.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kumbham* \< *kumbha*
+- *kumbham* ← *kumbha*
 - \[noun\], accusative, singular, masculine
 - “jar; Kumbha; kumbha \[word\]; kumbhapuṭa; kumbha; Aquarius.”
 ------------------------------------------------------------------------
@@ -76,17 +76,17 @@ title = "Rig Veda 10.89.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *akṛṇuta* \< *kṛ*
+- *akṛṇuta* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -97,12 +97,12 @@ title = "Rig Veda 10.89.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *svayugbhiḥ* \< *sva*
+- *svayugbhiḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayugbhiḥ* \< *yugbhiḥ* \< *yuj*
+- *svayugbhiḥ* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------

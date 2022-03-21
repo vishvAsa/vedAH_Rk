@@ -2,12 +2,12 @@
 title = "Rig Veda 1.6.9"
 
 +++
--   *ataḥ* \< *atas*
+-   *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *parijmann* \< *parijman*
+- *parijmann* ← *parijman*
 - \[noun\], vocative, singular, masculine
 - “encompassing(a).”
 ------------------------------------------------------------------------
@@ -15,14 +15,14 @@ title = "Rig Veda 1.6.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 1.6.9"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *rocanād* \< *rocanāt* \< *rocana*
+- *rocanād* ← *rocanāt* ← *rocana*
 - \[noun\], ablative, singular, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
@@ -42,14 +42,14 @@ title = "Rig Veda 1.6.9"
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

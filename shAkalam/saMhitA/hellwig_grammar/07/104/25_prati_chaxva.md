@@ -6,7 +6,7 @@ title = "Rig Veda 7.104.25"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *cakṣva* \< *cakṣ*
+- *cakṣva* ← *cakṣ*
 - \[verb\], singular, Present imperative
 - “watch; look.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 7.104.25"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakṣvendraś* \< *cakṣva* \< *cakṣ*
+- *cakṣvendraś* ← *cakṣva* ← *cakṣ*
 - \[verb\], singular, Present imperative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *cakṣvendraś* \< *indraḥ* \< *indra*
+- *cakṣvendraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,28 +31,28 @@ title = "Rig Veda 7.104.25"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jāgṛtam* \< *jāgṛ*
+- *jāgṛtam* ← *jāgṛ*
 - \[verb\], dual, Present imperative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *rakṣobhyo* \< *rakṣobhyaḥ* \< *rakṣas*
+- *rakṣobhyo* ← *rakṣobhyaḥ* ← *rakṣas*
 - \[noun\], dative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *vadham* \< *vadha*
+- *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *asyatam* \< *as*
+- *asyatam* ← *as*
 - \[verb\], dual, Present imperative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *aśaniṃ* \< *aśanim* \< *aśani*
+- *aśaniṃ* ← *aśanim* ← *aśani*
 - \[noun\], accusative, singular, masculine
 - “lightning; Vajra; vajra; thunderbolt.”
 ------------------------------------------------------------------------
-- *yātumadbhyaḥ* \< *yātumat*
+- *yātumadbhyaḥ* ← *yātumat*
 - \[noun\], dative, plural, masculine
 - “charming.”
 ------------------------------------------------------------------------

@@ -6,39 +6,39 @@ title = "Rig Veda 7.15.9"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *upākṣarā* \< *upa*
+- *upākṣarā* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upākṣarā* \< *akṣarā*
+- *upākṣarā* ← *akṣarā*
 - \[noun\], nominative, singular, feminine
 - “speech; word.”
 ------------------------------------------------------------------------
-- *sahasriṇī* \< *sahasrin*
+- *sahasriṇī* ← *sahasrin*
 - \[noun\], nominative, singular, feminine
 - “thousandfold.”
 ------------------------------------------------------------------------

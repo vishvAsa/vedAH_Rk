@@ -2,40 +2,40 @@
 title = "Rig Veda 9.13.1"
 
 +++
--   *somaḥ* \< *soma*
+-   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *sahasradhāro* \< *sahasra*
+- *sahasradhāro* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāro* \< *dhāraḥ* \< *dhārā*
+- *sahasradhāro* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *atyaviḥ* \< *atyavi*
+- *atyaviḥ* ← *atyavi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vāyor* \< *vāyoḥ* \< *vāyu*
+- *vāyor* ← *vāyoḥ* ← *vāyu*
 - \[noun\], genitive, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------

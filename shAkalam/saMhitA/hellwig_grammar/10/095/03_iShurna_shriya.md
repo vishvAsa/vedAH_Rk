@@ -2,7 +2,7 @@
 title = "Rig Veda 10.95.3"
 
 +++
--   *iṣur* \< *iṣuḥ* \< *iṣu*
+-   *iṣur* ← *iṣuḥ* ← *iṣu*
 - \[noun\], nominative, singular, masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
@@ -10,24 +10,24 @@ title = "Rig Veda 10.95.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śriya* \< *śriyaḥ* \< *śrī*
+- *śriya* ← *śriyaḥ* ← *śrī*
 - \[noun\], genitive, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *iṣudher* \< *iṣudheḥ* \< *iṣudhi*
+- *iṣudher* ← *iṣudheḥ* ← *iṣudhi*
 - \[noun\], ablative, singular, masculine
 - “quiver.”
 ------------------------------------------------------------------------
 - *asanā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *goṣāḥ* \< *\_* \< *√\_*
+- *goṣāḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *śatasā* \< *\_* \< *√\_*
+- *śatasā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -35,14 +35,14 @@ title = "Rig Veda 10.95.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raṃhiḥ* \< *raṃhi*
+- *raṃhiḥ* ← *raṃhi*
 - \[noun\], nominative, singular, feminine
 - “speed.”
 ------------------------------------------------------------------------
-- *avīre* \< *avīra*
+- *avīre* ← *avīra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *kratau* \< *kratu*
+- *kratau* ← *kratu*
 - \[noun\], locative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -51,15 +51,15 @@ title = "Rig Veda 10.95.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *davidyutan* \< *davidyut* \< *√dyut*
+- *davidyutan* ← *davidyut* ← *√dyut*
 - \[verb noun\], nominative, singular
 - “flash.”
 ------------------------------------------------------------------------
-- *norā* \< *nā* \< *na*
+- *norā* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *norā* \< *urāḥ* \< *urā*
+- *norā* ← *urāḥ* ← *urā*
 - \[noun\], nominative, plural, feminine
 - “ewe.”
 ------------------------------------------------------------------------
@@ -67,14 +67,14 @@ title = "Rig Veda 10.95.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *māyuṃ* \< *māyum* \< *māyu*
+- *māyuṃ* ← *māyum* ← *māyu*
 - \[noun\], accusative, singular, masculine
 - “moo; boom.”
 ------------------------------------------------------------------------
-- *citayanta* \< *citay* \< *√cit*
+- *citayanta* ← *citay* ← *√cit*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *dhunayaḥ* \< *dhuni*
+- *dhunayaḥ* ← *dhuni*
 - \[noun\], nominative, plural, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 8.6.16"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,19 +15,19 @@ title = "Rig Veda 8.6.16"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *apa* \< *apaḥ* \< *ap*
+- *apa* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *stabhūyamāna* \< *stabhūyamānaḥ* \< *stabhūy* \< *√stambh*
+- *stabhūyamāna* ← *stabhūyamānaḥ* ← *stabhūy* ← *√stambh*
 - \[verb noun\], nominative, singular
 - “stand.”
 ------------------------------------------------------------------------
-- *āśayat* \< *āśī* \< *√śī*
+- *āśayat* ← *āśī* ← *√śī*
 - \[verb\], singular, Imperfect
 - “lie; stay.”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 8.6.16"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *padyāsu* \< *padyā*
+- *padyāsu* ← *padyā*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *śiśnathaḥ* \< *śnath*
+- *śiśnathaḥ* ← *śnath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “pierce; kill.”
 ------------------------------------------------------------------------

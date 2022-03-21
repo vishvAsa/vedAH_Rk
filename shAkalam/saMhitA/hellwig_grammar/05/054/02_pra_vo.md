@@ -6,70 +6,70 @@ title = "Rig Veda 5.54.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *marutas* \< *marutaḥ* \< *marut*
+- *marutas* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *taviṣā* \< *taviṣāḥ* \< *taviṣa*
+- *taviṣā* ← *taviṣāḥ* ← *taviṣa*
 - \[noun\], nominative, plural, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *udanyavo* \< *udanyavaḥ* \< *udanyu*
+- *udanyavo* ← *udanyavaḥ* ← *udanyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vayovṛdho* \< *vayovṛdhaḥ* \< *vayovṛdh*
+- *vayovṛdho* ← *vayovṛdhaḥ* ← *vayovṛdh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *aśvayujaḥ* \< *aśva*
+- *aśvayujaḥ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvayujaḥ* \< *yujaḥ* \< *yuj*
+- *aśvayujaḥ* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *parijrayaḥ* \< *parijri*
+- *parijrayaḥ* ← *parijri*
 - \[noun\], nominative, plural, masculine
 - “whirling.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vidyutā* \< *vidyut*
+- *vidyutā* ← *vidyut*
 - \[noun\], instrumental, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *dadhati* \< *dhā*
+- *dadhati* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vāśati* \< *vāś*
+- *vāśati* ← *vāś*
 - \[verb\], singular, Present indikative
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *tritaḥ* \< *trita*
+- *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *svaranty* \< *svaranti* \< *svar*
+- *svaranty* ← *svaranti* ← *svar*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *'vanā* \< *avanā* \< *avani*
+- *'vanā* ← *avanā* ← *avani*
 - \[noun\], locative, singular, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *parijrayaḥ* \< *parijri*
+- *parijrayaḥ* ← *parijri*
 - \[noun\], nominative, plural, feminine
 - “whirling.”
 ------------------------------------------------------------------------

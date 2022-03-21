@@ -2,43 +2,43 @@
 title = "Rig Veda 1.127.1"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manye* \< *man*
+- *manye* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *dāsvantaṃ* \< *dāsvantam* \< *dāsvat*
+- *dāsvantaṃ* ← *dāsvantam* ← *dāsvat*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vasuṃ* \< *vasum* \< *vasu*
+- *vasuṃ* ← *vasum* ← *vasu*
 - \[noun\], accusative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *sūnuṃ* \< *sūnum* \< *sūnu*
+- *sūnuṃ* ← *sūnum* ← *sūnu*
 - \[noun\], accusative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *jātavedasaṃ* \< *jātavedasam* \< *jātavedas*
+- *jātavedasaṃ* ← *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -46,63 +46,63 @@ title = "Rig Veda 1.127.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jātavedasam* \< *jātavedas*
+- *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ūrdhvayā* \< *ūrdhva*
+- *ūrdhvayā* ← *ūrdhva*
 - \[noun\], instrumental, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *svadhvaro* \< *su*
+- *svadhvaro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvaro* \< *adhvaraḥ* \< *adhvara*
+- *svadhvaro* ← *adhvaraḥ* ← *adhvara*
 - \[noun\], nominative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devācyā* \< *devāñc*
+- *devācyā* ← *devāñc*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *kṛpā* \< *kṛp*
+- *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
 ------------------------------------------------------------------------
-- *ghṛtasya* \< *ghṛta*
+- *ghṛtasya* ← *ghṛta*
 - \[noun\], genitive, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *vibhrāṣṭim* \< *vibhrāṣṭi*
+- *vibhrāṣṭim* ← *vibhrāṣṭi*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *śociṣājuhvānasya* \< *śociṣā* \< *śocis*
+- *śociṣājuhvānasya* ← *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *śociṣājuhvānasya* \< *ājuhvānasya* \< *āhu* \< *√hu*
+- *śociṣājuhvānasya* ← *ājuhvānasya* ← *āhu* ← *√hu*
 - \[verb noun\], genitive, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *sarpiṣaḥ* \< *sarpis*
+- *sarpiṣaḥ* ← *sarpis*
 - \[noun\], genitive, singular, neuter
 - “ghee; clarified butter; sarpiḥprameha.”
 ------------------------------------------------------------------------

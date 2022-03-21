@@ -2,51 +2,51 @@
 title = "Rig Veda 6.17.2"
 
 +++
--   *sa* \< *saḥ* \< *tad*
+-   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛjīṣī* \< *ṛjīṣin*
+- *ṛjīṣī* ← *ṛjīṣin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tarutro* \< *tarutraḥ* \< *tarutra*
+- *tarutro* ← *tarutraḥ* ← *tarutra*
 - \[noun\], nominative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śipravān* \< *śipravat*
+- *śipravān* ← *śipravat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *matīnām* \< *mati*
+- *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -54,18 +54,18 @@ title = "Rig Veda 6.17.2"
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vajrabhṛd* \< *vajrabhṛt*
+- *vajrabhṛd* ← *vajrabhṛt*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *hariṣṭhāḥ* \< *hariṣṭhā*
+- *hariṣṭhāḥ* ← *hariṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -76,7 +76,7 @@ title = "Rig Veda 6.17.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *citrāṃ* \< *citra*
+- *citrāṃ* ← *citra*
 - \[noun\], accusative, plural, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -86,10 +86,10 @@ title = "Rig Veda 6.17.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tṛndhi* \< *tṛd*
+- *tṛndhi* ← *tṛd*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

@@ -2,67 +2,67 @@
 title = "Rig Veda 10.166.2"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sapatnahendra* \< *sapatna*
+- *sapatnahendra* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
-- *sapatnahendra* \< *hā* \< *han*
+- *sapatnahendra* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *sapatnahendra* \< *indraḥ* \< *indra*
+- *sapatnahendra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ivāriṣṭo* \< *iva*
+- *ivāriṣṭo* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāriṣṭo* \< *ariṣṭaḥ* \< *ariṣṭa*
+- *ivāriṣṭo* ← *ariṣṭaḥ* ← *ariṣṭa*
 - \[noun\], nominative, singular, masculine
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *akṣataḥ* \< *akṣata*
+- *akṣataḥ* ← *akṣata*
 - \[noun\], nominative, singular, masculine
 - “uninjured.”
 ------------------------------------------------------------------------
-- *adhaḥ* \< *adhas*
+- *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
 ------------------------------------------------------------------------
-- *sapatnā* \< *sapatnāḥ* \< *sapatna*
+- *sapatnā* ← *sapatnāḥ* ← *sapatna*
 - \[noun\], nominative, plural, masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pador* \< *padoḥ* \< *pad*
+- *pador* ← *padoḥ* ← *pad*
 - \[noun\], locative, dual, masculine
 - “foot; pad \[word\].”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sarve* \< *sarva*
+- *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *abhiṣṭhitāḥ* \< *abhiṣṭhā* \< *√sthā*
+- *abhiṣṭhitāḥ* ← *abhiṣṭhā* ← *√sthā*
 - \[verb noun\], nominative, plural
 - “step on.”
 ------------------------------------------------------------------------

@@ -10,39 +10,39 @@ title = "Rig Veda 1.26.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sūnave* \< *sūnu*
+- *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *pitāpir* \< *pitā* \< *pitṛ*
+- *pitāpir* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitāpir* \< *āpiḥ* \< *āpi*
+- *pitāpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *yajaty* \< *yajati* \< *yaj*
+- *yajaty* ← *yajati* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *āpaye* \< *āpi*
+- *āpaye* ← *āpi*
 - \[noun\], dative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *vareṇyaḥ* \< *vareṇya*
+- *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------

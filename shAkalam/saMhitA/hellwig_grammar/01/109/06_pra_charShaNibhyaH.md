@@ -6,15 +6,15 @@ title = "Rig Veda 1.109.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], ablative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *pṛtanāhaveṣu* \< *pṛtanā*
+- *pṛtanāhaveṣu* ← *pṛtanā*
 - \[noun\], feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *pṛtanāhaveṣu* \< *āhaveṣu* \< *āhava*
+- *pṛtanāhaveṣu* ← *āhaveṣu* ← *āhava*
 - \[noun\], locative, plural, masculine
 - “battle; fight; challenge; war.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 1.109.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *riricāthe* \< *ric*
+- *riricāthe* ← *ric*
 - \[verb\], dual, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 1.109.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sindhubhyaḥ* \< *sindhu*
+- *sindhubhyaḥ* ← *sindhu*
 - \[noun\], ablative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -50,43 +50,43 @@ title = "Rig Veda 1.109.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *giribhyo* \< *giribhyaḥ* \< *giri*
+- *giribhyo* ← *giribhyaḥ* ← *giri*
 - \[noun\], ablative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *prendrāgnī* \< *pra*
+- *prendrāgnī* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prendrāgnī* \< *indra*
+- *prendrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prendrāgnī* \< *agnī* \< *agni*
+- *prendrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāty* \< *bhuvanā* \< *bhuvana*
+- *bhuvanāty* ← *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanāty* \< *ati*
+- *bhuvanāty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *anyā* \< *anya*
+- *anyā* ← *anya*
 - \[noun\], accusative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”

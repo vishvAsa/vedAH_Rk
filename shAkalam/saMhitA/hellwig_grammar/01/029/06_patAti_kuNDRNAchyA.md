@@ -2,24 +2,24 @@
 title = "Rig Veda 1.29.6"
 
 +++
--   *patāti* \< *pat*
+-   *patāti* ← *pat*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *kuṇḍṛṇācyā* \< *kuṇḍṛṇācī*
+- *kuṇḍṛṇācyā* ← *kuṇḍṛṇācī*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *dūraṃ* \< *dūram*
+- *dūraṃ* ← *dūram*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vanād* \< *vanāt* \< *vana*
+- *vanād* ← *vanāt* ← *vana*
 - \[noun\], ablative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 1.29.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -44,23 +44,23 @@ title = "Rig Veda 1.29.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śaṃsaya* \< *śaṃsay* \< *√śaṃs*
+- *śaṃsaya* ← *śaṃsay* ← *√śaṃs*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *goṣv* \< *goṣu* \< *go*
+- *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aśveṣu* \< *aśva*
+- *aśveṣu* ← *aśva*
 - \[noun\], locative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *śubhriṣu* \< *śubhri*
+- *śubhriṣu* ← *śubhri*
 - \[noun\], locative, plural, masculine
 - “beautiful.”
 ------------------------------------------------------------------------
-- *sahasreṣu* \< *sahasra*
+- *sahasreṣu* ← *sahasra*
 - \[noun\], locative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

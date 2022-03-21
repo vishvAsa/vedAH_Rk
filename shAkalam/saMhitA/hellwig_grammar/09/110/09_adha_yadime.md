@@ -6,15 +6,15 @@ title = "Rig Veda 9.110.9"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], accusative, dual, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 9.110.9"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -30,24 +30,24 @@ title = "Rig Veda 9.110.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *bhuvanā* \< *bhuvana*
+- *bhuvanābhi* ← *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *abhi*
+- *bhuvanābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *yūthe* \< *yūtha*
+- *yūthe* ← *yūtha*
 - \[noun\], locative, singular, masculine
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
@@ -55,10 +55,10 @@ title = "Rig Veda 9.110.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niṣṭhā* \< *niṣṭhāḥ* \< *niṣṭhā*
+- *niṣṭhā* ← *niṣṭhāḥ* ← *niṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 9.110.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tiṣṭhase* \< *sthā*
+- *tiṣṭhase* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

@@ -2,19 +2,19 @@
 title = "Rig Veda 8.22.1"
 
 +++
--   *o* \< *ā*
+-   *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *ahva* \< *ahve* \< *hvā*
+- *ahva* ← *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -22,38 +22,38 @@ title = "Rig Veda 8.22.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *daṃsiṣṭham* \< *daṃsiṣṭha*
+- *daṃsiṣṭham* ← *daṃsiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *suhavā* \< *su*
+- *suhavā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavā* \< *havā* \< *hava*
+- *suhavā* ← *havā* ← *hava*
 - \[noun\], nominative, dual, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *rudravartanī* \< *rudravartani*
+- *rudravartanī* ← *rudravartani*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 8.22.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryāyai* \< *sūryā*
+- *sūryāyai* ← *sūryā*
 - \[noun\], dative, singular, feminine
 - “Citrullus colocynthis Schrad..”
 ------------------------------------------------------------------------
-- *tasthathuḥ* \< *sthā*
+- *tasthathuḥ* ← *sthā*
 - \[verb\], dual, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

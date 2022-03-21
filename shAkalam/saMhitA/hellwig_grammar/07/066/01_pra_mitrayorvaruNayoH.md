@@ -6,40 +6,40 @@ title = "Rig Veda 7.66.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mitrayor* \< *mitrayoḥ* \< *mitra*
+- *mitrayor* ← *mitrayoḥ* ← *mitra*
 - \[noun\], genitive, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇayo* \< *varuṇayoḥ* \< *varuṇa*
+- *varuṇayo* ← *varuṇayoḥ* ← *varuṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *śūṣyaḥ* \< *śūṣya*
+- *śūṣyaḥ* ← *śūṣya*
 - \[noun\], nominative, singular, masculine
 - “encouraging.”
 ------------------------------------------------------------------------
-- *namasvān* \< *namasvat*
+- *namasvān* ← *namasvat*
 - \[noun\], nominative, singular, masculine
 - “respectful.”
 ------------------------------------------------------------------------
-- *tuvijātayoḥ* \< *tuvi*
+- *tuvijātayoḥ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvijātayoḥ* \< *jātayoḥ* \< *jan*
+- *tuvijātayoḥ* ← *jātayoḥ* ← *jan*
 - \[verb noun\], genitive, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

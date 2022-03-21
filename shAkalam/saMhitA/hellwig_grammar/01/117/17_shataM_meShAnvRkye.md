@@ -2,71 +2,71 @@
 title = "Rig Veda 1.117.17"
 
 +++
--   *śatam* \< *śata*
+-   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *meṣān* \< *meṣa*
+- *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *vṛkye* \< *vṛkī*
+- *vṛkye* ← *vṛkī*
 - \[noun\], dative, singular, feminine
 - “wolf.”
 ------------------------------------------------------------------------
-- *māmahānaṃ* \< *māmahānam* \< *mah*
+- *māmahānaṃ* ← *māmahānam* ← *mah*
 - \[verb noun\], accusative, singular
 - “give; accord.”
 ------------------------------------------------------------------------
-- *tamaḥ* \< *tamas*
+- *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *praṇītam* \< *praṇī* \< *√nī*
+- *praṇītam* ← *praṇī* ← *√nī*
 - \[verb noun\], accusative, singular
 - “enforce; lead; produce.”
 ------------------------------------------------------------------------
-- *aśivena* \< *aśiva*
+- *aśivena* ← *aśiva*
 - \[noun\], instrumental, singular, masculine
 - “inauspicious; unkind; unfriendly; cruel; dangerous.”
 ------------------------------------------------------------------------
-- *pitrā* \< *pitṛ*
+- *pitrā* ← *pitṛ*
 - \[noun\], instrumental, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ākṣī* \< *ā*
+- *ākṣī* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ākṣī* \< *akṣī* \< *akṣi*
+- *ākṣī* ← *akṣī* ← *akṣi*
 - \[noun\], accusative, dual, neuter
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
-- *ṛjrāśve* \< *ṛjrāśva*
+- *ṛjrāśve* ← *ṛjrāśva*
 - \[noun\], locative, singular, masculine
 - “Ṛjrāśva.”
 ------------------------------------------------------------------------
-- *aśvināv* \< *aśvinau* \< *aśvin*
+- *aśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *adhattaṃ* \< *adhattam* \< *dhā*
+- *adhattaṃ* ← *adhattam* ← *dhā*
 - \[verb\], dual, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *andhāya* \< *andha*
+- *andhāya* ← *andha*
 - \[noun\], dative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *cakrathur* \< *cakrathuḥ* \< *kṛ*
+- *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,6 +77,6 @@ title = "Rig Veda 1.117.17"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vicakṣe* \< *vicakṣ* \< *√cakṣ*
+- *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------

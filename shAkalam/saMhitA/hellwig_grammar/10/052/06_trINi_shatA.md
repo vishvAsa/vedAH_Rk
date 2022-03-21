@@ -2,29 +2,29 @@
 title = "Rig Veda 10.52.6"
 
 +++
--   *trīṇi* \< *tri*
+-   *trīṇi* ← *tri*
 - \[noun\], nominative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], nominative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *trī* \< *tri*
+- *trī* ← *tri*
 - \[noun\], nominative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *sahasrāṇy* \< *sahasrāṇi* \< *sahasra*
+- *sahasrāṇy* ← *sahasrāṇi* ← *sahasra*
 - \[noun\], nominative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *triṃśac* \< *triṃśat*
+- *triṃśac* ← *triṃśat*
 - \[noun\], nominative, singular, feminine
 - “thirty; triṃśat \[word\].”
 ------------------------------------------------------------------------
@@ -32,44 +32,44 @@ title = "Rig Veda 10.52.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], nominative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *cāsaparyan* \< *ca*
+- *cāsaparyan* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāsaparyan* \< *asaparyan* \< *sapary*
+- *cāsaparyan* ← *asaparyan* ← *sapary*
 - \[verb\], plural, Imperfect
 - “worship.”
 ------------------------------------------------------------------------
-- *aukṣan* \< *ukṣ*
+- *aukṣan* ← *ukṣ*
 - \[verb\], plural, Imperfect
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *ghṛtair* \< *ghṛtaiḥ* \< *ghṛta*
+- *ghṛtair* ← *ghṛtaiḥ* ← *ghṛta*
 - \[noun\], instrumental, plural, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *astṛṇan* \< *stṛ*
+- *astṛṇan* ← *stṛ*
 - \[verb\], plural, Imperfect
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -77,14 +77,14 @@ title = "Rig Veda 10.52.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dhotāraṃ* \< *hotāram* \< *hotṛ*
+- *dhotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asādayanta* \< *sāday* \< *√sad*
+- *asādayanta* ← *sāday* ← *√sad*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------

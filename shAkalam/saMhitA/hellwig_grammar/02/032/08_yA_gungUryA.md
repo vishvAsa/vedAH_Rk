@@ -2,14 +2,14 @@
 title = "Rig Veda 2.32.8"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *guṅgūr* \< *guṅgūḥ* \< *guṅgū*
+- *guṅgūr* ← *guṅgūḥ* ← *guṅgū*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 2.32.8"
 - \[noun\], nominative, singular, feminine
 - “Durga.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 2.32.8"
 - \[noun\], nominative, singular, feminine
 - “Rākā; rākā; full moon.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,22 +34,22 @@ title = "Rig Veda 2.32.8"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *indrāṇīm* \< *indrāṇī*
+- *indrāṇīm* ← *indrāṇī*
 - \[noun\], accusative, singular, feminine
 - “Śacī; nirguṇḍī.”
 ------------------------------------------------------------------------
-- *ahva* \< *ahve* \< *hvā*
+- *ahva* ← *ahve* ← *hvā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *varuṇānīṃ* \< *varuṇānīm* \< *varuṇānī*
+- *varuṇānīṃ* ← *varuṇānīm* ← *varuṇānī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

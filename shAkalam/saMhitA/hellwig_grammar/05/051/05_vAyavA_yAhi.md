@@ -2,7 +2,7 @@
 title = "Rig Veda 5.51.5"
 
 +++
--   *vāyav* \< *vāyo* \< *vāyu*
+-   *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -11,35 +11,35 @@ title = "Rig Veda 5.51.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *juṣāṇo* \< *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *havyadātaye* \< *havya*
+- *havyadātaye* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyadātaye* \< *dātaye* \< *dāti*
+- *havyadātaye* ← *dātaye* ← *dāti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *pibā* \< *pā*
+- *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutasyāndhaso* \< *sutasya* \< *su*
+- *sutasyāndhaso* ← *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasyāndhaso* \< *andhasaḥ* \< *andhas*
+- *sutasyāndhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 5.51.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayaḥ* \< *prayas*
+- *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------

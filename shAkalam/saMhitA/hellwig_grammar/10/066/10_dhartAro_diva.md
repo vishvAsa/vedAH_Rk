@@ -2,41 +2,41 @@
 title = "Rig Veda 10.66.10"
 
 +++
--   *dhartāro* \< *dhartāraḥ* \< *dhartṛ*
+-   *dhartāro* ← *dhartāraḥ* ← *dhartṛ*
 - \[noun\], nominative, plural, masculine
 - “supporter.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *suhastā* \< *su*
+- *suhastā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastā* \< *hastāḥ* \< *hasta*
+- *suhastā* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *vātāparjanyā* \< *vātāparjanya*
+- *vātāparjanyā* ← *vātāparjanya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *mahiṣasya* \< *mahiṣa*
+- *mahiṣasya* ← *mahiṣa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *tanyatoḥ* \< *tanyatu*
+- *tanyatoḥ* ← *tanyatu*
 - \[noun\], genitive, singular, masculine
 - “thunder.”
 ------------------------------------------------------------------------
-- *āpa* \< *āpaḥ* \< *ap*
+- *āpa* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *oṣadhīḥ* \< *oṣadhī*
+- *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
@@ -44,41 +44,41 @@ title = "Rig Veda 10.66.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tirantu* \< *tṛ*
+- *tirantu* ← *tṛ*
 - \[verb\], plural, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *rātir* \< *rātiḥ* \< *rāti*
+- *rātir* ← *rātiḥ* ← *rāti*
 - \[noun\], nominative, singular, masculine
 - “generous.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

@@ -6,13 +6,13 @@ title = "Rig Veda 10.22.11"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -21,11 +21,11 @@ title = "Rig Veda 10.22.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dānāpnasa* \< *dānāpnase* \< *dānāpnas*
+- *dānāpnasa* ← *dānāpnase* ← *dānāpnas*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *ākṣāṇe* \< *akṣ*
+- *ākṣāṇe* ← *akṣ*
 - \[verb noun\], locative, singular
 ------------------------------------------------------------------------
 - *śūra*
@@ -33,7 +33,7 @@ title = "Rig Veda 10.22.11"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vajrivaḥ* \< *vajrivas* \< *vajrivat*
+- *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *yaddha* \< *yat*

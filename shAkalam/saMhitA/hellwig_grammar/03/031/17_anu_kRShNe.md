@@ -6,22 +6,22 @@ title = "Rig Veda 3.31.17"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kṛṣṇe* \< *kṛṣṇa*
+- *kṛṣṇe* ← *kṛṣṇa*
 - \[noun\], nominative, dual, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *vasudhitī* \< *vasudhiti*
+- *vasudhitī* ← *vasudhiti*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *jihāte* \< *hā*
+- *jihāte* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -29,7 +29,7 @@ title = "Rig Veda 3.31.17"
 - *maṃhanā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *yajatre* \< *yajatra*
+- *yajatre* ← *yajatra*
 - \[noun\], nominative, dual, feminine
 - “adorable.”
 ------------------------------------------------------------------------
@@ -41,18 +41,18 @@ title = "Rig Veda 3.31.17"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahimānaṃ* \< *mahimānam* \< *mahiman*
+- *mahimānaṃ* ← *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *vṛjadhyai* \< *vṛj*
+- *vṛjadhyai* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -61,10 +61,10 @@ title = "Rig Veda 3.31.17"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kāmyā* \< *kāmyāḥ* \< *kāmya*
+- *kāmyā* ← *kāmyāḥ* ← *kāmya*
 - \[noun\], nominative, plural, masculine
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
-- *ṛjipyāḥ* \< *ṛjipya*
+- *ṛjipyāḥ* ← *ṛjipya*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

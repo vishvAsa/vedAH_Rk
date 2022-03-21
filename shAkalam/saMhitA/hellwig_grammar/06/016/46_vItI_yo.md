@@ -2,19 +2,19 @@
 title = "Rig Veda 6.16.46"
 
 +++
--   *vītī* \< *vīti*
+-   *vītī* ← *vīti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* \< *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------

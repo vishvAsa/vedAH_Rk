@@ -7,34 +7,34 @@ title = "Rig Veda 10.7.1"
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajathāya* \< *yajatha*
+- *yajathāya* ← *yajatha*
 - \[noun\], dative, singular, masculine
 - “yajña.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 10.7.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sacemahi* \< *sac*
+- *sacemahi* ← *sac*
 - \[verb\], plural, Present optative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -55,19 +55,19 @@ title = "Rig Veda 10.7.1"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *praketair* \< *praketaiḥ* \< *praketa*
+- *praketair* ← *praketaiḥ* ← *praketa*
 - \[noun\], instrumental, plural, masculine
 - “sight; knowledge; appearance.”
 ------------------------------------------------------------------------
-- *uruṣyā* \< *uruṣy*
+- *uruṣyā* ← *uruṣy*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *ṇa* \< *ṇaḥ* \< *mad*
+- *ṇa* ← *ṇaḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *urubhir* \< *urubhiḥ* \< *uru*
+- *urubhir* ← *urubhiḥ* ← *uru*
 - \[noun\], instrumental, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 10.7.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *śaṃsaiḥ* \< *śaṃsa*
+- *śaṃsaiḥ* ← *śaṃsa*
 - \[noun\], instrumental, plural, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------

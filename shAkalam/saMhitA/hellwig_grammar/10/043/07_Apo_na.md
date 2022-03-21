@@ -2,7 +2,7 @@
 title = "Rig Veda 10.43.7"
 
 +++
--   *āpo* \< *āpaḥ* \< *ap*
+-   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.43.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhum* \< *sindhu*
+- *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -26,20 +26,20 @@ title = "Rig Veda 10.43.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Root aorist (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
-- *somāsa* \< *somāsaḥ* \< *soma*
+- *somāsa* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kulyā* \< *kulyāḥ* \< *kulyā*
+- *kulyā* ← *kulyāḥ* ← *kulyā*
 - \[noun\], nominative, plural, feminine
 - “rivulet; canal.”
 ------------------------------------------------------------------------
@@ -47,32 +47,32 @@ title = "Rig Veda 10.43.7"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *hradam* \< *hrada*
+- *hradam* ← *hrada*
 - \[noun\], accusative, singular, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
-- *vardhanti* \< *vṛdh*
+- *vardhanti* ← *vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mahas*
+- *maho* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sādane* \< *sādana*
+- *sādane* ← *sādana*
 - \[noun\], locative, singular, neuter
 - “home; dwelling; seat.”
 ------------------------------------------------------------------------
-- *yavaṃ* \< *yavam* \< *yava*
+- *yavaṃ* ← *yavam* ← *yava*
 - \[noun\], accusative, singular, masculine
 - “barley; yava; barleycorn; yava \[word\]; yava; yavakṣāra; grain.”
 ------------------------------------------------------------------------
@@ -80,16 +80,16 @@ title = "Rig Veda 10.43.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣṭir* \< *vṛṣṭiḥ* \< *vṛṣṭi*
+- *vṛṣṭir* ← *vṛṣṭiḥ* ← *vṛṣṭi*
 - \[noun\], nominative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *divyena* \< *divya*
+- *divyena* ← *divya*
 - \[noun\], instrumental, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *dānunā* \< *dānu*
+- *dānunā* ← *dānu*
 - \[noun\], instrumental, singular, neuter
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------

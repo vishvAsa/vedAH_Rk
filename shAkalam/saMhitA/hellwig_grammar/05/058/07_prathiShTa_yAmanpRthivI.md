@@ -2,7 +2,7 @@
 title = "Rig Veda 5.58.7"
 
 +++
--   *prathiṣṭa* \< *prath*
+-   *prathiṣṭa* ← *prath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
@@ -14,73 +14,73 @@ title = "Rig Veda 5.58.7"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bharteva* \< *bhartā* \< *bhartṛ*
+- *bharteva* ← *bhartā* ← *bhartṛ*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; leader; king; master; carrier.”
 ------------------------------------------------------------------------
-- *bharteva* \< *iva*
+- *bharteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *garbhaṃ* \< *garbham* \< *garbha*
+- *garbhaṃ* ← *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *svam* \< *sva*
+- *svam* ← *sva*
 - \[noun\], accusative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *icchavo* \< *icchavaḥ* \< *icchu*
+- *icchavo* ← *icchavaḥ* ← *icchu*
 - \[noun\], nominative, plural, masculine
 - “icchu \[word\].”
 ------------------------------------------------------------------------
-- *dhuḥ* \< *dhā*
+- *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vātān* \< *vāta*
+- *vātān* ← *vāta*
 - \[noun\], accusative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *aśvān* \< *aśva*
+- *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *dhury* \< *dhuri* \< *dhur*
+- *dhury* ← *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *āyuyujre* \< *āyuj* \< *√yuj*
+- *āyuyujre* ← *āyuj* ← *√yuj*
 - \[verb\], plural, Perfect indicative
 - “āyuj \[word\].”
 ------------------------------------------------------------------------
-- *varṣaṃ* \< *varṣam* \< *varṣa*
+- *varṣaṃ* ← *varṣam* ← *varṣa*
 - \[noun\], accusative, singular, masculine
 - “year; rain; year; shower; varṣa; monsoon; varṣa \[word\]; age;
     cloud; India.”
 ------------------------------------------------------------------------
-- *svedaṃ* \< *svedam* \< *sveda*
+- *svedaṃ* ← *svedam* ← *sveda*
 - \[noun\], accusative, singular, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
 ------------------------------------------------------------------------
-- *cakrire* \< *kṛ*
+- *cakrire* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -91,7 +91,7 @@ title = "Rig Veda 5.58.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rudriyāsaḥ* \< *rudriya*
+- *rudriyāsaḥ* ← *rudriya*
 - \[noun\], nominative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------

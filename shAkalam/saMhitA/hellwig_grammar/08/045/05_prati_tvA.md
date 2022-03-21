@@ -6,49 +6,49 @@ title = "Rig Veda 8.45.5"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *śavasī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vadad* \< *vadat* \< *vad*
+- *vadad* ← *vadat* ← *vad*
 - \[verb\], singular, Present injunctive
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *girāv* \< *girau* \< *giri*
+- *girāv* ← *girau* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *apso* \< *apsaḥ* \< *apsas*
+- *apso* ← *apsaḥ* ← *apsas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yodhiṣat* \< *yudh*
+- *yodhiṣat* ← *yudh*
 - \[verb\], singular, Aorist conj./subj.
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatrutvam* \< *śatru*
+- *śatrutvam* ← *śatru*
 - \[noun\], masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *śatrutvam* \< *tvam* \< *tva*
+- *śatrutvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ācake* \< *ākan* \< *√kan*
+- *ācake* ← *ākan* ← *√kan*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------

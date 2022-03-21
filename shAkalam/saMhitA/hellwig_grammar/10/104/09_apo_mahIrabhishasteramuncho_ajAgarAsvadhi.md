@@ -2,19 +2,19 @@
 title = "Rig Veda 10.104.9"
 
 +++
--   *apo* \< *apaḥ* \< *ap*
+-   *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *abhiśaster* \< *abhiśasteḥ* \< *abhiśasti*
+- *abhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], ablative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *amuñco* \< *amuñcaḥ* \< *muc*
+- *amuñco* ← *amuñcaḥ* ← *muc*
 - \[verb\], singular, Imperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -22,7 +22,7 @@ title = "Rig Veda 10.104.9"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *'jāgar* \< *ajāgar* \< *jāgṛ*
+- *'jāgar* ← *ajāgar* \< *jāgṛ*
 - \[verb\], singular, Imperfect
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------

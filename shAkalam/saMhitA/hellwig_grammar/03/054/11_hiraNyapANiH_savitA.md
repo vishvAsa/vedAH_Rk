@@ -2,27 +2,27 @@
 title = "Rig Veda 3.54.11"
 
 +++
--   *hiraṇyapāṇiḥ* \< *hiraṇya*
+-   *hiraṇyapāṇiḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇiḥ* \< *pāṇiḥ* \< *pāṇi*
+- *hiraṇyapāṇiḥ* ← *pāṇiḥ* ← *pāṇi*
 - \[noun\], nominative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *sujihvas* \< *su*
+- *sujihvas* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujihvas* \< *jihvaḥ* \< *jihvā*
+- *sujihvas* ← *jihvaḥ* ← *jihvā*
 - \[noun\], nominative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
@@ -30,19 +30,19 @@ title = "Rig Veda 3.54.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *patyamānaḥ* \< *paty*
+- *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -51,23 +51,23 @@ title = "Rig Veda 3.54.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *aśrer* \< *aśreḥ* \< *śri*
+- *aśrer* ← *aśreḥ* ← *śri*
 - \[verb\], singular, Root aorist (Ind.)
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 3.54.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suva* \< *sū*
+- *suva* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *sarvatātim* \< *sarvatāti*
+- *sarvatātim* ← *sarvatāti*
 - \[noun\], accusative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------

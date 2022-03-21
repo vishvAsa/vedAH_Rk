@@ -2,11 +2,11 @@
 title = "Rig Veda 8.68.11"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,26 +14,26 @@ title = "Rig Veda 8.68.11"
 - \[noun\], nominative, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *svādvī* \< *svādu*
+- *svādvī* ← *svādu*
 - \[noun\], nominative, singular, feminine
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *praṇītir* \< *praṇītiḥ* \< *praṇīti*
+- *praṇītir* ← *praṇītiḥ* ← *praṇīti*
 - \[noun\], nominative, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *vitantasāyyaḥ* \< *vitantasāyya*
+- *vitantasāyyaḥ* ← *vitantasāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

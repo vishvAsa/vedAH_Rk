@@ -2,50 +2,50 @@
 title = "Rig Veda 1.31.17"
 
 +++
--   *manuṣvad* \< *manuṣvat*
+-   *manuṣvad* ← *manuṣvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aṅgirasvad* \< *aṅgirasvat*
+- *aṅgirasvad* ← *aṅgirasvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aṅgiro* \< *aṅgiraḥ* \< *aṅgiras*
+- *aṅgiro* ← *aṅgiraḥ* ← *aṅgiras*
 - \[noun\], vocative, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *yayātivat* \< *yayāti*
+- *yayātivat* ← *yayāti*
 - \[noun\], masculine
 - “Yayāti.”
 ------------------------------------------------------------------------
-- *yayātivat* \< *vat*
+- *yayātivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *pūrvavacchuce* \< *pūrvavat*
+- *pūrvavacchuce* ← *pūrvavat*
 - \[adverb\]
 - “as before.”
 ------------------------------------------------------------------------
-- *pūrvavacchuce* \< *śuce* \< *śuci*
+- *pūrvavacchuce* ← *śuce* ← *śuci*
 - \[noun\], vocative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -54,16 +54,16 @@ title = "Rig Veda 1.31.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vahā* \< *vah*
+- *vahā* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -72,14 +72,14 @@ title = "Rig Veda 1.31.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sādaya* \< *sāday* \< *√sad*
+- *sādaya* ← *sāday* ← *√sad*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *yakṣi* \< *yaj*
+- *yakṣi* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 1.31.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”

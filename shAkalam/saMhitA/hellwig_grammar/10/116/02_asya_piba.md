@@ -2,31 +2,31 @@
 title = "Rig Veda 10.116.2"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *kṣumataḥ* \< *kṣumat*
+- *kṣumataḥ* ← *kṣumat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *prasthitasyendra* \< *prasthitasya* \< *prasthā* \< *√sthā*
+- *prasthitasyendra* ← *prasthitasya* ← *prasthā* ← *√sthā*
 - \[verb noun\], genitive, singular
 - “depart; give; depart; go; stay; proceed.”
 ------------------------------------------------------------------------
-- *prasthitasyendra* \< *indra*
+- *prasthitasyendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
@@ -34,37 +34,37 @@ title = "Rig Veda 10.116.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *svastidā* \< *svasti*
+- *svastidā* ← *svasti*
 - \[noun\], neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *svastidā* \< *dāḥ* \< *dā*
+- *svastidā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *mādayasvārvācīno* \< *mādayasva* \< *māday* \< *√mad*
+- *mādayasvārvācīno* ← *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *mādayasvārvācīno* \< *arvācīnaḥ* \< *arvācīna*
+- *mādayasvārvācīno* ← *arvācīnaḥ* ← *arvācīna*
 - \[noun\], nominative, singular, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *revate* \< *revat*
+- *revate* ← *revat*
 - \[noun\], dative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *saubhagāya* \< *saubhaga*
+- *saubhagāya* ← *saubhaga*
 - \[noun\], dative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------

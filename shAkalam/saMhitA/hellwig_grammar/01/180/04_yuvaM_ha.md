@@ -2,7 +2,7 @@
 title = "Rig Veda 1.180.4"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -10,69 +10,69 @@ title = "Rig Veda 1.180.4"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *gharmam* \< *gharma*
+- *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *madhumantam* \< *madhumat*
+- *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *atraye* \< *atri*
+- *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *'po* \< *apaḥ* \< *apas*
+- *'po* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣodo* \< *kṣodaḥ* \< *kṣodas*
+- *kṣodo* ← *kṣodaḥ* ← *kṣodas*
 - \[noun\], accusative, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *'vṛṇītam* \< *avṛṇītam* \< *vṛ*
+- *'vṛṇītam* ← *avṛṇītam* ← *vṛ*
 - \[verb\], dual, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *eṣe* \< *eṣa*
+- *eṣe* ← *eṣa*
 - \[noun\], locative, singular, masculine
 - “quest.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narāv* \< *narau* \< *nara*
+- *narāv* ← *narau* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *paśvaiṣṭī* \< *paśvaiṣṭiḥ* \< *paśvaiṣṭi*
+- *paśvaiṣṭī* ← *paśvaiṣṭiḥ* ← *paśvaiṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā*
+- *rathyeva* ← *rathyā*
 - \[noun\], nominative, singular, feminine
 - “road; way; highway.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakrā* \< *cakra*
+- *cakrā* ← *cakra*
 - \[noun\], nominative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -81,11 +81,11 @@ title = "Rig Veda 1.180.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------

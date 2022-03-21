@@ -2,11 +2,11 @@
 title = "Rig Veda 10.48.5"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -19,7 +19,7 @@ title = "Rig Veda 10.48.5"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *jigya* \< *jigye* \< *ji*
+- *jigya* ← *jigye* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -28,7 +28,7 @@ title = "Rig Veda 10.48.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dhanaṃ* \< *dhanam* \< *dhana*
+- *dhanaṃ* ← *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
@@ -37,15 +37,15 @@ title = "Rig Veda 10.48.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mṛtyave* \< *mṛtyu*
+- *mṛtyave* ← *mṛtyu*
 - \[noun\], dative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tasthe* \< *sthā*
+- *tasthe* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -59,7 +59,7 @@ title = "Rig Veda 10.48.5"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

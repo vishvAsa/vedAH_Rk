@@ -2,17 +2,17 @@
 title = "Rig Veda 9.95.4"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *marmṛjānam* \< *marmṛj* \< *√mṛj*
+- *marmṛjānam* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], accusative, singular
 - “groom; wash; rub.”
 ------------------------------------------------------------------------
-- *mahiṣaṃ* \< *mahiṣam* \< *mahiṣa*
+- *mahiṣaṃ* ← *mahiṣam* ← *mahiṣa*
 - \[noun\], accusative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
@@ -20,59 +20,59 @@ title = "Rig Veda 9.95.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sānāv* \< *sānau* \< *sānu*
+- *sānāv* ← *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *aṃśuṃ* \< *aṃśum* \< *aṃśu*
+- *aṃśuṃ* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *duhanty* \< *duhanti* \< *duh*
+- *duhanty* ← *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *ukṣaṇaṃ* \< *ukṣaṇam* \< *ukṣan*
+- *ukṣaṇaṃ* ← *ukṣaṇam* ← *ukṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *giriṣṭhām* \< *giriṣṭhā*
+- *giriṣṭhām* ← *giriṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāvaśānam* \< *vaś*
+- *vāvaśānam* ← *vaś*
 - \[verb noun\], accusative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *matayaḥ* \< *mati*
+- *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *sacante* \< *sac*
+- *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *trito* \< *tritaḥ* \< *trita*
+- *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *bibharti* \< *bhṛ*
+- *bibharti* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *varuṇaṃ* \< *varuṇam* \< *varuṇa*
+- *varuṇaṃ* ← *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------

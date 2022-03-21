@@ -2,49 +2,49 @@
 title = "Rig Veda 1.9.10"
 
 +++
--   *sute* \< *suta*
+-   *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *nyokase* \< *nyokas*
+- *nyokase* ← *nyokas*
 - \[noun\], dative, singular, masculine
 - “homelike.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhata* \< *bṛhate* \< *bṛhat*
+- *bṛhata* ← *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *ed* \< *ā*
+- *ed* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ed* \< *id*
+- *ed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ariḥ* \< *ari*
+- *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śūṣam* \< *śūṣa*
+- *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
 ------------------------------------------------------------------------
-- *arcati* \< *arc*
+- *arcati* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

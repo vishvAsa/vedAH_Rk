@@ -2,50 +2,50 @@
 title = "Rig Veda 8.33.12"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *sotā* \< *sotṛ*
+- *sotā* ← *sotṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sunotu* \< *su*
+- *sunotu* ← *su*
 - \[verb\], singular, Present imperative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣann* \< *vṛṣan*
+- *vṛṣann* ← *vṛṣan*
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ṛjīpinn* \< *ṛjīpin*
+- *ṛjīpinn* ← *ṛjīpin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *dadhanve* \< *dhanv*
+- *dadhanve* ← *dhanv*
 - \[verb\], singular, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *nadīṣv* \< *nadīṣu* \< *nadī*
+- *nadīṣv* ← *nadīṣu* ← *nadī*
 - \[noun\], locative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
@@ -53,15 +53,15 @@ title = "Rig Veda 8.33.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sthātar* \< *sthātṛ*
+- *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
 - “driver.”
 ------------------------------------------------------------------------
-- *harīṇām* \< *hari*
+- *harīṇām* ← *hari*
 - \[noun\], genitive, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”

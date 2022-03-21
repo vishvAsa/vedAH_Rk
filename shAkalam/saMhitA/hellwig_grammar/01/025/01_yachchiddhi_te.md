@@ -2,23 +2,23 @@
 title = "Rig Veda 1.25.1"
 
 +++
--   *yacciddhi* \< *yat*
+-   *yacciddhi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *cit*
+- *yacciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *hi*
+- *yacciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśo* \< *viśaḥ* \< *viś*
+- *viśo* ← *viśaḥ* ← *viś*
 - \[noun\], nominative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -40,20 +40,20 @@ title = "Rig Veda 1.25.1"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *vratam* \< *vrata*
+- *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *minīmasi* \< *mī*
+- *minīmasi* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *dyavi* \< *div*
+- *dyavi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dyavi* \< *div*
+- *dyavi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

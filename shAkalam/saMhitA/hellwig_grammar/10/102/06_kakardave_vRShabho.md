@@ -2,14 +2,14 @@
 title = "Rig Veda 10.102.6"
 
 +++
--   *kakardave* \< *kakardu*
+-   *kakardave* ← *kakardu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yukta* \< *yuktaḥ* \< *yuj*
+- *yukta* ← *yuktaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -17,30 +17,30 @@ title = "Rig Veda 10.102.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *avāvacīt* \< *vāvac* \< *√vac*
+- *avāvacīt* ← *vāvac* ← *√vac*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *sārathir* \< *sārathiḥ* \< *sārathi*
+- *sārathir* ← *sārathiḥ* ← *sārathi*
 - \[noun\], nominative, singular, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *keśī* \< *keśin*
+- *keśī* ← *keśin*
 - \[noun\], nominative, singular, masculine
 - “haired.”
 ------------------------------------------------------------------------
-- *dudher* \< *dudheḥ* \< *dudhi*
+- *dudher* ← *dudheḥ* ← *dudhi*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *yuktasya* \< *yuj*
+- *yuktasya* ← *yuj*
 - \[verb noun\], genitive, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -48,31 +48,31 @@ title = "Rig Veda 10.102.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *dravataḥ* \< *dru*
+- *dravataḥ* ← *dru*
 - \[verb noun\], genitive, singular
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *sahānasa* \< *saha*
+- *sahānasa* ← *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *sahānasa* \< *anase* \< *anas*
+- *sahānasa* ← *anase* ← *anas*
 - \[noun\], dative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *ṛcchanti* \< *ṛch*
+- *ṛcchanti* ← *ṛch*
 - \[verb\], plural, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *niṣpado* \< *niṣpadaḥ* \< *niṣpad*
+- *niṣpado* ← *niṣpadaḥ* ← *niṣpad*
 - \[noun\], nominative, plural, feminine
 - “fecal matter.”
 ------------------------------------------------------------------------
-- *mudgalānīm* \< *mudgalānī*
+- *mudgalānīm* ← *mudgalānī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

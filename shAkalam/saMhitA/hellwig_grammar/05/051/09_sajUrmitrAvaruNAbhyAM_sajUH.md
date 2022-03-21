@@ -2,21 +2,21 @@
 title = "Rig Veda 5.51.9"
 
 +++
--   *sajūr* \< *sajūs*
+-   *sajūr* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mitrāvaruṇābhyāṃ* \< *mitrāvaruṇābhyām* \< *mitrāvaruṇa*
+- *mitrāvaruṇābhyāṃ* ← *mitrāvaruṇābhyām* ← *mitrāvaruṇa*
 - \[noun\], instrumental, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *sajūḥ* \< *sajūs*
+- *sajūḥ* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *somena* \< *soma*
+- *somena* ← *soma*
 - \[noun\], instrumental, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viṣṇunā* \< *viṣṇu*
+- *viṣṇunā* ← *viṣṇu*
 - \[noun\], instrumental, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
@@ -24,30 +24,30 @@ title = "Rig Veda 5.51.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *atrivat* \< *atri*
+- *atrivat* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *atrivat* \< *vat*
+- *atrivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *raṇa* \< *ran*
+- *raṇa* ← *ran*
 - \[verb\], singular, Present imperative
 - “rejoice.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 9.92.4"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -14,37 +14,37 @@ title = "Rig Veda 9.92.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *niṇye* \< *niṇya*
+- *niṇye* ← *niṇya*
 - \[noun\], locative, singular, neuter
 - “secret; mystery.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devās* \< *devāḥ* \< *deva*
+- *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *traya* \< *trayaḥ* \< *tri*
+- *traya* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *ekādaśāsaḥ* \< *ekādaśa*
+- *ekādaśāsaḥ* ← *ekādaśa*
 - \[noun\], nominative, plural, masculine
 - “eleventh; elevenfold.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *svadhābhir* \< *svadhābhiḥ* \< *svadhā*
+- *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
@@ -53,30 +53,30 @@ title = "Rig Veda 9.92.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nadyaḥ* \< *nadī*
+- *nadyaḥ* ← *nadī*
 - \[noun\], nominative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *yahvīḥ* \< *yahva*
+- *yahvīḥ* ← *yahva*
 - \[noun\], nominative, plural, feminine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------

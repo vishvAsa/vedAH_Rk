@@ -6,51 +6,51 @@ title = "Rig Veda 8.8.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gacchataṃ* \< *gacchatam* \< *gam*
+- *gacchataṃ* ← *gacchatam* ← *gam*
 - \[verb\], dual, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *hiraṇyavartanī* \< *hiraṇya*
+- *hiraṇyavartanī* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavartanī* \< *vartanī* \< *vartani*
+- *hiraṇyavartanī* ← *vartanī* ← *vartani*
 - \[noun\], vocative, dual, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *pibataṃ* \< *pibatam* \< *pā*
+- *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------

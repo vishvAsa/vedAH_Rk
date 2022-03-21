@@ -2,11 +2,11 @@
 title = "Rig Veda 9.49.1"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 9.49.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'pām* \< *apām* \< *ap*
+- *'pām* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *ūrmiṃ* \< *ūrmim* \< *ūrmi*
+- *ūrmiṃ* ← *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -38,16 +38,16 @@ title = "Rig Veda 9.49.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ayakṣmā* \< *ayakṣmāḥ* \< *ayakṣman*
+- *ayakṣmā* ← *ayakṣmāḥ* ← *ayakṣman*
 - \[noun\], accusative, plural, feminine
 - “healthy.”
 ------------------------------------------------------------------------
-- *bṛhatīr* \< *bṛhatīḥ* \< *bṛhat*
+- *bṛhatīr* ← *bṛhatīḥ* ← *bṛhat*
 - \[noun\], accusative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

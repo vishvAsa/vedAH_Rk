@@ -2,24 +2,24 @@
 title = "Rig Veda 10.117.5"
 
 +++
--   *pṛṇīyād* \< *pṛṇīyāt* \< *pṛ*
+-   *pṛṇīyād* ← *pṛṇīyāt* ← *pṛ*
 - \[verb\], singular, Present optative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nādhamānāya* \< *nādh*
+- *nādhamānāya* ← *nādh*
 - \[verb noun\], dative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *tavyān* \< *tavyas*
+- *tavyān* ← *tavyas*
 - \[noun\], nominative, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------
-- *drāghīyāṃsam* \< *drāghīyas*
+- *drāghīyāṃsam* ← *drāghīyas*
 - \[noun\], accusative, singular, masculine
 - “long; longer.”
 ------------------------------------------------------------------------
@@ -27,20 +27,20 @@ title = "Rig Veda 10.117.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *paśyeta* \< *paś*
+- *paśyeta* ← *paś*
 - \[verb\], singular, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *o* \< *ā*
+- *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -48,30 +48,30 @@ title = "Rig Veda 10.117.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vartante* \< *vṛt*
+- *vartante* ← *vṛt*
 - \[verb\], plural, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā* \< *rathya*
+- *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakrānyam* \< *cakrā* \< *cakra*
+- *cakrānyam* ← *cakrā* ← *cakra*
 - \[noun\], nominative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *cakrānyam* \< *anyam* \< *anya*
+- *cakrānyam* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *anyam* \< *anya*
+- *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -80,13 +80,13 @@ title = "Rig Veda 10.117.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tiṣṭhanta* \< *sthā*
+- *tiṣṭhanta* ← *sthā*
 - \[verb\], plural, Present injunctive
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------

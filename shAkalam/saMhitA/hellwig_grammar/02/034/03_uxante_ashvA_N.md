@@ -2,69 +2,69 @@
 title = "Rig Veda 2.34.3"
 
 +++
--   *ukṣante* \< *ukṣ*
+-   *ukṣante* ← *ukṣ*
 - \[verb\], plural, Present indikative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *aśvāṃ* \< *aśva*
+- *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *atyāṃ* \< *atya*
+- *atyāṃ* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *ivājiṣu* \< *iva*
+- *ivājiṣu* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivājiṣu* \< *ājiṣu* \< *āji*
+- *ivājiṣu* ← *ājiṣu* ← *āji*
 - \[noun\], locative, plural, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *nadasya* \< *nada*
+- *nadasya* ← *nada*
 - \[noun\], genitive, singular, masculine
 - “river; nad; roarer; stallion.”
 ------------------------------------------------------------------------
-- *karṇais* \< *karṇaiḥ* \< *karṇa*
+- *karṇais* ← *karṇaiḥ* ← *karṇa*
 - \[noun\], instrumental, plural, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *turayanta* \< *turay* \< *√tṛ*
+- *turayanta* ← *turay* ← *√tṛ*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *āśubhiḥ* \< *āśu*
+- *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *hiraṇyaśiprā* \< *hiraṇya*
+- *hiraṇyaśiprā* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyaśiprā* \< *śiprāḥ* \< *śiprā*
+- *hiraṇyaśiprā* ← *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *davidhvataḥ* \< *dodhu* \< *√dhū*
+- *davidhvataḥ* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, plural
 - “shake.”
 ------------------------------------------------------------------------
-- *pṛkṣaṃ* \< *pṛkṣam* \< *pṛkṣa*
+- *pṛkṣaṃ* ← *pṛkṣam* ← *pṛkṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yātha* \< *yā*
+- *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *pṛṣatībhiḥ* \< *pṛṣatī*
+- *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *samanyavaḥ* \< *samanyu*
+- *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------

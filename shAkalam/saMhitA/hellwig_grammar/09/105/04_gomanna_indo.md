@@ -2,15 +2,15 @@
 title = "Rig Veda 9.105.4"
 
 +++
--   *goman* \< *gomat*
+-   *goman* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -18,32 +18,32 @@ title = "Rig Veda 9.105.4"
 - *aśvavat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sudakṣa* \< *su*
+- *sudakṣa* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣa* \< *dakṣa*
+- *sudakṣa* ← *dakṣa*
 - \[noun\], vocative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *śuciṃ* \< *śucim* \< *śuci*
+- *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *varṇam* \< *varṇa*
+- *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
@@ -52,12 +52,12 @@ title = "Rig Veda 9.105.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *dīdharam* \< *dhṛ*
+- *dīdharam* ← *dhṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”

@@ -2,19 +2,19 @@
 title = "Rig Veda 8.61.16"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *paścād* \< *paścāt*
+- *paścād* ← *paścāt*
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
 ------------------------------------------------------------------------
-- *adharād* \< *adharāt*
+- *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 8.61.16"
 - \[adverb\]
 - “north.”
 ------------------------------------------------------------------------
-- *pura* \< *puras*
+- *pura* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 8.61.16"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 8.61.16"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmat* \< *mad*
+- *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -62,11 +62,11 @@ title = "Rig Veda 8.61.16"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *daivyam* \< *daivya*
+- *daivyam* ← *daivya*
 - \[noun\], accusative, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *bhayam* \< *bhaya*
+- *bhayam* ← *bhaya*
 - \[noun\], accusative, singular, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
@@ -75,11 +75,11 @@ title = "Rig Veda 8.61.16"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *hetīr* \< *hetīḥ* \< *heti*
+- *hetīr* ← *hetīḥ* ← *heti*
 - \[noun\], accusative, plural, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *adevīḥ* \< *adeva*
+- *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
 ------------------------------------------------------------------------

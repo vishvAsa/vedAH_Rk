@@ -10,87 +10,87 @@ title = "Rig Veda 3.36.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *prasavaṃ* \< *prasavam* \< *prasava*
+- *prasavaṃ* ← *prasavam* ← *prasava*
 - \[noun\], accusative, singular, masculine
 - “stimulation.”
 ------------------------------------------------------------------------
-- *yathāyann* \< *yathā*
+- *yathāyann* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāyann* \< *āyan* \< *i*
+- *yathāyann* ← *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *samudraṃ* \< *samudram* \< *samudra*
+- *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā*
+- *rathyeva* ← *rathyā*
 - \[noun\], instrumental, singular, feminine
 - “road; way; highway.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jagmuḥ* \< *gam*
+- *jagmuḥ* ← *gam*
 - \[verb\], plural, Perfect indicative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *ataś* \< *atas*
+- *ataś* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sadaso* \< *sadasaḥ* \< *sadas*
+- *sadaso* ← *sadasaḥ* ← *sadas*
 - \[noun\], ablative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *varīyān* \< *varīyas*
+- *varīyān* ← *varīyas*
 - \[noun\], nominative, singular, masculine
 - “wide.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pṛṇati* \< *pṛṇ*
+- *pṛṇati* ← *pṛṇ*
 - \[verb\], singular, Present indikative
 - “satisfy.”
 ------------------------------------------------------------------------
-- *dugdho* \< *dugdhaḥ* \< *duh*
+- *dugdho* ← *dugdhaḥ* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *aṃśuḥ* \< *aṃśu*
+- *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.17.13"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 10.17.13"
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *skanno* \< *skannaḥ* \< *skand*
+- *skanno* ← *skannaḥ* ← *skand*
 - \[verb noun\], nominative, singular
 - “clot; ejaculate; spill; ride.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aṃśur* \< *aṃśuḥ* \< *aṃśu*
+- *aṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *avaś* \< *avas*
+- *avaś* ← *avas*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
@@ -38,46 +38,46 @@ title = "Rig Veda 10.17.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paraḥ* \< *paras*
+- *paraḥ* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *srucā* \< *sruc*
+- *srucā* ← *sruc*
 - \[noun\], instrumental, singular, feminine
 - “Sruc.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[noun\], nominative, singular, masculine
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *siñcatu* \< *sic*
+- *siñcatu* ← *sic*
 - \[verb\], singular, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

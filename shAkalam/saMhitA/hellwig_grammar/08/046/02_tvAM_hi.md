@@ -2,7 +2,7 @@
 title = "Rig Veda 8.46.2"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,37 +10,37 @@ title = "Rig Veda 8.46.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], accusative, singular, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *vidma* \< *vid*
+- *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *dātāram* \< *dātṛ*
+- *dātāram* ← *dātṛ*
 - \[noun\], accusative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *iṣām* \< *iṣ*
+- *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *vidma* \< *vid*
+- *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *dātāraṃ* \< *dātāram* \< *dātṛ*
+- *dātāraṃ* ← *dātāram* ← *dātṛ*
 - \[noun\], accusative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *rayīṇām* \< *rayi*
+- *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------

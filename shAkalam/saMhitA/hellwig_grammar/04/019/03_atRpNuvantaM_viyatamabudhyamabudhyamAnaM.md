@@ -2,36 +2,36 @@
 title = "Rig Veda 4.19.3"
 
 +++
--   *atṛpṇuvantaṃ* \< *a*
+-   *atṛpṇuvantaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *atṛpṇuvantaṃ* \< *tṛpṇuvantam* \< *tṛp*
+- *atṛpṇuvantaṃ* ← *tṛpṇuvantam* ← *tṛp*
 - \[verb noun\], accusative, singular
 - “satiate; enjoy; delight.”
 ------------------------------------------------------------------------
-- *viyatam* \< *viyam* \< *√yam*
+- *viyatam* ← *viyam* ← *√yam*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *abudhyam* \< *a*
+- *abudhyam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abudhyam* \< *budhyam* \< *budh*
+- *abudhyam* ← *budhyam* ← *budh*
 - \[verb noun\], accusative, singular
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *abudhyamānaṃ* \< *a*
+- *abudhyamānaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abudhyamānaṃ* \< *budhyamānam* \< *budh*
+- *abudhyamānaṃ* ← *budhyamānam* ← *budh*
 - \[verb noun\], accusative, singular
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *suṣupāṇam* \< *svap*
+- *suṣupāṇam* ← *svap*
 - \[verb noun\], accusative, singular
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 4.19.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -48,19 +48,19 @@ title = "Rig Veda 4.19.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *pravata* \< *pravataḥ* \< *pravat*
+- *pravata* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *āśayānam* \< *āśī* \< *√śī*
+- *āśayānam* ← *āśī* ← *√śī*
 - \[verb noun\], accusative, singular
 - “lie; stay.”
 ------------------------------------------------------------------------
-- *ahiṃ* \< *ahim* \< *ahi*
+- *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -69,15 +69,15 @@ title = "Rig Veda 4.19.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *riṇā* \< *riṇāḥ* \< *ri*
+- *riṇā* ← *riṇāḥ* ← *ri*
 - \[verb\], singular, Present injunctive
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *aparvan* \< *a*
+- *aparvan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aparvan* \< *parvan*
+- *aparvan* ← *parvan*
 - \[noun\], locative, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------

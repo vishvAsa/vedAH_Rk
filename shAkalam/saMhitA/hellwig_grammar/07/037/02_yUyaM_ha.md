@@ -2,7 +2,7 @@
 title = "Rig Veda 7.37.2"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -10,49 +10,49 @@ title = "Rig Veda 7.37.2"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dhattha* \< *dhā*
+- *dhattha* ← *dhā*
 - \[verb\], plural, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *svardṛśa* \< *svar*
+- *svardṛśa* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛśa* \< *dṛśaḥ* \< *dṛś*
+- *svardṛśa* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], vocative, plural, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇo* \< *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇo* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *amṛktam* \< *amṛkta*
+- *amṛktam* ← *amṛkta*
 - \[noun\], accusative, singular, neuter
 - “new; undamaged; complete.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *svadhāvantaḥ* \< *svadhāvat*
+- *svadhāvantaḥ* ← *svadhāvat*
 - \[noun\], vocative, plural, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------
-- *pibadhvaṃ* \< *pibadhvam* \< *pā*
+- *pibadhvaṃ* ← *pibadhvam* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -60,20 +60,20 @@ title = "Rig Veda 7.37.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rādhāṃsi* \< *rādhas*
+- *rādhāṃsi* ← *rādhas*
 - \[noun\], accusative, plural, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *dayadhvam* \< *day*
+- *dayadhvam* ← *day*
 - \[verb\], plural, Present imperative
 - “share.”
 ------------------------------------------------------------------------

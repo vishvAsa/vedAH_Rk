@@ -6,40 +6,40 @@ title = "Rig Veda 8.81.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *kramasvā* \< *kramasva* \< *kram*
+- *kramasvā* ← *kramasva* ← *kram*
 - \[verb\], singular, Present imperative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *kramasvā* \< *ā*
+- *kramasvā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *dhṛṣatā* \< *dhṛṣ*
+- *dhṛṣatā* ← *dhṛṣ*
 - \[verb noun\], instrumental, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *adāśūṣṭarasya* \< *a*
+- *adāśūṣṭarasya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adāśūṣṭarasya* \< *dāśūṣṭarasya* \< *dāśūṣṭara*
+- *adāśūṣṭarasya* ← *dāśūṣṭarasya* ← *dāśūṣṭara*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vedaḥ* \< *vedas*
+- *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------

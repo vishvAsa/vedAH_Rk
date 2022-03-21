@@ -6,11 +6,11 @@ title = "Rig Veda 8.93.26"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dakṣaṃ* \< *dakṣam* \< *dakṣa*
+- *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
@@ -18,16 +18,16 @@ title = "Rig Veda 8.93.26"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rocanā* \< *rocana*
+- *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *dadhad* \< *dadhat* \< *dhā*
+- *dadhad* ← *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ratnā* \< *ratna*
+- *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
@@ -36,20 +36,20 @@ title = "Rig Veda 8.93.26"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *arcata* \< *arc*
+- *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

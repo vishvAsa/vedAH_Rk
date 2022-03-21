@@ -2,23 +2,23 @@
 title = "Rig Veda 1.84.6"
 
 +++
--   *nakiṣ* \< *nakir*
+-   *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭvad* \< *ṭvat* \< *tvad*
+- *ṭvad* ← *ṭvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rathītaro* \< *rathītaraḥ* \< *rathītara*
+- *rathītaro* ← *rathītaraḥ* ← *rathītara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -27,39 +27,39 @@ title = "Rig Veda 1.84.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yacchase* \< *yam*
+- *yacchase* ← *yam*
 - \[verb\], singular, Present indikative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *nakiṣ* \< *nakir*
+- *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭvānu* \< *ṭvā* \< *tvad*
+- *ṭvānu* ← *ṭvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṭvānu* \< *anu*
+- *ṭvānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *nakiḥ* \< *nakir*
+- *nakiḥ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *svaśva* \< *su*
+- *svaśva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśva* \< *aśvaḥ* \< *aśva*
+- *svaśva* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ānaśe* \< *aś*
+- *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 7.36.2"
 
 +++
--   *imāṃ* \< *imām* \< *idam*
+-   *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 7.36.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇve* \< *kṛ*
+- *kṛṇve* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -37,35 +37,35 @@ title = "Rig Veda 7.36.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *asurā* \< *asurāḥ* \< *asura*
+- *asurā* ← *asurāḥ* ← *asura*
 - \[noun\], vocative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *navīyaḥ* \< *navīyas*
+- *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *ino* \< *inaḥ* \< *ina*
+- *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *anyaḥ* \< *anya*
+- *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *padavīr* \< *padavīḥ* \< *padavī*
+- *padavīr* ← *padavīḥ* ← *padavī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adabdho* \< *adabdhaḥ* \< *adabdha*
+- *adabdho* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -74,15 +74,15 @@ title = "Rig Veda 7.36.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *yatati* \< *yat*
+- *yatati* ← *yat*
 - \[verb\], singular, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *bruvāṇaḥ* \< *brū*
+- *bruvāṇaḥ* ← *brū*
 - \[verb noun\], nominative, singular
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

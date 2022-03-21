@@ -2,18 +2,18 @@
 title = "Rig Veda 8.41.10"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śvetāṃ* \< *śveta*
+- *śvetāṃ* ← *śveta*
 - \[noun\], accusative, plural, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *adhinirṇijaś* \< *adhinirṇijaḥ* \< *adhinirṇij*
+- *adhinirṇijaś* ← *adhinirṇijaḥ* ← *adhinirṇij*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -24,7 +24,7 @@ title = "Rig Veda 8.41.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṣṇāṃ* \< *kṛṣṇa*
+- *kṛṣṇāṃ* ← *kṛṣṇa*
 - \[noun\], accusative, plural, masculine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
@@ -32,35 +32,35 @@ title = "Rig Veda 8.41.10"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vratā* \< *vrata*
+- *vratā* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *pūrvyam* \< *pūrvya*
+- *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *mame* \< *mā*
+- *mame* ← *mā*
 - \[verb\], singular, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *skambhena* \< *skambha*
+- *skambhena* ← *skambha*
 - \[noun\], instrumental, singular, masculine
 - “prop.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 8.41.10"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ajo* \< *ajaḥ* \< *aja*
+- *ajo* ← *ajaḥ* ← *aja*
 - \[noun\], nominative, singular, masculine
 - “unborn.”
 ------------------------------------------------------------------------
@@ -80,25 +80,25 @@ title = "Rig Veda 8.41.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *adhārayan* \< *adhārayat* \< *dhāray* \< *√dhṛ*
+- *adhārayan* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

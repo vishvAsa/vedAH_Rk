@@ -6,20 +6,20 @@ title = "Rig Veda 7.78.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ṣīm* \< *sīm*
+- *ṣīm* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *jarate* \< *jṛ*
+- *jarate* ← *jṛ*
 - \[verb\], singular, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *samiddhaḥ* \< *samindh* \< *√indh*
+- *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -27,52 +27,52 @@ title = "Rig Veda 7.78.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *gṛṇantaḥ* \< *gṛ*
+- *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bādhamānā* \< *bādh*
+- *bādhamānā* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tamāṃsi* \< *tamas*
+- *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *duritāpa* \< *duritā* \< *durita*
+- *duritāpa* ← *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *duritāpa* \< *apa*
+- *duritāpa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------

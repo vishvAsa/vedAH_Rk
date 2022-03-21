@@ -2,7 +2,7 @@
 title = "Rig Veda 4.31.14"
 
 +++
--   *asmākaṃ* \< *asmākam* \< *mad*
+-   *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 4.31.14"
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dyumāṃ* \< *dyumat*
+- *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *indrānapacyutaḥ* \< *indra*
+- *indrānapacyutaḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrānapacyutaḥ* \< *an*
+- *indrānapacyutaḥ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *indrānapacyutaḥ* \< *apacyutaḥ* \< *apacyu* \< *√cyu*
+- *indrānapacyutaḥ* ← *apacyutaḥ* ← *apacyu* ← *√cyu*
 - \[verb noun\], nominative, singular
 - “abscond.”
 ------------------------------------------------------------------------
-- *gavyur* \< *gavyuḥ* \< *gavyu*
+- *gavyur* ← *gavyuḥ* ← *gavyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvayur* \< *aśvayuḥ* \< *aśvayu*
+- *aśvayur* ← *aśvayuḥ* ← *aśvayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *īyate* \< *i*
+- *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

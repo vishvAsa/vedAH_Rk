@@ -2,11 +2,11 @@
 title = "Rig Veda 10.75.8"
 
 +++
--   *svaśvā* \< *su*
+-   *svaśvā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvā* \< *aśvā* \< *aśva*
+- *svaśvā* ← *aśvā* ← *aśva*
 - \[noun\], nominative, singular, feminine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

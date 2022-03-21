@@ -2,7 +2,7 @@
 title = "Rig Veda 8.75.11"
 
 +++
--   *kuvit* \< *kuvid*
+-   *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
@@ -10,32 +10,32 @@ title = "Rig Veda 8.75.11"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gaviṣṭaye* \< *gaviṣṭi*
+- *gaviṣṭaye* ← *gaviṣṭi*
 - \[noun\], dative, singular, feminine
 - “foray.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *saṃveṣiṣo* \< *saṃveṣiṣaḥ* \< *saṃviṣ* \< *√viṣ*
+- *saṃveṣiṣo* ← *saṃveṣiṣaḥ* ← *saṃviṣ* ← *√viṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *urukṛd* \< *uru*
+- *urukṛd* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urukṛd* \< *kṛt*
+- *urukṛd* ← *kṛt*
 - \[noun\], vocative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
@@ -43,11 +43,11 @@ title = "Rig Veda 8.75.11"
 - *uru*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *ṇas* \< *naḥ* \< *mad*
+- *ṇas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

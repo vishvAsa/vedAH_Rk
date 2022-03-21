@@ -2,38 +2,38 @@
 title = "Rig Veda 6.47.24"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *rathān* \< *ratha*
+- *rathān* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *praṣṭimataḥ* \< *praṣṭimat*
+- *praṣṭimataḥ* ← *praṣṭimat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *atharvabhyaḥ* \< *atharvan*
+- *atharvabhyaḥ* ← *atharvan*
 - \[noun\], dative, plural, masculine
 - “Atharvan; Atharvavedin.”
 ------------------------------------------------------------------------
-- *aśvathaḥ* \< *aśvatha*
+- *aśvathaḥ* ← *aśvatha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pāyave* \< *pāyu*
+- *pāyave* ← *pāyu*
 - \[noun\], dative, singular, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
-- *'dāt* \< *adāt* \< *dā*
+- *'dāt* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

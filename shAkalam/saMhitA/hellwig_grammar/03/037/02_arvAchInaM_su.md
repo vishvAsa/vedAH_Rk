@@ -2,7 +2,7 @@
 title = "Rig Veda 3.37.2"
 
 +++
--   *arvācīnaṃ* \< *arvācīnam* \< *arvācīna*
+-   *arvācīnaṃ* ← *arvācīnam* ← *arvācīna*
 - \[noun\], accusative, singular, neuter
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 3.37.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mana* \< *manaḥ* \< *manas*
+- *mana* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -23,11 +23,11 @@ title = "Rig Veda 3.37.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *cakṣuḥ* \< *cakṣus*
+- *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 3.37.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛṇvantu* \< *kṛ*
+- *kṛṇvantu* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -47,6 +47,6 @@ title = "Rig Veda 3.37.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vāghataḥ* \< *vāghant*
+- *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

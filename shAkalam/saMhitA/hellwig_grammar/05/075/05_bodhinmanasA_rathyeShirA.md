@@ -2,33 +2,33 @@
 title = "Rig Veda 5.75.5"
 
 +++
--   *bodhinmanasā* \< *bodhinmanas*
+-   *bodhinmanasā* ← *bodhinmanas*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *rathyeṣirā* \< *rathyā* \< *rathya*
+- *rathyeṣirā* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *rathyeṣirā* \< *iṣirā* \< *iṣira*
+- *rathyeṣirā* ← *iṣirā* ← *iṣira*
 - \[noun\], nominative, dual, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *havanaśrutā* \< *havana*
+- *havanaśrutā* ← *havana*
 - \[noun\], neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *havanaśrutā* \< *śrutā* \< *śrut*
+- *havanaśrutā* ← *śrutā* ← *śrut*
 - \[noun\], nominative, dual, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *vibhiś* \< *vibhiḥ* \< *vi*
+- *vibhiś* ← *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *cyavānam* \< *cyavāna*
+- *cyavānam* ← *cyavāna*
 - \[noun\], accusative, singular, masculine
 - “Cyavana.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -36,16 +36,16 @@ title = "Rig Veda 5.75.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yātho* \< *yāthaḥ* \< *yā*
+- *yātho* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *advayāvinam* \< *a*
+- *advayāvinam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *advayāvinam* \< *dvayāvinam* \< *dvayāvin*
+- *advayāvinam* ← *dvayāvinam* ← *dvayāvin*
 - \[noun\], accusative, singular, masculine
 - “dishonest.”
 ------------------------------------------------------------------------
@@ -53,15 +53,15 @@ title = "Rig Veda 5.75.5"
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

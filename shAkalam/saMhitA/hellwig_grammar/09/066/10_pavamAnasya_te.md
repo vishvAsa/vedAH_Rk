@@ -2,15 +2,15 @@
 title = "Rig Veda 9.66.10"
 
 +++
--   *pavamānasya* \< *pū*
+-   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kave* \< *kavi*
+- *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -19,16 +19,16 @@ title = "Rig Veda 9.66.10"
 - \[noun\], vocative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *sargā* \< *sargāḥ* \< *sarga*
+- *sargā* ← *sargāḥ* ← *sarga*
 - \[noun\], nominative, plural, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
-- *asṛkṣata* \< *sṛj*
+- *asṛkṣata* ← *sṛj*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *arvanto* \< *arvantaḥ* \< *arvant*
+- *arvanto* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 9.66.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śravasyavaḥ* \< *śravasyu*
+- *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 7.2.3"
 
 +++
--   *īﾱenyaṃ* \< *īḍenyam* \< *īḍ*
+-   *īﾱenyaṃ* ← *īḍenyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *asuraṃ* \< *asuram* \< *asura*
+- *asuraṃ* ← *asuram* ← *asura*
 - \[noun\], accusative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *su*
+- *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *dakṣam* \< *dakṣa*
+- *sudakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 7.2.3"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *dūtaṃ* \< *dūtam* \< *dūta*
+- *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *satyavācam* \< *satya*
+- *satyavācam* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyavācam* \< *vācam* \< *vāc*
+- *satyavācam* ← *vācam* \< *vāc*
 - \[noun\], accusative, singular, masculine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;

@@ -2,15 +2,15 @@
 title = "Rig Veda 8.24.8"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 8.24.8"
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vidyāma* \< *vid*
+- *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -28,15 +28,15 @@ title = "Rig Veda 8.24.8"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *navyasaḥ* \< *navyas*
+- *navyasaḥ* ← *navyas*
 - \[noun\], genitive, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *spārhasya* \< *spārha*
+- *spārhasya* ← *spārha*
 - \[noun\], genitive, singular, neuter
 - “desirable.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 8.24.8"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *rādhasaḥ* \< *rādhas*
+- *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

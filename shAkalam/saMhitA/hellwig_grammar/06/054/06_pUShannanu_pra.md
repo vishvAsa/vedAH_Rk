@@ -2,7 +2,7 @@
 title = "Rig Veda 6.54.6"
 
 +++
--   *pūṣann* \< *pūṣan*
+-   *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
@@ -14,28 +14,28 @@ title = "Rig Veda 6.54.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ihi* \< *i*
+- *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvataḥ* \< *su*
+- *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *asmākaṃ* \< *asmākam* \< *mad*
+- *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stuvatām* \< *stu*
+- *stuvatām* ← *stu*
 - \[verb noun\], genitive, plural
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------

@@ -2,26 +2,26 @@
 title = "Rig Veda 10.32.2"
 
 +++
--   *vīndra* \< *vi*
+-   *vīndra* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vīndra* \< *indra*
+- *vīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *divyāni* \< *divya*
+- *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *rocanā* \< *rocana*
+- *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 10.32.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pārthivāni* \< *pārthiva*
+- *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *rajasā* \< *rajas*
+- *rajasā* ← *rajas*
 - \[noun\], instrumental, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -42,15 +42,15 @@ title = "Rig Veda 10.32.2"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -59,7 +59,7 @@ title = "Rig Veda 10.32.2"
 - \[adverb\]
 - “again; repeatedly; continually.”
 ------------------------------------------------------------------------
-- *adhvarāṃ* \< *adhvara*
+- *adhvarāṃ* ← *adhvara*
 - \[noun\], accusative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 10.32.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -77,15 +77,15 @@ title = "Rig Veda 10.32.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vanvantu* \< *van*
+- *vanvantu* ← *van*
 - \[verb\], plural, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vagvanāṃ* \< *vagvana*
+- *vagvanāṃ* ← *vagvana*
 - \[noun\], accusative, plural, masculine
 - “chatty.”
 ------------------------------------------------------------------------
-- *arādhasaḥ* \< *arādhas*
+- *arādhasaḥ* ← *arādhas*
 - \[noun\], accusative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------

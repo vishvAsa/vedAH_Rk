@@ -2,7 +2,7 @@
 title = "Rig Veda 1.91.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 1.91.6"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vaśo* \< *vaśaḥ* \< *vaś*
+- *vaśo* ← *vaśaḥ* ← *vaś*
 - \[verb\], singular, Present injunctive
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *jīvātuṃ* \< *jīvātum* \< *jīvātu*
+- *jīvātuṃ* ← *jīvātum* ← *jīvātu*
 - \[noun\], accusative, singular, feminine
 - “life.”
 ------------------------------------------------------------------------
@@ -30,20 +30,20 @@ title = "Rig Veda 1.91.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *marāmahe* \< *mṛ*
+- *marāmahe* ← *mṛ*
 - \[verb\], plural, Present indikative
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *priyastotro* \< *priya*
+- *priyastotro* ← *priya*
 - \[noun\]
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *priyastotro* \< *stotraḥ* \< *stotra*
+- *priyastotro* ← *stotraḥ* ← *stotra*
 - \[noun\], nominative, singular, masculine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *vanaspatiḥ* \< *vanaspati*
+- *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------

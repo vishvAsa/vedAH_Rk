@@ -2,11 +2,11 @@
 title = "Rig Veda 8.54.8"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,23 +15,23 @@ title = "Rig Veda 8.54.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vidhema* \< *vidh*
+- *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmākaṃ* \< *asmākam* \< *mad*
+- *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -39,22 +39,22 @@ title = "Rig Veda 8.54.8"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *sthūraṃ* \< *sthūram* \< *sthūra*
+- *sthūraṃ* ← *sthūram* ← *sthūra*
 - \[noun\], accusative, singular, neuter
 - “large; portly; fleshy.”
 ------------------------------------------------------------------------
-- *śaśayaṃ* \< *śaśayam* \< *śaśaya*
+- *śaśayaṃ* ← *śaśayam* ← *śaśaya*
 - \[noun\], accusative, singular, neuter
 - “abundant.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ahrayam* \< *ahraya*
+- *ahrayam* ← *ahraya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *praskaṇvāya* \< *praskaṇva*
+- *praskaṇvāya* ← *praskaṇva*
 - \[noun\], dative, singular, masculine
 - “Praskaṇva.”
 ------------------------------------------------------------------------
@@ -62,6 +62,6 @@ title = "Rig Veda 8.54.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tośaya* \< *tośay* \< *√tuś*
+- *tośaya* ← *tośay* ← *√tuś*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------

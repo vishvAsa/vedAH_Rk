@@ -2,12 +2,12 @@
 title = "Rig Veda 5.81.2"
 
 +++
--   *viśvā* \< *viśva*
+-   *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rūpāṇi* \< *rūpa*
+- *rūpāṇi* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
@@ -18,7 +18,7 @@ title = "Rig Veda 5.81.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *muñcate* \< *muc*
+- *muñcate* ← *muc*
 - \[verb\], singular, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -26,25 +26,25 @@ title = "Rig Veda 5.81.2"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *prāsāvīd* \< *prāsāvīt* \< *prasū* \< *√sū*
+- *prāsāvīd* ← *prāsāvīt* ← *prasū* ← *√sū*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *bhadraṃ* \< *bhadram* \< *bhadra*
+- *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *dvipade* \< *dvipad*
+- *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------
@@ -52,31 +52,31 @@ title = "Rig Veda 5.81.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, neuter
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *akhyat* \< *khyā*
+- *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *vareṇyo* \< *vareṇyaḥ* \< *vareṇya*
+- *vareṇyo* ← *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------
-- *'nu* \< *anu*
+- *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prayāṇam* \< *prayāṇa*
+- *prayāṇam* ← *prayāṇa*
 - \[noun\], accusative, singular, neuter
 - “departure; death.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 5.81.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

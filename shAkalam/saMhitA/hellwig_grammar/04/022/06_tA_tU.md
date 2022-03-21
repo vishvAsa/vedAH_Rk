@@ -2,33 +2,33 @@
 title = "Rig Veda 4.22.6"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], nominative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *tuvi*
+- *tuvinṛmṇa* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *nṛmṇa*
+- *tuvinṛmṇa* ← *nṛmṇa*
 - \[noun\], vocative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -37,23 +37,23 @@ title = "Rig Veda 4.22.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *sisrate* \< *sṛ*
+- *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *vṛṣṇa* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇa* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ūdhnaḥ* \< *ūdhas*
+- *ūdhnaḥ* ← *ūdhas*
 - \[noun\], ablative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -61,14 +61,14 @@ title = "Rig Veda 4.22.6"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣamaṇo* \< *vṛṣamaṇaḥ* \< *vṛṣamaṇas*
+- *vṛṣamaṇo* ← *vṛṣamaṇaḥ* ← *vṛṣamaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *bhiyānāḥ* \< *bhī*
+- *bhiyānāḥ* ← *bhī*
 - \[verb noun\], nominative, plural
 - “fear; fear.”
 ------------------------------------------------------------------------
@@ -76,15 +76,15 @@ title = "Rig Veda 4.22.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *javasā* \< *javas*
+- *javasā* ← *javas*
 - \[noun\], instrumental, singular, neuter
 - “speed.”
 ------------------------------------------------------------------------
-- *cakramanta* \< *kram*
+- *cakramanta* ← *kram*
 - \[verb\], plural, Plusquamperfect
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------

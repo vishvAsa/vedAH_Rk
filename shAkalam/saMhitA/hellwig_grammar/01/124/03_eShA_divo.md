@@ -2,34 +2,34 @@
 title = "Rig Veda 1.124.3"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *adarśi* \< *dṛś*
+- *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *vasānā* \< *vas*
+- *vasānā* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
@@ -40,19 +40,19 @@ title = "Rig Veda 1.124.3"
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 1.124.3"
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *prajānatīva* \< *prajānatī* \< *prajñā* \< *√jñā*
+- *prajānatīva* ← *prajānatī* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
 ------------------------------------------------------------------------
-- *prajānatīva* \< *iva*
+- *prajānatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -73,12 +73,12 @@ title = "Rig Veda 1.124.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *diśo* \< *diśaḥ* \< *diś*
+- *diśo* ← *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------

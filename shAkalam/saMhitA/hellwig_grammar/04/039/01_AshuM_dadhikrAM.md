@@ -2,15 +2,15 @@
 title = "Rig Veda 4.39.1"
 
 +++
--   *āśuṃ* \< *āśum* \< *āśu*
+-   *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *dadhikrāṃ* \< *dadhikrām* \< *dadhikrā*
+- *dadhikrāṃ* ← *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -24,15 +24,15 @@ title = "Rig Veda 4.39.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ṣṭavāma* \< *stavāma* \< *stu*
+- *ṣṭavāma* ← *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -40,23 +40,23 @@ title = "Rig Veda 4.39.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *carkirāma* \< *carkar* \< *√kṛ*
+- *carkirāma* ← *carkar* ← *√kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *ucchantīr* \< *ucchantīḥ* \< *vas*
+- *ucchantīr* ← *ucchantīḥ* ← *vas*
 - \[verb noun\], nominative, plural
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūdayantv* \< *sūdayantu* \< *sūday* \< *√sūd*
+- *sūdayantv* ← *sūdayantu* ← *sūday* ← *√sūd*
 - \[verb\], plural, Present imperative
 - “kill; promote.”
 ------------------------------------------------------------------------
@@ -64,16 +64,16 @@ title = "Rig Veda 4.39.1"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *duritāni* \< *durita*
+- *duritāni* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *parṣan* \< *pṛ*
+- *parṣan* ← *pṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------

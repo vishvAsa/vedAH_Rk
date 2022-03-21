@@ -2,34 +2,34 @@
 title = "Rig Veda 5.31.8"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *yadave* \< *yadu*
+- *yadave* ← *yadu*
 - \[noun\], dative, singular, masculine
 - “Yadu; Yadu.”
 ------------------------------------------------------------------------
-- *turvaśāyāramayaḥ* \< *turvaśāya* \< *turvaśa*
+- *turvaśāyāramayaḥ* ← *turvaśāya* ← *turvaśa*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *turvaśāyāramayaḥ* \< *aramayaḥ* \< *ramay* \< *√ram*
+- *turvaśāyāramayaḥ* ← *aramayaḥ* ← *ramay* ← *√ram*
 - \[verb\], singular, Imperfect
 - “love; please; gladden; dam.”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *su*
+- *sudughāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughāḥ* \< *dughāḥ* \< *dugha*
+- *sudughāḥ* ← *dughāḥ* ← *dugha*
 - \[noun\], accusative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *pāra* \< *pāraḥ* \< *pāra*
+- *pāra* ← *pāraḥ* ← *pāra*
 - \[noun\], nominative, singular, masculine
 - “pāra \[word\].”
 ------------------------------------------------------------------------
@@ -38,17 +38,17 @@ title = "Rig Veda 5.31.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ayātam* \< *yā*
+- *ayātam* ← *yā*
 - \[verb\], dual, Root aorist (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *avaho* \< *avahaḥ* \< *vah*
+- *avaho* ← *avahaḥ* ← *vah*
 - \[verb\], singular, Imperfect
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -57,11 +57,11 @@ title = "Rig Veda 5.31.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *kutsaṃ* \< *kutsam* \< *kutsa*
+- *kutsaṃ* ← *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -69,22 +69,22 @@ title = "Rig Veda 5.31.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *uśanāranta* \< *uśanā*
+- *uśanāranta* ← *uśanā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *uśanāranta* \< *ranta* \< *ram*
+- *uśanāranta* ← *ranta* ← *ram*
 - \[verb\], singular, Root aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

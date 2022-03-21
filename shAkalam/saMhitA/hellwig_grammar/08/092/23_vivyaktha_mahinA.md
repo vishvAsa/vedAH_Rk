@@ -2,10 +2,10 @@
 title = "Rig Veda 8.92.23"
 
 +++
--   *vivyaktha* \< *vyac*
+-   *vivyaktha* ← *vyac*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
@@ -13,19 +13,19 @@ title = "Rig Veda 8.92.23"
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *bhakṣaṃ* \< *bhakṣam* \< *bhakṣa*
+- *bhakṣaṃ* ← *bhakṣam* ← *bhakṣa*
 - \[noun\], accusative, singular, masculine
 - “food; eating; drink; beverage.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jāgṛve* \< *jāgṛvi*
+- *jāgṛve* ← *jāgṛvi*
 - \[noun\], vocative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.92.23"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jaṭhareṣu* \< *jaṭhara*
+- *jaṭhareṣu* ← *jaṭhara*
 - \[noun\], locative, plural, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

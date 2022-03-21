@@ -6,43 +6,43 @@ title = "Rig Veda 8.8.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *priyamedhā* \< *priyamedhāḥ* \< *priyamedha*
+- *priyamedhā* ← *priyamedhāḥ* ← *priyamedha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ahūṣata* \< *hvā*
+- *ahūṣata* ← *hvā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *rājantāv* \< *rājantau* \< *rāj*
+- *rājantāv* ← *rājantau* ← *rāj*
 - \[verb noun\], accusative, dual
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *adhvarāṇām* \< *adhvara*
+- *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yāmahūtiṣu* \< *yāma*
+- *yāmahūtiṣu* ← *yāma*
 - \[noun\], masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *yāmahūtiṣu* \< *hūtiṣu* \< *hūti*
+- *yāmahūtiṣu* ← *hūtiṣu* ← *hūti*
 - \[noun\], locative, plural, feminine
 - “invocation.”
 ------------------------------------------------------------------------

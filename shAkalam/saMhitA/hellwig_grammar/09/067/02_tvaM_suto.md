@@ -2,39 +2,39 @@
 title = "Rig Veda 9.67.2"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *nṛmādano* \< *nṛ*
+- *nṛmādano* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛmādano* \< *mādanaḥ* \< *mādana*
+- *nṛmādano* ← *mādanaḥ* ← *mādana*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
-- *dadhanvān* \< *dhanv*
+- *dadhanvān* ← *dhanv*
 - \[verb noun\], nominative, singular
 - “run.”
 ------------------------------------------------------------------------
-- *matsarintamaḥ* \< *matsarintama*
+- *matsarintamaḥ* ← *matsarintama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sūrir* \< *sūriḥ* \< *sūri*
+- *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *andhasā* \< *andhas*
+- *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------

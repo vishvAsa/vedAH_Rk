@@ -2,60 +2,60 @@
 title = "Rig Veda 2.41.18"
 
 +++
--   *imā* \< *idam*
+-   *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *sarasvati* \< *sarasvatī*
+- *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *vājinīvati* \< *vājinīvat*
+- *vājinīvati* ← *vājinīvat*
 - \[noun\], vocative, singular, feminine
 - “rich; rich in horses.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *gṛtsamadā* \< *gṛtsamadāḥ* \< *gṛtsamada*
+- *gṛtsamadā* ← *gṛtsamadāḥ* ← *gṛtsamada*
 - \[noun\], nominative, plural, masculine
 - “Gṛtsamada.”
 ------------------------------------------------------------------------
-- *ṛtāvari* \< *ṛtāvan*
+- *ṛtāvari* ← *ṛtāvan*
 - \[noun\], vocative, singular, feminine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], accusative, plural, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *juhvati* \< *hu*
+- *juhvati* ← *hu*
 - \[verb\], plural, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------

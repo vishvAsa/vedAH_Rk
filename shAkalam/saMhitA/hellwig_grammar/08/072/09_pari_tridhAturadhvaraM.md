@@ -6,40 +6,40 @@ title = "Rig Veda 8.72.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tridhātur* \< *tri*
+- *tridhātur* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tridhātur* \< *dhātuḥ* \< *dhātu*
+- *tridhātur* ← *dhātuḥ* ← *dhātu*
 - \[noun\], nominative, singular, feminine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *jūrṇir* \< *jūrṇiḥ* \< *jūrṇi*
+- *jūrṇir* ← *jūrṇiḥ* ← *jūrṇi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *navīyasī* \< *navīyas*
+- *navīyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *hotāro* \< *hotāraḥ* \< *hotṛ*
+- *hotāro* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *añjate* \< *añj*
+- *añjate* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------

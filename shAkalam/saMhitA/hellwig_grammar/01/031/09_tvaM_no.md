@@ -2,26 +2,26 @@
 title = "Rig Veda 1.31.9"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pitror* \< *pitroḥ* \< *pitṛ*
+- *pitror* ← *pitroḥ* ← *pitṛ*
 - \[noun\], genitive, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *upastha* \< *upasthe* \< *upastha*
+- *upastha* ← *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
@@ -29,12 +29,12 @@ title = "Rig Veda 1.31.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -43,27 +43,27 @@ title = "Rig Veda 1.31.9"
 - \[noun\], vocative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *tanūkṛd* \< *tanū*
+- *tanūkṛd* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūkṛd* \< *kṛt*
+- *tanūkṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *bodhi* \< *bhū*
+- *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *pramatiś* \< *pramatiḥ* \< *pramati*
+- *pramatiś* ← *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 1.31.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kārave* \< *kāru*
+- *kārave* ← *kāru*
 - \[noun\], dative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -87,12 +87,12 @@ title = "Rig Veda 1.31.9"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *opiṣe* \< *āvap* \< *√vap*
+- *opiṣe* ← *āvap* ← *√vap*
 - \[verb\], singular, Perfect indicative
 - “mix; submerge; mix; sow.”
 ------------------------------------------------------------------------

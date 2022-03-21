@@ -2,19 +2,19 @@
 title = "Rig Veda 5.29.6"
 
 +++
--   *nava* \< *navan*
+-   *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 5.29.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhogān* \< *bhoga*
+- *bhogān* ← *bhoga*
 - \[noun\], accusative, plural, masculine
 - “coil; snake.”
 ------------------------------------------------------------------------

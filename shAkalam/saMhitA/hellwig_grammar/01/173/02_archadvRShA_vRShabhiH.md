@@ -2,75 +2,75 @@
 title = "Rig Veda 1.173.2"
 
 +++
--   *arcad* \< *arcat* \< *arc*
+-   *arcad* ← *arcat* ← *arc*
 - \[verb\], singular, Present injunctive
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣabhiḥ* \< *vṛṣan*
+- *vṛṣabhiḥ* ← *vṛṣan*
 - \[noun\], instrumental, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *sveduhavyair* \< *sveduhavyaiḥ* \< *sveduhavya*
+- *sveduhavyair* ← *sveduhavyaiḥ* ← *sveduhavya*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *nāśno* \< *nā* \< *na*
+- *nāśno* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāśno* \< *aśnaḥ* \< *aśna*
+- *nāśno* ← *aśnaḥ* ← *aśna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *yaj* \< *yat*
+- *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *juguryāt* \< *gur*
+- *juguryāt* ← *gur*
 - \[verb\], singular, Perfect optative
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mandayur* \< *mandayuḥ* \< *mandayu*
+- *mandayur* ← *mandayuḥ* ← *mandayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *manāṃ* \< *manām* \< *manā*
+- *manāṃ* ← *manām* ← *manā*
 - \[noun\], accusative, singular, feminine
 - “jewelry.”
 ------------------------------------------------------------------------
-- *gūrta* \< *gur*
+- *gūrta* ← *gur*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *bharate* \< *bhṛ*
+- *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *maryo* \< *maryaḥ* \< *marya*
+- *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], accusative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *yajatraḥ* \< *yajatra*
+- *yajatraḥ* ← *yajatra*
 - \[noun\], nominative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------

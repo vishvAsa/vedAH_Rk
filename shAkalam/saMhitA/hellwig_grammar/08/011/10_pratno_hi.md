@@ -2,7 +2,7 @@
 title = "Rig Veda 8.11.10"
 
 +++
--   *pratno* \< *pratnaḥ* \< *pratna*
+-   *pratno* ← *pratnaḥ* ← *pratna*
 - \[noun\], nominative, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
@@ -10,30 +10,30 @@ title = "Rig Veda 8.11.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *īḍyo* \< *īḍyaḥ* \< *īḍ*
+- *īḍyo* ← *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *adhvareṣu* \< *adhvara*
+- *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *sanāc* \< *sanāt*
+- *sanāc* ← *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *navyaś* \< *navyaḥ* \< *navyas*
+- *navyaś* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
@@ -41,35 +41,35 @@ title = "Rig Veda 8.11.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *satsi* \< *sad*
+- *satsi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *svāṃ* \< *svām* \< *sva*
+- *svāṃ* ← *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *cāgne* \< *ca*
+- *cāgne* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāgne* \< *agne* \< *agni*
+- *cāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *piprayasvāsmabhyaṃ* \< *piprayasva* \< *prī*
+- *piprayasvāsmabhyaṃ* ← *piprayasva* ← *prī*
 - \[verb\], singular, Perfect imperative
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *piprayasvāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- *piprayasvāsmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 8.11.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *saubhagam* \< *saubhaga*
+- *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 8.11.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

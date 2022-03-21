@@ -2,11 +2,11 @@
 title = "Rig Veda 6.26.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -14,64 +14,64 @@ title = "Rig Veda 6.26.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bharo* \< *bharaḥ* \< *bhṛ*
+- *bharo* ← *bharaḥ* ← *bhṛ*
 - \[verb\], singular, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yodham* \< *yodha*
+- *yodham* ← *yodha*
 - \[noun\], accusative, singular, masculine
 - “soldier.”
 ------------------------------------------------------------------------
-- *ṛṣvam* \< *ṛṣva*
+- *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *āvo* \< *āvaḥ* \< *av*
+- *āvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yudhyantaṃ* \< *yudhyantam* \< *yudh*
+- *yudhyantaṃ* ← *yudhyantam* ← *yudh*
 - \[verb noun\], accusative, singular
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *daśadyum* \< *daśadyu*
+- *daśadyum* ← *daśadyu*
 - \[noun\], accusative, singular, masculine
 - “Daśadyu.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tugraṃ* \< *tugram* \< *tugra*
+- *tugraṃ* ← *tugram* ← *tugra*
 - \[noun\], accusative, singular, masculine
 - “Tugra; tugra \[word\].”
 ------------------------------------------------------------------------
-- *vetasave* \< *vetasu*
+- *vetasave* ← *vetasu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sacāhan* \< *sacā*
+- *sacāhan* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāhan* \< *ahan* \< *han*
+- *sacāhan* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tujiṃ* \< *tujim* \< *tuji*
+- *tujiṃ* ← *tujim* ← *tuji*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gṛṇantam* \< *gṛ*
+- *gṛṇantam* ← *gṛ*
 - \[verb noun\], accusative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 6.26.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tūtoḥ* \< *tu*
+- *tūtoḥ* ← *tu*
 - \[verb\], singular, Plusquamperfect
 - “strengthen.”
 ------------------------------------------------------------------------

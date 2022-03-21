@@ -2,7 +2,7 @@
 title = "Rig Veda 8.3.5"
 
 +++
--   *indram* \< *indra*
+-   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,51 +11,51 @@ title = "Rig Veda 8.3.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *devatātaya* \< *devatātaye* \< *devatāti*
+- *devatātaya* ← *devatātaye* ← *devatāti*
 - \[noun\], dative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prayaty* \< *prayati* \< *pre* \< *√i*
+- *prayaty* ← *prayati* ← *pre* ← *√i*
 - \[verb noun\], locative, singular
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *samīke* \< *samīka*
+- *samīke* ← *samīka*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], nominative, plural, masculine
 - “triumphant; victorious.”
 ------------------------------------------------------------------------
-- *havāmaha* \< *havāmahe* \< *hvā*
+- *havāmaha* ← *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhanasya* \< *dhana*
+- *dhanasya* ← *dhana*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

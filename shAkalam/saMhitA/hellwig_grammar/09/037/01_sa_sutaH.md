@@ -6,39 +6,39 @@ title = "Rig Veda 9.37.1"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pā*
+- *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *vighnan* \< *vihan* \< *√han*
+- *vighnan* ← *vihan* ← *√han*
 - \[verb noun\], nominative, singular
 - “obstruct; cancel out; restrict.”
 ------------------------------------------------------------------------
-- *rakṣāṃsi* \< *rakṣas*
+- *rakṣāṃsi* ← *rakṣas*
 - \[noun\], accusative, plural, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *devayuḥ* \< *devayu*
+- *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------

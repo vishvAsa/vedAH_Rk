@@ -6,14 +6,14 @@ title = "Rig Veda 9.65.26"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śukrāso* \< *śukrāsaḥ* \< *śukra*
+- *śukrāso* ← *śukrāsaḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *vayojuvo* \< *vayojuvaḥ* \< *vayoju*
+- *vayojuvo* ← *vayojuvaḥ* ← *vayoju*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *hinvānāso* \< *hinvānāsaḥ* \< *hi*
+- *hinvānāso* ← *hinvānāsaḥ* ← *hi*
 - \[verb noun\], nominative, plural
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -21,19 +21,19 @@ title = "Rig Veda 9.65.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saptayaḥ* \< *sapti*
+- *saptayaḥ* ← *sapti*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *śrīṇānā* \< *śrīṇānāḥ* \< *śrī*
+- *śrīṇānā* ← *śrīṇānāḥ* ← *śrī*
 - \[verb noun\], nominative, plural
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mṛñjata* \< *mṛj*
+- *mṛñjata* ← *mṛj*
 - \[verb\], plural, Present injunctive
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------

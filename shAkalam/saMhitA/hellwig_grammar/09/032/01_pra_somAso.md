@@ -6,7 +6,7 @@ title = "Rig Veda 9.32.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* \< *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

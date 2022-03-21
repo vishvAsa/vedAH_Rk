@@ -2,38 +2,38 @@
 title = "Rig Veda 6.8.7"
 
 +++
--   *adabdhebhis* \< *adabdhebhiḥ* \< *adabdha*
+-   *adabdhebhis* ← *adabdhebhiḥ* ← *adabdha*
 - \[noun\], instrumental, plural, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gopābhir* \< *gopābhiḥ* \< *gopā*
+- *gopābhir* ← *gopābhiḥ* ← *gopā*
 - \[noun\], instrumental, plural, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *iṣṭe* \< *yaj*
+- *iṣṭe* ← *yaj*
 - \[verb noun\], locative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *'smākam* \< *asmākam* \< *mad*
+- *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
 - *triṣadhastha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣ*
+- *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -41,22 +41,22 @@ title = "Rig Veda 6.8.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *daduṣāṃ* \< *daduṣām* \< *dā*
+- *daduṣāṃ* ← *daduṣām* ← *dā*
 - \[verb noun\], genitive, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -74,11 +74,11 @@ title = "Rig Veda 6.8.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tārī* \< *tṛ*
+- *tārī* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *stavānaḥ* \< *stu*
+- *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------

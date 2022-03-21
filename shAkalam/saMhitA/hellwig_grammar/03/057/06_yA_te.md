@@ -2,26 +2,26 @@
 title = "Rig Veda 3.57.6"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *parvatasyeva* \< *parvatasya* \< *parvata*
+- *parvatasyeva* ← *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *parvatasyeva* \< *iva*
+- *parvatasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 3.57.6"
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *saścantī* \< *sac*
+- *saścantī* ← *sac*
 - \[verb noun\], nominative, singular
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *pīpayad* \< *pīpayat* \< *pyā*
+- *pīpayad* ← *pīpayat* ← *pyā*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
@@ -42,43 +42,43 @@ title = "Rig Veda 3.57.6"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *citrā* \< *citra*
+- *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *tām* \< *tad*
+- *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pramatiṃ* \< *pramatim* \< *pramati*
+- *pramatiṃ* ← *pramatim* ← *pramati*
 - \[noun\], accusative, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *rāsva* \< *rā*
+- *rāsva* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *viśvajanyām* \< *viśvajanya*
+- *viśvajanyām* ← *viśvajanya*
 - \[noun\], accusative, singular, feminine
 - “omnipresent; worldwide.”
 ------------------------------------------------------------------------

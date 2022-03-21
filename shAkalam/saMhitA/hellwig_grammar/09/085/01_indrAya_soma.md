@@ -2,7 +2,7 @@
 title = "Rig Veda 9.85.1"
 
 +++
--   *indrāya* \< *indra*
+-   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,34 +11,34 @@ title = "Rig Veda 9.85.1"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *suṣutaḥ* \< *suṣuta*
+- *suṣutaḥ* ← *suṣuta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sravāpāmīvā* \< *srava* \< *sru*
+- *sravāpāmīvā* ← *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *sravāpāmīvā* \< *apa*
+- *sravāpāmīvā* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sravāpāmīvā* \< *amīvā*
+- *sravāpāmīvā* ← *amīvā*
 - \[noun\], nominative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *bhavatu* \< *bhū*
+- *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *rakṣasā* \< *rakṣas*
+- *rakṣasā* ← *rakṣas*
 - \[noun\], instrumental, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -50,11 +50,11 @@ title = "Rig Veda 9.85.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rasasya* \< *rasa*
+- *rasasya* ← *rasa*
 - \[noun\], genitive, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -62,27 +62,27 @@ title = "Rig Veda 9.85.1"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *matsata* \< *mad*
+- *matsata* ← *mad*
 - \[verb\], plural, Aorist inj. (proh.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *dvayāvino* \< *dvayāvinaḥ* \< *dvayāvin*
+- *dvayāvino* ← *dvayāvinaḥ* ← *dvayāvin*
 - \[noun\], nominative, plural, masculine
 - “dishonest.”
 ------------------------------------------------------------------------
-- *draviṇasvanta* \< *draviṇasvantaḥ* \< *draviṇasvat*
+- *draviṇasvanta* ← *draviṇasvantaḥ* ← *draviṇasvat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *santv* \< *santu* \< *as*
+- *santv* ← *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

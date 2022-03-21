@@ -2,7 +2,7 @@
 title = "Rig Veda 10.74.1"
 
 +++
--   *vasūnāṃ* \< *vasūnām* \< *vasu*
+-   *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 10.74.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *carkṛṣa* \< *carkṛṣe* \< *carkar* \< *√kṛ*
+- *carkṛṣa* ← *carkṛṣe* ← *carkar* ← *√kṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *iyakṣan* \< *iyakṣ* \< *√yaj*
+- *iyakṣan* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, singular
 - “endeavor.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -27,7 +27,7 @@ title = "Rig Veda 10.74.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yajñair* \< *yajñaiḥ* \< *yajña*
+- *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 10.74.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *arvanto* \< *arvantaḥ* \< *arvant*
+- *arvanto* ← *arvantaḥ* ← *arvant*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -47,37 +47,37 @@ title = "Rig Veda 10.74.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rayimantaḥ* \< *rayimat*
+- *rayimantaḥ* ← *rayimat*
 - \[noun\], nominative, plural, masculine
 - “rich; affluent.”
 ------------------------------------------------------------------------
-- *sātau* \< *sāti*
+- *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *vanuṃ* \< *vanum* \< *vanu*
+- *vanuṃ* ← *vanum* ← *vanu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suśruṇaṃ* \< *suśruṇam* \< *suśruṇa*
+- *suśruṇaṃ* ← *suśruṇam* ← *suśruṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *suśruto* \< *su*
+- *suśruto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśruto* \< *śrutaḥ* \< *śrut*
+- *suśruto* ← *śrutaḥ* \< *śrut*
 - \[noun\], nominative, plural, masculine
 - “listening.”
 ------------------------------------------------------------------------

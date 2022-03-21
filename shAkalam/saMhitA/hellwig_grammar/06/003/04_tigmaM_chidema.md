@@ -2,34 +2,34 @@
 title = "Rig Veda 6.3.4"
 
 +++
--   *tigmaṃ* \< *tigmam* \< *tigma*
+-   *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ema* \< *eman*
+- *ema* ← *eman*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *mahi*
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *varpo* \< *varpaḥ* \< *varpas*
+- *varpo* ← *varpaḥ* ← *varpas*
 - \[noun\], nominative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhasad* \< *bhasat* \< *bhas*
+- *bhasad* ← *bhasat* ← *bhas*
 - \[verb\], singular, Present injunctive
 - “chew; snatch.”
 ------------------------------------------------------------------------
-- *aśvo* \< *aśvaḥ* \< *aśva*
+- *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -37,17 +37,17 @@ title = "Rig Veda 6.3.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yamasāna* \< *yamasānaḥ* \< *yamasāna*
+- *yamasāna* ← *yamasānaḥ* ← *yamasāna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āsā* \< *ās*
+- *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *vijehamānaḥ* \< *vijeh* \< *√jeh*
+- *vijehamānaḥ* ← *vijeh* ← *√jeh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *paraśur* \< *paraśuḥ* \< *paraśu*
+- *paraśur* ← *paraśuḥ* ← *paraśu*
 - \[noun\], nominative, singular, masculine
 - “ax.”
 ------------------------------------------------------------------------
@@ -55,18 +55,18 @@ title = "Rig Veda 6.3.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jihvāṃ* \< *jihvām* \< *jihvā*
+- *jihvāṃ* ← *jihvām* ← *jihvā*
 - \[noun\], accusative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *dravir* \< *draviḥ* \< *dravi*
+- *dravir* ← *draviḥ* ← *dravi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *drāvayati* \< *drāvay* \< *√dru*
+- *drāvayati* ← *drāvay* ← *√dru*
 - \[verb\], singular, Present indikative
 - “melt; liquefy; chase away; dissolve.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 6.3.4"
 - \[noun\], accusative, singular, neuter
 - “wood; log; lumber.”
 ------------------------------------------------------------------------
-- *dhakṣat* \< *dah*
+- *dhakṣat* ← *dah*
 - \[verb noun\], nominative, singular
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

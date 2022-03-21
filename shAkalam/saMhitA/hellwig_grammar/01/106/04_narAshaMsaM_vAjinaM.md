@@ -2,15 +2,15 @@
 title = "Rig Veda 1.106.4"
 
 +++
--   *narāśaṃsaṃ* \< *narāśaṃsam* \< *narāśaṃsa*
+-   *narāśaṃsaṃ* ← *narāśaṃsam* ← *narāśaṃsa*
 - \[noun\], accusative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------
-- *vājinaṃ* \< *vājinam* \< *vājin*
+- *vājinaṃ* ← *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *vājayann* \< *vājayan* \< *vājay* \< *√vaj*
+- *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
 ------------------------------------------------------------------------
@@ -18,27 +18,27 @@ title = "Rig Veda 1.106.4"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *kṣayadvīram* \< *kṣayat* \< *kṣi*
+- *kṣayadvīram* ← *kṣayat* ← *kṣi*
 - \[verb noun\]
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
-- *kṣayadvīram* \< *vīram* \< *vīra*
+- *kṣayadvīram* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *sumnair* \< *sumnaiḥ* \< *sumna*
+- *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -46,36 +46,36 @@ title = "Rig Veda 1.106.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *durgād* \< *durgāt* \< *durga*
+- *durgād* ← *durgāt* ← *durga*
 - \[noun\], ablative, singular, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
 ------------------------------------------------------------------------
-- *vasavaḥ* \< *vasu*
+- *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *viśvasmān* \< *viśvasmāt* \< *viśva*
+- *viśvasmān* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *niṣ* \< *niḥ*
+- *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *pipartana* \< *pṛ*
+- *pipartana* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------

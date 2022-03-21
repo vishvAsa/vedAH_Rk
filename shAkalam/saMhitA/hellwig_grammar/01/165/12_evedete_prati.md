@@ -2,16 +2,16 @@
 title = "Rig Veda 1.165.12"
 
 +++
--   *eved* \< *eva*
+-   *eved* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *eved* \< *id*
+- *eved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -19,58 +19,58 @@ title = "Rig Veda 1.165.12"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rocamānā* \< *rocamānāḥ* \< *ruc*
+- *rocamānā* ← *rocamānāḥ* ← *ruc*
 - \[verb noun\], nominative, plural
 - “please; shine.”
 ------------------------------------------------------------------------
-- *anedyaḥ* \< *anedya*
+- *anedyaḥ* ← *anedya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śrava* \< *śravaḥ* \< *śravas*
+- *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *eṣo* \< *ā*
+- *eṣo* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eṣo* \< *iṣaḥ* \< *iṣ*
+- *eṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *dadhānāḥ* \< *dhā*
+- *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *saṃcakṣyā* \< *saṃcakṣya* \< *saṃcakṣ* \< *√cakṣ*
+- *saṃcakṣyā* ← *saṃcakṣya* ← *saṃcakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *marutaś* \< *marutaḥ* \< *marut*
+- *marutaś* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *candravarṇā* \< *candra*
+- *candravarṇā* ← *candra*
 - \[noun\]
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *candravarṇā* \< *varṇāḥ* \< *varṇa*
+- *candravarṇā* ← *varṇāḥ* ← *varṇa*
 - \[noun\], nominative, plural, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *acchānta* \< *chand*
+- *acchānta* ← *chand*
 - \[verb\], plural, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *chadayāthā* \< *chadayātha* \< *chaday* \< *√chand*
+- *chadayāthā* ← *chadayātha* ← *chaday* ← *√chand*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “look.”
 ------------------------------------------------------------------------

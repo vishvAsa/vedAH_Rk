@@ -2,19 +2,19 @@
 title = "Rig Veda 7.22.7"
 
 +++
--   *tubhyed* \< *tubhya* \< *tvad*
+-   *tubhyed* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tubhyed* \< *id*
+- *tubhyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
@@ -23,25 +23,25 @@ title = "Rig Veda 7.22.7"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vardhanā* \< *vardhana*
+- *vardhanā* ← *vardhana*
 - \[noun\], accusative, plural, neuter
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *kṛṇomi* \< *kṛ*
+- *kṛṇomi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -52,22 +52,22 @@ title = "Rig Veda 7.22.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hvā*
+- *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *viśvadhāsi* \< *viśvadha*
+- *viśvadhāsi* ← *viśvadha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśvadhāsi* \< *asi* \< *as*
+- *viśvadhāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

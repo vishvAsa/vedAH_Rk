@@ -2,25 +2,25 @@
 title = "Rig Veda 5.30.12"
 
 +++
--   *bhadram* \< *bhadra*
+-   *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ruśamā* \< *ruśamāḥ* \< *ruśama*
+- *ruśamā* ← *ruśamāḥ* ← *ruśama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *akran* \< *kṛ*
+- *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -31,42 +31,42 @@ title = "Rig Veda 5.30.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *catvāri* \< *catur*
+- *catvāri* ← *catur*
 - \[noun\], accusative, plural, neuter
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *dadataḥ* \< *dā*
+- *dadataḥ* ← *dā*
 - \[verb noun\], nominative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *ṛṇañcayasya* \< *ṛṇaṃcaya*
+- *ṛṇañcayasya* ← *ṛṇaṃcaya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *prayatā* \< *prayam* \< *√yam*
+- *prayatā* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “give; emit; send; transmit.”
 ------------------------------------------------------------------------
-- *maghāni* \< *magha*
+- *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *agrabhīṣma* \< *grah*
+- *agrabhīṣma* ← *grah*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -74,10 +74,10 @@ title = "Rig Veda 5.30.12"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *nṛtamasya* \< *nṛtama*
+- *nṛtamasya* ← *nṛtama*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *nṛṇām* \< *nṛ*
+- *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

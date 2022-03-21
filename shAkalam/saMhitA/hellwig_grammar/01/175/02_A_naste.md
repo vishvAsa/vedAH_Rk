@@ -6,41 +6,41 @@ title = "Rig Veda 1.175.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gantu* \< *gam*
+- *gantu* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *matsaro* \< *matsaraḥ* \< *matsara*
+- *matsaro* ← *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *mado* \< *madaḥ* \< *mada*
+- *mado* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *vareṇyaḥ* \< *vareṇya*
+- *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------
-- *sahāvāṃ* \< *sahāvat*
+- *sahāvāṃ* ← *sahāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -48,14 +48,14 @@ title = "Rig Veda 1.175.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sānasiḥ* \< *sānasi*
+- *sānasiḥ* ← *sānasi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *pṛtanāṣāﾱ* \< *pṛtanāṣāh*
+- *pṛtanāṣāﾱ* ← *pṛtanāṣāh*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *amartyaḥ* \< *amartya*
+- *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------

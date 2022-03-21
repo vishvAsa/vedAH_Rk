@@ -2,41 +2,41 @@
 title = "Rig Veda 10.91.8"
 
 +++
--   *medhākāraṃ* \< *medhā*
+-   *medhākāraṃ* ← *medhā*
 - \[noun\], feminine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *medhākāraṃ* \< *kāram* \< *kāra*
+- *medhākāraṃ* ← *kāram* ← *kāra*
 - \[noun\], accusative, singular, masculine
 - “making; causing; producing.”
 ------------------------------------------------------------------------
-- *vidathasya* \< *vidatha*
+- *vidathasya* ← *vidatha*
 - \[noun\], genitive, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *prasādhanam* \< *prasādhana*
+- *prasādhanam* ← *prasādhana*
 - \[noun\], accusative, singular, masculine
 - “accomplishing; curative.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *paribhūtamam* \< *paribhūtama*
+- *paribhūtamam* ← *paribhūtama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *matim* \< *mati*
+- *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -46,11 +46,11 @@ title = "Rig Veda 10.91.8"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *arbhe* \< *arbha*
+- *arbhe* ← *arbha*
 - \[noun\], locative, singular, neuter
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *haviṣy* \< *haviṣi* \< *havis*
+- *haviṣy* ← *haviṣi* ← *havis*
 - \[noun\], locative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
@@ -58,43 +58,43 @@ title = "Rig Veda 10.91.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *samānam* \< *samāna*
+- *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mahe* \< *maha*
+- *mahe* ← *maha*
 - \[noun\], locative, singular, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *vṛṇate* \< *vṛ*
+- *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *nānyaṃ* \< *na*
+- *nānyaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānyaṃ* \< *anyam* \< *anya*
+- *nānyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *tvat* \< *tvad*
+- *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------

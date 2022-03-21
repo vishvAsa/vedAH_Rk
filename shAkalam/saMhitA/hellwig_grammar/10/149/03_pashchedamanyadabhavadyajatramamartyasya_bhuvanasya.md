@@ -2,43 +2,43 @@
 title = "Rig Veda 10.149.3"
 
 +++
--   *paścedam* \< *paścā*
+-   *paścedam* ← *paścā*
 - \[adverb\]
 - “west; behind; paścā \[word\]; on all fours; subsequently.”
 ------------------------------------------------------------------------
-- *paścedam* \< *idam*
+- *paścedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yajatram* \< *yajatra*
+- *yajatram* ← *yajatra*
 - \[noun\], nominative, singular, neuter
 - “adorable.”
 ------------------------------------------------------------------------
-- *amartyasya* \< *amartya*
+- *amartyasya* ← *amartya*
 - \[noun\], genitive, singular, neuter
 - “immortal.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhūnā* \< *bhūman*
+- *bhūnā* ← *bhūman*
 - \[noun\], instrumental, singular
 - “abundance; wealth; success; Krishna; plural.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 10.149.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *savitur* \< *savituḥ* \< *savitṛ*
+- *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *garutmān* \< *garutmant*
+- *garutmān* ← *garutmant*
 - \[noun\], nominative, singular, masculine
 - “Garuda; bird.”
 ------------------------------------------------------------------------

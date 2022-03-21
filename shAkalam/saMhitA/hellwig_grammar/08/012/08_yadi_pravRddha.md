@@ -6,39 +6,39 @@ title = "Rig Veda 8.12.8"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *pravṛddha* \< *pravṛdh* \< *√vṛdh*
+- *pravṛddha* ← *pravṛdh* ← *√vṛdh*
 - \[verb noun\], vocative, singular
 - “increase; develop; advance.”
 ------------------------------------------------------------------------
-- *satpate* \< *satpati*
+- *satpate* ← *satpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *sahasram* \< *sahasra*
+- *sahasram* ← *sahasra*
 - \[noun\], accusative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *mahiṣāṃ* \< *mahiṣa*
+- *mahiṣāṃ* ← *mahiṣa*
 - \[noun\], accusative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *aghaḥ* \< *ghas*
+- *aghaḥ* ← *ghas*
 - \[verb\], singular, Root aorist (Ind.)
 - “eat.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indriyam* \< *indriya*
+- *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
@@ -51,7 +51,7 @@ title = "Rig Veda 8.12.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

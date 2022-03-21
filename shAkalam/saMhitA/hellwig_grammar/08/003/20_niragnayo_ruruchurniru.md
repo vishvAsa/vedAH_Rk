@@ -2,21 +2,21 @@
 title = "Rig Veda 8.3.20"
 
 +++
--   *nir* \< *niḥ*
+-   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *agnayo* \< *agnayaḥ* \< *agni*
+- *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rurucur* \< *rurucuḥ* \< *ruc*
+- *rurucur* ← *rurucuḥ* ← *ruc*
 - \[verb\], plural, Perfect indicative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 8.3.20"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -33,15 +33,15 @@ title = "Rig Veda 8.3.20"
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *indriyo* \< *indriyaḥ* \< *indriya*
+- *indriyo* ← *indriyaḥ* ← *indriya*
 - \[noun\], nominative, singular, masculine
 - “aindra.”
 ------------------------------------------------------------------------
-- *rasaḥ* \< *rasa*
+- *rasaḥ* ← *rasa*
 - \[noun\], nominative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -49,29 +49,29 @@ title = "Rig Veda 8.3.20"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *antarikṣād* \< *antarikṣāt* \< *antarikṣa*
+- *antarikṣād* ← *antarikṣāt* ← *antarikṣa*
 - \[noun\], ablative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *adhamo* \< *adhamaḥ* \< *dham*
+- *adhamo* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *mahām* \< *mahat*
+- *mahām* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *ahiṃ* \< *ahim* \< *ahi*
+- *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *kṛṣe* \< *kṛ*
+- *kṛṣe* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -82,7 +82,7 @@ title = "Rig Veda 8.3.20"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -93,7 +93,7 @@ title = "Rig Veda 8.3.20"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------

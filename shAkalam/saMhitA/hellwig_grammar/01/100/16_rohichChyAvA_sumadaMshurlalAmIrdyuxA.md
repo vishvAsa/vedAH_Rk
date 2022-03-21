@@ -2,66 +2,66 @@
 title = "Rig Veda 1.100.16"
 
 +++
--   *rohicchyāvā* \< *rohit*
+-   *rohicchyāvā* ← *rohit*
 - \[noun\]
 - “red; red.”
 ------------------------------------------------------------------------
-- *rohicchyāvā* \< *śyāvā* \< *śyāva*
+- *rohicchyāvā* ← *śyāvā* ← *śyāva*
 - \[noun\], nominative, singular, feminine
 - “brown; dark; śyāva \[word\].”
 ------------------------------------------------------------------------
-- *sumadaṃśur* \< *sumat*
+- *sumadaṃśur* ← *sumat*
 - \[adverb\]
 - “together.”
 ------------------------------------------------------------------------
-- *sumadaṃśur* \< *aṃśuḥ* \< *aṃśu*
+- *sumadaṃśur* ← *aṃśuḥ* ← *aṃśu*
 - \[noun\], nominative, singular, feminine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *lalāmīr* \< *lalāmīḥ* \< *lalāma*
+- *lalāmīr* ← *lalāmīḥ* ← *lalāma*
 - \[noun\], nominative, singular, feminine
 - “beautiful.”
 ------------------------------------------------------------------------
-- *dyukṣā* \< *dyukṣa*
+- *dyukṣā* ← *dyukṣa*
 - \[noun\], nominative, singular, feminine
 - “celestial; divine; divine; brilliant.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāye* \< *rai*
+- *rāya* ← *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *ṛjrāśvasya* \< *ṛjrāśva*
+- *ṛjrāśvasya* ← *ṛjrāśva*
 - \[noun\], genitive, singular, masculine
 - “Ṛjrāśva.”
 ------------------------------------------------------------------------
-- *vṛṣaṇvantam* \< *vṛṣaṇvat*
+- *vṛṣaṇvantam* ← *vṛṣaṇvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bibhratī* \< *bhṛ*
+- *bibhratī* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *dhūrṣu* \< *dhur*
+- *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *mandrā* \< *mandra*
+- *mandrā* ← *mandra*
 - \[noun\], nominative, singular, feminine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *nāhuṣīṣu* \< *nāhuṣa*
+- *nāhuṣīṣu* ← *nāhuṣa*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

@@ -6,22 +6,22 @@ title = "Rig Veda 5.32.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mahate* \< *mahat*
+- *mahate* ← *mahat*
 - \[noun\], dative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *dānavāya* \< *dānava*
+- *dānavāya* ← *dānava*
 - \[noun\], dative, singular, masculine
 - “Dānava.”
 ------------------------------------------------------------------------
@@ -29,51 +29,51 @@ title = "Rig Veda 5.32.7"
 - \[noun\], accusative, singular, neuter
 - “weapon.”
 ------------------------------------------------------------------------
-- *yamiṣṭa* \< *yam*
+- *yamiṣṭa* ← *yam*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *apratītam* \< *apratīta*
+- *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vajrasya* \< *vajra*
+- *vajrasya* ← *vajra*
 - \[noun\], genitive, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *prabhṛtau* \< *prabhṛti*
+- *prabhṛtau* ← *prabhṛti*
 - \[noun\], locative, singular, feminine
 - “etc.; beginning; prabhṛti \[word\]; beginning.”
 ------------------------------------------------------------------------
-- *dadābha* \< *dabh*
+- *dadābha* ← *dabh*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *jantor* \< *jantoḥ* \< *jantu*
+- *jantor* ← *jantoḥ* ← *jantu*
 - \[noun\], genitive, singular, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *adhamaṃ* \< *adhamam* \< *adhama*
+- *adhamaṃ* ← *adhamam* ← *adhama*
 - \[noun\], accusative, singular, masculine
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

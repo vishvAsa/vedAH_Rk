@@ -10,52 +10,52 @@ title = "Rig Veda 1.170.1"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *śvaḥ* \< *śvas*
+- *śvaḥ* ← *śvas*
 - \[adverb\]
 - “tomorrow.”
 ------------------------------------------------------------------------
-- *kas* \< *kaḥ* \< *ka*
+- *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *adbhutam* \< *adbhuta*
+- *adbhutam* ← *adbhuta*
 - \[noun\], nominative, singular, neuter
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
-- *anyasya* \< *anya*
+- *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *cittam* \< *citta*
+- *cittam* ← *citta*
 - \[noun\], nominative, singular, neuter
 - “mind; attention; idea; thinking; fondness; purpose.”
 ------------------------------------------------------------------------
@@ -63,15 +63,15 @@ title = "Rig Veda 1.170.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *saṃcareṇyam* \< *saṃcar* \< *√car*
+- *saṃcareṇyam* ← *saṃcar* ← *√car*
 - \[verb noun\], nominative, singular
 - “wander; approach; meet.”
 ------------------------------------------------------------------------
-- *utādhītaṃ* \< *uta*
+- *utādhītaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utādhītaṃ* \< *adhītam* \< *adhī* \< *√i*
+- *utādhītaṃ* ← *adhītam* ← *adhī* ← *√i*
 - \[verb noun\], nominative, singular
 - “learn; learn; recite; read; understand.”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 1.170.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *naśyati* \< *naś*
+- *naśyati* ← *naś*
 - \[verb\], singular, Present indikative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------

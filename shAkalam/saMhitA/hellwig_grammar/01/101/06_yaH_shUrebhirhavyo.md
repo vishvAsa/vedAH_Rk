@@ -2,19 +2,19 @@
 title = "Rig Veda 1.101.6"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śūrebhir* \< *śūrebhiḥ* \< *śūra*
+- *śūrebhir* ← *śūrebhiḥ* ← *śūra*
 - \[noun\], instrumental, plural, masculine
 - “brave; powerful.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hvā*
+- *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 1.101.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhīrubhir* \< *bhīrubhiḥ* \< *bhīru*
+- *bhīrubhir* ← *bhīrubhiḥ* ← *bhīru*
 - \[noun\], instrumental, plural, masculine
 - “timid; afraid(p); bhīru \[word\]; cowardly; fearful.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhāvadbhir* \< *dhāvadbhiḥ* \< *dhāv*
+- *dhāvadbhir* ← *dhāvadbhiḥ* ← *dhāv*
 - \[verb noun\], instrumental, plural
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *hūyate* \< *hvā*
+- *hūyate* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -46,46 +46,46 @@ title = "Rig Veda 1.101.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *jigyubhiḥ* \< *jigyu*
+- *jigyubhiḥ* ← *jigyu*
 - \[noun\], instrumental, plural, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *bhuvanā* \< *bhuvana*
+- *bhuvanābhi* ← *bhuvanā* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *abhi*
+- *bhuvanābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *saṃdadhur* \< *saṃdadhuḥ* \< *saṃdhā* \< *√dhā*
+- *saṃdadhur* ← *saṃdadhuḥ* ← *saṃdhā* ← *√dhā*
 - \[verb\], plural, Perfect indicative
 - “connect; refer; aim; grow together; compress; ally; unite; operate
     on.”
 ------------------------------------------------------------------------
-- *marutvantaṃ* \< *marutvantam* \< *marutvant*
+- *marutvantaṃ* ← *marutvantam* ← *marutvant*
 - \[noun\], accusative, singular, masculine
 - “Indra; marutvant \[word\].”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

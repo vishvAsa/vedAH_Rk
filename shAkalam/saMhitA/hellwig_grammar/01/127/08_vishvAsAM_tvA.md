@@ -2,72 +2,72 @@
 title = "Rig Veda 1.127.8"
 
 +++
--   *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+-   *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sarvāsāṃ* \< *sarvāsām* \< *sarva*
+- *sarvāsāṃ* ← *sarvāsām* ← *sarva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *samānaṃ* \< *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *dampatim* \< *dampati*
+- *dampatim* ← *dampati*
 - \[noun\], accusative, singular, masculine
 - “couple.”
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *satyagirvāhasam* \< *satya*
+- *satyagirvāhasam* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyagirvāhasam* \< *gir*
+- *satyagirvāhasam* ← *gir*
 - \[noun\], feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *satyagirvāhasam* \< *vāhasam* \< *vāhas*
+- *satyagirvāhasam* ← *vāhasam* ← *vāhas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *atithim* \< *atithi*
+- *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *mānuṣāṇām* \< *mānuṣa*
+- *mānuṣāṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitṛ*
+- *pitur* ← *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -76,15 +76,15 @@ title = "Rig Veda 1.127.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasyāsayā* \< *yasya* \< *yad*
+- *yasyāsayā* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāsayā* \< *āsayā*
+- *yasyāsayā* ← *āsayā*
 - \[adverb\]
 - “orally.”
 ------------------------------------------------------------------------
-- *amī* \< *adas*
+- *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
@@ -92,12 +92,12 @@ title = "Rig Veda 1.127.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *amṛtāsa* \< *amṛtāsaḥ* \< *amṛta*
+- *amṛtāsa* ← *amṛtāsaḥ* ← *amṛta*
 - \[noun\], nominative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
@@ -105,16 +105,16 @@ title = "Rig Veda 1.127.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], nominative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -123,7 +123,7 @@ title = "Rig Veda 1.127.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vayaḥ* \< *vayas*
+- *vayaḥ* ← *vayas*
 - \[noun\], nominative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”

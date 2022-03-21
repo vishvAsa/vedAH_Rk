@@ -2,11 +2,11 @@
 title = "Rig Veda 1.22.12"
 
 +++
--   *ihendrāṇīm* \< *iha*
+-   *ihendrāṇīm* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihendrāṇīm* \< *indrāṇīm* \< *indrāṇī*
+- *ihendrāṇīm* ← *indrāṇīm* ← *indrāṇī*
 - \[noun\], accusative, singular, feminine
 - “Śacī; nirguṇḍī.”
 ------------------------------------------------------------------------
@@ -14,26 +14,26 @@ title = "Rig Veda 1.22.12"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *hvaye* \< *hvā*
+- *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *varuṇānīṃ* \< *varuṇānīm* \< *varuṇānī*
+- *varuṇānīṃ* ← *varuṇānīm* ← *varuṇānī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *agnāyīṃ* \< *agnāyīm* \< *agnāyī*
+- *agnāyīṃ* ← *agnāyīm* ← *agnāyī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 3.53.22"
 
 +++
--   *paraśuṃ* \< *paraśum* \< *paraśu*
+-   *paraśuṃ* ← *paraśum* ← *paraśu*
 - \[noun\], accusative, singular, masculine
 - “ax.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 3.53.22"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tapati* \< *tap*
+- *tapati* ← *tap*
 - \[verb\], singular, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *śimbalaṃ* \< *śimbalam* \< *śimbala*
+- *śimbalaṃ* ← *śimbalam* ← *śimbala*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 3.53.22"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛścati* \< *vraśc*
+- *vṛścati* ← *vraśc*
 - \[verb\], singular, Present indikative
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 3.53.22"
 - \[noun\], nominative, singular, feminine
 - “kettle; ukhā \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -46,18 +46,18 @@ title = "Rig Veda 3.53.22"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yeṣantī* \< *yeṣ*
+- *yeṣantī* ← *yeṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *prayastā* \< *prayasta*
+- *prayastā* ← *prayasta*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *phenam* \< *phena*
+- *phenam* ← *phena*
 - \[noun\], accusative, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
 ------------------------------------------------------------------------
-- *asyati* \< *as*
+- *asyati* ← *as*
 - \[verb\], singular, Present indikative
 - “shoot; remove.”
 ------------------------------------------------------------------------

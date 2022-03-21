@@ -6,29 +6,29 @@ title = "Rig Veda 10.102.3"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *yaccha* \< *yam*
+- *yaccha* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *jighāṃsato* \< *jighāṃsataḥ* \< *jighāṃs* \< *√han*
+- *jighāṃsato* ← *jighāṃsataḥ* ← *jighāṃs* ← *√han*
 - \[verb noun\], genitive, singular
 - “kill.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, neuter
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *indrābhidāsataḥ* \< *indrā* \< *indra*
+- *indrābhidāsataḥ* ← *indrā* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrābhidāsataḥ* \< *abhidāsataḥ* \< *abhidās* \< *√dās*
+- *indrābhidāsataḥ* ← *abhidāsataḥ* ← *abhidās* ← *√dās*
 - \[verb noun\], genitive, singular
 - “threaten; endanger.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 10.102.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], locative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *āryasya* \< *ārya*
+- *āryasya* ← *ārya*
 - \[noun\], genitive, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 10.102.3"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yavayā* \< *yavaya* \< *yavay* \< *√yu*
+- *yavayā* ← *yavaya* ← *yavay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away; ward off.”
 ------------------------------------------------------------------------
-- *vadham* \< *vadha*
+- *vadham* ← *vadha*
 - \[noun\], accusative, singular, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”

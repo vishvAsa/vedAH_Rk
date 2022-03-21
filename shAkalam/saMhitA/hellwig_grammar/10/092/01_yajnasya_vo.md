@@ -2,73 +2,73 @@
 title = "Rig Veda 10.92.1"
 
 +++
--   *yajñasya* \< *yajña*
+-   *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rathyaṃ* \< *rathyam* \< *rathya*
+- *rathyaṃ* ← *rathyam* ← *rathya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśpatiṃ* \< *viśpatim* \< *viśpati*
+- *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *viśāṃ* \< *viśām* \< *viś*
+- *viśāṃ* ← *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *aktor* \< *aktoḥ* \< *aktu*
+- *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *atithiṃ* \< *atithim* \< *atithi*
+- *atithiṃ* ← *atithim* ← *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *vibhāvasum* \< *vibhāvasu*
+- *vibhāvasum* ← *vibhāvasu*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sun; Surya.”
 ------------------------------------------------------------------------
-- *śocañchuṣkāsu* \< *śocan* \< *śuc*
+- *śocañchuṣkāsu* ← *śocan* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *śocañchuṣkāsu* \< *śuṣkāsu* \< *śuṣka*
+- *śocañchuṣkāsu* ← *śuṣkāsu* ← *śuṣka*
 - \[noun\], locative, plural, feminine
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
 ------------------------------------------------------------------------
-- *hariṇīṣu* \< *hariṇī*
+- *hariṇīṣu* ← *hariṇī*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *jarbhurad* \< *jarbhurat* \< *jarbhur* \< *√bhur*
+- *jarbhurad* ← *jarbhurat* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ketur* \< *ketuḥ* \< *ketu*
+- *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *aśāyata* \< *śī*
+- *aśāyata* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
 ------------------------------------------------------------------------

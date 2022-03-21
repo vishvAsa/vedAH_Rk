@@ -6,62 +6,62 @@ title = "Rig Veda 10.74.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indrāyavaḥ* \< *indra*
+- *indrāyavaḥ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyavaḥ* \< *āyavaḥ* \< *āyu*
+- *indrāyavaḥ* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *panantābhi* \< *pananta* \< *pan*
+- *panantābhi* ← *pananta* ← *pan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *panantābhi* \< *abhi*
+- *panantābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ūrvaṃ* \< *ūrvam* \< *ūrva*
+- *ūrvaṃ* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “great.”
 ------------------------------------------------------------------------
-- *gomantaṃ* \< *gomantam* \< *gomanta*
+- *gomantaṃ* ← *gomantam* ← *gomanta*
 - \[noun\], accusative, singular, masculine
 - “herd.”
 ------------------------------------------------------------------------
-- *titṛtsān* \< *titṛd* \< *√tṛd*
+- *titṛtsān* ← *titṛd* ← *√tṛd*
 - \[verb\], plural, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *sakṛtsvaṃ* \< *sakṛtsvam* \< *sakṛtsū*
+- *sakṛtsvaṃ* ← *sakṛtsvam* ← *sakṛtsū*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *puruputrām* \< *puru*
+- *puruputrām* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruputrām* \< *putrām* \< *putra*
+- *puruputrām* ← *putrām* ← *putra*
 - \[noun\], accusative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *mahīṃ* \< *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* \< *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------

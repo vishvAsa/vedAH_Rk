@@ -2,29 +2,29 @@
 title = "Rig Veda 7.41.4"
 
 +++
--   *utedānīm* \< *uta*
+-   *utedānīm* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utedānīm* \< *idānīm*
+- *utedānīm* ← *idānīm*
 - \[adverb\]
 - “now.”
 ------------------------------------------------------------------------
-- *bhagavantaḥ* \< *bhagavat*
+- *bhagavantaḥ* ← *bhagavat*
 - \[noun\], nominative, plural, masculine
 - “honorable; divine; fortunate; holy; adorable; happy; august;
     favored.”
 ------------------------------------------------------------------------
-- *syāmota* \< *syāma* \< *as*
+- *syāmota* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *syāmota* \< *uta*
+- *syāmota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *prapitva* \< *prapitve* \< *prapitva*
+- *prapitva* ← *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
@@ -32,21 +32,21 @@ title = "Rig Veda 7.41.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *madhye* \< *madhya*
+- *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *utoditā* \< *uta*
+- *utoditā* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utoditā* \< *uditā* \< *uditi*
+- *utoditā* ← *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
 - “rise.”
 ------------------------------------------------------------------------
@@ -54,25 +54,25 @@ title = "Rig Veda 7.41.4"
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sumatau* \< *sumati*
+- *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

@@ -2,26 +2,26 @@
 title = "Rig Veda 8.92.2"
 
 +++
--   *puruhūtam* \< *puruhūta*
+-   *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *puruṣṭutaṃ* \< *puruṣṭutam* \< *puruṣṭuta*
+- *puruṣṭutaṃ* ← *puruṣṭutam* ← *puruṣṭuta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *gāthānyaṃ* \< *gāthānyam* \< *gāthānī*
+- *gāthānyaṃ* ← *gāthānyam* ← *gāthānī*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sanaśrutam* \< *sana*
+- *sanaśrutam* ← *sana*
 - \[noun\]
 - “age-old; ancient.”
 ------------------------------------------------------------------------
-- *sanaśrutam* \< *śrutam* \< *śru*
+- *sanaśrutam* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -30,7 +30,7 @@ title = "Rig Veda 8.92.2"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *bravītana* \< *brū*
+- *bravītana* ← *brū*
 - \[verb\], plural, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

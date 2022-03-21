@@ -6,38 +6,38 @@ title = "Rig Veda 10.101.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tū* \< *tu*
+- *tū* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *ṣiñca* \< *siñca* \< *sic*
+- *ṣiñca* ← *siñca* ← *sic*
 - \[verb\], singular, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *harim* \< *hari*
+- *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dror* \< *droḥ* \< *dru*
+- *dror* ← *droḥ* ← *dru*
 - \[noun\], genitive, singular, masculine
 - “wood; tree; dru \[word\].”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------
-- *vāśībhis* \< *vāśībhiḥ* \< *vāśī*
+- *vāśībhis* ← *vāśībhiḥ* ← *vāśī*
 - \[noun\], instrumental, plural, feminine
 - “ax; chisel.”
 ------------------------------------------------------------------------
-- *takṣatāśmanmayībhiḥ* \< *takṣata* \< *takṣ*
+- *takṣatāśmanmayībhiḥ* ← *takṣata* ← *takṣ*
 - \[verb\], plural, Present imperative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *takṣatāśmanmayībhiḥ* \< *aśmanmayībhiḥ* \< *aśmanmaya*
+- *takṣatāśmanmayībhiḥ* ← *aśmanmayībhiḥ* ← *aśmanmaya*
 - \[noun\], instrumental, plural, feminine
 - “stone.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 10.101.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣvajadhvaṃ* \< *svajadhvam* \< *svaj*
+- *ṣvajadhvaṃ* ← *svajadhvam* ← *svaj*
 - \[verb\], plural, Present imperative
 - “embrace.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *kakṣyābhir* \< *kakṣyābhiḥ* \< *kakṣyā*
+- *kakṣyābhir* ← *kakṣyābhiḥ* ← *kakṣyā*
 - \[noun\], instrumental, plural, feminine
 - “girdle; rampart; wall; enclosure; cinch.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *dhurau* \< *dhur*
+- *dhurau* ← *dhur*
 - \[noun\], accusative, dual, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
@@ -69,13 +69,13 @@ title = "Rig Veda 10.101.10"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vahniṃ* \< *vahnim* \< *vahni*
+- *vahniṃ* ← *vahnim* ← *vahni*
 - \[noun\], accusative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *yunakta* \< *yuj*
+- *yunakta* ← *yuj*
 - \[verb\], plural, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;

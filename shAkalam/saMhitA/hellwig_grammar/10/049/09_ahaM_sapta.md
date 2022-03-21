@@ -2,37 +2,37 @@
 title = "Rig Veda 10.49.9"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sravato* \< *sravataḥ* \< *sravat*
+- *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], accusative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *dhārayaṃ* \< *dhārayam* \< *dhāray* \< *√dhṛ*
+- *dhārayaṃ* ← *dhārayam* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present injunctive
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *dravitnvaḥ* \< *dravitnu*
+- *dravitnvaḥ* ← *dravitnu*
 - \[noun\], accusative, plural, feminine
 - “fast.”
 ------------------------------------------------------------------------
-- *pṛthivyāṃ* \< *pṛthivyām* \< *pṛthivī*
+- *pṛthivyāṃ* ← *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *sīrā* \< *sīrāḥ* \< *sīrā*
+- *sīrā* ← *sīrāḥ* ← *sīrā*
 - \[noun\], accusative, plural, feminine
 - “stream.”
 ------------------------------------------------------------------------
@@ -40,11 +40,11 @@ title = "Rig Veda 10.49.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arṇāṃsi* \< *arṇas*
+- *arṇāṃsi* ← *arṇas*
 - \[noun\], accusative, plural, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
@@ -52,37 +52,37 @@ title = "Rig Veda 10.49.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tirāmi* \< *tṛ*
+- *tirāmi* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *sukratur* \< *su*
+- *sukratur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratur* \< *kratuḥ* \< *kratu*
+- *sukratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *yudhā* \< *yudh*
+- *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *vidam* \< *vid*
+- *vidam* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *manave* \< *manu*
+- *manave* ← *manu*
 - \[noun\], dative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *gātum* \< *gātu*
+- *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------

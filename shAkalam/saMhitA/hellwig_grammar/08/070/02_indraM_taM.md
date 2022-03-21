@@ -2,29 +2,29 @@
 title = "Rig Veda 8.70.2"
 
 +++
--   *indraṃ* \< *indram* \< *indra*
+-   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śumbha* \< *śubh*
+- *śumbha* ← *śubh*
 - \[verb\], singular, Present imperative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *puruhanmann* \< *puruhanman*
+- *puruhanmann* ← *puruhanman*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *avase* \< *avas*
+- *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 8.70.2"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *vidhartari* \< *vidhartṛ*
+- *vidhartari* ← *vidhartṛ*
 - \[noun\], locative, singular, masculine
 - “organizer.”
 ------------------------------------------------------------------------
-- *hastāya* \< *hasta*
+- *hastāya* ← *hasta*
 - \[noun\], dative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *vajraḥ* \< *vajra*
+- *vajraḥ* ← *vajra*
 - \[noun\], nominative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -49,20 +49,20 @@ title = "Rig Veda 8.70.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *darśato* \< *darśataḥ* \< *darśata*
+- *darśato* ← *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *maha*
+- *maho* ← *mahaḥ* ← *maha*
 - \[noun\], nominative, singular, masculine
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 8.70.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

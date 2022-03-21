@@ -2,83 +2,83 @@
 title = "Rig Veda 1.113.7"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *adarśi* \< *dṛś*
+- *adarśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *vyucchantī* \< *vivas* \< *√vas*
+- *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
 ------------------------------------------------------------------------
-- *yuvatiḥ* \< *yuvati*
+- *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *śukravāsāḥ* \< *śukra*
+- *śukravāsāḥ* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śukravāsāḥ* \< *vāsāḥ* \< *vāsas*
+- *śukravāsāḥ* ← *vāsāḥ* ← *vāsas*
 - \[noun\], nominative, singular, feminine
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------
-- *viśvasyeśānā* \< *viśvasya* \< *viśva*
+- *viśvasyeśānā* ← *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvasyeśānā* \< *īśānā* \< *īś*
+- *viśvasyeśānā* ← *īśānā* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *pārthivasya* \< *pārthiva*
+- *pārthivasya* ← *pārthiva*
 - \[noun\], genitive, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *vasva* \< *vasvaḥ* \< *vasu*
+- *vasva* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *adyeha* \< *adyā* \< *adya*
+- *adyeha* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyeha* \< *iha*
+- *adyeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], vocative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *uccha* \< *vas*
+- *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------

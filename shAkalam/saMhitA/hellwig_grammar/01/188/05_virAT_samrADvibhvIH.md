@@ -2,22 +2,22 @@
 title = "Rig Veda 1.188.5"
 
 +++
--   *virāṭ* \< *virāj*
+-   *virāṭ* ← *virāj*
 - \[noun\], nominative, singular, feminine
 - “Virāj; eminence.”
 ------------------------------------------------------------------------
-- *samrāḍ* \< *samrāj*
+- *samrāḍ* ← *samrāj*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vibhvīḥ* \< *vibhu*
+- *vibhvīḥ* ← *vibhu*
 - \[noun\], nominative, plural, feminine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *prabhvīr* \< *prabhvīḥ* \< *prabhu*
+- *prabhvīr* ← *prabhvīḥ* ← *prabhu*
 - \[noun\], nominative, plural, feminine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
-- *bahvīś* \< *bahvīḥ* \< *bahu*
+- *bahvīś* ← *bahvīḥ* ← *bahu*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
@@ -26,7 +26,7 @@ title = "Rig Veda 1.188.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhūyasīś* \< *bhūyasīḥ* \< *bhūyas*
+- *bhūyasīś* ← *bhūyasīḥ* ← *bhūyas*
 - \[noun\], nominative, plural, feminine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
@@ -34,19 +34,19 @@ title = "Rig Veda 1.188.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *ghṛtāny* \< *ghṛtāni* \< *ghṛta*
+- *ghṛtāny* ← *ghṛtāni* ← *ghṛta*
 - \[noun\], accusative, plural, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------

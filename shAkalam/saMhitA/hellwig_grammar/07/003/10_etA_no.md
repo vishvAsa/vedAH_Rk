@@ -2,25 +2,25 @@
 title = "Rig Veda 7.3.10"
 
 +++
--   *etā* \< *etad*
+-   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *saubhagā* \< *saubhaga*
+- *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *didīhy* \< *didīhi* \< *dīdī*
+- *didīhy* ← *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 7.3.10"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* \< *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

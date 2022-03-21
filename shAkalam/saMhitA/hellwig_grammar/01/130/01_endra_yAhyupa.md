@@ -2,16 +2,16 @@
 title = "Rig Veda 1.130.1"
 
 +++
--   *endra* \< *ā*
+-   *endra* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endra* \< *indra*
+- *endra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -20,76 +20,76 @@ title = "Rig Veda 1.130.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *parāvato* \< *parāvataḥ* \< *parāvat*
+- *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *nāyam* \< *nāya*
+- *nāyam* ← *nāya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *vidathānīva* \< *vidathāni* \< *vidatha*
+- *vidathānīva* ← *vidathāni* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *vidathānīva* \< *iva*
+- *vidathānīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *satpatir* \< *sat*
+- *satpatir* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatir* \< *patiḥ* \< *pati*
+- *satpatir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *astaṃ* \< *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *rājeva* \< *rājā* \< *rājan*
+- *rājeva* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājeva* \< *iva*
+- *rājeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *satpatiḥ* \< *sat*
+- *satpatiḥ* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatiḥ* \< *patiḥ* \< *pati*
+- *satpatiḥ* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prayasvantaḥ* \< *prayasvat*
+- *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -97,7 +97,7 @@ title = "Rig Veda 1.130.1"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *putrāso* \< *putrāsaḥ* \< *putra*
+- *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -105,20 +105,20 @@ title = "Rig Veda 1.130.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭhaṃ* \< *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭhaṃ* ← *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------

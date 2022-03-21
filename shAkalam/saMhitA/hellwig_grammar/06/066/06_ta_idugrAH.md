@@ -2,7 +2,7 @@
 title = "Rig Veda 6.66.6"
 
 +++
--   *ta* \< *te* \< *tad*
+-   *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,23 +12,23 @@ title = "Rig Veda 6.66.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ugrāḥ* \< *ugra*
+- *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *dhṛṣṇuṣeṇā* \< *dhṛṣṇuṣeṇāḥ* \< *dhṛṣṇuṣeṇa*
+- *dhṛṣṇuṣeṇā* ← *dhṛṣṇuṣeṇāḥ* ← *dhṛṣṇuṣeṇa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *yujanta* \< *yuj*
+- *yujanta* ← *yuj*
 - \[verb\], plural, Aorist inj. (proh.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -36,11 +36,11 @@ title = "Rig Veda 6.66.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *sumeke* \< *sumeka*
+- *sumeke* ← *sumeka*
 - \[noun\], accusative, dual, neuter
 - “fast; fixed.”
 ------------------------------------------------------------------------
@@ -48,10 +48,10 @@ title = "Rig Veda 6.66.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smaiṣu* \< *smā* \< *sma*
+- *smaiṣu* ← *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smaiṣu* \< *eṣu* \< *idam*
+- *smaiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -59,20 +59,20 @@ title = "Rig Veda 6.66.6"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *svaśocir* \< *sva*
+- *svaśocir* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svaśocir* \< *śociḥ* \< *śocis*
+- *svaśocir* ← *śociḥ* ← *śocis*
 - \[noun\], nominative, singular, feminine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *āmavatsu* \< *\_* \< *√\_*
+- *āmavatsu* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -82,6 +82,6 @@ title = "Rig Veda 6.66.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rokaḥ* \< *roka*
+- *rokaḥ* ← *roka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

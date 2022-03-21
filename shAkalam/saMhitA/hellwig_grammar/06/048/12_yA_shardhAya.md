@@ -2,64 +2,64 @@
 title = "Rig Veda 6.48.12"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *mārutāya* \< *māruta*
+- *mārutāya* ← *māruta*
 - \[noun\], dative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *svabhānave* \< *sva*
+- *svabhānave* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svabhānave* \< *bhānave* \< *bhānu*
+- *svabhānave* ← *bhānave* ← *bhānu*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *'mṛtyu* \< *amṛtyu*
+- *'mṛtyu* ← *amṛtyu*
 - \[noun\], accusative, singular, neuter
 - “ageless; immortal.”
 ------------------------------------------------------------------------
-- *dhukṣata* \< *duh*
+- *dhukṣata* ← *duh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “milk.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mṛﾱīke* \< *mṛḍīka*
+- *mṛﾱīke* ← *mṛḍīka*
 - \[noun\], locative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *turāṇāṃ* \< *turāṇām* \< *tura*
+- *turāṇāṃ* ← *turāṇām* ← *tura*
 - \[noun\], genitive, plural, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sumnair* \< *sumnaiḥ* \< *sumna*
+- *sumnair* ← *sumnaiḥ* ← *sumna*
 - \[noun\], instrumental, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *evayāvarī* \< *evayāvan*
+- *evayāvarī* ← *evayāvan*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

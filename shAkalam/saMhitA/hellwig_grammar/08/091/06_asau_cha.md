@@ -2,7 +2,7 @@
 title = "Rig Veda 8.91.6"
 
 +++
--   *asau* \< *adas*
+-   *asau* ← *adas*
 - \[noun\], nominative, singular, feminine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
@@ -10,71 +10,71 @@ title = "Rig Veda 8.91.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *urvarād* \< *urvarā*
+- *urvarād* ← *urvarā*
 - \[noun\], nominative, singular, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *urvarād* \< *āt*
+- *urvarād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *atho* \< *atha*
+- *atho* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *atho* \< *u*
+- *atho* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tatasya* \< *tata*
+- *tatasya* ← *tata*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ.”
 ------------------------------------------------------------------------
-- *yacchiraḥ* \< *yat* \< *yad*
+- *yacchiraḥ* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yacchiraḥ* \< *śiraḥ* \< *śiras*
+- *yacchiraḥ* ← *śiraḥ* ← *śiras*
 - \[noun\], nominative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *sarvā* \< *sarva*
+- *sarvā* ← *sarva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *romaśā* \< *romaśa*
+- *romaśā* ← *romaśa*
 - \[noun\], accusative, plural, neuter
 - “hairy; green.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

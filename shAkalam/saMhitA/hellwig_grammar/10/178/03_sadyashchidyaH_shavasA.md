@@ -2,31 +2,31 @@
 title = "Rig Veda 10.178.3"
 
 +++
--   *sadyaś* \< *sadyas*
+-   *sadyaś* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *sūrya* \< *sūryaḥ* \< *sūrya*
+- *sūrya* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -35,41 +35,41 @@ title = "Rig Veda 10.178.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jyotiṣāpas* \< *jyotiṣā* \< *jyotis*
+- *jyotiṣāpas* ← *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *jyotiṣāpas* \< *apaḥ* \< *ap*
+- *jyotiṣāpas* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *tatāna* \< *tan*
+- *tatāna* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sahasra*
+- *sahasrasāḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sāḥ* \< *sā*
+- *sahasrasāḥ* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, feminine
 - “winning.”
 ------------------------------------------------------------------------
-- *śatasā* \< *śata*
+- *śatasā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatasā* \< *sāḥ* \< *sā*
+- *śatasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, feminine
 - “winning.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *raṃhir* \< *raṃhiḥ* \< *raṃhi*
+- *raṃhir* ← *raṃhiḥ* ← *raṃhi*
 - \[noun\], nominative, singular, feminine
 - “speed.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 10.178.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *varante* \< *vṛ*
+- *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *yuvatiṃ* \< *yuvatim* \< *yuvati*
+- *yuvatiṃ* ← *yuvatim* ← *yuvati*
 - \[noun\], accusative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ title = "Rig Veda 10.178.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaryām* \< *śaryā*
+- *śaryām* ← *śaryā*
 - \[noun\], accusative, singular, feminine
 - “arrow.”
 ------------------------------------------------------------------------

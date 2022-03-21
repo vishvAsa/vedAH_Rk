@@ -2,81 +2,81 @@
 title = "Rig Veda 4.11.3"
 
 +++
--   *tvad* \< *tvat* \< *tvad*
+-   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kāvyā* \< *kāvya*
+- *kāvyā* ← *kāvya*
 - \[noun\], nominative, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *tvan* \< *tvat* \< *tvad*
+- *tvan* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manīṣās* \< *manīṣāḥ* \< *manīṣā*
+- *manīṣās* ← *manīṣāḥ* ← *manīṣā*
 - \[noun\], nominative, plural, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], nominative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *jāyante* \< *jan*
+- *jāyante* ← *jan*
 - \[verb\], plural, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *rādhyāni* \< *rādh*
+- *rādhyāni* ← *rādh*
 - \[verb noun\], nominative, plural
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *vīrapeśā* \< *vīra*
+- *vīrapeśā* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīrapeśā* \< *peśāḥ* \< *peśas*
+- *vīrapeśā* ← *peśāḥ* ← *peśas*
 - \[noun\], nominative, singular, masculine
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *itthādhiye* \< *itthā*
+- *itthādhiye* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthādhiye* \< *dhiye* \< *dhī*
+- *itthādhiye* ← *dhiye* ← *dhī*
 - \[noun\], dative, singular, masculine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

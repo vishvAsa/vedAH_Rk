@@ -2,19 +2,19 @@
 title = "Rig Veda 10.87.16"
 
 +++
--   *yaḥ* \< *yad*
+-   *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pauruṣeyeṇa* \< *pauruṣeya*
+- *pauruṣeyeṇa* ← *pauruṣeya*
 - \[noun\], instrumental, singular, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *kraviṣā* \< *kravis*
+- *kraviṣā* ← *kravis*
 - \[noun\], instrumental, singular, neuter
 - “meat.”
 ------------------------------------------------------------------------
-- *samaṅkte* \< *samañj* \< *√añj*
+- *samaṅkte* ← *samañj* \< *√añj*
 - \[verb\], singular, Present indikative
 - “anoint.”
 ------------------------------------------------------------------------

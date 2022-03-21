@@ -10,12 +10,12 @@ title = "Rig Veda 5.31.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *drava* \< *dru*
+- *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *harivo* \< *harivas* \< *harivat*
+- *harivo* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *mā*
@@ -26,15 +26,15 @@ title = "Rig Veda 5.31.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *venaḥ* \< *ven*
+- *venaḥ* ← *ven*
 - \[verb\], singular, Present injunctive
 - “circulate.”
 ------------------------------------------------------------------------
-- *piśaṅgarāte* \< *piśaṅga*
+- *piśaṅgarāte* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
 ------------------------------------------------------------------------
-- *piśaṅgarāte* \< *rāte* \< *rāti*
+- *piśaṅgarāte* ← *rāte* ← *rāti*
 - \[noun\], vocative, singular, masculine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
@@ -42,18 +42,18 @@ title = "Rig Veda 5.31.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sacasva* \< *sac*
+- *sacasva* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -62,32 +62,32 @@ title = "Rig Veda 5.31.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], nominative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *amenāṃś* \< *amenān* \< *amena*
+- *amenāṃś* ← *amenān* ← *amena*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *cij* \< *cit*
+- *cij* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *janivataś* \< *janivataḥ* \< *janivat*
+- *janivataś* ← *janivataḥ* ← *janivat*
 - \[noun\], accusative, plural, masculine
 - “married.”
 ------------------------------------------------------------------------
-- *cakartha* \< *kṛ*
+- *cakartha* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

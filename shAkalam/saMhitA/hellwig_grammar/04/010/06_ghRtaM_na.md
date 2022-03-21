@@ -2,7 +2,7 @@
 title = "Rig Veda 4.10.6"
 
 +++
--   *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+-   *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 4.10.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūtaṃ* \< *pūtam* \< *pū*
+- *pūtaṃ* ← *pūtam* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *tanūr* \< *tanūḥ* \< *tanū*
+- *tanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *arepāḥ* \< *arepas*
+- *arepāḥ* ← *arepas*
 - \[noun\], nominative, singular, feminine
 - “immaculate.”
 ------------------------------------------------------------------------
@@ -27,21 +27,21 @@ title = "Rig Veda 4.10.6"
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *hiraṇyam* \< *hiraṇya*
+- *hiraṇyam* ← *hiraṇya*
 - \[noun\], nominative, singular, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rukmo* \< *rukmaḥ* \< *rukma*
+- *rukmo* ← *rukmaḥ* ← *rukma*
 - \[noun\], nominative, singular, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -49,11 +49,11 @@ title = "Rig Veda 4.10.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rocata* \< *ruc*
+- *rocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
 ------------------------------------------------------------------------
-- *svadhāvaḥ* \< *svadhāvas* \< *svadhāvat*
+- *svadhāvaḥ* ← *svadhāvas* ← *svadhāvat*
 - \[noun\], vocative, singular, masculine
 - “autonomous; independent.”
 ------------------------------------------------------------------------

@@ -2,29 +2,29 @@
 title = "Rig Veda 1.191.13"
 
 +++
--   *navānāṃ* \< *navānām* \< *navan*
+-   *navānāṃ* ← *navānām* ← *navan*
 - \[noun\], genitive, plural, masculine
 - “nine.”
 ------------------------------------------------------------------------
-- *navatīnāṃ* \< *navatīnām* \< *navati*
+- *navatīnāṃ* ← *navatīnām* ← *navati*
 - \[noun\], genitive, plural, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *viṣasya* \< *viṣa*
+- *viṣasya* ← *viṣa*
 - \[noun\], genitive, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
 ------------------------------------------------------------------------
-- *ropuṣīṇām* \< *ropuṣī*
+- *ropuṣīṇām* ← *ropuṣī*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *sarvāsām* \< *sarva*
+- *sarvāsām* ← *sarva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *agrabhaṃ* \< *agrabham* \< *grah*
+- *agrabhaṃ* ← *agrabham* ← *grah*
 - \[verb\], singular, Root aorist (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -32,39 +32,39 @@ title = "Rig Veda 1.191.13"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *nāmāre* \< *nāma* \< *nāman*
+- *nāmāre* ← *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *nāmāre* \< *āre*
+- *nāmāre* ← *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yojanaṃ* \< *yojanam* \< *yojana*
+- *yojanaṃ* ← *yojanam* ← *yojana*
 - \[noun\], accusative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *hariṣṭhā* \< *hariṣṭhāḥ* \< *hariṣṭhā*
+- *hariṣṭhā* ← *hariṣṭhāḥ* ← *hariṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madhulā* \< *madhula*
+- *madhulā* ← *madhula*
 - \[noun\], accusative, plural, neuter
 - “sweet.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

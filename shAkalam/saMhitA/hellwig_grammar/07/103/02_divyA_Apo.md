@@ -2,12 +2,12 @@
 title = "Rig Veda 7.103.2"
 
 +++
--   *divyā* \< *divyāḥ* \< *divya*
+-   *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], nominative, plural, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -15,19 +15,19 @@ title = "Rig Veda 7.103.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *āyan* \< *i*
+- *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dṛtiṃ* \< *dṛtim* \< *dṛti*
+- *dṛtiṃ* ← *dṛtim* ← *dṛti*
 - \[noun\], accusative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
 ------------------------------------------------------------------------
@@ -35,19 +35,19 @@ title = "Rig Veda 7.103.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śuṣkaṃ* \< *śuṣkam* \< *śuṣka*
+- *śuṣkaṃ* ← *śuṣkam* ← *śuṣka*
 - \[noun\], accusative, singular, masculine
 - “dried; dry; dried-up; śuṣka \[word\]; baseless; arid.”
 ------------------------------------------------------------------------
-- *sarasī* \< *sarasi* \< *saras*
+- *sarasī* ← *sarasi* ← *saras*
 - \[noun\], locative, singular, neuter
 - “lake; saras \[word\]; pond.”
 ------------------------------------------------------------------------
-- *śayānam* \< *śī*
+- *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -60,22 +60,22 @@ title = "Rig Veda 7.103.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *māyur* \< *māyuḥ* \< *māyu*
+- *māyur* ← *māyuḥ* ← *māyu*
 - \[noun\], nominative, singular, masculine
 - “moo; boom.”
 ------------------------------------------------------------------------
-- *vatsinīnām* \< *vatsin*
+- *vatsinīnām* ← *vatsin*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *maṇḍūkānāṃ* \< *maṇḍūkānām* \< *maṇḍūka*
+- *maṇḍūkānāṃ* ← *maṇḍūkānām* ← *maṇḍūka*
 - \[noun\], genitive, plural, masculine
 - “frog; maṇḍūkamūṣā; maṇḍūka \[word\].”
 ------------------------------------------------------------------------
-- *vagnur* \< *vagnuḥ* \< *vagnu*
+- *vagnur* ← *vagnuḥ* ← *vagnu*
 - \[noun\], nominative, singular, masculine
 - “cry.”
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
@@ -84,7 +84,7 @@ title = "Rig Veda 7.103.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

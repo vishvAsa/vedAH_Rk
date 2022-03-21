@@ -2,30 +2,30 @@
 title = "Rig Veda 5.58.5"
 
 +++
--   *arā* \< *arāḥ* \< *ara*
+-   *arā* ← *arāḥ* ← *ara*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ived* \< *iva*
+- *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ived* \< *id*
+- *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *acaramā* \< *a*
+- *acaramā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *acaramā* \< *caramāḥ* \< *carama*
+- *acaramā* ← *caramāḥ* ← *carama*
 - \[noun\], nominative, plural, masculine
 - “last; ultimate.”
 ------------------------------------------------------------------------
-- *aheva* \< *aha*
+- *aheva* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *aheva* \< *iva*
+- *aheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -37,46 +37,46 @@ title = "Rig Veda 5.58.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jāyante* \< *jan*
+- *jāyante* ← *jan*
 - \[verb\], plural, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *akavā* \< *akavāḥ* \< *akava*
+- *akavā* ← *akavāḥ* ← *akava*
 - \[noun\], nominative, plural, masculine
 - “perfect.”
 ------------------------------------------------------------------------
-- *mahobhiḥ* \< *mahas*
+- *mahobhiḥ* ← *mahas*
 - \[noun\], instrumental, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *pṛśneḥ* \< *pṛśni*
+- *pṛśneḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *putrā* \< *putrāḥ* \< *putra*
+- *putrā* ← *putrāḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *upamāso* \< *upamāsaḥ* \< *upama*
+- *upamāso* ← *upamāsaḥ* ← *upama*
 - \[noun\], nominative, plural, masculine
 - “best; topmost.”
 ------------------------------------------------------------------------
-- *rabhiṣṭhāḥ* \< *rabhiṣṭha*
+- *rabhiṣṭhāḥ* ← *rabhiṣṭha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *svayā* \< *sva*
+- *svayā* ← *sva*
 - \[noun\], instrumental, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *matyā* \< *mati*
+- *matyā* ← *mati*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 5.58.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mimikṣuḥ* \< *myakṣ*
+- *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------

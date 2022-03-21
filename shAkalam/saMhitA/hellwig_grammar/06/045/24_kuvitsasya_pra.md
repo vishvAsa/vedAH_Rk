@@ -2,7 +2,7 @@
 title = "Rig Veda 6.45.24"
 
 +++
--   *kuvitsasya* \< *kuvitsa*
+-   *kuvitsasya* ← *kuvitsa*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
@@ -13,31 +13,31 @@ title = "Rig Veda 6.45.24"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *gomantaṃ* \< *gomantam* \< *gomat*
+- *gomantaṃ* ← *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *dasyuhā* \< *dasyu*
+- *dasyuhā* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyuhā* \< *hā* \< *han*
+- *dasyuhā* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *gamat* \< *gam*
+- *gamat* ← *gam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 6.45.24"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *varat* \< *vṛ*
+- *varat* ← *vṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

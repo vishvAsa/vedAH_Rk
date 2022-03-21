@@ -2,24 +2,24 @@
 title = "Rig Veda 8.1.28"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pur*
+- *puraṃ* ← *puram* ← *pur*
 - \[noun\], accusative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *cariṣṇvaṃ* \< *cariṣṇvam* \< *cariṣṇu*
+- *cariṣṇvaṃ* ← *cariṣṇvam* ← *cariṣṇu*
 - \[noun\], accusative, singular, feminine
 - “mobile; moving.”
 ------------------------------------------------------------------------
-- *vadhaiḥ* \< *vadha*
+- *vadhaiḥ* ← *vadha*
 - \[noun\], instrumental, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
@@ -27,15 +27,15 @@ title = "Rig Veda 8.1.28"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *piṇak* \< *piṣ*
+- *piṇak* ← *piṣ*
 - \[verb\], singular, Present injunctive
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhā* \< *bhās*
+- *bhā* ← *bhās*
 - \[noun\], accusative, singular, neuter
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -43,13 +43,13 @@ title = "Rig Veda 8.1.28"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *caro* \< *cara* \< *car*
+- *caro* ← *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *caro* \< *u*
+- *caro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 8.1.28"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -70,11 +70,11 @@ title = "Rig Veda 8.1.28"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hu*
+- *havyo* ← *havyaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *bhuvaḥ* \< *bhū*
+- *bhuvaḥ* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

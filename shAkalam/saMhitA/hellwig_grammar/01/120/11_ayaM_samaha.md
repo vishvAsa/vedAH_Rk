@@ -2,7 +2,7 @@
 title = "Rig Veda 1.120.11"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 1.120.11"
 - \[adverb\]
 - “verily; somewhere; somehow.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tanūhyāte* \< *\_* \< *√\_*
+- *tanūhyāte* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *janāṃ* \< *jana*
+- *janāṃ* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -27,20 +27,20 @@ title = "Rig Veda 1.120.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *somapeyaṃ* \< *soma*
+- *somapeyaṃ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapeyaṃ* \< *peyam* \< *peya*
+- *somapeyaṃ* ← *peyam* ← *peya*
 - \[noun\], accusative, singular, masculine
 - “beverage.”
 ------------------------------------------------------------------------
-- *sukho* \< *sukhaḥ* \< *sukha*
+- *sukho* ← *sukhaḥ* ← *sukha*
 - \[noun\], nominative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”
 ------------------------------------------------------------------------
-- *rathaḥ* \< *ratha*
+- *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

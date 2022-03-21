@@ -2,51 +2,51 @@
 title = "Rig Veda 6.23.4"
 
 +++
--   *ganteyānti* \< *gantā* \< *gam*
+-   *ganteyānti* ← *gantā* ← *gam*
 - \[verb\], singular, periphrast. future
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *ganteyānti* \< *iyānti* \< *iyat*
+- *ganteyānti* ← *iyānti* ← *iyat*
 - \[noun\], accusative, plural, neuter
 - “such(a).”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *haribhyām* \< *hari*
+- *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *babhrir* \< *babhriḥ* \< *babhri*
+- *babhrir* ← *babhriḥ* ← *babhri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *papiḥ* \< *papi*
+- *papiḥ* ← *papi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dadir* \< *dadiḥ* \< *dadi*
+- *dadir* ← *dadiḥ* ← *dadi*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *go*
+- *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *kartā* \< *kṛ*
+- *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -57,40 +57,40 @@ title = "Rig Veda 6.23.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vīraṃ* \< *vīram* \< *vīra*
+- *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *naryaṃ* \< *naryam* \< *narya*
+- *naryaṃ* ← *naryam* ← *narya*
 - \[noun\], accusative, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *sarvavīraṃ* \< *sarva*
+- *sarvavīraṃ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvavīraṃ* \< *vīram* \< *vīra*
+- *sarvavīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *śrotā* \< *śru*
+- *śrotā* ← *śru*
 - \[verb\], singular, periphrast. future
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *gṛṇata* \< *gṛṇataḥ* \< *gṛ*
+- *gṛṇata* ← *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], genitive, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *stomavāhāḥ* \< *stoma*
+- *stomavāhāḥ* ← *stoma*
 - \[noun\], masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *stomavāhāḥ* \< *vāhāḥ* \< *vāhas*
+- *stomavāhāḥ* ← *vāhāḥ* ← *vāhas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

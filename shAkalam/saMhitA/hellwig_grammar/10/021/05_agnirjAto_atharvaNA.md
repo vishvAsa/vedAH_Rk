@@ -2,7 +2,7 @@
 title = "Rig Veda 10.21.5"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* \< *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

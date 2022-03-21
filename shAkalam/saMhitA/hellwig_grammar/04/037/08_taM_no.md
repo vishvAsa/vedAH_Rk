@@ -2,21 +2,21 @@
 title = "Rig Veda 4.37.8"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇa* \< *ṛbhukṣaṇaḥ* \< *ṛbhukṣan*
+- *ṛbhukṣaṇa* ← *ṛbhukṣaṇaḥ* ← *ṛbhukṣan*
 - \[noun\], vocative, plural, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -25,11 +25,11 @@ title = "Rig Veda 4.37.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -37,11 +37,11 @@ title = "Rig Veda 4.37.8"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *carṣaṇibhya* \< *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhya* ← *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], ablative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 4.37.8"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *śasta* \< *śaṃs*
+- *śasta* ← *śaṃs*
 - \[verb\], plural, Aorist imperative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *maghattaye* \< *maghatti*
+- *maghattaye* ← *maghatti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------

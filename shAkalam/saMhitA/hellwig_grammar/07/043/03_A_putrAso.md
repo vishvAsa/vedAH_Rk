@@ -6,7 +6,7 @@ title = "Rig Veda 7.43.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *putrāso* \< *putrāsaḥ* \< *putra*
+- *putrāso* ← *putrāsaḥ* ← *putra*
 - \[noun\], nominative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -14,28 +14,28 @@ title = "Rig Veda 7.43.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātaraṃ* \< *mātaram* \< *mātṛ*
+- *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vibhṛtrāḥ* \< *vibhṛtra*
+- *vibhṛtrāḥ* ← *vibhṛtra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sānau* \< *sānu*
+- *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *barhiṣaḥ* \< *barhis*
+- *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sadantu* \< *sad*
+- *sadantu* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
@@ -44,18 +44,18 @@ title = "Rig Veda 7.43.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśvācī* \< *viśvāñc*
+- *viśvācī* ← *viśvāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vidathyām* \< *vidathya*
+- *vidathyām* ← *vidathya*
 - \[noun\], accusative, singular, feminine
 - “wise.”
 ------------------------------------------------------------------------
-- *anaktv* \< *anaktu* \< *añj*
+- *anaktv* ← *anaktu* ← *añj*
 - \[verb\], singular, Present imperative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -65,18 +65,18 @@ title = "Rig Veda 7.43.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devatātā* \< *devatāti*
+- *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *mṛdhas* \< *mṛdhaḥ* \< *mṛdhas*
+- *mṛdhas* ← *mṛdhaḥ* ← *mṛdhas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

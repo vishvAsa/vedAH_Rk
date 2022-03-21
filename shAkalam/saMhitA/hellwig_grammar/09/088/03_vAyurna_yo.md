@@ -2,7 +2,7 @@
 title = "Rig Veda 9.88.3"
 
 +++
--   *vāyur* \< *vāyuḥ* \< *vāyu*
+-   *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -11,31 +11,31 @@ title = "Rig Veda 9.88.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *niyutvāṃ* \< *niyutvat*
+- *niyutvāṃ* ← *niyutvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *iṣṭayāmā* \< *iṣṭa* \< *iṣ*
+- *iṣṭayāmā* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *iṣṭayāmā* \< *yāmā* \< *yāman*
+- *iṣṭayāmā* ← *yāmā* ← *yāman*
 - \[noun\], nominative, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *nāsatyeva* \< *nāsatyā* \< *nāsatya*
+- *nāsatyeva* ← *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyeva* \< *iva*
+- *nāsatyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *hava* \< *have* \< *hava*
+- *hava* ← *have* ← *hava*
 - \[noun\], locative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -43,23 +43,23 @@ title = "Rig Veda 9.88.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śambhaviṣṭhaḥ* \< *śambhaviṣṭha*
+- *śambhaviṣṭhaḥ* ← *śambhaviṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvavāro* \< *viśva*
+- *viśvavāro* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavāro* \< *vāraḥ* \< *vāra*
+- *viśvavāro* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodā* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodā* \< *dāḥ* \< *dā*
+- *draviṇodā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -71,24 +71,24 @@ title = "Rig Veda 9.88.3"
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *pūṣeva* \< *pūṣā* \< *pūṣan*
+- *pūṣeva* ← *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *pūṣeva* \< *iva*
+- *pūṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhījavano* \< *dhī*
+- *dhījavano* ← *dhī*
 - \[noun\], feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhījavano* \< *javanaḥ* \< *javana*
+- *dhījavano* ← *javanaḥ* ← *javana*
 - \[noun\], nominative, singular, masculine
 - “fleet; stimulating.”
 ------------------------------------------------------------------------
-- *'si* \< *asi* \< *as*
+- *'si* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.88.18"
 
 +++
--   *katy* \< *kati*
+-   *katy* ← *kati*
 - \[adverb\]
 - “how many; kati \[word\].”
 ------------------------------------------------------------------------
-- *agnayaḥ* \< *agni*
+- *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,20 +16,20 @@ title = "Rig Veda 10.88.18"
 - \[adverb\]
 - “how many; kati \[word\].”
 ------------------------------------------------------------------------
-- *sūryāsaḥ* \< *sūrya*
+- *sūryāsaḥ* ← *sūrya*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *katy* \< *kati*
+- *katy* ← *kati*
 - \[adverb\]
 - “how many; kati \[word\].”
 ------------------------------------------------------------------------
-- *uṣāsaḥ* \< *uṣa*
+- *uṣāsaḥ* ← *uṣa*
 - \[noun\], nominative, plural, masculine
 - “dawn.”
 ------------------------------------------------------------------------
-- *katy* \< *kati*
+- *katy* ← *kati*
 - \[adverb\]
 - “how many; kati \[word\].”
 ------------------------------------------------------------------------
@@ -41,50 +41,50 @@ title = "Rig Veda 10.88.18"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *nopaspijaṃ* \< *na*
+- *nopaspijaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nopaspijaṃ* \< *upaspijam* \< *upaspij*
+- *nopaspijaṃ* ← *upaspijam* ← *upaspij*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], vocative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *vadāmi* \< *vad*
+- *vadāmi* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *pṛcchāmi* \< *pracch*
+- *pṛcchāmi* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], vocative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *vidmane* \< *vid*
+- *vidmane* ← *vid*
 - \[verb noun\]
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------

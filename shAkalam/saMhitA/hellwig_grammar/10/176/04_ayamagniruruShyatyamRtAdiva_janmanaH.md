@@ -2,21 +2,21 @@
 title = "Rig Veda 10.176.4"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *uruṣyaty* \< *uruṣyati* \< *uruṣy*
+- *uruṣyaty* ← *uruṣyati* ← *uruṣy*
 - \[verb\], singular, Present indikative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *amṛtād* \< *amṛtāt* \< *amṛta*
+- *amṛtād* ← *amṛtāt* ← *amṛta*
 - \[noun\], ablative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
@@ -24,12 +24,12 @@ title = "Rig Veda 10.176.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *janmanaḥ* \< *janman*
+- *janmanaḥ* ← *janman*
 - \[noun\], ablative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *sahasaś* \< *sahasaḥ* \< *sahas*
+- *sahasaś* ← *sahasaḥ* ← *sahas*
 - \[noun\], ablative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -37,20 +37,20 @@ title = "Rig Veda 10.176.4"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sahīyān* \< *sahīyas*
+- *sahīyān* ← *sahīyas*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *jīvātave* \< *jīvātu*
+- *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
 ------------------------------------------------------------------------
-- *kṛtaḥ* \< *kṛ*
+- *kṛtaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

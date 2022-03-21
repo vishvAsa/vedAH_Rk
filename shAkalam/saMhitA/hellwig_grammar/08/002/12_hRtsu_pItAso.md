@@ -2,19 +2,19 @@
 title = "Rig Veda 8.2.12"
 
 +++
--   *hṛtsu* \< *hṛd*
+-   *hṛtsu* ← *hṛd*
 - \[noun\], locative, plural
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *pītāso* \< *pītāsaḥ* \< *pā*
+- *pītāso* ← *pītāsaḥ* ← *pā*
 - \[verb noun\], nominative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *yudhyante* \< *yudh*
+- *yudhyante* ← *yudh*
 - \[verb\], plural, Present indikative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *durmadāso* \< *durmadāsaḥ* \< *durmada*
+- *durmadāso* ← *durmadāsaḥ* ← *durmada*
 - \[noun\], nominative, plural, masculine
 - “delirious; brainsick; fierce; crazy.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.2.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *surāyām* \< *surā*
+- *surāyām* ← *surā*
 - \[noun\], locative, singular, feminine
 - “alcohol; surā; surā; surā \[word\]; Devi; wine; tavern.”
 ------------------------------------------------------------------------
-- *ūdhar* \< *ūdhas*
+- *ūdhar* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.2.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nagnā* \< *nagnāḥ* \< *nagna*
+- *nagnā* ← *nagnāḥ* ← *nagna*
 - \[noun\], nominative, plural, masculine
 - “bare; nagna \[word\].”
 ------------------------------------------------------------------------
-- *jarante* \< *jṛ*
+- *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------

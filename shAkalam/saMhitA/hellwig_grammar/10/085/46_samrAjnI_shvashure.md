@@ -5,11 +5,11 @@ title = "Rig Veda 10.85.46"
 -   *samrājñī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śvaśure* \< *śvaśura*
+- *śvaśure* ← *śvaśura*
 - \[noun\], locative, singular, masculine
 - “father-in-law; śvaśura \[word\].”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -19,24 +19,24 @@ title = "Rig Veda 10.85.46"
 - *samrājñī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śvaśrvām* \< *śvaśrū*
+- *śvaśrvām* ← *śvaśrū*
 - \[noun\], locative, singular, feminine
 - “mother-in-law; śvaśrū.”
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *nanāndari* \< *nanāndṛ*
+- *nanāndari* ← *nanāndṛ*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
 - *samrājñī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhava* \< *bhū*
+- *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -50,6 +50,6 @@ title = "Rig Veda 10.85.46"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *devṛṣu* \< *devṛ*
+- *devṛṣu* ← *devṛ*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------

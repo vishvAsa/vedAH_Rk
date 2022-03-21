@@ -2,18 +2,18 @@
 title = "Rig Veda 9.20.7"
 
 +++
--   *krīﾱur* \< *krīḍuḥ* \< *krīḍu*
+-   *krīﾱur* ← *krīḍuḥ* ← *krīḍu*
 - \[noun\], nominative, singular, masculine
 - “playing.”
 ------------------------------------------------------------------------
-- *makho* \< *makhaḥ* \< *makha*
+- *makho* ← *makhaḥ* ← *makha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *maṃhayuḥ* \< *maṃhayu*
+- *maṃhayuḥ* ← *maṃhayu*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------

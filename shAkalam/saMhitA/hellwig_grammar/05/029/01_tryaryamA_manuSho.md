@@ -2,15 +2,15 @@
 title = "Rig Veda 5.29.1"
 
 +++
--   *try* \< *trī* \< *tri*
+-   *try* ← *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *manuṣo* \< *manuṣaḥ* \< *manus*
+- *manuṣo* ← *manuṣaḥ* \< *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------

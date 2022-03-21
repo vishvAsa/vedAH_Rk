@@ -6,21 +6,21 @@ title = "Rig Veda 7.92.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāyo* \< *vāyu*
+- *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *bhūṣa* \< *bhūṣ*
+- *bhūṣa* ← *bhūṣ*
 - \[verb\], singular, Present imperative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *śucipā* \< *śuci*
+- *śucipā* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucipā* \< *pāḥ* \< *pā*
+- *śucipā* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
@@ -28,56 +28,56 @@ title = "Rig Veda 7.92.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *viśvavāra* \< *viśva*
+- *viśvavāra* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavāra* \< *vāra*
+- *viśvavāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *upo* \< *upa*
+- *upo* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upo* \< *u*
+- *upo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *andho* \< *andhaḥ* \< *andhas*
+- *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], nominative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *madyam* \< *mad*
+- *madyam* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *ayāmi* \< *yam*
+- *ayāmi* ← *yam*
 - \[verb\], singular, Aorist passive
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -86,11 +86,11 @@ title = "Rig Veda 7.92.1"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *pūrvapeyam* \< *pūrvapeya*
+- *pūrvapeyam* ← *pūrvapeya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

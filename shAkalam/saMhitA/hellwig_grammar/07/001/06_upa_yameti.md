@@ -6,19 +6,19 @@ title = "Rig Veda 7.1.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *yuvatiḥ* \< *yuvati*
+- *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *sudakṣaṃ* \< *su*
+- *sudakṣaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------

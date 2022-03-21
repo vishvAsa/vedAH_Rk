@@ -6,40 +6,40 @@ title = "Rig Veda 9.103.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vārāṇy* \< *vārāṇi* \< *vāra*
+- *vārāṇy* ← *vārāṇi* ← *vāra*
 - \[noun\], accusative, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyayā* \< *avyaya*
+- *avyayā* ← *avyaya*
 - \[noun\], accusative, plural, neuter
 - “sheep.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *añjāno* \< *añjānaḥ* \< *añj*
+- *añjāno* ← *añjānaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *trī* \< *tri*
+- *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *ṣadhasthā* \< *sadhasthā* \< *sadhastha*
+- *ṣadhasthā* ← *sadhasthā* ← *sadhastha*
 - \[noun\], accusative, plural, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *punānaḥ* \< *pū*
+- *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -50,7 +50,7 @@ title = "Rig Veda 9.103.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *hariḥ* \< *hari*
+- *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------

@@ -2,25 +2,25 @@
 title = "Rig Veda 7.9.6"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *samidhāno* \< *samidhānaḥ* \< *samindh* \< *√indh*
+- *samidhāno* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *vasiṣṭho* \< *vasiṣṭhaḥ* \< *vasiṣṭha*
+- *vasiṣṭho* ← *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *jarūthaṃ* \< *jarūtham* \< *jarūtha*
+- *jarūthaṃ* ← *jarūtham* ← *jarūtha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *han*
@@ -29,38 +29,38 @@ title = "Rig Veda 7.9.6"
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *yakṣi* \< *yaj*
+- *yakṣi* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *purandhim* \< *puraṃdhi*
+- *purandhim* ← *puraṃdhi*
 - \[noun\], accusative, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *puruṇīthā* \< *puruṇītha*
+- *puruṇīthā* ← *puruṇītha*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *jarasva* \< *jṛ*
+- *jarasva* ← *jṛ*
 - \[verb\], singular, Present imperative
 - “sing.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -69,7 +69,7 @@ title = "Rig Veda 7.9.6"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

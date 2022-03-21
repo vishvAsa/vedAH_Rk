@@ -6,40 +6,40 @@ title = "Rig Veda 1.109.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *akhyam* \< *khyā*
+- *akhyam* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *vasya* \< *vasyaḥ* \< *vasyas*
+- *vasya* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *icchann* \< *icchan* \< *iṣ*
+- *icchann* ← *icchan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *indra*
+- *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *jñāsa* \< *jñāsaḥ* \< *jñās*
+- *jñāsa* ← *jñāsaḥ* ← *jñās*
 - \[noun\], accusative, plural, masculine
 - “relative.”
 ------------------------------------------------------------------------
@@ -51,56 +51,56 @@ title = "Rig Veda 1.109.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sajātān* \< *sajāta*
+- *sajātān* ← *sajāta*
 - \[noun\], accusative, plural, masculine
 - “kinsman; companion; relative; countryman.”
 ------------------------------------------------------------------------
-- *nānyā* \< *na*
+- *nānyā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānyā* \< *anyā* \< *anya*
+- *nānyā* ← *anyā* ← *anya*
 - \[noun\], nominative, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *yuvat* \< *tvad*
+- *yuvat* ← *tvad*
 - \[noun\], ablative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pramatir* \< *pramatiḥ* \< *pramati*
+- *pramatir* ← *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *vājayantīm* \< *vājay* \< *√vaj*
+- *vājayantīm* ← *vājay* ← *√vaj*
 - \[verb noun\], accusative, singular
 - “incite.”
 ------------------------------------------------------------------------
-- *atakṣam* \< *takṣ*
+- *atakṣam* ← *takṣ*
 - \[verb\], singular, Imperfect
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------

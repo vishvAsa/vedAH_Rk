@@ -2,7 +2,7 @@
 title = "Rig Veda 10.135.4"
 
 +++
--   *yaṃ* \< *yam* \< *yad*
+-   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -11,15 +11,15 @@ title = "Rig Veda 10.135.4"
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *prāvartayo* \< *prāvartayaḥ* \< *pravartay* \< *√vṛt*
+- *prāvartayo* ← *prāvartayaḥ* ← *pravartay* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “create; crush; administer.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *viprebhyas* \< *viprebhyaḥ* \< *vipra*
+- *viprebhyas* ← *viprebhyaḥ* ← *vipra*
 - \[noun\], ablative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -27,21 +27,21 @@ title = "Rig Veda 10.135.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sāmānu* \< *sāmā* \< *sāman*
+- *sāmānu* ← *sāmā* ← *sāman*
 - \[noun\], nominative, plural, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *sāmānu* \< *anu*
+- *sāmānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prāvartata* \< *pravṛt* \< *√vṛt*
+- *prāvartata* ← *pravṛt* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “originate; issue; begin; begin; love; revolve; go; undertake;
     react; corrupt.”
@@ -50,15 +50,15 @@ title = "Rig Veda 10.135.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ito* \< *itas*
+- *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
-- *nāvy* \< *nāvi* \< *nau*
+- *nāvy* ← *nāvi* ← *nau*
 - \[noun\], locative, singular
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *āhitam* \< *ādhā* \< *√dhā*
+- *āhitam* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------

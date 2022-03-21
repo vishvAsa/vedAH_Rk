@@ -2,11 +2,11 @@
 title = "Rig Veda 7.20.4"
 
 +++
--   *ubhe* \< *ubh*
+-   *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -19,19 +19,19 @@ title = "Rig Veda 7.20.4"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], accusative, plural, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *paprātha* \< *prā*
+- *paprātha* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *taviṣībhis* \< *taviṣībhiḥ* \< *taviṣī*
+- *taviṣībhis* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *tuviṣmaḥ* \< *tuviṣmas* \< *tuviṣmat*
+- *tuviṣmaḥ* ← *tuviṣmas* ← *tuviṣmat*
 - \[noun\], vocative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
@@ -39,20 +39,20 @@ title = "Rig Veda 7.20.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *harivān* \< *harivat*
+- *harivān* ← *harivat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *mimikṣan* \< *\_* \< *√\_*
+- *mimikṣan* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -60,20 +60,20 @@ title = "Rig Veda 7.20.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *andhasā* \< *andhas*
+- *andhasā* ← *andhas*
 - \[noun\], instrumental, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *madeṣu* \< *mada*
+- *madeṣu* ← *mada*
 - \[noun\], locative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *uvoca* \< *uc*
+- *uvoca* ← *uc*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------

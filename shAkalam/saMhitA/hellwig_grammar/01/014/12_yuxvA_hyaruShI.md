@@ -2,7 +2,7 @@
 title = "Rig Veda 1.14.12"
 
 +++
--   *yukṣvā* \< *yuj*
+-   *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,19 +10,19 @@ title = "Rig Veda 1.14.12"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *aruṣī* \< *aruṣa*
+- *aruṣī* ← *aruṣa*
 - \[noun\], accusative, plural, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “pale; green; bay; yellow.”
 ------------------------------------------------------------------------
@@ -31,30 +31,30 @@ title = "Rig Veda 1.14.12"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rohitaḥ* \< *rohit*
+- *rohitaḥ* ← *rohit*
 - \[noun\], accusative, plural, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihā* \< *ā*
+- *ihā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

@@ -2,35 +2,35 @@
 title = "Rig Veda 8.13.15"
 
 +++
--   *yacchakrāsi* \< *yat*
+-   *yacchakrāsi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchakrāsi* \< *śakra*
+- *yacchakrāsi* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *yacchakrāsi* \< *asi* \< *as*
+- *yacchakrāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *arvāvati* \< *arvāvat*
+- *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
 - *vṛtrahan*
 - \[noun\], locative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -38,23 +38,23 @@ title = "Rig Veda 8.13.15"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *andhaso* \< *andhasaḥ* \< *andhas*
+- *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *'vited* \< *avitā* \< *avitṛ*
+- *'vited* ← *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *'vited* \< *id*
+- *'vited* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

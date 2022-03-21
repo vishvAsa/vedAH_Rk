@@ -2,11 +2,11 @@
 title = "Rig Veda 7.22.8"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -14,29 +14,29 @@ title = "Rig Veda 7.22.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manyamānasya* \< *man*
+- *manyamānasya* ← *man*
 - \[verb noun\], genitive, singular
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *dasmod* \< *dasma*
+- *dasmod* ← *dasma*
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *dasmod* \< *ud*
+- *dasmod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *aśnuvanti* \< *aś*
+- *aśnuvanti* ← *aś*
 - \[verb\], plural, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *mahimānam* \< *mahiman*
+- *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 7.22.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīryam* \< *vīrya*
+- *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -60,7 +60,7 @@ title = "Rig Veda 7.22.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 7.22.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

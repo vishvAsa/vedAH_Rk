@@ -6,24 +6,24 @@ title = "Rig Veda 5.45.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *aruhac* \< *aruhat* \< *ruh*
+- *aruhac* ← *aruhat* ← *ruh*
 - \[verb\], singular, Imperfect
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *chukram* \< *śukram* \< *śukra*
+- *chukram* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *arṇo* \< *arṇaḥ* \< *arṇas*
+- *arṇo* ← *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *'yukta* \< *ayukta* \< *yuj*
+- *'yukta* ← *ayukta* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -31,19 +31,19 @@ title = "Rig Veda 5.45.10"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dharito* \< *haritaḥ* \< *harit*
+- *dharito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhāḥ* \< *vīta*
+- *vītapṛṣṭhāḥ* ← *vīta*
 - \[noun\]
 - “straight; smooth.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhāḥ* \< *pṛṣṭhāḥ* \< *pṛṣṭha*
+- *vītapṛṣṭhāḥ* ← *pṛṣṭhāḥ* \< *pṛṣṭha*
 - \[noun\], accusative, plural, feminine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”

@@ -2,30 +2,30 @@
 title = "Rig Veda 1.31.2"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *prathamo* \< *prathamaḥ* \< *prathama*
+- *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *aṅgirastamaḥ* \< *aṅgirastama*
+- *aṅgirastamaḥ* ← *aṅgirastama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kavir* \< *kaviḥ* \< *kavi*
+- *kavir* ← *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -34,52 +34,52 @@ title = "Rig Veda 1.31.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *bhūṣasi* \< *bhūṣ*
+- *bhūṣasi* ← *bhūṣ*
 - \[verb\], singular, Present indikative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *vratam* \< *vrata*
+- *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vibhur* \< *vibhuḥ* \< *vibhu*
+- *vibhur* ← *vibhuḥ* ← *vibhu*
 - \[noun\], nominative, singular, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *viśvasmai* \< *viśva*
+- *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāya* \< *bhuvana*
+- *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *medhiro* \< *medhiraḥ* \< *medhira*
+- *medhiro* ← *medhiraḥ* ← *medhira*
 - \[noun\], nominative, singular, masculine
 - “wise; intelligent.”
 ------------------------------------------------------------------------
-- *dvimātā* \< *dvi*
+- *dvimātā* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dvimātā* \< *mātā* \< *mātṛ*
+- *dvimātā* ← *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *śayuḥ* \< *śayu*
+- *śayuḥ* ← *śayu*
 - \[noun\], nominative, singular, masculine
 - “lying.”
 ------------------------------------------------------------------------
 - *katidhā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *āyave* \< *āyu*
+- *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------

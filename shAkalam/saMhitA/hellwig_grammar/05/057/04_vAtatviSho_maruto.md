@@ -2,29 +2,29 @@
 title = "Rig Veda 5.57.4"
 
 +++
--   *vātatviṣo* \< *vāta*
+-   *vātatviṣo* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātatviṣo* \< *tviṣaḥ* \< *tviṣ*
+- *vātatviṣo* ← *tviṣaḥ* ← *tviṣ*
 - \[noun\], nominative, plural, masculine
 - “beam; color; beauty.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *varṣanirṇijo* \< *varṣa*
+- *varṣanirṇijo* ← *varṣa*
 - \[noun\], masculine
 - “year; rain; year; shower; varṣa; monsoon; varṣa \[word\]; age;
     cloud; India.”
 ------------------------------------------------------------------------
-- *varṣanirṇijo* \< *nirṇijaḥ* \< *nirṇij*
+- *varṣanirṇijo* ← *nirṇijaḥ* ← *nirṇij*
 - \[noun\], nominative, plural, masculine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *yamā* \< *yamāḥ* \< *yama*
+- *yamā* ← *yamāḥ* ← *yama*
 - \[noun\], nominative, plural, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
@@ -32,59 +32,59 @@ title = "Rig Veda 5.57.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *susadṛśaḥ* \< *su*
+- *susadṛśaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susadṛśaḥ* \< *sadṛśaḥ* \< *sadṛś*
+- *susadṛśaḥ* ← *sadṛśaḥ* ← *sadṛś*
 - \[noun\], nominative, plural, masculine
 - “like; same.”
 ------------------------------------------------------------------------
-- *supeśasaḥ* \< *su*
+- *supeśasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supeśasaḥ* \< *peśasaḥ* \< *peśas*
+- *supeśasaḥ* ← *peśasaḥ* ← *peśas*
 - \[noun\], nominative, plural, masculine
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *piśaṅgāśvā* \< *piśaṅga*
+- *piśaṅgāśvā* ← *piśaṅga*
 - \[noun\]
 - “tawny; red; brown.”
 ------------------------------------------------------------------------
-- *piśaṅgāśvā* \< *aśvāḥ* \< *aśva*
+- *piśaṅgāśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aruṇāśvā* \< *aruṇa*
+- *aruṇāśvā* ← *aruṇa*
 - \[noun\]
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *aruṇāśvā* \< *aśvāḥ* \< *aśva*
+- *aruṇāśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *arepasaḥ* \< *arepas*
+- *arepasaḥ* ← *arepas*
 - \[noun\], nominative, plural, masculine
 - “immaculate.”
 ------------------------------------------------------------------------
-- *pratvakṣaso* \< *pratvakṣasaḥ* \< *pratvakṣas*
+- *pratvakṣaso* ← *pratvakṣasaḥ* ← *pratvakṣas*
 - \[noun\], nominative, plural, masculine
 - “strong; vigorous.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ivoravaḥ* \< *iva*
+- *ivoravaḥ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivoravaḥ* \< *uravaḥ* \< *uru*
+- *ivoravaḥ* ← *uravaḥ* ← *uru*
 - \[noun\], nominative, plural, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------

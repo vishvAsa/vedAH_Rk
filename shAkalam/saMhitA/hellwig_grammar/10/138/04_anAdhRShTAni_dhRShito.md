@@ -2,46 +2,46 @@
 title = "Rig Veda 10.138.4"
 
 +++
--   *anādhṛṣṭāni* \< *anādhṛṣṭa*
+-   *anādhṛṣṭāni* ← *anādhṛṣṭa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *dhṛṣito* \< *dhṛṣitaḥ* \< *dhṛṣ*
+- *dhṛṣito* ← *dhṛṣitaḥ* ← *dhṛṣ*
 - \[verb noun\], nominative, singular
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *āsyan* \< *āsyat* \< *as*
+- *āsyan* ← *āsyat* ← *as*
 - \[verb\], singular, Imperfect
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *nidhīṃr* \< *nidhi*
+- *nidhīṃr* ← *nidhi*
 - \[noun\], accusative, plural, masculine
 - “hoard; receptacle; treasure; ocean; instrument.”
 ------------------------------------------------------------------------
-- *adevāṃ* \< *adeva*
+- *adevāṃ* ← *adeva*
 - \[noun\], accusative, plural, masculine
 - “godless.”
 ------------------------------------------------------------------------
-- *amṛṇad* \< *amṛṇat* \< *mṛ*
+- *amṛṇad* ← *amṛṇat* ← *mṛ*
 - \[verb\], singular, Imperfect
 - “crush; destroy.”
 ------------------------------------------------------------------------
-- *ayāsyaḥ* \< *ayāsya*
+- *ayāsyaḥ* ← *ayāsya*
 - \[noun\], nominative, singular, masculine
 - “Ayāsya.”
 ------------------------------------------------------------------------
-- *māseva* \< *māsā* \< *mās*
+- *māseva* ← *māsā* ← *mās*
 - \[noun\], instrumental, singular, masculine
 - “month; lunar month.”
 ------------------------------------------------------------------------
-- *māseva* \< *iva*
+- *māseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -50,32 +50,32 @@ title = "Rig Veda 10.138.4"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *puryam* \< *purya*
+- *puryam* ← *purya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *gṛṇānaḥ* \< *gṛ*
+- *gṛṇānaḥ* ← *gṛ*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *śatrūṃr* \< *śatru*
+- *śatrūṃr* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *aśṛṇād* \< *aśṛṇāt* \< *śṛ*
+- *aśṛṇād* ← *aśṛṇāt* ← *śṛ*
 - \[verb\], singular, Imperfect
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *virukmatā* \< *virukmant*
+- *virukmatā* ← *virukmant*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------

@@ -2,42 +2,42 @@
 title = "Rig Veda 8.31.4"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prajāvatī* \< *prajāvat*
+- *prajāvatī* ← *prajāvat*
 - \[noun\], nominative, singular, feminine
 - “prolific.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *'saścantī* \< *a*
+- *'saścantī* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'saścantī* \< *saścantī* \< *sac*
+- *'saścantī* ← *saścantī* ← *sac*
 - \[verb noun\], nominative, singular
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍā*
+- *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *dhenumatī* \< *dhenumat*
+- *dhenumatī* ← *dhenumat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *duhe* \< *duh*
+- *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
 ------------------------------------------------------------------------

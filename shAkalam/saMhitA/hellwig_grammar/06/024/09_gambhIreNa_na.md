@@ -2,85 +2,85 @@
 title = "Rig Veda 6.24.9"
 
 +++
--   *gambhīreṇa* \< *gambhīra*
+-   *gambhīreṇa* ← *gambhīra*
 - \[noun\], instrumental, singular, neuter
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uruṇāmatrin* \< *uruṇā* \< *uru*
+- *uruṇāmatrin* ← *uruṇā* ← *uru*
 - \[noun\], instrumental, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *uruṇāmatrin* \< *amatrin*
+- *uruṇāmatrin* ← *amatrin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *preṣo* \< *pra*
+- *preṣo* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *preṣo* \< *iṣaḥ* \< *iṣ*
+- *preṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *yandhi* \< *yam*
+- *yandhi* ← *yam*
 - \[verb\], singular, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *sutapāvan* \< *suta*
+- *sutapāvan* ← *suta*
 - \[noun\], masculine
 - “son; child.”
 ------------------------------------------------------------------------
-- *sutapāvan* \< *pāvan*
+- *sutapāvan* ← *pāvan*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *sthā* \< *sthāḥ* \< *sthā*
+- *sthā* ← *sthāḥ* ← *sthā*
 - \[verb\], singular, Aorist conj./subj.
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūrdhva* \< *ūrdhvaḥ* \< *ūrdhva*
+- *ūrdhva* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], accusative, dual, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *ariṣaṇyann* \< *a*
+- *ariṣaṇyann* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ariṣaṇyann* \< *riṣaṇyan* \< *riṣaṇy* \< *√riṣ*
+- *ariṣaṇyann* ← *riṣaṇyan* ← *riṣaṇy* ← *√riṣ*
 - \[verb noun\], nominative, singular
 - “riṣaṇy \[verb\].”
 ------------------------------------------------------------------------
-- *aktor* \< *aktoḥ* \< *aktu*
+- *aktor* ← *aktoḥ* ← *aktu*
 - \[noun\], genitive, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *paritakmyāyām* \< *paritakmyā*
+- *paritakmyāyām* ← *paritakmyā*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------

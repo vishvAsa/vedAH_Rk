@@ -6,19 +6,19 @@ title = "Rig Veda 4.2.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 4.2.2"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *jāto* \< *jātaḥ* \< *jan*
+- *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *jātāṃ* \< *jan*
+- *jātāṃ* ← *jan*
 - \[verb noun\], accusative, plural
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *ubhayāṃ* \< *ubhaya*
+- *ubhayāṃ* ← *ubhaya*
 - \[noun\], accusative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -46,21 +46,21 @@ title = "Rig Veda 4.2.2"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dūta* \< *dūtaḥ* \< *dūta*
+- *dūta* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *yuyujāna* \< *yuyujānaḥ* \< *yuj*
+- *yuyujāna* ← *yuyujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -68,23 +68,23 @@ title = "Rig Veda 4.2.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *ṛṣva* \< *ṛṣvaḥ* \< *ṛṣva*
+- *ṛṣva* ← *ṛṣvaḥ* ← *ṛṣva*
 - \[noun\], nominative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *ṛjumuṣkān* \< *ṛju*
+- *ṛjumuṣkān* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *ṛjumuṣkān* \< *muṣkān* \< *muṣka*
+- *ṛjumuṣkān* ← *muṣkān* ← *muṣka*
 - \[noun\], accusative, plural, masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], accusative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śukrāṃś* \< *śukrān* \< *śukra*
+- *śukrāṃś* ← *śukrān* ← *śukra*
 - \[noun\], accusative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------

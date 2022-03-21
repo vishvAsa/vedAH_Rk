@@ -2,7 +2,7 @@
 title = "Rig Veda 1.73.1"
 
 +++
--   *rayir* \< *rayiḥ* \< *rayi*
+-   *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -10,32 +10,32 @@ title = "Rig Veda 1.73.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pitṛvitto* \< *pitṛ*
+- *pitṛvitto* ← *pitṛ*
 - \[noun\], masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitṛvitto* \< *vittaḥ* \< *vid*
+- *pitṛvitto* ← *vittaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *vayodhāḥ* \< *vayodhas*
+- *vayodhāḥ* ← *vayodhas*
 - \[noun\], nominative, singular, masculine
 - “fortifying.”
 ------------------------------------------------------------------------
-- *supraṇītiś* \< *su*
+- *supraṇītiś* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraṇītiś* \< *praṇītiḥ* \< *praṇīti*
+- *supraṇītiś* ← *praṇītiḥ* ← *praṇīti*
 - \[noun\], nominative, singular, masculine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *cikituṣo* \< *cikituṣaḥ* \< *cit*
+- *cikituṣo* ← *cikituṣaḥ* ← *cit*
 - \[verb noun\], genitive, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -43,13 +43,13 @@ title = "Rig Veda 1.73.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śāsuḥ* \< *śāsus*
+- *śāsuḥ* ← *śāsus*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *syonaśīr* \< *syonaśīḥ* \< *syonaśī*
+- *syonaśīr* ← *syonaśīḥ* ← *syonaśī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *atithir* \< *atithiḥ* \< *atithi*
+- *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
@@ -57,23 +57,23 @@ title = "Rig Veda 1.73.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prīṇāno* \< *prīṇānaḥ* \< *prī*
+- *prīṇāno* ← *prīṇānaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *hoteva* \< *hotā* \< *hotṛ*
+- *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hoteva* \< *iva*
+- *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sadma* \< *sadman*
+- *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *vidhato* \< *vidhataḥ* \< *vidh*
+- *vidhato* ← *vidhataḥ* ← *vidh*
 - \[verb noun\], genitive, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 1.73.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tārīt* \< *tṛ*
+- *tārīt* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

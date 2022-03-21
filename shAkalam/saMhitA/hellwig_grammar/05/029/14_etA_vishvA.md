@@ -2,16 +2,16 @@
 title = "Rig Veda 5.29.14"
 
 +++
--   *etā* \< *etad*
+-   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *cakṛvāṃ* \< *kṛ*
+- *cakṛvāṃ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -27,11 +27,11 @@ title = "Rig Veda 5.29.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhūry* \< *bhūri*
+- *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *aparīto* \< *aparītaḥ* \< *aparīta*
+- *aparīto* ← *aparītaḥ* \< *aparīta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *januṣā* \< *janus*

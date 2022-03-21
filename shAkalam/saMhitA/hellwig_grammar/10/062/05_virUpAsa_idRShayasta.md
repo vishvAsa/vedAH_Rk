@@ -2,7 +2,7 @@
 title = "Rig Veda 10.62.5"
 
 +++
--   *virūpāsa* \< *virūpāsaḥ* \< *virūpa*
+-   *virūpāsa* ← *virūpāsaḥ* ← *virūpa*
 - \[noun\], nominative, plural, masculine
 - “Virūpa.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.62.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ṛṣayas* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayas* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -24,37 +24,37 @@ title = "Rig Veda 10.62.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *gambhīravepasaḥ* \< *gambhīra*
+- *gambhīravepasaḥ* ← *gambhīra*
 - \[noun\]
 - “deep; bass; complex; profound; complicated; intense; gambhīra
     \[word\]; hidden.”
 ------------------------------------------------------------------------
-- *gambhīravepasaḥ* \< *vepasaḥ* \< *vepas*
+- *gambhīravepasaḥ* ← *vepasaḥ* ← *vepas*
 - \[noun\], nominative, plural, masculine
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṅgirasaḥ* \< *aṅgiras*
+- *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], genitive, singular, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *sūnavas* \< *sūnavaḥ* \< *sūnu*
+- *sūnavas* ← *sūnavaḥ* ← *sūnu*
 - \[noun\], nominative, plural, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], ablative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -64,7 +64,7 @@ title = "Rig Veda 10.62.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *jajñire* \< *jan*
+- *jajñire* ← *jan*
 - \[verb\], plural, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

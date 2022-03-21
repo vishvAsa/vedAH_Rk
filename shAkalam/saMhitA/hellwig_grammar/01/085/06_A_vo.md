@@ -6,23 +6,23 @@ title = "Rig Veda 1.85.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *saptayo* \< *saptayaḥ* \< *sapti*
+- *saptayo* ← *saptayaḥ* ← *sapti*
 - \[noun\], nominative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *raghuṣyado* \< *raghuṣyadaḥ* \< *raghuṣyad*
+- *raghuṣyado* ← *raghuṣyadaḥ* ← *raghuṣyad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *raghupatvānaḥ* \< *raghupatvan*
+- *raghupatvānaḥ* ← *raghupatvan*
 - \[noun\], nominative, plural, masculine
 - “agile.”
 ------------------------------------------------------------------------
@@ -30,24 +30,24 @@ title = "Rig Veda 1.85.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jigāta* \< *gā*
+- *jigāta* ← *gā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *bāhubhiḥ* \< *bāhu*
+- *bāhubhiḥ* ← *bāhu*
 - \[noun\], instrumental, plural, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *sīdatā* \< *sīdata* \< *sad*
+- *sīdatā* ← *sīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sīdatā* \< *ā*
+- *sīdatā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 1.85.6"
 - \[noun\], nominative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 1.85.6"
 - \[noun\], nominative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,19 +74,19 @@ title = "Rig Veda 1.85.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mādayadhvam* \< *māday* \< *√mad*
+- *mādayadhvam* ← *māday* ← *√mad*
 - \[verb\], plural, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------

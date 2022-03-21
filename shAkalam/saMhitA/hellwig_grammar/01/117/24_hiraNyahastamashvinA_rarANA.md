@@ -2,29 +2,29 @@
 title = "Rig Veda 1.117.24"
 
 +++
--   *hiraṇyahastam* \< *hiraṇyahasta*
+-   *hiraṇyahastam* ← *hiraṇyahasta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *rarāṇā* \< *rā*
+- *rarāṇā* ← *rā*
 - \[verb noun\], nominative, dual
 - “give; impart.”
 ------------------------------------------------------------------------
-- *putraṃ* \< *putram* \< *putra*
+- *putraṃ* ← *putram* ← *putra*
 - \[noun\], accusative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vadhrimatyā* \< *vadhrimatyai* \< *vadhrimatī*
+- *vadhrimatyā* ← *vadhrimatyai* ← *vadhrimatī*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *adattam* \< *dā*
+- *adattam* ← *dā*
 - \[verb\], dual, Imperfect
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -39,32 +39,32 @@ title = "Rig Veda 1.117.24"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śyāvam* \< *śyāva*
+- *śyāvam* ← *śyāva*
 - \[noun\], accusative, singular, masculine
 - “śyāva; Śyāva.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vikastam* \< *vikas* \< *√kas*
+- *vikastam* ← *vikas* ← *√kas*
 - \[verb noun\], accusative, singular
 - “unfold; expand.”
 ------------------------------------------------------------------------
-- *uj* \< *ud*
+- *uj* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *jīvasa* \< *jīvase* \< *jīv*
+- *jīvasa* ← *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *airayataṃ* \< *airayatam* \< *īray* \< *√īr*
+- *airayataṃ* ← *airayatam* ← *īray* ← *√īr*
 - \[verb\], dual, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *sudānū* \< *sudānu*
+- *sudānū* ← *sudānu*
 - \[noun\], vocative, dual, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------

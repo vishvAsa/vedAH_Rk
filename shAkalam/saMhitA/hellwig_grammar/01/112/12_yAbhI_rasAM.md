@@ -2,89 +2,89 @@
 title = "Rig Veda 1.112.12"
 
 +++
--   *yābhī* \< *yābhiḥ* \< *yad*
+-   *yābhī* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rasāṃ* \< *rasām* \< *rasā*
+- *rasāṃ* ← *rasām* ← *rasā*
 - \[noun\], accusative, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
-- *kṣodasodnaḥ* \< *kṣodasā* \< *kṣodas*
+- *kṣodasodnaḥ* ← *kṣodasā* ← *kṣodas*
 - \[noun\], instrumental, singular, neuter
 - “swell.”
 ------------------------------------------------------------------------
-- *kṣodasodnaḥ* \< *udnaḥ* \< *udan*
+- *kṣodasodnaḥ* ← *udnaḥ* ← *udan*
 - \[noun\], genitive, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *pipinvathur* \< *pipinvathuḥ* \< *pinv*
+- *pipinvathur* ← *pipinvathuḥ* ← *pinv*
 - \[verb\], dual, Perfect indicative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *anaśvaṃ* \< *an*
+- *anaśvaṃ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anaśvaṃ* \< *aśvam* \< *aśva*
+- *anaśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *yābhī* \< *yābhiḥ* \< *yad*
+- *yābhī* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *āvataṃ* \< *āvatam* \< *av*
+- *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *jiṣe* \< *ji*
+- *jiṣe* ← *ji*
 - \[verb noun\]
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *yābhis* \< *yābhiḥ* \< *yad*
+- *yābhis* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *triśoka* \< *triśokaḥ* \< *triśoka*
+- *triśoka* ← *triśokaḥ* ← *triśoka*
 - \[noun\], nominative, singular, masculine
 - “Triśoka.”
 ------------------------------------------------------------------------
-- *usriyā* \< *usriyāḥ* \< *usriyā*
+- *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *udājata* \< *udaj* \< *√aj*
+- *udājata* ← *udaj* ← *√aj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

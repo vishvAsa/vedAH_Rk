@@ -2,23 +2,23 @@
 title = "Rig Veda 9.110.10"
 
 +++
--   *somaḥ* \< *soma*
+-   *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *avyaye* \< *avyaya*
+- *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *vāre* \< *vāra*
+- *vāre* ← *vāra*
 - \[noun\], locative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *śiśur* \< *śiśuḥ* \< *śiśu*
+- *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -26,35 +26,35 @@ title = "Rig Veda 9.110.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *krīﾱan* \< *krīḍan* \< *krīḍ*
+- *krīﾱan* ← *krīḍan* ← *krīḍ*
 - \[verb noun\], nominative, singular
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *akṣāḥ* \< *akṣār* \< *kṣar*
+- *akṣāḥ* ← *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
-- *sahasradhāraḥ* \< *sahasra*
+- *sahasradhāraḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāraḥ* \< *dhāraḥ* \< *dhārā*
+- *sahasradhāraḥ* ← *dhāraḥ* ← *dhārā*
 - \[noun\], nominative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *śatavāja* \< *śata*
+- *śatavāja* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatavāja* \< *vājaḥ* \< *vāja*
+- *śatavāja* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *induḥ* \< *indu*
+- *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

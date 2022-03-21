@@ -2,11 +2,11 @@
 title = "Rig Veda 5.5.5"
 
 +++
--   *devīr* \< *devīḥ* \< *devī*
+-   *devīr* ← *devīḥ* ← *devī*
 - \[noun\], vocative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *dvāro* \< *dvāraḥ* \< *dvār*
+- *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], vocative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 5.5.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *śrayadhvaṃ* \< *śrayadhvam* \< *śri*
+- *śrayadhvaṃ* ← *śrayadhvam* ← *śri*
 - \[verb\], plural, Present imperative
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *suprāyaṇā* \< *su*
+- *suprāyaṇā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprāyaṇā* \< *prāyaṇāḥ* \< *prāyaṇa*
+- *suprāyaṇā* ← *prāyaṇāḥ* ← *prāyaṇa*
 - \[noun\], nominative, plural, feminine
 - “beginning; beginning.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 5.5.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *pṛṇītana* \< *pṛ*
+- *pṛṇītana* ← *pṛ*
 - \[verb\], plural, Present imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”

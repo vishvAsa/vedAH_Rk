@@ -2,32 +2,32 @@
 title = "Rig Veda 8.5.33"
 
 +++
--   *eha* \< *ā*
+-   *eha* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eha* \< *iha*
+- *eha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pruṣitapsavo* \< *pruṣitapsavaḥ* \< *pruṣitapsu*
+- *pruṣitapsavo* ← *pruṣitapsavaḥ* ← *pruṣitapsu*
 - \[noun\], nominative, plural, masculine
 - “motley.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *parṇinaḥ* \< *parṇin*
+- *parṇinaḥ* ← *parṇin*
 - \[noun\], nominative, plural, masculine
 - “winged; plumed.”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 8.5.33"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *svadhvaraṃ* \< *su*
+- *svadhvaraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvaraṃ* \< *adhvaram* \< *adhvara*
+- *svadhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 9.86.3"
 
 +++
--   *atyo* \< *atyaḥ* \< *atya*
+-   *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 9.86.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hiyāno* \< *hiyānaḥ* \< *hi*
+- *hiyāno* ← *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -18,45 +18,45 @@ title = "Rig Veda 9.86.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *svarvit* \< *svar*
+- *svarvit* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvit* \< *vid*
+- *svarvit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *kośaṃ* \< *kośam* \< *kośa*
+- *kośaṃ* ← *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *adrimātaram* \< *adri*
+- *adrimātaram* ← *adri*
 - \[noun\], masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *adrimātaram* \< *mātaram* \< *mātṛ*
+- *adrimātaram* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -64,26 +64,26 @@ title = "Rig Veda 9.86.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avyaye* \< *avyaya*
+- *avyaye* ← *avyaya*
 - \[noun\], locative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *indriyāya* \< *indriya*
+- *indriyāya* ← *indriya*
 - \[noun\], dative, singular, neuter
 - “aindra.”
 ------------------------------------------------------------------------
-- *dhāyase* \< *dhāyas*
+- *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------

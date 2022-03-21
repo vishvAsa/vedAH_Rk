@@ -2,18 +2,18 @@
 title = "Rig Veda 10.55.6"
 
 +++
--   *śākmanā* \< *śākman*
+-   *śākmanā* ← *śākman*
 - \[noun\], instrumental, singular, neuter
 - “power.”
 ------------------------------------------------------------------------
-- *śāko* \< *śākaḥ* \< *śāka*
+- *śāko* ← *śākaḥ* ← *śāka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *aruṇaḥ* \< *aruṇa*
+- *aruṇaḥ* ← *aruṇa*
 - \[noun\], nominative, singular, masculine
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *suparṇa* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇa* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
@@ -21,42 +21,42 @@ title = "Rig Veda 10.55.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *śūraḥ* \< *śūra*
+- *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *sanād* \< *sanāt*
+- *sanād* ← *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *anīḍaḥ* \< *anīḍa*
+- *anīḍaḥ* ← *anīḍa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yac* \< *yat* \< *yad*
+- *yac* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], nominative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -66,7 +66,7 @@ title = "Rig Veda 10.55.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *moghaṃ* \< *mogham* \< *mogha*
+- *moghaṃ* ← *mogham* ← *mogha*
 - \[noun\], nominative, singular, neuter
 - “bootless; untrue; causeless.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 10.55.6"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *spārham* \< *spārha*
+- *spārham* ← *spārha*
 - \[noun\], accusative, singular, neuter
 - “desirable.”
 ------------------------------------------------------------------------
@@ -82,16 +82,16 @@ title = "Rig Veda 10.55.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *jetota* \< *jetā* \< *ji*
+- *jetota* ← *jetā* ← *ji*
 - \[verb\], singular, periphrast. future
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *jetota* \< *uta*
+- *jetota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dātā* \< *dā*
+- *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

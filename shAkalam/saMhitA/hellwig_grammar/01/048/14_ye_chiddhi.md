@@ -2,41 +2,41 @@
 title = "Rig Veda 1.48.14"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *pūrva* \< *pūrve* \< *pūrva*
+- *pūrva* ← *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *juhūre* \< *hvā*
+- *juhūre* ← *hvā*
 - \[verb\], plural, Perfect indicative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *'vase* \< *avase* \< *av*
+- *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -44,17 +44,17 @@ title = "Rig Veda 1.48.14"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *na* \< *mad*
+- *na* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stomāṃ* \< *stoma*
+- *stomāṃ* ← *stoma*
 - \[noun\], accusative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -62,23 +62,23 @@ title = "Rig Veda 1.48.14"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇīhi* \< *gṛ*
+- *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *rādhasoṣaḥ* \< *rādhasā* \< *rādhas*
+- *rādhasoṣaḥ* ← *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *rādhasoṣaḥ* \< *uṣaḥ* \< *uṣas*
+- *rādhasoṣaḥ* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *śukreṇa* \< *śukra*
+- *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------

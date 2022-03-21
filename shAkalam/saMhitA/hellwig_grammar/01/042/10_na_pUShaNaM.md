@@ -6,15 +6,15 @@ title = "Rig Veda 1.42.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *methāmasi* \< *mith*
+- *methāmasi* ← *mith*
 - \[verb\], plural, Present indikative
 - “oppose.”
 ------------------------------------------------------------------------
-- *sūktair* \< *sūktaiḥ* \< *sūkta*
+- *sūktair* ← *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
@@ -22,19 +22,19 @@ title = "Rig Veda 1.42.10"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇīmasi* \< *gṛ*
+- *gṛṇīmasi* ← *gṛ*
 - \[verb\], plural, Present optative
 - “praise.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *dasmam* \< *dasma*
+- *dasmam* ← *dasma*
 - \[noun\], accusative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

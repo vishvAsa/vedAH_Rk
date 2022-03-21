@@ -2,39 +2,39 @@
 title = "Rig Veda 5.52.10"
 
 +++
--   *āpathayo* \< *āpathayaḥ* \< *āpathi*
+-   *āpathayo* ← *āpathayaḥ* ← *āpathi*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vipathayo* \< *vipathayaḥ* \< *vipathi*
+- *vipathayo* ← *vipathayaḥ* ← *vipathi*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *'ntaspathā* \< *antaspathāḥ* \< *antaspatha*
+- *'ntaspathā* ← *antaspathāḥ* ← *antaspatha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *anupathāḥ* \< *anupatha*
+- *anupathāḥ* ← *anupatha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *etebhir* \< *etebhiḥ* \< *e* \< *√i*
+- *etebhir* ← *etebhiḥ* ← *e* ← *√i*
 - \[verb noun\], instrumental, plural
 - “come; travel.”
 ------------------------------------------------------------------------
-- *mahyaṃ* \< *mahyam* \< *mad*
+- *mahyaṃ* ← *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nāmabhir* \< *nāmabhiḥ* \< *nāman*
+- *nāmabhir* ← *nāmabhiḥ* ← *nāman*
 - \[noun\], instrumental, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *viṣṭāra* \< *viṣṭāre* \< *viṣṭāra*
+- *viṣṭāra* ← *viṣṭāre* ← *viṣṭāra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ohate* \< *ūh*
+- *ohate* ← *ūh*
 - \[verb\], plural, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------

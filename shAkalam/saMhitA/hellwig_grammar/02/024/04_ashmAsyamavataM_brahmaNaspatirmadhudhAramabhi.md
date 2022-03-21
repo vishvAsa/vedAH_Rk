@@ -2,28 +2,28 @@
 title = "Rig Veda 2.24.4"
 
 +++
--   *aśmāsyam* \< *aśma* \< *aśman*
+-   *aśmāsyam* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *aśmāsyam* \< *āsyam* \< *āsya*
+- *aśmāsyam* ← *āsyam* ← *āsya*
 - \[noun\], accusative, singular, masculine
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------
-- *avatam* \< *avata*
+- *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *brahmaṇaspatir* \< *brahmaṇaspatiḥ* \< *brahmaṇaspati*
+- *brahmaṇaspatir* ← *brahmaṇaspatiḥ* ← *brahmaṇaspati*
 - \[noun\], nominative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *madhudhāram* \< *madhu*
+- *madhudhāram* ← *madhu*
 - \[noun\]
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *madhudhāram* \< *dhāram* \< *dhārā*
+- *madhudhāram* ← *dhāram* ← *dhārā*
 - \[noun\], accusative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
@@ -31,18 +31,18 @@ title = "Rig Veda 2.24.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ojasātṛṇat* \< *ojasā* \< *ojas*
+- *ojasātṛṇat* ← *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *ojasātṛṇat* \< *atṛṇat* \< *tṛd*
+- *ojasātṛṇat* ← *atṛṇat* ← *tṛd*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -53,20 +53,20 @@ title = "Rig Veda 2.24.4"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *papire* \< *pā*
+- *papire* ← *pā*
 - \[verb\], plural, Perfect indicative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *svardṛśo* \< *svar*
+- *svardṛśo* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛśo* \< *dṛśaḥ* \< *dṛś*
+- *svardṛśo* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], nominative, plural, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 ------------------------------------------------------------------------
@@ -75,19 +75,19 @@ title = "Rig Veda 2.24.4"
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *sisicur* \< *sisicuḥ* \< *sic*
+- *sisicur* ← *sisicuḥ* ← *sic*
 - \[verb\], plural, Perfect indicative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *utsam* \< *utsa*
+- *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *udriṇam* \< *udrin*
+- *udriṇam* ← *udrin*
 - \[noun\], accusative, singular, masculine
 - “filled with water.”
 ------------------------------------------------------------------------

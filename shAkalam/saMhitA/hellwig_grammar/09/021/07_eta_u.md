@@ -2,7 +2,7 @@
 title = "Rig Veda 9.21.7"
 
 +++
--   *eta* \< *ete* \< *etad*
+-   *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 9.21.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *avīvaśan* \< *vāś*
+- *avīvaśan* ← *vāś*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *kāṣṭhāṃ* \< *kāṣṭhām* \< *kāṣṭhā*
+- *kāṣṭhāṃ* ← *kāṣṭhām* ← *kāṣṭhā*
 - \[noun\], accusative, singular, feminine
 - “kāṣṭhā; quarter; body of water.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *akrata* \< *kṛ*
+- *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -37,11 +37,11 @@ title = "Rig Veda 9.21.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sataḥ* \< *satas*
+- *sataḥ* ← *satas*
 - \[adverb\]
 - “evenly.”
 ------------------------------------------------------------------------
-- *prāsāviṣur* \< *prāsāviṣuḥ* \< *prasū* \< *√sū*
+- *prāsāviṣur* ← *prāsāviṣuḥ* \< *prasū* \< *√sū*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------

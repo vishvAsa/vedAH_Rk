@@ -2,62 +2,62 @@
 title = "Rig Veda 1.164.47"
 
 +++
--   *kṛṣṇaṃ* \< *kṛṣṇam* \< *kṛṣṇa*
+-   *kṛṣṇaṃ* ← *kṛṣṇam* ← *kṛṣṇa*
 - \[noun\], accusative, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *niyānaṃ* \< *niyānam* \< *niyāna*
+- *niyānaṃ* ← *niyānam* ← *niyāna*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *harayaḥ* \< *hari*
+- *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *suparṇā* \< *suparṇāḥ* \< *suparṇa*
+- *suparṇā* ← *suparṇāḥ* ← *suparṇa*
 - \[noun\], nominative, plural, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vasānā* \< *vasānāḥ* \< *vas*
+- *vasānā* ← *vasānāḥ* ← *vas*
 - \[verb noun\], nominative, plural
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
 ------------------------------------------------------------------------
-- *divam* \< *div*
+- *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *patanti* \< *pat*
+- *patanti* ← *pat*
 - \[verb\], plural, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āvavṛtran* \< *āvṛt* \< *√vṛt*
+- *āvavṛtran* ← *āvṛt* ← *√vṛt*
 - \[verb\], plural, Plusquamperfect
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 ------------------------------------------------------------------------
-- *sadanād* \< *sadanāt* \< *sadana*
+- *sadanād* ← *sadanāt* ← *sadana*
 - \[noun\], ablative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *ṛtasyād* \< *ṛtasya* \< *ṛta*
+- *ṛtasyād* ← *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtasyād* \< *āt*
+- *ṛtasyād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 1.164.47"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -73,10 +73,10 @@ title = "Rig Veda 1.164.47"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *udyate* \< *und*
+- *udyate* ← *und*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 ------------------------------------------------------------------------

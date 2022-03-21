@@ -2,11 +2,11 @@
 title = "Rig Veda 5.82.4"
 
 +++
--   *adyā* \< *adya*
+-   *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 5.82.4"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 5.82.4"
 - \[noun\], accusative, singular, neuter
 - “prolific.”
 ------------------------------------------------------------------------
-- *sāvīḥ* \< *sū*
+- *sāvīḥ* ← *sū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *saubhagam* \< *saubhaga*
+- *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 5.82.4"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *duṣṣvapnyaṃ* \< *duṣṣvapnyam* \< *duḥṣvapnya*
+- *duṣṣvapnyaṃ* ← *duṣṣvapnyam* ← *duḥṣvapnya*
 - \[noun\], accusative, singular, neuter
 - “nightmare.”
 ------------------------------------------------------------------------
-- *suva* \< *sū*
+- *suva* ← *sū*
 - \[verb\], singular, Present imperative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------

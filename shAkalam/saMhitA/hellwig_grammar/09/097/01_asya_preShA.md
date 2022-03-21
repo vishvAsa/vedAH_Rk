@@ -2,27 +2,27 @@
 title = "Rig Veda 9.97.1"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *preṣā* \< *preṣ*
+- *preṣā* ← *preṣ*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *hemanā* \< *heman*
+- *hemanā* ← *heman*
 - \[noun\], instrumental, singular, neuter
 - “momentum.”
 ------------------------------------------------------------------------
-- *pūyamāno* \< *pūyamānaḥ* \< *pū*
+- *pūyamāno* ← *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devebhiḥ* \< *deva*
+- *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -31,11 +31,11 @@ title = "Rig Veda 9.97.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *apṛkta* \< *pṛc*
+- *apṛkta* ← *pṛc*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *rasam* \< *rasa*
+- *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -43,43 +43,43 @@ title = "Rig Veda 9.97.1"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *pavitram* \< *pavitra*
+- *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *rebhan* \< *ribh*
+- *rebhan* ← *ribh*
 - \[verb noun\], nominative, singular
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------
-- *miteva* \< *mitā* \< *mā*
+- *miteva* ← *mitā* ← *mā*
 - \[verb noun\], accusative, plural
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *miteva* \< *iva*
+- *miteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sadma* \< *sadman*
+- *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *paśumānti* \< *paśumat*
+- *paśumānti* ← *paśumat*
 - \[noun\], accusative, plural, neuter
 - “rich in cattle.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 9.10.2"
 
 +++
--   *hinvānāso* \< *hinvānāsaḥ* \< *hi*
+-   *hinvānāso* ← *hinvānāsaḥ* ← *hi*
 - \[verb noun\], nominative, plural
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 9.10.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dadhanvire* \< *dhanv*
+- *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *bharāsaḥ* \< *bhara*
+- *bharāsaḥ* ← *bhara*
 - \[noun\], nominative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *kāriṇām* \< *kārin*
+- *kāriṇām* ← *kārin*
 - \[noun\], genitive, plural, masculine
 - “causing; making; acting; performing; producing; doing.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.68.7"
 
 +++
--   *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+-   *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *amata* \< *man*
+- *amata* ← *man*
 - \[verb\], singular, Root aorist (Ind.)
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
@@ -16,23 +16,23 @@ title = "Rig Veda 10.68.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *āsāṃ* \< *āsām* \< *idam*
+- *āsāṃ* ← *āsām* ← *idam*
 - \[noun\], genitive, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *svarīṇāṃ* \< *svarīṇām* \< *svari*
+- *svarīṇāṃ* ← *svarīṇām* ← *svari*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
@@ -41,30 +41,30 @@ title = "Rig Veda 10.68.7"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āṇḍeva* \< *āṇḍā* \< *āṇḍa*
+- *āṇḍeva* ← *āṇḍā* ← *āṇḍa*
 - \[noun\], accusative, plural, neuter
 - “egg.”
 ------------------------------------------------------------------------
-- *āṇḍeva* \< *iva*
+- *āṇḍeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhittvā* \< *bhid*
+- *bhittvā* ← *bhid*
 - \[verb noun\]
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *śakunasya* \< *śakuna*
+- *śakunasya* ← *śakuna*
 - \[noun\], genitive, singular, masculine
 - “bird; large bird.”
 ------------------------------------------------------------------------
-- *garbham* \< *garbha*
+- *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
@@ -74,20 +74,20 @@ title = "Rig Veda 10.68.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *usriyāḥ* \< *usriyā*
+- *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *parvatasya* \< *parvata*
+- *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *tmanājat* \< *tmanā* \< *tman*
+- *tmanājat* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tmanājat* \< *ājat* \< *aj*
+- *tmanājat* ← *ājat* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------

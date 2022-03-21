@@ -2,7 +2,7 @@
 title = "Rig Veda 7.3.8"
 
 +++
--   *yā* \< *yāḥ* \< *yad*
+-   *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,20 +10,20 @@ title = "Rig Veda 7.3.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *adhṛṣṭā* \< *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭā* ← *adhṛṣṭāḥ* \< *adhṛṣṭa*
 - \[noun\], nominative, plural, feminine
 - “modest; invincible.”
 ------------------------------------------------------------------------

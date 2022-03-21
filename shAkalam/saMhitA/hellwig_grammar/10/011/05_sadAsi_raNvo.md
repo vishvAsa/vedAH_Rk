@@ -2,54 +2,54 @@
 title = "Rig Veda 10.11.5"
 
 +++
--   *sadāsi* \< *sadā*
+-   *sadāsi* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *sadāsi* \< *asi* \< *as*
+- *sadāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *raṇvo* \< *raṇvaḥ* \< *raṇva*
+- *raṇvo* ← *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *yavaseva* \< *yavasā* \< *yavasa*
+- *yavaseva* ← *yavasā* ← *yavasa*
 - \[noun\], nominative, plural, neuter
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *yavaseva* \< *iva*
+- *yavaseva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *puṣyate* \< *puṣ*
+- *puṣyate* ← *puṣ*
 - \[verb noun\], dative, singular
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *hotrābhir* \< *hotrābhiḥ* \< *hotrā*
+- *hotrābhir* ← *hotrābhiḥ* ← *hotrā*
 - \[noun\], instrumental, plural, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *manuṣaḥ* \< *manus*
+- *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *svadhvaraḥ* \< *su*
+- *svadhvaraḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvaraḥ* \< *adhvaraḥ* \< *adhvara*
+- *svadhvaraḥ* ← *adhvaraḥ* ← *adhvara*
 - \[noun\], nominative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -57,31 +57,31 @@ title = "Rig Veda 10.11.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yacchaśamāna* \< *yat*
+- *yacchaśamāna* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchaśamāna* \< *śaśamānaḥ* \< *śam*
+- *yacchaśamāna* ← *śaśamānaḥ* ← *śam*
 - \[verb noun\], nominative, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *ukthyaṃ* \< *ukthyam* \< *ukthya*
+- *ukthyaṃ* ← *ukthyam* ← *ukthya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *sasavāṃ* \< *san*
+- *sasavāṃ* ← *san*
 - \[verb noun\], nominative, singular
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *upayāsi* \< *upayā* \< *√yā*
+- *upayāsi* ← *upayā* ← *√yā*
 - \[verb\], singular, Present indikative
 - “enter (a state); arrive; come; go.”
 ------------------------------------------------------------------------
-- *bhūribhiḥ* \< *bhūri*
+- *bhūribhiḥ* ← *bhūri*
 - \[noun\], instrumental, plural, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------

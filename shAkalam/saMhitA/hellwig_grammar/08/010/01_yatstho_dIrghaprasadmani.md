@@ -6,35 +6,35 @@ title = "Rig Veda 8.10.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *stho* \< *sthaḥ* \< *as*
+- *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dīrghaprasadmani* \< *dīrghaprasadman*
+- *dīrghaprasadmani* ← *dīrghaprasadman*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vādo* \< *vā*
+- *vādo* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vādo* \< *adaḥ* \< *adas*
+- *vādo* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *rocane* \< *rocana*
+- *rocane* ← *rocana*
 - \[noun\], locative, singular, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -42,22 +42,22 @@ title = "Rig Veda 8.10.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ākṛte* \< *ākṛ* \< *√kṛ*
+- *ākṛte* ← *ākṛ* ← *√kṛ*
 - \[verb noun\], locative, singular
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *'ta* \< *atas*
+- *'ta* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
@@ -66,12 +66,12 @@ title = "Rig Veda 8.10.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

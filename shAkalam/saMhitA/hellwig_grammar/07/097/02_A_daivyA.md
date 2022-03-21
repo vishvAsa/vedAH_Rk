@@ -6,27 +6,27 @@ title = "Rig Veda 7.97.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], accusative, plural, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *'vāṃsi* \< *avāṃsi* \< *avas*
+- *'vāṃsi* ← *avāṃsi* ← *avas*
 - \[noun\], accusative, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maha* \< *mahe* \< *mah*
+- *maha* ← *mahe* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 7.97.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -42,43 +42,43 @@ title = "Rig Veda 7.97.2"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *bhavema* \< *bhū*
+- *bhavema* ← *bhū*
 - \[verb\], plural, Present optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣe* \< *mīḍhuṣe* \< *mīḍhvas*
+- *mīﾱhuṣe* ← *mīḍhuṣe* ← *mīḍhvas*
 - \[noun\], dative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *anāgā* \< *anāgāḥ* \< *anāga*
+- *anāgā* ← *anāgāḥ* ← *anāga*
 - \[noun\], nominative, plural, masculine
 - “impeccant; innocent.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dātā* \< *dātṛ*
+- *dātā* ← *dātṛ*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *piteva* \< *pitā* \< *pitṛ*
+- *piteva* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *piteva* \< *iva*
+- *piteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------

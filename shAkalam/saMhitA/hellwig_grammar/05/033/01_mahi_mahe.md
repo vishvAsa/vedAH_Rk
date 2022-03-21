@@ -6,72 +6,72 @@ title = "Rig Veda 5.33.1"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *dīdhye* \< *dhī*
+- *dīdhye* ← *dhī*
 - \[verb\], singular, Present indikative
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *indrāyetthā* \< *indrāya* \< *indra*
+- *indrāyetthā* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyetthā* \< *itthā*
+- *indrāyetthā* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *atavyān* \< *a*
+- *atavyān* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *atavyān* \< *tavyān* \< *tavyas*
+- *atavyān* ← *tavyān* ← *tavyas*
 - \[noun\], nominative, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *vājasātau* \< *vājasāti*
+- *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *stuto* \< *stutaḥ* \< *stu*
+- *stuto* ← *stutaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *samaryaś* \< *samaryaḥ* \< *samarya*
+- *samaryaś* ← *samaryaḥ* ← *samarya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------

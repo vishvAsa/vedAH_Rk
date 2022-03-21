@@ -2,7 +2,7 @@
 title = "Rig Veda 10.3.5"
 
 +++
--   *svanā* \< *svanāḥ* \< *svana*
+-   *svanā* ← *svanāḥ* ← *svana*
 - \[noun\], nominative, plural, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
@@ -10,63 +10,63 @@ title = "Rig Veda 10.3.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhāmāsaḥ* \< *bhāma*
+- *bhāmāsaḥ* ← *bhāma*
 - \[noun\], nominative, plural, masculine
 - “beam.”
 ------------------------------------------------------------------------
-- *pavante* \< *pū*
+- *pavante* ← *pū*
 - \[verb\], plural, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *rocamānasya* \< *ruc*
+- *rocamānasya* ← *ruc*
 - \[verb noun\], genitive, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *sudivaḥ* \< *su*
+- *sudivaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudivaḥ* \< *divaḥ* \< *div*
+- *sudivaḥ* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *jyeṣṭhebhir* \< *jyeṣṭhebhiḥ* \< *jyeṣṭha*
+- *jyeṣṭhebhir* ← *jyeṣṭhebhiḥ* ← *jyeṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tejiṣṭhaiḥ* \< *tejiṣṭha*
+- *tejiṣṭhaiḥ* ← *tejiṣṭha*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *krīḍumadbhir* \< *krīḍumadbhiḥ* \< *krīḍumat*
+- *krīḍumadbhir* ← *krīḍumadbhiḥ* ← *krīḍumat*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *varṣiṣṭhebhir* \< *varṣiṣṭhebhiḥ* \< *varṣiṣṭha*
+- *varṣiṣṭhebhir* ← *varṣiṣṭhebhiḥ* ← *varṣiṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “highest.”
 ------------------------------------------------------------------------
-- *bhānubhir* \< *bhānubhiḥ* \< *bhānu*
+- *bhānubhir* ← *bhānubhiḥ* ← *bhānu*
 - \[noun\], instrumental, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *nakṣati* \< *nakṣ*
+- *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

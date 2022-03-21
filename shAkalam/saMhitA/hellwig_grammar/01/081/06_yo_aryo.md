@@ -2,38 +2,38 @@
 title = "Rig Veda 1.81.6"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *martabhojanam* \< *marta*
+- *martabhojanam* ← *marta*
 - \[noun\], masculine
 - “man.”
 ------------------------------------------------------------------------
-- *martabhojanam* \< *bhojanam* \< *bhojana*
+- *martabhojanam* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *parādadāti* \< *parādā* \< *√dā*
+- *parādadāti* ← *parādā* ← *√dā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śikṣatu* \< *śikṣ*
+- *śikṣatu* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 1.81.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhajā* \< *bhaj*
+- *bhajā* ← *bhaj*
 - \[verb\], singular, Present imperative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
@@ -50,7 +50,7 @@ title = "Rig Veda 1.81.6"
 - \[noun\], nominative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -58,15 +58,15 @@ title = "Rig Veda 1.81.6"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *bhakṣīya* \< *bhakṣ*
+- *bhakṣīya* ← *bhakṣ*
 - \[verb\], singular, Aorist optative
 - “eat; feed.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rādhasaḥ* \< *rādhas*
+- *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

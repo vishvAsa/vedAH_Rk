@@ -2,41 +2,41 @@
 title = "Rig Veda 2.24.15"
 
 +++
--   *brahmaṇaspate* \< *brahmaṇaspati*
+-   *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------
-- *suyamasya* \< *su*
+- *suyamasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamasya* \< *yamasya* \< *yama*
+- *suyamasya* ← *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
 - *viśvahā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vayasvataḥ* \< *vayasvat*
+- *vayasvataḥ* ← *vayasvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vīreṣu* \< *vīra*
+- *vīreṣu* ← *vīra*
 - \[noun\], locative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīrāṃ* \< *vīra*
+- *vīrāṃ* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -44,40 +44,40 @@ title = "Rig Veda 2.24.15"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *pṛṅdhi* \< *pṛc*
+- *pṛṅdhi* ← *pṛc*
 - \[verb\], singular, Present imperative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īśāno* \< *īśānaḥ* \< *īś*
+- *īśāno* ← *īśānaḥ* ← *īś*
 - \[verb noun\], nominative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *veṣi* \< *vī*
+- *veṣi* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------

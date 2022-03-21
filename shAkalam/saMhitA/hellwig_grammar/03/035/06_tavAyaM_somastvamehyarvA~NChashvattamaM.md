@@ -2,55 +2,55 @@
 title = "Rig Veda 3.35.6"
 
 +++
--   *tavāyaṃ* \< *tava* \< *tvad*
+-   *tavāyaṃ* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavāyaṃ* \< *ayam* \< *idam*
+- *tavāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *somas* \< *somaḥ* \< *soma*
+- *somas* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ehy* \< *ehi* \< *e* \< *√i*
+- *ehy* ← *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *chaśvattamaṃ* \< *chaśvattamam* \< *śaśvattama*
+- *chaśvattamaṃ* ← *chaśvattamam* ← *śaśvattama*
 - \[noun\], accusative, singular, masculine
 - “frequent.”
 ------------------------------------------------------------------------
-- *sumanā* \< *sumanāḥ* \< *sumanas*
+- *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *barhiṣy* \< *barhiṣī* \< *barhis*
+- *barhiṣy* ← *barhiṣī* ← *barhis*
 - \[noun\], nominative, dual, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -58,28 +58,28 @@ title = "Rig Veda 3.35.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *niṣadyā* \< *niṣadya* \< *niṣad* \< *√sad*
+- *niṣadyā* ← *niṣadya* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *niṣadyā* \< *ā*
+- *niṣadyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadhiṣvemaṃ* \< *dadhiṣva* \< *dhā*
+- *dadhiṣvemaṃ* ← *dadhiṣva* ← *dhā*
 - \[verb\], singular, Perfect imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dadhiṣvemaṃ* \< *imam* \< *idam*
+- *dadhiṣvemaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *jaṭhara* \< *jaṭhare* \< *jaṭhara*
+- *jaṭhara* ← *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *indum* \< *indu*
+- *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

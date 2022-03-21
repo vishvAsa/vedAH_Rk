@@ -2,7 +2,7 @@
 title = "Rig Veda 6.21.1"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 6.21.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *purutamasya* \< *purutama*
+- *purutamasya* ← *purutama*
 - \[noun\], genitive, singular, masculine
 - “most(a).”
 ------------------------------------------------------------------------
-- *kāror* \< *kāroḥ* \< *kāru*
+- *kāror* ← *kāroḥ* ← *kāru*
 - \[noun\], genitive, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *havyaṃ* \< *havyam* \< *hu*
+- *havyaṃ* ← *havyam* ← *hu*
 - \[verb noun\], accusative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
@@ -30,39 +30,39 @@ title = "Rig Veda 6.21.1"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *havyā* \< *havyāḥ* \< *hu*
+- *havyā* ← *havyāḥ* ← *hu*
 - \[verb noun\], nominative, plural
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *havante* \< *hvā*
+- *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *ratheṣṭhām* \< *ratheṣṭhā*
+- *ratheṣṭhām* ← *ratheṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ajaraṃ* \< *ajaram* \< *ajara*
+- *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *navīyo* \< *navīyaḥ* \< *navīyas*
+- *navīyo* ← *navīyaḥ* ← *navīyas*
 - \[noun\], accusative, singular, neuter
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *rayir* \< *rayiḥ* \< *rayi*
+- *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vibhūtir* \< *vibhūtiḥ* \< *vibhūti*
+- *vibhūtir* ← *vibhūtiḥ* ← *vibhūti*
 - \[noun\], nominative, singular, masculine
 - “plentiful.”
 ------------------------------------------------------------------------
-- *īyate* \< *i*
+- *īyate* ← *i*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

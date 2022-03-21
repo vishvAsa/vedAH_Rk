@@ -2,22 +2,22 @@
 title = "Rig Veda 4.39.6"
 
 +++
--   *dadhikrāvṇo* \< *dadhikrāvṇaḥ* \< *dadhikrāvan*
+-   *dadhikrāvṇo* ← *dadhikrāvṇaḥ* ← *dadhikrāvan*
 - \[noun\], genitive, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *akāriṣaṃ* \< *akāriṣam* \< *kṛ*
+- *akāriṣaṃ* ← *akāriṣam* ← *kṛ*
 - \[verb\], singular, Athematic is aor. (Ind.)
 ------------------------------------------------------------------------
-- *jiṣṇor* \< *jiṣṇoḥ* \< *jiṣṇu*
+- *jiṣṇor* ← *jiṣṇoḥ* ← *jiṣṇu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *aśvasya* \< *aśva*
+- *aśvasya* ← *aśva*
 - \[noun\], genitive, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vājinaḥ* \< *vājin*
+- *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
@@ -25,18 +25,18 @@ title = "Rig Veda 4.39.6"
 - \[noun\], accusative, singular, neuter
 - “fragrant; perfumed; surabhi \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mukhā* \< *mukha*
+- *mukhā* ← *mukha*
 - \[noun\], accusative, plural, neuter
 - “mouth; mouth; mukha; face; aperture; tip; beginning; etc.; mukha;
     battlefront; teaching; head; orifice; mukha \[word\]; beginning;
     mouth; expression; direction; information; surface; best; head;
     quarter; first; end.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,15 +51,15 @@ title = "Rig Veda 4.39.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇa* \< *naḥ* \< *mad*
+- *ṇa* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyūṃṣi* \< *āyus*
+- *āyūṃṣi* ← *āyus*
 - \[noun\], accusative, plural, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *tāriṣat* \< *tṛ*
+- *tāriṣat* ← *tṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

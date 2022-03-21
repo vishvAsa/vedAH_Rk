@@ -2,35 +2,35 @@
 title = "Rig Veda 1.113.6"
 
 +++
--   *kṣatrāya* \< *kṣatra*
+-   *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tva*
+- *tvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *śravase* \< *śravas*
+- *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *tvam* \< *tva*
+- *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *mahīyā* \< *mahīy*
+- *mahīyā* ← *mahīy*
 - \[verb noun\]
 - “rejoice; revel.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *tvam* \< *tva*
+- *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *artham* \< *artha*
+- *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
@@ -41,37 +41,37 @@ title = "Rig Veda 1.113.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tvam* \< *tva*
+- *tvam* ← *tva*
 - \[noun\], accusative, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *ityai* \< *i*
+- *ityai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *visadṛśā* \< *visadṛśa*
+- *visadṛśā* ← *visadṛśa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *jīvitābhipracakṣa* \< *jīvitā* \< *jīvita*
+- *jīvitābhipracakṣa* ← *jīvitā* ← *jīvita*
 - \[noun\], accusative, plural, neuter
 - “life; life; survival; support.”
 ------------------------------------------------------------------------
-- *jīvitābhipracakṣa* \< *abhipracakṣe* \< *abhipracakṣ* \< *√cakṣ*
+- *jīvitābhipracakṣa* ← *abhipracakṣe* ← *abhipracakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ajīgar* \< *ajīgaḥ* \< *jāgṛ*
+- *ajīgar* ← *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

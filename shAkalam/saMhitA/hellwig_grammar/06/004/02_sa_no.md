@@ -2,32 +2,32 @@
 title = "Rig Veda 6.4.2"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vibhāvā* \< *vibhāvan*
+- *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *cakṣaṇir* \< *cakṣaṇiḥ* \< *cakṣaṇi*
+- *cakṣaṇir* ← *cakṣaṇiḥ* ← *cakṣaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -36,52 +36,52 @@ title = "Rig Veda 6.4.2"
 - *vandāru*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vedyaś* \< *vedyaḥ* \< *vid*
+- *vedyaś* ← *vedyaḥ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *cano* \< *canaḥ* \< *canas*
+- *cano* ← *canaḥ* ← *canas*
 - \[noun\], accusative, singular, neuter
 - “delight.”
 ------------------------------------------------------------------------
-- *dhāt* \< *dhā*
+- *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martyeṣūṣarbhud* \< *martyeṣu* \< *martya*
+- *martyeṣūṣarbhud* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *martyeṣūṣarbhud* \< *uṣarbhut* \< *uṣarbudh*
+- *martyeṣūṣarbhud* ← *uṣarbhut* ← *uṣarbudh*
 - \[noun\], nominative, singular, masculine
 - “early rising.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *atithir* \< *atithiḥ* \< *atithi*
+- *atithir* ← *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *jātavedāḥ* \< *jātavedas*
+- *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

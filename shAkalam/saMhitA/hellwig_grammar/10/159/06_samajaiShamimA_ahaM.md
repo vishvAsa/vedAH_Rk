@@ -6,47 +6,47 @@ title = "Rig Veda 10.159.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajaiṣam* \< *ji*
+- *ajaiṣam* ← *ji*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sapatnīr* \< *sapatnīḥ* \< *sapatnī*
+- *sapatnīr* ← *sapatnīḥ* ← *sapatnī*
 - \[noun\], accusative, plural, feminine
 - “sapatnī; rival; sapatnī \[word\]; mistress.”
 ------------------------------------------------------------------------
-- *abhibhūvarī* \< *abhibhūvan*
+- *abhibhūvarī* ← *abhibhūvan*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yathāham* \< *yathā*
+- *yathāham* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāham* \< *aham* \< *mad*
+- *yathāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vīrasya* \< *vīra*
+- *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *virājāni* \< *virāj* \< *√rāj*
+- *virājāni* ← *virāj* ← *√rāj*
 - \[verb\], singular, Present imperative
 - “shine; excel; govern; dominate; glitter; light.”
 ------------------------------------------------------------------------
-- *janasya* \< *jana*
+- *janasya* ← *jana*
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

@@ -6,15 +6,15 @@ title = "Rig Veda 5.43.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vedhasaṃ* \< *vedhasam* \< *vedhas*
+- *vedhasaṃ* ← *vedhasam* ← *vedhas*
 - \[noun\], accusative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭham* \< *nīla*
+- *nīlapṛṣṭham* ← *nīla*
 - \[noun\]
 - “blue; black; black; nīla \[word\]; green.”
 ------------------------------------------------------------------------
-- *nīlapṛṣṭham* \< *pṛṣṭham* \< *pṛṣṭha*
+- *nīlapṛṣṭham* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], accusative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”

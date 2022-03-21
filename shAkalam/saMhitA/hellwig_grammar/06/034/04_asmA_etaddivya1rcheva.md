@@ -2,51 +2,51 @@
 title = "Rig Veda 6.34.4"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *etad* \< *etat* \< *etad*
+- *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *arceva* \< *arcā* \< *arca*
+- *arceva* ← *arcā* ← *arca*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *arceva* \< *iva*
+- *arceva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *māsā* \< *māsa*
+- *māsā* ← *māsa*
 - \[noun\], nominative, dual, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *mimikṣa* \< *mikṣ*
+- *mimikṣa* ← *mikṣ*
 - \[verb\], singular, Perfect indicative
 - “season.”
 ------------------------------------------------------------------------
-- *indre* \< *indra*
+- *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ayāmi* \< *yam*
+- *ayāmi* ← *yam*
 - \[verb\], singular, Aorist passive
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -55,7 +55,7 @@ title = "Rig Veda 6.34.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhanvann* \< *dhanvan*
+- *dhanvann* ← *dhanvan*
 - \[noun\], locative, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
@@ -63,31 +63,31 @@ title = "Rig Veda 6.34.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vāvṛdhur* \< *vāvṛdhuḥ* \< *vṛdh*
+- *vāvṛdhur* ← *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *havanāni* \< *havana*
+- *havanāni* ← *havana*
 - \[noun\], nominative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------

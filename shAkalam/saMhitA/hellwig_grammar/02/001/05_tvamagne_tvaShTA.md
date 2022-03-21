@@ -2,91 +2,91 @@
 title = "Rig Veda 2.1.5"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *su*
+- *suvīryaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *vīryam* \< *vīrya*
+- *suvīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gnāvo* \< *gnāvas* \< *gnāvat*
+- *gnāvo* ← *gnāvas* ← *gnāvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *mitramahaḥ* \< *mitra*
+- *mitramahaḥ* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitramahaḥ* \< *mahas* \< *mahat*
+- *mitramahaḥ* ← *mahas* ← *mahat*
 - \[noun\], vocative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *sajātyam* \< *sajātya*
+- *sajātyam* ← *sajātya*
 - \[noun\], nominative, singular, neuter
 - “relatedness.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āśuhemā* \< *āśuheman*
+- *āśuhemā* ← *āśuheman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rariṣe* \< *rā*
+- *rariṣe* ← *rā*
 - \[verb\], singular, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *svaśvyaṃ* \< *su*
+- *svaśvyaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvyaṃ* \< *aśvyam* \< *aśvya*
+- *svaśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], nominative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *purūvasuḥ* \< *purūvasu*
+- *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------

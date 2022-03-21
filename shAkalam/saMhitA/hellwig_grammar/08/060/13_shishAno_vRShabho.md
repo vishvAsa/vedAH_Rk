@@ -2,41 +2,41 @@
 title = "Rig Veda 8.60.13"
 
 +++
--   *śiśāno* \< *śiśānaḥ* \< *śā*
+-   *śiśāno* ← *śiśānaḥ* ← *śā*
 - \[verb noun\], nominative, singular
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *vṛṣabho* \< *vṛṣabhaḥ* \< *vṛṣabha*
+- *vṛṣabho* ← *vṛṣabhaḥ* ← *vṛṣabha*
 - \[noun\], nominative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yathāgniḥ* \< *yathā*
+- *yathāgniḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāgniḥ* \< *agniḥ* \< *agni*
+- *yathāgniḥ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śṛṅge* \< *śṛṅga*
+- *śṛṅge* ← *śṛṅga*
 - \[noun\], accusative, dual, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *davidhvat* \< *dodhu* \< *√dhū*
+- *davidhvat* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, singular
 - “shake.”
 ------------------------------------------------------------------------
-- *tigmā* \< *tigmāḥ* \< *tigma*
+- *tigmā* ← *tigmāḥ* ← *tigma*
 - \[noun\], nominative, plural, masculine
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *hanavo* \< *hanavaḥ* \< *hanu*
+- *hanavo* ← *hanavaḥ* ← *hanu*
 - \[noun\], nominative, plural, masculine
 - “jaw.”
 ------------------------------------------------------------------------
@@ -44,22 +44,22 @@ title = "Rig Veda 8.60.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pratidhṛṣe* \< *pratidhṛṣ* \< *√dhṛṣ*
+- *pratidhṛṣe* ← *pratidhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sujambhaḥ* \< *su*
+- *sujambhaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujambhaḥ* \< *jambhaḥ* \< *jambha*
+- *sujambhaḥ* ← *jambhaḥ* ← *jambha*
 - \[noun\], nominative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *yahuḥ* \< *yahu*
+- *yahuḥ* ← *yahu*
 - \[noun\], nominative, singular, masculine
 - “offspring.”
 ------------------------------------------------------------------------

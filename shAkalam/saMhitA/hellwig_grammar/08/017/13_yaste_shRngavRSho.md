@@ -2,15 +2,15 @@
 title = "Rig Veda 8.17.13"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śṛṅgavṛṣo* \< *śṛṅgavṛṣaḥ* \< *śṛṅgavṛṣ*
+- *śṛṅgavṛṣo* ← *śṛṅgavṛṣaḥ* ← *śṛṅgavṛṣ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *napāt*
@@ -20,18 +20,18 @@ title = "Rig Veda 8.17.13"
 - *praṇapāt*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kuṇḍapāyyaḥ* \< *kuṇḍapāyya*
+- *kuṇḍapāyyaḥ* ← *kuṇḍapāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dadhra* \< *dadhre* \< *dhṛ*
+- *dadhra* ← *dadhre* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
@@ -40,7 +40,7 @@ title = "Rig Veda 8.17.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”

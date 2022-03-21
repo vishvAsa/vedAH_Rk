@@ -2,7 +2,7 @@
 title = "Rig Veda 3.29.12"
 
 +++
--   *sunirmathā* \< *sunirmatha*
+-   *sunirmathā* ← *sunirmatha*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *nirmathitaḥ* \< *nirmath* \< *√math*

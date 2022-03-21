@@ -2,11 +2,11 @@
 title = "Rig Veda 10.101.4"
 
 +++
--   *sīrā* \< *sīra*
+-   *sīrā* ← *sīra*
 - \[noun\], accusative, plural, neuter
 - “sīra \[word\]; plow.”
 ------------------------------------------------------------------------
-- *yuñjanti* \< *yuj*
+- *yuñjanti* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -14,12 +14,12 @@ title = "Rig Veda 10.101.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *yugā* \< *yuga*
+- *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
@@ -28,7 +28,7 @@ title = "Rig Veda 10.101.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tanvate* \< *tan*
+- *tanvate* ← *tan*
 - \[verb\], plural, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -38,11 +38,11 @@ title = "Rig Veda 10.101.4"
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
 ------------------------------------------------------------------------
-- *dhīrā* \< *dhīrāḥ* \< *dhīra*
+- *dhīrā* ← *dhīrāḥ* ← *dhīra*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

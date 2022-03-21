@@ -2,19 +2,19 @@
 title = "Rig Veda 5.70.3"
 
 +++
--   *pātaṃ* \< *pātam* \< *pā*
+-   *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudra*
+- *rudrā* ← *rudra*
 - \[noun\], vocative, dual, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *pāyubhir* \< *pāyubhiḥ* \< *pāyu*
+- *pāyubhir* ← *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
@@ -22,25 +22,25 @@ title = "Rig Veda 5.70.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *trāyethāṃ* \< *trāyethām* \< *trā*
+- *trāyethāṃ* ← *trāyethām* ← *trā*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *sutrātrā* \< *su*
+- *sutrātrā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutrātrā* \< *trātrā* \< *trātra*
+- *sutrātrā* ← *trātrā* ← *trātra*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *turyāma* \< *tur*
+- *turyāma* ← *tur*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *tanūbhiḥ* \< *tanū*
+- *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------

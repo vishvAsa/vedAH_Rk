@@ -6,11 +6,11 @@ title = "Rig Veda 8.45.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rambhaṃ* \< *rambham* \< *rambha*
+- *rambhaṃ* ← *rambham* ← *rambha*
 - \[noun\], accusative, singular, masculine
 - “Rambha.”
 ------------------------------------------------------------------------
@@ -18,32 +18,32 @@ title = "Rig Veda 8.45.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jivrayo* \< *jivrayaḥ* \< *jivri*
+- *jivrayo* ← *jivrayaḥ* ← *jivri*
 - \[noun\], nominative, plural, masculine
 - “old.”
 ------------------------------------------------------------------------
-- *rarabhmā* \< *rarabhma* \< *rabh*
+- *rarabhmā* ← *rarabhma* ← *rabh*
 - \[verb\], plural, Perfect indicative
 - “clasp.”
 ------------------------------------------------------------------------
-- *śavasas* \< *śavasaḥ* \< *śavas*
+- *śavasas* ← *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pate* \< *pati*
+- *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *uśmasi* \< *vaś*
+- *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sadhastha* \< *sadhasthe* \< *sadhastha*
+- *sadhastha* ← *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------

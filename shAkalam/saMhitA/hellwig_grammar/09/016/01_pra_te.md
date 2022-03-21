@@ -6,18 +6,18 @@ title = "Rig Veda 9.16.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sotāra* \< *sotāraḥ* \< *sotṛ*
+- *sotāra* ← *sotāraḥ* ← *sotṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *oṇyo* \< *oṇyoḥ* \< *oṇi*
+- *oṇyo* ← *oṇyoḥ* ← *oṇi*
 - \[noun\], locative, dual, masculine
 - “arm.”
 ------------------------------------------------------------------------
-- *rasam* \< *rasa*
+- *rasam* ← *rasa*
 - \[noun\], accusative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -25,17 +25,17 @@ title = "Rig Veda 9.16.1"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *ghṛṣvaye* \< *ghṛṣvi*
+- *ghṛṣvaye* ← *ghṛṣvi*
 - \[noun\], dative, singular, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *sargo* \< *sargaḥ* \< *sarga*
+- *sargo* ← *sargaḥ* ← *sarga*
 - \[noun\], nominative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
@@ -43,10 +43,10 @@ title = "Rig Veda 9.16.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *takty* \< *takti* \< *tak*
+- *takty* ← *takti* ← *tak*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *etaśaḥ* \< *etaśa*
+- *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------

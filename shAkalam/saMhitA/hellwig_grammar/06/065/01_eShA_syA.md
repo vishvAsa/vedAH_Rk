@@ -2,60 +2,60 @@
 title = "Rig Veda 6.65.1"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divojāḥ* \< *divojā*
+- *divojāḥ* ← *divojā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *kṣitīr* \< *kṣitīḥ* \< *kṣiti*
+- *kṣitīr* ← *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *ucchantī* \< *vas*
+- *ucchantī* ← *vas*
 - \[verb noun\], nominative, singular
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], accusative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *ajīgaḥ* \< *jāgṛ*
+- *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *ruśatā* \< *ruśat*
+- *ruśatā* ← *ruśat*
 - \[noun\], instrumental, singular, masculine
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *rāmyāsv* \< *rāmyāsu* \< *rāmyā*
+- *rāmyāsv* ← *rāmyāsu* ← *rāmyā*
 - \[noun\], locative, plural, feminine
 - “night; night.”
 ------------------------------------------------------------------------
-- *ajñāyi* \< *jñā*
+- *ajñāyi* ← *jñā*
 - \[verb\], singular, Aorist passive
 - “know; diagnose; perceive; know; come to know; notice; determine;
     think of; find; learn; perceive; identify; recognize; understand;
@@ -65,16 +65,16 @@ title = "Rig Veda 6.65.1"
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *tamasaś* \< *tamasaḥ* \< *tamas*
+- *tamasaś* ← *tamasaḥ* ← *tamas*
 - \[noun\], genitive, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *aktūn* \< *aktu*
+- *aktūn* ← *aktu*
 - \[noun\], accusative, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------

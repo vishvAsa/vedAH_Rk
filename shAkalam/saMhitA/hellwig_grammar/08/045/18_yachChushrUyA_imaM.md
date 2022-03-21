@@ -2,26 +2,26 @@
 title = "Rig Veda 8.45.18"
 
 +++
--   *yacchuśrūyā* \< *yat*
+-   *yacchuśrūyā* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchuśrūyā* \< *śuśrūyāḥ* \< *śru*
+- *yacchuśrūyā* ← *śuśrūyāḥ* ← *śru*
 - \[verb\], singular, Perfect optative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *durmarṣaṃ* \< *durmarṣam* \< *durmarṣa*
+- *durmarṣaṃ* ← *durmarṣam* ← *durmarṣa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *cakriyā* \< *cakriyāḥ* \< *kṛ*
+- *cakriyā* ← *cakriyāḥ* ← *kṛ*
 - \[verb\], singular, Perfect optative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -36,22 +36,22 @@ title = "Rig Veda 8.45.18"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bhaver* \< *bhaveḥ* \< *bhū*
+- *bhaver* ← *bhaveḥ* ← *bhū*
 - \[verb\], singular, Present optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *āpir* \< *āpiḥ* \< *āpi*
+- *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *antamaḥ* \< *antama*
+- *antamaḥ* ← *antama*
 - \[noun\], nominative, singular, masculine
 - “intimate; bosom(a).”
 ------------------------------------------------------------------------

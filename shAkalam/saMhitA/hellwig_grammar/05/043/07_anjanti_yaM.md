@@ -2,11 +2,11 @@
 title = "Rig Veda 5.43.7"
 
 +++
--   *añjanti* \< *añj*
+-   *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

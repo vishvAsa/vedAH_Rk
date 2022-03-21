@@ -5,15 +5,15 @@ title = "Rig Veda 6.47.6"
 -   *dhṛṣat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 6.47.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 6.47.6"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *samare* \< *samara*
+- *samare* ← *samara*
 - \[noun\], locative, singular, neuter
 - “battle; fight; Samara; war; Samara.”
 ------------------------------------------------------------------------
-- *vasūnām* \< *vasu*
+- *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *mādhyandine* \< *mādhyaṃdina*
+- *mādhyandine* ← *mādhyaṃdina*
 - \[noun\], locative, singular, neuter
 - “midday.”
 ------------------------------------------------------------------------
-- *savana* \< *savane* \< *savana*
+- *savana* ← *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
@@ -51,15 +51,15 @@ title = "Rig Veda 6.47.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṣasva* \< *vṛṣ*
+- *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *rayisthāno* \< *rayi*
+- *rayisthāno* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayisthāno* \< *sthānaḥ* \< *sthāna*
+- *rayisthāno* ← *sthānaḥ* ← *sthāna*
 - \[noun\], nominative, singular, masculine
 - “location; body part; social station; temple; seat; standing; sthāna
     \[word\]; region; stay; chapter; stable; substitution; passage;
@@ -67,15 +67,15 @@ title = "Rig Veda 6.47.6"
     branch; home; post; topographic point; floor; situation; situation;
     circumstance; occurrence; duration; āśaya; sthaṇḍila; agency.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *asmāsu* \< *mad*
+- *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

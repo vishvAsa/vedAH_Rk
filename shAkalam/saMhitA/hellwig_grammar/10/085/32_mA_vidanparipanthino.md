@@ -6,35 +6,35 @@ title = "Rig Veda 10.85.32"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vidan* \< *vid*
+- *vidan* ← *vid*
 - \[verb\], plural, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *paripanthino* \< *paripanthinaḥ* \< *paripanthin*
+- *paripanthino* ← *paripanthinaḥ* ← *paripanthin*
 - \[noun\], nominative, plural, masculine
 - “unfriendly; clogging; paripanthin \[word\].”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āsīdanti* \< *āsad* \< *√sad*
+- *āsīdanti* ← *āsad* ← *√sad*
 - \[verb\], plural, Present indikative
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *dampatī* \< *dampati*
+- *dampatī* ← *dampati*
 - \[noun\], accusative, dual, masculine
 - “couple.”
 ------------------------------------------------------------------------
-- *sugebhir* \< *sugebhiḥ* \< *suga*
+- *sugebhir* ← *sugebhiḥ* ← *suga*
 - \[noun\], instrumental, plural, masculine
 - “clear.”
 ------------------------------------------------------------------------
-- *durgam* \< *durga*
+- *durgam* ← *durga*
 - \[noun\], accusative, singular, neuter
 - “fortress; stronghold; difficulty; danger; passage.”
 ------------------------------------------------------------------------
-- *atītām* \< *atī* \< *√i*
+- *atītām* ← *atī* ← *√i*
 - \[verb\], dual, Present imperative
 - “elapse; overcome; transgress; die; fail; pierce.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 10.85.32"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *drāntv* \< *drāntu* \< *drā*
+- *drāntv* ← *drāntu* ← *drā*
 - \[verb\], plural, Present imperative
 - “run; run.”
 ------------------------------------------------------------------------
-- *arātayaḥ* \< *arāti*
+- *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------

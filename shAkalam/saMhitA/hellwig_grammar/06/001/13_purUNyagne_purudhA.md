@@ -2,11 +2,11 @@
 title = "Rig Veda 6.1.13"
 
 +++
--   *purūṇy* \< *purūṇi* \< *puru*
+-   *purūṇy* ← *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -19,7 +19,7 @@ title = "Rig Veda 6.1.13"
 - *tvāyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
@@ -27,23 +27,23 @@ title = "Rig Veda 6.1.13"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *vasutā* \< *vasu*
+- *vasutā* ← *vasu*
 - \[noun\]
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vasutā* \< *tā*
+- *vasutā* ← *tā*
 - \[noun\], instrumental, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aśyām* \< *aś*
+- *aśyām* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
@@ -51,24 +51,24 @@ title = "Rig Veda 6.1.13"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *puruvāra* \< *puru*
+- *puruvāra* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāra* \< *vāra*
+- *puruvāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *santy* \< *santi* \< *as*
+- *santy* ← *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -78,15 +78,15 @@ title = "Rig Veda 6.1.13"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *rājani* \< *rājan*
+- *rājani* ← *rājan*
 - \[noun\], locative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------

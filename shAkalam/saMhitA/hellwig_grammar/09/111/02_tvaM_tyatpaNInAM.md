@@ -2,19 +2,19 @@
 title = "Rig Veda 9.111.2"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tyat* \< *tyad* \< *tya*
+- *tyat* ← *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *paṇīnāṃ* \< *paṇīnām* \< *paṇi*
+- *paṇīnāṃ* ← *paṇīnām* ← *paṇi*
 - \[noun\], genitive, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *vido* \< *vidaḥ* \< *vid*
+- *vido* ← *vidaḥ* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 9.111.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mātṛbhir* \< *mātṛbhiḥ* \< *mātṛ*
+- *mātṛbhir* ← *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *marjayasi* \< *marjay* \< *√mṛj*
+- *marjayasi* ← *marjay* ← *√mṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sva* \< *sve* \< *sva*
+- *sva* ← *sve* ← *sva*
 - \[noun\], locative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
@@ -43,23 +43,23 @@ title = "Rig Veda 9.111.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dama* \< *dame* \< *dama*
+- *dama* ← *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *parāvato* \< *parāvataḥ* \< *parāvat*
+- *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
@@ -67,62 +67,62 @@ title = "Rig Veda 9.111.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], nominative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *raṇanti* \< *ran*
+- *raṇanti* ← *ran*
 - \[verb\], plural, Present indikative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *dhītayaḥ* \< *dhīti*
+- *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *tridhātubhir* \< *tri*
+- *tridhātubhir* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tridhātubhir* \< *dhātubhiḥ* \< *dhātu*
+- *tridhātubhir* ← *dhātubhiḥ* ← *dhātu*
 - \[noun\], instrumental, plural, feminine
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *aruṣībhir* \< *aruṣībhiḥ* \< *aruṣa*
+- *aruṣībhir* ← *aruṣībhiḥ* ← *aruṣa*
 - \[noun\], instrumental, plural, feminine
 - “red; red.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *rocamāno* \< *rocamānaḥ* \< *ruc*
+- *rocamāno* ← *rocamānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

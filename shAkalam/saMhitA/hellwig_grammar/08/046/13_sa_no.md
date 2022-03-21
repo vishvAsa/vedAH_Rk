@@ -2,44 +2,44 @@
 title = "Rig Veda 8.46.13"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājeṣv* \< *vājeṣu* \< *vāja*
+- *vājeṣv* ← *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *avitā* \< *avitṛ*
+- *avitā* ← *avitṛ*
 - \[noun\], nominative, singular, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *purūvasuḥ* \< *purūvasu*
+- *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *purasthātā* \< *pura*
+- *purasthātā* ← *pura*
 - \[noun\], neuter
 - “town; pura \[word\]; stronghold.”
 ------------------------------------------------------------------------
-- *purasthātā* \< *sthātā* \< *sthātṛ*
+- *purasthātā* ← *sthātā* ← *sthātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -6,40 +6,40 @@ title = "Rig Veda 3.1.18"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martyānāṃ* \< *martyānām* \< *martya*
+- *martyānāṃ* ← *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sasāda* \< *sad*
+- *sasāda* ← *sad*
 - \[verb\], singular, Perfect indicative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *vidathāni* \< *vidatha*
+- *vidathāni* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *sādhan* \< *sādh*
+- *sādhan* ← *sādh*
 - \[verb noun\], nominative, singular
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *ghṛtapratīka* \< *ghṛta*
+- *ghṛtapratīka* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapratīka* \< *pratīkaḥ* \< *pratīka*
+- *ghṛtapratīka* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
@@ -47,30 +47,30 @@ title = "Rig Veda 3.1.18"
 - \[adverb\]
 - “wide; widely.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *adyaud* \< *adyaut* \< *dyut*
+- *adyaud* ← *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *kāvyāni* \< *kāvya*
+- *kāvyāni* ← *kāvya*
 - \[noun\], accusative, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

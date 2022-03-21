@@ -6,7 +6,7 @@ title = "Rig Veda 1.120.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pṛcchāmi* \< *pracch*
+- *pṛcchāmi* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 1.120.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vaṣaṭkṛtasyādbhutasya* \< *vaṣaṭkṛtasya* \< *vaṣaṭkṛ* \< *√kṛ*
+- *vaṣaṭkṛtasyādbhutasya* ← *vaṣaṭkṛtasya* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *vaṣaṭkṛtasyādbhutasya* \< *adbhutasya* \< *adbhuta*
+- *vaṣaṭkṛtasyādbhutasya* ← *adbhutasya* ← *adbhuta*
 - \[noun\], genitive, singular, masculine
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *pātaṃ* \< *pātam* \< *pā*
+- *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -42,10 +42,10 @@ title = "Rig Veda 1.120.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sahyaso* \< *sahyasaḥ* \< *sahyas*
+- *sahyaso* ← *sahyasaḥ* ← *sahyas*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -53,10 +53,10 @@ title = "Rig Veda 1.120.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rabhyaso* \< *rabhyasaḥ* \< *rabhyas*
+- *rabhyaso* ← *rabhyasaḥ* ← *rabhyas*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

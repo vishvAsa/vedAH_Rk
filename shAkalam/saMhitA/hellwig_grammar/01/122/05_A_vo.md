@@ -6,79 +6,79 @@ title = "Rig Veda 1.122.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ruvaṇyum* \< *ruvaṇyu*
+- *ruvaṇyum* ← *ruvaṇyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *auśijo* \< *auśijaḥ* \< *auśija*
+- *auśijo* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *huvadhyai* \< *hvā*
+- *huvadhyai* ← *hvā*
 - \[verb noun\]
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ghoṣeva* \< *ghoṣa*
+- *ghoṣeva* ← *ghoṣa*
 - \[noun\], nominative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *ghoṣeva* \< *iva*
+- *ghoṣeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śaṃsam* \< *śaṃsa*
+- *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *arjunasya* \< *arjuna*
+- *arjunasya* ← *arjuna*
 - \[noun\], genitive, singular, masculine
 - “Arjuna; Terminalia arjuna (Roxb.) Wight et Arn.; Arjuna; arjuna
     \[word\].”
 ------------------------------------------------------------------------
-- *naṃśe* \< *naṃśa*
+- *naṃśe* ← *naṃśa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pūṣṇe* \< *pūṣan*
+- *pūṣṇe* ← *pūṣan*
 - \[noun\], dative, singular
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *dāvana* \< *dāvane* \< *dā*
+- *dāvana* ← *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *voceya* \< *vac*
+- *voceya* ← *vac*
 - \[verb\], singular, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vasutātim* \< *vasutāti*
+- *vasutātim* ← *vasutāti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

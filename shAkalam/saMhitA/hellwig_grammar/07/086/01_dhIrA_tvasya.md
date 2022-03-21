@@ -2,23 +2,23 @@
 title = "Rig Veda 7.86.1"
 
 +++
--   *dhīrā* \< *dhīra*
+-   *dhīrā* ← *dhīra*
 - \[noun\], nominative, plural, neuter
 - “calm; composed; brave.”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
-- *janūṃṣi* \< *janus*
+- *janūṃṣi* ← *janus*
 - \[noun\], nominative, plural, neuter
 - “birth.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 7.86.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tastambha* \< *stambh*
+- *tastambha* ← *stambh*
 - \[verb\], singular, Perfect indicative
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
@@ -39,11 +39,11 @@ title = "Rig Veda 7.86.1"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], accusative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -51,19 +51,19 @@ title = "Rig Veda 7.86.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣvaṃ* \< *ṛṣvam* \< *ṛṣva*
+- *ṛṣvaṃ* ← *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *nunude* \< *nud*
+- *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *bṛhantaṃ* \< *bṛhantam* \< *bṛhat*
+- *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
@@ -72,11 +72,11 @@ title = "Rig Veda 7.86.1"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *nakṣatram* \< *nakṣatra*
+- *nakṣatram* ← *nakṣatra*
 - \[noun\], accusative, singular, masculine
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
 ------------------------------------------------------------------------
-- *paprathac* \< *paprathat* \< *prath*
+- *paprathac* ← *paprathat* ← *prath*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 7.86.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhūman*
+- *bhūma* ← *bhūman*
 - \[noun\], accusative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------

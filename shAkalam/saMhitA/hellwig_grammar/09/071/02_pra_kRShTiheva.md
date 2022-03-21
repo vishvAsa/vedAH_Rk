@@ -6,35 +6,35 @@ title = "Rig Veda 9.71.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kṛṣṭiheva* \< *kṛṣṭi*
+- *kṛṣṭiheva* ← *kṛṣṭi*
 - \[noun\], feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *kṛṣṭiheva* \< *hā* \< *han*
+- *kṛṣṭiheva* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *kṛṣṭiheva* \< *iva*
+- *kṛṣṭiheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śūṣa* \< *śūṣaḥ* \< *śūṣa*
+- *śūṣa* ← *śūṣaḥ* ← *śūṣa*
 - \[noun\], nominative, singular, masculine
 - “loud; brave.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *roruvad* \< *roruvat* \< *roro* \< *√ru*
+- *roruvad* ← *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *asuryaṃ* \< *asuryam* \< *asurya*
+- *asuryaṃ* ← *asuryam* ← *asurya*
 - \[noun\], accusative, singular, masculine
 - “āsura.”
 ------------------------------------------------------------------------
-- *varṇaṃ* \< *varṇam* \< *varṇa*
+- *varṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
@@ -43,47 +43,47 @@ title = "Rig Veda 9.71.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *riṇīte* \< *ri*
+- *riṇīte* ← *ri*
 - \[verb\], singular, Present indikative
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jahāti* \< *hā*
+- *jahāti* ← *hā*
 - \[verb\], singular, Present indikative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *vavrim* \< *vavri*
+- *vavrim* ← *vavri*
 - \[noun\], accusative, singular, masculine
 - “covering; lurking place.”
 ------------------------------------------------------------------------
-- *pitur* \< *pituḥ* \< *pitu*
+- *pitur* ← *pituḥ* ← *pitu*
 - \[noun\], nominative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *upaprutaṃ* \< *upaprutam* \< *upaprut*
+- *upaprutaṃ* ← *upaprutam* ← *upaprut*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -94,11 +94,11 @@ title = "Rig Veda 9.71.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nirṇijaṃ* \< *nirṇijam* \< *nirṇij*
+- *nirṇijaṃ* ← *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------

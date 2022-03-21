@@ -2,19 +2,19 @@
 title = "Rig Veda 10.61.21"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *gāva* \< *gāvaḥ* \< *go*
+- *gāva* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *upamātiṃ* \< *upamātim* \< *upamāti*
+- *upamātiṃ* ← *upamātim* ← *upamāti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *kanāyā* \< *kanāyāḥ* \< *kanā*
+- *kanāyā* ← *kanāyāḥ* ← *kanā*
 - \[noun\], genitive, singular, feminine
 - “girl.”
 ------------------------------------------------------------------------
@@ -22,10 +22,10 @@ title = "Rig Veda 10.61.21"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *śvāntasya* \< *śvānta*
+- *śvāntasya* ← *śvānta*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -33,47 +33,47 @@ title = "Rig Veda 10.61.21"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *pareyuḥ* \< *pare* \< *√i*
+- *pareyuḥ* ← *pare* ← *√i*
 - \[verb\], plural, Present optative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sudraviṇo* \< *su*
+- *sudraviṇo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudraviṇo* \< *draviṇaḥ* \< *draviṇas*
+- *sudraviṇo* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], vocative, singular, masculine
 - “property.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yāḍ* \< *yāṭ* \< *yaj*
+- *yāḍ* ← *yāṭ* ← *yaj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *āśvaghnasya* \< *āśvaghna*
+- *āśvaghnasya* ← *āśvaghna*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *sūnṛtābhiḥ* \< *sūnṛtā*
+- *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------

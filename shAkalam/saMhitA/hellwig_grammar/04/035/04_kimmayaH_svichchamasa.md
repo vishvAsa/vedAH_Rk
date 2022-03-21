@@ -2,73 +2,73 @@
 title = "Rig Veda 4.35.4"
 
 +++
--   *kimmayaḥ* \< *kimmaya*
+-   *kimmayaḥ* ← *kimmaya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *svic* \< *svid*
+- *svic* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *camasa* \< *camasaḥ* \< *camasa*
+- *camasa* ← *camasaḥ* ← *camasa*
 - \[noun\], nominative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *eṣa* \< *eṣaḥ* \< *etad*
+- *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kāvyena* \< *kāvya*
+- *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
-- *caturo* \< *caturaḥ* \< *catur*
+- *caturo* ← *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *vicakra* \< *vikṛ* \< *√kṛ*
+- *vicakra* ← *vikṛ* ← *√kṛ*
 - \[verb\], plural, Perfect indicative
 - “break up.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *sunudhvaṃ* \< *sunudhvam* \< *su*
+- *sunudhvaṃ* ← *sunudhvam* ← *su*
 - \[verb\], plural, Present imperative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *savanam* \< *savana*
+- *savanam* ← *savana*
 - \[noun\], accusative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *madhunaḥ* \< *madhu*
+- *madhunaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *somyasya* \< *somya*
+- *somyasya* ← *somya*
 - \[noun\], genitive, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.28.10"
 
 +++
--   *suparṇa* \< *suparṇaḥ* \< *suparṇa*
+-   *suparṇa* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.28.10"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *nakham* \< *nakha*
+- *nakham* ← *nakha*
 - \[noun\], accusative, singular, masculine
 - “fingernail; claw; nakha \[word\]; toenail.”
 ------------------------------------------------------------------------
@@ -18,15 +18,15 @@ title = "Rig Veda 10.28.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *siṣāyāvaruddhaḥ* \< *siṣāya* \< *sā*
+- *siṣāyāvaruddhaḥ* ← *siṣāya* ← *sā*
 - \[verb\], singular, Perfect indicative
 - “tie.”
 ------------------------------------------------------------------------
-- *siṣāyāvaruddhaḥ* \< *avaruddhaḥ* \< *avarudh* \< *√rudh*
+- *siṣāyāvaruddhaḥ* ← *avaruddhaḥ* ← *avarudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “obtain; obstruct; imprison.”
 ------------------------------------------------------------------------
-- *paripadaṃ* \< *paripadam* \< *paripad*
+- *paripadaṃ* ← *paripadam* ← *paripad*
 - \[noun\], accusative, singular, feminine
 - “trap.”
 ------------------------------------------------------------------------
@@ -34,24 +34,24 @@ title = "Rig Veda 10.28.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *siṃhaḥ* \< *siṃha*
+- *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
-- *niruddhaś* \< *niruddhaḥ* \< *nirudh* \< *√rudh*
+- *niruddhaś* ← *niruddhaḥ* ← *nirudh* ← *√rudh*
 - \[verb noun\], nominative, singular
 - “close; insert; seal; obstruct; fill into; enclose; put; stop;
     suppress; puṭ; banish; impede; envelop; capture.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *mahiṣas* \< *mahiṣaḥ* \< *mahiṣa*
+- *mahiṣas* ← *mahiṣaḥ* ← *mahiṣa*
 - \[noun\], nominative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *tarṣyāvān* \< *tarṣyāvat*
+- *tarṣyāvān* ← *tarṣyāvat*
 - \[noun\], nominative, singular, masculine
 - “thirsty.”
 ------------------------------------------------------------------------
@@ -59,21 +59,21 @@ title = "Rig Veda 10.28.10"
 - \[noun\], nominative, singular, feminine
 - “monitor; Godhā; godhā \[word\]; chord.”
 ------------------------------------------------------------------------
-- *tasmā* \< *tasmai* \< *tad*
+- *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ayathaṃ* \< *ayatham* \< *ayatha*
+- *ayathaṃ* ← *ayatham* ← *ayatha*
 - \[noun\], accusative, singular, neuter
 - “animal foot.”
 ------------------------------------------------------------------------
-- *karṣad* \< *karṣat* \< *kṛṣ*
+- *karṣad* ← *karṣat* ← *kṛṣ*
 - \[verb\], singular, Imperfect
 - “plow; drag; pull; dry; irritate.”
 ------------------------------------------------------------------------
-- *etat* \< *etad*
+- *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------

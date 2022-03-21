@@ -2,27 +2,27 @@
 title = "Rig Veda 7.100.6"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viṣṇo* \< *viṣṇu*
+- *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *paricakṣyam* \< *paricakṣ* \< *√cakṣ*
+- *paricakṣyam* ← *paricakṣ* ← *√cakṣ*
 - \[verb noun\], nominative, singular
 - “explain; criticize.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -33,18 +33,18 @@ title = "Rig Veda 7.100.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vavakṣe* \< *vakṣ*
+- *vavakṣe* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *śipiviṣṭo* \< *śipiviṣṭaḥ* \< *śipiviṣṭa*
+- *śipiviṣṭo* ← *śipiviṣṭaḥ* ← *śipiviṣṭa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -53,11 +53,11 @@ title = "Rig Veda 7.100.6"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *varpo* \< *varpaḥ* \< *varpas*
+- *varpo* ← *varpaḥ* ← *varpas*
 - \[noun\], accusative, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -65,35 +65,35 @@ title = "Rig Veda 7.100.6"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *gūha* \< *guh*
+- *gūha* ← *guh*
 - \[verb\], singular, Present imperative
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *etad* \< *etat* \< *etad*
+- *etad* ← *etat* ← *etad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *anyarūpaḥ* \< *anya*
+- *anyarūpaḥ* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *anyarūpaḥ* \< *rūpaḥ* \< *rūpa*
+- *anyarūpaḥ* ← *rūpaḥ* ← *rūpa*
 - \[noun\], nominative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *samithe* \< *samitha*
+- *samithe* ← *samitha*
 - \[noun\], locative, singular, masculine
 - “battle; conflict.”
 ------------------------------------------------------------------------
-- *babhūtha* \< *bhū*
+- *babhūtha* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -2,36 +2,36 @@
 title = "Rig Veda 1.129.2"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *kāsu* \< *ka*
+- *kāsu* ← *ka*
 - \[noun\], locative, plural, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dakṣāyya* \< *dakṣāyyaḥ* \< *dakṣāyya*
+- *dakṣāyya* ← *dakṣāyyaḥ* ← *dakṣāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -39,85 +39,85 @@ title = "Rig Veda 1.129.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bharahūtaye* \< *bhara*
+- *bharahūtaye* ← *bhara*
 - \[noun\], masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *bharahūtaye* \< *hūtaye* \< *hūti*
+- *bharahūtaye* ← *hūtaye* ← *hūti*
 - \[noun\], dative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pratūrtaye* \< *pratūrti*
+- *pratūrtaye* ← *pratūrti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śūraiḥ* \< *śūra*
+- *śūraiḥ* ← *śūra*
 - \[noun\], instrumental, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *sanitā* \< *san*
+- *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viprair* \< *vipraiḥ* \< *vipra*
+- *viprair* ← *vipraiḥ* ← *vipra*
 - \[noun\], instrumental, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *tarutā* \< *tarutṛ*
+- *tarutā* ← *tarutṛ*
 - \[noun\], nominative, singular, masculine
 - “tarutṛ \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īśānāsa* \< *īśānāsaḥ* \< *īś*
+- *īśānāsa* ← *īśānāsaḥ* ← *īś*
 - \[verb noun\], nominative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *iradhanta* \< *iradh* \< *√rādh*
+- *iradhanta* ← *iradh* ← *√rādh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *pṛkṣam* \< *pṛkṣa*
+- *pṛkṣam* ← *pṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “strong; full of life.”
 ------------------------------------------------------------------------
-- *atyaṃ* \< *atyam* \< *atya*
+- *atyaṃ* ← *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -125,7 +125,7 @@ title = "Rig Veda 1.129.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------

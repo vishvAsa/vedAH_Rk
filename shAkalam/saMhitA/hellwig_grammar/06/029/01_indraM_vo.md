@@ -2,43 +2,43 @@
 title = "Rig Veda 6.29.1"
 
 +++
--   *indraṃ* \< *indram* \< *indra*
+-   *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *sepur* \< *sepuḥ* \< *sap*
+- *sepur* ← *sepuḥ* ← *sap*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *yantaḥ* \< *i*
+- *yantaḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sumataye* \< *sumati*
+- *sumataye* ← *sumati*
 - \[noun\], dative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *cakānāḥ* \< *kan*
+- *cakānāḥ* ← *kan*
 - \[verb noun\], nominative, plural
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -46,23 +46,23 @@ title = "Rig Veda 6.29.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dātā* \< *dā*
+- *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vajrahasto* \< *vajrahastaḥ* \< *vajrahasta*
+- *vajrahasto* ← *vajrahastaḥ* ← *vajrahasta*
 - \[noun\], nominative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mahām* \< *mahat*
+- *mahām* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -72,15 +72,15 @@ title = "Rig Veda 6.29.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *raṇvam* \< *raṇva*
+- *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yajadhvam* \< *yaj*
+- *yajadhvam* ← *yaj*
 - \[verb\], plural, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

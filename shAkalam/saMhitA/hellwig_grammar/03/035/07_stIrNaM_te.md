@@ -2,19 +2,19 @@
 title = "Rig Veda 3.35.7"
 
 +++
--   *stīrṇaṃ* \< *stīrṇam* \< *stṛ*
+-   *stīrṇaṃ* ← *stīrṇam* ← *stṛ*
 - \[verb noun\], nominative, singular
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *barhiḥ* \< *barhis*
+- *barhiḥ* ← *barhis*
 - \[noun\], nominative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *suta* \< *sutaḥ* \< *su*
+- *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 3.35.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *kṛtā* \< *kṛtāḥ* \< *kṛ*
+- *kṛtā* ← *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,58 +38,58 @@ title = "Rig Veda 3.35.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dhānā* \< *dhānāḥ* \< *dhānā*
+- *dhānā* ← *dhānāḥ* ← *dhānā*
 - \[noun\], nominative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
 ------------------------------------------------------------------------
-- *attave* \< *ad*
+- *attave* ← *ad*
 - \[verb noun\]
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *haribhyām* \< *hari*
+- *haribhyām* ← *hari*
 - \[noun\], dative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *tadokase* \< *tad*
+- *tadokase* ← *tad*
 - \[noun\]
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tadokase* \< *okase* \< *oka*
+- *tadokase* ← *okase* ← *oka*
 - \[noun\], dative, singular, masculine
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *puruśākāya* \< *puru*
+- *puruśākāya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruśākāya* \< *śākāya* \< *śāka*
+- *puruśākāya* ← *śākāya* ← *śāka*
 - \[noun\], dative, singular, masculine
 - “power.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *marutvate* \< *marutvant*
+- *marutvate* ← *marutvant*
 - \[noun\], dative, singular, masculine
 - “Indra; marutvant \[word\].”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rātā* \< *rā*
+- *rātā* ← *rā*
 - \[verb noun\], nominative, plural
 - “give; impart.”
 ------------------------------------------------------------------------
-- *havīṃṣi* \< *havis*
+- *havīṃṣi* ← *havis*
 - \[noun\], nominative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------

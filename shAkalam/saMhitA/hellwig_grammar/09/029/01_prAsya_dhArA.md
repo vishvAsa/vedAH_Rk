@@ -2,15 +2,15 @@
 title = "Rig Veda 9.29.1"
 
 +++
--   *prāsya* \< *pra*
+-   *prāsya* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāsya* \< *asya* \< *idam*
+- *prāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhārā* \< *dhārāḥ* \< *dhārā*
+- *dhārā* ← *dhārāḥ* ← *dhārā*
 - \[noun\], nominative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------

@@ -2,30 +2,30 @@
 title = "Rig Veda 5.73.8"
 
 +++
--   *madhva* \< *madhvaḥ* \< *madhu*
+-   *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *madhūyuvā* \< *madhūyu*
+- *madhūyuvā* ← *madhūyu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *rudrā* \< *rudra*
+- *rudrā* ← *rudra*
 - \[noun\], vocative, dual, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *pipyuṣī* \< *pyā*
+- *pipyuṣī* ← *pyā*
 - \[verb noun\], nominative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
@@ -33,33 +33,33 @@ title = "Rig Veda 5.73.8"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samudrāti* \< *samudrā* \< *samudra*
+- *samudrāti* ← *samudrā* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *samudrāti* \< *ati*
+- *samudrāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *parṣathaḥ* \< *pṛ*
+- *parṣathaḥ* ← *pṛ*
 - \[verb\], dual, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *pakvāḥ* \< *pakva*
+- *pakvāḥ* ← *pakva*
 - \[noun\], accusative, plural, feminine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *bharanta* \< *bhṛ*
+- *bharanta* ← *bhṛ*
 - \[verb\], plural, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------

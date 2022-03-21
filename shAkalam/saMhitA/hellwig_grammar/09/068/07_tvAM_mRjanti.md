@@ -2,22 +2,22 @@
 title = "Rig Veda 9.68.7"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *yoṣaṇaḥ* \< *yoṣan*
+- *yoṣaṇaḥ* ← *yoṣan*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -25,27 +25,27 @@ title = "Rig Veda 9.68.7"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛṣibhir* \< *ṛṣibhiḥ* \< *ṛṣi*
+- *ṛṣibhir* ← *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *dhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *hitam* \< *hi*
+- *hitam* ← *hi*
 - \[verb noun\], accusative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *avyo* \< *avyaḥ* \< *avya*
+- *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vārebhir* \< *vārebhiḥ* \< *vāra*
+- *vārebhir* ← *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
 ------------------------------------------------------------------------
@@ -53,24 +53,24 @@ title = "Rig Veda 9.68.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *devahūtibhir* \< *deva*
+- *devahūtibhir* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtibhir* \< *hūtibhiḥ* \< *hūti*
+- *devahūtibhir* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *yato* \< *yataḥ* \< *yam*
+- *yato* ← *yataḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 9.68.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *darṣi* \< *dṛ*
+- *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

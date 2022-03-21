@@ -6,30 +6,30 @@ title = "Rig Veda 1.122.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yaśasā* \< *yaśas*
+- *yaśasā* ← *yaśas*
 - \[noun\], accusative, dual, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *śvetanāyai* \< *śvetanā*
+- *śvetanāyai* ← *śvetanā*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *vyantā* \< *vī*
+- *vyantā* ← *vī*
 - \[verb noun\], accusative, dual
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *pāntauśijo* \< *\_* \< *√\_*
+- *pāntauśijo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *huvadhyai* \< *hvā*
+- *huvadhyai* ← *hvā*
 - \[verb noun\]
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -37,19 +37,19 @@ title = "Rig Veda 1.122.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *napātam* \< *napāt*
+- *napātam* ← *napāt*
 - \[noun\], accusative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -64,14 +64,14 @@ title = "Rig Veda 1.122.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], accusative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *rāspinasyāyoḥ* \< *rāspinasya* \< *rāspina*
+- *rāspinasyāyoḥ* ← *rāspinasya* ← *rāspina*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *rāspinasyāyoḥ* \< *āyoḥ* \< *āyu*
+- *rāspinasyāyoḥ* ← *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 8.27.10"
 
 +++
--   *asti* \< *as*
+-   *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -11,29 +11,29 @@ title = "Rig Veda 8.27.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sajātyaṃ* \< *sajātyam* \< *sajātya*
+- *sajātyaṃ* ← *sajātyam* ← *sajātya*
 - \[noun\], nominative, singular, neuter
 - “relatedness.”
 ------------------------------------------------------------------------
-- *riśādaso* \< *riśādasaḥ* \< *riśādas*
+- *riśādaso* ← *riśādasaḥ* ← *riśādas*
 - \[noun\], vocative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *asty* \< *asti* \< *as*
+- *asty* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *āpyam* \< *āpya*
+- *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
@@ -41,21 +41,21 @@ title = "Rig Veda 8.27.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūrvasmai* \< *pūrva*
+- *pūrvasmai* ← *pūrva*
 - \[noun\], dative, singular, neuter
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *vocata* \< *vac*
+- *vocata* ← *vac*
 - \[verb\], plural, Aorist imperative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -66,11 +66,11 @@ title = "Rig Veda 8.27.10"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *sumnāya* \< *sumna*
+- *sumnāya* ← *sumna*
 - \[noun\], dative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *navyase* \< *navyas*
+- *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------

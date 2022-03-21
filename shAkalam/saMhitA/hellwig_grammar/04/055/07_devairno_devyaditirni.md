@@ -2,20 +2,20 @@
 title = "Rig Veda 4.55.7"
 
 +++
--   *devair* \< *devaiḥ* \< *deva*
+-   *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *aditir* \< *aditiḥ* \< *aditi*
+- *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
@@ -23,56 +23,56 @@ title = "Rig Veda 4.55.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *devas* \< *devaḥ* \< *deva*
+- *devas* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *trātā* \< *trātṛ*
+- *trātā* ← *trātṛ*
 - \[noun\], nominative, singular, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *trāyatām* \< *trā*
+- *trāyatām* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *aprayucchan* \< *aprayucchat*
+- *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
 ------------------------------------------------------------------------
 - *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhāsim* \< *dhāsi*
+- *dhāsim* ← *dhāsi*
 - \[noun\], accusative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *arhāmasi* \< *arh*
+- *arhāmasi* ← *arh*
 - \[verb\], plural, Present indikative
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *pramiyaṃ* \< *pramiyam* \< *pramī* \< *√mī*
+- *pramiyaṃ* ← *pramiyam* ← *pramī* ← *√mī*
 - \[verb noun\]
 - “destroy.”
 ------------------------------------------------------------------------
-- *sānv* \< *sānū* \< *sānu*
+- *sānv* ← *sānū* ← *sānu*
 - \[noun\], accusative, plural, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *agneḥ* \< *agni*
+- *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

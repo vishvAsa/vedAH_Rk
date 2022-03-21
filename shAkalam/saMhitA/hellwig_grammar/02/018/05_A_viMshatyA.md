@@ -6,20 +6,20 @@ title = "Rig Veda 2.18.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viṃśatyā* \< *viṃśati*
+- *viṃśatyā* ← *viṃśati*
 - \[noun\], instrumental, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *triṃśatā* \< *triṃśat*
+- *triṃśatā* ← *triṃśat*
 - \[noun\], instrumental, singular, feminine
 - “thirty; triṃśat \[word\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
@@ -27,16 +27,16 @@ title = "Rig Veda 2.18.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *catvāriṃśatā* \< *catvāriṃśat*
+- *catvāriṃśatā* ← *catvāriṃśat*
 - \[noun\], instrumental, singular, feminine
 - “forty; catvāriṃśat \[word\].”
 ------------------------------------------------------------------------
-- *haribhir* \< *haribhiḥ* \< *hari*
+- *haribhir* ← *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *yujānaḥ* \< *yuj*
+- *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -48,40 +48,40 @@ title = "Rig Veda 2.18.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pañcāśatā* \< *pañcāśat*
+- *pañcāśatā* ← *pañcāśat*
 - \[noun\], instrumental, singular, feminine
 - “fifty; pañcāśat \[word\].”
 ------------------------------------------------------------------------
-- *surathebhir* \< *su*
+- *surathebhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surathebhir* \< *rathebhiḥ* \< *ratha*
+- *surathebhir* ← *rathebhiḥ* ← *ratha*
 - \[noun\], instrumental, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *indrā* \< *indra*
+- *indrā* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrā* \< *ā*
+- *indrā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ṣaṣṭyā* \< *ṣaṣṭi*
+- *ṣaṣṭyā* ← *ṣaṣṭi*
 - \[noun\], instrumental, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *saptatyā* \< *saptati*
+- *saptatyā* ← *saptati*
 - \[noun\], instrumental, singular, feminine
 - “seventy; saptati \[word\].”
 ------------------------------------------------------------------------
-- *somapeyam* \< *soma*
+- *somapeyam* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapeyam* \< *peyam* \< *peya*
+- *somapeyam* ← *peyam* ← *peya*
 - \[noun\], accusative, singular, neuter
 - “beverage.”
 ------------------------------------------------------------------------

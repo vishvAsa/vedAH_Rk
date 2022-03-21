@@ -6,44 +6,44 @@ title = "Rig Veda 6.63.5"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *puru*
+- *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *bhujā* \< *bhuj*
+- *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], vocative, dual, masculine
 - “eating; consuming.”
 ------------------------------------------------------------------------
-- *śatotim* \< *śata*
+- *śatotim* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatotim* \< *ūtim* \< *ūti*
+- *śatotim* ← *ūtim* ← *ūti*
 - \[noun\], accusative, singular, masculine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -51,16 +51,16 @@ title = "Rig Veda 6.63.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *māyinā* \< *māyin*
+- *māyinā* ← *māyin*
 - \[noun\], nominative, dual, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *bhūtam* \< *bhū*
+- *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -72,11 +72,11 @@ title = "Rig Veda 6.63.5"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛtū* \< *nṛtu*
+- *nṛtū* ← *nṛtu*
 - \[noun\], nominative, dual, masculine
 - “dancing.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 6.63.5"
 - \[noun\], locative, singular, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *yajñiyānām* \< *yajñiya*
+- *yajñiyānām* ← *yajñiya*
 - \[noun\], genitive, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------

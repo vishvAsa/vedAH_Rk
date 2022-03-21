@@ -5,68 +5,68 @@ title = "Rig Veda 1.62.9"
 -   *sanemi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *svapasyamānaḥ* \< *svapasy*
+- *svapasyamānaḥ* ← *svapasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *sūnur* \< *sūnuḥ* \< *sūnu*
+- *sūnur* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *dādhāra* \< *dhṛ*
+- *dādhāra* ← *dhṛ*
 - \[verb\], singular, Perfect indicative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *sudaṃsāḥ* \< *su*
+- *sudaṃsāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudaṃsāḥ* \< *daṃsāḥ* \< *daṃsas*
+- *sudaṃsāḥ* ← *daṃsāḥ* ← *daṃsas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *āmāsu* \< *āma*
+- *āmāsu* ← *āma*
 - \[noun\], locative, plural, feminine
 - “uncooked; unfestering; unburnt; green; undigested; fusty; raw.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *pakvam* \< *pakva*
+- *pakvam* ← *pakva*
 - \[noun\], accusative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *kṛṣṇāsu* \< *kṛṣṇa*
+- *kṛṣṇāsu* ← *kṛṣṇa*
 - \[noun\], locative, plural, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *ruśad* \< *ruśat*
+- *ruśad* ← *ruśat*
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *rohiṇīṣu* \< *rohin*
+- *rohiṇīṣu* ← *rohin*
 - \[noun\], locative, plural, feminine
 - “growing.”
 ------------------------------------------------------------------------

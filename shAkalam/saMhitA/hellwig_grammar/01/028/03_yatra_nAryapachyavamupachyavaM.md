@@ -6,41 +6,41 @@ title = "Rig Veda 1.28.3"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *nāry* \< *nārī*
+- *nāry* ← *nārī*
 - \[noun\], nominative, singular, feminine
 - “woman; wife; female.”
 ------------------------------------------------------------------------
-- *apacyavam* \< *apacyava*
+- *apacyavam* ← *apacyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *upacyavaṃ* \< *upacyavam* \< *upacyava*
+- *upacyavaṃ* ← *upacyavam* ← *upacyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śikṣate* \< *śikṣ*
+- *śikṣate* ← *śikṣ*
 - \[verb\], singular, Present indikative
 - “help; give.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *ulūkhala*
+- *ulūkhalasutānām* ← *ulūkhala*
 - \[noun\], masculine
 - “mortar; ulūkhala.”
 ------------------------------------------------------------------------
-- *ulūkhalasutānām* \< *sutānām* \< *su*
+- *ulūkhalasutānām* ← *sutānām* ← *su*
 - \[verb noun\], genitive, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *aved* \< *ava*
+- *aved* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *aved* \< *id*
+- *aved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 1.28.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jalgulaḥ* \< *jargur* \< *√gṛ*
+- *jalgulaḥ* ← *jargur* ← *√gṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “swallow.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 10.56.4"
 
 +++
--   *mahimna* \< *mahimnaḥ* \< *mahiman*
+-   *mahimna* ← *mahimnaḥ* ← *mahiman*
 - \[noun\], genitive, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pitaraś* \< *pitaraḥ* \< *pitṛ*
+- *pitaraś* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *caneśire* \< *cana*
+- *caneśire* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *caneśire* \< *īśire* \< *īś*
+- *caneśire* ← *īśire* ← *īś*
 - \[verb\], plural, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *adadhur* \< *adadhuḥ* \< *dhā*
+- *adadhur* ← *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -43,7 +43,7 @@ title = "Rig Veda 10.56.4"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -52,29 +52,29 @@ title = "Rig Veda 10.56.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *avivyacur* \< *avivyacuḥ* \< *vyac*
+- *avivyacur* ← *avivyacuḥ* ← *vyac*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yāny* \< *yāni* \< *yad*
+- *yāny* ← *yāni* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *atviṣur* \< *atviṣuḥ* \< *tviṣ*
+- *atviṣur* ← *atviṣuḥ* ← *tviṣ*
 - \[verb\], plural, Imperfect
 ------------------------------------------------------------------------
-- *aiṣāṃ* \< *ā*
+- *aiṣāṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣāṃ* \< *eṣām* \< *idam*
+- *aiṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tanūṣu* \< *tanū*
+- *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -82,11 +82,11 @@ title = "Rig Veda 10.56.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *viviśuḥ* \< *viś*
+- *viviśuḥ* ← *viś*
 - \[verb\], plural, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”

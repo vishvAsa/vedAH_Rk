@@ -2,32 +2,32 @@
 title = "Rig Veda 1.143.7"
 
 +++
--   *ghṛtapratīkaṃ* \< *ghṛta*
+-   *ghṛtapratīkaṃ* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapratīkaṃ* \< *pratīkam* \< *pratīka*
+- *ghṛtapratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhūrṣadam* \< *dhūrṣad*
+- *dhūrṣadam* ← *dhūrṣad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -35,34 +35,34 @@ title = "Rig Veda 1.143.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *samidhāna* \< *samidhānaḥ* \< *samindh* \< *√indh*
+- *samidhāna* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *indhāno* \< *indhānaḥ* \< *indh*
+- *indhāno* ← *indhānaḥ* ← *indh*
 - \[verb noun\], nominative, singular
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *akro* \< *akraḥ* \< *akra*
+- *akro* ← *akraḥ* ← *akra*
 - \[noun\], nominative, singular, masculine
 - “banner.”
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *dīdyacchukravarṇām* \< *dīdyat* \< *dīdī*
+- *dīdyacchukravarṇām* ← *dīdyat* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *dīdyacchukravarṇām* \< *śukra*
+- *dīdyacchukravarṇām* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *dīdyacchukravarṇām* \< *varṇām* \< *varṇa*
+- *dīdyacchukravarṇām* ← *varṇām* ← *varṇa*
 - \[noun\], accusative, singular, feminine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
@@ -75,15 +75,15 @@ title = "Rig Veda 1.143.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yaṃsate* \< *yam*
+- *yaṃsate* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *dhiyam* \< *dhī*
+- *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

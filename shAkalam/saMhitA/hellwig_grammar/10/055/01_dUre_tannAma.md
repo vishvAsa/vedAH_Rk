@@ -2,45 +2,45 @@
 title = "Rig Veda 10.55.1"
 
 +++
--   *dūre* \< *dūra*
+-   *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *guhyam* \< *guhya*
+- *guhyam* ← *guhya*
 - \[noun\], nominative, singular, neuter
 - “secret; concealed.”
 ------------------------------------------------------------------------
-- *parācair* \< *parācais*
+- *parācair* ← *parācais*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bhīte* \< *bhī*
+- *bhīte* ← *bhī*
 - \[verb noun\], nominative, dual
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *ahvayetāṃ* \< *ahvayetām* \< *hvā*
+- *ahvayetāṃ* ← *ahvayetām* ← *hvā*
 - \[verb\], dual, Imperfect
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vayodhai* \< *\_* \< *√\_*
+- *vayodhai* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -48,28 +48,28 @@ title = "Rig Veda 10.55.1"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *astabhnāḥ* \< *stambh*
+- *astabhnāḥ* ← *stambh*
 - \[verb\], singular, Imperfect
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *bhrātuḥ* \< *bhrātṛ*
+- *bhrātuḥ* ← *bhrātṛ*
 - \[noun\], genitive, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *putrān* \< *putra*
+- *putrān* ← *putra*
 - \[noun\], accusative, plural, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
@@ -77,6 +77,6 @@ title = "Rig Veda 10.55.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *titviṣāṇaḥ* \< *tviṣ*
+- *titviṣāṇaḥ* ← *tviṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

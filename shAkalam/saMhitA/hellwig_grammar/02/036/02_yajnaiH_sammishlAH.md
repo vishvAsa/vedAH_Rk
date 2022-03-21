@@ -2,33 +2,33 @@
 title = "Rig Veda 2.36.2"
 
 +++
--   *yajñaiḥ* \< *yajña*
+-   *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *sammiślāḥ* \< *sammiśla*
+- *sammiślāḥ* ← *sammiśla*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *pṛṣatībhir* \< *pṛṣatībhiḥ* \< *pṛṣatī*
+- *pṛṣatībhir* ← *pṛṣatībhiḥ* ← *pṛṣatī*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *ṛṣṭibhir* \< *ṛṣṭibhiḥ* \< *ṛṣṭi*
+- *ṛṣṭibhir* ← *ṛṣṭibhiḥ* ← *ṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “spear.”
 ------------------------------------------------------------------------
-- *yāmañchubhrāso* \< *yāman*
+- *yāmañchubhrāso* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *yāmañchubhrāso* \< *śubhrāsaḥ* \< *śubhra*
+- *yāmañchubhrāso* ← *śubhrāsaḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *añjiṣu* \< *añji*
+- *añjiṣu* ← *añji*
 - \[noun\], locative, plural, masculine
 - “color; ointment; adornment.”
 ------------------------------------------------------------------------
-- *priyā* \< *priyāḥ* \< *priya*
+- *priyā* ← *priyāḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
@@ -37,42 +37,42 @@ title = "Rig Veda 2.36.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *āsadyā* \< *āsad* \< *√sad*
+- *āsadyā* ← *āsad* ← *√sad*
 - \[verb noun\]
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *bharatasya* \< *bharata*
+- *bharatasya* ← *bharata*
 - \[noun\], genitive, singular, masculine
 - “Bharata; Bharata; Bhārata; Bharata; Bharata; actor.”
 ------------------------------------------------------------------------
-- *sūnavaḥ* \< *sūnu*
+- *sūnavaḥ* ← *sūnu*
 - \[noun\], vocative, plural, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *potrād* \< *potrāt* \< *potra*
+- *potrād* ← *potrāt* ← *potra*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pibatā* \< *pā*
+- *pibatā* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], vocative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

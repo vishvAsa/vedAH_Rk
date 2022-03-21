@@ -2,13 +2,13 @@
 title = "Rig Veda 5.31.7"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 5.31.7"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *karaṇaṃ* \< *karaṇam* \< *karaṇa*
+- *karaṇaṃ* ← *karaṇam* ← *karaṇa*
 - \[noun\], nominative, singular, neuter
 - “instrument; production; sense organ; cause; performance; karaṇa;
     creation; tool; action; position; means; causing; transformation;
@@ -31,38 +31,38 @@ title = "Rig Veda 5.31.7"
 - \[noun\], vocative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *viprāhiṃ* \< *vipra*
+- *viprāhiṃ* ← *vipra*
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *viprāhiṃ* \< *ahim* \< *ahi*
+- *viprāhiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, feminine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ghnann* \< *ghnan* \< *han*
+- *ghnann* ← *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *atrāmimīthāḥ* \< *atra*
+- *atrāmimīthāḥ* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrāmimīthāḥ* \< *mimīthāḥ* \< *mā*
+- *atrāmimīthāḥ* ← *mimīthāḥ* ← *mā*
 - \[verb\], singular, Present optative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
@@ -74,12 +74,12 @@ title = "Rig Veda 5.31.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *māyā* \< *māyāḥ* \< *māyā*
+- *māyā* ← *māyāḥ* ← *māyā*
 - \[noun\], accusative, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *agṛbhṇāḥ* \< *grah*
+- *agṛbhṇāḥ* ← *grah*
 - \[verb\], singular, Imperfect
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -87,11 +87,11 @@ title = "Rig Veda 5.31.7"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *prapitvaṃ* \< *prapitvam* \< *prapitva*
+- *prapitvaṃ* ← *prapitvam* ← *prapitva*
 - \[noun\], accusative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
-- *yann* \< *yan* \< *i*
+- *yann* ← *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -99,11 +99,11 @@ title = "Rig Veda 5.31.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyu*
+- *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *asedhaḥ* \< *sidh*
+- *asedhaḥ* ← *sidh*
 - \[verb\], singular, Imperfect
 - “chase away; repel.”
 ------------------------------------------------------------------------

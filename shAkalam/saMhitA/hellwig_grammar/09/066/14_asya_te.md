@@ -2,43 +2,43 @@
 title = "Rig Veda 9.66.14"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iyakṣantas* \< *iyakṣantaḥ* \< *iyakṣ* \< *√yaj*
+- *iyakṣantas* ← *iyakṣantaḥ* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], nominative, plural
 - “endeavor.”
 ------------------------------------------------------------------------
-- *tvotayaḥ* \< *tvoti*
+- *tvotayaḥ* ← *tvoti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sakhitvam* \< *sakhi*
+- *sakhitvam* ← *sakhi*
 - \[noun\], masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhitvam* \< *tvam* \< *tva*
+- *sakhitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *uśmasi* \< *vaś*
+- *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------

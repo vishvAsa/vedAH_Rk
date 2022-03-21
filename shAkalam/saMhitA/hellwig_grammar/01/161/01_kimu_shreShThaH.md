@@ -10,47 +10,47 @@ title = "Rig Veda 1.161.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *śreṣṭhaḥ* \< *śreṣṭha*
+- *śreṣṭhaḥ* ← *śreṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim*
+- *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *yaviṣṭho* \< *yaviṣṭhaḥ* \< *yaviṣṭha*
+- *yaviṣṭho* ← *yaviṣṭhaḥ* ← *yaviṣṭha*
 - \[noun\], nominative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ājagan* \< *āgam* \< *√gam*
+- *ājagan* ← *āgam* ← *√gam*
 - \[verb\], singular, Plusquamperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *īyate* \< *i*
+- *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dūtyaṃ* \< *dūtyam* \< *dūtya*
+- *dūtyaṃ* ← *dūtyam* ← *dūtya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ūcima* \< *vac*
+- *ūcima* ← *vac*
 - \[verb\], plural, Perfect indicative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -61,41 +61,41 @@ title = "Rig Veda 1.161.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nindima* \< *nind*
+- *nindima* ← *nind*
 - \[verb\], plural, Root aorist (Ind.)
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *camasaṃ* \< *camasam* \< *camasa*
+- *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mahākulo* \< *mahā* \< *mahat*
+- *mahākulo* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mahākulo* \< *kulaḥ* \< *kula*
+- *mahākulo* ← *kulaḥ* ← *kula*
 - \[noun\], nominative, singular, masculine
 - “family; good family; dynasty; palace; house; lineage; swarm;
     family; flock; kula \[word\]; genealogy; battalion; multitude;
     residence; lore; pedigree.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bhrātar* \< *bhrātṛ*
+- *bhrātar* ← *bhrātṛ*
 - \[noun\], vocative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *druṇa* \< *druṇaḥ* \< *dru*
+- *druṇa* ← *druṇaḥ* ← *dru*
 - \[noun\], genitive, singular, neuter
 - “wood; tree; dru \[word\].”
 ------------------------------------------------------------------------
@@ -103,12 +103,12 @@ title = "Rig Veda 1.161.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *bhūtim* \< *bhūti*
+- *bhūtim* ← *bhūti*
 - \[noun\], accusative, singular, feminine
 - “auspiciousness; benefit; ash; well-being; bhasman; wealth;
     Andropogon schoenanthus; power.”
 ------------------------------------------------------------------------
-- *ūdima* \< *vad*
+- *ūdima* ← *vad*
 - \[verb\], plural, Perfect indicative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”

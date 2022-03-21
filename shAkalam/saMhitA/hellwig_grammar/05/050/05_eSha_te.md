@@ -2,11 +2,11 @@
 title = "Rig Veda 5.50.5"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,62 +14,62 @@ title = "Rig Veda 5.50.5"
 - \[noun\], vocative, singular, masculine
 - “divine.”
 ------------------------------------------------------------------------
-- *netā* \< *netar* \< *netṛ*
+- *netā* ← *netar* ← *netṛ*
 - \[noun\], vocative, singular, masculine
 - “leader; Vitex negundo.”
 ------------------------------------------------------------------------
-- *rathaspatiḥ* \< *rathaspati*
+- *rathaspatiḥ* ← *rathaspati*
 - \[noun\], nominative, singular, masculine
 - “Rathaspati.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *rayiḥ* \< *rayi*
+- *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *svastaya* \< *svastaye* \< *svasti*
+- *svastaya* ← *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *iṣastuto* \< *iṣa*
+- *iṣastuto* ← *iṣa*
 - \[noun\]
 ------------------------------------------------------------------------
-- *iṣastuto* \< *stutaḥ* \< *stut*
+- *iṣastuto* ← *stutaḥ* ← *stut*
 - \[noun\], accusative, plural, masculine
 - “stut \[word\].”
 ------------------------------------------------------------------------
-- *manāmahe* \< *man*
+- *manāmahe* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *devastuto* \< *deva*
+- *devastuto* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devastuto* \< *stutaḥ* \< *stut*
+- *devastuto* ← *stutaḥ* ← *stut*
 - \[noun\], accusative, plural, masculine
 - “stut \[word\].”
 ------------------------------------------------------------------------
-- *manāmahe* \< *man*
+- *manāmahe* ← *man*
 - \[verb\], plural, Aorist conj./subj.
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;

@@ -2,37 +2,37 @@
 title = "Rig Veda 8.9.11"
 
 +++
--   *yātaṃ* \< *yātam* \< *yā*
+-   *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *chardiṣpā* \< *chardiṣpau* \< *chardiṣpā*
+- *chardiṣpā* ← *chardiṣpau* ← *chardiṣpā*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
 - *paraspā*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *bhūtaṃ* \< *bhūtam* \< *bhū*
+- *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *jagatpā* \< *jagat* \< *jagant*
+- *jagatpā* ← *jagat* ← *jagant*
 - \[noun\], neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *jagatpā* \< *pau* \< *pā*
+- *jagatpā* ← *pau* ← *pā*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
 ------------------------------------------------------------------------
@@ -40,31 +40,31 @@ title = "Rig Veda 8.9.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tanūpā* \< *tanū*
+- *tanūpā* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūpā* \< *pā*
+- *tanūpā* ← *pā*
 - \[noun\], nominative, dual, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *vartis* \< *vartiḥ* \< *vartis*
+- *vartis* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayāya* \< *tanaya*
+- *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 6.56.4"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 6.56.4"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 6.56.4"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *bravāma* \< *brū*
+- *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
@@ -27,11 +27,11 @@ title = "Rig Veda 6.56.4"
 - \[noun\], vocative, singular, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *mantumaḥ* \< *mantumas* \< *mantumat*
+- *mantumaḥ* ← *mantumas* ← *mantumat*
 - \[noun\], vocative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -41,15 +41,15 @@ title = "Rig Veda 6.56.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *sādhaya* \< *sādhay* \< *√sādh*
+- *sādhaya* ← *sādhay* ← *√sādh*
 - \[verb\], singular, Present imperative
 - “prepare; cure; prepare; perform; produce; compound; treat; treat;
     overpower; achieve; use; cover; prove; prove; process.”

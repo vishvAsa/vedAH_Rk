@@ -2,7 +2,7 @@
 title = "Rig Veda 10.141.3"
 
 +++
--   *somaṃ* \< *somam* \< *soma*
+-   *somaṃ* ← *somam* \< *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

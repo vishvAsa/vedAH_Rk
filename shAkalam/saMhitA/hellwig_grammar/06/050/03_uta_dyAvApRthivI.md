@@ -10,7 +10,7 @@ title = "Rig Veda 6.50.3"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *kṣatram* \< *kṣatra*
+- *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
@@ -18,26 +18,26 @@ title = "Rig Veda 6.50.3"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *śaraṇaṃ* \< *śaraṇam* \< *śaraṇa*
+- *śaraṇaṃ* ← *śaraṇam* ← *śaraṇa*
 - \[noun\], accusative, singular, neuter
 - “refuge; safety; shelter; house; protection.”
 ------------------------------------------------------------------------
-- *suṣumne* \< *suṣumna*
+- *suṣumne* ← *suṣumna*
 - \[noun\], vocative, dual, neuter
 ------------------------------------------------------------------------
-- *mahas* \< *mahaḥ* \< *mahas*
+- *mahas* ← *mahaḥ* ← *mahas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *karatho* \< *karathaḥ* \< *kṛ*
+- *karatho* ← *karathaḥ* ← *kṛ*
 - \[verb\], dual, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,7 +48,7 @@ title = "Rig Veda 6.50.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *varivo* \< *varivaḥ* \< *varivas*
+- *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
@@ -56,23 +56,23 @@ title = "Rig Veda 6.50.3"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'sme* \< *asme* \< *mad*
+- *'sme* ← *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṣayāya* \< *kṣaya*
+- *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *dhiṣaṇe* \< *dhiṣaṇā*
+- *dhiṣaṇe* ← *dhiṣaṇā*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *anehaḥ* \< *anehas*
+- *anehaḥ* ← *anehas*
 - \[noun\], accusative, singular, neuter
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------

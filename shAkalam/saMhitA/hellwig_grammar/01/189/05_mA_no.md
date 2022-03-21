@@ -6,38 +6,38 @@ title = "Rig Veda 1.189.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *sṛjo* \< *sṛjaḥ* \< *sṛj*
+- *sṛjo* ← *sṛjaḥ* ← *sṛj*
 - \[verb\], singular, Present injunctive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *aghāyāviṣyave* \< *aghāya* \< *agha*
+- *aghāyāviṣyave* ← *aghāya* ← *agha*
 - \[noun\], dative, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *aghāyāviṣyave* \< *aviṣyave* \< *aviṣyu*
+- *aghāyāviṣyave* ← *aviṣyave* ← *aviṣyu*
 - \[noun\], dative, singular, masculine
 - “impetuous.”
 ------------------------------------------------------------------------
-- *ripave* \< *ripu*
+- *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “enemy; arivarga; Ripu; foe.”
 ------------------------------------------------------------------------
-- *ducchunāyai* \< *ducchunā*
+- *ducchunāyai* ← *ducchunā*
 - \[noun\], dative, singular, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 1.189.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *datvate* \< *datvat*
+- *datvate* ← *datvat*
 - \[noun\], dative, singular, masculine
 - “toothed.”
 ------------------------------------------------------------------------
-- *daśate* \< *daṃś*
+- *daśate* ← *daṃś*
 - \[verb noun\], dative, singular
 - “bite; sting.”
 ------------------------------------------------------------------------
-- *mādate* \< *mā*
+- *mādate* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mādate* \< *adate* \< *ad*
+- *mādate* ← *adate* ← *ad*
 - \[verb noun\], dative, singular
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 1.189.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *rīṣate* \< *riṣ*
+- *rīṣate* ← *riṣ*
 - \[verb noun\], dative, singular
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *sahasāvan* \< *sahasāvat*
+- *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 1.189.5"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dāḥ* \< *dā*
+- *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

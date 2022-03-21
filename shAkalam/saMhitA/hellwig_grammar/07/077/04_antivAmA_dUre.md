@@ -2,34 +2,34 @@
 title = "Rig Veda 7.77.4"
 
 +++
--   *antivāmā* \< *antivāma*
+-   *antivāmā* ← *antivāma*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *amitram* \< *amitra*
+- *amitram* ← *amitra*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *ucchorvīṃ* \< *uccha* \< *vas*
+- *ucchorvīṃ* ← *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *ucchorvīṃ* \< *urvīm* \< *uru*
+- *ucchorvīṃ* ← *urvīm* ← *uru*
 - \[noun\], accusative, singular, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *gavyūtim* \< *gavyūti*
+- *gavyūtim* ← *gavyūti*
 - \[noun\], accusative, singular, feminine
 - “pasture.”
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,15 +40,15 @@ title = "Rig Veda 7.77.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yāvaya* \< *yāvay* \< *√yu*
+- *yāvaya* ← *yāvay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away.”
 ------------------------------------------------------------------------
-- *dveṣa* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣa* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -56,28 +56,28 @@ title = "Rig Veda 7.77.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *codaya* \< *coday* \< *√cud*
+- *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *maghoni* \< *maghavan*
+- *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------

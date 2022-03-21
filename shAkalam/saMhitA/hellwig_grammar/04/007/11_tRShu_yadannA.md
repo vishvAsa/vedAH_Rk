@@ -6,31 +6,31 @@ title = "Rig Veda 4.7.11"
 - \[noun\], accusative, singular, neuter
 - “dry.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *tṛṣuṇā* \< *tṛṣu*
+- *tṛṣuṇā* ← *tṛṣu*
 - \[noun\], instrumental, singular, masculine
 - “dry.”
 ------------------------------------------------------------------------
-- *vavakṣa* \< *vakṣ*
+- *vavakṣa* ← *vakṣ*
 - \[verb\], singular, Perfect indicative
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *tṛṣuṃ* \< *tṛṣum* \< *tṛṣu*
+- *tṛṣuṃ* ← *tṛṣum* ← *tṛṣu*
 - \[noun\], accusative, singular, masculine
 - “dry.”
 ------------------------------------------------------------------------
-- *dūtaṃ* \< *dūtam* \< *dūta*
+- *dūtaṃ* ← *dūtam* ← *dūta*
 - \[noun\], accusative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,33 +41,33 @@ title = "Rig Veda 4.7.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yahvo* \< *yahvaḥ* \< *yahva*
+- *yahvo* ← *yahvaḥ* ← *yahva*
 - \[noun\], nominative, singular, masculine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vātasya* \< *vāta*
+- *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *meﾱiṃ* \< *meﾱim* \< *meḍi*
+- *meﾱiṃ* ← *meﾱim* ← *meḍi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *nijūrvann* \< *nijūrvan* \< *nijūrv* \< *√jūrv*
+- *nijūrvann* ← *nijūrvan* ← *nijūrv* ← *√jūrv*
 - \[verb noun\], nominative, singular
 - “burn.”
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
@@ -75,15 +75,15 @@ title = "Rig Veda 4.7.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājayate* \< *vājay* \< *√vaj*
+- *vājayate* ← *vājay* ← *√vaj*
 - \[verb\], singular, Present indikative
 - “incite.”
 ------------------------------------------------------------------------
-- *hinve* \< *hi*
+- *hinve* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------

@@ -2,17 +2,17 @@
 title = "Rig Veda 10.30.9"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], vocative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *matsaram* \< *matsara*
+- *matsaram* ← *matsara*
 - \[noun\], accusative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------

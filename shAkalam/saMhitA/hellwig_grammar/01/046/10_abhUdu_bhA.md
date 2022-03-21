@@ -2,7 +2,7 @@
 title = "Rig Veda 1.46.10"
 
 +++
--   *abhūd* \< *abhūt* \< *bhū*
+-   *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -13,7 +13,7 @@ title = "Rig Veda 1.46.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *bhā* \< *bhās*
+- *bhā* ← *bhās*
 - \[noun\], nominative, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -21,11 +21,11 @@ title = "Rig Veda 1.46.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *aṃśave* \< *aṃśu*
+- *aṃśave* ← *aṃśu*
 - \[noun\], dative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *hiraṇyam* \< *hiraṇya*
+- *hiraṇyam* ← *hiraṇya*
 - \[noun\], accusative, singular, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -33,24 +33,24 @@ title = "Rig Veda 1.46.10"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *akhyaj* \< *akhyat* \< *khyā*
+- *akhyaj* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *jihvayāsitaḥ* \< *jihvayā* \< *jihvā*
+- *jihvayāsitaḥ* ← *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *jihvayāsitaḥ* \< *asitaḥ* \< *asita*
+- *jihvayāsitaḥ* ← *asitaḥ* ← *asita*
 - \[noun\], nominative, singular, masculine
 - “black; dark; dark; black.”
 ------------------------------------------------------------------------

@@ -6,16 +6,16 @@ title = "Rig Veda 8.5.21"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *divyā* \< *divyāḥ* \< *divya*
+- *divyā* ← *divyāḥ* ← *divya*
 - \[noun\], accusative, plural, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *iṣa* \< *iṣaḥ* \< *iṣ*
+- *iṣa* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 8.5.21"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sindhūṃr* \< *sindhu*
+- *sindhūṃr* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *aharvidā* \< *ahar*
+- *aharvidā* ← *ahar*
 - \[noun\], neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *aharvidā* \< *vidā* \< *vid*
+- *aharvidā* ← *vidā* ← *vid*
 - \[noun\], vocative, dual, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
@@ -39,16 +39,16 @@ title = "Rig Veda 8.5.21"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dvāreva* \< *dvārā* \< *dvāra*
+- *dvāreva* ← *dvārā* ← *dvāra*
 - \[noun\], accusative, plural, neuter
 - “aperture; gate; door; mouth; vagina; orifice; dvāra \[word\]; pass;
     opening; means; entrance.”
 ------------------------------------------------------------------------
-- *dvāreva* \< *iva*
+- *dvāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *varṣathaḥ* \< *vṛṣ*
+- *varṣathaḥ* ← *vṛṣ*
 - \[verb\], dual, Present indikative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------

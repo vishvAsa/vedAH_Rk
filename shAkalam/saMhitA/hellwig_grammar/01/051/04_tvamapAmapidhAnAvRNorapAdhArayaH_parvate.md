@@ -2,42 +2,42 @@
 title = "Rig Veda 1.51.4"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *apām* \< *ap*
+- *apām* ← *ap*
 - \[noun\], genitive, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *apidhānāvṛṇor* \< *apidhānā* \< *apidhāna*
+- *apidhānāvṛṇor* ← *apidhānā* ← *apidhāna*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *apidhānāvṛṇor* \< *avṛṇoḥ* \< *vṛ*
+- *apidhānāvṛṇor* ← *avṛṇoḥ* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *apādhārayaḥ* \< *apadhāray* \< *√dhṛ*
+- *apādhārayaḥ* ← *apadhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *parvate* \< *parvata*
+- *parvate* ← *parvata*
 - \[noun\], locative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *dānumad* \< *dānumat*
+- *dānumad* ← *dānumat*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -46,40 +46,40 @@ title = "Rig Veda 1.51.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śavasāvadhīr* \< *śavasā* \< *śavas*
+- *śavasāvadhīr* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasāvadhīr* \< *avadhīḥ* \< *vadh*
+- *śavasāvadhīr* ← *avadhīḥ* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *ahim* \< *ahi*
+- *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ārohayo* \< *ārohayaḥ* \< *ārohay* \< *√ruh*
+- *ārohayo* ← *ārohayaḥ* ← *ārohay* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “raise; hop on; lift.”
 ------------------------------------------------------------------------
-- *dṛśe* \< *dṛś*
+- *dṛśe* ← *dṛś*
 - \[verb noun\]
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;

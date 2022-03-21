@@ -6,19 +6,19 @@ title = "Rig Veda 8.18.9"
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agnibhiḥ* \< *agni*
+- *agnibhiḥ* ← *agni*
 - \[noun\], instrumental, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *karac* \< *karat* \< *kṛ*
+- *karac* ← *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,37 +29,37 @@ title = "Rig Veda 8.18.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *chaṃ* \< *śam*
+- *chaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tapatu* \< *tap*
+- *tapatu* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[noun\], accusative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *vāto* \< *vātaḥ* \< *vāta*
+- *vāto* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātv* \< *vātu* \< *vā*
+- *vātv* ← *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *arapā* \< *arapāḥ* \< *arapas*
+- *arapā* ← *arapāḥ* ← *arapas*
 - \[noun\], nominative, singular, masculine
 - “safe; unharmed; beneficial.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 8.18.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------

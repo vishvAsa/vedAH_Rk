@@ -2,48 +2,48 @@
 title = "Rig Veda 3.1.3"
 
 +++
--   *mayo* \< *mayaḥ* \< *mayas*
+-   *mayo* ← *mayaḥ* ← *mayas*
 - \[noun\], accusative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *medhiraḥ* \< *medhira*
+- *medhiraḥ* ← *medhira*
 - \[noun\], nominative, singular, masculine
 - “wise; intelligent.”
 ------------------------------------------------------------------------
-- *pūtadakṣo* \< *pūta* \< *pū*
+- *pūtadakṣo* ← *pūta* ← *pū*
 - \[verb noun\]
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pūtadakṣo* \< *dakṣaḥ* \< *dakṣa*
+- *pūtadakṣo* ← *dakṣaḥ* ← *dakṣa*
 - \[noun\], nominative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *subandhur* \< *su*
+- *subandhur* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subandhur* \< *bandhuḥ* \< *bandhu*
+- *subandhur* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *januṣā* \< *janus*
+- *januṣā* ← *janus*
 - \[noun\], instrumental, singular, neuter
 - “birth.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *avindann* \< *avindan* \< *vid*
+- *avindann* ← *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 3.1.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *darśatam* \< *darśata*
+- *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -63,22 +63,22 @@ title = "Rig Veda 3.1.3"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *apasi* \< *apas*
+- *apasi* ← *apas*
 - \[noun\], locative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *svasṝṇām* \< *svasṛ*
+- *svasṝṇām* ← *svasṛ*
 - \[noun\], genitive, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------

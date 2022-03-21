@@ -2,27 +2,27 @@
 title = "Rig Veda 10.67.9"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vardhayanto* \< *vardhayantaḥ* \< *vardhay* \< *√vṛdh*
+- *vardhayanto* ← *vardhayantaḥ* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *matibhiḥ* \< *mati*
+- *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *śivābhiḥ* \< *śiva*
+- *śivābhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, feminine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *siṃham* \< *siṃha*
+- *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -30,30 +30,30 @@ title = "Rig Veda 10.67.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *nānadataṃ* \< *nānadatam* \< *nānad* \< *√nad*
+- *nānadataṃ* ← *nānadatam* ← *nānad* ← *√nad*
 - \[verb noun\], accusative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śūrasātau* \< *śūrasāti*
+- *śūrasātau* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhara*
+- *bhare* ← *bhara*
 - \[noun\], locative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 10.67.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *jiṣṇum* \< *jiṣṇu*
+- *jiṣṇum* ← *jiṣṇu*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------

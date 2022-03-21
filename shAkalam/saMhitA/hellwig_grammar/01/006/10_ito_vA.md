@@ -2,7 +2,7 @@
 title = "Rig Veda 1.6.10"
 
 +++
--   *ito* \< *itas*
+-   *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 1.6.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sātim* \< *sāti*
+- *sātim* ← *sāti*
 - \[noun\], accusative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 1.6.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pārthivād* \< *pārthivāt* \< *pārthiva*
+- *pārthivād* ← *pārthivāt* ← *pārthiva*
 - \[noun\], ablative, singular, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
@@ -34,12 +34,12 @@ title = "Rig Veda 1.6.10"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 1.6.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *rajasaḥ* \< *rajas*
+- *rajasaḥ* ← *rajas*
 - \[noun\], ablative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”

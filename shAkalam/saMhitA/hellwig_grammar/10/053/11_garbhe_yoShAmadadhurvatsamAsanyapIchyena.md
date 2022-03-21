@@ -2,48 +2,48 @@
 title = "Rig Veda 10.53.11"
 
 +++
--   *garbhe* \< *garbha*
+-   *garbhe* ← *garbha*
 - \[noun\], locative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *yoṣām* \< *yoṣā*
+- *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *adadhur* \< *adadhuḥ* \< *dhā*
+- *adadhur* ← *adadhuḥ* ← *dhā*
 - \[verb\], plural, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vatsam* \< *vatsa*
+- *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *āsany* \< *āsani* \< *āsan*
+- *āsany* ← *āsani* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *apīcyena* \< *apīcya*
+- *apīcyena* ← *apīcya*
 - \[noun\], instrumental, singular, neuter
 - “secret; hidden; cryptic.”
 ------------------------------------------------------------------------
-- *manasota* \< *manasā* \< *manas*
+- *manasota* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manasota* \< *uta*
+- *manasota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -53,11 +53,11 @@ title = "Rig Veda 10.53.11"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *sumanā* \< *sumanāḥ* \< *sumanas*
+- *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
-- *yogyā* \< *yogya*
+- *yogyā* ← *yogya*
 - \[noun\], accusative, plural, neuter
 - “suitable; fit.”
 ------------------------------------------------------------------------
@@ -65,21 +65,21 @@ title = "Rig Veda 10.53.11"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *siṣāsanir* \< *siṣāsaniḥ* \< *siṣāsani*
+- *siṣāsanir* ← *siṣāsaniḥ* ← *siṣāsani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vanate* \< *van*
+- *vanate* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *kāra* \< *kāre* \< *kāra*
+- *kāra* ← *kāre* ← *kāra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ij* \< *id*
+- *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *jitim* \< *jiti*
+- *jitim* ← *jiti*
 - \[noun\], accusative, singular, feminine
 - “victory.”
 ------------------------------------------------------------------------

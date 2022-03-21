@@ -6,29 +6,29 @@ title = "Rig Veda 8.75.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samasya* \< *sama*
+- *samasya* ← *sama*
 - \[noun\], genitive, singular, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);
     accurate; identical; fair; equal; synonymous; changeless; whole;
     exact; calm; straight; even; wide.”
 ------------------------------------------------------------------------
-- *dūḍhyaḥ* \< *dūḍhī*
+- *dūḍhyaḥ* ← *dūḍhī*
 - \[noun\], genitive, singular, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *paridveṣaso* \< *paridveṣasaḥ* \< *paridveṣas*
+- *paridveṣaso* ← *paridveṣasaḥ* ← *paridveṣas*
 - \[noun\], genitive, singular, masculine
 - “hater.”
 ------------------------------------------------------------------------
-- *aṃhatiḥ* \< *aṃhati*
+- *aṃhatiḥ* ← *aṃhati*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ūrmir* \< *ūrmiḥ* \< *ūrmi*
+- *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, feminine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 8.75.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 8.75.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vadhīt* \< *vadh*
+- *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 7.2.5"
 
 +++
--   *svādhyo* \< *svādhyaḥ* \< *svādhī*
+-   *svādhyo* ← *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------
@@ -10,26 +10,26 @@ title = "Rig Veda 7.2.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *'śiśrayū* \< *aśiśrayuḥ* \< *śri*
+- *'śiśrayū* ← *aśiśrayuḥ* ← *śri*
 - \[verb\], plural, Plusquamperfect
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *rathayur* \< *rathayuḥ* \< *rathayu*
+- *rathayur* ← *rathayuḥ* ← *rathayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *devatātā* \< *devatāti*
+- *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *pūrvī* \< *puru*
+- *pūrvī* ← *puru*
 - \[noun\], accusative, dual, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------

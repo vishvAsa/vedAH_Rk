@@ -2,33 +2,33 @@
 title = "Rig Veda 6.51.2"
 
 +++
--   *veda* \< *vid*
+-   *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *vidathāny* \< *vidathāni* \< *vidatha*
+- *vidathāny* ← *vidathāni* ← *vidatha*
 - \[noun\], accusative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *janma* \< *janman*
+- *janma* ← *janman*
 - \[noun\], accusative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
@@ -45,7 +45,7 @@ title = "Rig Veda 6.51.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vipraḥ* \< *vipra*
+- *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 6.51.2"
 - \[noun\], accusative, singular, neuter
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *marteṣu* \< *marta*
+- *marteṣu* ← *marta*
 - \[noun\], locative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *vṛjinā* \< *vṛjina*
+- *vṛjinā* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 6.51.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *paśyann* \< *paśyan* \< *paś*
+- *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -74,18 +74,18 @@ title = "Rig Veda 6.51.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *ari*
+- *arya* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *evān* \< *eva*
+- *evān* ← *eva*
 - \[noun\], accusative, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------

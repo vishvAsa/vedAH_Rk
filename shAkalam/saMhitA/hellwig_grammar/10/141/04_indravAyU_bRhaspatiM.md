@@ -2,7 +2,7 @@
 title = "Rig Veda 10.141.4"
 
 +++
--   *indravāyū* \< *indra*
+-   *indravāyū* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

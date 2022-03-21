@@ -2,63 +2,63 @@
 title = "Rig Veda 10.108.6"
 
 +++
--   *asenyā* \< *asenya*
+-   *asenyā* ← *asenya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *paṇayo* \< *paṇayaḥ* \< *paṇi*
+- *paṇayo* ← *paṇayaḥ* ← *paṇi*
 - \[noun\], vocative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *vacāṃsy* \< *vacāṃsi* \< *vacas*
+- *vacāṃsy* ← *vacāṃsi* ← *vacas*
 - \[noun\], nominative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *aniṣavyās* \< *aniṣavyāḥ* \< *aniṣavya*
+- *aniṣavyās* ← *aniṣavyāḥ* ← *aniṣavya*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], nominative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pāpīḥ* \< *pāpa*
+- *pāpīḥ* ← *pāpa*
 - \[noun\], nominative, plural, feminine
 - “evil; dangerous; wicked; pāpa \[word\].”
 ------------------------------------------------------------------------
-- *adhṛṣṭo* \< *adhṛṣṭaḥ* \< *adhṛṣṭa*
+- *adhṛṣṭo* ← *adhṛṣṭaḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, singular, masculine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *etavā* \< *etavai* \< *i*
+- *etavā* ← *etavai* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *panthā* \< *panthāḥ* \< *pathin*
+- *panthā* ← *panthāḥ* ← *pathin*
 - \[noun\], nominative, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.108.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mṛḍāt* \< *mṛḍ*
+- *mṛḍāt* ← *mṛḍ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “pardon.”
 ------------------------------------------------------------------------

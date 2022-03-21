@@ -2,39 +2,39 @@
 title = "Rig Veda 7.15.1"
 
 +++
--   *upasadyāya* \< *upasad* \< *√sad*
+-   *upasadyāya* ← *upasad* ← *√sad*
 - \[verb noun\], dative, singular
 - “respect.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣa* \< *mīḍhuṣe* \< *mih*
+- *mīﾱhuṣa* ← *mīḍhuṣe* ← *mih*
 - \[verb noun\], dative, singular
 - “make; moisten.”
 ------------------------------------------------------------------------
-- *āsye* \< *āsya*
+- *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------
-- *juhutā* \< *hu*
+- *juhutā* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nediṣṭham* \< *nediṣṭha*
+- *nediṣṭham* ← *nediṣṭha*
 - \[noun\], nominative, singular, neuter
 - “following.”
 ------------------------------------------------------------------------
-- *āpyam* \< *āpya*
+- *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------

@@ -6,25 +6,25 @@ title = "Rig Veda 5.73.2"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *puru*
+- *purubhūtamā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *bhūtamā* \< *bhūtama*
+- *purubhūtamā* ← *bhūtamā* ← *bhūtama*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *daṃsāṃsi* \< *daṃsas*
+- *daṃsāṃsi* ← *daṃsas*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *bibhratā* \< *bhṛ*
+- *bibhratā* ← *bhṛ*
 - \[verb noun\], nominative, dual
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -32,23 +32,23 @@ title = "Rig Veda 5.73.2"
 - *varasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *yāmy* \< *yāmi* \< *yā*
+- *yāmy* ← *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *adhrigū* \< *adhrigu*
+- *adhrigū* ← *adhrigu*
 - \[noun\], accusative, dual, masculine
 - “rich; powerful.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *tuviṣṭamā* \< *tuviṣṭama*
+- *tuviṣṭamā* ← *tuviṣṭama*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------

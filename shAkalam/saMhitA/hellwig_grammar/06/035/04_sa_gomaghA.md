@@ -6,32 +6,32 @@ title = "Rig Veda 6.35.4"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *gomaghā* \< *go*
+- *gomaghā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gomaghā* \< *maghāḥ* \< *magha*
+- *gomaghā* ← *maghāḥ* ← *magha*
 - \[noun\], accusative, plural, feminine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *aśvaścandrā* \< *aśva*
+- *aśvaścandrā* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvaścandrā* \< *ścandrāḥ* \< *ścandra*
+- *aśvaścandrā* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], accusative, plural, feminine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *vājaśravaso* \< *vāja*
+- *vājaśravaso* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājaśravaso* \< *śravasaḥ* \< *śravas*
+- *vājaśravaso* ← *śravasaḥ* ← *śravas*
 - \[noun\], accusative, plural, feminine
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
@@ -39,24 +39,24 @@ title = "Rig Veda 6.35.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *pīpihīṣaḥ* \< *pīpihi* \< *pyā*
+- *pīpihīṣaḥ* ← *pīpihi* ← *pyā*
 - \[verb\], singular, Perfect imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *pīpihīṣaḥ* \< *iṣaḥ* \< *iṣ*
+- *pīpihīṣaḥ* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *sudughām* \< *sudughā*
+- *sudughām* ← *sudughā*
 - \[noun\], accusative, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
@@ -65,23 +65,23 @@ title = "Rig Veda 6.35.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *bharadvājeṣu* \< *bharadvāja*
+- *bharadvājeṣu* ← *bharadvāja*
 - \[noun\], locative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *suruco* \< *su*
+- *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suruco* \< *rucaḥ* \< *ruc*
+- *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], accusative, plural, feminine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *rurucyāḥ* \< *ruc*
+- *rurucyāḥ* ← *ruc*
 - \[verb\], singular, Perfect optative
 - “please; shine.”
 ------------------------------------------------------------------------

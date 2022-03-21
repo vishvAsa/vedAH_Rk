@@ -5,32 +5,32 @@ title = "Rig Veda 4.21.7"
 -   *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bhārvarasya* \< *bhārvara*
+- *bhārvarasya* ← *bhārvara*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *śuṣma* \< *śuṣman*
+- *śuṣma* ← *śuṣman*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *bharāya* \< *bhara*
+- *bharāya* ← *bhara*
 - \[noun\], dative, singular, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
@@ -38,18 +38,18 @@ title = "Rig Veda 4.21.7"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *auśijasya* \< *auśija*
+- *auśijasya* ← *auśija*
 - \[noun\], genitive, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *gohe* \< *goha*
+- *gohe* ← *goha*
 - \[noun\], locative, singular, masculine
 - “hole.”
 ------------------------------------------------------------------------
@@ -57,19 +57,19 @@ title = "Rig Veda 4.21.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dhiye* \< *dhī*
+- *dhiye* ← *dhī*
 - \[noun\], dative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *prāyase* \< *prāyas*
+- *prāyase* ← *prāyas*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;

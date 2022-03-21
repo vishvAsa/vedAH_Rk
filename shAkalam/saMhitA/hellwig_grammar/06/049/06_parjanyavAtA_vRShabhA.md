@@ -2,66 +2,66 @@
 title = "Rig Veda 6.49.6"
 
 +++
--   *parjanyavātā* \< *parjanya*
+-   *parjanyavātā* ← *parjanya*
 - \[noun\], masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *parjanyavātā* \< *vātā* \< *vāta*
+- *parjanyavātā* ← *vātā* ← *vāta*
 - \[noun\], vocative, dual, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vṛṣabhā* \< *vṛṣabha*
+- *vṛṣabhā* ← *vṛṣabha*
 - \[noun\], vocative, dual, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *purīṣāṇi* \< *purīṣa*
+- *purīṣāṇi* ← *purīṣa*
 - \[noun\], accusative, plural, neuter
 - “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
     rust; affluence; defecation.”
 ------------------------------------------------------------------------
-- *jinvatam* \< *jinv*
+- *jinvatam* ← *jinv*
 - \[verb\], dual, Present imperative
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *apyāni* \< *apya*
+- *apyāni* ← *apya*
 - \[noun\], accusative, plural, neuter
 - “aquatic; aquatic.”
 ------------------------------------------------------------------------
-- *satyaśrutaḥ* \< *satya*
+- *satyaśrutaḥ* ← *satya*
 - \[noun\], neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *satyaśrutaḥ* \< *śrutaḥ* \< *śrut*
+- *satyaśrutaḥ* ← *śrutaḥ* ← *śrut*
 - \[noun\], vocative, plural, masculine
 - “listening.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], vocative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *jagata* \< *jagataḥ* \< *jagant*
+- *jagata* ← *jagataḥ* ← *jagant*
 - \[noun\], genitive, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *sthātar* \< *sthātṛ*
+- *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *jagad* \< *jagat* \< *jagant*
+- *jagad* ← *jagat* ← *jagant*
 - \[noun\], accusative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 6.49.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

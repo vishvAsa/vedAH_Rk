@@ -6,7 +6,7 @@ title = "Rig Veda 1.39.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.39.1"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *śocir* \< *śociḥ* \< *śocis*
+- *śocir* ← *śociḥ* ← *śocis*
 - \[noun\], accusative, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
@@ -26,45 +26,45 @@ title = "Rig Veda 1.39.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mānam* \< *māna*
+- *mānam* ← *māna*
 - \[noun\], accusative, singular, masculine
 - “arrogance; honor; reverence; obedience; notion; conceit.”
 ------------------------------------------------------------------------
-- *asyatha* \< *as*
+- *asyatha* ← *as*
 - \[verb\], plural, Present indikative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *kasya* \< *ka*
+- *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *varpasā* \< *varpas*
+- *varpasā* ← *varpas*
 - \[noun\], instrumental, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *yātha* \< *yā*
+- *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 1.39.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *dhūtayaḥ* \< *dhūti*
+- *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------

@@ -6,7 +6,7 @@ title = "Rig Veda 6.70.5"
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,40 +14,40 @@ title = "Rig Veda 6.70.5"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *mimikṣatām* \< *mikṣ*
+- *mimikṣatām* ← *mikṣ*
 - \[verb\], dual, Perfect imperative
 - “season.”
 ------------------------------------------------------------------------
-- *madhuścutā* \< *madhuścut*
+- *madhuścutā* ← *madhuścut*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *madhudughe* \< *madhu*
+- *madhudughe* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhudughe* \< *dughe* \< *dugha*
+- *madhudughe* ← *dughe* ← *dugha*
 - \[noun\], nominative, dual, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *madhuvrate* \< *madhu*
+- *madhuvrate* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhuvrate* \< *vrate* \< *vrata*
+- *madhuvrate* ← *vrate* ← *vrata*
 - \[noun\], nominative, dual, feminine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *dadhāne* \< *dhā*
+- *dadhāne* ← *dhā*
 - \[verb noun\], nominative, dual
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
@@ -63,23 +63,23 @@ title = "Rig Veda 6.70.5"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *su*
+- *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *vīryam* \< *vīrya*
+- *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

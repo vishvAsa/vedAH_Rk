@@ -2,45 +2,45 @@
 title = "Rig Veda 2.14.1"
 
 +++
--   *adhvaryavo* \< *adhvaryavaḥ* \< *adhvaryu*
+-   *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], vocative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *bharatendrāya* \< *bharata* \< *bhṛ*
+- *bharatendrāya* ← *bharata* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bharatendrāya* \< *indrāya* \< *indra*
+- *bharatendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *āmatrebhiḥ* \< *ā*
+- *āmatrebhiḥ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āmatrebhiḥ* \< *amatrebhiḥ* \< *amatra*
+- *āmatrebhiḥ* ← *amatrebhiḥ* ← *amatra*
 - \[noun\], instrumental, plural, neuter
 - “vessel.”
 ------------------------------------------------------------------------
-- *siñcatā* \< *sic*
+- *siñcatā* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *madyam* \< *mad*
+- *madyam* ← *mad*
 - \[verb noun\], accusative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *andhaḥ* \< *andhas*
+- *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *kāmī* \< *kāmin*
+- *kāmī* ← *kāmin*
 - \[noun\], nominative, singular, masculine
 - “desirous; aroused; loving.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 2.14.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vīraḥ* \< *vīra*
+- *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -56,23 +56,23 @@ title = "Rig Veda 2.14.1"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pītiṃ* \< *pītim* \< *pīti*
+- *pītiṃ* ← *pītim* ← *pīti*
 - \[noun\], accusative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *juhota* \< *hu*
+- *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -82,11 +82,11 @@ title = "Rig Veda 2.14.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eṣa* \< *etad*
+- *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vaṣṭi* \< *vaś*
+- *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------

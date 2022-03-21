@@ -2,33 +2,33 @@
 title = "Rig Veda 1.124.12"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayaś* \< *vayaḥ* \< *vi*
+- *vayaś* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vasater* \< *vasateḥ* \< *vasati*
+- *vasater* ← *vasateḥ* ← *vasati*
 - \[noun\], genitive, singular, feminine
 - “residency; dwelling; nest; stay; vasati \[word\]; vas; mansion;
     sojourn.”
 ------------------------------------------------------------------------
-- *apaptan* \< *apaptat* \< *pat*
+- *apaptan* ← *apaptat* ← *pat*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *naraś* \< *naraḥ* \< *nṛ*
+- *naraś* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -36,19 +36,19 @@ title = "Rig Veda 1.124.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pitubhājo* \< *pitu*
+- *pitubhājo* ← *pitu*
 - \[noun\], masculine
 - “food.”
 ------------------------------------------------------------------------
-- *pitubhājo* \< *bhājaḥ* \< *bhāj*
+- *pitubhājo* ← *bhājaḥ* ← *bhāj*
 - \[noun\], nominative, plural, masculine
 - “enjoying; consisting of.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
@@ -56,12 +56,12 @@ title = "Rig Veda 1.124.12"
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *sate* \< *as*
+- *sate* ← *as*
 - \[verb noun\], dative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vahasi* \< *vah*
+- *vahasi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -70,23 +70,23 @@ title = "Rig Veda 1.124.12"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

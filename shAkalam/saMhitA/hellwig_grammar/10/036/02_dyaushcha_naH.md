@@ -2,7 +2,7 @@
 title = "Rig Veda 10.36.2"
 
 +++
--   *dyauś* \< *dyauḥ* \< *div*
+-   *dyauś* ← *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.36.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 10.36.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pracetasa* \< *pracetasaḥ* \< *pracetas*
+- *pracetasa* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *ṛtāvarī* \< *ṛtāvan*
+- *ṛtāvarī* ← *ṛtāvan*
 - \[noun\], nominative, dual, feminine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *rakṣatām* \< *rakṣ*
+- *rakṣatām* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *riṣaḥ* \< *riṣ*
+- *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
 ------------------------------------------------------------------------
@@ -46,41 +46,41 @@ title = "Rig Veda 10.36.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *durvidatrā* \< *durvidatra*
+- *durvidatrā* ← *durvidatra*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *nirṛtir* \< *nirṛtiḥ* \< *nirṛti*
+- *nirṛtir* ← *nirṛtiḥ* ← *nirṛti*
 - \[noun\], nominative, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

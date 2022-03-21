@@ -2,17 +2,17 @@
 title = "Rig Veda 10.124.3"
 
 +++
--   *paśyann* \< *paśyan* \< *paś*
+-   *paśyann* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *anyasyā* \< *anyasyāḥ* \< *anya*
+- *anyasyā* ← *anyasyāḥ* ← *anya*
 - \[noun\], genitive, singular, feminine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *atithiṃ* \< *atithim* \< *atithi*
+- *atithiṃ* ← *atithim* \< *atithi*
 - \[noun\], accusative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------

@@ -2,18 +2,18 @@
 title = "Rig Veda 9.79.1"
 
 +++
--   *acodaso* \< *acodasaḥ* \< *acodas*
+-   *acodaso* ← *acodasaḥ* ← *acodas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhanvantv* \< *dhanvantu* \< *dhanv*
+- *dhanvantv* ← *dhanvantu* ← *dhanv*
 - \[verb\], plural, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -22,15 +22,15 @@ title = "Rig Veda 9.79.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *suvānāso* \< *suvānāsaḥ* \< *su*
+- *suvānāso* ← *suvānāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *bṛhaddiveṣu* \< *bṛhaddiva*
+- *bṛhaddiveṣu* ← *bṛhaddiva*
 - \[noun\], locative, plural, masculine
 - “Bṛhaddiva.”
 ------------------------------------------------------------------------
-- *harayaḥ* \< *hari*
+- *harayaḥ* ← *hari*
 - \[noun\], nominative, plural, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
@@ -42,38 +42,38 @@ title = "Rig Veda 9.79.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naśan* \< *naś*
+- *naśan* ← *naś*
 - \[verb\], plural, Aorist inj. (proh.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *arātayo* \< *arātayaḥ* \< *arāti*
+- *arātayo* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *'ryo* \< *aryaḥ* \< *ari*
+- *'ryo* ← *aryaḥ* ← *ari*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *naśanta* \< *naś*
+- *naśanta* ← *naś*
 - \[verb\], plural, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *saniṣanta* \< *san*
+- *saniṣanta* ← *san*
 - \[verb\], plural, Aorist conj./subj.
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

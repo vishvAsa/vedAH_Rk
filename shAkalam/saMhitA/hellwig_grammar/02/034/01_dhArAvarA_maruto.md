@@ -2,27 +2,27 @@
 title = "Rig Veda 2.34.1"
 
 +++
--   *dhārāvarā* \< *dhārā*
+-   *dhārāvarā* ← *dhārā*
 - \[noun\], feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *dhārāvarā* \< *varāḥ* \< *vara*
+- *dhārāvarā* ← *varāḥ* ← *vara*
 - \[noun\], nominative, plural, masculine
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *dhṛṣṇvojaso* \< *dhṛṣṇu*
+- *dhṛṣṇvojaso* ← *dhṛṣṇu*
 - \[noun\]
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *dhṛṣṇvojaso* \< *ojasaḥ* \< *ojas*
+- *dhṛṣṇvojaso* ← *ojasaḥ* ← *ojas*
 - \[noun\], nominative, plural, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *mṛgā* \< *mṛgāḥ* \< *mṛga*
+- *mṛgā* ← *mṛgāḥ* ← *mṛga*
 - \[noun\], nominative, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -30,18 +30,18 @@ title = "Rig Veda 2.34.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīmās* \< *bhīmāḥ* \< *bhīma*
+- *bhīmās* ← *bhīmāḥ* ← *bhīma*
 - \[noun\], nominative, plural, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *taviṣībhir* \< *taviṣībhiḥ* \< *taviṣī*
+- *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *arcinaḥ* \< *arcin*
+- *arcinaḥ* ← *arcin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *agnayo* \< *agnayaḥ* \< *agni*
+- *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -51,17 +51,17 @@ title = "Rig Veda 2.34.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śuśucānā* \< *śuśucānāḥ* \< *śuc*
+- *śuśucānā* ← *śuśucānāḥ* ← *śuc*
 - \[verb noun\], nominative, plural
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *ṛjīṣiṇo* \< *ṛjīṣiṇaḥ* \< *ṛjīṣin*
+- *ṛjīṣiṇo* ← *ṛjīṣiṇaḥ* ← *ṛjīṣin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *bhṛmiṃ* \< *bhṛmim* \< *bhṛmi*
+- *bhṛmiṃ* ← *bhṛmim* ← *bhṛmi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhamanto* \< *dhamantaḥ* \< *dham*
+- *dhamanto* ← *dhamantaḥ* ← *dham*
 - \[verb noun\], nominative, plural
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
@@ -69,12 +69,12 @@ title = "Rig Veda 2.34.1"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *avṛṇvata* \< *vṛ*
+- *avṛṇvata* ← *vṛ*
 - \[verb\], plural, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

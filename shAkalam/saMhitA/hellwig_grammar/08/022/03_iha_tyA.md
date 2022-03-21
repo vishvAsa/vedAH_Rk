@@ -6,43 +6,43 @@ title = "Rig Veda 8.22.3"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *puru*
+- *purubhūtamā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhūtamā* \< *bhūtamā* \< *bhūtama*
+- *purubhūtamā* ← *bhūtamā* ← *bhūtama*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *devā* \< *deva*
+- *devā* ← *deva*
 - \[noun\], accusative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *arvācīnā* \< *arvācīna*
+- *arvācīnā* ← *arvācīna*
 - \[noun\], accusative, dual, masculine
 - “favorable; backward; inclined(p).”
 ------------------------------------------------------------------------
-- *sv* \< *su*
+- *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *karāmahe* \< *kṛ*
+- *karāmahe* ← *kṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -53,15 +53,15 @@ title = "Rig Veda 8.22.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gantārā* \< *gantṛ*
+- *gantārā* ← *gantṛ*
 - \[noun\], accusative, dual, masculine
 - “going.”
 ------------------------------------------------------------------------
-- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *gṛham* \< *gṛha*
+- *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------

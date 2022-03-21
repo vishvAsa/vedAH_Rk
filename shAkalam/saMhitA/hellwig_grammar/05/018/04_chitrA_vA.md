@@ -2,7 +2,7 @@
 title = "Rig Veda 5.18.4"
 
 +++
--   *citrā* \< *citra*
+-   *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
@@ -12,27 +12,27 @@ title = "Rig Veda 5.18.4"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dīdhitir* \< *dīdhitiḥ* \< *dīdhiti*
+- *dīdhitir* ← *dīdhitiḥ* ← *dīdhiti*
 - \[noun\], nominative, singular, feminine
 - “beam.”
 ------------------------------------------------------------------------
-- *āsann* \< *āsan*
+- *āsann* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *ukthā* \< *uktha*
+- *ukthā* ← *uktha*
 - \[noun\], accusative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *pānti* \< *pā*
+- *pānti* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

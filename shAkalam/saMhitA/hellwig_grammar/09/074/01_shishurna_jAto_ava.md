@@ -2,7 +2,7 @@
 title = "Rig Veda 9.74.1"
 
 +++
--   *śiśur* \< *śiśuḥ* \< *śiśu*
+-   *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -10,21 +10,21 @@ title = "Rig Veda 9.74.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jāto* \< *jātaḥ* \< *jan*
+- *jāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *cakradad* \< *cakradat* \< *krand*
+- *cakradad* ← *cakradat* ← *krand*
 - \[verb\], singular, Plusquamperfect
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *vane* \< *vana*
+- *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -32,61 +32,61 @@ title = "Rig Veda 9.74.1"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *aruṣaḥ* \< *aruṣa*
+- *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *siṣāsati* \< *siṣās* \< *√san*
+- *siṣāsati* ← *siṣās* ← *√san*
 - \[verb\], singular, Present indikative
 - “win; gain.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *retasā* \< *retas*
+- *retasā* ← *retas*
 - \[noun\], instrumental, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *payovṛdhā* \< *payaḥ* \< *payas*
+- *payovṛdhā* ← *payaḥ* ← *payas*
 - \[noun\], neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *payovṛdhā* \< *vṛdhā* \< *vṛdh*
+- *payovṛdhā* ← *vṛdhā* ← *vṛdh*
 - \[noun\], instrumental, singular, neuter
 - “increasing.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *sumatī* \< *sumati*
+- *sumatī* ← *sumati*
 - \[noun\], dative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *saprathaḥ* \< *saprathas*
+- *saprathaḥ* ← *saprathas*
 - \[noun\], accusative, singular, neuter
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------

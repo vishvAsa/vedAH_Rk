@@ -2,27 +2,27 @@
 title = "Rig Veda 9.86.35"
 
 +++
--   *iṣam* \< *iṣ*
+-   *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ūrjam* \< *ūrj*
+- *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *pavamānābhy* \< *pavamāna* \< *pū*
+- *pavamānābhy* ← *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pavamānābhy* \< *abhi*
+- *pavamānābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arṣasi* \< *ṛṣ*
+- *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -30,54 +30,54 @@ title = "Rig Veda 9.86.35"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vaṃsu* \< *van*
+- *vaṃsu* ← *van*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *sīdasi* \< *sad*
+- *sīdasi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *madvā* \< *madvan*
+- *madvā* ← *madvan*
 - \[noun\], nominative, singular, masculine
 - “intoxicated.”
 ------------------------------------------------------------------------
-- *madyo* \< *madyaḥ* \< *mad*
+- *madyo* ← *madyaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *madaḥ* \< *mada*
+- *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *viṣṭambha* \< *viṣṭambhaḥ* \< *viṣṭambha*
+- *viṣṭambha* ← *viṣṭambhaḥ* ← *viṣṭambha*
 - \[noun\], nominative, singular, masculine
 - “constipation.”
 ------------------------------------------------------------------------
-- *upamo* \< *upamaḥ* \< *upama*
+- *upamo* ← *upamaḥ* ← *upama*
 - \[noun\], nominative, singular, masculine
 - “like; alike(p); colored; similar; like; comparable; equal.”
 ------------------------------------------------------------------------
-- *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------

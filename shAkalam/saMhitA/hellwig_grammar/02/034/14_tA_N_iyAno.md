@@ -2,13 +2,13 @@
 title = "Rig Veda 2.34.14"
 
 +++
--   *tāṃ* \< *tad*
+-   *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *iyāno* \< *iyānaḥ* \< *i*
+- *iyāno* ← *iyānaḥ* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 2.34.14"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *ūtaya* \< *ūtaye* \< *ūti*
+- *ūtaya* ← *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -28,26 +28,26 @@ title = "Rig Veda 2.34.14"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *enā* \< *idam*
+- *enā* ← *idam*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *gṛṇīmasi* \< *gṛ*
+- *gṛṇīmasi* ← *gṛ*
 - \[verb\], plural, Present optative
 - “praise.”
 ------------------------------------------------------------------------
-- *trito* \< *tritaḥ* \< *trita*
+- *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
@@ -55,36 +55,36 @@ title = "Rig Veda 2.34.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yān* \< *yad*
+- *yān* ← *yad*
 - \[noun\], accusative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, masculine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *hotṝn* \< *hotṛ*
+- *hotṝn* ← *hotṛ*
 - \[noun\], accusative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *abhiṣṭaya* \< *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaya* ← *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *āvavartad* \< *āvavartat* \< *āvṛt* \< *√vṛt*
+- *āvavartad* ← *āvavartat* ← *āvṛt* ← *√vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “melt; return; melt; to be reborn; turn; turn; revolve; roll.”
 ------------------------------------------------------------------------
-- *avarāñ* \< *avarān* \< *avara*
+- *avarāñ* ← *avarān* ← *avara*
 - \[noun\], accusative, plural, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *cakriyāvase* \< *cakriyā* \< *cakrī*
+- *cakriyāvase* ← *cakriyā* ← *cakrī*
 - \[noun\], instrumental, singular, feminine
 - “cakrikā.”
 ------------------------------------------------------------------------
-- *cakriyāvase* \< *avase* \< *av*
+- *cakriyāvase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

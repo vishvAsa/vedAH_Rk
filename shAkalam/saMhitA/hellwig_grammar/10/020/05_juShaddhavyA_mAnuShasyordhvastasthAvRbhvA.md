@@ -2,20 +2,20 @@
 title = "Rig Veda 10.20.5"
 
 +++
--   *juṣaddhavyā* \< *juṣat* \< *juṣ*
+-   *juṣaddhavyā* ← *juṣat* ← *juṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *juṣaddhavyā* \< *havyā* \< *havya*
+- *juṣaddhavyā* ← *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣasyordhvas* \< *mānuṣasya* \< *mānuṣa*
+- *mānuṣasyordhvas* ← *mānuṣasya* ← *mānuṣa*
 - \[noun\], genitive, singular, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *mānuṣasyordhvas* \< *ūrdhvaḥ* \< *ūrdhva*
+- *mānuṣasyordhvas* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”

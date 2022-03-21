@@ -2,22 +2,22 @@
 title = "Rig Veda 5.62.6"
 
 +++
--   *akravihastā* \< *a*
+-   *akravihastā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akravihastā* \< *kravi*
+- *akravihastā* ← *kravi*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *akravihastā* \< *hastā* \< *hasta*
+- *akravihastā* ← *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *su*
+- *sukṛte* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛte* \< *kṛte* \< *kṛt*
+- *sukṛte* ← *kṛte* ← *kṛt*
 - \[noun\], dative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
@@ -25,51 +25,51 @@ title = "Rig Veda 5.62.6"
 - *paraspā*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *trāsāthe* \< *trā*
+- *trāsāthe* ← *trā*
 - \[verb\], dual, Aorist conj./subj.
 - “protect; help.”
 ------------------------------------------------------------------------
-- *varuṇeﾱāsv* \< *varuṇā* \< *varuṇa*
+- *varuṇeﾱāsv* ← *varuṇā* ← *varuṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇeﾱāsv* \< *iﾱāsu* \< *iḍā*
+- *varuṇeﾱāsv* ← *iﾱāsu* ← *iḍā*
 - \[noun\], locative, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *rājānā* \< *rājan*
+- *rājānā* ← *rājan*
 - \[noun\], nominative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *kṣatram* \< *kṣatra*
+- *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *ahṛṇīyamānā* \< *a*
+- *ahṛṇīyamānā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahṛṇīyamānā* \< *hṛṇīyamānā* \< *hṛṇīy*
+- *ahṛṇīyamānā* ← *hṛṇīyamānā* ← *hṛṇīy*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *sahasrasthūṇam* \< *sahasra*
+- *sahasrasthūṇam* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasthūṇam* \< *sthūṇam* \< *sthūṇā*
+- *sahasrasthūṇam* ← *sthūṇam* ← *sthūṇā*
 - \[noun\], accusative, singular, neuter
 - “column; post.”
 ------------------------------------------------------------------------
-- *bibhṛthaḥ* \< *bhṛ*
+- *bibhṛthaḥ* ← *bhṛ*
 - \[verb\], dual, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -78,7 +78,7 @@ title = "Rig Veda 5.62.6"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *dvau* \< *dvi*
+- *dvau* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 8.20.23"
 
 +++
--   *maruto* \< *marutaḥ* \< *marut*
+-   *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mārutasya* \< *māruta*
+- *mārutasya* ← *māruta*
 - \[noun\], genitive, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,28 +18,28 @@ title = "Rig Veda 8.20.23"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bheṣajasya* \< *bheṣaja*
+- *bheṣajasya* ← *bheṣaja*
 - \[noun\], genitive, singular, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
-- *vahatā* \< *vahata* \< *vah*
+- *vahatā* ← *vahata* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *saptayaḥ* \< *sapti*
+- *saptayaḥ* ← *sapti*
 - \[noun\], vocative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------

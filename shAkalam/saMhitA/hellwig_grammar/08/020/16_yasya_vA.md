@@ -2,7 +2,7 @@
 title = "Rig Veda 8.20.16"
 
 +++
--   *yasya* \< *yad*
+-   *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 8.20.16"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 8.20.16"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *nara* \< *naraḥ* \< *nṛ*
+- *nara* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -30,14 +30,14 @@ title = "Rig Veda 8.20.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *gatha* \< *\_* \< *√\_*
+- *gatha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -45,13 +45,13 @@ title = "Rig Veda 8.20.16"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣa* \< *sa* \< *tad*
+- *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -59,23 +59,23 @@ title = "Rig Veda 8.20.16"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vājasātibhiḥ* \< *vājasāti*
+- *vājasātibhiḥ* ← *vājasāti*
 - \[noun\], instrumental, plural, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *sumnā* \< *sumna*
+- *sumnā* ← *sumna*
 - \[noun\], accusative, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dhūtayo* \< *dhūtayaḥ* \< *dhūti*
+- *dhūtayo* ← *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *naśat* \< *naś*
+- *naśat* ← *naś*
 - \[verb\], singular, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------

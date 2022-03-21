@@ -6,7 +6,7 @@ title = "Rig Veda 6.62.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paramābhir* \< *paramābhiḥ* \< *parama*
+- *paramābhir* ← *paramābhiḥ* ← *parama*
 - \[noun\], instrumental, plural, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
@@ -15,21 +15,21 @@ title = "Rig Veda 6.62.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *madhyamābhir* \< *madhyamābhiḥ* \< *madhyama*
+- *madhyamābhir* ← *madhyamābhiḥ* ← *madhyama*
 - \[noun\], instrumental, plural, feminine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *niyudbhir* \< *niyudbhiḥ* \< *niyut*
+- *niyudbhir* ← *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *avamābhir* \< *avamābhiḥ* \< *avama*
+- *avamābhir* ← *avamābhiḥ* ← *avama*
 - \[noun\], instrumental, plural, feminine
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
@@ -37,17 +37,17 @@ title = "Rig Veda 6.62.11"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *dṛﾱhasya* \< *dṛḍha*
+- *dṛﾱhasya* ← *dṛḍha*
 - \[noun\], genitive, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *gomato* \< *gomataḥ* \< *gomat*
+- *gomato* ← *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -55,31 +55,31 @@ title = "Rig Veda 6.62.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vrajasya* \< *vraja*
+- *vrajasya* ← *vraja*
 - \[noun\], genitive, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *vartaṃ* \< *vartam* \< *vṛ*
+- *vartaṃ* ← *vartam* ← *vṛ*
 - \[verb\], dual, Aorist imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *citrarātī* \< *citra*
+- *citrarātī* ← *citra*
 - \[noun\]
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *citrarātī* \< *rātī* \< *rāti*
+- *citrarātī* ← *rātī* ← *rāti*
 - \[noun\], vocative, dual, masculine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------

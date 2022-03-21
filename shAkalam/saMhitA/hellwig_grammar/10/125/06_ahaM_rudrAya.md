@@ -2,15 +2,15 @@
 title = "Rig Veda 10.125.6"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *dhanur* \< *dhanuḥ* \< *dhanus*
+- *dhanur* ← *dhanuḥ* ← *dhanus*
 - \[noun\], accusative, singular, neuter
 - “bow; archery; dhanus \[word\].”
 ------------------------------------------------------------------------
@@ -18,25 +18,25 @@ title = "Rig Veda 10.125.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tanomi* \< *tan*
+- *tanomi* ← *tan*
 - \[verb\], singular, Present indikative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *brahma* \< *brahman*
+- *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *dviṣe* \< *dviṣ*
+- *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *śarave* \< *śaru*
+- *śarave* ← *śaru*
 - \[noun\], dative, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *hantavā* \< *hantavai* \< *han*
+- *hantavā* ← *hantavai* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -46,20 +46,20 @@ title = "Rig Veda 10.125.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *samadaṃ* \< *samadam* \< *samad*
+- *samadaṃ* ← *samadam* ← *samad*
 - \[noun\], accusative, singular, feminine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *kṛṇomy* \< *kṛṇomi* \< *kṛ*
+- *kṛṇomy* ← *kṛṇomi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -70,7 +70,7 @@ title = "Rig Veda 10.125.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* \< *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------

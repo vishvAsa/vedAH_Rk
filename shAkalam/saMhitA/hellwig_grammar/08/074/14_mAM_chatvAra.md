@@ -2,31 +2,31 @@
 title = "Rig Veda 8.74.14"
 
 +++
--   *māṃ* \< *mām* \< *mad*
+-   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *catvāra* \< *catvāraḥ* \< *catur*
+- *catvāra* ← *catvāraḥ* ← *catur*
 - \[noun\], nominative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *āśavaḥ* \< *āśu*
+- *āśavaḥ* ← *āśu*
 - \[noun\], nominative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *śaviṣṭhasya* \< *śaviṣṭha*
+- *śaviṣṭhasya* ← *śaviṣṭha*
 - \[noun\], genitive, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *dravitnavaḥ* \< *dravitnu*
+- *dravitnavaḥ* ← *dravitnu*
 - \[noun\], nominative, plural, masculine
 - “fast.”
 ------------------------------------------------------------------------
-- *surathāso* \< *su*
+- *surathāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surathāso* \< *rathāsaḥ* \< *ratha*
+- *surathāso* ← *rathāsaḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -34,16 +34,16 @@ title = "Rig Veda 8.74.14"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayo* \< *prayaḥ* \< *prayas*
+- *prayo* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *vakṣan* \< *vah*
+- *vakṣan* ← *vah*
 - \[verb\], plural, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -51,6 +51,6 @@ title = "Rig Veda 8.74.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tugryam* \< *tugrya*
+- *tugryam* ← *tugrya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

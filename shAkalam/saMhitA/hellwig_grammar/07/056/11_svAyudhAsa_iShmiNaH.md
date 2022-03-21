@@ -2,22 +2,22 @@
 title = "Rig Veda 7.56.11"
 
 +++
--   *svāyudhāsa* \< *su*
+-   *svāyudhāsa* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyudhāsa* \< *āyudhāsaḥ* \< *āyudha*
+- *svāyudhāsa* ← *āyudhāsaḥ* ← *āyudha*
 - \[noun\], nominative, plural, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *iṣmiṇaḥ* \< *iṣmin*
+- *iṣmiṇaḥ* ← *iṣmin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *suniṣkā* \< *su*
+- *suniṣkā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suniṣkā* \< *niṣkāḥ* \< *niṣka*
+- *suniṣkā* ← *niṣkāḥ* ← *niṣka*
 - \[noun\], nominative, plural, masculine
 - “niṣka; gold; Niṣka; niṣka \[word\]; Niṣka.”
 ------------------------------------------------------------------------
@@ -25,15 +25,15 @@ title = "Rig Veda 7.56.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *svayaṃ* \< *svayam*
+- *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
 ------------------------------------------------------------------------
-- *tanvaḥ* \< *tanū*
+- *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śumbhamānāḥ* \< *śubh*
+- *śumbhamānāḥ* ← *śubh*
 - \[verb noun\], nominative, plural
 - “look; shine; beautify.”
 ------------------------------------------------------------------------

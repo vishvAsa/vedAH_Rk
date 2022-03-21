@@ -2,23 +2,23 @@
 title = "Rig Veda 3.15.5"
 
 +++
--   *acchidrā* \< *acchidra*
+-   *acchidrā* ← *acchidra*
 - \[noun\], accusative, plural, neuter
 - “uninjured; unbroken.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, plural, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *jaritaḥ* \< *jaritar* \< *jaritṛ*
+- *jaritaḥ* ← *jaritar* ← *jaritṛ*
 - \[noun\], vocative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -27,15 +27,15 @@ title = "Rig Veda 3.15.5"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *dīdyānaḥ* \< *dīdī*
+- *dīdyānaḥ* ← *dīdī*
 - \[verb noun\], nominative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *sumedhāḥ* \< *sumedhas*
+- *sumedhāḥ* ← *sumedhas*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 3.15.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sasnir* \< *sasniḥ* \< *sasni*
+- *sasnir* ← *sasniḥ* ← *sasni*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
@@ -51,34 +51,34 @@ title = "Rig Veda 3.15.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumeke* \< *sumeka*
+- *sumeke* ← *sumeka*
 - \[noun\], accusative, dual, neuter
 - “fast; fixed.”
 ------------------------------------------------------------------------

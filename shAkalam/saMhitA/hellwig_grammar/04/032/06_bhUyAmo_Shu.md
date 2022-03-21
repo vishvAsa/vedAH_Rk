@@ -2,25 +2,25 @@
 title = "Rig Veda 4.32.6"
 
 +++
--   *bhūyāmo* \< *bhūyāma* \< *bhū*
+-   *bhūyāmo* ← *bhūyāma* ← *bhū*
 - \[verb\], plural, Aorist optative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *bhūyāmo* \< *u*
+- *bhūyāmo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tvāvataḥ* \< *tvāvat*
+- *tvāvataḥ* ← *tvāvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -29,19 +29,19 @@ title = "Rig Veda 4.32.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *yujo* \< *yujaḥ* \< *yuj*
+- *yujo* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ghṛṣvaye* \< *ghṛṣvi*
+- *ghṛṣvaye* ← *ghṛṣvi*
 - \[noun\], dative, singular, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------

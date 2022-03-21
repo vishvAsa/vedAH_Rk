@@ -2,28 +2,28 @@
 title = "Rig Veda 9.100.7"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rihanti* \< *rih*
+- *rihanti* ← *rih*
 - \[verb\], plural, Present indikative
 - “lick.”
 ------------------------------------------------------------------------
-- *mātaro* \< *mātaraḥ* \< *mātṛ*
+- *mātaro* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *harim* \< *hari*
+- *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *pavitre* \< *pavitra*
+- *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *adruhaḥ* \< *adruh*
+- *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, feminine
 - “friendly; benign.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 1.102.7"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatān* \< *śatāt* \< *śata*
+- *śatān* ← *śatāt* ← *śata*
 - \[noun\], ablative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *uc* \< *ud*
+- *uc* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
@@ -26,35 +26,35 @@ title = "Rig Veda 1.102.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhūyasa* \< *bhūyasaḥ* \< *bhūyas*
+- *bhūyasa* ← *bhūyasaḥ* ← *bhūyas*
 - \[noun\], ablative, singular, neuter
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *sahasrād* \< *sahasrāt* \< *sahasra*
+- *sahasrād* ← *sahasrāt* ← *sahasra*
 - \[noun\], ablative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *ririce* \< *ric*
+- *ririce* ← *ric*
 - \[verb\], singular, Perfect indicative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *kṛṣṭiṣu* \< *kṛṣṭi*
+- *kṛṣṭiṣu* ← *kṛṣṭi*
 - \[noun\], locative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *śravaḥ* \< *śravas*
+- *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *amātraṃ* \< *amātram* \< *amātra*
+- *amātraṃ* ← *amātram* ← *amātra*
 - \[noun\], accusative, singular, masculine
 - “immeasurable.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -62,28 +62,28 @@ title = "Rig Veda 1.102.7"
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *titviṣe* \< *tviṣ*
+- *titviṣe* ← *tviṣ*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *mahy* \< *mahī* \< *mah*
+- *mahy* ← *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *jighnase* \< *han*
+- *jighnase* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *purandara* \< *puraṃdara*
+- *purandara* ← *puraṃdara*
 - \[noun\], vocative, singular, masculine
 - “Indra; puraṃdara \[word\].”
 ------------------------------------------------------------------------

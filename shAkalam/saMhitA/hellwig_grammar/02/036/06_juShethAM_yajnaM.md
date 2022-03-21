@@ -2,41 +2,41 @@
 title = "Rig Veda 2.36.6"
 
 +++
--   *juṣethāṃ* \< *juṣethām* \< *juṣ*
+-   *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *bodhataṃ* \< *bodhatam* \< *budh*
+- *bodhataṃ* ← *bodhatam* ← *budh*
 - \[verb\], dual, Present imperative
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *havasya* \< *hava*
+- *havasya* ← *hava*
 - \[noun\], genitive, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *satto* \< *sattaḥ* \< *sad*
+- *satto* ← *sattaḥ* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *nividaḥ* \< *nivid*
+- *nividaḥ* ← *nivid*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *pūrvyā* \< *pūrvyāḥ* \< *pūrvya*
+- *pūrvyā* ← *pūrvyāḥ* ← *pūrvya*
 - \[noun\], accusative, plural, feminine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
@@ -48,34 +48,34 @@ title = "Rig Veda 2.36.6"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *rājānā* \< *rājan*
+- *rājānā* ← *rājan*
 - \[noun\], accusative, dual, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *nama* \< *namaḥ* \< *namas*
+- *nama* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *āvṛtam* \< *āvṛt*
+- *āvṛtam* ← *āvṛt*
 - \[noun\], accusative, singular, feminine
 - “arrival.”
 ------------------------------------------------------------------------
-- *praśāstrād* \< *praśāstrāt* \< *praśāstra*
+- *praśāstrād* ← *praśāstrāt* ← *praśāstra*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pibataṃ* \< *pibatam* \< *pā*
+- *pibataṃ* ← *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------

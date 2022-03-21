@@ -2,34 +2,34 @@
 title = "Rig Veda 6.18.7"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *janima* \< *janiman*
+- *janima* ← *janiman*
 - \[noun\], accusative, singular, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *mānuṣāṇām* \< *mānuṣa*
+- *mānuṣāṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *amartyena* \< *amartya*
+- *amartyena* ← *amartya*
 - \[noun\], instrumental, singular, neuter
 - “immortal.”
 ------------------------------------------------------------------------
-- *nāmnāti* \< *nāmnā* \< *nāman*
+- *nāmnāti* ← *nāmnā* ← *nāman*
 - \[noun\], instrumental, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *nāmnāti* \< *ati*
+- *nāmnāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
@@ -37,34 +37,34 @@ title = "Rig Veda 6.18.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sarsre* \< *sarsṛ* \< *√sṛ*
+- *sarsre* ← *sarsṛ* ← *√sṛ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dyumnena* \< *dyumna*
+- *dyumnena* ← *dyumna*
 - \[noun\], instrumental, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śavasota* \< *śavasā* \< *śavas*
+- *śavasota* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasota* \< *uta*
+- *śavasota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -72,15 +72,15 @@ title = "Rig Veda 6.18.7"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *vīryeṇa* \< *vīrya*
+- *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *nṛtamaḥ* \< *nṛtama*
+- *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *samokāḥ* \< *samokas*
+- *samokāḥ* ← *samokas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

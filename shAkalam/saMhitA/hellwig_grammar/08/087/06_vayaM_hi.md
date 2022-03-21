@@ -2,7 +2,7 @@
 title = "Rig Veda 8.87.6"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,64 +10,64 @@ title = "Rig Veda 8.87.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vipanyavo* \< *vipanyavaḥ* \< *vipanyu*
+- *vipanyavo* ← *vipanyavaḥ* ← *vipanyu*
 - \[noun\], nominative, plural, masculine
 - “admiring; laudatory.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *valgū* \< *valgu*
+- *valgū* ← *valgu*
 - \[noun\], nominative, dual, masculine
 - “lovely; beautiful; agreeable; fine-looking.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *purudaṃsasā* \< *puru*
+- *purudaṃsasā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purudaṃsasā* \< *daṃsasā* \< *daṃsas*
+- *purudaṃsasā* ← *daṃsasā* ← *daṃsas*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *dhiyāśvinā* \< *dhiyā* \< *dhī*
+- *dhiyāśvinā* ← *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhiyāśvinā* \< *aśvinā* \< *aśvin*
+- *dhiyāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *śruṣṭy* \< *śruṣṭī* \< *śruṣṭi*
+- *śruṣṭy* ← *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

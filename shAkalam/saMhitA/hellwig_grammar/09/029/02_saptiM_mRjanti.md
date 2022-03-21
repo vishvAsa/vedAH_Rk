@@ -2,7 +2,7 @@
 title = "Rig Veda 9.29.2"
 
 +++
--   *saptim* \< *sapti*
+-   *saptim* ← *sapti*
 - \[noun\], accusative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------

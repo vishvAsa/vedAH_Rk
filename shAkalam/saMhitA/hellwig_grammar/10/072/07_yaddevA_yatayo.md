@@ -2,16 +2,16 @@
 title = "Rig Veda 10.72.7"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yatayo* \< *yatayaḥ* \< *yati*
+- *yatayo* ← *yatayaḥ* ← *yati*
 - \[noun\], nominative, plural, masculine
 - “ascetic; Yati.”
 ------------------------------------------------------------------------
@@ -19,20 +19,20 @@ title = "Rig Veda 10.72.7"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *bhuvanāny* \< *bhuvanāni* \< *bhuvana*
+- *bhuvanāny* ← *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *apinvata* \< *pinv*
+- *apinvata* ← *pinv*
 - \[verb\], plural, Imperfect
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *samudra* \< *samudre* \< *samudra*
+- *samudra* ← *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 10.72.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gūḍham* \< *guh*
+- *gūḍham* ← *guh*
 - \[verb noun\], accusative, singular
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
@@ -48,12 +48,12 @@ title = "Rig Veda 10.72.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *ajabhartana* \< *bhṛ*
+- *ajabhartana* ← *bhṛ*
 - \[verb\], plural, Plusquamperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

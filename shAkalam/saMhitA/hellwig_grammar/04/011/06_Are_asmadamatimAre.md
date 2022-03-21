@@ -6,11 +6,11 @@ title = "Rig Veda 4.11.6"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amatim* \< *amati*
+- *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “indigence.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 4.11.6"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *aṃha* \< *aṃhaḥ* \< *aṃhas*
+- *aṃha* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -26,20 +26,20 @@ title = "Rig Veda 4.11.6"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśvām* \< *viśva*
+- *viśvāṃ* ← *viśvām* ← *viśva*
 - \[noun\], accusative, singular, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *durmatiṃ* \< *durmatim* \< *durmati*
+- *durmatiṃ* ← *durmatim* ← *durmati*
 - \[noun\], accusative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nipāsi* \< *nipā* \< *√pā*
+- *nipāsi* ← *nipā* ← *√pā*
 - \[verb\], singular, Present indikative
 - “guard.”
 ------------------------------------------------------------------------
@@ -47,30 +47,30 @@ title = "Rig Veda 4.11.6"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *śivaḥ* \< *śiva*
+- *śivaḥ* ← *śiva*
 - \[noun\], nominative, singular, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *sahasaḥ* \< *sahas*
+- *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -83,7 +83,7 @@ title = "Rig Veda 4.11.6"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sacase* \< *sac*
+- *sacase* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

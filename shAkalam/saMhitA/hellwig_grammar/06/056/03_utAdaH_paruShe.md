@@ -2,46 +2,46 @@
 title = "Rig Veda 6.56.3"
 
 +++
--   *utādaḥ* \< *uta*
+-   *utādaḥ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utādaḥ* \< *adaḥ* \< *adas*
+- *utādaḥ* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *paruṣe* \< *paruṣa*
+- *paruṣe* ← *paruṣa*
 - \[noun\], locative, singular, masculine
 - “rough; harsh; boisterous; unsightly; varicolored; patched; cruel;
     clear.”
 ------------------------------------------------------------------------
-- *gavi* \< *go*
+- *gavi* ← *go*
 - \[noun\], locative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sūraś* \< *sūraḥ* \< *svar*
+- *sūraś* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, neuter
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *airayad* \< *airayat* \< *īray* \< *√īr*
+- *airayad* ← *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *rathītamaḥ* \< *rathītama*
+- *rathītamaḥ* ← *rathītama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -6,10 +6,10 @@ title = "Rig Veda 6.45.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vasur* \< *vasuḥ* \< *vasu*
+- *vasur* ← *vasuḥ* ← *vasu*
 - \[noun\], nominative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -17,20 +17,20 @@ title = "Rig Veda 6.45.23"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yamate* \< *yam*
+- *yamate* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *dānaṃ* \< *dānam* \< *dāna*
+- *dānaṃ* ← *dānam* ← *dāna*
 - \[noun\], accusative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *vājasya* \< *vāja*
+- *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *gomataḥ* \< *gomat*
+- *gomataḥ* ← *gomat*
 - \[noun\], genitive, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 6.45.23"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śravad* \< *śravat* \< *śru*
+- *śravad* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

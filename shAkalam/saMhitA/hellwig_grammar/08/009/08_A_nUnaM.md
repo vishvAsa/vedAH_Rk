@@ -6,29 +6,29 @@ title = "Rig Veda 8.9.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *raghuvartaniṃ* \< *raghu*
+- *raghuvartaniṃ* ← *raghu*
 - \[noun\]
 - “low; fast.”
 ------------------------------------------------------------------------
-- *raghuvartaniṃ* \< *vartanim* \< *vartani*
+- *raghuvartaniṃ* ← *vartanim* ← *vartani*
 - \[noun\], accusative, singular, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tiṣṭhātho* \< *tiṣṭhāthaḥ* \< *sthā*
+- *tiṣṭhātho* ← *tiṣṭhāthaḥ* ← *sthā*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -36,23 +36,23 @@ title = "Rig Veda 8.9.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *stomā* \< *stomāḥ* \< *stoma*
+- *stomā* ← *stomāḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nabho* \< *nabhaḥ* \< *nabhas*
+- *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], nominative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 8.9.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cucyavīrata* \< *cyu*
+- *cucyavīrata* ← *cyu*
 - \[verb\], plural, Perfect optative
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”

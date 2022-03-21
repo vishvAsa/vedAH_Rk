@@ -2,65 +2,65 @@
 title = "Rig Veda 4.43.7"
 
 +++
--   *iheha* \< *iha*
+-   *iheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *iheha* \< *iha*
+- *iheha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
 - *samanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *papṛkṣe* \< *\_* \< *√\_*
+- *papṛkṣe* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *seyam* \< *sā* \< *tad*
+- *seyam* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *seyam* \< *iyam* \< *idam*
+- *seyam* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *vājaratnā* \< *vāja*
+- *vājaratnā* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājaratnā* \< *ratnā* \< *ratna*
+- *vājaratnā* ← *ratnā* ← *ratna*
 - \[noun\], nominative, singular, feminine
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *uruṣyataṃ* \< *uruṣyatam* \< *uruṣy*
+- *uruṣyataṃ* ← *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *jaritāraṃ* \< *jaritāram* \< *jaritṛ*
+- *jaritāraṃ* ← *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -68,20 +68,20 @@ title = "Rig Veda 4.43.7"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śritaḥ* \< *śri*
+- *śritaḥ* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *kāmo* \< *kāmaḥ* \< *kāma*
+- *kāmo* ← *kāmaḥ* ← *kāma*
 - \[noun\], nominative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *yuvadrik* \< *yuvadryañc*
+- *yuvadrik* ← *yuvadryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

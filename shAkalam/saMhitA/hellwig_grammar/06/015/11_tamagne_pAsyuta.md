@@ -2,19 +2,19 @@
 title = "Rig Veda 6.15.11"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pāsy* \< *pāsi* \< *pā*
+- *pāsy* ← *pāsi* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -22,29 +22,29 @@ title = "Rig Veda 6.15.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *piparṣi* \< *pṛ*
+- *piparṣi* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ānaṭ* \< *naś*
+- *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *kavaye* \< *kavi*
+- *kavaye* ← *kavi*
 - \[noun\], dative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -54,11 +54,11 @@ title = "Rig Veda 6.15.11"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *dhītim* \< *dhīti*
+- *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -66,14 +66,14 @@ title = "Rig Veda 6.15.11"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *niśitiṃ* \< *niśitim* \< *niśiti*
+- *niśitiṃ* ← *niśitim* ← *niśiti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *voditiṃ* \< *vā*
+- *voditiṃ* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *voditiṃ* \< *uditim* \< *uditi*
+- *voditiṃ* ← *uditim* ← *uditi*
 - \[noun\], accusative, singular, feminine
 - “rise.”
 ------------------------------------------------------------------------
@@ -81,29 +81,29 @@ title = "Rig Veda 6.15.11"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *pṛṇakṣi* \< *pṛc*
+- *pṛṇakṣi* ← *pṛc*
 - \[verb\], singular, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *śavasota* \< *śavasā* \< *śavas*
+- *śavasota* ← *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavasota* \< *uta*
+- *śavasota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------

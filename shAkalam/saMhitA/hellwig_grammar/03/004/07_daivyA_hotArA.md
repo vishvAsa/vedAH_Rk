@@ -2,67 +2,67 @@
 title = "Rig Veda 3.4.7"
 
 +++
--   *daivyā* \< *daivya*
+-   *daivyā* ← *daivya*
 - \[noun\], accusative, dual, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *hotārā* \< *hotṛ*
+- *hotārā* ← *hotṛ*
 - \[noun\], accusative, dual, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], accusative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṛñje* \< *ṛj*
+- *ṛñje* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *pṛkṣāsaḥ* \< *pṛkṣa*
+- *pṛkṣāsaḥ* ← *pṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “strong; full of life.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *śaṃsanta* \< *śaṃsantaḥ* \< *śaṃs*
+- *śaṃsanta* ← *śaṃsantaḥ* ← *śaṃs*
 - \[verb noun\], nominative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
@@ -71,21 +71,21 @@ title = "Rig Veda 3.4.7"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vrataṃ* \< *vratam* \< *vrata*
+- *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vratapā* \< *vrata*
+- *vratapā* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vratapā* \< *pāḥ* \< *pā*
+- *vratapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, plural, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *dīdhyānāḥ* \< *dhī*
+- *dīdhyānāḥ* ← *dhī*
 - \[verb noun\], nominative, plural
 - “think; desire; chew over.”
 ------------------------------------------------------------------------

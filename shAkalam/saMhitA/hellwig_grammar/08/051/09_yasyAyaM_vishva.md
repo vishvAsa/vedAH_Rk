@@ -2,75 +2,75 @@
 title = "Rig Veda 8.51.9"
 
 +++
--   *yasyāyaṃ* \< *yasya* \< *yad*
+-   *yasyāyaṃ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyāyaṃ* \< *ayam* \< *idam*
+- *yasyāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśva* \< *viśve* \< *viśva*
+- *viśva* ← *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *āryo* \< *āryaḥ* \< *ārya*
+- *āryo* ← *āryaḥ* ← *ārya*
 - \[noun\], nominative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *dāsaḥ* \< *dāsa*
+- *dāsaḥ* ← *dāsa*
 - \[noun\], nominative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *śevadhipā* \< *śevadhi*
+- *śevadhipā* ← *śevadhi*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *śevadhipā* \< *pāḥ* \< *pā*
+- *śevadhipā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *ariḥ* \< *ari*
+- *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
 - “enemy; ari; arivarga.”
 ------------------------------------------------------------------------
-- *tiraś* \< *tiras*
+- *tiraś* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *arye* \< *arya*
+- *arye* ← *arya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ruśame* \< *ruśama*
+- *ruśame* ← *ruśama*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *parīravi* \< *\_* \< *√\_*
+- *parīravi* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tubhyet* \< *tubhya* \< *tvad*
+- *tubhyet* ← *tubhya* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tubhyet* \< *id*
+- *tubhyet* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ajyate* \< *añj*
+- *ajyate* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *rayiḥ* \< *rayi*
+- *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------

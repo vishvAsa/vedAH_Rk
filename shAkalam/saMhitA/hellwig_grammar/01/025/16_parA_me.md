@@ -6,19 +6,19 @@ title = "Rig Veda 1.25.16"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhītayo* \< *dhītayaḥ* \< *dhīti*
+- *dhītayo* ← *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -27,7 +27,7 @@ title = "Rig Veda 1.25.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *gavyūtīr* \< *gavyūtīḥ* \< *gavyūti*
+- *gavyūtīr* ← *gavyūtīḥ* ← *gavyūti*
 - \[noun\], accusative, plural, feminine
 - “pasture.”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 1.25.16"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *icchantīr* \< *icchantīḥ* \< *iṣ*
+- *icchantīr* ← *icchantīḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *urucakṣasam* \< *uru*
+- *urucakṣasam* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urucakṣasam* \< *cakṣasam* \< *cakṣas*
+- *urucakṣasam* ← *cakṣasam* ← *cakṣas*
 - \[noun\], accusative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------

@@ -2,34 +2,34 @@
 title = "Rig Veda 1.165.2"
 
 +++
--   *kasya* \< *ka*
+-   *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jujuṣur* \< *jujuṣuḥ* \< *juṣ*
+- *jujuṣur* ← *jujuṣuḥ* ← *juṣ*
 - \[verb\], plural, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *yuvānaḥ* \< *yuvan*
+- *yuvānaḥ* ← *yuvan*
 - \[noun\], nominative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -37,13 +37,13 @@ title = "Rig Veda 1.165.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavarta* \< *vṛt*
+- *vavarta* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *śyenāṃ* \< *śyena*
+- *śyenāṃ* ← *śyena*
 - \[noun\], accusative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -51,28 +51,28 @@ title = "Rig Veda 1.165.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhrajato* \< *dhrajataḥ* \< *dhraj*
+- *dhrajato* ← *dhrajataḥ* ← *dhraj*
 - \[verb noun\], accusative, plural
 - “rush.”
 ------------------------------------------------------------------------
-- *antarikṣe* \< *antarikṣa*
+- *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *kena* \< *ka*
+- *kena* ← *ka*
 - \[noun\], instrumental, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *mahā* \< *mah*
+- *mahā* ← *mah*
 - \[noun\], instrumental, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *rīramāma* \< *ram*
+- *rīramāma* ← *ram*
 - \[verb\], plural, Aorist conj./subj.
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------

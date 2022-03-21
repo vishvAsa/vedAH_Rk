@@ -2,34 +2,34 @@
 title = "Rig Veda 5.41.18"
 
 +++
--   *tāṃ* \< *tām* \< *tad*
+-   *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *ūrjayantīm* \< *ūrjay*
+- *ūrjayantīm* ← *ūrjay*
 - \[verb noun\], accusative, singular
 - “strengthen.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

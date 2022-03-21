@@ -2,19 +2,19 @@
 title = "Rig Veda 6.45.4"
 
 +++
--   *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+-   *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *brahmavāhase* \< *brahma* \< *brahman*
+- *brahmavāhase* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmavāhase* \< *vāhase* \< *vāhas*
+- *brahmavāhase* ← *vāhase* ← *vāhas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *'rcata* \< *arcata* \< *arc*
+- *'rcata* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 6.45.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -40,15 +40,15 @@ title = "Rig Veda 6.45.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pramatir* \< *pramatiḥ* \< *pramati*
+- *pramatir* ← *pramatiḥ* ← *pramati*
 - \[noun\], nominative, singular, feminine
 - “care; solicitude; caution; providence.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------

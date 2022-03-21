@@ -2,84 +2,84 @@
 title = "Rig Veda 9.90.3"
 
 +++
--   *śūragrāmaḥ* \< *śūra*
+-   *śūragrāmaḥ* ← *śūra*
 - \[noun\], masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śūragrāmaḥ* \< *grāmaḥ* \< *grāma*
+- *śūragrāmaḥ* ← *grāmaḥ* ← *grāma*
 - \[noun\], nominative, singular, masculine
 - “village; grāma \[word\]; group; battalion; club; Hindu gamut;
     troop; multitude; crowd; kin; collection; people.”
 ------------------------------------------------------------------------
-- *sarvavīraḥ* \< *sarva*
+- *sarvavīraḥ* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvavīraḥ* \< *vīraḥ* \< *vīra*
+- *sarvavīraḥ* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *sahāvāñ* \< *sahāvān* \< *sahāvat*
+- *sahāvāñ* ← *sahāvān* ← *sahāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *jetā* \< *ji*
+- *jetā* ← *ji*
 - \[verb\], singular, periphrast. future
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sanitā* \< *san*
+- *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *dhanāni* \< *dhana*
+- *dhanāni* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *tigmāyudhaḥ* \< *tigma*
+- *tigmāyudhaḥ* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmāyudhaḥ* \< *āyudhaḥ* \< *āyudha*
+- *tigmāyudhaḥ* ← *āyudhaḥ* ← *āyudha*
 - \[noun\], nominative, singular, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *kṣipradhanvā* \< *kṣipra*
+- *kṣipradhanvā* ← *kṣipra*
 - \[noun\]
 - “quick; kṣipra \[word\]; fast.”
 ------------------------------------------------------------------------
-- *kṣipradhanvā* \< *dhanvā* \< *dhanvan*
+- *kṣipradhanvā* ← *dhanvā* ← *dhanvan*
 - \[noun\], nominative, singular, masculine
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *samatsv* \< *samatsu* \< *samad*
+- *samatsv* ← *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
-- *aṣāﾱhaḥ* \< *a*
+- *aṣāﾱhaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aṣāﾱhaḥ* \< *sāḍhaḥ* \< *sah*
+- *aṣāﾱhaḥ* ← *sāḍhaḥ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *sāhvān* \< *sah*
+- *sāhvān* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------

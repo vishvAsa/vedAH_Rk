@@ -2,56 +2,56 @@
 title = "Rig Veda 7.65.3"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *bhūripāśāv* \< *bhūri*
+- *bhūripāśāv* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūripāśāv* \< *pāśau* \< *pāśa*
+- *bhūripāśāv* ← *pāśau* ← *pāśa*
 - \[noun\], nominative, dual, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *anṛtasya* \< *anṛta*
+- *anṛtasya* ← *anṛta*
 - \[noun\], genitive, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *setū* \< *setu*
+- *setū* ← *setu*
 - \[noun\], nominative, dual, masculine
 - “dam; bridge; causeway; Setu; Om; landmark; shackle.”
 ------------------------------------------------------------------------
-- *duratyetū* \< *duratyetu*
+- *duratyetū* ← *duratyetu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *ripave* \< *ripu*
+- *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “punic; deceitful; unfriendly.”
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -59,15 +59,15 @@ title = "Rig Veda 7.65.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvā* \< *nau*
+- *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *tarema* \< *tṛ*
+- *tarema* ← *tṛ*
 - \[verb\], plural, Present optative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

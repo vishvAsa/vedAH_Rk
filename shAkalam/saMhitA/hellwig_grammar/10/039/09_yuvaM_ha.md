@@ -2,7 +2,7 @@
 title = "Rig Veda 10.39.9"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.39.9"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *rebhaṃ* \< *rebham* \< *rebha*
+- *rebhaṃ* ← *rebham* ← *rebha*
 - \[noun\], accusative, singular, masculine
 - “bard; eulogist.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
@@ -23,7 +23,7 @@ title = "Rig Veda 10.39.9"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *hitam* \< *dhā*
+- *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -32,24 +32,24 @@ title = "Rig Veda 10.39.9"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *airayatam* \< *īray* \< *√īr*
+- *airayatam* ← *īray* ← *√īr*
 - \[verb\], dual, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *mamṛvāṃsam* \< *mṛ*
+- *mamṛvāṃsam* ← *mṛ*
 - \[verb noun\], accusative, singular
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *ṛbīsam* \< *ṛbīsa*
+- *ṛbīsam* ← *ṛbīsa*
 - \[noun\], accusative, singular, neuter
 - “chasm.”
 ------------------------------------------------------------------------
@@ -57,18 +57,18 @@ title = "Rig Veda 10.39.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *taptam* \< *tap*
+- *taptam* ← *tap*
 - \[verb noun\], accusative, singular
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *atraya* \< *atraye* \< *atri*
+- *atraya* ← *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *omanvantaṃ* \< *omanvantam* \< *omanvat*
+- *omanvantaṃ* ← *omanvantam* ← *omanvat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *cakrathuḥ* \< *kṛ*
+- *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -79,7 +79,7 @@ title = "Rig Veda 10.39.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *saptavadhraye* \< *saptavadhri*
+- *saptavadhraye* ← *saptavadhri*
 - \[noun\], dative, singular, masculine
 - “Saptavadhri.”
 ------------------------------------------------------------------------

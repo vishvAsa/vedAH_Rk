@@ -2,26 +2,26 @@
 title = "Rig Veda 7.61.4"
 
 +++
--   *śaṃsā* \< *śaṃs*
+-   *śaṃsā* ← *śaṃs*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *mitrasya* \< *mitra*
+- *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *śuṣmo* \< *śuṣmaḥ* \< *śuṣma*
+- *śuṣmo* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
@@ -29,44 +29,44 @@ title = "Rig Veda 7.61.4"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *badbadhe* \< *badbadh* \< *√bādh*
+- *badbadhe* ← *badbadh* ← *√bādh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *ayan* \< *i*
+- *ayan* ← *i*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *māsā* \< *māsāḥ* \< *māsa*
+- *māsā* ← *māsāḥ* ← *māsa*
 - \[noun\], nominative, plural, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *ayajvanām* \< *ayajvan*
+- *ayajvanām* ← *ayajvan*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *avīrāḥ* \< *avīra*
+- *avīrāḥ* ← *avīra*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajñamanmā* \< *yajña*
+- *yajñamanmā* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñamanmā* \< *manmā* \< *manman*
+- *yajñamanmā* ← *manmā* ← *manman*
 - \[noun\], nominative, singular, masculine
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *vṛjanaṃ* \< *vṛjanam* \< *vṛjana*
+- *vṛjanaṃ* ← *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *tirāte* \< *tṛ*
+- *tirāte* ← *tṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

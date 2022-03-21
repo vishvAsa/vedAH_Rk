@@ -2,19 +2,19 @@
 title = "Rig Veda 6.57.6"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *yuvāmahe* \< *yu*
+- *yuvāmahe* ← *yu*
 - \[verb\], plural, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
-- *'bhīśūṃr* \< *abhīśūn* \< *abhīśu*
+- *'bhīśūṃr* ← *abhīśūn* ← *abhīśu*
 - \[noun\], accusative, plural, masculine
 - “beam; rein.”
 ------------------------------------------------------------------------
@@ -22,20 +22,20 @@ title = "Rig Veda 6.57.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sārathiḥ* \< *sārathi*
+- *sārathiḥ* ← *sārathi*
 - \[noun\], nominative, singular, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------
-- *mahyā* \< *mahyai* \< *mahi*
+- *mahyā* ← *mahyai* ← *mahi*
 - \[noun\], dative, singular, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

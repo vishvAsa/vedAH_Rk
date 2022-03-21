@@ -2,79 +2,79 @@
 title = "Rig Veda 5.57.2"
 
 +++
--   *vāśīmanta* \< *vāśīmantaḥ* \< *vāśīmat*
+-   *vāśīmanta* ← *vāśīmantaḥ* ← *vāśīmat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ṛṣṭimanto* \< *ṛṣṭimantaḥ* \< *ṛṣṭimat*
+- *ṛṣṭimanto* ← *ṛṣṭimantaḥ* ← *ṛṣṭimat*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *sudhanvāna* \< *su*
+- *sudhanvāna* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudhanvāna* \< *dhanvānaḥ* \< *dhanvan*
+- *sudhanvāna* ← *dhanvānaḥ* ← *dhanvan*
 - \[noun\], nominative, plural, masculine
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *iṣumanto* \< *iṣumantaḥ* \< *iṣumat*
+- *iṣumanto* ← *iṣumantaḥ* ← *iṣumat*
 - \[noun\], nominative, plural, masculine
 - “armed with an arrow.”
 ------------------------------------------------------------------------
-- *niṣaṅgiṇaḥ* \< *niṣaṅgin*
+- *niṣaṅgiṇaḥ* ← *niṣaṅgin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *svaśvā* \< *su*
+- *svaśvā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvā* \< *aśvā* \< *aśva*
+- *svaśvā* ← *aśvā* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *stha* \< *as*
+- *stha* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *surathāḥ* \< *su*
+- *surathāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surathāḥ* \< *rathāḥ* \< *ratha*
+- *surathāḥ* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *pṛśnimātaraḥ* \< *pṛśni*
+- *pṛśnimātaraḥ* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *pṛśnimātaraḥ* \< *mātaraḥ* \< *mātṛ*
+- *pṛśnimātaraḥ* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, masculine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *svāyudhā* \< *su*
+- *svāyudhā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyudhā* \< *āyudhāḥ* \< *āyudha*
+- *svāyudhā* ← *āyudhāḥ* ← *āyudha*
 - \[noun\], nominative, plural, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yāthanā* \< *yāthana* \< *yā*
+- *yāthanā* ← *yāthana* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *śubham* \< *śubh*
+- *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------

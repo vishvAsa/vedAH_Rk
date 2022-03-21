@@ -2,40 +2,40 @@
 title = "Rig Veda 5.5.7"
 
 +++
--   *vātasya* \< *vāta*
+-   *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *patmann* \< *patman*
+- *patmann* ← *patman*
 - \[noun\], locative, singular, neuter
 - “flight.”
 ------------------------------------------------------------------------
-- *īﾱitā* \< *īḍ*
+- *īﾱitā* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *daivyā* \< *daivya*
+- *daivyā* ← *daivya*
 - \[noun\], nominative, dual, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *hotārā* \< *hotṛ*
+- *hotārā* ← *hotṛ*
 - \[noun\], nominative, dual, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manuṣaḥ* \< *manus*
+- *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ title = "Rig Veda 5.5.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

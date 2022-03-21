@@ -2,11 +2,11 @@
 title = "Rig Veda 1.45.9"
 
 +++
--   *prātaryāvṇaḥ* \< *prātar*
+-   *prātaryāvṇaḥ* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *prātaryāvṇaḥ* \< *yāvṇaḥ* \< *yāvan*
+- *prātaryāvṇaḥ* ← *yāvṇaḥ* ← *yāvan*
 - \[noun\], accusative, plural, masculine
 - “traveler.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 1.45.9"
 - \[noun\], vocative, singular, masculine
 - “increased; aroused.”
 ------------------------------------------------------------------------
-- *somapeyāya* \< *soma*
+- *somapeyāya* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapeyāya* \< *peyāya* \< *peya*
+- *somapeyāya* ← *peyāya* ← *peya*
 - \[noun\], dative, singular, neuter
 - “beverage.”
 ------------------------------------------------------------------------
@@ -26,24 +26,24 @@ title = "Rig Veda 1.45.9"
 - \[noun\], vocative, singular, masculine
 - “honest.”
 ------------------------------------------------------------------------
-- *ihādya* \< *iha*
+- *ihādya* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihādya* \< *adya*
+- *ihādya* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -51,10 +51,10 @@ title = "Rig Veda 1.45.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sādayā* \< *sādaya* \< *sāday* \< *√sad*
+- *sādayā* ← *sādaya* ← *sāday* ← *√sad*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------

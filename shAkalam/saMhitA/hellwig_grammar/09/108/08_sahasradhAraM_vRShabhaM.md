@@ -2,67 +2,67 @@
 title = "Rig Veda 9.108.8"
 
 +++
--   *sahasradhāraṃ* \< *sahasra*
+-   *sahasradhāraṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasradhāraṃ* \< *dhāram* \< *dhārā*
+- *sahasradhāraṃ* ← *dhāram* ← *dhārā*
 - \[noun\], accusative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *payovṛdham* \< *payovṛdh*
+- *payovṛdham* ← *payovṛdh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, neuter
 - “divine.”
 ------------------------------------------------------------------------
-- *janmane* \< *janman*
+- *janmane* ← *janman*
 - \[noun\], dative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛtajāto* \< *ṛta*
+- *ṛtajāto* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtajāto* \< *jātaḥ* \< *jan*
+- *ṛtajāto* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vivāvṛdhe* \< *vivṛdh* \< *√vṛdh*
+- *vivāvṛdhe* ← *vivṛdh* ← *√vṛdh*
 - \[verb\], singular, Perfect indicative
 - “grow; increase.”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], nominative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------

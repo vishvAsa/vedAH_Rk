@@ -2,24 +2,24 @@
 title = "Rig Veda 10.70.10"
 
 +++
--   *vanaspate* \< *vanaspati*
+-   *vanaspate* ← *vanaspati*
 - \[noun\], vocative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *raśanayā* \< *raśanā*
+- *raśanayā* ← *raśanā*
 - \[noun\], instrumental, singular, feminine
 - “rein; bridle; girdle; cord.”
 ------------------------------------------------------------------------
-- *niyūyā* \< *niyūya* \< *niyu* \< *√yu*
+- *niyūyā* ← *niyūya* ← *niyu* ← *√yu*
 - \[verb noun\]
 - “harness.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *pātha* \< *pāthaḥ* \< *pāthas*
+- *pātha* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
@@ -27,26 +27,26 @@ title = "Rig Veda 10.70.10"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vakṣi* \< *vah*
+- *vakṣi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *svadāti* \< *svad*
+- *svadāti* ← *svad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sweeten.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kṛṇavaddhavīṃṣy* \< *kṛṇavat* \< *kṛ*
+- *kṛṇavaddhavīṃṣy* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -57,11 +57,11 @@ title = "Rig Veda 10.70.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛṇavaddhavīṃṣy* \< *havīṃṣi* \< *havis*
+- *kṛṇavaddhavīṃṣy* ← *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *avatāṃ* \< *avatām* \< *av*
+- *avatāṃ* ← *avatām* ← *av*
 - \[verb\], dual, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 10.70.10"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

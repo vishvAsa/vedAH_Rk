@@ -2,7 +2,7 @@
 title = "Rig Veda 10.124.6"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 10.124.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *ayam* \< *idam*
+- *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prakāśa* \< *prakāśaḥ* \< *prakāśa*
+- *prakāśa* ← *prakāśaḥ* ← *prakāśa*
 - \[noun\], nominative, singular, masculine
 - “look; appearance; glitter; prakāśamūṣā; light; clearness.”
 ------------------------------------------------------------------------

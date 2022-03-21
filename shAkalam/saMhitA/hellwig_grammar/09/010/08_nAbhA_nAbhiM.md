@@ -2,17 +2,17 @@
 title = "Rig Veda 9.10.8"
 
 +++
--   *nābhā* \< *nābhi*
+-   *nābhā* ← *nābhi*
 - \[noun\], locative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *nābhiṃ* \< *nābhim* \< *nābhi*
+- *nābhiṃ* ← *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -20,14 +20,14 @@ title = "Rig Veda 9.10.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *cakṣuś* \< *cakṣuḥ* \< *cakṣus*
+- *cakṣuś* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 9.10.8"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sūrye* \< *sūrya*
+- *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -44,12 +44,12 @@ title = "Rig Veda 9.10.8"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *kaver* \< *kaveḥ* \< *kavi*
+- *kaver* ← *kaveḥ* ← *kavi*
 - \[noun\], genitive, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *apatyam* \< *apatya*
+- *apatyam* ← *apatya*
 - \[noun\], nominative, singular, neuter
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 9.10.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *duhe* \< *duh*
+- *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
 ------------------------------------------------------------------------

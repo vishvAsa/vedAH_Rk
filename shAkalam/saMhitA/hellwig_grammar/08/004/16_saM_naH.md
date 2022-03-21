@@ -2,19 +2,19 @@
 title = "Rig Veda 8.4.16"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śiśīhi* \< *śā*
+- *śiśīhi* ← *śā*
 - \[verb\], singular, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *bhurijor* \< *bhurijoḥ* \< *bhurij*
+- *bhurijor* ← *bhurijoḥ* ← *bhurij*
 - \[noun\], locative, dual, feminine
 - “arm.”
 ------------------------------------------------------------------------
@@ -22,43 +22,43 @@ title = "Rig Veda 8.4.16"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣuraṃ* \< *kṣuram* \< *kṣura*
+- *kṣuraṃ* ← *kṣuram* ← *kṣura*
 - \[noun\], accusative, singular, masculine
 - “razor; knife; munj; hoof.”
 ------------------------------------------------------------------------
-- *rāsva* \< *rā*
+- *rāsva* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
 - *vimocana*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *suvedam* \< *su*
+- *suvedam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvedam* \< *vedam* \< *veda*
+- *suvedam* ← *vedam* ← *veda*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *usriyaṃ* \< *usriyam* \< *usriya*
+- *usriyaṃ* ← *usriyam* ← *usriya*
 - \[noun\], nominative, singular, neuter
 - “red.”
 ------------------------------------------------------------------------
@@ -66,19 +66,19 @@ title = "Rig Veda 8.4.16"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hinoṣi* \< *hi*
+- *hinoṣi* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *martyam* \< *martya*
+- *martyam* ← *martya*
 - \[noun\], accusative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

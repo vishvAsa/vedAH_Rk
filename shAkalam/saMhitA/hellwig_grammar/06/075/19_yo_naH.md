@@ -2,24 +2,24 @@
 title = "Rig Veda 6.75.19"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svo* \< *svaḥ* \< *sva*
+- *svo* ← *svaḥ* ← *sva*
 - \[noun\], nominative, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *araṇo* \< *araṇaḥ* \< *araṇa*
+- *araṇo* ← *araṇaḥ* ← *araṇa*
 - \[noun\], nominative, singular, masculine
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -27,50 +27,50 @@ title = "Rig Veda 6.75.19"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *niṣṭyo* \< *niṣṭyaḥ* \< *niṣṭya*
+- *niṣṭyo* ← *niṣṭyaḥ* ← *niṣṭya*
 - \[noun\], nominative, singular, masculine
 - “foreign; alien.”
 ------------------------------------------------------------------------
-- *jighāṃsati* \< *jighāṃs* \< *√han*
+- *jighāṃsati* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
 ------------------------------------------------------------------------
-- *devās* \< *devāḥ* \< *deva*
+- *devās* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sarve* \< *sarva*
+- *sarve* ← *sarva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *dhūrvantu* \< *dhūrv*
+- *dhūrvantu* ← *dhūrv*
 - \[verb\], plural, Present imperative
 - “damage; hurt.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], nominative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *varma* \< *varman*
+- *varma* ← *varman*
 - \[noun\], nominative, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
 ------------------------------------------------------------------------
-- *mamāntaram* \< *mama* \< *mad*
+- *mamāntaram* ← *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mamāntaram* \< *antaram* \< *antara*
+- *mamāntaram* ← *antaram* ← *antara*
 - \[noun\], nominative, singular, neuter
 - “another(a); other; interior; different; near; intermediate;
     following.”

@@ -2,47 +2,47 @@
 title = "Rig Veda 7.71.2"
 
 +++
--   *upāyātaṃ* \< *upāyātam* \< *upāyā* \< *√yā*
+-   *upāyātaṃ* ← *upāyātam* ← *upāyā* ← *√yā*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *martyāya* \< *martya*
+- *martyāya* ← *martya*
 - \[noun\], dative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vahantā* \< *vah*
+- *vahantā* ← *vah*
 - \[verb noun\], nominative, dual
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *yuyutam* \< *yu*
+- *yuyutam* ← *yu*
 - \[verb\], dual, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *anirām* \< *anirā*
+- *anirām* ← *anirā*
 - \[noun\], accusative, singular, feminine
 - “languor.”
 ------------------------------------------------------------------------
-- *amīvāṃ* \< *amīvām* \< *amīvā*
+- *amīvāṃ* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 7.71.2"
 - \[adverb\]
 - “by day; divā \[indecl.\].”
 ------------------------------------------------------------------------
-- *naktam* \< *nakta*
+- *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 7.71.2"
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
 ------------------------------------------------------------------------
-- *trāsīthāṃ* \< *trāsīthām* \< *trā*
+- *trāsīthāṃ* ← *trāsīthām* ← *trā*
 - \[verb\], dual, Aorist optative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

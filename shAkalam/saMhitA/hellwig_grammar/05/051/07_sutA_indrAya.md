@@ -2,33 +2,33 @@
 title = "Rig Veda 5.51.7"
 
 +++
--   *sutā* \< *sutāḥ* \< *su*
+-   *sutā* ← *sutāḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vāyave* \< *vāyu*
+- *vāyave* ← *vāyu*
 - \[noun\], dative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dadhyāśiraḥ* \< *dadhi*
+- *dadhyāśiraḥ* ← *dadhi*
 - \[noun\], neuter
 - “sour milk; curd; dadhi \[word\].”
 ------------------------------------------------------------------------
-- *dadhyāśiraḥ* \< *āśiraḥ* \< *āśir*
+- *dadhyāśiraḥ* ← *āśiraḥ* ← *āśir*
 - \[noun\], nominative, plural, masculine
 - “mixture.”
 ------------------------------------------------------------------------
-- *nimnaṃ* \< *nimnam* \< *nimna*
+- *nimnaṃ* ← *nimnam* ← *nimna*
 - \[noun\], accusative, singular, neuter
 - “depression; depth.”
 ------------------------------------------------------------------------
@@ -36,19 +36,19 @@ title = "Rig Veda 5.51.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *'bhi* \< *abhi*
+- *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *prayaḥ* \< *prayas*
+- *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------

@@ -2,20 +2,20 @@
 title = "Rig Veda 3.62.4"
 
 +++
--   *bṛhaspate* \< *bṛhaspati*
+-   *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havyāni* \< *havya*
+- *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
@@ -23,16 +23,16 @@ title = "Rig Veda 3.62.4"
 - \[noun\], vocative, singular, masculine
 - “viśvadevya \[word\].”
 ------------------------------------------------------------------------
-- *rāsva* \< *rā*
+- *rāsva* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *ratnāni* \< *ratna*
+- *ratnāni* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

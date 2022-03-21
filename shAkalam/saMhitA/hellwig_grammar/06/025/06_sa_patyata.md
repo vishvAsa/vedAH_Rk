@@ -2,45 +2,45 @@
 title = "Rig Veda 6.25.6"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *patyata* \< *patyate* \< *paty*
+- *patyata* ← *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *ubhayor* \< *ubhayoḥ* \< *ubhaya*
+- *ubhayor* ← *ubhayoḥ* ← *ubhaya*
 - \[noun\], genitive, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *nṛmṇam* \< *nṛmṇa*
+- *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *ayor* \< *ayoḥ* \< *idam*
+- *ayor* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *samithe* \< *samitha*
+- *samithe* ← *samitha*
 - \[noun\], locative, singular, neuter
 - “battle; conflict.”
 ------------------------------------------------------------------------
-- *havante* \< *hvā*
+- *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vṛtre* \< *vṛtra*
+- *vṛtre* ← *vṛtra*
 - \[noun\], locative, singular, masculine
 - “enemy.”
 ------------------------------------------------------------------------
@@ -48,15 +48,15 @@ title = "Rig Veda 6.25.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *nṛvati* \< *nṛvat*
+- *nṛvati* ← *nṛvat*
 - \[noun\], locative, singular, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
-- *kṣaye* \< *kṣaya*
+- *kṣaye* ← *kṣaya*
 - \[noun\], locative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
@@ -64,13 +64,13 @@ title = "Rig Veda 6.25.6"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vyacasvantā* \< *vyacasvat*
+- *vyacasvantā* ← *vyacasvat*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *vitantasaite* \< *vitantas* \< *√taṃs*
+- *vitantasaite* ← *vitantas* ← *√taṃs*
 - \[verb\], dual, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------

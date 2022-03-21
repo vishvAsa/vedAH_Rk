@@ -2,28 +2,28 @@
 title = "Rig Veda 9.106.7"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *devavītaya* \< *deva*
+- *devavītaya* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītaya* \< *vītaye* \< *vīti*
+- *devavītaya* ← *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *dhārābhir* \< *dhārābhiḥ* \< *dhārā*
+- *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 9.106.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kalaśam* \< *kalaśa*
+- *kalaśam* ← *kalaśa*
 - \[noun\], accusative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *madhumān* \< *madhumat*
+- *madhumān* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 9.106.7"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sadaḥ* \< *sad*
+- *sadaḥ* ← *sad*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

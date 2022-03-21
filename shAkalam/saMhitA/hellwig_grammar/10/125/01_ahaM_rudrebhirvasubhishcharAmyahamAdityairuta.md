@@ -2,29 +2,29 @@
 title = "Rig Veda 10.125.1"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rudrebhir* \< *rudrebhiḥ* \< *rudra*
+- *rudrebhir* ← *rudrebhiḥ* ← *rudra*
 - \[noun\], instrumental, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vasubhiś* \< *vasubhiḥ* \< *vasu*
+- *vasubhiś* ← *vasubhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *carāmy* \< *carāmi* \< *car*
+- *carāmy* ← *carāmi* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ādityair* \< *ādityaiḥ* \< *āditya*
+- *ādityair* ← *ādityaiḥ* ← *āditya*
 - \[noun\], instrumental, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
@@ -32,32 +32,32 @@ title = "Rig Veda 10.125.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *viśvadevaiḥ* \< *viśvadeva*
+- *viśvadevaiḥ* ← *viśvadeva*
 - \[noun\], instrumental, plural, masculine
 - “Viśvedevās; Shiva.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇobhā* \< *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇobhā* ← *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], accusative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇobhā* \< *ubhā* \< *ubh*
+- *mitrāvaruṇobhā* ← *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *bibharmy* \< *bibharmi* \< *bhṛ*
+- *bibharmy* ← *bibharmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *indra*
+- *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

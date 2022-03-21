@@ -6,39 +6,39 @@ title = "Rig Veda 8.32.27"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ugrāya* \< *ugra*
+- *ugrāya* ← *ugra*
 - \[noun\], dative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *niṣṭure* \< *niṣṭur*
+- *niṣṭure* ← *niṣṭur*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *'ṣāﾱhāya* \< *a*
+- *'ṣāﾱhāya* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'ṣāﾱhāya* \< *sāḍhāya* \< *sah*
+- *'ṣāﾱhāya* ← *sāḍhāya* ← *sah*
 - \[verb noun\], dative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *prasakṣiṇe* \< *prasakṣin*
+- *prasakṣiṇe* ← *prasakṣin*
 - \[noun\], dative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *devattam* \< *devatta*
+- *devattam* ← *devatta*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------

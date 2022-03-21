@@ -2,24 +2,24 @@
 title = "Rig Veda 3.34.7"
 
 +++
--   *yudhendro* \< *yudhā* \< *yudh*
+-   *yudhendro* ← *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *yudhendro* \< *indraḥ* \< *indra*
+- *yudhendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *varivaś* \< *varivaḥ* \< *varivas*
+- *varivaś* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,56 +30,56 @@ title = "Rig Veda 3.34.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *devebhyaḥ* \< *deva*
+- *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *satpatiś* \< *satpatiḥ* \< *satpati*
+- *satpatiś* ← *satpatiḥ* ← *satpati*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *carṣaṇi*
+- *carṣaṇiprāḥ* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *prāḥ* \< *prā*
+- *carṣaṇiprāḥ* ← *prāḥ* ← *prā*
 - \[noun\], nominative, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *vivasvataḥ* \< *vivasvant*
+- *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tāni* \< *tad*
+- *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *ukthebhiḥ* \< *uktha*
+- *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------

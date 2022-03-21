@@ -6,56 +6,56 @@ title = "Rig Veda 1.54.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vṛṇakṣi* \< *vṛj*
+- *vṛṇakṣi* ← *vṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *śvasanasya* \< *śvasana*
+- *śvasanasya* ← *śvasana*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *mūrdhani* \< *mūrdhan*
+- *mūrdhani* ← *mūrdhan*
 - \[noun\], locative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vrandino* \< *vrandinaḥ* \< *vrandin*
+- *vrandino* ← *vrandinaḥ* ← *vrandin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *roruvad* \< *roruvat* \< *roro* \< *√ru*
+- *roruvad* ← *roruvat* ← *roro* ← *√ru*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *prācīnena* \< *prācīna*
+- *prācīnena* ← *prācīna*
 - \[noun\], instrumental, singular, neuter
 - “eastern; frontal.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *barhaṇāvatā* \< *barhaṇāvat*
+- *barhaṇāvatā* ← *barhaṇāvat*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
@@ -63,7 +63,7 @@ title = "Rig Veda 1.54.5"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *kṛṇavaḥ* \< *kṛ*
+- *kṛṇavaḥ* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,11 +74,11 @@ title = "Rig Veda 1.54.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kas* \< *kaḥ* \< *ka*
+- *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------

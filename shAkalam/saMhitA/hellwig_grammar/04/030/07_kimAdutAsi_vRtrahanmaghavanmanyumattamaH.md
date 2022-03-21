@@ -6,15 +6,15 @@ title = "Rig Veda 4.30.7"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *utāsi* \< *uta*
+- *utāsi* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāsi* \< *asi* \< *as*
+- *utāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -27,19 +27,19 @@ title = "Rig Veda 4.30.7"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *manyumattamaḥ* \< *manyumattama*
+- *manyumattamaḥ* ← *manyumattama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *atrāha* \< *atra*
+- *atrāha* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrāha* \< *aha*
+- *atrāha* ← *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *dānum* \< *dānu*
+- *dānum* ← *dānu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ātiraḥ* \< *ātṛ* \< *√tṛ*

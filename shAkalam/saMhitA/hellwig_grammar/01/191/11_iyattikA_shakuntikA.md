@@ -2,7 +2,7 @@
 title = "Rig Veda 1.191.11"
 
 +++
--   *iyattikā* \< *iyattaka*
+-   *iyattikā* ← *iyattaka*
 - \[noun\], nominative, singular, feminine
 - “small.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 1.191.11"
 - \[noun\], nominative, singular, feminine
 - “bird.”
 ------------------------------------------------------------------------
-- *sakā* \< *saka*
+- *sakā* ← *saka*
 - \[noun\], nominative, singular, feminine
 - “small.”
 ------------------------------------------------------------------------
-- *jaghāsa* \< *ghas*
+- *jaghāsa* ← *ghas*
 - \[verb\], singular, Perfect indicative
 - “eat.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viṣam* \< *viṣa*
+- *viṣam* ← *viṣa*
 - \[noun\], accusative, singular, neuter
 - “poison; poisoning; viṣa; venom; vatsanābha; Aconitum Ferox; viṣa
     \[word\]; Viṣa; myrrh; myrrh.”
 ------------------------------------------------------------------------
-- *so* \< *sa* \< *tad*
+- *so* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *so* \< *u*
+- *so* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -49,54 +49,54 @@ title = "Rig Veda 1.191.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *marāti* \< *mṛ*
+- *marāti* ← *mṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *no* \< *na*
+- *no* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *u*
+- *no* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *marāmāre* \< *marāma* \< *mṛ*
+- *marāmāre* ← *marāma* ← *mṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *marāmāre* \< *āre*
+- *marāmāre* ← *āre*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yojanaṃ* \< *yojanam* \< *yojana*
+- *yojanaṃ* ← *yojanam* ← *yojana*
 - \[noun\], accusative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *hariṣṭhā* \< *hariṣṭhāḥ* \< *hariṣṭhā*
+- *hariṣṭhā* ← *hariṣṭhāḥ* ← *hariṣṭhā*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *madhu*
 - \[noun\], nominative, singular, neuter
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madhulā* \< *madhula*
+- *madhulā* ← *madhula*
 - \[noun\], accusative, plural, neuter
 - “sweet.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

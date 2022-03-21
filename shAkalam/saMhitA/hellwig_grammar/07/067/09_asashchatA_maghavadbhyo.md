@@ -2,11 +2,11 @@
 title = "Rig Veda 7.67.9"
 
 +++
--   *asaścatā* \< *asaścat*
+-   *asaścatā* ← *asaścat*
 - \[noun\], nominative, dual, masculine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *maghavadbhyo* \< *maghavadbhyaḥ* \< *maghavan*
+- *maghavadbhyo* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -14,30 +14,30 @@ title = "Rig Veda 7.67.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *bhūtaṃ* \< *bhūtam* \< *bhū*
+- *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *maghadeyaṃ* \< *magha*
+- *maghadeyaṃ* ← *magha*
 - \[noun\], masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *maghadeyaṃ* \< *deyam* \< *deya*
+- *maghadeyaṃ* ← *deyam* ← *deya*
 - \[noun\], accusative, singular, neuter
 - “giving; gift.”
 ------------------------------------------------------------------------
-- *junanti* \< *jū*
+- *junanti* ← *jū*
 - \[verb\], plural, Present indikative
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
@@ -45,35 +45,35 @@ title = "Rig Veda 7.67.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bandhuṃ* \< *bandhum* \< *bandhu*
+- *bandhuṃ* ← *bandhum* ← *bandhu*
 - \[noun\], accusative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *sūnṛtābhis* \< *sūnṛtābhiḥ* \< *sūnṛtā*
+- *sūnṛtābhis* ← *sūnṛtābhiḥ* ← *sūnṛtā*
 - \[noun\], instrumental, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *tirante* \< *tṛ*
+- *tirante* ← *tṛ*
 - \[verb\], plural, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *gavyā* \< *gavya*
+- *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *pṛñcanto* \< *pṛñcantaḥ* \< *pṛc*
+- *pṛñcanto* ← *pṛñcantaḥ* ← *pṛc*
 - \[verb noun\], nominative, plural
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *aśvyā* \< *aśvya*
+- *aśvyā* ← *aśvya*
 - \[noun\], accusative, plural, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *maghāni* \< *magha*
+- *maghāni* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------

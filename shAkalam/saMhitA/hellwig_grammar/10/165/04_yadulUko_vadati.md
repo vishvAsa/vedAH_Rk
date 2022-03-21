@@ -2,24 +2,24 @@
 title = "Rig Veda 10.165.4"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ulūko* \< *ulūkaḥ* \< *ulūka*
+- *ulūko* ← *ulūkaḥ* ← *ulūka*
 - \[noun\], nominative, singular, masculine
 - “owl; Ulūka.”
 ------------------------------------------------------------------------
-- *vadati* \< *vad*
+- *vadati* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *mogham* \< *mogha*
+- *mogham* ← *mogha*
 - \[noun\], nominative, singular, neuter
 - “bootless; untrue; causeless.”
 ------------------------------------------------------------------------
-- *etad* \< *etat* \< *etad*
+- *etad* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -27,24 +27,24 @@ title = "Rig Veda 10.165.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *kapotaḥ* \< *kapota*
+- *kapotaḥ* ← *kapota*
 - \[noun\], nominative, singular, masculine
 - “dove; kapotapuṭa; pigeon; sauvīrāñjana; bird.”
 ------------------------------------------------------------------------
-- *padam* \< *pada*
+- *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *agnau* \< *agni*
+- *agnau* ← *agni*
 - \[noun\], locative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kṛṇoti* \< *kṛ*
+- *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,46 +55,46 @@ title = "Rig Veda 10.165.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dūtaḥ* \< *dūta*
+- *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *prahita* \< *prahitaḥ* \< *prahi* \< *√hi*
+- *prahita* ← *prahitaḥ* ← *prahi* ← *√hi*
 - \[verb noun\], nominative, singular
 - “send; hurl; shoot; supply.”
 ------------------------------------------------------------------------
-- *eṣa* \< *eṣaḥ* \< *etad*
+- *eṣa* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *etat* \< *etad*
+- *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tasmai* \< *tad*
+- *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yamāya* \< *yama*
+- *yamāya* ← *yama*
 - \[noun\], dative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mṛtyave* \< *mṛtyu*
+- *mṛtyave* ← *mṛtyu*
 - \[noun\], dative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------

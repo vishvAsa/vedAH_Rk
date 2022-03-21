@@ -2,15 +2,15 @@
 title = "Rig Veda 9.101.7"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *rayir* \< *rayiḥ* \< *rayi*
+- *rayir* ← *rayiḥ* \< *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------

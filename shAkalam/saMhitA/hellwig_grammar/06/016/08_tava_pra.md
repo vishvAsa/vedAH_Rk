@@ -2,7 +2,7 @@
 title = "Rig Veda 6.16.8"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 6.16.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yakṣi* \< *yaj*
+- *yakṣi* ← *yaj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *saṃdṛśam* \< *saṃdṛś*
+- *saṃdṛśam* ← *saṃdṛś*
 - \[noun\], accusative, singular, feminine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
@@ -22,16 +22,16 @@ title = "Rig Veda 6.16.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

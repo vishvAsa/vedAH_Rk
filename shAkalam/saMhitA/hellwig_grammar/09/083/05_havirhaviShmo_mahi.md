@@ -2,11 +2,11 @@
 title = "Rig Veda 9.83.5"
 
 +++
--   *havir* \< *haviḥ* \< *havis*
+-   *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *haviṣmo* \< *haviṣmas* \< *haviṣmat*
+- *haviṣmo* ← *haviṣmas* ← *haviṣmat*
 - \[noun\], vocative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 9.83.5"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *sadma* \< *sadman*
+- *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *nabho* \< *nabhaḥ* \< *nabhas*
+- *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], accusative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *vasānaḥ* \< *vas*
+- *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
@@ -34,49 +34,49 @@ title = "Rig Veda 9.83.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yāsy* \< *yāsi* \< *yā*
+- *yāsy* ← *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *pavitraratho* \< *pavitra*
+- *pavitraratho* ← *pavitra*
 - \[noun\], neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *pavitraratho* \< *rathaḥ* \< *ratha*
+- *pavitraratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *āruhaḥ* \< *āruh* \< *√ruh*
+- *āruhaḥ* ← *āruh* ← *√ruh*
 - \[verb\], singular, Imperfect
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭir* \< *sahasra*
+- *sahasrabhṛṣṭir* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭir* \< *bhṛṣṭiḥ* \< *bhṛṣṭi*
+- *sahasrabhṛṣṭir* ← *bhṛṣṭiḥ* ← *bhṛṣṭi*
 - \[noun\], nominative, singular, masculine
 - “spike.”
 ------------------------------------------------------------------------
-- *jayasi* \< *ji*
+- *jayasi* ← *ji*
 - \[verb\], singular, Present indikative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 5.42.6"
 
 +++
--   *marutvato* \< *marutvataḥ* \< *marutvat*
+-   *marutvato* ← *marutvataḥ* ← *marutvat*
 - \[noun\], genitive, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *apratītasya* \< *apratīta*
+- *apratītasya* ← *apratīta*
 - \[noun\], genitive, singular, masculine
 - “irresistible.”
 ------------------------------------------------------------------------
-- *jiṣṇor* \< *jiṣṇoḥ* \< *jiṣṇu*
+- *jiṣṇor* ← *jiṣṇoḥ* ← *jiṣṇu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *ajūryataḥ* \< *a*
+- *ajūryataḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ajūryataḥ* \< *jūryataḥ* \< *jṛ*
+- *ajūryataḥ* ← *jūryataḥ* ← *jṛ*
 - \[verb noun\], genitive, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
@@ -26,12 +26,12 @@ title = "Rig Veda 5.42.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bravāmā* \< *bravāma* \< *brū*
+- *bravāmā* ← *bravāma* ← *brū*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛta*
+- *kṛtāni* ← *kṛta*
 - \[noun\], accusative, plural, neuter
 - “Kṛta; action; throw; work; production; work; kindness; four; kṛta
     \[word\].”
@@ -40,11 +40,11 @@ title = "Rig Veda 5.42.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
@@ -54,11 +54,11 @@ title = "Rig Veda 5.42.6"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *nāparāso* \< *na*
+- *nāparāso* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāparāso* \< *aparāsaḥ* \< *apara*
+- *nāparāso* ← *aparāsaḥ* ← *apara*
 - \[noun\], nominative, plural, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
@@ -67,25 +67,25 @@ title = "Rig Veda 5.42.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīryaṃ* \< *vīryam* \< *vīrya*
+- *vīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *nūtanaḥ* \< *nūtana*
+- *nūtanaḥ* ← *nūtana*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
-- *kaś* \< *kaḥ* \< *ka*
+- *kaś* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *canāpa* \< *cana*
+- *canāpa* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāpa* \< *āpa* \< *āp*
+- *canāpa* ← *āpa* ← *āp*
 - \[verb\], singular, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------

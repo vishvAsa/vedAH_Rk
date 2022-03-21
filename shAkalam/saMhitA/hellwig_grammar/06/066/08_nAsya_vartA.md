@@ -2,15 +2,15 @@
 title = "Rig Veda 6.66.8"
 
 +++
--   *nāsya* \< *na*
+-   *nāsya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsya* \< *asya* \< *idam*
+- *nāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vartā* \< *vartṛ*
+- *vartā* ← *vartṛ*
 - \[noun\], nominative, singular, masculine
 - “obstructionist.”
 ------------------------------------------------------------------------
@@ -18,36 +18,36 @@ title = "Rig Veda 6.66.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tarutā* \< *tarutṛ*
+- *tarutā* ← *tarutṛ*
 - \[noun\], nominative, singular, masculine
 - “tarutṛ \[word\].”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *avatha* \< *av*
+- *avatha* ← *av*
 - \[verb\], plural, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vājasātau* \< *vājasāti*
+- *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *toke* \< *toka*
+- *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
@@ -55,20 +55,20 @@ title = "Rig Veda 6.66.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -76,16 +76,16 @@ title = "Rig Veda 6.66.8"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *dartā* \< *dṛ*
+- *dartā* ← *dṛ*
 - \[verb\], singular, periphrast. future
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ title = "Rig Veda 6.66.8"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *dyoḥ* \< *div*
+- *dyoḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

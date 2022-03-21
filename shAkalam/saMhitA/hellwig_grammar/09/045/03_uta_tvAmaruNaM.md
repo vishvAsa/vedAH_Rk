@@ -6,34 +6,34 @@ title = "Rig Veda 9.45.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aruṇaṃ* \< *aruṇam* \< *aruṇa*
+- *aruṇaṃ* ← *aruṇam* ← *aruṇa*
 - \[noun\], accusative, singular, neuter
 - “red; tawny; dusty; gray.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *añjmo* \< *añjmaḥ* \< *añj*
+- *añjmo* ← *añjmaḥ* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
@@ -41,19 +41,19 @@ title = "Rig Veda 9.45.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *vṛdhi* \< *vṛ*
+- *vṛdhi* ← *vṛ*
 - \[verb\], singular, Aorist imperative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

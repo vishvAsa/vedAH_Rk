@@ -5,11 +5,11 @@ title = "Rig Veda 6.35.3"
 -   *karhi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *svit* \< *svid*
+- *svit* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -20,23 +20,23 @@ title = "Rig Veda 6.35.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yaj* \< *yat*
+- *yaj* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
 - *viśvapsu*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kṛṇavaḥ* \< *kṛ*
+- *kṛṇavaḥ* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,7 +55,7 @@ title = "Rig Veda 6.35.3"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -64,11 +64,11 @@ title = "Rig Veda 6.35.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *yuvāse* \< *yu*
+- *yuvāse* ← *yu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “unite.”
 ------------------------------------------------------------------------
@@ -76,20 +76,20 @@ title = "Rig Veda 6.35.3"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *gomaghā* \< *go*
+- *gomaghā* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gomaghā* \< *maghā* \< *magha*
+- *gomaghā* ← *maghā* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *havanāni* \< *havana*
+- *havanāni* ← *havana*
 - \[noun\], accusative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *gacchāḥ* \< *gam*
+- *gacchāḥ* ← *gam*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

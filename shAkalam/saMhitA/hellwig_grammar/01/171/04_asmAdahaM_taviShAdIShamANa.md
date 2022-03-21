@@ -2,56 +2,56 @@
 title = "Rig Veda 1.171.4"
 
 +++
--   *asmād* \< *asmāt* \< *idam*
+-   *asmād* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *taviṣād* \< *taviṣāt* \< *taviṣa*
+- *taviṣād* ← *taviṣāt* ← *taviṣa*
 - \[noun\], ablative, singular, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *īṣamāṇa* \< *īṣamāṇaḥ* \< *īṣ*
+- *īṣamāṇa* ← *īṣamāṇaḥ* ← *īṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *indrād* \< *indrāt* \< *indra*
+- *indrād* ← *indrāt* ← *indra*
 - \[noun\], ablative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rejamānaḥ* \< *rej*
+- *rejamānaḥ* ← *rej*
 - \[verb noun\], nominative, singular
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *yuṣmabhyaṃ* \< *yuṣmabhyam* \< *tvad*
+- *yuṣmabhyaṃ* ← *yuṣmabhyam* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], nominative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *niśitāny* \< *niśitāni* \< *niśā* \< *√śā*
+- *niśitāny* ← *niśitāni* ← *niśā* ← *√śā*
 - \[verb noun\], nominative, plural
 - “sharpen.”
 ------------------------------------------------------------------------
-- *āsan* \< *as*
+- *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tāny* \< *tāni* \< *tad*
+- *tāny* ← *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -61,7 +61,7 @@ title = "Rig Veda 1.171.4"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -72,11 +72,11 @@ title = "Rig Veda 1.171.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mṛﾱatā* \< *mṛḍata* \< *mṛḍ*
+- *mṛﾱatā* ← *mṛḍata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

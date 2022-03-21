@@ -2,69 +2,69 @@
 title = "Rig Veda 9.86.39"
 
 +++
--   *govit* \< *go*
+-   *govit* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *govit* \< *vid*
+- *govit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vasuviddhiraṇyavid* \< *vasu*
+- *vasuviddhiraṇyavid* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasuviddhiraṇyavid* \< *vid*
+- *vasuviddhiraṇyavid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *vasuviddhiraṇyavid* \< *hiraṇya*
+- *vasuviddhiraṇyavid* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *vasuviddhiraṇyavid* \< *vid*
+- *vasuviddhiraṇyavid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *retodhā* \< *retaḥ* \< *retas*
+- *retodhā* ← *retaḥ* ← *retas*
 - \[noun\], neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *retodhā* \< *dhāḥ* \< *dhā*
+- *retodhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *bhuvaneṣv* \< *bhuvaneṣu* \< *bhuvana*
+- *bhuvaneṣv* ← *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *arpitaḥ* \< *arpay*
+- *arpitaḥ* ← *arpay*
 - \[verb noun\], nominative, singular
 - “shoot; give; direct; hide; put; insert.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suvīro* \< *su*
+- *suvīro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīro* \< *vīraḥ* \< *vīra*
+- *suvīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -73,26 +73,26 @@ title = "Rig Veda 9.86.39"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvavit* \< *viśva*
+- *viśvavit* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavit* \< *vid*
+- *viśvavit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “conversant(p); aware(p); enlightened; understanding.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -100,16 +100,16 @@ title = "Rig Veda 9.86.39"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *girema* \< *girā* \< *gir*
+- *girema* ← *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *girema* \< *ime* \< *idam*
+- *girema* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------

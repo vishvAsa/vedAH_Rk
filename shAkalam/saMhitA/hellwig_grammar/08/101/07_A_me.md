@@ -6,22 +6,22 @@ title = "Rig Veda 8.101.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vacāṃsy* \< *vacāṃsi* \< *vacas*
+- *vacāṃsy* ← *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *udyatā* \< *udyam* \< *√yam*
+- *udyatā* ← *udyam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “raise; prepare; begin; endeavor; specialize.”
 ------------------------------------------------------------------------
-- *dyumattamāni* \< *dyumattama*
+- *dyumattamāni* ← *dyumattama*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kartvā* \< *kṛ*
+- *kartvā* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,20 +32,20 @@ title = "Rig Veda 8.101.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *sajoṣasā* \< *sajoṣas*
+- *sajoṣasā* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
@@ -53,10 +53,10 @@ title = "Rig Veda 8.101.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *havyāni* \< *havya*
+- *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------

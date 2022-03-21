@@ -2,7 +2,7 @@
 title = "Rig Veda 10.94.13"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,45 +12,45 @@ title = "Rig Veda 10.94.13"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vadanty* \< *vadanti* \< *vad*
+- *vadanty* ← *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *adrayo* \< *adrayaḥ* \< *adri*
+- *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *vimocane* \< *vimocana*
+- *vimocane* ← *vimocana*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *yāmann* \< *yāman*
+- *yāmann* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *añjaspā* \< *añjaspāḥ* \< *añjaspā*
+- *añjaspā* ← *añjaspāḥ* ← *añjaspā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ghed* \< *gha*
+- *ghed* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghed* \< *id*
+- *ghed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *upabdibhiḥ* \< *upabdi*
+- *upabdibhiḥ* ← *upabdi*
 - \[noun\], instrumental, plural, masculine
 - “trample.”
 ------------------------------------------------------------------------
-- *vapanto* \< *vapantaḥ* \< *vap*
+- *vapanto* ← *vapantaḥ* ← *vap*
 - \[verb noun\], nominative, plural
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *bījam* \< *bīja*
+- *bījam* ← *bīja*
 - \[noun\], accusative, singular, neuter
 - “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
     footing; cause; origin; method; bead.”
@@ -59,14 +59,14 @@ title = "Rig Veda 10.94.13"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhānyākṛtaḥ* \< *dhānyākṛt*
+- *dhānyākṛtaḥ* ← *dhānyākṛt*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *pṛñcanti* \< *pṛc*
+- *pṛñcanti* ← *pṛc*
 - \[verb\], plural, Present indikative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -74,11 +74,11 @@ title = "Rig Veda 10.94.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *minanti* \< *mī*
+- *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *bapsataḥ* \< *bhas*
+- *bapsataḥ* ← *bhas*
 - \[verb noun\], nominative, plural
 - “chew; snatch.”
 ------------------------------------------------------------------------

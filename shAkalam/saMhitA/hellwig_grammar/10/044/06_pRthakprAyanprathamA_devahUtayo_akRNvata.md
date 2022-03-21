@@ -7,25 +7,25 @@ title = "Rig Veda 10.44.6"
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
 ------------------------------------------------------------------------
-- *prāyan* \< *pre* \< *√i*
+- *prāyan* ← *pre* ← *√i*
 - \[verb\], plural, Imperfect
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathamāḥ* \< *prathama*
+- *prathamā* ← *prathamāḥ* ← *prathama*
 - \[noun\], nominative, plural, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *devahūtayo* \< *deva*
+- *devahūtayo* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtayo* \< *hūtayaḥ* \< *hūti*
+- *devahūtayo* ← *hūtayaḥ* ← *hūti*
 - \[noun\], nominative, plural, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *'kṛṇvata* \< *akṛṇvata* \< *kṛ*
+- *'kṛṇvata* ← *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -36,11 +36,11 @@ title = "Rig Veda 10.44.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śravasyāni* \< *śravasya*
+- *śravasyāni* ← *śravasya*
 - \[noun\], accusative, plural, neuter
 - “fame; deed.”
 ------------------------------------------------------------------------
-- *duṣṭarā* \< *duṣṭara*
+- *duṣṭarā* ← *duṣṭara*
 - \[noun\], accusative, plural, neuter
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
@@ -48,23 +48,23 @@ title = "Rig Veda 10.44.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śekur* \< *śekuḥ* \< *śak*
+- *śekur* ← *śekuḥ* ← *śak*
 - \[verb\], plural, Perfect indicative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *yajñiyāṃ* \< *yajñiyām* \< *yajñiya*
+- *yajñiyāṃ* ← *yajñiyām* ← *yajñiya*
 - \[noun\], accusative, singular, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *āruham* \< *āruh* \< *√ruh*
+- *āruham* ← *āruh* ← *√ruh*
 - \[verb noun\]
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------

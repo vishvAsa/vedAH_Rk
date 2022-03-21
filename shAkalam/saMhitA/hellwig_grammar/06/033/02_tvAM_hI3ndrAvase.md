@@ -2,43 +2,43 @@
 title = "Rig Veda 6.33.2"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hīndrāvase* \< *hi*
+- *hīndrāvase* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *hīndrāvase* \< *indra*
+- *hīndrāvase* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hīndrāvase* \< *avase* \< *avas*
+- *hīndrāvase* ← *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *vivāco* \< *vivācaḥ* \< *vivāc*
+- *vivāco* ← *vivācaḥ* ← *vivāc*
 - \[noun\], nominative, plural, feminine
 - “arguing.”
 ------------------------------------------------------------------------
-- *havante* \< *hvā*
+- *havante* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *carṣaṇayaḥ* \< *carṣaṇi*
+- *carṣaṇayaḥ* ← *carṣaṇi*
 - \[noun\], nominative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *śūrasātau* \< *śūrasāti*
+- *śūrasātau* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viprebhir* \< *viprebhiḥ* \< *vipra*
+- *viprebhir* ← *viprebhiḥ* ← *vipra*
 - \[noun\], instrumental, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
@@ -46,30 +46,30 @@ title = "Rig Veda 6.33.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇīn* \< *paṇi*
+- *paṇīṃr* ← *paṇīn* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *aśāyas* \< *aśāyaḥ* \< *śī*
+- *aśāyas* ← *aśāyaḥ* ← *śī*
 - \[verb\], singular, Imperfect
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *tvota* \< *tvotaḥ* \< *tvota*
+- *tvota* ← *tvotaḥ* ← *tvota*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sanitā* \< *san*
+- *sanitā* ← *san*
 - \[verb\], singular, periphrast. future
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------

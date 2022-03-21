@@ -6,22 +6,22 @@ title = "Rig Veda 4.30.15"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *varcinaḥ* \< *varcin*
+- *varcinaḥ* ← *varcin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śatāvadhīḥ* \< *śatā* \< *śata*
+- *śatāvadhīḥ* ← *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatāvadhīḥ* \< *avadhīḥ* \< *vadh*
+- *śatāvadhīḥ* ← *avadhīḥ* ← *vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -29,11 +29,11 @@ title = "Rig Veda 4.30.15"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, singular, neuter
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *pradhīṃr* \< *pradhīn* \< *pradhi*
+- *pradhīṃr* ← *pradhīn* ← *pradhi*
 - \[noun\], accusative, plural, masculine
 - “disk.”
 ------------------------------------------------------------------------

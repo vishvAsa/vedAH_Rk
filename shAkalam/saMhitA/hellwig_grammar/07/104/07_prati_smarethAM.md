@@ -6,40 +6,40 @@ title = "Rig Veda 7.104.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *smarethāṃ* \< *smarethām* \< *smṛ*
+- *smarethāṃ* ← *smarethām* ← *smṛ*
 - \[verb\], dual, Present imperative
 - “think of; name; call; remember; enumerate; describe; teach;
     recommend; define; hand down; long; study; deem.”
 ------------------------------------------------------------------------
-- *tujayadbhir* \< *tujayadbhiḥ* \< *tujay* \< *√tuj*
+- *tujayadbhir* ← *tujayadbhiḥ* ← *tujay* ← *√tuj*
 - \[verb noun\], instrumental, plural
 ------------------------------------------------------------------------
-- *evair* \< *evaiḥ* \< *eva*
+- *evair* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
-- *hataṃ* \< *hatam* \< *han*
+- *hataṃ* ← *hatam* ← *han*
 - \[verb\], dual, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, masculine
 - “punic; hostile.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *bhaṅgurāvataḥ* \< *bhaṅgurāvat*
+- *bhaṅgurāvataḥ* ← *bhaṅgurāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *indrāsomā* \< *indrāsoma*
+- *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
-- *duṣkṛte* \< *duṣkṛt*
+- *duṣkṛte* ← *duṣkṛt*
 - \[noun\], dative, singular, masculine
 - “wicked.”
 ------------------------------------------------------------------------
@@ -47,21 +47,21 @@ title = "Rig Veda 7.104.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *sugam* \< *suga*
+- *sugam* ← *suga*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 7.104.7"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *abhidāsati* \< *abhidās* \< *√dās*
+- *abhidāsati* ← *abhidās* ← *√dās*
 - \[verb\], singular, Present indikative
 - “threaten; endanger.”
 ------------------------------------------------------------------------
-- *druhā* \< *druh*
+- *druhā* ← *druh*
 - \[noun\], instrumental, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------

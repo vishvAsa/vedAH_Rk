@@ -2,51 +2,51 @@
 title = "Rig Veda 1.39.10"
 
 +++
--   *asāmy* \< *asāmi*
+-   *asāmy* ← *asāmi*
 - \[noun\], accusative, singular, neuter
 - “perfect; complete; entire.”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *bibhṛthā* \< *bhṛ*
+- *bibhṛthā* ← *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *'sāmi* \< *asāmi*
+- *'sāmi* ← *asāmi*
 - \[noun\], accusative, singular, neuter
 - “perfect; complete; entire.”
 ------------------------------------------------------------------------
-- *dhūtayaḥ* \< *dhūti*
+- *dhūtayaḥ* ← *dhūti*
 - \[noun\], vocative, plural, masculine
 - “Marut.”
 ------------------------------------------------------------------------
-- *śavaḥ* \< *śavas*
+- *śavaḥ* ← *śavas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *ṛṣidviṣe* \< *ṛṣi*
+- *ṛṣidviṣe* ← *ṛṣi*
 - \[noun\], masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *ṛṣidviṣe* \< *dviṣe* \< *dviṣ*
+- *ṛṣidviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *parimanyava* \< *parimanyavaḥ* \< *parimanyu*
+- *parimanyava* ← *parimanyavaḥ* ← *parimanyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *iṣuṃ* \< *iṣum* \< *iṣu*
+- *iṣuṃ* ← *iṣum* ← *iṣu*
 - \[noun\], accusative, singular, masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
@@ -54,12 +54,12 @@ title = "Rig Veda 1.39.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sṛjata* \< *sṛj*
+- *sṛjata* ← *sṛj*
 - \[verb\], plural, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *dviṣam* \< *dviṣ*
+- *dviṣam* ← *dviṣ*
 - \[noun\], accusative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------

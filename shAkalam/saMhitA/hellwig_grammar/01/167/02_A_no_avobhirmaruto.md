@@ -6,19 +6,19 @@ title = "Rig Veda 1.167.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vobhir* \< *avobhiḥ* \< *avas*
+- *'vobhir* ← *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yāntv* \< *yāntu* \< *yā*
+- *yāntv* ← *yāntu* ← *yā*
 - \[verb\], plural, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -27,7 +27,7 @@ title = "Rig Veda 1.167.2"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *jyeṣṭhebhir* \< *jyeṣṭhebhiḥ* \< *jyeṣṭha*
+- *jyeṣṭhebhir* ← *jyeṣṭhebhiḥ* ← *jyeṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
@@ -35,15 +35,15 @@ title = "Rig Veda 1.167.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *bṛhaddivaiḥ* \< *bṛhaddiva*
+- *bṛhaddivaiḥ* ← *bṛhaddiva*
 - \[noun\], instrumental, plural, masculine
 - “Bṛhaddiva.”
 ------------------------------------------------------------------------
-- *sumāyāḥ* \< *su*
+- *sumāyāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumāyāḥ* \< *māyāḥ* \< *māyā*
+- *sumāyāḥ* ← *māyāḥ* ← *māyā*
 - \[noun\], nominative, plural, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -52,35 +52,35 @@ title = "Rig Veda 1.167.2"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *niyutaḥ* \< *niyut*
+- *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *paramāḥ* \< *parama*
+- *paramāḥ* ← *parama*
 - \[noun\], nominative, plural, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *samudrasya* \< *samudra*
+- *samudrasya* ← *samudra*
 - \[noun\], genitive, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dhanayanta* \< *dhanay* \< *√dhan*
+- *dhanayanta* ← *dhanay* ← *√dhan*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------

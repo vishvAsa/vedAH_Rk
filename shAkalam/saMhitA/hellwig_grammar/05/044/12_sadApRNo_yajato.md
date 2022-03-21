@@ -2,10 +2,10 @@
 title = "Rig Veda 5.44.12"
 
 +++
--   *sadāpṛṇo* \< *sadāpṛṇaḥ* \< *sadāpṛṇa*
+-   *sadāpṛṇo* ← *sadāpṛṇaḥ* ← *sadāpṛṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
@@ -13,24 +13,24 @@ title = "Rig Veda 5.44.12"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *vadhīd* \< *vadhīt* \< *vadh*
+- *vadhīd* ← *vadhīt* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *bāhuvṛktaḥ* \< *bāhuvṛkta*
+- *bāhuvṛktaḥ* ← *bāhuvṛkta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutavit* \< *śrutavid*
+- *śrutavit* ← *śrutavid*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *taryo* \< *taryaḥ* \< *tarya*
+- *taryo* ← *taryaḥ* ← *tarya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 5.44.12"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], accusative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -46,19 +46,19 @@ title = "Rig Veda 5.44.12"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *varā* \< *vara*
+- *varā* ← *vara*
 - \[noun\], accusative, dual, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
@@ -66,24 +66,24 @@ title = "Rig Veda 5.44.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *gaṇam* \< *gaṇa*
+- *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *bhajate* \< *bhaj*
+- *bhajate* ← *bhaj*
 - \[verb\], singular, Present indikative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *suprayāvabhiḥ* \< *suprayāvan*
+- *suprayāvabhiḥ* ← *suprayāvan*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------

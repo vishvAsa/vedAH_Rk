@@ -2,29 +2,29 @@
 title = "Rig Veda 1.66.7"
 
 +++
--   *seneva* \< *senā*
+-   *seneva* ← *senā*
 - \[noun\], nominative, singular, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *seneva* \< *iva*
+- *seneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sṛṣṭāmaṃ* \< *sṛṣṭā* \< *sṛj*
+- *sṛṣṭāmaṃ* ← *sṛṣṭā* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *sṛṣṭāmaṃ* \< *amam* \< *ama*
+- *sṛṣṭāmaṃ* ← *amam* ← *ama*
 - \[noun\], accusative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *dadhāty* \< *dadhāti* \< *dhā*
+- *dadhāty* ← *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *astur* \< *astuḥ* \< *astṛ*
+- *astur* ← *astuḥ* ← *astṛ*
 - \[noun\], genitive, singular, masculine
 - “archer; shot.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 1.66.7"
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *tveṣapratīkā* \< *tveṣa*
+- *tveṣapratīkā* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣapratīkā* \< *pratīkā* \< *pratīka*
+- *tveṣapratīkā* ← *pratīkā* ← *pratīka*
 - \[noun\], nominative, singular, feminine
 - “face; surface.”
 ------------------------------------------------------------------------

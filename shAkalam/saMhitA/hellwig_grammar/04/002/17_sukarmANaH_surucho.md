@@ -2,11 +2,11 @@
 title = "Rig Veda 4.2.17"
 
 +++
--   *sukarmāṇaḥ* \< *su*
+-   *sukarmāṇaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukarmāṇaḥ* \< *karmāṇaḥ* \< *karman*
+- *sukarmāṇaḥ* ← *karmāṇaḥ* ← *karman*
 - \[noun\], nominative, plural, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -14,19 +14,19 @@ title = "Rig Veda 4.2.17"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *suruco* \< *su*
+- *suruco* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suruco* \< *rucaḥ* \< *ruc*
+- *suruco* ← *rucaḥ* ← *ruc*
 - \[noun\], nominative, plural, masculine
 - “beam; radiance; color.”
 ------------------------------------------------------------------------
-- *devayanto* \< *devayantaḥ* \< *devay*
+- *devayanto* ← *devayantaḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *'yo* \< *ayaḥ* \< *ayas*
+- *'yo* ← *ayaḥ* ← *ayas*
 - \[noun\], accusative, singular, neuter
 - “iron; kāntaloha; ayas \[word\]; tīkṣṇaloha; metallic element;
     weapon.”
@@ -35,51 +35,51 @@ title = "Rig Veda 4.2.17"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *janimā* \< *janiman*
+- *janimā* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *dhamantaḥ* \< *dham*
+- *dhamantaḥ* ← *dham*
 - \[verb noun\], nominative, plural
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *śucanto* \< *śucantaḥ* \< *śuc*
+- *śucanto* ← *śucantaḥ* ← *śuc*
 - \[verb noun\], nominative, plural
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vavṛdhanta* \< *vavṛdhantaḥ* \< *vṛdh*
+- *vavṛdhanta* ← *vavṛdhantaḥ* ← *vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ūrvaṃ* \< *ūrvam* \< *ūrva*
+- *ūrvaṃ* ← *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------
-- *gavyam* \< *gavya*
+- *gavyam* ← *gavya*
 - \[noun\], accusative, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *pariṣadanto* \< *pariṣadantaḥ* \< *pariṣad* \< *√sad*
+- *pariṣadanto* ← *pariṣadantaḥ* ← *pariṣad* ← *√sad*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *agman* \< *gam*
+- *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

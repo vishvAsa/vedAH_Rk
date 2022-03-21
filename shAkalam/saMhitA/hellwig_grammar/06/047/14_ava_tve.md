@@ -6,7 +6,7 @@ title = "Rig Veda 6.47.14"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,36 +15,36 @@ title = "Rig Veda 6.47.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pravato* \< *pravataḥ* \< *pravat*
+- *pravato* ← *pravataḥ* ← *pravat*
 - \[noun\], accusative, plural, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *normir* \< *nā* \< *na*
+- *normir* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *normir* \< *ūrmiḥ* \< *ūrmi*
+- *normir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], nominative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *dhavante* \< *dhav*
+- *dhavante* ← *dhav*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *urū* \< *uru*
+- *urū* ← *uru*
 - \[noun\], nominative, plural, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -52,23 +52,23 @@ title = "Rig Veda 6.47.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *purūṇy* \< *purūṇi* \< *puru*
+- *purūṇy* ← *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -77,7 +77,7 @@ title = "Rig Veda 6.47.14"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *yuvase* \< *yu*
+- *yuvase* ← *yu*
 - \[verb\], singular, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 6.47.14"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *indūn* \< *indu*
+- *indūn* ← *indu*
 - \[noun\], accusative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”

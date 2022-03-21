@@ -2,23 +2,23 @@
 title = "Rig Veda 1.18.8"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *ṛdhnoti* \< *ṛdh*
+- *ṛdhnoti* ← *ṛdh*
 - \[verb\], singular, Present indikative
 - “boom; stick to.”
 ------------------------------------------------------------------------
-- *haviṣkṛtim* \< *haviṣkṛti*
+- *haviṣkṛtim* ← *haviṣkṛti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *prāñcaṃ* \< *prāñcam* \< *prāñc*
+- *prāñcaṃ* ← *prāñcam* ← *prāñc*
 - \[noun\], accusative, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇoty* \< *kṛṇoti* \< *kṛ*
+- *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,19 +29,19 @@ title = "Rig Veda 1.18.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
 - *hotrā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *gacchati* \< *gam*
+- *gacchati* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -2,11 +2,11 @@
 title = "Rig Veda 8.23.26"
 
 +++
--   *maho* \< *mahaḥ* \< *mah*
+-   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśvān* \< *viśva*
+- *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -15,24 +15,24 @@ title = "Rig Veda 8.23.26"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣato* \< *sataḥ* \< *as*
+- *ṣato* ← *sataḥ* ← *as*
 - \[verb noun\], accusative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *'bhi* \< *abhi*
+- *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *havyāni* \< *havya*
+- *havyāni* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣa*
 - \[noun\], accusative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -42,20 +42,20 @@ title = "Rig Veda 8.23.26"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣatsi* \< *satsi* \< *sad*
+- *ṣatsi* ← *satsi* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *namasādhi* \< *namasā* \< *namas*
+- *namasādhi* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namasādhi* \< *adhi*
+- *namasādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------

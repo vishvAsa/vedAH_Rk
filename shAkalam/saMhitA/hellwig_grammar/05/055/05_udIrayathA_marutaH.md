@@ -6,43 +6,43 @@ title = "Rig Veda 5.55.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *īrayathā* \< *īrayatha* \< *īray* \< *√īr*
+- *īrayathā* ← *īrayatha* ← *īray* ← *√īr*
 - \[verb\], plural, Present indikative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *samudrato* \< *samudrataḥ* \< *samudra*
+- *samudrato* ← *samudrataḥ* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *varṣayathā* \< *varṣayatha* \< *varṣay* \< *√vṛṣ*
+- *varṣayathā* ← *varṣayatha* ← *varṣay* ← *√vṛṣ*
 - \[verb\], plural, Present indikative
 - “rain.”
 ------------------------------------------------------------------------
-- *purīṣiṇaḥ* \< *purīṣin*
+- *purīṣiṇaḥ* ← *purīṣin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasrāḥ* \< *dasra*
+- *dasrā* ← *dasrāḥ* ← *dasra*
 - \[noun\], vocative, plural, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -50,18 +50,18 @@ title = "Rig Veda 5.55.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dasyanti* \< *das*
+- *dasyanti* ← *das*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *śubhaṃ* \< *śubham* \< *śubh*
+- *śubhaṃ* ← *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *yātām* \< *yā*
+- *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -70,11 +70,11 @@ title = "Rig Veda 5.55.5"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *avṛtsata* \< *vṛdh*
+- *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

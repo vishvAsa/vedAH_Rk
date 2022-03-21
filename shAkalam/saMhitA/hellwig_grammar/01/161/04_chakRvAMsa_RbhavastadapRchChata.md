@@ -2,7 +2,7 @@
 title = "Rig Veda 1.161.4"
 
 +++
--   *cakṛvāṃsa* \< *cakṛvāṃsaḥ* \< *kṛ*
+-   *cakṛvāṃsa* ← *cakṛvāṃsaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,72 +13,72 @@ title = "Rig Veda 1.161.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṛbhavas* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavas* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *apṛcchata* \< *pracch*
+- *apṛcchata* ← *pracch*
 - \[verb\], plural, Imperfect
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *kved* \< *kva*
+- *kved* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *kved* \< *id*
+- *kved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *abhūd* \< *abhūt* \< *bhū*
+- *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *dūto* \< *dūtaḥ* \< *dūta*
+- *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ājagan* \< *āgam* \< *√gam*
+- *ājagan* ← *āgam* ← *√gam*
 - \[verb\], singular, Plusquamperfect
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”
 ------------------------------------------------------------------------
-- *yadāvākhyac* \< *yadā*
+- *yadāvākhyac* ← *yadā*
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *yadāvākhyac* \< *avākhyat* \< *avakhyā* \< *√khyā*
+- *yadāvākhyac* ← *avākhyat* ← *avakhyā* ← *√khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 ------------------------------------------------------------------------
-- *camasāñcaturaḥ* \< *camasān* \< *camasa*
+- *camasāñcaturaḥ* ← *camasān* ← *camasa*
 - \[noun\], accusative, plural, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *camasāñcaturaḥ* \< *caturaḥ* \< *catur*
+- *camasāñcaturaḥ* ← *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *kṛtān* \< *kṛ*
+- *kṛtān* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -89,19 +89,19 @@ title = "Rig Veda 1.161.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *gnāsv* \< *gnāsu* \< *gnā*
+- *gnāsv* ← *gnāsu* ← *gnā*
 - \[noun\], locative, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
@@ -109,11 +109,11 @@ title = "Rig Veda 1.161.4"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ānaje* \< *añj*
+- *ānaje* ← *añj*
 - \[verb\], singular, Perfect indicative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------

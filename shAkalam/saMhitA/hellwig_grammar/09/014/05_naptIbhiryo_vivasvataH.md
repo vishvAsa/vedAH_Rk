@@ -2,19 +2,19 @@
 title = "Rig Veda 9.14.5"
 
 +++
--   *naptībhir* \< *naptībhiḥ* \< *naptī*
+-   *naptībhir* ← *naptībhiḥ* ← *naptī*
 - \[noun\], instrumental, plural, feminine
 - “daughter; granddaughter.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vivasvataḥ* \< *vivasvant*
+- *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *śubhro* \< *śubhraḥ* \< *śubhra*
+- *śubhro* ← *śubhraḥ* ← *śubhra*
 - \[noun\], nominative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
@@ -22,21 +22,21 @@ title = "Rig Veda 9.14.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *māmṛje* \< *mṛj*
+- *māmṛje* ← *mṛj*
 - \[verb\], singular, Perfect indicative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *yuvā* \< *yuvan*
+- *yuvā* ← *yuvan*
 - \[noun\], nominative, singular, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *go*
+- *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *kṛṇvāno* \< *kṛṇvānaḥ* \< *kṛ*
+- *kṛṇvāno* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,7 +51,7 @@ title = "Rig Veda 9.14.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nirṇijam* \< *nirṇij*
+- *nirṇijam* ← *nirṇij*
 - \[noun\], accusative, singular, feminine
 - “attire; garment.”
 ------------------------------------------------------------------------

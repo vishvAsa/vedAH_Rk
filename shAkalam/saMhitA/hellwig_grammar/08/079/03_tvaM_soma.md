@@ -2,7 +2,7 @@
 title = "Rig Veda 8.79.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,25 +10,25 @@ title = "Rig Veda 8.79.3"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tanūkṛdbhyo* \< *tanū*
+- *tanūkṛdbhyo* ← *tanū*
 - \[noun\], feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *tanūkṛdbhyo* \< *kṛdbhyaḥ* \< *kṛt*
+- *tanūkṛdbhyo* ← *kṛdbhyaḥ* ← *kṛt*
 - \[noun\], dative, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *dveṣobhyo* \< *dveṣobhyaḥ* \< *dveṣas*
+- *dveṣobhyo* ← *dveṣobhyaḥ* ← *dveṣas*
 - \[noun\], ablative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *'nyakṛtebhyaḥ* \< *anya*
+- *'nyakṛtebhyaḥ* ← *anya*
 - \[noun\]
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *'nyakṛtebhyaḥ* \< *kṛtebhyaḥ* \< *kṛ*
+- *'nyakṛtebhyaḥ* ← *kṛtebhyaḥ* ← *kṛ*
 - \[verb noun\], ablative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -43,11 +43,11 @@ title = "Rig Veda 8.79.3"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *yantāsi* \< *yam*
+- *yantāsi* ← *yam*
 - \[verb\], singular, periphrast. future
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *varūtham* \< *varūtha*
+- *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------

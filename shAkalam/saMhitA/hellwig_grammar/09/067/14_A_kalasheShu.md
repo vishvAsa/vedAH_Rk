@@ -6,19 +6,19 @@ title = "Rig Veda 9.67.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *varma* \< *varman*
+- *varma* ← *varman*
 - \[noun\], accusative, singular, neuter
 - “cuirass; armor; varman \[word\]; protective covering; Varman;
     varman.”
@@ -27,17 +27,17 @@ title = "Rig Veda 9.67.14"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *gāhate* \< *gāh*
+- *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *droṇā* \< *droṇa*
+- *droṇā* ← *droṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb\], singular, Present injunctive
 - “roar; neigh.”
 ------------------------------------------------------------------------

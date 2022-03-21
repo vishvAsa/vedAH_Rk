@@ -2,7 +2,7 @@
 title = "Rig Veda 10.61.25"
 
 +++
--   *yuvor* \< *yuvoḥ* \< *tvad*
+-   *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 10.61.25"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *sakhyāyāsme* \< *sakhyāya* \< *sakhya*
+- *sakhyāyāsme* ← *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *sakhyāyāsme* \< *asme* \< *mad*
+- *sakhyāyāsme* ← *asme* ← *mad*
 - \[noun\], dative, plural, masculine
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *jujuṣe* \< *juṣ*
+- *jujuṣe* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *namasvān* \< *namasvat*
+- *namasvān* ← *namasvat*
 - \[noun\], nominative, singular, masculine
 - “respectful.”
 ------------------------------------------------------------------------
 - *viśvatra*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yasminn* \< *yasmin* \< *yad*
+- *yasminn* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -45,27 +45,27 @@ title = "Rig Veda 10.61.25"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *samīcīḥ* \< *\_* \< *√\_*
+- *samīcīḥ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *pūrvīva* \< *\_* \< *√\_*
+- *pūrvīva* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *gātur* \< *gātuḥ* \< *gātu*
+- *gātur* ← *gātuḥ* ← *gātu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dāśat* \< *dāś*
+- *dāśat* ← *dāś*
 - \[verb\], singular, Present injunctive
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *sūnṛtāyai* \< *sūnṛtā*
+- *sūnṛtāyai* ← *sūnṛtā*
 - \[noun\], dative, singular, feminine
 - “liberality.”
 ------------------------------------------------------------------------

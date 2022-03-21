@@ -2,7 +2,7 @@
 title = "Rig Veda 8.7.6"
 
 +++
--   *yuṣmāṃ* \< *yuṣmān* \< *tvad*
+-   *yuṣmāṃ* ← *yuṣmān* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -10,35 +10,35 @@ title = "Rig Veda 8.7.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *naktam* \< *nakta*
+- *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *yuṣmān* \< *tvad*
+- *yuṣmān* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yuṣmān* \< *tvad*
+- *yuṣmān* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *prayaty* \< *prayati* \< *pre* \< *√i*
+- *prayaty* ← *prayati* ← *pre* ← *√i*
 - \[verb noun\], locative, singular
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

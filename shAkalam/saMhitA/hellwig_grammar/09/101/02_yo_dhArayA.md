@@ -2,19 +2,19 @@
 title = "Rig Veda 9.101.2"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *pāvakayā* \< *pāvaka*
+- *pāvakayā* ← *pāvaka*
 - \[noun\], instrumental, singular, feminine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pariprasyandate* \< *pariprasyand* \< *√syand*
+- *pariprasyandate* ← *pariprasyand* \< *√syand*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *sutaḥ* \< *su*

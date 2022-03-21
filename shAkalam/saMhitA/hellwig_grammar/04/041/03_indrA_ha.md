@@ -2,7 +2,7 @@
 title = "Rig Veda 4.41.3"
 
 +++
--   *indrā* \< *indra*
+-   *indrā* ← *indra*
 - \[noun\], nominative, dual, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,66 +11,66 @@ title = "Rig Veda 4.41.3"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *ratnaṃ* \< *ratnam* \< *ratna*
+- *ratnaṃ* ← *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *varuṇā* \< *varuṇa*
+- *varuṇā* ← *varuṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dheṣṭhetthā* \< *dheṣṭhā* \< *dheṣṭha*
+- *dheṣṭhetthā* ← *dheṣṭhā* ← *dheṣṭha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *dheṣṭhetthā* \< *itthā*
+- *dheṣṭhetthā* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyaḥ* ← *nṛ*
 - \[noun\], dative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *śaśamānebhyas* \< *śaśamānebhyaḥ* \< *śam*
+- *śaśamānebhyas* ← *śaśamānebhyaḥ* ← *śam*
 - \[verb noun\], dative, plural
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *sakhāyā* \< *sakhi*
+- *sakhāyā* ← *sakhi*
 - \[noun\], nominative, dual, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyāya* \< *sakhya*
+- *sakhyāya* ← *sakhya*
 - \[noun\], dative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *somaiḥ* \< *soma*
+- *somaiḥ* ← *soma*
 - \[noun\], instrumental, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *sutebhiḥ* \< *su*
+- *sutebhiḥ* ← *su*
 - \[verb noun\], instrumental, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *suprayasā* \< *su*
+- *suprayasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprayasā* \< *prayasā* \< *prayas*
+- *suprayasā* ← *prayasā* ← *prayas*
 - \[noun\], nominative, dual, masculine
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *mādayaite* \< *māday* \< *√mad*
+- *mādayaite* ← *māday* ← *√mad*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

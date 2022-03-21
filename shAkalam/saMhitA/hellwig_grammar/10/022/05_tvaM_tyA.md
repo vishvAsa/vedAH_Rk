@@ -2,19 +2,19 @@
 title = "Rig Veda 10.22.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vātasyāśvāgā* \< *vātasya* \< *vāta*
+- *vātasyāśvāgā* ← *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”

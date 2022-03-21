@@ -6,33 +6,33 @@ title = "Rig Veda 1.15.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *gṛṇīhi* \< *gṛ*
+- *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gnāvo* \< *gnāvas* \< *gnāvat*
+- *gnāvo* ← *gnāvas* ← *gnāvat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *neṣṭaḥ* \< *neṣṭar* \< *neṣṭṛ*
+- *neṣṭaḥ* ← *neṣṭar* ← *neṣṭṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *ṛtunā* \< *ṛtu*
+- *ṛtunā* ← *ṛtu*
 - \[noun\], instrumental, singular, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -40,16 +40,16 @@ title = "Rig Veda 1.15.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *ratna*
+- *ratnadhā* ← *ratna*
 - \[noun\], neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *ratnadhā* \< *dhāḥ* \< *dhā*
+- *ratnadhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

@@ -2,19 +2,19 @@
 title = "Rig Veda 9.47.5"
 
 +++
--   *siṣāsatū* \< *siṣāsatu*
+-   *siṣāsatū* ← *siṣāsatu*
 - \[noun\], nominative, dual, masculine
 - “desirous.”
 ------------------------------------------------------------------------
-- *rayīṇāṃ* \< *rayīṇām* \< *rayi*
+- *rayīṇāṃ* ← *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vājeṣv* \< *vājeṣu* \< *vāja*
+- *vājeṣv* ← *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arvatām* \< *arvant*
+- *arvatām* ← *arvant*
 - \[noun\], genitive, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -22,16 +22,16 @@ title = "Rig Veda 9.47.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhareṣu* \< *bhara*
+- *bhareṣu* ← *bhara*
 - \[noun\], locative, plural, masculine
 - “battle; weight; foray; bhṛ; load.”
 ------------------------------------------------------------------------
-- *jigyuṣām* \< *ji*
+- *jigyuṣām* ← *ji*
 - \[verb noun\], genitive, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

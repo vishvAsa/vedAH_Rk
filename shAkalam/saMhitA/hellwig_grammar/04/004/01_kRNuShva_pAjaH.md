@@ -2,7 +2,7 @@
 title = "Rig Veda 4.4.1"
 
 +++
--   *kṛṇuṣva* \< *kṛ*
+-   *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,11 +13,11 @@ title = "Rig Veda 4.4.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pājaḥ* \< *pājas*
+- *pājaḥ* ← *pājas*
 - \[noun\], accusative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *prasitiṃ* \< *prasitim* \< *prasiti*
+- *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
@@ -25,32 +25,32 @@ title = "Rig Veda 4.4.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛthvīṃ* \< *pṛthvīm* \< *pṛthu*
+- *pṛthvīṃ* ← *pṛthvīm* ← *pṛthu*
 - \[noun\], accusative, singular, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *rājevāmavāṃ* \< *rājā* \< *rājan*
+- *rājevāmavāṃ* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājevāmavāṃ* \< *iva*
+- *rājevāmavāṃ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rājevāmavāṃ* \< *amavāṃ* \< *amavat*
+- *rājevāmavāṃ* ← *amavāṃ* ← *amavat*
 - \[noun\], nominative, singular, masculine
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *ibhena* \< *ibha*
+- *ibhena* ← *ibha*
 - \[noun\], instrumental, singular, masculine
 - “elephant.”
 ------------------------------------------------------------------------
-- *tṛṣvīm* \< *tṛṣu*
+- *tṛṣvīm* ← *tṛṣu*
 - \[noun\], accusative, singular, feminine
 - “dry.”
 ------------------------------------------------------------------------
@@ -58,30 +58,30 @@ title = "Rig Veda 4.4.1"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *prasitiṃ* \< *prasitim* \< *prasiti*
+- *prasitiṃ* ← *prasitim* ← *prasiti*
 - \[noun\], accusative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *drūṇāno* \< *drūṇānaḥ* \< *drū*
+- *drūṇāno* ← *drūṇānaḥ* ← *drū*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *'stāsi* \< *astā* \< *as*
+- *'stāsi* ← *astā* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *'stāsi* \< *asi* \< *as*
+- *'stāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vidhya* \< *vyadh*
+- *vidhya* ← *vyadh*
 - \[verb\], singular, Present imperative
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 ------------------------------------------------------------------------
-- *rakṣasas* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣasas* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *tapiṣṭhaiḥ* \< *tapiṣṭha*
+- *tapiṣṭhaiḥ* ← *tapiṣṭha*
 - \[noun\], instrumental, plural, masculine
 - “burning; ablaze(p).”
 ------------------------------------------------------------------------

@@ -2,78 +2,78 @@
 title = "Rig Veda 9.97.47"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *pratnena* \< *pratna*
+- *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *vayasā* \< *vayas*
+- *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *punānas* \< *punānaḥ* \< *pū*
+- *punānas* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *varpāṃsi* \< *varpas*
+- *varpāṃsi* ← *varpas*
 - \[noun\], accusative, plural, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *duhitur* \< *duhituḥ* \< *duhitṛ*
+- *duhitur* ← *duhituḥ* ← *duhitṛ*
 - \[noun\], genitive, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *dadhānaḥ* \< *dhā*
+- *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vasānaḥ* \< *vas*
+- *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *trivarūtham* \< *tri*
+- *trivarūtham* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūtham* \< *varūtham* \< *varūtha*
+- *trivarūtham* ← *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *hoteva* \< *hotā* \< *hotṛ*
+- *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hoteva* \< *iva*
+- *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *samaneṣu* \< *samana*
+- *samaneṣu* ← *samana*
 - \[noun\], locative, plural, neuter
 - “marriage; conflict.”
 ------------------------------------------------------------------------
-- *rebhan* \< *ribh*
+- *rebhan* ← *ribh*
 - \[verb noun\], nominative, singular
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------

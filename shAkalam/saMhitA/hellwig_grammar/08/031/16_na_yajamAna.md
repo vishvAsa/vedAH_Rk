@@ -6,11 +6,11 @@ title = "Rig Veda 8.31.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yajamāna* \< *yaj*
+- *yajamāna* ← *yaj*
 - \[verb noun\], vocative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *riṣyasi* \< *riṣ*
+- *riṣyasi* ← *riṣ*
 - \[verb\], singular, Present indikative
 - “suffer; harm.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 8.31.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sunvāna* \< *su*
+- *sunvāna* ← *su*
 - \[verb noun\], vocative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -26,48 +26,48 @@ title = "Rig Veda 8.31.16"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devayo* \< *devayu*
+- *devayo* ← *devayu*
 - \[noun\], vocative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *yajamāna* \< *yajamānaḥ* \< *yaj*
+- *yajamāna* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *iyakṣaty* \< *iyakṣati* \< *iyakṣ* \< *√yaj*
+- *iyakṣaty* ← *iyakṣati* ← *iyakṣ* ← *√yaj*
 - \[verb\], singular, Present indikative
 - “endeavor.”
 ------------------------------------------------------------------------
-- *abhīd* \< *abhi*
+- *abhīd* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhīd* \< *id*
+- *abhīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ayajvano* \< *ayajvanaḥ* \< *ayajvan*
+- *ayajvano* ← *ayajvanaḥ* ← *ayajvan*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

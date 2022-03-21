@@ -2,15 +2,15 @@
 title = "Rig Veda 10.77.5"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dhūrṣu* \< *dhur*
+- *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *prayujo* \< *prayujaḥ* \< *prayuj*
+- *prayujo* ← *prayujaḥ* ← *prayuj*
 - \[noun\], nominative, plural, feminine
 - “team.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 10.77.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raśmibhir* \< *raśmibhiḥ* \< *raśmi*
+- *raśmibhir* ← *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *jyotiṣmanto* \< *jyotiṣmantaḥ* \< *jyotiṣmat*
+- *jyotiṣmanto* ← *jyotiṣmantaḥ* ← *jyotiṣmat*
 - \[noun\], nominative, plural, masculine
 - “shining.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 10.77.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhāsā* \< *bhās*
+- *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
-- *vyuṣṭiṣu* \< *vyuṣṭi*
+- *vyuṣṭiṣu* ← *vyuṣṭi*
 - \[noun\], locative, plural, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *śyenāso* \< *śyenāsaḥ* \< *śyena*
+- *śyenāso* ← *śyenāsaḥ* ← *śyena*
 - \[noun\], nominative, plural, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -46,20 +46,20 @@ title = "Rig Veda 10.77.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svayaśaso* \< *sva*
+- *svayaśaso* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayaśaso* \< *yaśasaḥ* \< *yaśas*
+- *svayaśaso* ← *yaśasaḥ* ← *yaśas*
 - \[noun\], nominative, plural, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *riśādasaḥ* \< *riśādas*
+- *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *pravāso* \< *pravāsaḥ* \< *prava*
+- *pravāso* ← *pravāsaḥ* ← *prava*
 - \[noun\], nominative, plural, masculine
 - “floating.”
 ------------------------------------------------------------------------
@@ -67,10 +67,10 @@ title = "Rig Veda 10.77.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prasitāsaḥ* \< *prasita*
+- *prasitāsaḥ* ← *prasita*
 - \[noun\], nominative, plural, masculine
 - “prasita \[word\]; attentive.”
 ------------------------------------------------------------------------
-- *paripruṣaḥ* \< *paripruṣ*
+- *paripruṣaḥ* ← *paripruṣ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

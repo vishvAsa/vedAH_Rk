@@ -2,34 +2,34 @@
 title = "Rig Veda 1.190.3"
 
 +++
--   *upastutiṃ* \< *upastutim* \< *upastuti*
+-   *upastutiṃ* ← *upastutim* ← *upastuti*
 - \[noun\], accusative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
-- *namasa* \< *namasaḥ* \< *namas*
+- *namasa* ← *namasaḥ* ← *namas*
 - \[noun\], genitive, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *udyatiṃ* \< *udyatim* \< *udyati*
+- *udyatiṃ* ← *udyatim* ← *udyati*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ślokaṃ* \< *ślokam* \< *śloka*
+- *ślokaṃ* ← *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *yaṃsat* \< *yam*
+- *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *saviteva* \< *savitā* \< *savitṛ*
+- *saviteva* ← *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *saviteva* \< *iva*
+- *saviteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -37,33 +37,33 @@ title = "Rig Veda 1.190.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kratvāhanyo* \< *kratvā* \< *kratu*
+- *kratvāhanyo* ← *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *kratvāhanyo* \< *ahanyaḥ* \< *ahanya*
+- *kratvāhanyo* ← *ahanyaḥ* ← *ahanya*
 - \[noun\], nominative, singular, masculine
 - “daily.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ title = "Rig Veda 1.190.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīmo* \< *bhīmaḥ* \< *bhīma*
+- *bhīmo* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *arakṣasas* \< *arakṣasaḥ* \< *arakṣas*
+- *arakṣasas* ← *arakṣasaḥ* ← *arakṣas*
 - \[noun\], genitive, singular, masculine
 - “harmless.”
 ------------------------------------------------------------------------
-- *tuviṣmān* \< *tuviṣmat*
+- *tuviṣmān* ← *tuviṣmat*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------

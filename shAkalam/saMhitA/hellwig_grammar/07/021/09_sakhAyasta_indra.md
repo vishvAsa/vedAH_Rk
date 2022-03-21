@@ -2,11 +2,11 @@
 title = "Rig Veda 7.21.9"
 
 +++
--   *sakhāyas* \< *sakhāyaḥ* \< *sakhi*
+-   *sakhāyas* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 7.21.9"
 - *viśvaha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *namovṛdhāso* \< *namaḥ* \< *namas*
+- *namovṛdhāso* ← *namaḥ* ← *namas*
 - \[noun\], neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namovṛdhāso* \< *vṛdhāsaḥ* \< *vṛdha*
+- *namovṛdhāso* ← *vṛdhāsaḥ* ← *vṛdha*
 - \[noun\], nominative, plural, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *mahinā* \< *mahina*
+- *mahinā* ← *mahina*
 - \[noun\], instrumental, singular, neuter
 - “greatness; enormousness.”
 ------------------------------------------------------------------------
@@ -39,37 +39,37 @@ title = "Rig Veda 7.21.9"
 - \[noun\], vocative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *vanvantu* \< *van*
+- *vanvantu* ← *van*
 - \[verb\], plural, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'vasā* \< *avasā* \< *avas*
+- *'vasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *samīke* \< *samīka*
+- *samīke* ← *samīka*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *'bhītim* \< *abhītim* \< *abhīti*
+- *'bhītim* ← *abhītim* ← *abhīti*
 - \[noun\], accusative, singular, feminine
 - “assault.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vanuṣāṃ* \< *vanuṣām* \< *vanus*
+- *vanuṣāṃ* ← *vanuṣām* ← *vanus*
 - \[noun\], genitive, plural, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *śavāṃsi* \< *śavas*
+- *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------

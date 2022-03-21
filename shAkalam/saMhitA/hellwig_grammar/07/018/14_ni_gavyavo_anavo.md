@@ -6,14 +6,14 @@ title = "Rig Veda 7.18.14"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *gavyavo* \< *gavyavaḥ* \< *gavyu*
+- *gavyavo* ← *gavyavaḥ* ← *gavyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *'navo* \< *anavaḥ* \< *anu*
+- *'navo* ← *anavaḥ* ← *anu*
 - \[noun\], nominative, plural, masculine
 - “anu; Anu.”
 ------------------------------------------------------------------------
-- *druhyavaś* \< *druhyavaḥ* \< *druhyu*
+- *druhyavaś* ← *druhyavaḥ* ← *druhyu*
 - \[noun\], nominative, plural, masculine
 - “Druhyu.”
 ------------------------------------------------------------------------
@@ -21,31 +21,31 @@ title = "Rig Veda 7.18.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ṣaṣṭiḥ* \< *ṣaṣṭi*
+- *ṣaṣṭiḥ* ← *ṣaṣṭi*
 - \[noun\], nominative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], nominative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *suṣupuḥ* \< *svap*
+- *suṣupuḥ* ← *svap*
 - \[verb\], plural, Perfect indicative
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
-- *ṣaṭ* \< *ṣaḍ* \< *ṣaṣ*
+- *ṣaṭ* ← *ṣaḍ* ← *ṣaṣ*
 - \[noun\], nominative, plural, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], nominative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *ṣaṣṭir* \< *ṣaṣṭiḥ* \< *ṣaṣṭi*
+- *ṣaṣṭir* ← *ṣaṣṭiḥ* ← *ṣaṣṭi*
 - \[noun\], nominative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *vīrāso* \< *vīrāsaḥ* \< *vīra*
+- *vīrāso* ← *vīrāsaḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -53,34 +53,34 @@ title = "Rig Veda 7.18.14"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣaḍ* \< *ṣaṣ*
+- *ṣaḍ* ← *ṣaṣ*
 - \[noun\], nominative, plural, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
 - *duvoyu*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *viśved* \< *viśvā* \< *viśva*
+- *viśved* ← *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśved* \< *id*
+- *viśved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vīryā* \< *vīrya*
+- *vīryā* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

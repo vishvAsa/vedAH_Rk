@@ -6,7 +6,7 @@ title = "Rig Veda 9.108.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sotā* \< *sota* \< *su*
+- *sotā* ← *sota* ← *su*
 - \[verb\], plural, Aorist imperative
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 9.108.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣiñcatāśvaṃ* \< *siñcata* \< *sic*
+- *ṣiñcatāśvaṃ* ← *siñcata* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *ṣiñcatāśvaṃ* \< *aśvam* \< *aśva*
+- *ṣiñcatāśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 9.108.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *stomam* \< *stoma*
+- *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *apturaṃ* \< *apturam* \< *aptur*
+- *apturaṃ* ← *apturam* ← *aptur*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rajasturam* \< *rajastur*
+- *rajasturam* ← *rajastur*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vanakrakṣam* \< *vanakrakṣa*
+- *vanakrakṣam* ← *vanakrakṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *udaprutam* \< *uda*
+- *udaprutam* ← *uda*
 - \[noun\], neuter
 - “water.”
 ------------------------------------------------------------------------
-- *udaprutam* \< *prutam* \< *prut*
+- *udaprutam* ← *prutam* ← *prut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

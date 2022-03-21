@@ -2,49 +2,49 @@
 title = "Rig Veda 10.2.6"
 
 +++
--   *viśveṣāṃ* \< *viśveṣām* \< *viśva*
+-   *viśveṣāṃ* ← *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *adhvarāṇām* \< *adhvara*
+- *adhvarāṇām* ← *adhvara*
 - \[noun\], genitive, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], accusative, singular, masculine
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *ketuṃ* \< *ketum* \< *ketu*
+- *ketuṃ* ← *ketum* ← *ketu*
 - \[noun\], accusative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *janitā* \< *janitṛ*
+- *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jajāna* \< *jan*
+- *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -54,11 +54,11 @@ title = "Rig Veda 10.2.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *nṛvatīr* \< *nṛvatīḥ* \< *nṛvat*
+- *nṛvatīr* ← *nṛvatīḥ* ← *nṛvat*
 - \[noun\], accusative, plural, feminine
 - “rich in men.”
 ------------------------------------------------------------------------
@@ -66,22 +66,22 @@ title = "Rig Veda 10.2.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *kṣā* \< *kṣāḥ* \< *kṣā*
+- *kṣā* ← *kṣāḥ* ← *kṣā*
 - \[noun\], accusative, plural, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *spārhā* \< *spārhāḥ* \< *spārha*
+- *spārhā* ← *spārhāḥ* ← *spārha*
 - \[noun\], accusative, plural, feminine
 - “desirable.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *kṣumatīr* \< *kṣumatīḥ* \< *kṣumat*
+- *kṣumatīr* ← *kṣumatīḥ* ← *kṣumat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *viśvajanyāḥ* \< *viśvajanya*
+- *viśvajanyāḥ* ← *viśvajanya*
 - \[noun\], accusative, plural, feminine
 - “omnipresent; worldwide.”
 ------------------------------------------------------------------------

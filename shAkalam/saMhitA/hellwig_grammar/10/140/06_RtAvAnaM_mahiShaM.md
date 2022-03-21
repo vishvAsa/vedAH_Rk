@@ -2,48 +2,48 @@
 title = "Rig Veda 10.140.6"
 
 +++
--   *ṛtāvānam* \< *ṛtāvan*
+-   *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *mahiṣaṃ* \< *mahiṣam* \< *mahiṣa*
+- *mahiṣaṃ* ← *mahiṣam* ← *mahiṣa*
 - \[noun\], accusative, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *viśvadarśatam* \< *viśva*
+- *viśvadarśatam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadarśatam* \< *darśatam* \< *darśata*
+- *viśvadarśatam* ← *darśatam* ← *darśata*
 - \[noun\], accusative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sumnāya* \< *sumna*
+- *sumnāya* ← *sumna*
 - \[noun\], dative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *janāḥ* \< *jana*
+- *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *śrutkarṇaṃ* \< *śrut*
+- *śrutkarṇaṃ* ← *śrut*
 - \[noun\]
 - “listening.”
 ------------------------------------------------------------------------

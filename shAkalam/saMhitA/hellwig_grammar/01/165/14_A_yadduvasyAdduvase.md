@@ -6,15 +6,15 @@ title = "Rig Veda 1.165.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *duvasyād* \< *duvasyāt* \< *duvasy*
+- *duvasyād* ← *duvasyāt* ← *duvasy*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “worship.”
 ------------------------------------------------------------------------
-- *duvase* \< *duvas*
+- *duvase* ← *duvas*
 - \[noun\], dative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------
@@ -22,15 +22,15 @@ title = "Rig Veda 1.165.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kārur* \< *kāruḥ* \< *kāru*
+- *kārur* ← *kāruḥ* ← *kāru*
 - \[noun\], nominative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *asmāñcakre* \< *asmān* \< *mad*
+- *asmāñcakre* ← *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmāñcakre* \< *cakre* \< *kṛ*
+- *asmāñcakre* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,61 +41,61 @@ title = "Rig Veda 1.165.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mānyasya* \< *mānya*
+- *mānyasya* ← *mānya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *medhā*
 - \[noun\], nominative, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *o* \< *ā*
+- *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vartta* \< *vṛt*
+- *vartta* ← *vṛt*
 - \[verb\], plural, Aorist imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *vipram* \< *vipra*
+- *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *acchemā* \< *accha* \< *acchā*
+- *acchemā* ← *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *acchemā* \< *imā* \< *idam*
+- *acchemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *arcat* \< *arc*
+- *arcat* ← *arc*
 - \[verb\], singular, Present injunctive
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

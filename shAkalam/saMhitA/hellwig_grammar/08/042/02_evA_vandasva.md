@@ -2,61 +2,61 @@
 title = "Rig Veda 8.42.2"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *vandasva* \< *vand*
+- *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *varuṇam* \< *varuṇa*
+- *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *bṛhantaṃ* \< *bṛhantam* \< *bṛhat*
+- *bṛhantaṃ* ← *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *namasyā* \< *namasya* \< *namasy*
+- *namasyā* ← *namasya* ← *namasy*
 - \[verb\], singular, Present imperative
 - “worship; respect.”
 ------------------------------------------------------------------------
-- *dhīram* \< *dhīra*
+- *dhīram* ← *dhīra*
 - \[noun\], accusative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *gopām* \< *gopā*
+- *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *trivarūthaṃ* \< *tri*
+- *trivarūthaṃ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivarūthaṃ* \< *varūtham* \< *varūtha*
+- *trivarūthaṃ* ← *varūtham* ← *varūtha*
 - \[noun\], accusative, singular, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 8.42.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yaṃsat* \< *yam*
+- *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *pātaṃ* \< *pātam* \< *pā*
+- *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 8.42.2"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 1.9.3"
 
 +++
--   *matsvā* \< *mad*
+-   *matsvā* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *suśipra* \< *su*
+- *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipra* \< *śipra* \< *śiprā*
+- *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *mandibhi* \< *mandibhiḥ* \< *mandin*
+- *mandibhi* ← *mandibhiḥ* ← *mandin*
 - \[noun\], instrumental, plural, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *viśvacarṣaṇe* \< *viśvacarṣaṇi*
+- *viśvacarṣaṇe* ← *viśvacarṣaṇi*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sacaiṣu* \< *sacā*
+- *sacaiṣu* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacaiṣu* \< *eṣu* \< *idam*
+- *sacaiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *savaneṣv* \< *savaneṣu* \< *savana*
+- *savaneṣv* ← *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------

@@ -2,56 +2,56 @@
 title = "Rig Veda 7.73.3"
 
 +++
--   *ahema* \< *hi*
+-   *ahema* ← *hi*
 - \[verb\], plural, Root aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *pathām* \< *pathin*
+- *pathām* ← *pathin*
 - \[noun\], genitive, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *urāṇā* \< *urāṇāḥ* \< *vṛ*
+- *urāṇā* ← *urāṇāḥ* ← *vṛ*
 - \[verb noun\], nominative, plural
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *suvṛktiṃ* \< *suvṛktim* \< *suvṛkti*
+- *suvṛktiṃ* ← *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *juṣethām* \< *juṣ*
+- *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *śruṣṭīveva* \< *śruṣṭīvā* \< *śruṣṭīvan*
+- *śruṣṭīveva* ← *śruṣṭīvā* ← *śruṣṭīvan*
 - \[noun\], nominative, singular, masculine
 - “obedient; heedful; attentive.”
 ------------------------------------------------------------------------
-- *śruṣṭīveva* \< *iva*
+- *śruṣṭīveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *preṣito* \< *preṣitaḥ* \< *preṣ* \< *√iṣ*
+- *preṣito* ← *preṣitaḥ* ← *preṣ* ← *√iṣ*
 - \[verb noun\], nominative, singular
 - “order; send; impel; propel.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *abodhi* \< *budh*
+- *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
@@ -60,15 +60,15 @@ title = "Rig Veda 7.73.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *stomair* \< *stomaiḥ* \< *stoma*
+- *stomair* ← *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *jaramāṇo* \< *jaramāṇaḥ* \< *jṛ*
+- *jaramāṇo* ← *jaramāṇaḥ* ← *jṛ*
 - \[verb noun\], nominative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *vasiṣṭhaḥ* \< *vasiṣṭha*
+- *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------

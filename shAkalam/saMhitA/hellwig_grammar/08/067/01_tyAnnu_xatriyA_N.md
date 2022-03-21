@@ -2,7 +2,7 @@
 title = "Rig Veda 8.67.1"
 
 +++
--   *tyān* \< *tya*
+-   *tyān* ← *tya*
 - \[noun\], accusative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 8.67.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kṣatriyāṃ* \< *kṣatriya*
+- *kṣatriyāṃ* ← *kṣatriya*
 - \[noun\], accusative, plural, masculine
 - “Kshatriya.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 8.67.1"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *ādityān* \< *āditya*
+- *ādityān* ← *āditya*
 - \[noun\], accusative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *yāciṣāmahe* \< *yāc*
+- *yāciṣāmahe* ← *yāc*
 - \[verb\], plural, Aorist conj./subj.
 - “beg; ask; offer; ask.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkāṃ* \< *su*
+- *sumṛﾱīkāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkāṃ* \< *mṛﾱīkāṃ* \< *mṛḍīka*
+- *sumṛﾱīkāṃ* ← *mṛﾱīkāṃ* ← *mṛḍīka*
 - \[noun\], accusative, plural, masculine
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------

@@ -6,67 +6,67 @@ title = "Rig Veda 4.21.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *varāṃsi* \< *varas*
+- *varāṃsi* ← *varas*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *parvatasya* \< *parvata*
+- *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *vṛṇve* \< *vṛ*
+- *vṛṇve* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *payobhir* \< *payobhiḥ* \< *payas*
+- *payobhir* ← *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *jinve* \< *jinv*
+- *jinve* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *javāṃsi* \< *javas*
+- *javāṃsi* ← *javas*
 - \[noun\], nominative, plural, neuter
 - “speed.”
 ------------------------------------------------------------------------
-- *vidad* \< *vidat* \< *vid*
+- *vidad* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *gaurasya* \< *gaura*
+- *gaurasya* ← *gaura*
 - \[noun\], genitive, singular, masculine
 - “white; light; gaura \[word\]; yellow.”
 ------------------------------------------------------------------------
-- *gavayasya* \< *gavaya*
+- *gavayasya* ← *gavaya*
 - \[noun\], genitive, singular, masculine
 - “Gavaya; gayal.”
 ------------------------------------------------------------------------
-- *gohe* \< *goha*
+- *gohe* ← *goha*
 - \[noun\], locative, singular, masculine
 - “hole.”
 ------------------------------------------------------------------------
-- *yadī* \< *yadi*
+- *yadī* ← *yadi*
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *sudhyo* \< *sudhyaḥ* \< *sudhī*
+- *sudhyo* ← *sudhyaḥ* ← *sudhī*
 - \[noun\], nominative, plural, masculine
 - “expert; wise; intelligent.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

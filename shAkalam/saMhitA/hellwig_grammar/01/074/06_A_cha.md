@@ -10,12 +10,12 @@ title = "Rig Veda 1.74.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vahāsi* \< *vah*
+- *vahāsi* ← *vah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -25,7 +25,7 @@ title = "Rig Veda 1.74.6"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -34,23 +34,23 @@ title = "Rig Veda 1.74.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *praśastaye* \< *praśasti*
+- *praśastaye* ← *praśasti*
 - \[noun\], dative, singular, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *suścandra* \< *su*
+- *suścandra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suścandra* \< *ścandra*
+- *suścandra* ← *ścandra*
 - \[noun\], vocative, singular, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *vītaye* \< *vī*
+- *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------

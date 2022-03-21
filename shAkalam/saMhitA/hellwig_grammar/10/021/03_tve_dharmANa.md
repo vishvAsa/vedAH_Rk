@@ -2,22 +2,22 @@
 title = "Rig Veda 10.21.3"
 
 +++
--   *tve* \< *tvad*
+-   *tve* ← *tvad*
 - \[noun\], locative, singular, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *dharmāṇa* \< *dharmāṇaḥ* \< *dharman*
+- *dharmāṇa* ← *dharmāṇaḥ* ← *dharman*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], plural, Present indikative
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *juhūbhiḥ* \< *juhū*
+- *juhūbhiḥ* ← *juhū*
 - \[noun\], instrumental, plural, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *siñcatīr* \< *siñcatīḥ* \< *sic*
+- *siñcatīr* ← *siñcatīḥ* \< *sic*
 - \[verb noun\], nominative, plural
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

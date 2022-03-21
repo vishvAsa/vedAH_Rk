@@ -2,7 +2,7 @@
 title = "Rig Veda 9.5.1"
 
 +++
--   *samiddho* \< *samiddhaḥ* \< *samindh* \< *√indh*
+-   *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -10,12 +10,12 @@ title = "Rig Veda 9.5.1"
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *patiḥ* \< *pati*
+- *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 9.5.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rājati* \< *rāj*
+- *rājati* ← *rāj*
 - \[verb\], singular, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *prīṇan* \< *prī*
+- *prīṇan* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------

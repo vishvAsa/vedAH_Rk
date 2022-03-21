@@ -6,54 +6,54 @@ title = "Rig Veda 6.75.17"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *bāṇāḥ* \< *bāṇa*
+- *bāṇāḥ* ← *bāṇa*
 - \[noun\], nominative, plural, masculine
 - “arrow; five; Bāṇa; Bāṇa; munj; Bāṇa.”
 ------------------------------------------------------------------------
-- *saṃpatanti* \< *sampat* \< *√pat*
+- *saṃpatanti* ← *sampat* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly; rush.”
 ------------------------------------------------------------------------
-- *kumārā* \< *kumārāḥ* \< *kumāra*
+- *kumārā* ← *kumārāḥ* ← *kumāra*
 - \[noun\], nominative, plural, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *viśikhā* \< *viśikhāḥ* \< *viśikha*
+- *viśikhā* ← *viśikhāḥ* ← *viśikha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tatrā* \< *tatra*
+- *tatrā* ← *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *brahmaṇas* \< *brahmaṇaḥ* \< *brahman*
+- *brahmaṇas* ← *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchatu* \< *yam*
+- *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -61,11 +61,11 @@ title = "Rig Veda 6.75.17"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yacchatu* \< *yam*
+- *yacchatu* ← *yam*
 - \[verb\], singular, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

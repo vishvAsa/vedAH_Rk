@@ -2,45 +2,45 @@
 title = "Rig Veda 9.62.30"
 
 +++
--   *pavamāna* \< *pavamānaḥ* \< *pū*
+-   *pavamāna* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ṛtaḥ* \< *ṛta*
+- *ṛtaḥ* ← *ṛta*
 - \[noun\], nominative, singular, masculine
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pavitram* \< *pavitra*
+- *pavitram* ← *pavitra*
 - \[noun\], accusative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *āsadat* \< *āsad* \< *√sad*
+- *āsadat* ← *āsad* ← *√sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “approach; attack; sit down; approach; find; arrive.”
 ------------------------------------------------------------------------
-- *dadhat* \< *dhā*
+- *dadhat* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *stotre* \< *stotṛ*
+- *stotre* ← *stotṛ*
 - \[noun\], dative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *su*
+- *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *vīryam* \< *vīrya*
+- *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

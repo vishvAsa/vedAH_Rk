@@ -6,50 +6,50 @@ title = "Rig Veda 10.55.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *apṛṇād* \< *apṛṇāt* \< *pṛ*
+- *apṛṇād* ← *apṛṇāt* ← *pṛ*
 - \[verb\], singular, Imperfect
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *ota* \< *ā*
+- *ota* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ota* \< *uta*
+- *ota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *madhyam* \< *madhya*
+- *madhyam* ← *madhya*
 - \[noun\], accusative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, masculine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ṛtuśaḥ* \< *ṛtuśas*
+- *ṛtuśaḥ* ← *ṛtuśas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *catustriṃśatā* \< *catustriṃśat*
+- *catustriṃśatā* ← *catustriṃśat*
 - \[noun\], instrumental, singular, feminine
 - “thirty-four.”
 ------------------------------------------------------------------------
@@ -61,27 +61,27 @@ title = "Rig Veda 10.55.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *sarūpeṇa* \< *sa*
+- *sarūpeṇa* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarūpeṇa* \< *rūpeṇa* \< *rūpa*
+- *sarūpeṇa* ← *rūpeṇa* ← *rūpa*
 - \[noun\], instrumental, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *vivratena* \< *vivrata*
+- *vivratena* ← *vivrata*
 - \[noun\], instrumental, singular, neuter
 - “refractory; loath.”
 ------------------------------------------------------------------------

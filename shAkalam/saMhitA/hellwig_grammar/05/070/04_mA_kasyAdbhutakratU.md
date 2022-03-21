@@ -6,28 +6,28 @@ title = "Rig Veda 5.70.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *kasyādbhutakratū* \< *kasya* \< *ka*
+- *kasyādbhutakratū* ← *kasya* ← *ka*
 - \[noun\], genitive, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *kasyādbhutakratū* \< *adbhuta*
+- *kasyādbhutakratū* ← *adbhuta*
 - \[noun\]
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
-- *kasyādbhutakratū* \< *kratū* \< *kratu*
+- *kasyādbhutakratū* ← *kratū* ← *kratu*
 - \[noun\], vocative, dual, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *yakṣam* \< *yakṣa*
+- *yakṣam* ← *yakṣa*
 - \[noun\], accusative, singular, neuter
 - “apparition; monster; apparition.”
 ------------------------------------------------------------------------
-- *bhujemā* \< *bhujema* \< *bhuj*
+- *bhujemā* ← *bhujema* ← *bhuj*
 - \[verb\], plural, Aorist optative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *tanūbhiḥ* \< *tanū*
+- *tanūbhiḥ* ← *tanū*
 - \[noun\], instrumental, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 5.70.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śeṣasā* \< *śeṣas*
+- *śeṣasā* ← *śeṣas*
 - \[noun\], instrumental, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
@@ -43,6 +43,6 @@ title = "Rig Veda 5.70.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tanasā* \< *tanas*
+- *tanasā* ← *tanas*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------

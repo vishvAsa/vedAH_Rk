@@ -2,7 +2,7 @@
 title = "Rig Veda 4.31.1"
 
 +++
--   *kayā* \< *ka*
+-   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------

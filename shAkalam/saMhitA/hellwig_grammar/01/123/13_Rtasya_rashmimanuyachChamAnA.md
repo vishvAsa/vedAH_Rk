@@ -2,46 +2,46 @@
 title = "Rig Veda 1.123.13"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *raśmim* \< *raśmi*
+- *raśmim* ← *raśmi*
 - \[noun\], accusative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *anuyacchamānā* \< *anuyam* \< *√yam*
+- *anuyacchamānā* ← *anuyam* ← *√yam*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadraṃ* \< *bhadram* \< *bhadra*
+- *bhadraṃ* ← *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *asmāsu* \< *mad*
+- *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *uṣo* \< *uṣaḥ* \< *uṣas*
+- *uṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -49,31 +49,31 @@ title = "Rig Veda 1.123.13"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *suhavā* \< *su*
+- *suhavā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavā* \< *havā* \< *hava*
+- *suhavā* ← *havā* ← *hava*
 - \[noun\], nominative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ucchāsmāsu* \< *uccha* \< *vas*
+- *ucchāsmāsu* ← *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *ucchāsmāsu* \< *asmāsu* \< *mad*
+- *ucchāsmāsu* ← *asmāsu* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 1.123.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *syuḥ* \< *as*
+- *syuḥ* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

@@ -2,24 +2,24 @@
 title = "Rig Veda 8.17.10"
 
 +++
--   *dīrghas* \< *dīrghaḥ* \< *dīrgha*
+-   *dīrghas* ← *dīrghaḥ* ← *dīrgha*
 - \[noun\], nominative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *astv* \< *astu* \< *as*
+- *astv* ← *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *aṅkuśo* \< *aṅkuśaḥ* \< *aṅkuśa*
+- *aṅkuśo* ← *aṅkuśaḥ* ← *aṅkuśa*
 - \[noun\], nominative, singular, masculine
 - “elephant-drivers hook; hook.”
 ------------------------------------------------------------------------
-- *yenā* \< *yena* \< *yad*
+- *yenā* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -27,15 +27,15 @@ title = "Rig Veda 8.17.10"
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *prayacchasi* \< *prayam* \< *√yam*
+- *prayacchasi* ← *prayam* ← *√yam*
 - \[verb\], singular, Present indikative
 - “give; emit; send; transmit.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

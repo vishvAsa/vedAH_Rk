@@ -6,39 +6,39 @@ title = "Rig Veda 4.3.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rājānam* \< *rājan*
+- *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *adhvarasya* \< *adhvara*
+- *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *rudraṃ* \< *rudram* \< *rudra*
+- *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *satyayajaṃ* \< *satya*
+- *satyayajaṃ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyayajaṃ* \< *yajam* \< *yaj*
+- *satyayajaṃ* ← *yajam* ← *yaj*
 - \[noun\], accusative, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], genitive, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -48,29 +48,29 @@ title = "Rig Veda 4.3.1"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *tanayitnor* \< *tanayitnoḥ* \< *tanayitnu*
+- *tanayitnor* ← *tanayitnoḥ* ← *tanayitnu*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *acittāddhiraṇyarūpam* \< *acittāt* \< *acitta*
+- *acittāddhiraṇyarūpam* ← *acittāt* ← *acitta*
 - \[noun\], ablative, singular, masculine
 - “unexpected.”
 ------------------------------------------------------------------------
-- *acittāddhiraṇyarūpam* \< *hiraṇya*
+- *acittāddhiraṇyarūpam* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *acittāddhiraṇyarūpam* \< *rūpam* \< *rūpa*
+- *acittāddhiraṇyarūpam* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

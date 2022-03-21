@@ -6,19 +6,19 @@ title = "Rig Veda 8.34.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manurhito* \< *manuḥ* \< *manus*
+- *manurhito* ← *manuḥ* ← *manus*
 - \[noun\], masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
-- *manurhito* \< *hitaḥ* \< *dhā*
+- *manurhito* ← *hitaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -26,37 +26,37 @@ title = "Rig Veda 8.34.8"
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vakṣad* \< *vakṣat* \< *vah*
+- *vakṣad* ← *vakṣat* ← *vah*
 - \[verb\], singular, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *īḍyaḥ* \< *īḍ*
+- *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *amuṣya* \< *adas*
+- *amuṣya* ← *adas*
 - \[noun\], genitive, singular, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *śāsato* \< *śāsataḥ* \< *śās*
+- *śāsato* ← *śāsataḥ* ← *śās*
 - \[verb noun\], nominative, plural
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *divaṃ* \< *divam* \< *div*
+- *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yaya* \< *yā*
+- *yaya* ← *yā*
 - \[verb\], plural, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *divāvaso* \< *divāvasu*
+- *divāvaso* ← *divāvasu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

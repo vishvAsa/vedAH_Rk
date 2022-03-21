@@ -2,54 +2,54 @@
 title = "Rig Veda 1.176.5"
 
 +++
--   *āvo* \< *āvaḥ* \< *av*
+-   *āvo* ← *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dvibarhaso* \< *dvibarhasaḥ* \< *dvibarhas*
+- *dvibarhaso* ← *dvibarhasaḥ* ← *dvibarhas*
 - \[noun\], genitive, singular, masculine
 - “double.”
 ------------------------------------------------------------------------
-- *'rkeṣu* \< *arkeṣu* \< *arka*
+- *'rkeṣu* ← *arkeṣu* ← *arka*
 - \[noun\], locative, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *sānuṣag* \< *sānuṣak*
+- *sānuṣag* ← *sānuṣak*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asat* \< *as*
+- *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ājāv* \< *ājau* \< *āji*
+- *ājāv* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *indrasyendo* \< *indrasya* \< *indra*
+- *indrasyendo* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrasyendo* \< *indo* \< *indu*
+- *indrasyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *prāvo* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------

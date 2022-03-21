@@ -2,52 +2,52 @@
 title = "Rig Veda 5.50.1"
 
 +++
--   *viśvo* \< *viśvaḥ* \< *viśva*
+-   *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “divine.”
 ------------------------------------------------------------------------
-- *netur* \< *netuḥ* \< *netṛ*
+- *netur* ← *netuḥ* ← *netṛ*
 - \[noun\], genitive, singular, masculine
 - “leader; Vitex negundo.”
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *vurīta* \< *vṛ*
+- *vurīta* ← *vṛ*
 - \[verb\], singular, Aorist optative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *viśvo* \< *viśvaḥ* \< *viśva*
+- *viśvo* ← *viśvaḥ* ← *viśva*
 - \[noun\], nominative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *iṣudhyati* \< *iṣudhy*
+- *iṣudhyati* ← *iṣudhy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *dyumnaṃ* \< *dyumnam* \< *dyumna*
+- *dyumnaṃ* ← *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *vṛṇīta* \< *vṛ*
+- *vṛṇīta* ← *vṛ*
 - \[verb\], singular, Present optative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *puṣyase* \< *puṣ*
+- *puṣyase* ← *puṣ*
 - \[verb noun\]
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------

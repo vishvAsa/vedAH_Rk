@@ -2,7 +2,7 @@
 title = "Rig Veda 1.53.3"
 
 +++
--   *śacīva* \< *śacīvas* \< *śacīvat*
+-   *śacīva* ← *śacīvas* ← *śacīvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
@@ -11,11 +11,11 @@ title = "Rig Veda 1.53.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *purukṛd* \< *puru*
+- *purukṛd* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purukṛd* \< *kṛt*
+- *purukṛd* ← *kṛt*
 - \[noun\], vocative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
@@ -23,11 +23,11 @@ title = "Rig Veda 1.53.3"
 - *dyumattama*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *taved* \< *tava* \< *tvad*
+- *taved* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *taved* \< *id*
+- *taved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 1.53.3"
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *abhitaś* \< *abhitas*
+- *abhitaś* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *cekite* \< *cekit* \< *√cit*
+- *cekite* ← *cekit* ← *√cit*
 - \[verb\], singular, Present indikative
 - “chew over.”
 ------------------------------------------------------------------------
@@ -47,17 +47,17 @@ title = "Rig Veda 1.53.3"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ataḥ* \< *atas*
+- *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *saṃgṛbhyābhibhūta* \< *saṃgṛbhya* \< *saṃgrah* \< *√grah*
+- *saṃgṛbhyābhibhūta* ← *saṃgṛbhya* ← *saṃgrah* ← *√grah*
 - \[verb noun\]
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
 ------------------------------------------------------------------------
-- *saṃgṛbhyābhibhūta* \< *abhibhūtaḥ* \< *abhibhū* \< *√bhū*
+- *saṃgṛbhyābhibhūta* ← *abhibhūtaḥ* ← *abhibhū* ← *√bhū*
 - \[verb noun\], nominative, singular
 - “overcome; overwhelm; contract; possess.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 1.53.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -74,19 +74,19 @@ title = "Rig Veda 1.53.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvāyato* \< *tvāyataḥ* \< *tvāyat*
+- *tvāyato* ← *tvāyataḥ* ← *tvāyat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *jarituḥ* \< *jaritṛ*
+- *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *kāmam* \< *kāma*
+- *kāmam* ← *kāma*
 - \[noun\], accusative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *ūnayīḥ* \< *ūnay*
+- *ūnayīḥ* ← *ūnay*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------

@@ -2,13 +2,13 @@
 title = "Rig Veda 1.144.3"
 
 +++
--   *yuyūṣataḥ* \< *yuyūṣ* \< *√yu*
+-   *yuyūṣataḥ* ← *yuyūṣ* ← *√yu*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
-- *savayasā* \< *savayas*
+- *savayasā* ← *savayas*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -18,38 +18,38 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vapuḥ* \< *vapus*
+- *vapuḥ* ← *vapus*
 - \[noun\], accusative, singular, neuter
 - “body; form; miracle; human body; beauty; look; spectacle; figure;
     embodiment.”
 ------------------------------------------------------------------------
-- *samānam* \< *samāna*
+- *samānam* ← *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *arthaṃ* \< *artham* \< *artha*
+- *arthaṃ* ← *artham* ← *artha*
 - \[noun\], accusative, singular, masculine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *vitaritratā* \< *vitartar* \< *√tṛ*
+- *vitaritratā* ← *vitartar* ← *√tṛ*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *mithaḥ* \< *mithas*
+- *mithaḥ* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
@@ -58,7 +58,7 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *havyaḥ* \< *hvā*
+- *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *voﾱhur* \< *voḍhuḥ* \< *voḍhṛ*
+- *voﾱhur* ← *voḍhuḥ* ← *voḍhṛ*
 - \[noun\], genitive, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *raśmīn* \< *raśmi*
+- *raśmīn* ← *raśmi*
 - \[noun\], accusative, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
@@ -90,11 +90,11 @@ title = "Rig Veda 1.144.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ayaṃsta* \< *yam*
+- *ayaṃsta* ← *yam*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *sārathiḥ* \< *sārathi*
+- *sārathiḥ* ← *sārathi*
 - \[noun\], nominative, singular, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------

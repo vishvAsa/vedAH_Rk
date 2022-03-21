@@ -6,49 +6,49 @@ title = "Rig Veda 9.106.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sutāsa* \< *sutāsaḥ* \< *su*
+- *sutāsa* ← *sutāsaḥ* ← *su*
 - \[verb noun\], vocative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], vocative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *punānā* \< *punānāḥ* \< *pū*
+- *punānā* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhāvatā* \< *dhāvata* \< *dhāv*
+- *dhāvatā* ← *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vṛṣṭidyāvo* \< *\_* \< *√\_*
+- *vṛṣṭidyāvo* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *rītyāpaḥ* \< *rīti*
+- *rītyāpaḥ* ← *rīti*
 - \[noun\], feminine
 - “brass; rītikā; method; bell metal; stream; expressive style;
     manner.”
 ------------------------------------------------------------------------
-- *rītyāpaḥ* \< *apaḥ* \< *ap*
+- *rītyāpaḥ* ← *apaḥ* ← *ap*
 - \[noun\], nominative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *svar*
+- *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *vidaḥ* \< *vid*
+- *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, masculine
 - “finding.”
 ------------------------------------------------------------------------

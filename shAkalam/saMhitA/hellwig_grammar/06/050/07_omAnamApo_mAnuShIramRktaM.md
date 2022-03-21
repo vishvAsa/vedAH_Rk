@@ -2,44 +2,44 @@
 title = "Rig Veda 6.50.7"
 
 +++
--   *omānam* \< *oman*
+-   *omānam* ← *oman*
 - \[noun\], accusative, singular, masculine
 - “relief; aid.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *mānuṣīr* \< *mānuṣīḥ* \< *mānuṣa*
+- *mānuṣīr* ← *mānuṣīḥ* ← *mānuṣa*
 - \[noun\], vocative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
-- *amṛktaṃ* \< *amṛktam* \< *amṛkta*
+- *amṛktaṃ* ← *amṛktam* ← *amṛkta*
 - \[noun\], accusative, singular, masculine
 - “new; undamaged; complete.”
 ------------------------------------------------------------------------
-- *dhāta* \< *dhā*
+- *dhāta* ← *dhā*
 - \[verb\], plural, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayāya* \< *tanaya*
+- *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *yoḥ* \< *yos*
+- *yoḥ* ← *yos*
 - \[noun\], accusative, singular, neuter
 - “fortune.”
 ------------------------------------------------------------------------
-- *yūyaṃ* \< *yūyam* \< *tvad*
+- *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -47,32 +47,32 @@ title = "Rig Veda 6.50.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣṭhā* \< *as*
+- *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhiṣajo* \< *bhiṣajaḥ* \< *bhiṣaj*
+- *bhiṣajo* ← *bhiṣajaḥ* ← *bhiṣaj*
 - \[noun\], nominative, plural, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------
-- *mātṛtamā* \< *mātṛtamāḥ* \< *mātṛtama*
+- *mātṛtamā* ← *mātṛtamāḥ* ← *mātṛtama*
 - \[noun\], nominative, plural, masculine
 - “motherly.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sthātur* \< *sthātuḥ* \< *sthātṛ*
+- *sthātur* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *jagato* \< *jagataḥ* \< *jagat*
+- *jagato* ← *jagataḥ* ← *jagat*
 - \[noun\], genitive, singular, masculine
 - “movable; Jagatī; moving.”
 ------------------------------------------------------------------------
-- *janitrīḥ* \< *janitrī*
+- *janitrīḥ* ← *janitrī*
 - \[noun\], nominative, plural, feminine
 - “mother.”
 ------------------------------------------------------------------------

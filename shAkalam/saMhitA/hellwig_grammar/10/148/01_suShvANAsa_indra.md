@@ -2,7 +2,7 @@
 title = "Rig Veda 10.148.1"
 
 +++
--   *suṣvāṇāsa* \< *suṣvāṇāsaḥ* \< *su*
+-   *suṣvāṇāsa* ← *suṣvāṇāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -11,15 +11,15 @@ title = "Rig Veda 10.148.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stumasi* \< *stu*
+- *stumasi* ← *stu*
 - \[verb\], plural, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sasavāṃsaś* \< *sasavāṃsaḥ* \< *san*
+- *sasavāṃsaś* ← *sasavāṃsaḥ* ← *san*
 - \[verb noun\], nominative, plural
 - “win; get; gain.”
 ------------------------------------------------------------------------
@@ -27,15 +27,15 @@ title = "Rig Veda 10.148.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *tuvi*
+- *tuvinṛmṇa* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *nṛmṇa*
+- *tuvinṛmṇa* ← *nṛmṇa*
 - \[noun\], vocative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -43,39 +43,39 @@ title = "Rig Veda 10.148.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *suvitaṃ* \< *suvitam* \< *suvita*
+- *suvitaṃ* ← *suvitam* ← *suvita*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cākan* \< *kan*
+- *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *sanuyāma* \< *san*
+- *sanuyāma* ← *san*
 - \[verb\], plural, Present optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *tvotāḥ* \< *tvota*
+- *tvotāḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 1.182.6"
 
 +++
--   *avaviddhaṃ* \< *avaviddham* \< *avavyadh* \< *√vyadh*
+-   *avaviddhaṃ* ← *avaviddham* ← *avavyadh* ← *√vyadh*
 - \[verb noun\], accusative, singular
 - “throw.”
 ------------------------------------------------------------------------
-- *taugryam* \< *taugrya*
+- *taugryam* ← *taugrya*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -18,30 +18,30 @@ title = "Rig Veda 1.182.6"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *anārambhaṇe* \< *anārambhaṇa*
+- *anārambhaṇe* ← *anārambhaṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *tamasi* \< *tamas*
+- *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *praviddham* \< *pravyadh* \< *√vyadh*
+- *praviddham* ← *pravyadh* ← *√vyadh*
 - \[verb noun\], accusative, singular
 - “throw; hurl; lunge.”
 ------------------------------------------------------------------------
-- *catasro* \< *catasraḥ* \< *catur*
+- *catasro* ← *catasraḥ* ← *catur*
 - \[noun\], nominative, plural, feminine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *nāvo* \< *nāvaḥ* \< *nau*
+- *nāvo* ← *nāvaḥ* ← *nau*
 - \[noun\], nominative, plural, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *jaṭhalasya* \< *jaṭhala*
+- *jaṭhalasya* ← *jaṭhala*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *juṣṭā* \< *juṣṭāḥ* \< *juṣ*
+- *juṣṭā* ← *juṣṭāḥ* ← *juṣ*
 - \[verb noun\], nominative, plural
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -50,15 +50,15 @@ title = "Rig Veda 1.182.6"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *aśvibhyām* \< *aśvin*
+- *aśvibhyām* ← *aśvin*
 - \[noun\], instrumental, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *iṣitāḥ* \< *iṣ*
+- *iṣitāḥ* ← *iṣ*
 - \[verb noun\], nominative, plural
 - “send.”
 ------------------------------------------------------------------------
-- *pārayanti* \< *pāray* \< *√pṛ*
+- *pārayanti* ← *pāray* ← *√pṛ*
 - \[verb\], plural, Present indikative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------

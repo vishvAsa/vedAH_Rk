@@ -2,24 +2,24 @@
 title = "Rig Veda 1.105.3"
 
 +++
--   *mo* \< *mā*
+-   *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *adaḥ* \< *adas*
+- *adaḥ* ← *adas*
 - \[noun\], nominative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 1.105.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *pādi* \< *pad*
+- *pādi* ← *pad*
 - \[verb\], singular, Aorist passive
 - “fall.”
 ------------------------------------------------------------------------
-- *divas* \< *div*
+- *divas* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -47,19 +47,19 @@ title = "Rig Veda 1.105.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *somyasya* \< *somya*
+- *somyasya* ← *somya*
 - \[noun\], genitive, singular, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *śambhuvaḥ* \< *śambhu*
+- *śambhuvaḥ* ← *śambhu*
 - \[noun\], genitive, singular, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
-- *śūne* \< *śūna*
+- *śūne* ← *śūna*
 - \[noun\], locative, singular, neuter
 - “lack; absence.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhū*
+- *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -70,20 +70,20 @@ title = "Rig Veda 1.105.3"
 - \[adverb\]
 - “ever; sometimes.”
 ------------------------------------------------------------------------
-- *vittam* \< *vid*
+- *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

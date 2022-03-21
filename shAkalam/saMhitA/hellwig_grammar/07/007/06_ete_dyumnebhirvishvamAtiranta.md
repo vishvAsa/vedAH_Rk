@@ -2,40 +2,40 @@
 title = "Rig Veda 7.7.6"
 
 +++
--   *ete* \< *etad*
+-   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *dyumnebhir* \< *dyumnebhiḥ* \< *dyumna*
+- *dyumnebhir* ← *dyumnebhiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ātiranta* \< *ātṛ* \< *√tṛ*
+- *ātiranta* ← *ātṛ* ← *√tṛ*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *mantraṃ* \< *mantram* \< *mantra*
+- *mantraṃ* ← *mantram* ← *mantra*
 - \[noun\], accusative, singular, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāraṃ* \< *vāram* \< *vāra*
+- *vāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *naryā* \< *naryāḥ* \< *narya*
+- *naryā* ← *naryāḥ* ← *narya*
 - \[noun\], nominative, plural, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *atakṣan* \< *takṣ*
+- *atakṣan* ← *takṣ*
 - \[verb\], plural, Imperfect
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
@@ -43,42 +43,42 @@ title = "Rig Veda 7.7.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśas* \< *viśaḥ* \< *viś*
+- *viśas* ← *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *tiranta* \< *tṛ*
+- *tiranta* ← *tṛ*
 - \[verb\], plural, Present injunctive
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *śroṣamāṇā* \< *śroṣamāṇāḥ* \< *śruṣ*
+- *śroṣamāṇā* ← *śroṣamāṇāḥ* ← *śruṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dīdhayann* \< *dīdhayan* \< *dhī*
+- *dīdhayann* ← *dīdhayan* ← *dhī*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------

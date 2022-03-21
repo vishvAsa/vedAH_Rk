@@ -2,19 +2,19 @@
 title = "Rig Veda 7.36.5"
 
 +++
--   *yajante* \< *yaj*
+-   *yajante* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vayaś* \< *vayaḥ* \< *vayas*
+- *vayaś* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
@@ -23,16 +23,16 @@ title = "Rig Veda 7.36.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *namasvinaḥ* \< *namasvin*
+- *namasvinaḥ* ← *namasvin*
 - \[noun\], nominative, plural, masculine
 - “worshiping; reverent.”
 ------------------------------------------------------------------------
-- *sva* \< *sve* \< *sva*
+- *sva* ← *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -45,34 +45,34 @@ title = "Rig Veda 7.36.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *bābadhe* \< *badbadh* \< *√bādh*
+- *bābadhe* ← *badbadh* ← *√bādh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *nṛbhi* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhi* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *stavāna* \< *stavānaḥ* \< *stu*
+- *stavāna* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], nominative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *preṣṭham* \< *preṣṭha*
+- *preṣṭham* ← *preṣṭha*
 - \[noun\], nominative, singular, neuter
 - “dearest.”
 ------------------------------------------------------------------------

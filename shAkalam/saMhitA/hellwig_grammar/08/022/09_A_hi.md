@@ -10,32 +10,32 @@ title = "Rig Veda 8.22.9"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ruhatam* \< *ruh*
+- *ruhatam* ← *ruh*
 - \[verb\], dual, Aorist imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *kośe* \< *kośa*
+- *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *hiraṇyaye* \< *hiraṇyaya*
+- *hiraṇyaye* ← *hiraṇyaya*
 - \[noun\], locative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *vṛṣaṇvasū* \< *vṛṣaṇvasu*
+- *vṛṣaṇvasū* ← *vṛṣaṇvasu*
 - \[noun\], vocative, dual, masculine
 - “affluent.”
 ------------------------------------------------------------------------
-- *yuñjāthām* \< *yuj*
+- *yuñjāthām* ← *yuj*
 - \[verb\], dual, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -43,11 +43,11 @@ title = "Rig Veda 8.22.9"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *pīvarīr* \< *pīvarīḥ* \< *pīvara*
+- *pīvarīr* ← *pīvarīḥ* ← *pīvara*
 - \[noun\], accusative, plural, feminine
 - “fat; rich; fleshy.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

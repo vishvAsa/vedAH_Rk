@@ -2,48 +2,48 @@
 title = "Rig Veda 10.174.5"
 
 +++
--   *asapatnaḥ* \< *asapatna*
+-   *asapatnaḥ* ← *asapatna*
 - \[noun\], nominative, singular, masculine
 - “unrivaled.”
 ------------------------------------------------------------------------
-- *sapatnahābhirāṣṭro* \< *sapatna*
+- *sapatnahābhirāṣṭro* ← *sapatna*
 - \[noun\], masculine
 - “rival; enemy; foe.”
 ------------------------------------------------------------------------
-- *sapatnahābhirāṣṭro* \< *hā* \< *han*
+- *sapatnahābhirāṣṭro* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *sapatnahābhirāṣṭro* \< *abhirāṣṭraḥ* \< *abhirāṣṭra*
+- *sapatnahābhirāṣṭro* ← *abhirāṣṭraḥ* ← *abhirāṣṭra*
 - \[noun\], nominative, singular, masculine
 - “royal.”
 ------------------------------------------------------------------------
-- *viṣāsahiḥ* \< *viṣāsahi*
+- *viṣāsahiḥ* ← *viṣāsahi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *yathāham* \< *yathā*
+- *yathāham* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāham* \< *aham* \< *mad*
+- *yathāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhūtānāṃ* \< *bhūtānām* \< *bhūta*
+- *bhūtānāṃ* ← *bhūtānām* ← *bhūta*
 - \[noun\], genitive, plural, neuter
 - “being; ghost; mahābhūta; monster; past; Bhūta; world; bhūta
     \[word\]; being; mythical monster; animal; entity.”
 ------------------------------------------------------------------------
-- *virājāni* \< *virāj* \< *√rāj*
+- *virājāni* ← *virāj* ← *√rāj*
 - \[verb\], singular, Present imperative
 - “shine; excel; govern; dominate; glitter; light.”
 ------------------------------------------------------------------------
-- *janasya* \< *jana*
+- *janasya* ← *jana*
 - \[noun\], genitive, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

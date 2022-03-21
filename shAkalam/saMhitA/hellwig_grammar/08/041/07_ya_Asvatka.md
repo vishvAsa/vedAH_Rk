@@ -2,32 +2,32 @@
 title = "Rig Veda 8.41.7"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āsv* \< *āsu* \< *idam*
+- *āsv* ← *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *atka* \< *atkaḥ* \< *atka*
+- *atka* ← *atkaḥ* ← *atka*
 - \[noun\], nominative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
-- *āśaye* \< *āśī* \< *√śī*
+- *āśaye* ← *āśī* ← *√śī*
 - \[verb\], singular, Present indikative
 - “lie; stay.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *jātāny* \< *jātāni* \< *jāta*
+- *jātāny* ← *jātāni* ← *jāta*
 - \[noun\], accusative, plural, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -35,33 +35,33 @@ title = "Rig Veda 8.41.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dhāmāni* \< *dhāman*
+- *dhāmāni* ← *dhāman*
 - \[noun\], accusative, plural, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *marmṛśad* \< *marmṛśat* \< *marmṛś* \< *√mṛś*
+- *marmṛśad* ← *marmṛśat* ← *marmṛś* ← *√mṛś*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *gaye* \< *gaya*
+- *gaye* ← *gaya*
 - \[noun\], locative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -70,20 +70,20 @@ title = "Rig Veda 8.41.7"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vrataṃ* \< *vratam* \< *vrata*
+- *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

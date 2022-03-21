@@ -2,15 +2,15 @@
 title = "Rig Veda 4.36.8"
 
 +++
--   *yūyam* \< *tvad*
+-   *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhiṣaṇābhyas* \< *dhiṣaṇābhyaḥ* \< *dhiṣaṇā*
+- *dhiṣaṇābhyas* ← *dhiṣaṇābhyaḥ* ← *dhiṣaṇā*
 - \[noun\], ablative, plural, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
@@ -18,42 +18,42 @@ title = "Rig Veda 4.36.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vidvāṃso* \< *vidvāṃsaḥ* \< *vid*
+- *vidvāṃso* ← *vidvāṃsaḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *naryāṇi* \< *narya*
+- *naryāṇi* ← *narya*
 - \[noun\], accusative, plural, neuter
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *bhojanā* \< *bhojana*
+- *bhojanā* ← *bhojana*
 - \[noun\], accusative, plural, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vṛṣaśuṣmam* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣaśuṣmam* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *vṛṣaśuṣmam* \< *śuṣmam* \< *śuṣma*
+- *vṛṣaśuṣmam* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *uttamam* \< *uttama*
+- *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
@@ -63,23 +63,23 @@ title = "Rig Veda 4.36.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *ṛbhavas* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavas* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *takṣatā* \< *takṣata* \< *takṣ*
+- *takṣatā* ← *takṣata* ← *takṣ*
 - \[verb\], plural, Present imperative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *vayaḥ* \< *vayas*
+- *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”

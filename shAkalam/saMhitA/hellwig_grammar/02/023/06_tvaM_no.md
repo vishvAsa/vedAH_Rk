@@ -2,52 +2,52 @@
 title = "Rig Veda 2.23.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gopāḥ* \< *gopā*
+- *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *pathikṛd* \< *pathikṛt*
+- *pathikṛd* ← *pathikṛt*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vicakṣaṇas* \< *vicakṣaṇaḥ* \< *vicakṣaṇa*
+- *vicakṣaṇas* ← *vicakṣaṇaḥ* ← *vicakṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vratāya* \< *vrata*
+- *vratāya* ← *vrata*
 - \[noun\], dative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *matibhir* \< *matibhiḥ* \< *mati*
+- *matibhir* ← *matibhiḥ* ← *mati*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *jarāmahe* \< *jṛ*
+- *jarāmahe* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -55,33 +55,33 @@ title = "Rig Veda 2.23.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *hvaro* \< *hvaraḥ* \< *hvaras*
+- *hvaro* ← *hvaraḥ* ← *hvaras*
 - \[noun\], accusative, singular, neuter
 - “intrigue.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *svā* \< *sva*
+- *svā* ← *sva*
 - \[noun\], nominative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *marmartu* \< *mamar* \< *√mṛ*
+- *marmartu* ← *mamar* ← *√mṛ*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
 - *ducchunā*
 - \[noun\], nominative, singular, feminine
 - “calamity; misfortune.”
 ------------------------------------------------------------------------
-- *harasvatī* \< *harasvat*
+- *harasvatī* ← *harasvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

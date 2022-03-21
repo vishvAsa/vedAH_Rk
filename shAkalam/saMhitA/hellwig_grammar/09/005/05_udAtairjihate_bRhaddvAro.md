@@ -6,35 +6,35 @@ title = "Rig Veda 9.5.5"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ātair* \< *\_* \< *√\_*
+- *ātair* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *jihate* \< *hā*
+- *jihate* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *dvāro* \< *dvāraḥ* \< *dvār*
+- *dvāro* ← *dvāraḥ* ← *dvār*
 - \[noun\], nominative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *deva*
+- *devīr* ← *devīḥ* ← *deva*
 - \[noun\], nominative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *hiraṇyayīḥ* \< *hiraṇyaya*
+- *hiraṇyayīḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *pavamānena* \< *pū*
+- *pavamānena* ← *pū*
 - \[verb noun\], instrumental, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *suṣṭutāḥ* \< *suṣṭuta*
+- *suṣṭutāḥ* ← *suṣṭuta*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

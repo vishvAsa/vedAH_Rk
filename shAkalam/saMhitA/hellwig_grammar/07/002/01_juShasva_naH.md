@@ -2,16 +2,16 @@
 title = "Rig Veda 7.2.1"
 
 +++
--   *juṣasva* \< *juṣ*
+-   *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samidham* \< *samidh*
+- *samidham* ← *samidh*
 - \[noun\], accusative, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------

@@ -2,63 +2,63 @@
 title = "Rig Veda 1.131.6"
 
 +++
--   *uto* \< *uta*
+-   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *juṣeta* \< *juṣ*
+- *juṣeta* ← *juṣ*
 - \[verb\], singular, Present optative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *arkasya* \< *arka*
+- *arkasya* ← *arka*
 - \[noun\], genitive, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *bodhi* \< *bhū*
+- *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *haviṣo* \< *haviṣaḥ* \< *havis*
+- *haviṣo* ← *haviṣaḥ* ← *havis*
 - \[noun\], genitive, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *havīmabhiḥ* \< *havīman*
+- *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, masculine
 - “call; invocation.”
 ------------------------------------------------------------------------
-- *svarṣātā* \< *svarṣāti*
+- *svarṣātā* ← *svarṣāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *havīmabhiḥ* \< *havīman*
+- *havīmabhiḥ* ← *havīman*
 - \[noun\], instrumental, plural, masculine
 - “call; invocation.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -67,25 +67,25 @@ title = "Rig Veda 1.131.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hantave* \< *han*
+- *hantave* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *mṛdho* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vajriñciketasi* \< *vajrin*
+- *vajriñciketasi* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *vajriñciketasi* \< *ciketasi* \< *cit*
+- *vajriñciketasi* ← *ciketasi* ← *cit*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -93,31 +93,31 @@ title = "Rig Veda 1.131.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vedhaso* \< *vedhasaḥ* \< *vedhas*
+- *vedhaso* ← *vedhasaḥ* ← *vedhas*
 - \[noun\], genitive, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *navīyaso* \< *navīyasaḥ* \< *navīyas*
+- *navīyaso* ← *navīyasaḥ* ← *navīyas*
 - \[noun\], genitive, singular, masculine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *śrudhi* \< *śru*
+- *śrudhi* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *navīyasaḥ* \< *navīyas*
+- *navīyasaḥ* ← *navīyas*
 - \[noun\], genitive, singular, masculine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------

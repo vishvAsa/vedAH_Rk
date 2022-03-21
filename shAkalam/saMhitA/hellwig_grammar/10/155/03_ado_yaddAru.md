@@ -2,11 +2,11 @@
 title = "Rig Veda 10.155.3"
 
 +++
--   *ado* \< *adaḥ* \< *adas*
+-   *ado* ← *adaḥ* ← *adas*
 - \[noun\], nominative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 10.155.3"
 - \[noun\], nominative, singular, neuter
 - “wood; log; lumber.”
 ------------------------------------------------------------------------
-- *plavate* \< *plu*
+- *plavate* ← *plu*
 - \[verb\], singular, Present indikative
 - “soak; jump; drench; float; blow; liquefy; swim; fly; sprinkle;
     flood; bathe.”
 ------------------------------------------------------------------------
-- *sindhoḥ* \< *sindhu*
+- *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *pāre* \< *pāra*
+- *pāre* ← *pāra*
 - \[noun\], locative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *apūruṣam* \< *apūruṣa*
+- *apūruṣam* ← *apūruṣa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -40,26 +40,26 @@ title = "Rig Veda 10.155.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rabhasva* \< *rabh*
+- *rabhasva* ← *rabh*
 - \[verb\], singular, Present imperative
 - “clasp.”
 ------------------------------------------------------------------------
-- *durhaṇo* \< *durhaṇu*
+- *durhaṇo* ← *durhaṇu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *gaccha* \< *gam*
+- *gaccha* ← *gam*
 - \[verb\], singular, Present imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *parastaram* \< *parastara*
+- *parastaram* ← *parastara*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------

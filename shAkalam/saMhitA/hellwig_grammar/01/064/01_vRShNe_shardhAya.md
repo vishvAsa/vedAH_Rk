@@ -2,30 +2,30 @@
 title = "Rig Veda 1.64.1"
 
 +++
--   *vṛṣṇe* \< *vṛṣan*
+-   *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *śardhāya* \< *śardha*
+- *śardhāya* ← *śardha*
 - \[noun\], dative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *su*
+- *sumakhāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumakhāya* \< *makhāya* \< *makha*
+- *sumakhāya* ← *makhāya* ← *makha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vedhase* \< *vedhas*
+- *vedhase* ← *vedhas*
 - \[noun\], dative, singular, masculine
 - “devout.”
 ------------------------------------------------------------------------
-- *nodhaḥ* \< *nodhas*
+- *nodhaḥ* ← *nodhas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
@@ -33,16 +33,16 @@ title = "Rig Veda 1.64.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *marudbhyaḥ* \< *marut*
+- *marudbhyaḥ* ← *marut*
 - \[noun\], dative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *apas*
+- *apo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
@@ -50,19 +50,19 @@ title = "Rig Veda 1.64.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhīro* \< *dhīraḥ* \< *dhīra*
+- *dhīro* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *suhastyo* \< *suhastyaḥ* \< *suhastya*
+- *suhastyo* ← *suhastyaḥ* ← *suhastya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -71,15 +71,15 @@ title = "Rig Veda 1.64.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *añje* \< *añj*
+- *añje* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *vidatheṣv* \< *vidatheṣu* \< *vidatha*
+- *vidatheṣv* ← *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *ābhuvaḥ* \< *ābhū*
+- *ābhuvaḥ* ← *ābhū*
 - \[noun\], accusative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------

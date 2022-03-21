@@ -2,20 +2,20 @@
 title = "Rig Veda 10.177.3"
 
 +++
--   *apaśyaṃ* \< *apaśyam* \< *paś*
+-   *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *gopām* \< *gopā*
+- *gopām* ← *gopā*
 - \[noun\], accusative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *anipadyamānam* \< *a*
+- *anipadyamānam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *anipadyamānam* \< *nipadyamānam* \< *nipad* \< *√pad*
+- *anipadyamānam* ← *nipadyamānam* ← *nipad* ← *√pad*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
 - *ā*
@@ -34,36 +34,36 @@ title = "Rig Veda 10.177.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pathibhiś* \< *pathibhiḥ* \< *pathin*
+- *pathibhiś* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *carantam* \< *car*
+- *carantam* ← *car*
 - \[verb noun\], accusative, singular
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sadhrīcīḥ* \< *sadhryañc*
+- *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viṣūcīr* \< *viṣūcīḥ* \< *viṣvañc*
+- *viṣūcīr* ← *viṣūcīḥ* ← *viṣvañc*
 - \[noun\], accusative, plural, feminine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *vasāna* \< *vasānaḥ* \< *vas*
+- *vasāna* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
@@ -71,14 +71,14 @@ title = "Rig Veda 10.177.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *varīvarti* \< *varvṛt* \< *√vṛt*
+- *varīvarti* ← *varvṛt* ← *√vṛt*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *bhuvaneṣv* \< *bhuvaneṣu* \< *bhuvana*
+- *bhuvaneṣv* ← *bhuvaneṣu* ← *bhuvana*
 - \[noun\], locative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------

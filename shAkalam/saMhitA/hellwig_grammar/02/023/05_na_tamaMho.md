@@ -6,13 +6,13 @@ title = "Rig Veda 2.23.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], nominative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
@@ -20,22 +20,22 @@ title = "Rig Veda 2.23.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *duritaṃ* \< *duritam* \< *durita*
+- *duritaṃ* ← *duritam* ← *durita*
 - \[noun\], nominative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
 - *kutaścana*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nārātayas* \< *na*
+- *nārātayas* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārātayas* \< *arātayaḥ* \< *arāti*
+- *nārātayas* ← *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, masculine
 - “enemy; niggard.”
 ------------------------------------------------------------------------
-- *titirur* \< *titiruḥ* \< *tṛ*
+- *titirur* ← *titiruḥ* ← *tṛ*
 - \[verb\], plural, Perfect indicative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 2.23.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dvayāvinaḥ* \< *dvayāvin*
+- *dvayāvinaḥ* ← *dvayāvin*
 - \[noun\], nominative, plural, masculine
 - “dishonest.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -56,38 +56,38 @@ title = "Rig Veda 2.23.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asmād* \< *asmāt* \< *idam*
+- *asmād* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhvaraso* \< *dhvarasaḥ* \< *dhvaras*
+- *dhvaraso* ← *dhvarasaḥ* ← *dhvaras*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bādhase* \< *bādh*
+- *bādhase* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sugopā* \< *su*
+- *sugopā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugopā* \< *gopāḥ* \< *gopā*
+- *sugopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *rakṣasi* \< *rakṣ*
+- *rakṣasi* ← *rakṣ*
 - \[verb\], singular, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *brahmaṇaspate* \< *brahmaṇaspati*
+- *brahmaṇaspate* ← *brahmaṇaspati*
 - \[noun\], vocative, singular, masculine
 - “Brahmaṇaspati.”
 ------------------------------------------------------------------------

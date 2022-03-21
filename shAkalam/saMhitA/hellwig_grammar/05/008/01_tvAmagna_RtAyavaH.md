@@ -2,36 +2,36 @@
 title = "Rig Veda 5.8.1"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ṛtāyavaḥ* \< *ṛtāyu*
+- *ṛtāyavaḥ* ← *ṛtāyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *īdhire* \< *indh*
+- *īdhire* ← *indh*
 - \[verb\], plural, Perfect indicative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *pratnam* \< *pratna*
+- *pratnam* ← *pratna*
 - \[noun\], accusative, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *pratnāsa* \< *pratnāsaḥ* \< *pratna*
+- *pratnāsa* ← *pratnāsaḥ* ← *pratna*
 - \[noun\], nominative, plural, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -39,36 +39,36 @@ title = "Rig Veda 5.8.1"
 - \[noun\], vocative, singular, masculine
 - “increased; aroused.”
 ------------------------------------------------------------------------
-- *puruścandraṃ* \< *puru*
+- *puruścandraṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruścandraṃ* \< *ścandram* \< *ścandra*
+- *puruścandraṃ* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *yajataṃ* \< *yajatam* \< *yajata*
+- *yajataṃ* ← *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *viśvadhāyasaṃ* \< *viśva*
+- *viśvadhāyasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadhāyasaṃ* \< *dhāyasam* \< *dhāyas*
+- *viśvadhāyasaṃ* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, masculine
 - “alimentary; sustaining.”
 ------------------------------------------------------------------------
-- *damūnasaṃ* \< *damūnasam* \< *damūnas*
+- *damūnasaṃ* ← *damūnasam* ← *damūnas*
 - \[noun\], accusative, singular, masculine
 - “master.”
 ------------------------------------------------------------------------
-- *gṛhapatiṃ* \< *gṛhapatim* \< *gṛhapati*
+- *gṛhapatiṃ* ← *gṛhapatim* ← *gṛhapati*
 - \[noun\], accusative, singular, masculine
 - “gṛhapati \[word\]; Gṛhastha.”
 ------------------------------------------------------------------------
-- *vareṇyam* \< *vareṇya*
+- *vareṇyam* ← *vareṇya*
 - \[noun\], accusative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------

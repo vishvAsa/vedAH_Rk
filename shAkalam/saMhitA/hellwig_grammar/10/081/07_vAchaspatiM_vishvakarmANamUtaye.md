@@ -2,79 +2,79 @@
 title = "Rig Veda 10.81.7"
 
 +++
--   *vācas* \< *vācaḥ* \< *vāc*
+-   *vācas* ← *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *patiṃ* \< *patim* \< *pati*
+- *patiṃ* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *viśvakarmāṇam* \< *viśvakarman*
+- *viśvakarmāṇam* ← *viśvakarman*
 - \[noun\], accusative, singular, masculine
 - “Viśvakarman; viśvakarman; Shiva; Maya; Vishnu.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *manojuvaṃ* \< *\_* \< *√\_*
+- *manojuvaṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vāje* \< *vāja*
+- *vāje* ← *vāja*
 - \[noun\], locative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *huvema* \< *hu*
+- *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *havanāni* \< *havana*
+- *havanāni* ← *havana*
 - \[noun\], accusative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *joṣad* \< *joṣat* \< *juṣ*
+- *joṣad* ← *joṣat* ← *juṣ*
 - \[verb\], singular, Aorist conj./subj.
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *viśvaśambhūr* \< *\_* \< *√\_*
+- *viśvaśambhūr* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *sādhukarmā* \< *sādhu*
+- *sādhukarmā* ← *sādhu*
 - \[noun\]
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *sādhukarmā* \< *karmā* \< *karman*
+- *sādhukarmā* ← *karmā* ← *karman*
 - \[noun\], nominative, singular, masculine
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;

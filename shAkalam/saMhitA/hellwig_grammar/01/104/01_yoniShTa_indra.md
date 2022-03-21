@@ -2,13 +2,13 @@
 title = "Rig Veda 1.104.1"
 
 +++
--   *yoniṣ* \< *yoniḥ* \< *yoni*
+-   *yoniṣ* ← *yoniḥ* ← *yoni*
 - \[noun\], nominative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *ṭa* \< *te* \< *tvad*
+- *ṭa* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -17,11 +17,11 @@ title = "Rig Veda 1.104.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *niṣade* \< *niṣad* \< *√sad*
+- *niṣade* ← *niṣad* ← *√sad*
 - \[verb noun\]
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *akāri* \< *kṛ*
+- *akāri* ← *kṛ*
 - \[verb\], singular, Aorist passive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,7 +32,7 @@ title = "Rig Veda 1.104.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -46,38 +46,38 @@ title = "Rig Veda 1.104.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīda* \< *sad*
+- *ṣīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *svāno* \< *svānaḥ* \< *sū*
+- *svāno* ← *svānaḥ* ← *sū*
 - \[verb noun\], nominative, singular
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *nārvā* \< *nā* \< *na*
+- *nārvā* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nārvā* \< *arvā* \< *arvan*
+- *nārvā* ← *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *vimucyā* \< *vimuc* \< *√muc*
+- *vimucyā* ← *vimuc* ← *√muc*
 - \[verb noun\]
 - “emit; get rid of; liberate; cure; release; heal; unyoke; take off;
     die; loosen; ejaculate; shoot; put; dislodge; spill; exclude.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vayas*
+- *vayo* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *'vasāyāśvān* \< *avasāya* \< *avasā* \< *√sā*
+- *'vasāyāśvān* ← *avasāya* ← *avasā* ← *√sā*
 - \[verb noun\]
 - “end.”
 ------------------------------------------------------------------------
-- *'vasāyāśvān* \< *aśvān* \< *aśva*
+- *'vasāyāśvān* ← *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -85,14 +85,14 @@ title = "Rig Veda 1.104.1"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], ablative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *vahīyasaḥ* \< *vahīyas*
+- *vahīyasaḥ* ← *vahīyas*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *prapitve* \< *prapitva*
+- *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------

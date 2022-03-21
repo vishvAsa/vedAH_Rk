@@ -2,11 +2,11 @@
 title = "Rig Veda 1.170.2"
 
 +++
--   *kiṃ* \< *kim*
+-   *kiṃ* ← *kim*
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,29 +15,29 @@ title = "Rig Veda 1.170.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *jighāṃsasi* \< *jighāṃs* \< *√han*
+- *jighāṃsasi* ← *jighāṃs* ← *√han*
 - \[verb\], singular, Present indikative
 - “kill.”
 ------------------------------------------------------------------------
-- *bhrātaro* \< *bhrātaraḥ* \< *bhrātṛ*
+- *bhrātaro* ← *bhrātaraḥ* ← *bhrātṛ*
 - \[noun\], nominative, plural, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *marutas* \< *marutaḥ* \< *marut*
+- *marutas* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tebhiḥ* \< *tad*
+- *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *kalpasva* \< *kﾱp*
+- *kalpasva* ← *kﾱp*
 - \[verb\], singular, Present imperative
 - “succeed; prepare; harmonize; arrange; cut; suit; befit;
     contribute.”
@@ -49,15 +49,15 @@ title = "Rig Veda 1.170.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samaraṇe* \< *samaraṇa*
+- *samaraṇe* ← *samaraṇa*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *vadhīḥ* \< *vadh*
+- *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------

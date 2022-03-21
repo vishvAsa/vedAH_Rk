@@ -7,24 +7,24 @@ title = "Rig Veda 3.40.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kratuvidaṃ* \< *kratu*
+- *kratuvidaṃ* ← *kratu*
 - \[noun\], masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *kratuvidaṃ* \< *vidam* \< *vid*
+- *kratuvidaṃ* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *harya* \< *hary*
+- *harya* ← *hary*
 - \[verb\], singular, Present imperative
 - “delight.”
 ------------------------------------------------------------------------
@@ -32,14 +32,14 @@ title = "Rig Veda 3.40.2"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *pibā* \< *pā*
+- *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣasva* \< *vṛṣ*
+- *vṛṣasva* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *tātṛpim* \< *tātṛpi*
+- *tātṛpim* ← *tātṛpi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

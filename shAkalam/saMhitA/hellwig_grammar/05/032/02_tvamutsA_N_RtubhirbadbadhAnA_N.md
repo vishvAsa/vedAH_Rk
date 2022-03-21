@@ -2,30 +2,30 @@
 title = "Rig Veda 5.32.2"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *utsāṃ* \< *utsa*
+- *utsāṃ* ← *utsa*
 - \[noun\], accusative, plural, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *ṛtubhir* \< *ṛtubhiḥ* \< *ṛtu*
+- *ṛtubhir* ← *ṛtubhiḥ* ← *ṛtu*
 - \[noun\], instrumental, plural, masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *badbadhānāṃ* \< *badbadh* \< *√bādh*
+- *badbadhānāṃ* ← *badbadh* ← *√bādh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *araṃha* \< *araṃhaḥ* \< *raṃh*
+- *araṃha* ← *araṃhaḥ* ← *raṃh*
 - \[verb\], singular, Imperfect
 - “rush.”
 ------------------------------------------------------------------------
-- *ūdhaḥ* \< *ūdhas*
+- *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *parvatasya* \< *parvata*
+- *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -34,11 +34,11 @@ title = "Rig Veda 5.32.2"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *ahiṃ* \< *ahim* \< *ahi*
+- *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 5.32.2"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *prayutaṃ* \< *prayutam* \< *prayuta*
+- *prayutaṃ* ← *prayutam* ← *prayuta*
 - \[noun\], accusative, singular, neuter
 - “careless.”
 ------------------------------------------------------------------------
-- *śayānaṃ* \< *śayānam* \< *śī*
+- *śayānaṃ* ← *śayānam* ← *śī*
 - \[verb noun\], accusative, singular
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *jaghanvāṃ* \< *han*
+- *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -66,11 +66,11 @@ title = "Rig Veda 5.32.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *taviṣīm* \< *taviṣī*
+- *taviṣīm* ← *taviṣī*
 - \[noun\], accusative, singular, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *adhatthāḥ* \< *dhā*
+- *adhatthāḥ* ← *dhā*
 - \[verb\], singular, Imperfect
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

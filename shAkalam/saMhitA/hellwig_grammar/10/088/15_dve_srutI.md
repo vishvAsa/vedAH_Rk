@@ -2,28 +2,28 @@
 title = "Rig Veda 10.88.15"
 
 +++
--   *dve* \< *dvi*
+-   *dve* ← *dvi*
 - \[noun\], accusative, dual, feminine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *srutī* \< *sruti*
+- *srutī* ← *sruti*
 - \[noun\], accusative, dual, feminine
 - “discharge; path; road; stream.”
 ------------------------------------------------------------------------
-- *aśṛṇavam* \< *śru*
+- *aśṛṇavam* ← *śru*
 - \[verb\], singular, Imperfect
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *pitṝṇām* \< *pitṛ*
+- *pitṝṇām* ← *pitṛ*
 - \[noun\], genitive, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -32,26 +32,26 @@ title = "Rig Veda 10.88.15"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *martyānām* \< *martya*
+- *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *tābhyām* \< *tad*
+- *tābhyām* ← *tad*
 - \[noun\], instrumental, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ejat* \< *ej*
+- *ejat* ← *ej*
 - \[verb noun\], nominative, singular
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 10.88.15"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -71,12 +71,12 @@ title = "Rig Veda 10.88.15"
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
 ------------------------------------------------------------------------
-- *pitaram* \< *pitṛ*
+- *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mātaraṃ* \< *mātaram* \< *mātṛ*
+- *mātaraṃ* ← *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

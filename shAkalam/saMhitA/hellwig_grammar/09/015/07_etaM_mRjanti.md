@@ -2,15 +2,15 @@
 title = "Rig Veda 9.15.7"
 
 +++
--   *etam* \< *etad*
+-   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *marjyam* \< *mṛj*
+- *marjyam* ← *mṛj*
 - \[verb noun\], accusative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 9.15.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *droṇeṣv* \< *droṇeṣu* \< *droṇa*
+- *droṇeṣv* ← *droṇeṣu* ← *droṇa*
 - \[noun\], locative, plural, masculine
 - “Droṇa; Droṇa; Droṇa; droṇa \[word\]; raven.”
 ------------------------------------------------------------------------
-- *āyavaḥ* \< *āyu*
+- *āyavaḥ* ← *āyu*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *pracakrāṇam* \< *prakṛ* \< *√kṛ*
+- *pracakrāṇam* ← *prakṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; construct; hire; shape; observe;
     fuel; write.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

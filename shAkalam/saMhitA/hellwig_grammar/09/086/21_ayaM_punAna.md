@@ -2,15 +2,15 @@
 title = "Rig Veda 9.86.21"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 9.86.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rocayad* \< *rocayat* \< *rocay* \< *√ruc*
+- *rocayad* ← *rocayat* ← *rocay* ← *√ruc*
 - \[verb\], singular, Present injunctive
 - “like; approve; like; simulate.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sindhubhyo* \< *sindhubhyaḥ* \< *sindhu*
+- *sindhubhyo* ← *sindhubhyaḥ* ← *sindhu*
 - \[noun\], dative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -41,45 +41,45 @@ title = "Rig Veda 9.86.21"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokakṛt* \< *loka*
+- *lokakṛt* ← *loka*
 - \[noun\], masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *lokakṛt* \< *kṛt*
+- *lokakṛt* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *duduhāna* \< *duduhānaḥ* \< *duh*
+- *duduhāna* ← *duduhānaḥ* ← *duh*
 - \[verb noun\], nominative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *āśiraṃ* \< *āśiram* \< *āśir*
+- *āśiraṃ* ← *āśiram* ← *āśir*
 - \[noun\], accusative, singular, feminine
 - “mixture.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *hṛde* \< *hṛd*
+- *hṛde* ← *hṛd*
 - \[noun\], dative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 9.86.21"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *matsaraḥ* \< *matsara*
+- *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------

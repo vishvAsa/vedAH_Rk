@@ -6,88 +6,88 @@ title = "Rig Veda 7.91.4"
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
 ------------------------------------------------------------------------
-- *taras* \< *taraḥ* \< *taras*
+- *taras* ← *taraḥ* ← *taras*
 - \[noun\], nominative, singular, neuter
 - “speed; Stoma.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *yāvad* \< *yāvat*
+- *yāvad* ← *yāvat*
 - \[noun\], nominative, singular, neuter
 - “yāvat \[word\].”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *yāvan* \< *yāvat*
+- *yāvan* ← *yāvat*
 - \[noun\], accusative, singular, neuter
 - “yāvat \[word\].”
 ------------------------------------------------------------------------
-- *naraś* \< *naraḥ* \< *nṛ*
+- *naraś* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *cakṣasā* \< *cakṣas*
+- *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *dīdhyānāḥ* \< *dhī*
+- *dīdhyānāḥ* ← *dhī*
 - \[verb noun\], nominative, plural
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *śuciṃ* \< *śucim* \< *śuci*
+- *śuciṃ* ← *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *śucipā* \< *śuci*
+- *śucipā* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucipā* \< *pā*
+- *śucipā* ← *pā*
 - \[noun\], vocative, dual, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *pātam* \< *pā*
+- *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indravāyū* \< *indra*
+- *indravāyū* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indravāyū* \< *vāyū* \< *vāyu*
+- *indravāyū* ← *vāyū* ← *vāyu*
 - \[noun\], vocative, dual, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *sadatam* \< *sad*
+- *sadatam* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *edam* \< *ā*
+- *edam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *edam* \< *idam*
+- *edam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

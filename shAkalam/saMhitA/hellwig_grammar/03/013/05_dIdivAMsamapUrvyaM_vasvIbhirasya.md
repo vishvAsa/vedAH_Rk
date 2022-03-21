@@ -2,49 +2,49 @@
 title = "Rig Veda 3.13.5"
 
 +++
--   *dīdivāṃsam* \< *dīdī*
+-   *dīdivāṃsam* ← *dīdī*
 - \[verb noun\], accusative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *apūrvyaṃ* \< *apūrvyam* \< *apūrvya*
+- *apūrvyaṃ* ← *apūrvyam* ← *apūrvya*
 - \[noun\], accusative, singular, masculine
 - “incomparable.”
 ------------------------------------------------------------------------
-- *vasvībhir* \< *vasvībhiḥ* \< *vasu*
+- *vasvībhir* ← *vasvībhiḥ* ← *vasu*
 - \[noun\], instrumental, plural, feminine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *ṛkvāṇo* \< *ṛkvāṇaḥ* \< *ṛkvan*
+- *ṛkvāṇo* ← *ṛkvāṇaḥ* ← *ṛkvan*
 - \[noun\], nominative, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *indhate* \< *indh*
+- *indhate* ← *indh*
 - \[verb\], plural, Present indikative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *viśpatiṃ* \< *viśpatim* \< *viśpati*
+- *viśpatiṃ* ← *viśpatim* ← *viśpati*
 - \[noun\], accusative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

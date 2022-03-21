@@ -2,23 +2,23 @@
 title = "Rig Veda 8.96.11"
 
 +++
--   *ukthavāhase* \< *uktha*
+-   *ukthavāhase* ← *uktha*
 - \[noun\], neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ukthavāhase* \< *vāhase* \< *vāhas*
+- *ukthavāhase* ← *vāhase* ← *vāhas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vibhve* \< *vibhu*
+- *vibhve* ← *vibhu*
 - \[noun\], dative, singular, masculine
 - “Vishnu.”
 ------------------------------------------------------------------------
-- *manīṣāṃ* \< *manīṣām* \< *manīṣā*
+- *manīṣāṃ* ← *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *druṇā* \< *dru*
+- *druṇā* ← *dru*
 - \[noun\], instrumental, singular, masculine
 - “wood; tree; dru \[word\].”
 ------------------------------------------------------------------------
@@ -26,16 +26,16 @@ title = "Rig Veda 8.96.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāram* \< *pāra*
+- *pāram* ← *pāra*
 - \[noun\], accusative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *īrayā* \< *īraya* \< *īray* \< *√īr*
+- *īrayā* ← *īraya* ← *īray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
@@ -43,24 +43,24 @@ title = "Rig Veda 8.96.11"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *spṛśa* \< *spṛś*
+- *spṛśa* ← *spṛś*
 - \[verb\], singular, Present imperative
 - “touch; enter (a state); reach; touch.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *tanvi* \< *tanū*
+- *tanvi* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śrutasya* \< *śru*
+- *śrutasya* ← *śru*
 - \[verb noun\], genitive, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *juṣṭatarasya* \< *juṣṭatara*
+- *juṣṭatarasya* ← *juṣṭatara*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *kuvid*
@@ -71,7 +71,7 @@ title = "Rig Veda 8.96.11"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *vedat* \< *vid*
+- *vedat* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

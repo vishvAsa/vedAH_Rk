@@ -2,57 +2,57 @@
 title = "Rig Veda 10.39.2"
 
 +++
--   *codayataṃ* \< *codayatam* \< *coday* \< *√cud*
+-   *codayataṃ* ← *codayatam* ← *coday* ← *√cud*
 - \[verb\], dual, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *sūnṛtāḥ* \< *sūnṛtā*
+- *sūnṛtāḥ* ← *sūnṛtā*
 - \[noun\], accusative, plural, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *pinvataṃ* \< *pinvatam* \< *pinv*
+- *pinvataṃ* ← *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *dhiya* \< *dhiyaḥ* \< *dhī*
+- *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *ut* \< *ud*
+- *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *purandhīr* \< *purandhīḥ* \< *puraṃdhi*
+- *purandhīr* ← *purandhīḥ* ← *puraṃdhi*
 - \[noun\], accusative, plural, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *īrayataṃ* \< *īrayatam* \< *īray* \< *√īr*
+- *īrayataṃ* ← *īrayatam* ← *īray* ← *√īr*
 - \[verb\], dual, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *uśmasi* \< *vaś*
+- *uśmasi* ← *vaś*
 - \[verb\], plural, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *yaśasam* \< *yaśas*
+- *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *bhāgaṃ* \< *bhāgam* \< *bhāga*
+- *bhāgaṃ* ← *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *kṛṇutaṃ* \< *kṛṇutam* \< *kṛ*
+- *kṛṇutaṃ* ← *kṛṇutam* ← *kṛ*
 - \[verb\], dual, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -63,15 +63,15 @@ title = "Rig Veda 10.39.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -79,19 +79,19 @@ title = "Rig Veda 10.39.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛtam* \< *kṛ*
+- *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

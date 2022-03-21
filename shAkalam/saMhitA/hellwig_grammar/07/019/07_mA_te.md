@@ -6,69 +6,69 @@ title = "Rig Veda 7.19.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asyāṃ* \< *asyām* \< *idam*
+- *asyāṃ* ← *asyām* ← *idam*
 - \[noun\], locative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sahasāvan* \< *sahasāvat*
+- *sahasāvan* ← *sahasāvat*
 - \[noun\], vocative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *pariṣṭāv* \< *pariṣṭau* \< *pariṣṭi*
+- *pariṣṭāv* ← *pariṣṭau* ← *pariṣṭi*
 - \[noun\], locative, singular, feminine
 - “trouble; dilemma.”
 ------------------------------------------------------------------------
-- *aghāya* \< *agha*
+- *aghāya* ← *agha*
 - \[noun\], dative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhū*
+- *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *harivaḥ* \< *harivas* \< *harivat*
+- *harivaḥ* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *parādai* \< *parādā* \< *√dā*
+- *parādai* ← *parādā* ← *√dā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *trāyasva* \< *trā*
+- *trāyasva* ← *trā*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'vṛkebhir* \< *avṛkebhiḥ* \< *avṛka*
+- *'vṛkebhir* ← *avṛkebhiḥ* ← *avṛka*
 - \[noun\], instrumental, plural, neuter
 - “protective; safe.”
 ------------------------------------------------------------------------
-- *varūthais* \< *varūthaiḥ* \< *varūtha*
+- *varūthais* ← *varūthaiḥ* ← *varūtha*
 - \[noun\], instrumental, plural, neuter
 - “defense; protective covering.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *priyāsaḥ* \< *priya*
+- *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *sūriṣu* \< *sūri*
+- *sūriṣu* ← *sūri*
 - \[noun\], locative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

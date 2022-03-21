@@ -2,43 +2,43 @@
 title = "Rig Veda 1.93.9"
 
 +++
--   *agnīṣomā* \< *agnīṣoma*
+-   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Agni; agnīṣoma \[word\].”
 ------------------------------------------------------------------------
-- *savedasā* \< *sa*
+- *savedasā* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *savedasā* \< *vedasā* \< *vedas*
+- *savedasā* ← *vedasā* ← *vedas*
 - \[noun\], nominative, dual, masculine
 - “property.”
 ------------------------------------------------------------------------
-- *sahūtī* \< *sa*
+- *sahūtī* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sahūtī* \< *hūtī* \< *hūti*
+- *sahūtī* ← *hūtī* ← *hūti*
 - \[noun\], nominative, dual, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vanataṃ* \< *vanatam* \< *van*
+- *vanataṃ* ← *vanatam* ← *van*
 - \[verb\], dual, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
 - *devatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *babhūvathuḥ* \< *bhū*
+- *babhūvathuḥ* ← *bhū*
 - \[verb\], dual, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.127.3"
 
 +++
--   *nir* \< *niḥ*
+-   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.127.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *svasāram* \< *svasṛ*
+- *svasāram* ← *svasṛ*
 - \[noun\], accusative, singular
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *askṛtoṣasaṃ* \< *askṛta* \< *kṛ*
+- *askṛtoṣasaṃ* ← *askṛta* \< *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

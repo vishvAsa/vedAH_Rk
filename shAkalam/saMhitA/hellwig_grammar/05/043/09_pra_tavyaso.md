@@ -6,7 +6,7 @@ title = "Rig Veda 5.43.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tavyaso* \< *tavyasaḥ* \< *tavyas*
+- *tavyaso* ← *tavyasaḥ* \< *tavyas*
 - \[noun\], genitive, singular, masculine
 - “stronger; rich.”
 ------------------------------------------------------------------------

@@ -2,31 +2,31 @@
 title = "Rig Veda 1.34.2"
 
 +++
--   *trayaḥ* \< *tri*
+-   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *pavayo* \< *pavayaḥ* \< *pavi*
+- *pavayo* ← *pavayaḥ* ← *pavi*
 - \[noun\], nominative, plural, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
-- *madhuvāhane* \< *madhu*
+- *madhuvāhane* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhuvāhane* \< *vāhane* \< *vāhana*
+- *madhuvāhane* ← *vāhane* ← *vāhana*
 - \[noun\], locative, singular, masculine
 - “bringing; carrying.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *venām* \< *venā*
+- *venām* ← *venā*
 - \[noun\], accusative, singular, feminine
 - “spoor.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 1.34.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *viśva* \< *viśve* \< *viśva*
+- *viśva* ← *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -43,53 +43,53 @@ title = "Rig Veda 1.34.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *viduḥ* \< *vid*
+- *viduḥ* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *traya* \< *tri*
+- *traya* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *skambhāsa* \< *skambha*
+- *skambhāsa* ← *skambha*
 - \[noun\], nominative, plural, masculine
 - “prop.”
 ------------------------------------------------------------------------
-- *skabhitāsa* \< *skabhitāsaḥ* \< *skambh*
+- *skabhitāsa* ← *skabhitāsaḥ* ← *skambh*
 - \[verb noun\], nominative, plural
 - “fixate; establish.”
 ------------------------------------------------------------------------
-- *ārabhe* \< *ārabh* \< *√rabh*
+- *ārabhe* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *naktaṃ* \< *naktam* \< *nakta*
+- *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *yāthas* \< *yāthaḥ* \< *yā*
+- *yāthas* ← *yāthaḥ* ← *yā*
 - \[verb\], dual, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

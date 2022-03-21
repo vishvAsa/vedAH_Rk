@@ -2,7 +2,7 @@
 title = "Rig Veda 1.10.3"
 
 +++
--   *yukṣvā* \< *yuj*
+-   *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -14,31 +14,31 @@ title = "Rig Veda 1.10.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *keśinā* \< *keśin*
+- *keśinā* ← *keśin*
 - \[noun\], accusative, dual, masculine
 - “haired.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣaṇa*
+- *vṛṣaṇā* ← *vṛṣaṇa*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *kakṣyaprā* \< *kakṣya*
+- *kakṣyaprā* ← *kakṣya*
 - \[noun\], neuter
 - “cinch.”
 ------------------------------------------------------------------------
-- *kakṣyaprā* \< *prā*
+- *kakṣyaprā* ← *prā*
 - \[noun\], accusative, dual, masculine
 - “appreciated.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -47,24 +47,24 @@ title = "Rig Veda 1.10.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *girām* \< *gir*
+- *girām* ← *gir*
 - \[noun\], genitive, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *upaśrutiṃ* \< *upaśrutim* \< *upaśruti*
+- *upaśrutiṃ* ← *upaśrutim* ← *upaśruti*
 - \[noun\], accusative, singular, feminine
 - “listening; divination.”
 ------------------------------------------------------------------------
-- *cara* \< *car*
+- *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;

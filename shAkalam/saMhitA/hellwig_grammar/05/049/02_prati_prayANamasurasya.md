@@ -6,33 +6,33 @@ title = "Rig Veda 5.49.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *prayāṇam* \< *prayāṇa*
+- *prayāṇam* ← *prayāṇa*
 - \[noun\], accusative, singular, neuter
 - “departure; death.”
 ------------------------------------------------------------------------
-- *asurasya* \< *asura*
+- *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *sūktair* \< *sūktaiḥ* \< *sūkta*
+- *sūktair* ← *sūktaiḥ* ← *sūkta*
 - \[noun\], instrumental, plural, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitāraṃ* \< *savitāram* \< *savitṛ*
+- *savitāraṃ* ← *savitāram* ← *savitṛ*
 - \[noun\], accusative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *duvasya* \< *duvasy*
+- *duvasya* ← *duvasy*
 - \[verb\], singular, Present imperative
 - “worship.”
 ------------------------------------------------------------------------
@@ -40,21 +40,21 @@ title = "Rig Veda 5.49.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruvīta* \< *brū*
+- *bruvīta* ← *brū*
 - \[verb\], singular, Present optative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vijānañ* \< *vijānan* \< *vijñā* \< *√jñā*
+- *vijānañ* ← *vijānan* ← *vijñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; diagnose; detect; find; identify; call; understand; observe;
     name; deem; recognize; explain; know.”
 ------------------------------------------------------------------------
-- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
@@ -62,16 +62,16 @@ title = "Rig Veda 5.49.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ratnaṃ* \< *ratnam* \< *ratna*
+- *ratnaṃ* ← *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *vibhajantam* \< *vibhaj* \< *√bhaj*
+- *vibhajantam* ← *vibhaj* ← *√bhaj*
 - \[verb noun\], accusative, singular
 - “divide; give away; distribute; choose; allocate; separate; spread;
     consider; assign; distinguish; proportion.”
 ------------------------------------------------------------------------
-- *āyoḥ* \< *āyu*
+- *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

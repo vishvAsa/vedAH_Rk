@@ -2,18 +2,18 @@
 title = "Rig Veda 8.22.18"
 
 +++
--   *suprāvargaṃ* \< *su*
+-   *suprāvargaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprāvargaṃ* \< *prāvargam* \< *prāvarga*
+- *suprāvargaṃ* ← *prāvargam* ← *prāvarga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *su*
+- *suvīryaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *vīryam* \< *vīrya*
+- *suvīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
@@ -22,23 +22,23 @@ title = "Rig Veda 8.22.18"
 - *suṣṭhu*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vāryam* \< *vṛ*
+- *vāryam* ← *vṛ*
 - \[verb noun\], accusative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *anādhṛṣṭaṃ* \< *an*
+- *anādhṛṣṭaṃ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anādhṛṣṭaṃ* \< *ādhṛṣṭam* \< *ādhṛṣ* \< *√dhṛṣ*
+- *anādhṛṣṭaṃ* ← *ādhṛṣṭam* ← *ādhṛṣ* ← *√dhṛṣ*
 - \[verb noun\], accusative, singular
 - “overcome; suppress.”
 ------------------------------------------------------------------------
-- *rakṣasvinā* \< *rakṣasvin*
+- *rakṣasvinā* ← *rakṣasvin*
 - \[noun\], instrumental, singular, masculine
 - “malevolent; demoniac; obsessed.”
 ------------------------------------------------------------------------
-- *asminn* \< *asmin* \< *idam*
+- *asminn* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -46,26 +46,26 @@ title = "Rig Veda 8.22.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *āyāne* \< *āyāna*
+- *āyāne* ← *āyāna*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *vājinīvasū* \< *vājinīvasu*
+- *vājinīvasū* ← *vājinīvasu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vāmāni* \< *vāma*
+- *vāmāni* ← *vāma*
 - \[noun\], accusative, plural, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *dhīmahi* \< *dhā*
+- *dhīmahi* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

@@ -2,15 +2,15 @@
 title = "Rig Veda 9.82.4"
 
 +++
--   *jāyeva* \< *jāyā*
+-   *jāyeva* ← *jāyā*
 - \[noun\], nominative, singular, feminine
 - “wife; jāyā \[word\].”
 ------------------------------------------------------------------------
-- *jāyeva* \< *iva*
+- *jāyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *patyāv* \< *patyau* \< *pati*
+- *patyāv* ← *patyau* ← *pati*
 - \[noun\], locative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
@@ -23,11 +23,11 @@ title = "Rig Veda 9.82.4"
 - \[noun\], vocative, singular, masculine
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *maṃhase* \< *mah*
+- *maṃhase* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *pajrāyā* \< *pajrāyāḥ* \< *pajra*
+- *pajrāyā* ← *pajrāyāḥ* ← *pajra*
 - \[noun\], genitive, singular, feminine
 - “steadfast.”
 ------------------------------------------------------------------------
@@ -37,16 +37,16 @@ title = "Rig Veda 9.82.4"
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *śṛṇuhi* \< *śru*
+- *śṛṇuhi* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *bravīmi* \< *brū*
+- *bravīmi* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 9.82.4"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *vāṇīṣu* \< *vāṇī*
+- *vāṇīṣu* ← *vāṇī*
 - \[noun\], locative, plural, feminine
 - “voice; Sarasvati; words; language.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 9.82.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *carā* \< *cara* \< *car*
+- *carā* ← *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -72,14 +72,14 @@ title = "Rig Veda 9.82.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *'nindyo* \< *anindyaḥ* \< *anindya*
+- *'nindyo* ← *anindyaḥ* ← *anindya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
@@ -87,7 +87,7 @@ title = "Rig Veda 9.82.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jāgṛhi* \< *jāgṛ*
+- *jāgṛhi* ← *jāgṛ*
 - \[verb\], singular, Present imperative
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------

@@ -2,23 +2,23 @@
 title = "Rig Veda 1.35.9"
 
 +++
--   *hiraṇyapāṇiḥ* \< *hiraṇya*
+-   *hiraṇyapāṇiḥ* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyapāṇiḥ* \< *pāṇiḥ* \< *pāṇi*
+- *hiraṇyapāṇiḥ* ← *pāṇiḥ* ← *pāṇi*
 - \[noun\], nominative, singular, masculine
 - “hand; hoof; pāṇi \[word\].”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *vicarṣaṇir* \< *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇir* ← *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -30,27 +30,27 @@ title = "Rig Veda 1.35.9"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *īyate* \< *i*
+- *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *apāmīvām* \< *apa*
+- *apāmīvām* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāmīvām* \< *amīvām* \< *amīvā*
+- *apāmīvām* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *sūryam* \< *sūrya*
+- *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -59,20 +59,20 @@ title = "Rig Veda 1.35.9"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kṛṣṇena* \< *kṛṣṇa*
+- *kṛṣṇena* ← *kṛṣṇa*
 - \[noun\], instrumental, singular, neuter
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *rajasā* \< *rajas*
+- *rajasā* ← *rajas*
 - \[noun\], instrumental, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṛṇoti* \< *ṛch*
+- *ṛṇoti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”

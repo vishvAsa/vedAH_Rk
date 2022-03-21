@@ -6,24 +6,24 @@ title = "Rig Veda 5.41.19"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍā*
+- *iﾱā* ← *iḍā*
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *yūthasya* \< *yūtha*
+- *yūthasya* ← *yūtha*
 - \[noun\], genitive, singular, masculine
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *sman* \< *smat*
+- *sman* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------

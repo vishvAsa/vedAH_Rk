@@ -2,11 +2,11 @@
 title = "Rig Veda 6.48.15"
 
 +++
--   *tveṣaṃ* \< *tveṣam* \< *tveṣa*
+-   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -14,22 +14,22 @@ title = "Rig Veda 6.48.15"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *tuviṣvaṇy* \< *tuviṣvaṇi*
+- *tuviṣvaṇy* ← *tuviṣvaṇi*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *anarvāṇam* \< *anarvan*
+- *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *pūṣaṇaṃ* \< *pūṣaṇam* \< *pūṣan*
+- *pūṣaṇaṃ* ← *pūṣaṇam* ← *pūṣan*
 - \[noun\], accusative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -37,42 +37,42 @@ title = "Rig Veda 6.48.15"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *kāriṣac* \< *kāriṣat* \< *kṛ*
+- *kāriṣac* ← *kāriṣat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “spread; scatter.”
 ------------------------------------------------------------------------
-- *carṣaṇibhya* \< *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhya* ← *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], ablative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *gūﾱhā* \< *gūḍhā* \< *guh*
+- *gūﾱhā* ← *gūḍhā* ← *guh*
 - \[verb noun\], accusative, plural
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *vasū* \< *vasu*
+- *vasū* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -83,22 +83,22 @@ title = "Rig Veda 6.48.15"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suvedā* \< *su*
+- *suvedā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvedā* \< *vedā* \< *veda*
+- *suvedā* ← *vedā* ← *veda*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasū* \< *vasu*
+- *vasū* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

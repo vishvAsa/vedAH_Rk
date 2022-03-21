@@ -2,7 +2,7 @@
 title = "Rig Veda 8.94.3"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,16 +12,16 @@ title = "Rig Veda 8.94.3"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *ari*
+- *arya* ← *aryaḥ* ← *ari*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ā*
@@ -32,23 +32,23 @@ title = "Rig Veda 8.94.3"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *gṛṇanti* \< *gṛ*
+- *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *kāravaḥ* \< *kāru*
+- *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------

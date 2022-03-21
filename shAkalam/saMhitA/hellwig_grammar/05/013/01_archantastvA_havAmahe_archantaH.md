@@ -2,19 +2,19 @@
 title = "Rig Veda 5.13.1"
 
 +++
--   *arcantas* \< *arcantaḥ* \< *arc*
+-   *arcantas* ← *arcantaḥ* ← *arc*
 - \[verb noun\], nominative, plural
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *'rcantaḥ* \< *arcantaḥ* \< *arc*
+- *'rcantaḥ* ← *arcantaḥ* ← *arc*
 - \[verb noun\], nominative, plural
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
@@ -22,21 +22,21 @@ title = "Rig Veda 5.13.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhīmahi* \< *indh*
+- *idhīmahi* ← *indh*
 - \[verb\], plural, Present optative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arcanta* \< *arcantaḥ* \< *arc*
+- *arcanta* ← *arcantaḥ* ← *arc*
 - \[verb noun\], nominative, plural
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

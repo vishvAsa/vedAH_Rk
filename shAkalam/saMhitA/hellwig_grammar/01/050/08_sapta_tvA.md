@@ -2,23 +2,23 @@
 title = "Rig Veda 1.50.8"
 
 +++
--   *sapta* \< *saptan*
+-   *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], nominative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
@@ -33,7 +33,7 @@ title = "Rig Veda 1.50.8"
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *śociṣkeśaṃ* \< *śociṣkeśam* \< *śociṣkeśa*
+- *śociṣkeśaṃ* ← *śociṣkeśam* ← *śociṣkeśa*
 - \[noun\], accusative, singular, masculine
 - “Agni.”
 ------------------------------------------------------------------------

@@ -7,11 +7,11 @@ title = "Rig Veda 10.59.7"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asum* \< *asu*
+- *asum* ← *asu*
 - \[noun\], accusative, singular, masculine
 - “life.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 10.59.7"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *dadātu* \< *dā*
+- *dadātu* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -31,7 +31,7 @@ title = "Rig Veda 10.59.7"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *dyaur* \< *dyauḥ* \< *div*
+- *dyaur* ← *dyauḥ* ← *div*
 - \[noun\], vocative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 10.59.7"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *antarikṣam* \< *antarikṣa*
+- *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -53,43 +53,43 @@ title = "Rig Veda 10.59.7"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *somas* \< *somaḥ* \< *soma*
+- *somas* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *dadātu* \< *dā*
+- *dadātu* ← *dā*
 - \[verb\], singular, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *pūṣā* \< *pūṣan*
+- *pūṣā* ← *pūṣan*
 - \[noun\], nominative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *pathyāṃ* \< *pathyām* \< *pathyā*
+- *pathyāṃ* ← *pathyām* ← *pathyā*
 - \[noun\], accusative, singular, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *svastiḥ* \< *svasti*
+- *svastiḥ* ← *svasti*
 - \[noun\], nominative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

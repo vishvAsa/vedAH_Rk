@@ -2,23 +2,23 @@
 title = "Rig Veda 8.31.1"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yajāti* \< *yaj*
+- *yajāti* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *yajāta* \< *yajāte* \< *yaj*
+- *yajāta* ← *yajāte* ← *yaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sunavac* \< *sunavat* \< *su*
+- *sunavac* ← *sunavat* ← *su*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 8.31.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pacāti* \< *pac*
+- *pacāti* ← *pac*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
@@ -35,21 +35,21 @@ title = "Rig Veda 8.31.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *brahmed* \< *brahmā* \< *brahman*
+- *brahmed* ← *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
 ------------------------------------------------------------------------
-- *brahmed* \< *id*
+- *brahmed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cākanat* \< *kan*
+- *cākanat* ← *kan*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “like; delight; desire.”
 ------------------------------------------------------------------------

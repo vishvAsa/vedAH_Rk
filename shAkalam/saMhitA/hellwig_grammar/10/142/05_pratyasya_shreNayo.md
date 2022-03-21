@@ -2,7 +2,7 @@
 title = "Rig Veda 10.142.5"
 
 +++
--   *praty* \< *prati*
+-   *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------

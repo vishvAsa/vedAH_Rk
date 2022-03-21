@@ -2,13 +2,13 @@
 title = "Rig Veda 1.55.2"
 
 +++
--   *so* \< *saḥ* \< *tad*
+-   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *arṇavo* \< *arṇavaḥ* \< *arṇava*
+- *arṇavo* ← *arṇavaḥ* ← *arṇava*
 - \[noun\], nominative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 1.55.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nadyaḥ* \< *nadī*
+- *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *samudriyaḥ* \< *samudriya*
+- *samudriyaḥ* ← *samudriya*
 - \[noun\], nominative, singular, masculine
 - “oceanic; oceanic.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 1.55.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *gṛbhṇāti* \< *grah*
+- *gṛbhṇāti* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -36,45 +36,45 @@ title = "Rig Veda 1.55.2"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *viśritā* \< *viśritāḥ* \< *viśri* \< *√śri*
+- *viśritā* ← *viśritāḥ* ← *viśri* ← *√śri*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *varīmabhiḥ* \< *varīman*
+- *varīmabhiḥ* ← *varīman*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pā*
+- *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣāyate* \< *vṛṣāy*
+- *vṛṣāyate* ← *vṛṣāy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yudhma* \< *yudhmaḥ* \< *yudhma*
+- *yudhma* ← *yudhmaḥ* ← *yudhma*
 - \[noun\], nominative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *panasyate* \< *panasy*
+- *panasyate* ← *panasy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

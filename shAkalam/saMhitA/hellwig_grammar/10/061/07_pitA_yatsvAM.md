@@ -2,7 +2,7 @@
 title = "Rig Veda 10.61.7"
 
 +++
--   *pitā* \< *pitṛ*
+-   *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -11,12 +11,12 @@ title = "Rig Veda 10.61.7"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *svāṃ* \< *svām* \< *sva*
+- *svāṃ* ← *svām* ← *sva*
 - \[noun\], accusative, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *duhitaram* \< *duhitṛ*
+- *duhitaram* ← *duhitṛ*
 - \[noun\], accusative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
@@ -24,23 +24,23 @@ title = "Rig Veda 10.61.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣkan* \< *skan* \< *skand*
+- *ṣkan* ← *skan* ← *skand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “clot; ejaculate; spill; ride.”
 ------------------------------------------------------------------------
-- *kṣmayā* \< *kṣmā*
+- *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
 ------------------------------------------------------------------------
-- *retaḥ* \< *retas*
+- *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *jagmāno* \< *jagmānaḥ* \< *gam*
+- *jagmāno* ← *jagmānaḥ* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -51,51 +51,51 @@ title = "Rig Veda 10.61.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣiñcat* \< *siñcat* \< *sic*
+- *ṣiñcat* ← *siñcat* ← *sic*
 - \[verb\], singular, Present injunctive
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *svādhyo* \< *su*
+- *svādhyo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svādhyo* \< *ādhyaḥ* \< *ādhī*
+- *svādhyo* ← *ādhyaḥ* ← *ādhī*
 - \[noun\], nominative, plural, masculine
 - “longing.”
 ------------------------------------------------------------------------
-- *'janayan* \< *ajanayan* \< *janay* \< *√jan*
+- *'janayan* ← *ajanayan* ← *janay* ← *√jan*
 - \[verb\], plural, Imperfect
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vāstoṣpatiṃ* \< *vāstoṣpatim* \< *vāstoṣpati*
+- *vāstoṣpatiṃ* ← *vāstoṣpatim* ← *vāstoṣpati*
 - \[noun\], accusative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
 ------------------------------------------------------------------------
-- *vratapāṃ* \< *vrata*
+- *vratapāṃ* ← *vrata*
 - \[noun\], neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *vratapāṃ* \< *pām* \< *pā*
+- *vratapāṃ* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *atakṣan* \< *takṣ*
+- *atakṣan* ← *takṣ*
 - \[verb\], plural, Imperfect
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------

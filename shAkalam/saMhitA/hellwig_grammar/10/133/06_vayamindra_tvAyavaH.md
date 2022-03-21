@@ -2,7 +2,7 @@
 title = "Rig Veda 10.133.6"
 
 +++
--   *vayam* \< *mad*
+-   *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -11,10 +11,10 @@ title = "Rig Veda 10.133.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvāyavaḥ* \< *tvāyu*
+- *tvāyavaḥ* ← *tvāyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sakhitvam* \< *sakhitva*
+- *sakhitvam* ← *sakhitva*
 - \[noun\], accusative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
@@ -22,49 +22,49 @@ title = "Rig Veda 10.133.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rabhāmahe* \< *rabh*
+- *rabhāmahe* ← *rabh*
 - \[verb\], plural, Present indikative
 - “clasp.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *nayāti* \< *naya* \< *nī*
+- *nayāti* ← *naya* ← *nī*
 - \[verb\], singular, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *nayāti* \< *ati*
+- *nayāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyakeṣāṃ* \< *anyakeṣām* \< *anyaka*
+- *anyakeṣāṃ* ← *anyakeṣām* ← *anyaka*
 - \[noun\], genitive, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *jyākā* \< *jyākāḥ* \< *jyākā*
+- *jyākā* ← *jyākāḥ* ← *jyākā*
 - \[noun\], nominative, plural, feminine
 - “bowstring.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 10.133.6"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dhanvasu* \< *dhanvan*
+- *dhanvasu* ← *dhanvan*
 - \[noun\], locative, plural, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------

@@ -2,20 +2,20 @@
 title = "Rig Veda 10.74.5"
 
 +++
--   *śacīva* \< *śacīvas* \< *śacīvat*
+-   *śacīva* ← *śacīvas* ← *śacīvat*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,44 +26,44 @@ title = "Rig Veda 10.74.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *anānataṃ* \< *an*
+- *anānataṃ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anānataṃ* \< *ānatam* \< *ānam* \< *√nam*
+- *anānataṃ* ← *ānatam* ← *ānam* ← *√nam*
 - \[verb noun\], accusative, singular
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *damayantam* \< *damay* \< *√dam*
+- *damayantam* ← *damay* ← *√dam*
 - \[verb noun\], accusative, singular
 - “suppress.”
 ------------------------------------------------------------------------
-- *pṛtanyūn* \< *pṛtanyu*
+- *pṛtanyūn* ← *pṛtanyu*
 - \[noun\], accusative, plural, masculine
 - “enemy; attacker.”
 ------------------------------------------------------------------------
-- *ṛbhukṣaṇam* \< *ṛbhukṣan*
+- *ṛbhukṣaṇam* ← *ṛbhukṣan*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *maghavānaṃ* \< *maghavānam* \< *maghavan*
+- *maghavānaṃ* ← *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, masculine
 - “glorious.”
 ------------------------------------------------------------------------
-- *bhartā* \< *bhṛ*
+- *bhartā* ← *bhṛ*
 - \[verb\], singular, periphrast. future
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* \< *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”

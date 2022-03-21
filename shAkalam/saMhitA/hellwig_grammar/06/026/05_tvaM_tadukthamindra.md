@@ -2,17 +2,17 @@
 title = "Rig Veda 6.26.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *uktham* \< *uktha*
+- *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 6.26.5"
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
 ------------------------------------------------------------------------
-- *kaḥ* \< *kṛ*
+- *kaḥ* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,15 +40,15 @@ title = "Rig Veda 6.26.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yacchatā* \< *yat*
+- *yacchatā* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchatā* \< *śatā* \< *śata*
+- *yacchatā* ← *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 6.26.5"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *darṣi* \< *dṛ*
+- *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
 ------------------------------------------------------------------------
@@ -65,15 +65,15 @@ title = "Rig Veda 6.26.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *girer* \< *gireḥ* \< *giri*
+- *girer* ← *gireḥ* ← *giri*
 - \[noun\], ablative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *dāsaṃ* \< *dāsam* \< *dāsa*
+- *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *śambaraṃ* \< *śambaram* \< *śambara*
+- *śambaraṃ* ← *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
@@ -83,21 +83,21 @@ title = "Rig Veda 6.26.5"
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *prāvo* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *divodāsaṃ* \< *divodāsam* \< *divodāsa*
+- *divodāsaṃ* ← *divodāsam* ← *divodāsa*
 - \[noun\], accusative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *citrābhir* \< *citrābhiḥ* \< *citra*
+- *citrābhir* ← *citrābhiḥ* ← *citra*
 - \[noun\], instrumental, plural, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

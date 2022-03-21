@@ -2,34 +2,34 @@
 title = "Rig Veda 6.69.7"
 
 +++
--   *indrāviṣṇū* \< *indrāviṣṇu*
+-   *indrāviṣṇū* ← *indrāviṣṇu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *pibatam* \< *pā*
+- *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *jaṭharam* \< *jaṭhara*
+- *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *pṛṇethām* \< *pṛṇ*
+- *pṛṇethām* ← *pṛṇ*
 - \[verb\], dual, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------
@@ -37,19 +37,19 @@ title = "Rig Veda 6.69.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *andhāṃsi* \< *andhas*
+- *andhāṃsi* ← *andhas*
 - \[noun\], nominative, plural, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *madirāṇy* \< *madirāṇi* \< *madira*
+- *madirāṇy* ← *madirāṇi* ← *madira*
 - \[noun\], nominative, plural, neuter
 - “intoxicant.”
 ------------------------------------------------------------------------
-- *agmann* \< *agman* \< *gam*
+- *agmann* ← *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -60,20 +60,20 @@ title = "Rig Veda 6.69.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------

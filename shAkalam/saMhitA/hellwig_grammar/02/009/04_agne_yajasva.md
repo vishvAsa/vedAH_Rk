@@ -2,27 +2,27 @@
 title = "Rig Veda 2.9.4"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *yajīyāñchruṣṭī* \< *yajīyān* \< *yajīyas*
+- *yajīyāñchruṣṭī* ← *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajīyāñchruṣṭī* \< *śruṣṭī* \< *śruṣṭi*
+- *yajīyāñchruṣṭī* ← *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *deṣṇam* \< *deṣṇa*
+- *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------
@@ -30,52 +30,52 @@ title = "Rig Veda 2.9.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gṛṇīhi* \< *gṛ*
+- *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rayipatī* \< *rayi*
+- *rayipatī* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayipatī* \< *patiḥ* \< *pati*
+- *rayipatī* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *rayīṇāṃ* \< *rayīṇām* \< *rayi*
+- *rayīṇāṃ* ← *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śukrasya* \< *śukra*
+- *śukrasya* ← *śukra*
 - \[noun\], genitive, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *vacaso* \< *vacasaḥ* \< *vacas*
+- *vacaso* ← *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *manotā* \< *manotṛ*
+- *manotā* ← *manotṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

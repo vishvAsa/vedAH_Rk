@@ -2,13 +2,13 @@
 title = "Rig Veda 7.67.8"
 
 +++
--   *ekasmin* \< *eka*
+-   *ekasmin* ← *eka*
 - \[noun\], locative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *yoge* \< *yoga*
+- *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -17,10 +17,10 @@ title = "Rig Veda 7.67.8"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *bhuraṇā* \< *bhuraṇa*
+- *bhuraṇā* ← *bhuraṇa*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *samāne* \< *samāna*
+- *samāne* ← *samāna*
 - \[noun\], locative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
@@ -29,23 +29,23 @@ title = "Rig Veda 7.67.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *sravato* \< *sravataḥ* \< *sravat*
+- *sravato* ← *sravataḥ* ← *sravat*
 - \[noun\], accusative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *gāt* \< *gā*
+- *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -53,26 +53,26 @@ title = "Rig Veda 7.67.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vāyanti* \< *vā*
+- *vāyanti* ← *vā*
 - \[verb\], plural, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *subhvo* \< *su*
+- *subhvo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subhvo* \< *bhvaḥ* \< *bhū*
+- *subhvo* ← *bhvaḥ* ← *bhū*
 - \[noun\], nominative, plural, masculine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
     bhūnāga; sphaṭikā; beginning; birth; estate.”
 ------------------------------------------------------------------------
-- *devayuktā* \< *deva*
+- *devayuktā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayuktā* \< *yuktāḥ* \< *yuj*
+- *devayuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], nominative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -80,23 +80,23 @@ title = "Rig Veda 7.67.8"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dhūrṣu* \< *dhur*
+- *dhūrṣu* ← *dhur*
 - \[noun\], locative, plural
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *taraṇayo* \< *taraṇayaḥ* \< *taraṇi*
+- *taraṇayo* ← *taraṇayaḥ* ← *taraṇi*
 - \[noun\], nominative, plural, masculine
 - “energetic; agile.”
 ------------------------------------------------------------------------
-- *vahanti* \< *vah*
+- *vahanti* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

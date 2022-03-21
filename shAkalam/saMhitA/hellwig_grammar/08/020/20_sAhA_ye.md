@@ -2,52 +2,52 @@
 title = "Rig Veda 8.20.20"
 
 +++
--   *sāhā* \< *sāhāḥ* \< *sāha*
+-   *sāhā* ← *sāhāḥ* ← *sāha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *muṣṭiheva* \< *muṣṭi*
+- *muṣṭiheva* ← *muṣṭi*
 - \[noun\], masculine
 - “fist; handful; pestle; muṣṭi \[word\]; pala.”
 ------------------------------------------------------------------------
-- *muṣṭiheva* \< *hā* \< *han*
+- *muṣṭiheva* ← *hā* ← *han*
 - \[noun\], nominative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *muṣṭiheva* \< *iva*
+- *muṣṭiheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hvā*
+- *havyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *viśvāsu* \< *viśva*
+- *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *hotṛṣu* \< *hotṛ*
+- *hotṛṣu* ← *hotṛ*
 - \[noun\], locative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *vṛṣṇaś* \< *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaś* ← *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], accusative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *candrān* \< *candrāt* \< *candra*
+- *candrān* ← *candrāt* ← *candra*
 - \[noun\], ablative, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
@@ -55,23 +55,23 @@ title = "Rig Veda 8.20.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *suśravastamān* \< *su*
+- *suśravastamān* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśravastamān* \< *śravastamān* \< *śravastama*
+- *suśravastamān* ← *śravastamān* ← *śravastama*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *vandasva* \< *vand*
+- *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], accusative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------

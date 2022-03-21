@@ -6,11 +6,11 @@ title = "Rig Veda 9.100.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jigyuṣo* \< *jigyuṣaḥ* \< *ji*
+- *jigyuṣo* ← *jigyuṣaḥ* ← *ji*
 - \[verb noun\], genitive, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -23,39 +23,39 @@ title = "Rig Veda 9.100.4"
 - \[noun\], nominative, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *sutasya* \< *su*
+- *sutasya* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *raṃhamāṇā* \< *raṃh*
+- *raṃhamāṇā* ← *raṃh*
 - \[verb noun\], nominative, singular
 - “rush.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *avyayaṃ* \< *avyayam* \< *avyaya*
+- *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *vāraṃ* \< *vāram* \< *vāra*
+- *vāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *vājīva* \< *vājī* \< *vājin*
+- *vājīva* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājīva* \< *iva*
+- *vājīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sānasiḥ* \< *sānasi*
+- *sānasiḥ* ← *sānasi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------

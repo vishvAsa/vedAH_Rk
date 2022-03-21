@@ -6,31 +6,31 @@ title = "Rig Veda 10.96.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *haryamāṇo* \< *haryamāṇaḥ* \< *hary*
+- *haryamāṇo* ← *haryamāṇaḥ* ← *hary*
 - \[verb noun\], nominative, singular
 - “delight.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, neuter
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *haryasi* \< *hary*
+- *haryasi* ← *hary*
 - \[verb\], singular, Present indikative
 - “delight.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 10.96.11"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
@@ -47,27 +47,27 @@ title = "Rig Veda 10.96.11"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pastyam* \< *pastya*
+- *pastyam* ← *pastya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *asura*
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *haryataṃ* \< *haryatam* \< *haryata*
+- *haryataṃ* ← *haryatam* ← *haryata*
 - \[noun\], accusative, singular, neuter
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *āviṣ* \< *āvis*
+- *āviṣ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,11 +78,11 @@ title = "Rig Veda 10.96.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *haraye* \< *hari*
+- *haraye* ← *hari*
 - \[noun\], dative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *sūryāya* \< *sūrya*
+- *sūryāya* ← *sūrya*
 - \[noun\], dative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

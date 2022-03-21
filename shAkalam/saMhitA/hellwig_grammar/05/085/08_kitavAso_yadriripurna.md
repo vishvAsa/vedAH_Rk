@@ -2,26 +2,26 @@
 title = "Rig Veda 5.85.8"
 
 +++
--   *kitavāso* \< *kitavāsaḥ* \< *kitava*
+-   *kitavāso* ← *kitavāsaḥ* ← *kitava*
 - \[noun\], nominative, plural, masculine
 - “gambler; deceiver; thorn apple; kitava \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *riripur* \< *riripuḥ* \< *rip*
+- *riripur* ← *riripuḥ* ← *rip*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dīvi* \< *dīv*
+- *dīvi* ← *dīv*
 - \[noun\], locative, singular, feminine
 - “gambling.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -29,10 +29,10 @@ title = "Rig Veda 5.85.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *satyam* \< *satya*
+- *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 5.85.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -48,18 +48,18 @@ title = "Rig Veda 5.85.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vidma* \< *vid*
+- *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *sarvā* \< *sarva*
+- *sarvā* ← *sarva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -69,32 +69,32 @@ title = "Rig Veda 5.85.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *sā*
+- *ṣya* ← *sya* ← *sā*
 - \[verb\], singular, Present imperative
 - “tie.”
 ------------------------------------------------------------------------
-- *śithireva* \< *śithirā* \< *śithira*
+- *śithireva* ← *śithirā* ← *śithira*
 - \[noun\], accusative, plural, neuter
 - “flexible; flexible.”
 ------------------------------------------------------------------------
-- *śithireva* \< *iva*
+- *śithireva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *devādhā* \< *deva*
+- *devādhā* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devādhā* \< *adhā* \< *adha*
+- *devādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -104,7 +104,7 @@ title = "Rig Veda 5.85.8"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *priyāsaḥ* \< *priya*
+- *priyāsaḥ* ← *priya*
 - \[noun\], nominative, plural, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”

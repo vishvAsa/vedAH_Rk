@@ -2,7 +2,7 @@
 title = "Rig Veda 10.95.11"
 
 +++
--   *jajñiṣa* \< *jajñiṣe* \< *jan*
+-   *jajñiṣa* ← *jajñiṣe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -12,54 +12,54 @@ title = "Rig Veda 10.95.11"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *gopīthyāya* \< *gopīthya*
+- *gopīthyāya* ← *gopīthya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dadhātha* \< *\_* \< *√\_*
+- *dadhātha* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *purūravo* \< *purūravaḥ* \< *purūravas*
+- *purūravo* ← *purūravaḥ* ← *purūravas*
 - \[noun\], vocative, singular, masculine
 - “Purūravas.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *aśāsaṃ* \< *aśāsam* \< *śās*
+- *aśāsaṃ* ← *aśāsam* ← *śās*
 - \[verb\], singular, Imperfect
 - “teach; govern; command; order; control; tell; recommend; chastize;
     instruct.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viduṣī* \< *vid*
+- *viduṣī* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *sasminn* \< *\_* \< *√\_*
+- *sasminn* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ahan* \< *ahar*
+- *ahan* ← *ahar*
 - \[noun\], locative, singular
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
@@ -67,22 +67,22 @@ title = "Rig Veda 10.95.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āśṛṇoḥ* \< *āśru* \< *√śru*
+- *āśṛṇoḥ* ← *āśru* ← *√śru*
 - \[verb\], singular, Imperfect
 - “listen; hear.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *abhug* \< *abhuj*
+- *abhug* ← *abhuj*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vadāsi* \< *vad*
+- *vadāsi* ← *vad*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”

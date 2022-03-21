@@ -6,66 +6,66 @@ title = "Rig Veda 4.21.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namasi* \< *namas*
+- *namasi* ← *namas*
 - \[noun\], locative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *stabhāyann* \< *stabhāyan* \< *stabhāy* \< *√stambh*
+- *stabhāyann* ← *stabhāyan* ← *stabhāy* ← *√stambh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vācaṃ* \< *vācam* \< *vāc*
+- *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *janayan* \< *janay* \< *√jan*
+- *janayan* ← *janay* ← *√jan*
 - \[verb noun\], nominative, singular
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *yajadhyai* \< *yaj*
+- *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ṛñjasānaḥ* \< *ṛj*
+- *ṛñjasānaḥ* ← *ṛj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *puruvāra* \< *puru*
+- *puruvāra* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāra* \< *vāraḥ* \< *vāra*
+- *puruvāra* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *endraṃ* \< *ā*
+- *endraṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endraṃ* \< *indram* \< *indra*
+- *endraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛṇvīta* \< *kṛ*
+- *kṛṇvīta* ← *kṛ*
 - \[verb\], singular, Present optative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -76,12 +76,12 @@ title = "Rig Veda 4.21.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sadaneṣu* \< *sadana*
+- *sadaneṣu* ← *sadana*
 - \[noun\], locative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------

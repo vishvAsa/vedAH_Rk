@@ -2,7 +2,7 @@
 title = "Rig Veda 8.63.8"
 
 +++
--   *iyam* \< *idam*
+-   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,14 +10,14 @@ title = "Rig Veda 8.63.8"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *anuṣṭutiś* \< *anuṣṭutiḥ* \< *anuṣṭuti*
+- *anuṣṭutiś* ← *anuṣṭutiḥ* ← *anuṣṭuti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -28,26 +28,26 @@ title = "Rig Veda 8.63.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tāni* \< *tad*
+- *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pauṃsyā* \< *pauṃsya*
+- *pauṃsyā* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *prāvaś* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāvaś* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *cakrasya* \< *cakra*
+- *cakrasya* ← *cakra*
 - \[noun\], genitive, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *vartanim* \< *vartani*
+- *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------

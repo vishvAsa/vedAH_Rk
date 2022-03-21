@@ -2,45 +2,45 @@
 title = "Rig Veda 8.3.13"
 
 +++
--   *kan* \< *kad* \< *ka*
+-   *kan* ← *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *navyo* \< *navyaḥ* \< *navyas*
+- *navyo* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *atasīnāṃ* \< *atasīnām* \< *atasi*
+- *atasīnāṃ* ← *atasīnām* ← *atasi*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *turo* \< *turaḥ* \< *tura*
+- *turo* ← *turaḥ* ← *tura*
 - \[noun\], nominative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *gṛṇīta* \< *gṛ*
+- *gṛṇīta* ← *gṛ*
 - \[verb\], singular, Present optative
 - “praise.”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *nahī* \< *nahi*
+- *nahī* ← *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahimānam* \< *mahiman*
+- *mahimānam* ← *mahiman*
 - \[noun\], accusative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, masculine
 - “aindra.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 8.3.13"
 - \[noun\], accusative, singular, neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *gṛṇanta* \< *gṛṇantaḥ* \< *gṛ*
+- *gṛṇanta* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *ānaśuḥ* \< *aś*
+- *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

@@ -2,31 +2,31 @@
 title = "Rig Veda 3.17.5"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvaddhotā* \< *tvat* \< *tvad*
+- *tvaddhotā* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvaddhotā* \< *hotā* \< *hotṛ*
+- *tvaddhotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *pūrvo* \< *pūrvaḥ* \< *pūrva*
+- *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yajīyān* \< *yajīyas*
+- *yajīyān* ← *yajīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *dvitā*
@@ -37,10 +37,10 @@ title = "Rig Veda 3.17.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sattā* \< *sattṛ*
+- *sattā* ← *sattṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
@@ -49,21 +49,21 @@ title = "Rig Veda 3.17.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śambhuḥ* \< *śambhu*
+- *śambhuḥ* ← *śambhu*
 - \[noun\], nominative, singular, masculine
 - “kind; benevolent.”
 ------------------------------------------------------------------------
-- *tasyānu* \< *tasya* \< *tad*
+- *tasyānu* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tasyānu* \< *anu*
+- *tasyānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dharma* \< *dharman*
+- *dharma* ← *dharman*
 - \[noun\], accusative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
@@ -71,36 +71,36 @@ title = "Rig Veda 3.17.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajā* \< *yaj*
+- *yajā* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *cikitvo* \< *cikitvaḥ* \< *cit*
+- *cikitvo* ← *cikitvaḥ* ← *cit*
 - \[verb noun\], vocative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *'tha* \< *atha*
+- *'tha* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *devavītau* \< *deva*
+- *devavītau* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītau* \< *vītau* \< *vīti*
+- *devavītau* ← *vītau* ← *vīti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------

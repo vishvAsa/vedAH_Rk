@@ -2,7 +2,7 @@
 title = "Rig Veda 7.19.2"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 7.19.2"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
@@ -19,57 +19,57 @@ title = "Rig Veda 7.19.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kutsam* \< *kutsa*
+- *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *āvaḥ* \< *av*
+- *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *śuśrūṣamāṇas* \< *śuśrūṣamāṇaḥ* \< *śuśrūṣ*
+- *śuśrūṣamāṇas* ← *śuśrūṣamāṇaḥ* ← *śuśrūṣ*
 - \[verb noun\], nominative, singular
 - “obey; heed.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *samarye* \< *samarya*
+- *samarye* ← *samarya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *dāsaṃ* \< *dāsam* \< *dāsa*
+- *dāsaṃ* ← *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *yacchuṣṇaṃ* \< *yat*
+- *yacchuṣṇaṃ* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchuṣṇaṃ* \< *śuṣṇam* \< *śuṣṇa*
+- *yacchuṣṇaṃ* ← *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *kuyavaṃ* \< *kuyavam* \< *kuyava*
+- *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *arandhaya* \< *arandhayaḥ* \< *randhay* \< *√radh*
+- *arandhaya* ← *arandhayaḥ* ← *randhay* ← *√radh*
 - \[verb\], singular, Imperfect
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *ārjuneyāya* \< *ārjuneya*
+- *ārjuneyāya* ← *ārjuneya*
 - \[noun\], dative, singular, masculine
 - “Kutsa.”
 ------------------------------------------------------------------------
-- *śikṣan* \< *śikṣ*
+- *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
 ------------------------------------------------------------------------

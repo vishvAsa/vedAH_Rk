@@ -2,22 +2,22 @@
 title = "Rig Veda 6.24.10"
 
 +++
--   *sacasva* \< *sac*
+-   *sacasva* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *nāyam* \< *nāya*
+- *nāyam* ← *nāya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *avase* \< *avas*
+- *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *abhīka* \< *abhīke* \< *abhīka*
+- *abhīka* ← *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *ito* \< *itas*
+- *ito* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 6.24.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -36,11 +36,11 @@ title = "Rig Veda 6.24.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *riṣaḥ* \< *riṣ*
+- *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
 ------------------------------------------------------------------------
@@ -48,44 +48,44 @@ title = "Rig Veda 6.24.10"
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *cainam* \< *ca*
+- *cainam* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cainam* \< *enam* \< *enad*
+- *cainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *araṇye* \< *araṇya*
+- *araṇye* ← *araṇya*
 - \[noun\], locative, singular, neuter
 - “forest; araṇya \[word\]; wilderness.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *riṣo* \< *riṣaḥ* \< *riṣ*
+- *riṣo* ← *riṣaḥ* ← *riṣ*
 - \[noun\], ablative, singular, feminine
 - “injury; riṣ; damage.”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *śatahimāḥ* \< *śata*
+- *śatahimāḥ* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatahimāḥ* \< *himāḥ* \< *hima*
+- *śatahimāḥ* ← *himāḥ* ← *hima*
 - \[noun\], nominative, plural, masculine
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *su*
+- *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

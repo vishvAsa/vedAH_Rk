@@ -2,15 +2,15 @@
 title = "Rig Veda 10.147.3"
 
 +++
--   *aiṣu* \< *ā*
+-   *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣu* \< *eṣu* \< *idam*
+- *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cākandhi* \< *kan*
+- *cākandhi* ← *kan*
 - \[verb\], singular, Perfect imperative
 - “like; delight; desire.”
 ------------------------------------------------------------------------
@@ -18,57 +18,57 @@ title = "Rig Veda 10.147.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *sūriṣu* \< *sūri*
+- *sūriṣu* ← *sūri*
 - \[noun\], locative, plural, masculine
 - “guru.”
 ------------------------------------------------------------------------
-- *vṛdhāso* \< *vṛdhāsaḥ* \< *vṛdha*
+- *vṛdhāso* ← *vṛdhāsaḥ* ← *vṛdha*
 - \[noun\], nominative, plural, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *maghavann* \< *maghavan*
+- *maghavann* ← *maghavan*
 - \[noun\], locative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *ānaśur* \< *ānaśuḥ* \< *aś*
+- *ānaśur* ← *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *magham* \< *magha*
+- *magham* ← *magha*
 - \[noun\], accusative, singular, masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *arcanti* \< *arc*
+- *arcanti* ← *arc*
 - \[verb\], plural, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *toke* \< *toka*
+- *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *pariṣṭiṣu* \< *pariṣṭi*
+- *pariṣṭiṣu* ← *pariṣṭi*
 - \[noun\], locative, plural, feminine
 - “trouble; dilemma.”
 ------------------------------------------------------------------------
-- *medhasātā* \< *medhasāti*
+- *medhasātā* ← *medhasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *ahraye* \< *ahraya*
+- *ahraye* ← *ahraya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *dhane* \< *dhana*
+- *dhane* ← *dhana*
 - \[noun\], locative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”

@@ -2,28 +2,28 @@
 title = "Rig Veda 7.1.18"
 
 +++
--   *imo* \< *imā* \< *idam*
+-   *imo* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *imo* \< *u*
+- *imo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vītatamāni* \< *vītatama*
+- *vītatamāni* ← *vītatama*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *havyājasro* \< *havyā* \< *havya*
+- *havyājasro* ← *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyājasro* \< *ajasraḥ* \< *ajasra*
+- *havyājasro* ← *ajasraḥ* \< *ajasra*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------

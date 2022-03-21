@@ -6,58 +6,58 @@ title = "Rig Veda 3.16.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *'mataye* \< *amataye* \< *amati*
+- *'mataye* ← *amataye* ← *amati*
 - \[noun\], dative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *māvīratāyai* \< *mā*
+- *māvīratāyai* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māvīratāyai* \< *a*
+- *māvīratāyai* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *māvīratāyai* \< *vīra*
+- *māvīratāyai* ← *vīra*
 - \[noun\], masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *māvīratāyai* \< *tāyai* \< *tā*
+- *māvīratāyai* ← *tāyai* ← *tā*
 - \[noun\], dative, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *rīradhaḥ* \< *radh*
+- *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *māgotāyai* \< *mā*
+- *māgotāyai* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māgotāyai* \< *a*
+- *māgotāyai* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *māgotāyai* \< *go*
+- *māgotāyai* ← *go*
 - \[noun\], masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *māgotāyai* \< *tāyai* \< *tā*
+- *māgotāyai* ← *tāyai* ← *tā*
 - \[noun\], dative, singular, feminine
 - “state; Lakshmi.”
 ------------------------------------------------------------------------
-- *sahasas* \< *sahas*
+- *sahasas* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 3.16.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *nide* \< *nid*
+- *nide* ← *nid*
 - \[noun\], dative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *'pa* \< *apa*
+- *'pa* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dveṣāṃsy* \< *dveṣāṃsi* \< *dveṣas*
+- *dveṣāṃsy* ← *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 3.16.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

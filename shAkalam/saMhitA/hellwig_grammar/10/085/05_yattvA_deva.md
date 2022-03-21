@@ -6,7 +6,7 @@ title = "Rig Veda 10.85.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,11 +15,11 @@ title = "Rig Veda 10.85.5"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *prapibanti* \< *prapā* \< *√pā*
+- *prapibanti* ← *prapā* ← *√pā*
 - \[verb\], plural, Present indikative
 - “drink.”
 ------------------------------------------------------------------------
-- *tata* \< *tatas*
+- *tata* ← *tatas*
 - \[adverb\]
 - “then; therefore; now; then; from there; subsequently; consequently;
     then; there; from that; for that reason; alternatively;
@@ -29,37 +29,37 @@ title = "Rig Veda 10.85.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pyāyase* \< *pyā*
+- *pyāyase* ← *pyā*
 - \[verb\], singular, Present indikative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *vāyuḥ* \< *vāyu*
+- *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rakṣitā* \< *rakṣitṛ*
+- *rakṣitā* ← *rakṣitṛ*
 - \[noun\], nominative, singular, masculine
 - “protecting.”
 ------------------------------------------------------------------------
-- *samānām* \< *samā*
+- *samānām* ← *samā*
 - \[noun\], genitive, plural, feminine
 - “year; samā \[word\]; Devi.”
 ------------------------------------------------------------------------
-- *māsa* \< *māsaḥ* \< *māsa*
+- *māsa* ← *māsaḥ* ← *māsa*
 - \[noun\], nominative, singular, masculine
 - “month; lunar month; māsa \[word\].”
 ------------------------------------------------------------------------
-- *ākṛtiḥ* \< *ākṛti*
+- *ākṛtiḥ* ← *ākṛti*
 - \[noun\], nominative, singular, feminine
 - “form; appearance; symptom; shape; kind.”
 ------------------------------------------------------------------------

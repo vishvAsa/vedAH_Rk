@@ -6,39 +6,39 @@ title = "Rig Veda 8.5.16"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *narāḥ* \< *nara*
+- *narā* ← *narāḥ* ← *nara*
 - \[noun\], nominative, plural, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *vihvayante* \< *vihvā* \< *√hvā*
+- *vihvayante* ← *vihvā* ← *√hvā*
 - \[verb\], plural, Present indikative
 - “raise; compete.”
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------
-- *vāghadbhir* \< *vāghadbhiḥ* \< *vāghant*
+- *vāghadbhir* ← *vāghadbhiḥ* ← *vāghant*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

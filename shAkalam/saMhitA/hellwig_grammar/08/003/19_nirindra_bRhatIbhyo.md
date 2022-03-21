@@ -2,7 +2,7 @@
 title = "Rig Veda 8.3.19"
 
 +++
--   *nir* \< *niḥ*
+-   *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
@@ -11,35 +11,35 @@ title = "Rig Veda 8.3.19"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bṛhatībhyo* \< *bṛhatībhyaḥ* \< *bṛhat*
+- *bṛhatībhyo* ← *bṛhatībhyaḥ* ← *bṛhat*
 - \[noun\], ablative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *dhanubhyo* \< *dhanubhyaḥ* \< *dhanū*
+- *dhanubhyo* ← *dhanubhyaḥ* ← *dhanū*
 - \[noun\], ablative, plural, feminine
 - “sandbank.”
 ------------------------------------------------------------------------
-- *asphuraḥ* \< *sphur*
+- *asphuraḥ* ← *sphur*
 - \[verb\], singular, Imperfect
 - “glitter; bounce; quiver; pulsate.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *arbudasya* \< *arbuda*
+- *arbudasya* ← *arbuda*
 - \[noun\], genitive, singular, masculine
 - “Arbuda; Arbuda; Arbuda.”
 ------------------------------------------------------------------------
-- *mṛgayasya* \< *mṛgaya*
+- *mṛgayasya* ← *mṛgaya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *māyino* \< *māyinaḥ* \< *māyin*
+- *māyino* ← *māyinaḥ* ← *māyin*
 - \[noun\], genitive, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
@@ -47,17 +47,17 @@ title = "Rig Veda 8.3.19"
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *parvatasya* \< *parvata*
+- *parvatasya* ← *parvata*
 - \[noun\], genitive, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ājaḥ* \< *aj*
+- *ājaḥ* ← *aj*
 - \[verb\], singular, Imperfect
 - “drive; expel.”
 ------------------------------------------------------------------------

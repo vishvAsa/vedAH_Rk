@@ -2,42 +2,42 @@
 title = "Rig Veda 3.6.9"
 
 +++
--   *aibhir* \< *ā*
+-   *aibhir* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aibhir* \< *ebhiḥ* \< *idam*
+- *aibhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *nānārathaṃ* \< *nānā*
+- *nānārathaṃ* ← *nānā*
 - \[adverb\]
 - “variously; differently; many; individually.”
 ------------------------------------------------------------------------
-- *nānārathaṃ* \< *ratham* \< *ratha*
+- *nānārathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -45,26 +45,26 @@ title = "Rig Veda 3.6.9"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vibhavo* \< *vibhavaḥ* \< *vibhu*
+- *vibhavo* ← *vibhavaḥ* ← *vibhu*
 - \[noun\], nominative, plural, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *aśvāḥ* \< *aśva*
+- *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *patnīvatas* \< *patnīvataḥ* \< *patnīvat*
+- *patnīvatas* ← *patnīvataḥ* ← *patnīvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *triṃśataṃ* \< *triṃśatam* \< *triṃśat*
+- *triṃśataṃ* ← *triṃśatam* ← *triṃśat*
 - \[noun\], accusative, singular, feminine
 - “thirty; triṃśat \[word\].”
 ------------------------------------------------------------------------
-- *trīṃś* \< *trīn* \< *tri*
+- *trīṃś* ← *trīn* ← *tri*
 - \[noun\], accusative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 3.6.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -84,12 +84,12 @@ title = "Rig Veda 3.6.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *mādayasva* \< *māday* \< *√mad*
+- *mādayasva* ← *māday* ← *√mad*
 - \[verb\], singular, Present imperative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------

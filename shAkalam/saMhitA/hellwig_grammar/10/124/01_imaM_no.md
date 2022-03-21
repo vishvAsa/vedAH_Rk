@@ -2,15 +2,15 @@
 title = "Rig Veda 10.124.1"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -20,27 +20,27 @@ title = "Rig Veda 10.124.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ehi* \< *e* \< *√i*
+- *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *pañcayāmaṃ* \< *pañca* \< *pañcan*
+- *pañcayāmaṃ* ← *pañca* ← *pañcan*
 - \[noun\]
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *pañcayāmaṃ* \< *yāmam* \< *yāma*
+- *pañcayāmaṃ* ← *yāmam* ← *yāma*
 - \[noun\], accusative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *trivṛtaṃ* \< *trivṛtam* \< *trivṛt*
+- *trivṛtaṃ* ← *trivṛtam* ← *trivṛt*
 - \[noun\], accusative, singular, masculine
 - “treble.”
 ------------------------------------------------------------------------
-- *saptatantum* \< *sapta* \< *saptan*
+- *saptatantum* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 9.6.9"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *indrayur* \< *indrayuḥ* \< *indrayu*
+- *indrayur* ← *indrayuḥ* ← *indrayu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *madam* \< *mada*
+- *madam* ← *mada*
 - \[noun\], accusative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
@@ -23,7 +23,7 @@ title = "Rig Veda 9.6.9"
 - *madiṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *vītaye* \< *vī*
+- *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
@@ -31,16 +31,16 @@ title = "Rig Veda 9.6.9"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dadhiṣe* \< *dhā*
+- *dadhiṣe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

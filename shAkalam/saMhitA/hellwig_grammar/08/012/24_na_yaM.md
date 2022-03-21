@@ -6,30 +6,30 @@ title = "Rig Veda 8.12.24"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vivikto* \< *viviktaḥ* \< *vyac*
+- *vivikto* ← *viviktaḥ* ← *vyac*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
 - *rodasī*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *nāntarikṣāṇi* \< *na*
+- *nāntarikṣāṇi* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāntarikṣāṇi* \< *antarikṣāṇi* \< *antarikṣa*
+- *nāntarikṣāṇi* ← *antarikṣāṇi* ← *antarikṣa*
 - \[noun\], nominative, plural, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *vajriṇam* \< *vajrin*
+- *vajriṇam* ← *vajrin*
 - \[noun\], accusative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *amād* \< *amāt* \< *ama*
+- *amād* ← *amāt* ← *ama*
 - \[noun\], ablative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
@@ -37,18 +37,18 @@ title = "Rig Veda 8.12.24"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *titviṣe* \< *tviṣ*
+- *titviṣe* ← *tviṣ*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
 - *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ojasaḥ* \< *ojas*
+- *ojasaḥ* ← *ojas*
 - \[noun\], ablative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

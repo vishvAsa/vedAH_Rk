@@ -2,7 +2,7 @@
 title = "Rig Veda 4.31.13"
 
 +++
--   *asmabhyaṃ* \< *asmabhyam* \< *mad*
+-   *asmabhyaṃ* ← *asmabhyam* \< *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

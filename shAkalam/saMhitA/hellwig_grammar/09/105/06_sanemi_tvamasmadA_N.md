@@ -5,34 +5,34 @@ title = "Rig Veda 9.105.6"
 -   *sanemi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *adevaṃ* \< *adevam* \< *adeva*
+- *adevaṃ* ← *adevam* ← *adeva*
 - \[noun\], accusative, singular, masculine
 - “godless.”
 ------------------------------------------------------------------------
-- *kaṃcid* \< *kaścit*
+- *kaṃcid* ← *kaścit*
 - \[noun\], accusative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *atriṇam* \< *atrin*
+- *atriṇam* ← *atrin*
 - \[noun\], accusative, singular, masculine
 - “Atrin; eater.”
 ------------------------------------------------------------------------
-- *sāhvāṃ* \< *sah*
+- *sāhvāṃ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -41,7 +41,7 @@ title = "Rig Veda 9.105.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *bādho* \< *bādhaḥ* \< *bādh*
+- *bādho* ← *bādhaḥ* ← *bādh*
 - \[verb\], singular, Present injunctive
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
@@ -49,6 +49,6 @@ title = "Rig Veda 9.105.6"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dvayum* \< *dvayu*
+- *dvayum* ← *dvayu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

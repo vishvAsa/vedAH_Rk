@@ -10,18 +10,18 @@ title = "Rig Veda 9.7.2"
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *agriyo* \< *agriyaḥ* \< *agriya*
+- *agriyo* ← *agriyaḥ* ← *agriya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], accusative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -29,18 +29,18 @@ title = "Rig Veda 9.7.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *gāhate* \< *gāh*
+- *gāhate* ← *gāh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *havir* \< *haviḥ* \< *havis*
+- *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *haviṣṣu* \< *haviḥṣu* \< *havis*
+- *haviṣṣu* ← *haviḥṣu* ← *havis*
 - \[noun\], locative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vandyaḥ* \< *vand*
+- *vandyaḥ* ← *vand*
 - \[verb noun\], nominative, singular
 - “worship; laud.”
 ------------------------------------------------------------------------

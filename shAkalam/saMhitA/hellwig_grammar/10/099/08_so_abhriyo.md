@@ -2,13 +2,13 @@
 title = "Rig Veda 10.99.8"
 
 +++
--   *so* \< *saḥ* \< *tad*
+-   *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhriyo* \< *abhriyaḥ* \< *abhriya*
+- *abhriyo* ← *abhriyaḥ* ← *abhriya*
 - \[noun\], nominative, singular, masculine
 - “cumulonimbus.”
 ------------------------------------------------------------------------
@@ -16,31 +16,31 @@ title = "Rig Veda 10.99.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavasa* \< *yavase* \< *yavasa*
+- *yavasa* ← *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *udanyan* \< *udany*
+- *udanyan* ← *udany*
 - \[verb noun\], nominative, singular
 - “pour.”
 ------------------------------------------------------------------------
-- *kṣayāya* \< *kṣaya*
+- *kṣayāya* ← *kṣaya*
 - \[noun\], dative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *gātuṃ* \< *gātum* \< *gā*
+- *gātuṃ* ← *gātum* ← *gā*
 - \[verb noun\]
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *vidan* \< *vidat* \< *vid*
+- *vidan* ← *vidat* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -52,34 +52,34 @@ title = "Rig Veda 10.99.8"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sīdad* \< *sīdat* \< *sad*
+- *sīdad* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *induṃ* \< *indum* \< *indu*
+- *induṃ* ← *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *śarīraiḥ* \< *śarīra*
+- *śarīraiḥ* ← *śarīra*
 - \[noun\], instrumental, plural, neuter
 - “body; human body; body part; body; body; strength.”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *'yopāṣṭir* \< *ayopāṣṭiḥ* \< *ayopāṣṭi*
+- *'yopāṣṭir* ← *ayopāṣṭiḥ* ← *ayopāṣṭi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------

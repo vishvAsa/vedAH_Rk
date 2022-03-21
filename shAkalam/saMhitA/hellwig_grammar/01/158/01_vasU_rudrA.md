@@ -2,42 +2,42 @@
 title = "Rig Veda 1.158.1"
 
 +++
--   *vasū* \< *vasu*
+-   *vasū* ← *vasu*
 - \[noun\], nominative, dual, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudra*
+- *rudrā* ← *rudra*
 - \[noun\], nominative, dual, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *purumantū* \< *puru*
+- *purumantū* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumantū* \< *mantū* \< *mantu*
+- *purumantū* ← *mantū* ← *mantu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *vṛdhantā* \< *vṛdh*
+- *vṛdhantā* ← *vṛdh*
 - \[verb noun\], nominative, dual
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *daśasyataṃ* \< *daśasyatam* \< *daśasy*
+- *daśasyataṃ* ← *daśasyatam* ← *daśasy*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛṣaṇāv* \< *vṛṣaṇau* \< *vṛṣan*
+- *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -45,19 +45,19 @@ title = "Rig Veda 1.158.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *rekṇa* \< *rekṇaḥ* \< *rekṇas*
+- *rekṇa* ← *rekṇaḥ* ← *rekṇas*
 - \[noun\], accusative, singular, neuter
 - “property; wealth; bequest; inheritance.”
 ------------------------------------------------------------------------
-- *aucathyo* \< *aucathyaḥ* \< *aucathya*
+- *aucathyo* ← *aucathyaḥ* ← *aucathya*
 - \[noun\], nominative, singular, masculine
 - “Dīrghatamas.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 1.158.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sasrāthe* \< *sṛ*
+- *sasrāthe* ← *sṛ*
 - \[verb\], dual, Perfect indicative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *akavābhir* \< *akavābhiḥ* \< *akava*
+- *akavābhir* ← *akavābhiḥ* ← *akava*
 - \[noun\], instrumental, plural, feminine
 - “perfect.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 1.91.15"
 
 +++
--   *uruṣyā* \< *uruṣy*
+-   *uruṣyā* ← *uruṣy*
 - \[verb\], singular, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *ṇo* \< *ṇaḥ* \< *mad*
+- *ṇo* ← *ṇaḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhiśasteḥ* \< *abhiśasti*
+- *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], ablative, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
@@ -22,32 +22,32 @@ title = "Rig Veda 1.91.15"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pāhy* \< *pāhi* \< *pā*
+- *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *aṃhasaḥ* \< *aṃhas*
+- *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *suśeva* \< *su*
+- *suśeva* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśeva* \< *śevaḥ* \< *śeva*
+- *suśeva* ← *śevaḥ* ← *śeva*
 - \[noun\], nominative, singular, masculine
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *edhi* \< *as*
+- *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

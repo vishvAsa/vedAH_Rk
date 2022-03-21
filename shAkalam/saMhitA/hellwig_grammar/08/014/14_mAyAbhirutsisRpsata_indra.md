@@ -2,12 +2,12 @@
 title = "Rig Veda 8.14.14"
 
 +++
--   *māyābhir* \< *māyābhiḥ* \< *māyā*
+-   *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *utsisṛpsata* \< *utsisṛpsataḥ* \< *utsisṛps* \< *√sṛp*
+- *utsisṛpsata* ← *utsisṛpsataḥ* ← *utsisṛps* ← *√sṛp*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *indra*
@@ -15,22 +15,22 @@ title = "Rig Veda 8.14.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ārurukṣataḥ* \< *ārurukṣ* \< *√ruh*
+- *ārurukṣataḥ* ← *ārurukṣ* ← *√ruh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyu*
+- *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *adhūnuthāḥ* \< *dhū*
+- *adhūnuthāḥ* ← *dhū*
 - \[verb\], singular, Imperfect
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------

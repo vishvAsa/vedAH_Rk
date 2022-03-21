@@ -2,85 +2,85 @@
 title = "Rig Veda 4.1.11"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jāyata* \< *jan*
+- *jāyata* ← *jan*
 - \[verb\], singular, Present injunctive
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *pastyāsu* \< *pastyā*
+- *pastyāsu* ← *pastyā*
 - \[noun\], locative, plural, feminine
 - “river; dwelling.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *budhne* \< *budhna*
+- *budhne* ← *budhna*
 - \[noun\], locative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *apād* \< *a*
+- *apād* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apād* \< *pād*
+- *apād* ← *pād*
 - \[noun\], nominative, singular, masculine
 - “pād \[word\]; foot.”
 ------------------------------------------------------------------------
-- *aśīrṣā* \< *a*
+- *aśīrṣā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aśīrṣā* \< *śīrṣā* \< *śīrṣan*
+- *aśīrṣā* ← *śīrṣā* ← *śīrṣan*
 - \[noun\], nominative, singular, masculine
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *guhamāno* \< *guhamānaḥ* \< *guh*
+- *guhamāno* ← *guhamānaḥ* ← *guh*
 - \[verb noun\], nominative, singular
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
-- *antāyoyuvāno* \< *antāḥ* \< *anta*
+- *antāyoyuvāno* ← *antāḥ* ← *anta*
 - \[noun\], accusative, plural, masculine
 - “end; last syllable; end; end; boundary; inside; border; death; anta
     \[word\]; edge; end; shore; limit; region; outskirt; destruction;
     boundary; limit; anta; termination; corner; conclusion; hem; end;
     ant; edge.”
 ------------------------------------------------------------------------
-- *antāyoyuvāno* \< *yoyuvānaḥ* \< *yoyu* \< *√yu*
+- *antāyoyuvāno* ← *yoyuvānaḥ* ← *yoyu* ← *√yu*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *vṛṣabhasya* \< *vṛṣabha*
+- *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *nīﾱe* \< *nīḍa*
+- *nīﾱe* ← *nīḍa*
 - \[noun\], locative, singular, masculine
 - “nest; seat; seat.”
 ------------------------------------------------------------------------

@@ -2,20 +2,20 @@
 title = "Rig Veda 1.119.7"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vandanaṃ* \< *vandanam* \< *vandana*
+- *vandanaṃ* ← *vandanam* ← *vandana*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nirṛtaṃ* \< *nirṛtam* \< *nirṛta*
+- *nirṛtaṃ* ← *nirṛtam* ← *nirṛta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jaraṇyayā* \< *jaraṇyā*
+- *jaraṇyayā* ← *jaraṇyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 1.119.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], nominative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *karaṇā* \< *karaṇa*
+- *karaṇā* ← *karaṇa*
 - \[noun\], nominative, dual, masculine
 - “causing; making.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 1.119.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *invathaḥ* \< *inv*
+- *invathaḥ* ← *inv*
 - \[verb\], dual, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *kṣetrād* \< *kṣetrāt* \< *kṣetra*
+- *kṣetrād* ← *kṣetrāt* ← *kṣetra*
 - \[noun\], ablative, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
@@ -48,11 +48,11 @@ title = "Rig Veda 1.119.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *janatho* \< *janathaḥ* \< *jan*
+- *janatho* ← *janathaḥ* ← *jan*
 - \[verb\], dual, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -65,7 +65,7 @@ title = "Rig Veda 1.119.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 1.119.7"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
@@ -82,7 +82,7 @@ title = "Rig Veda 1.119.7"
 - \[noun\], nominative, singular, feminine
 - “wonder; power.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

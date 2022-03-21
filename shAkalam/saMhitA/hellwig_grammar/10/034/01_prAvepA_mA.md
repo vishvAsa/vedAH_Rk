@@ -2,59 +2,59 @@
 title = "Rig Veda 10.34.1"
 
 +++
--   *prāvepā* \< *prāvepāḥ* \< *prāvepa*
+-   *prāvepā* ← *prāvepāḥ* ← *prāvepa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bṛhato* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhato* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *mādayanti* \< *māday* \< *√mad*
+- *mādayanti* ← *māday* ← *√mad*
 - \[verb\], plural, Present indikative
 - “delight; enjoy; intoxicate.”
 ------------------------------------------------------------------------
-- *pravātejā* \< *pravātejāḥ* \< *pravātejā*
+- *pravātejā* ← *pravātejāḥ* ← *pravātejā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *iriṇe* \< *iriṇa*
+- *iriṇe* ← *iriṇa*
 - \[noun\], locative, singular, neuter
 - “hole; rivulet.”
 ------------------------------------------------------------------------
-- *varvṛtānāḥ* \< *varvṛt* \< *√vṛt*
+- *varvṛtānāḥ* ← *varvṛt* ← *√vṛt*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *somasyeva* \< *somasya* \< *soma*
+- *somasyeva* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyeva* \< *iva*
+- *somasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *maujavatasya* \< *maujavata*
+- *maujavatasya* ← *maujavata*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *bhakṣo* \< *bhakṣaḥ* \< *bhakṣa*
+- *bhakṣo* ← *bhakṣaḥ* ← *bhakṣa*
 - \[noun\], nominative, singular, masculine
 - “food; eating; drink; beverage.”
 ------------------------------------------------------------------------
-- *vibhīdako* \< *vibhīdakaḥ* \< *vibhīdaka*
+- *vibhīdako* ← *vibhīdakaḥ* ← *vibhīdaka*
 - \[noun\], nominative, singular, masculine
 - “dice.”
 ------------------------------------------------------------------------
-- *jāgṛvir* \< *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *mahyam* \< *mad*
+- *mahyam* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *acchān* \< *chand*
+- *acchān* ← *chand*
 - \[verb\], singular, Athematic s aor. (Ind.)
 ------------------------------------------------------------------------

@@ -2,26 +2,26 @@
 title = "Rig Veda 8.5.34"
 
 +++
--   *rathaṃ* \< *ratham* \< *ratha*
+-   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *anugāyasaṃ* \< *anugāyasam* \< *anugāyas*
+- *anugāyasaṃ* ← *anugāyasam* ← *anugāyas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *vartate* \< *vṛt*
+- *vartate* ← *vṛt*
 - \[verb\], singular, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
@@ -35,7 +35,7 @@ title = "Rig Veda 8.5.34"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *cakram* \< *cakra*
+- *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -44,7 +44,7 @@ title = "Rig Veda 8.5.34"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------

@@ -2,28 +2,28 @@
 title = "Rig Veda 3.31.19"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aṅgirasvan* \< *aṅgirasvat*
+- *aṅgirasvan* ← *aṅgirasvat*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *saparyan* \< *sapary*
+- *saparyan* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
 ------------------------------------------------------------------------
-- *navyaṃ* \< *navyam* \< *navya*
+- *navyaṃ* ← *navyam* ← *navya*
 - \[noun\], accusative, singular, masculine
 - “new; fresh.”
 ------------------------------------------------------------------------
-- *kṛṇomi* \< *kṛ*
+- *kṛṇomi* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,13 +34,13 @@ title = "Rig Veda 3.31.19"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sanyase* \< *sanyas*
+- *sanyase* ← *sanyas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *purājām* \< *purājā*
+- *purājām* ← *purājā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], accusative, plural, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
@@ -48,25 +48,25 @@ title = "Rig Veda 3.31.19"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *bahulā* \< *bahulāḥ* \< *bahula*
+- *bahulā* ← *bahulāḥ* ← *bahula*
 - \[noun\], accusative, plural, feminine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *adevīḥ* \< *a*
+- *adevīḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevīḥ* \< *devīḥ* \< *deva*
+- *adevīḥ* ← *devīḥ* ← *deva*
 - \[noun\], accusative, plural, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *svaś* \< *svar*
+- *svaś* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 3.31.19"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -82,11 +82,11 @@ title = "Rig Veda 3.31.19"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *sātaye* \< *sāti*
+- *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *dhāḥ* \< *dhā*
+- *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.150.1"
 
 +++
--   *samiddhaś* \< *samiddhaḥ* \< *samindh* \< *√indh*
+-   *samiddhaś* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -14,20 +14,20 @@ title = "Rig Veda 10.150.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhyase* \< *indh*
+- *idhyase* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *devebhyo* \< *devebhyaḥ* \< *deva*
+- *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *havyavāhana* \< *havya*
+- *havyavāhana* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyavāhana* \< *vāhana*
+- *havyavāhana* ← *vāhana*
 - \[noun\], vocative, singular, masculine
 - “bringing; carrying.”
 ------------------------------------------------------------------------

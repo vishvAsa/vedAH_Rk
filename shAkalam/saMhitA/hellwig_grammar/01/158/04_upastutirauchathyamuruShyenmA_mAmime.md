@@ -2,15 +2,15 @@
 title = "Rig Veda 1.158.4"
 
 +++
--   *upastutir* \< *upastutiḥ* \< *upastuti*
+-   *upastutir* ← *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
-- *aucathyam* \< *aucathya*
+- *aucathyam* ← *aucathya*
 - \[noun\], accusative, singular, masculine
 - “Dīrghatamas.”
 ------------------------------------------------------------------------
-- *uruṣyen* \< *uruṣyet* \< *uruṣy*
+- *uruṣyen* ← *uruṣyet* ← *uruṣy*
 - \[verb\], singular, Present optative
 - “protect; help.”
 ------------------------------------------------------------------------
@@ -18,15 +18,15 @@ title = "Rig Veda 1.158.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *patatriṇī* \< *patatrin*
+- *patatriṇī* ← *patatrin*
 - \[noun\], nominative, dual, neuter
 - “flying; winged.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 1.158.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dugdhām* \< *duh*
+- *dugdhām* ← *duh*
 - \[verb\], dual, Present imperative
 - “milk.”
 ------------------------------------------------------------------------
@@ -42,23 +42,23 @@ title = "Rig Veda 1.158.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *edho* \< *edhaḥ* \< *edha*
+- *edho* ← *edhaḥ* ← *edha*
 - \[noun\], nominative, singular, masculine
 - “fuel.”
 ------------------------------------------------------------------------
-- *daśatayaś* \< *daśatayaḥ* \< *daśataya*
+- *daśatayaś* ← *daśatayaḥ* ← *daśataya*
 - \[noun\], nominative, singular, masculine
 - “tenfold.”
 ------------------------------------------------------------------------
-- *cito* \< *citaḥ* \< *ci*
+- *cito* ← *citaḥ* ← *ci*
 - \[verb noun\], nominative, singular
 - “cover; accumulate; pile up; pick; cover.”
 ------------------------------------------------------------------------
-- *dhāk* \< *dah*
+- *dhāk* ← *dah*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
@@ -67,15 +67,15 @@ title = "Rig Veda 1.158.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *baddhas* \< *baddhaḥ* \< *bandh*
+- *baddhas* ← *baddhaḥ* ← *bandh*
 - \[verb noun\], nominative, singular
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -83,15 +83,15 @@ title = "Rig Veda 1.158.4"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *tmani* \< *tman*
+- *tmani* ← *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *khādati* \< *khād*
+- *khādati* ← *khād*
 - \[verb\], singular, Present indikative
 - “eat; chew; feed; consume; gnash; gulp; devour.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------

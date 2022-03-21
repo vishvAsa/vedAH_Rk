@@ -2,58 +2,58 @@
 title = "Rig Veda 5.51.8"
 
 +++
--   *sajūr* \< *sajūs*
+-   *sajūr* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *viśvebhir* \< *viśvebhiḥ* \< *viśva*
+- *viśvebhir* ← *viśvebhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *aśvibhyām* \< *aśvin*
+- *aśvibhyām* ← *aśvin*
 - \[noun\], instrumental, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣas*
+- *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sajūḥ* \< *sajūs*
+- *sajūḥ* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhy* \< *yāhi* \< *yā*
+- *yāhy* ← *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *atrivat* \< *atri*
+- *atrivat* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *atrivat* \< *vat*
+- *atrivat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *raṇa* \< *ran*
+- *raṇa* ← *ran*
 - \[verb\], singular, Present imperative
 - “rejoice.”
 ------------------------------------------------------------------------

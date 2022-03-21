@@ -2,7 +2,7 @@
 title = "Rig Veda 9.97.18"
 
 +++
--   *granthiṃ* \< *granthim* \< *granthi*
+-   *granthiṃ* ← *granthim* ← *granthi*
 - \[noun\], accusative, singular, masculine
 - “granthi; knot; knot; swelling; bulb.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 9.97.18"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *sā*
+- *ṣya* ← *sya* ← *sā*
 - \[verb\], singular, Present imperative
 - “tie.”
 ------------------------------------------------------------------------
-- *grathitam* \< *granth*
+- *grathitam* ← *granth*
 - \[verb noun\], accusative, singular
 - “knot; clot; dress.”
 ------------------------------------------------------------------------
-- *punāna* \< *punānaḥ* \< *pū*
+- *punāna* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *ṛjuṃ* \< *ṛjum* \< *ṛju*
+- *ṛjuṃ* ← *ṛjum* ← *ṛju*
 - \[noun\], accusative, singular, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 9.97.18"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gātuṃ* \< *gātum* \< *gātu*
+- *gātuṃ* ← *gātum* ← *gātu*
 - \[noun\], accusative, singular, masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *vṛjinaṃ* \< *vṛjinam* \< *vṛjina*
+- *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 9.97.18"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 9.97.18"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *krado* \< *kradaḥ* \< *krand*
+- *krado* ← *kradaḥ* ← *krand*
 - \[verb\], singular, Aorist inj. (proh.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
@@ -70,12 +70,12 @@ title = "Rig Veda 9.97.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sṛjāno* \< *sṛjānaḥ* \< *sṛj*
+- *sṛjāno* ← *sṛjānaḥ* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *maryo* \< *maryaḥ* \< *marya*
+- *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -84,10 +84,10 @@ title = "Rig Veda 9.97.18"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dhanva* \< *dhanv*
+- *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *pastyāvān* \< *pastyāvat*
+- *pastyāvān* ← *pastyāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

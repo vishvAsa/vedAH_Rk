@@ -2,38 +2,38 @@
 title = "Rig Veda 6.33.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *indrobhayāṃ* \< *indra*
+- *indrobhayāṃ* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrobhayāṃ* \< *ubhayān* \< *ubhaya*
+- *indrobhayāṃ* ← *ubhayān* ← *ubhaya*
 - \[noun\], accusative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *amitrān* \< *amitra*
+- *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *dāsā* \< *dāsa*
+- *dāsā* ← *dāsa*
 - \[noun\], accusative, plural, neuter
 - “dāsa(a).”
 ------------------------------------------------------------------------
-- *vṛtrāṇy* \< *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *āryā* \< *ārya*
+- *āryā* ← *ārya*
 - \[noun\], accusative, plural, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
@@ -46,23 +46,23 @@ title = "Rig Veda 6.33.3"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vadhīr* \< *vadhīḥ* \< *vadh*
+- *vadhīr* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *vaneva* \< *vanā* \< *vana*
+- *vaneva* ← *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *vaneva* \< *iva*
+- *vaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sudhitebhir* \< *sudhitebhiḥ* \< *sudhita*
+- *sudhitebhir* ← *sudhitebhiḥ* ← *sudhita*
 - \[noun\], instrumental, plural, masculine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *atkair* \< *atkaiḥ* \< *atka*
+- *atkair* ← *atkaiḥ* ← *atka*
 - \[noun\], instrumental, plural, masculine
 - “garment.”
 ------------------------------------------------------------------------
@@ -70,15 +70,15 @@ title = "Rig Veda 6.33.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *darṣi* \< *dṛ*
+- *darṣi* ← *dṛ*
 - \[verb\], singular, Present indikative
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *nṛṇāṃ* \< *nṛṇām* \< *nṛ*
+- *nṛṇāṃ* ← *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

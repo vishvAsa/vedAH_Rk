@@ -2,28 +2,28 @@
 title = "Rig Veda 1.56.6"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dharuṇaṃ* \< *dharuṇam* \< *dharuṇa*
+- *dharuṇaṃ* ← *dharuṇam* ← *dharuṇa*
 - \[noun\], accusative, singular, neuter
 - “prop; foundation.”
 ------------------------------------------------------------------------
-- *dhiṣa* \< *dhiṣe* \< *dhā*
+- *dhiṣa* ← *dhiṣe* ← *dhā*
 - \[verb\], singular, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -32,34 +32,34 @@ title = "Rig Veda 1.56.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sadaneṣu* \< *sadana*
+- *sadaneṣu* ← *sadana*
 - \[noun\], locative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *māhinaḥ* \< *māhina*
+- *māhinaḥ* ← *māhina*
 - \[noun\], nominative, singular, masculine
 - “mighty; large.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tva*
+- *tvaṃ* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *ariṇā* \< *ariṇāḥ* \< *ri*
+- *ariṇā* ← *ariṇāḥ* ← *ri*
 - \[verb\], singular, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *apo* \< *apaḥ* \< *ap*
+- *apo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 1.56.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛtrasya* \< *vṛtra*
+- *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
@@ -75,10 +75,10 @@ title = "Rig Veda 1.56.6"
 - \[adverb\]
 - “near.”
 ------------------------------------------------------------------------
-- *pāṣyārujaḥ* \< *pāṣyā* \< *pāṣya*
+- *pāṣyārujaḥ* ← *pāṣyā* ← *pāṣya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *pāṣyārujaḥ* \< *arujaḥ* \< *ruj*
+- *pāṣyārujaḥ* ← *arujaḥ* ← *ruj*
 - \[verb\], singular, Imperfect
 - “break; bend.”
 ------------------------------------------------------------------------

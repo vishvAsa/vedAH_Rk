@@ -2,30 +2,30 @@
 title = "Rig Veda 5.52.14"
 
 +++
--   *accha* \< *acchā*
+-   *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *ṛṣe* \< *ṛṣi*
+- *ṛṣe* ← *ṛṣi*
 - \[noun\], vocative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, masculine
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *gaṇaṃ* \< *gaṇam* \< *gaṇa*
+- *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *dānā* \< *dāna*
+- *dānā* ← *dāna*
 - \[noun\], instrumental, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 5.52.14"
 - \[noun\], nominative, singular, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -45,23 +45,23 @@ title = "Rig Veda 5.52.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *dhṛṣṇava* \< *dhṛṣṇavaḥ* \< *dhṛṣṇu*
+- *dhṛṣṇava* ← *dhṛṣṇavaḥ* ← *dhṛṣṇu*
 - \[noun\], nominative, plural, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *stutā* \< *stutāḥ* \< *stu*
+- *stutā* ← *stutāḥ* ← *stu*
 - \[verb noun\], nominative, plural
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *iṣaṇyata* \< *iṣaṇy*
+- *iṣaṇyata* ← *iṣaṇy*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 4.14.3"
 
 +++
--   *āvahanty* \< *āvahantī* \< *āvah* \< *√vah*
+-   *āvahanty* ← *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
 - “bring; marry; cause; run; perform; exude.”
 ------------------------------------------------------------------------
-- *aruṇīr* \< *aruṇīḥ* \< *aruṇī*
+- *aruṇīr* ← *aruṇīḥ* ← *aruṇī*
 - \[noun\], nominative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------

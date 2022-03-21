@@ -2,42 +2,42 @@
 title = "Rig Veda 1.20.4"
 
 +++
--   *yuvānā* \< *yuvan*
+-   *yuvānā* ← *yuvan*
 - \[noun\], accusative, dual, masculine
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], accusative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *satyamantrā* \< *satya*
+- *satyamantrā* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyamantrā* \< *mantrāḥ* \< *mantra*
+- *satyamantrā* ← *mantrāḥ* ← *mantra*
 - \[noun\], nominative, plural, masculine
 - “mantra; Mantra; consultation; advice; consultation; mantra
     \[word\]; speech; plan.”
 ------------------------------------------------------------------------
-- *ṛjūyavaḥ* \< *ṛjūyu*
+- *ṛjūyavaḥ* ← *ṛjūyu*
 - \[noun\], nominative, plural, masculine
 - “good.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *viṣṭy* \< *viṣṭī* \< *viṣṭi*
+- *viṣṭy* ← *viṣṭī* ← *viṣṭi*
 - \[noun\], instrumental, singular, feminine
 - “labor.”
 ------------------------------------------------------------------------
-- *akrata* \< *kṛ*
+- *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

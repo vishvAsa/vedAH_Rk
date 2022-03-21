@@ -2,7 +2,7 @@
 title = "Rig Veda 9.66.22"
 
 +++
--   *pavamāno* \< *pavamānaḥ* \< *pū*
+-   *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,23 +10,23 @@ title = "Rig Veda 9.66.22"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *sridho* \< *sridhaḥ* \< *sridh*
+- *sridho* ← *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
-- *'bhy* \< *abhi*
+- *'bhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
@@ -34,12 +34,12 @@ title = "Rig Veda 9.66.22"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśvadarśataḥ* \< *viśva*
+- *viśvadarśataḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadarśataḥ* \< *darśataḥ* \< *darśata*
+- *viśvadarśataḥ* ← *darśataḥ* ← *darśata*
 - \[noun\], nominative, singular, masculine
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------

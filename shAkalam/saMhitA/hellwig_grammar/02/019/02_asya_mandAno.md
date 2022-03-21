@@ -2,39 +2,39 @@
 title = "Rig Veda 2.19.2"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mandāno* \< *mandānaḥ* \< *mad*
+- *mandāno* ← *mandānaḥ* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *vajrahasto* \< *vajrahastaḥ* \< *vajrahasta*
+- *vajrahasto* ← *vajrahastaḥ* ← *vajrahasta*
 - \[noun\], nominative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *'him* \< *ahim* \< *ahi*
+- *'him* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *arṇovṛtaṃ* \< *arṇovṛtam* \< *arṇovṛt*
+- *arṇovṛtaṃ* ← *arṇovṛtam* ← *arṇovṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛścat* \< *vraśc*
+- *vṛścat* ← *vraśc*
 - \[verb\], singular, Present injunctive
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 2.19.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vayo* \< *vayaḥ* \< *vi*
+- *vayo* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 2.19.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svasarāṇy* \< *svasarāṇi* \< *svasara*
+- *svasarāṇy* ← *svasarāṇi* ← *svasara*
 - \[noun\], accusative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 2.19.2"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *prayāṃsi* \< *prayas*
+- *prayāṃsi* ← *prayas*
 - \[noun\], nominative, plural, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
@@ -70,11 +70,11 @@ title = "Rig Veda 2.19.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nadīnāṃ* \< *nadīnām* \< *nadī*
+- *nadīnāṃ* ← *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *cakramanta* \< *kram*
+- *cakramanta* ← *kram*
 - \[verb\], plural, Plusquamperfect
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------

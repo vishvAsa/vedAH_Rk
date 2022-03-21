@@ -2,7 +2,7 @@
 title = "Rig Veda 7.58.5"
 
 +++
--   *tāṃ* \< *tad*
+-   *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,27 +12,27 @@ title = "Rig Veda 7.58.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣo* \< *mīḍhuṣaḥ* \< *mīḍhvas*
+- *mīﾱhuṣo* ← *mīḍhuṣaḥ* ← *mīḍhvas*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vivāse* \< *vivās* \< *√van*
+- *vivāse* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *kuvin* \< *kuvid*
+- *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *naṃsante* \< *nam*
+- *naṃsante* ← *nam*
 - \[verb\], plural, Aorist conj./subj.
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 7.58.5"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -53,15 +53,15 @@ title = "Rig Veda 7.58.5"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *jihīﾱire* \< *jihīḍire* \< *hīḍ*
+- *jihīﾱire* ← *jihīḍire* ← *hīḍ*
 - \[verb\], plural, Perfect indicative
 - “anger; stew.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
@@ -69,21 +69,21 @@ title = "Rig Veda 7.58.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ena* \< *enaḥ* \< *enas*
+- *ena* ← *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *turāṇām* \< *tura*
+- *turāṇām* ← *tura*
 - \[noun\], genitive, plural, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------

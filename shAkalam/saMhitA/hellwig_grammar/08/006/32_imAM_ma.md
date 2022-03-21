@@ -2,11 +2,11 @@
 title = "Rig Veda 8.6.32"
 
 +++
--   *imām* \< *idam*
+-   *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,11 +15,11 @@ title = "Rig Veda 8.6.32"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suṣṭutiṃ* \< *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -32,11 +32,11 @@ title = "Rig Veda 8.6.32"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ava* \< *av*
+- *ava* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 8.6.32"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vardhayā* \< *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhayā* ← *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *matim* \< *mati*
+- *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

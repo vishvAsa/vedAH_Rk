@@ -2,33 +2,33 @@
 title = "Rig Veda 1.48.16"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāyā* \< *rai*
+- *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *bṛhatā* \< *bṛhat*
+- *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *viśvapeśasā* \< *viśva*
+- *viśvapeśasā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvapeśasā* \< *peśasā* \< *peśas*
+- *viśvapeśasā* ← *peśasā* ← *peśas*
 - \[noun\], instrumental, singular, masculine
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *mimikṣvā* \< *mikṣ*
+- *mimikṣvā* ← *mikṣ*
 - \[verb\], singular, Perfect imperative
 - “season.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 1.48.16"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *iḍābhir* \< *iḍābhiḥ* \< *iḍā*
+- *iḍābhir* ← *iḍābhiḥ* ← *iḍā*
 - \[noun\], instrumental, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
@@ -44,24 +44,24 @@ title = "Rig Veda 1.48.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *dyumnena* \< *dyumna*
+- *dyumnena* ← *dyumna*
 - \[noun\], instrumental, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *viśvaturoṣo* \< *viśva*
+- *viśvaturoṣo* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaturoṣo* \< *turā* \< *tura*
+- *viśvaturoṣo* ← *turā* ← *tura*
 - \[noun\], instrumental, singular, neuter
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *viśvaturoṣo* \< *uṣaḥ* \< *uṣas*
+- *viśvaturoṣo* ← *uṣaḥ* ← *uṣas*
 - \[noun\], vocative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -69,15 +69,15 @@ title = "Rig Veda 1.48.16"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vājair* \< *vājaiḥ* \< *vāja*
+- *vājair* ← *vājaiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājinīvati* \< *vājinīvat*
+- *vājinīvati* ← *vājinīvat*
 - \[noun\], vocative, singular, feminine
 - “rich; rich in horses.”
 ------------------------------------------------------------------------

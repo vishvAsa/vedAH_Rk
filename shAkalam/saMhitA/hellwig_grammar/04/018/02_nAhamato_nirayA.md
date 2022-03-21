@@ -2,67 +2,67 @@
 title = "Rig Veda 4.18.2"
 
 +++
--   *nāham* \< *na*
+-   *nāham* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāham* \< *aham* \< *mad*
+- *nāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ato* \< *atas*
+- *ato* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *ayā* \< *i*
+- *ayā* ← *i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *durgahaitat* \< *durgahā* \< *durgaha*
+- *durgahaitat* ← *durgahā* ← *durgaha*
 - \[noun\], nominative, plural, neuter
 - “danger; abyss; wilderness.”
 ------------------------------------------------------------------------
-- *durgahaitat* \< *etat* \< *etad*
+- *durgahaitat* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
 - *tiraścatā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pārśvān* \< *pārśvāt* \< *pārśva*
+- *pārśvān* ← *pārśvāt* ← *pārśva*
 - \[noun\], ablative, singular, neuter
 - “side; flank; side; flank; margin; side; proximity; knife.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *gamāṇi* \< *gamāni* \< *gam*
+- *gamāṇi* ← *gamāni* ← *gam*
 - \[verb\], singular, Aorist conj./subj.
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *bahūni* \< *bahu*
+- *bahūni* ← *bahu*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); bahu \[word\]; abundant; long; large; abounding
     in(p); perennial.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *akṛtā* \< *a*
+- *akṛtā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akṛtā* \< *kṛtā* \< *kṛ*
+- *akṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,7 +73,7 @@ title = "Rig Veda 4.18.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kartvāni* \< *kṛ*
+- *kartvāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -84,19 +84,19 @@ title = "Rig Veda 4.18.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yudhyai* \< *yudh*
+- *yudhyai* ← *yudh*
 - \[verb\], singular, Present imperative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *tvena* \< *tva*
+- *tvena* ← *tva*
 - \[noun\], instrumental, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *tvena* \< *tva*
+- *tvena* ← *tva*
 - \[noun\], instrumental, singular, masculine
 - “many a(a); one.”
 ------------------------------------------------------------------------

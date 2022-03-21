@@ -6,24 +6,24 @@ title = "Rig Veda 2.34.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *samanyavo* \< *samanyavaḥ* \< *samanyu*
+- *samanyavo* ← *samanyavaḥ* ← *samanyu*
 - \[noun\], nominative, plural, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
-- *narāṃ* \< *narām* \< *nṛ*
+- *narāṃ* ← *narām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -31,22 +31,22 @@ title = "Rig Veda 2.34.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śaṃsaḥ* \< *śaṃsa*
+- *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *savanāni* \< *savana*
+- *savanāni* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *gantana* \< *gam*
+- *gantana* ← *gam*
 - \[verb\], plural, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *aśvām* \< *aśvā*
+- *aśvām* ← *aśvā*
 - \[noun\], accusative, singular, feminine
 - “mare.”
 ------------------------------------------------------------------------
@@ -54,19 +54,19 @@ title = "Rig Veda 2.34.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pipyata* \< *pyā*
+- *pipyata* ← *pyā*
 - \[verb\], plural, Perfect imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *ūdhani* \< *ūdhas*
+- *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *kartā* \< *kṛ*
+- *kartā* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -77,20 +77,20 @@ title = "Rig Veda 2.34.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vājapeśasam* \< *vāja*
+- *vājapeśasam* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājapeśasam* \< *peśasam* \< *peśas*
+- *vājapeśasam* ← *peśasam* ← *peśas*
 - \[noun\], accusative, singular, feminine
 - “decoration; shape.”
 ------------------------------------------------------------------------

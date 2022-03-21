@@ -2,20 +2,20 @@
 title = "Rig Veda 10.137.2"
 
 +++
--   *dvāv* \< *dvau* \< *dvi*
+-   *dvāv* ← *dvau* ← *dvi*
 - \[noun\], nominative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *imau* \< *idam*
+- *imau* ← *idam*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vātau* \< *vāta*
+- *vātau* ← *vāta*
 - \[noun\], nominative, dual, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vāta* \< *vātaḥ* \< *vā*
+- *vāta* ← *vātaḥ* ← *vā*
 - \[verb\], dual, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 10.137.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], ablative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -31,50 +31,50 @@ title = "Rig Veda 10.137.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *parāvataḥ* \< *parāvat*
+- *parāvataḥ* ← *parāvat*
 - \[noun\], accusative, plural, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *dakṣaṃ* \< *dakṣam* \< *dakṣa*
+- *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *anya* \< *anyaḥ* \< *anya*
+- *anya* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *ā* \< *āḥ* \< *as*
+- *ā* ← *āḥ* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vātu* \< *vā*
+- *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *parānyo* \< *parā*
+- *parānyo* ← *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *parānyo* \< *anyaḥ* \< *anya*
+- *parānyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *vātu* \< *vā*
+- *vātu* ← *vā*
 - \[verb\], singular, Present imperative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rapaḥ* \< *rapas*
+- *rapaḥ* ← *rapas*
 - \[noun\], nominative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------

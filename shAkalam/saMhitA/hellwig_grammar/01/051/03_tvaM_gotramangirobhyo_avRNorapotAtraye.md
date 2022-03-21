@@ -2,84 +2,84 @@
 title = "Rig Veda 1.51.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gotram* \< *gotra*
+- *gotram* ← *gotra*
 - \[noun\], accusative, singular, neuter
 - “Gotra; patronymic; gotra \[word\]; name; family; family; kin;
     Gotra; mountain; herd; cow pen; cowbarn.”
 ------------------------------------------------------------------------
-- *aṅgirobhyo* \< *aṅgirobhyaḥ* \< *aṅgiras*
+- *aṅgirobhyo* ← *aṅgirobhyaḥ* ← *aṅgiras*
 - \[noun\], dative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *'vṛṇor* \< *avṛṇoḥ* \< *vṛ*
+- *'vṛṇor* ← *avṛṇoḥ* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *apotātraye* \< *apa*
+- *apotātraye* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apotātraye* \< *uta*
+- *apotātraye* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *apotātraye* \< *atraye* \< *atri*
+- *apotātraye* ← *atraye* ← *atri*
 - \[noun\], dative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *śatadureṣu* \< *śata*
+- *śatadureṣu* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadureṣu* \< *dureṣu* \< *dura*
+- *śatadureṣu* ← *dureṣu* ← *dura*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *gātuvit* \< *gātu*
+- *gātuvit* ← *gātu*
 - \[noun\], masculine
 - “path; way.”
 ------------------------------------------------------------------------
-- *gātuvit* \< *vid*
+- *gātuvit* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *sasena* \< *sasa*
+- *sasena* ← *sasa*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vimadāyāvaho* \< *vimadāya* \< *vimada*
+- *vimadāyāvaho* ← *vimadāya* ← *vimada*
 - \[noun\], dative, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *vimadāyāvaho* \< *avahaḥ* \< *vah*
+- *vimadāyāvaho* ← *avahaḥ* ← *vah*
 - \[verb\], singular, Imperfect
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *vasv* \< *vasū* \< *vasu*
+- *vasv* ← *vasū* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ājāv* \< *ājau* \< *āji*
+- *ājāv* ← *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *adriṃ* \< *adrim* \< *adri*
+- *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *vāvasānasya* \< *vas*
+- *vāvasānasya* ← *vas*
 - \[verb noun\], genitive, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *nartayan* \< *nartay* \< *√nṛt*
+- *nartayan* ← *nartay* ← *√nṛt*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

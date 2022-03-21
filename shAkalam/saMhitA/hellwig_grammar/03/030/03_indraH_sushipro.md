@@ -2,63 +2,63 @@
 title = "Rig Veda 3.30.3"
 
 +++
--   *indraḥ* \< *indra*
+-   *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suśipro* \< *su*
+- *suśipro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipro* \< *śipraḥ* \< *śiprā*
+- *suśipro* ← *śipraḥ* ← *śiprā*
 - \[noun\], nominative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tarutro* \< *tarutraḥ* \< *tarutra*
+- *tarutro* ← *tarutraḥ* ← *tarutra*
 - \[noun\], nominative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *mahāvrātas* \< *mahā* \< *mahat*
+- *mahāvrātas* ← *mahā* ← *mahat*
 - \[noun\]
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mahāvrātas* \< *vrātaḥ* \< *vrāta*
+- *mahāvrātas* ← *vrātaḥ* ← *vrāta*
 - \[noun\], nominative, singular, masculine
 - “troop; group; Vrāta; vrāta \[word\]; flock.”
 ------------------------------------------------------------------------
-- *tuvikūrmir* \< *tuvikūrmiḥ* \< *tuvikūrmi*
+- *tuvikūrmir* ← *tuvikūrmiḥ* ← *tuvikūrmi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛghāvān* \< *ṛghāvat*
+- *ṛghāvān* ← *ṛghāvat*
 - \[noun\], nominative, singular, masculine
 - “baleful.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bādhito* \< *bādhitaḥ* \< *bādh*
+- *bādhito* ← *bādhitaḥ* ← *bādh*
 - \[verb noun\], nominative, singular
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *martyeṣu* \< *martya*
+- *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “mortal.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 3.30.3"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], nominative, plural, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 3.30.3"
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vīryāṇi* \< *vīrya*
+- *vīryāṇi* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

@@ -2,7 +2,7 @@
 title = "Rig Veda 1.48.9"
 
 +++
--   *uṣa* \< *uṣe* \< *uṣā*
+-   *uṣa* ← *uṣe* ← *uṣā*
 - \[noun\], vocative, singular, feminine
 - “Uṣā; dawn; burn.”
 ------------------------------------------------------------------------
@@ -10,47 +10,47 @@ title = "Rig Veda 1.48.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhāhi* \< *bhā*
+- *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *bhānunā* \< *bhānu*
+- *bhānunā* ← *bhānu*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *candreṇa* \< *candra*
+- *candreṇa* ← *candra*
 - \[noun\], instrumental, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *duhitar* \< *duhitṛ*
+- *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *āvahantī* \< *āvah* \< *√vah*
+- *āvahantī* ← *āvah* ← *√vah*
 - \[verb noun\], nominative, singular
 - “bring; marry; cause; run; perform; exude.”
 ------------------------------------------------------------------------
-- *bhūry* \< *bhūri*
+- *bhūry* ← *bhūri*
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *saubhagaṃ* \< *saubhagam* \< *saubhaga*
+- *saubhagaṃ* ← *saubhagam* ← *saubhaga*
 - \[noun\], accusative, singular, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *vyucchantī* \< *vivas* \< *√vas*
+- *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
 ------------------------------------------------------------------------
-- *diviṣṭiṣu* \< *diviṣṭi*
+- *diviṣṭiṣu* ← *diviṣṭi*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------

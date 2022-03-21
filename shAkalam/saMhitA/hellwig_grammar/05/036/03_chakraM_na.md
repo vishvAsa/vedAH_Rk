@@ -2,7 +2,7 @@
 title = "Rig Veda 5.36.3"
 
 +++
--   *cakraṃ* \< *cakram* \< *cakra*
+-   *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -11,7 +11,7 @@ title = "Rig Veda 5.36.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛttam* \< *vṛt*
+- *vṛttam* ← *vṛt*
 - \[verb noun\], nominative, singular
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
@@ -21,24 +21,24 @@ title = "Rig Veda 5.36.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *vepate* \< *vip*
+- *vepate* ← *vip*
 - \[verb\], singular, Present indikative
 - “tremble.”
 ------------------------------------------------------------------------
-- *mano* \< *manaḥ* \< *manas*
+- *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amater* \< *amateḥ* \< *amati*
+- *amater* ← *amateḥ* ← *amati*
 - \[noun\], ablative, singular, feminine
 - “indigence.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 5.36.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *rathād* \< *rathāt* \< *ratha*
+- *rathād* ← *rathāt* ← *ratha*
 - \[noun\], ablative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -58,18 +58,18 @@ title = "Rig Veda 5.36.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
 - *sadāvṛdha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *kuvin* \< *kuvid*
+- *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 5.36.3"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *stoṣan* \< *stoṣat* \< *stu*
+- *stoṣan* ← *stoṣat* ← *stu*
 - \[verb\], singular, Aorist conj./subj.
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 5.36.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *purūvasuḥ* \< *purūvasu*
+- *purūvasuḥ* ← *purūvasu*
 - \[noun\], nominative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------

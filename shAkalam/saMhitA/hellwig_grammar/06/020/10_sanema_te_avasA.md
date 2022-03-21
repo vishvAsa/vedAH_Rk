@@ -2,19 +2,19 @@
 title = "Rig Veda 6.20.10"
 
 +++
--   *sanema* \< *san*
+-   *sanema* ← *san*
 - \[verb\], plural, Aorist optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'vasā* \< *avasā* \< *avas*
+- *'vasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *navya* \< *navyaḥ* \< *navyas*
+- *navya* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 6.20.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūrava* \< *pūravaḥ* \< *pūru*
+- *pūrava* ← *pūravaḥ* ← *pūru*
 - \[noun\], nominative, plural, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *stavanta* \< *stavante* \< *stu*
+- *stavanta* ← *stavante* ← *stu*
 - \[verb\], plural, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 6.20.10"
 - \[adverb\]
 - “thus.”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -51,37 +51,37 @@ title = "Rig Veda 6.20.10"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *śāradīr* \< *śāradīḥ* \< *śārada*
+- *śāradīr* ← *śāradīḥ* ← *śārada*
 - \[noun\], accusative, plural, feminine
 - “autumnal; śārada \[word\]; autumn(a).”
 ------------------------------------------------------------------------
-- *dard* \< *dart* \< *dṛ*
+- *dard* ← *dart* ← *dṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burst; burst.”
 ------------------------------------------------------------------------
-- *dhan* \< *han*
+- *dhan* ← *han*
 - \[verb\], singular, Present injunctive
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *dāsīḥ* \< *dāsa*
+- *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
 ------------------------------------------------------------------------
-- *purukutsāya* \< *purukutsa*
+- *purukutsāya* ← *purukutsa*
 - \[noun\], dative, singular, masculine
 - “Purukutsa.”
 ------------------------------------------------------------------------
-- *śikṣan* \< *śikṣ*
+- *śikṣan* ← *śikṣ*
 - \[verb noun\], nominative, singular
 - “help; give.”
 ------------------------------------------------------------------------

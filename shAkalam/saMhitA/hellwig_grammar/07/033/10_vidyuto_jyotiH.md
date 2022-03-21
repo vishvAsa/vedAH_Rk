@@ -2,11 +2,11 @@
 title = "Rig Veda 7.33.10"
 
 +++
--   *vidyuto* \< *vidyutaḥ* \< *vidyut*
+-   *vidyuto* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], ablative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *jyotiḥ* \< *jyotis*
+- *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
@@ -15,56 +15,56 @@ title = "Rig Veda 7.33.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *saṃjihānam* \< *saṃhā* \< *√hā*
+- *saṃjihānam* ← *saṃhā* ← *√hā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇāḥ* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇāḥ* ← *mitrāvaruṇa*
 - \[noun\], nominative, plural, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apaśyatāṃ* \< *apaśyatām* \< *paś*
+- *apaśyatāṃ* ← *apaśyatām* ← *paś*
 - \[verb\], dual, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *janmotaikaṃ* \< *janma* \< *janman*
+- *janmotaikaṃ* ← *janma* ← *janman*
 - \[noun\], nominative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *janmotaikaṃ* \< *uta*
+- *janmotaikaṃ* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *janmotaikaṃ* \< *ekam* \< *eka*
+- *janmotaikaṃ* ← *ekam* ← *eka*
 - \[noun\], nominative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *vasiṣṭhāgastyo* \< *vasiṣṭha*
+- *vasiṣṭhāgastyo* ← *vasiṣṭha*
 - \[noun\], vocative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *vasiṣṭhāgastyo* \< *agastyaḥ* \< *agastya*
+- *vasiṣṭhāgastyo* ← *agastyaḥ* ← *agastya*
 - \[noun\], nominative, singular, masculine
 - “Agastya; Sesbania grandiflora; Polaris; agastya \[word\]; Agastya.”
 ------------------------------------------------------------------------
@@ -72,15 +72,15 @@ title = "Rig Veda 7.33.10"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśa* \< *viśe* \< *viś*
+- *viśa* ← *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *ājabhāra* \< *ābhṛ* \< *√bhṛ*
+- *ājabhāra* ← *ābhṛ* ← *√bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring.”
 ------------------------------------------------------------------------

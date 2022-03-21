@@ -6,37 +6,37 @@ title = "Rig Veda 8.72.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, masculine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *vivasvata* \< *vivasvataḥ* \< *vivasvant*
+- *vivasvata* ← *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *acucyavīt* \< *cyu*
+- *acucyavīt* ← *cyu*
 - \[verb\], singular, Plusquamperfect
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *khedayā* \< *khedā*
+- *khedayā* ← *khedā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *trivṛtā* \< *trivṛt*
+- *trivṛtā* ← *trivṛt*
 - \[noun\], instrumental, singular, feminine
 - “treble.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

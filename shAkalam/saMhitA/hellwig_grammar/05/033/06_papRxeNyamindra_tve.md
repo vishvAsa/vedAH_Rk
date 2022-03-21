@@ -2,7 +2,7 @@
 title = "Rig Veda 5.33.6"
 
 +++
--   *papṛkṣeṇyam* \< *papṛkṣeṇya*
+-   *papṛkṣeṇyam* ← *papṛkṣeṇya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *indra*
@@ -10,19 +10,19 @@ title = "Rig Veda 5.33.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], nominative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *nṛmṇāni* \< *nṛmṇa*
+- *nṛmṇāni* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
@@ -30,14 +30,14 @@ title = "Rig Veda 5.33.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nṛtamāno* \< *nṛtamānaḥ* \< *nṛt*
+- *nṛtamāno* ← *nṛtamānaḥ* ← *nṛt*
 - \[verb noun\], nominative, singular
 - “dance; dance.”
 ------------------------------------------------------------------------
-- *amartaḥ* \< *amarta*
+- *amartaḥ* ← *amarta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -47,43 +47,43 @@ title = "Rig Veda 5.33.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *enīṃ* \< *enīm* \< *ena*
+- *enīṃ* ← *enīm* ← *ena*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vasavāno* \< *vasavānaḥ* \< *vasavāna*
+- *vasavāno* ← *vasavānaḥ* ← *vasavāna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *dāḥ* \< *dā*
+- *dāḥ* ← *dā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *prārya* \< *pra*
+- *prārya* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prārya* \< *aryaḥ* \< *arya*
+- *prārya* ← *aryaḥ* ← *arya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *stuṣe* \< *stu*
+- *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *tuvimaghasya* \< *tuvi*
+- *tuvimaghasya* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvimaghasya* \< *maghasya* \< *magha*
+- *tuvimaghasya* ← *maghasya* ← *magha*
 - \[noun\], genitive, singular, masculine
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
-- *dānam* \< *dāna*
+- *dānam* ← *dāna*
 - \[noun\], nominative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”

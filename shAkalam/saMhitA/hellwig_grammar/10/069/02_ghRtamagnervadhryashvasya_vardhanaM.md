@@ -2,52 +2,52 @@
 title = "Rig Veda 10.69.2"
 
 +++
--   *ghṛtam* \< *ghṛta*
+-   *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *agner* \< *agneḥ* \< *agni*
+- *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vadhryaśvasya* \< *vadhryaśva*
+- *vadhryaśvasya* ← *vadhryaśva*
 - \[noun\], genitive, singular, masculine
 - “Vadhryaśva.”
 ------------------------------------------------------------------------
-- *vardhanaṃ* \< *vardhanam* \< *vardhana*
+- *vardhanaṃ* ← *vardhanam* ← *vardhana*
 - \[noun\], nominative, singular, neuter
 - “increase; increase.”
 ------------------------------------------------------------------------
-- *ghṛtam* \< *ghṛta*
+- *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *annaṃ* \< *annam* \< *anna*
+- *annaṃ* ← *annam* ← *anna*
 - \[noun\], nominative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *ghṛtam* \< *ghṛta*
+- *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *v* \< *u*
+- *v* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *medanam* \< *medana*
+- *medanam* ← *medana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *ghṛtenāhuta* \< *ghṛtena* \< *ghṛta*
+- *ghṛtenāhuta* ← *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtenāhuta* \< *āhutaḥ* \< *āhu* \< *√hu*
+- *ghṛtenāhuta* ← *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 10.69.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paprathe* \< *prath*
+- *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *sūrya* \< *sūryaḥ* \< *sūrya*
+- *sūrya* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -72,15 +72,15 @@ title = "Rig Veda 10.69.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *sarpirāsutiḥ* \< *sarpiḥ* \< *sarpis*
+- *sarpirāsutiḥ* ← *sarpiḥ* ← *sarpis*
 - \[noun\], neuter
 - “ghee; clarified butter; sarpiḥprameha.”
 ------------------------------------------------------------------------
-- *sarpirāsutiḥ* \< *āsutiḥ* \< *āsuti*
+- *sarpirāsutiḥ* ← *āsutiḥ* ← *āsuti*
 - \[noun\], nominative, singular, masculine
 - “āsuti \[word\].”
 ------------------------------------------------------------------------

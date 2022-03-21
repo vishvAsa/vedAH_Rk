@@ -2,78 +2,78 @@
 title = "Rig Veda 10.15.8"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pūrve* \< *pūrva*
+- *pūrve* ← *pūrva*
 - \[noun\], nominative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pitaraḥ* \< *pitṛ*
+- *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *somyāso* \< *somyāsaḥ* \< *somya*
+- *somyāso* ← *somyāsaḥ* ← *somya*
 - \[noun\], nominative, plural, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *'nūhire* \< *anūhire* \< *anuvah* \< *√vah*
+- *'nūhire* ← *anūhire* ← *anuvah* ← *√vah*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *somapīthaṃ* \< *soma*
+- *somapīthaṃ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapīthaṃ* \< *pītham* \< *pītha*
+- *somapīthaṃ* ← *pītham* ← *pītha*
 - \[noun\], accusative, singular, masculine
 - “drink; drinking.”
 ------------------------------------------------------------------------
-- *vasiṣṭhāḥ* \< *vasiṣṭha*
+- *vasiṣṭhāḥ* ← *vasiṣṭha*
 - \[noun\], nominative, plural, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *tebhir* \< *tebhiḥ* \< *tad*
+- *tebhir* ← *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yamaḥ* \< *yama*
+- *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *rarāṇo* \< *rarāṇaḥ* \< *rā*
+- *rarāṇo* ← *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *havīṃṣy* \< *havīṃṣi* \< *havis*
+- *havīṃṣy* ← *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *uśann* \< *uśan* \< *vaś*
+- *uśann* ← *uśan* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśadbhiḥ* \< *vaś*
+- *uśadbhiḥ* ← *vaś*
 - \[verb noun\], instrumental, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *pratikāmam* \< *pratikāma*
+- *pratikāmam* ← *pratikāma*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *attu* \< *ad*
+- *attu* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
 ------------------------------------------------------------------------

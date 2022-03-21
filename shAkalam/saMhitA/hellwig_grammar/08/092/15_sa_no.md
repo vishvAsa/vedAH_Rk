@@ -2,13 +2,13 @@
 title = "Rig Veda 8.92.15"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -16,31 +16,31 @@ title = "Rig Veda 8.92.15"
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *saniṣṭhayā* \< *saniṣṭha*
+- *saniṣṭhayā* ← *saniṣṭha*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ghorayā* \< *ghora*
+- *ghorayā* ← *ghora*
 - \[noun\], instrumental, singular, feminine
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *dravitnvā* \< *dravitnu*
+- *dravitnvā* ← *dravitnu*
 - \[noun\], instrumental, singular, masculine
 - “fast.”
 ------------------------------------------------------------------------
-- *dhiyāviḍḍhi* \< *dhiyā* \< *dhī*
+- *dhiyāviḍḍhi* ← *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhiyāviḍḍhi* \< *aviḍḍhi* \< *av*
+- *dhiyāviḍḍhi* ← *aviḍḍhi* ← *av*
 - \[verb\], singular, Aorist imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *purandhyā* \< *puraṃdhi*
+- *purandhyā* ← *puraṃdhi*
 - \[noun\], instrumental, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------

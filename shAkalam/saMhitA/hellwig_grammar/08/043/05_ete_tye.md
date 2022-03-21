@@ -2,24 +2,24 @@
 title = "Rig Veda 8.43.5"
 
 +++
--   *ete* \< *etad*
+-   *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vṛthag* \< *vṛthak*
+- *vṛthag* ← *vṛthak*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *agnaya* \< *agnayaḥ* \< *agni*
+- *agnaya* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *iddhāsaḥ* \< *indh*
+- *iddhāsaḥ* ← *indh*
 - \[verb noun\], nominative, plural
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
@@ -27,13 +27,13 @@ title = "Rig Veda 8.43.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *adṛkṣata* \< *dṛś*
+- *adṛkṣata* ← *dṛś*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *uṣasām* \< *uṣas*
+- *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 8.43.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ketavaḥ* \< *ketu*
+- *ketavaḥ* ← *ketu*
 - \[noun\], nominative, plural, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”

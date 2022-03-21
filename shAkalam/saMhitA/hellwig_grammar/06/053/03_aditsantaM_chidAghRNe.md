@@ -2,18 +2,18 @@
 title = "Rig Veda 6.53.3"
 
 +++
--   *aditsantaṃ* \< *a*
+-   *aditsantaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aditsantaṃ* \< *ditsantam* \< *dits* \< *√dā*
+- *aditsantaṃ* ← *ditsantam* ← *dits* ← *√dā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *āghṛṇe* \< *āghṛṇi*
+- *āghṛṇe* ← *āghṛṇi*
 - \[noun\], vocative, singular, masculine
 - “aglow(p).”
 ------------------------------------------------------------------------
@@ -21,20 +21,20 @@ title = "Rig Veda 6.53.3"
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *codaya* \< *coday* \< *√cud*
+- *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *paṇeś* \< *paṇeḥ* \< *paṇi*
+- *paṇeś* ← *paṇeḥ* ← *paṇi*
 - \[noun\], genitive, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -42,10 +42,10 @@ title = "Rig Veda 6.53.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mradā* \< *mrada* \< *mrad*
+- *mradā* ← *mrada* ← *mrad*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”

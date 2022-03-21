@@ -2,74 +2,74 @@
 title = "Rig Veda 10.106.10"
 
 +++
--   *āraṅgareva* \< *āraṅgarā* \< *āraṅgara*
+-   *āraṅgareva* ← *āraṅgarā* ← *āraṅgara*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *āraṅgareva* \< *iva*
+- *āraṅgareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhū* \< *madhu*
+- *madhv* ← *madhū* ← *madhu*
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *erayethe* \< *eray* \< *√īr*
+- *erayethe* ← *eray* ← *√īr*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
-- *sāragheva* \< *sāraghā* \< *sāragha*
+- *sāragheva* ← *sāraghā* ← *sāragha*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *sāragheva* \< *iva*
+- *sāragheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gavi* \< *go*
+- *gavi* ← *go*
 - \[noun\], locative, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *nīcīnabāre* \< *nīcīna*
+- *nīcīnabāre* ← *nīcīna*
 - \[noun\]
 - “downward(ip).”
 ------------------------------------------------------------------------
-- *nīcīnabāre* \< *bāre* \< *bāra*
+- *nīcīnabāre* ← *bāre* ← *bāra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *kīnāreva* \< *kīnārā* \< *kīnāra*
+- *kīnāreva* ← *kīnārā* ← *kīnāra*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *kīnāreva* \< *iva*
+- *kīnāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svedam* \< *sveda*
+- *svedam* ← *sveda*
 - \[noun\], accusative, singular, masculine
 - “svedana; perspiration; svedana; perspiring; fomentation; sweat.”
 ------------------------------------------------------------------------
-- *āsiṣvidānā* \< *āsvid* \< *√svid*
+- *āsiṣvidānā* ← *āsvid* ← *√svid*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *kṣāmevorjā* \< *kṣāmā* \< *kṣāma*
+- *kṣāmevorjā* ← *kṣāmā* ← *kṣāma*
 - \[noun\], nominative, dual, masculine
 - “faint; slender; bony.”
 ------------------------------------------------------------------------
-- *kṣāmevorjā* \< *iva*
+- *kṣāmevorjā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣāmevorjā* \< *ūrjā* \< *ūrj*
+- *kṣāmevorjā* ← *ūrjā* ← *ūrj*
 - \[noun\], instrumental, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *sūyavasāt* \< *sū* \< *su*
+- *sūyavasāt* ← *sū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sūyavasāt* \< *yavasāt* \< *yavasa*
+- *sūyavasāt* ← *yavasāt* ← *yavasa*
 - \[noun\], ablative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *sacethe* \< *sac*
+- *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

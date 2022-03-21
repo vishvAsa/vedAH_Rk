@@ -2,19 +2,19 @@
 title = "Rig Veda 5.42.15"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -22,44 +22,44 @@ title = "Rig Veda 5.42.15"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *sūnūṃr* \< *sūnūn* \< *sūnu*
+- *sūnūṃr* ← *sūnūn* ← *sūnu*
 - \[noun\], accusative, plural, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *yuvanyūṃr* \< *yuvanyūn* \< *yuvanyu*
+- *yuvanyūṃr* ← *yuvanyūn* ← *yuvanyu*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *aśyāḥ* \< *aś*
+- *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *kāmo* \< *kāmaḥ* \< *kāma*
+- *kāmo* ← *kāmaḥ* ← *kāma*
 - \[noun\], nominative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *havate* \< *hvā*
+- *havate* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svasty* \< *svasti*
+- *svasty* ← *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -68,19 +68,19 @@ title = "Rig Veda 5.42.15"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *stuhi* \< *stu*
+- *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāṃ* \< *pṛṣat*
+- *pṛṣadaśvāṃ* ← *pṛṣat*
 - \[noun\]
 - “motley; patched.”
 ------------------------------------------------------------------------
-- *pṛṣadaśvāṃ* \< *aśvāṃ* \< *aśva*
+- *pṛṣadaśvāṃ* ← *aśvāṃ* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ayāsaḥ* \< *ayās*
+- *ayāsaḥ* ← *ayās*
 - \[noun\], accusative, plural, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------

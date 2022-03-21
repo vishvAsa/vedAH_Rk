@@ -6,34 +6,34 @@ title = "Rig Veda 9.21.3"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *krīﾱanta* \< *krīḍantaḥ* \< *krīḍ*
+- *krīﾱanta* ← *krīḍantaḥ* ← *krīḍ*
 - \[verb noun\], nominative, plural
 - “frolic; love; play; amuse.”
 ------------------------------------------------------------------------
-- *indavaḥ* \< *indu*
+- *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *sadhastham* \< *sadhastha*
+- *sadhastham* ← *sadhastha*
 - \[noun\], accusative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ekam* \< *eka*
+- *ekam* ← *eka*
 - \[noun\], accusative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* \< *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------

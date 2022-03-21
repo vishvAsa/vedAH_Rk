@@ -2,56 +2,56 @@
 title = "Rig Veda 4.45.4"
 
 +++
--   *haṃsāso* \< *haṃsāsaḥ* \< *haṃsa*
+-   *haṃsāso* ← *haṃsāsaḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhumanto* \< *madhumantaḥ* \< *madhumat*
+- *madhumanto* ← *madhumantaḥ* ← *madhumat*
 - \[noun\], nominative, plural, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *asridho* \< *asridhaḥ* \< *asridh*
+- *asridho* ← *asridhaḥ* ← *asridh*
 - \[noun\], nominative, plural, masculine
 - “unfailing.”
 ------------------------------------------------------------------------
-- *hiraṇyaparṇā* \< *hiraṇya*
+- *hiraṇyaparṇā* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyaparṇā* \< *parṇāḥ* \< *parṇa*
+- *hiraṇyaparṇā* ← *parṇāḥ* ← *parṇa*
 - \[noun\], nominative, plural, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *uhuva* \< *uhuvaḥ* \< *uhū*
+- *uhuva* ← *uhuvaḥ* ← *uhū*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *uṣarbudhaḥ* \< *uṣarbudh*
+- *uṣarbudhaḥ* ← *uṣarbudh*
 - \[noun\], nominative, plural, masculine
 - “early rising.”
 ------------------------------------------------------------------------
-- *udapruto* \< *uda*
+- *udapruto* ← *uda*
 - \[noun\], neuter
 - “water.”
 ------------------------------------------------------------------------
-- *udapruto* \< *prutaḥ* \< *prut*
+- *udapruto* ← *prutaḥ* ← *prut*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *mandino* \< *mandinaḥ* \< *mandin*
+- *mandino* ← *mandinaḥ* ← *mandin*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *mandinispṛśo* \< *mandinispṛśaḥ* \< *mandinispṛś*
+- *mandinispṛśo* ← *mandinispṛśaḥ* ← *mandinispṛś*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -59,15 +59,15 @@ title = "Rig Veda 4.45.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *makṣaḥ* \< *makṣ*
+- *makṣaḥ* ← *makṣ*
 - \[noun\], nominative, plural, masculine
 - “bee; fly.”
 ------------------------------------------------------------------------
-- *savanāni* \< *savana*
+- *savanāni* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *gacchathaḥ* \< *gam*
+- *gacchathaḥ* ← *gam*
 - \[verb\], dual, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

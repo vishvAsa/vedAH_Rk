@@ -2,32 +2,32 @@
 title = "Rig Veda 10.65.5"
 
 +++
--   *mitrāya* \< *mitra*
+-   *mitrāya* ← *mitra*
 - \[noun\], dative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *śikṣa* \< *śikṣ*
+- *śikṣa* ← *śikṣ*
 - \[verb\], singular, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *varuṇāya* \< *varuṇa*
+- *varuṇāya* ← *varuṇa*
 - \[noun\], dative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *samrājā* \< *samrāj*
+- *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -40,37 +40,37 @@ title = "Rig Veda 10.65.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yucchataḥ* \< *yu*
+- *yucchataḥ* ← *yu*
 - \[verb\], dual, Present indikative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *yayor* \< *yayoḥ* \< *yad*
+- *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], nominative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *dharmaṇā* \< *dharman*
+- *dharmaṇā* ← *dharman*
 - \[noun\], instrumental, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *rocate* \< *ruc*
+- *rocate* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], nominative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *yayor* \< *yayoḥ* \< *yad*
+- *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -78,10 +78,10 @@ title = "Rig Veda 10.65.5"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *nādhasī* \< *nādhas*
+- *nādhasī* ← *nādhas*
 - \[noun\], nominative, dual, neuter
 ------------------------------------------------------------------------
-- *vṛtau* \< *vṛ*
+- *vṛtau* ← *vṛ*
 - \[verb noun\], nominative, dual
 - “choose; ask.”
 ------------------------------------------------------------------------

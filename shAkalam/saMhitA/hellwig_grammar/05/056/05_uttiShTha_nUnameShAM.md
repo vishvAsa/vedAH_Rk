@@ -2,11 +2,11 @@
 title = "Rig Veda 5.56.5"
 
 +++
--   *ut* \< *ud*
+-   *ut* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *tiṣṭha* \< *sthā*
+- *tiṣṭha* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -16,35 +16,35 @@ title = "Rig Veda 5.56.5"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stomaiḥ* \< *stoma*
+- *stomaiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *samukṣitānām* \< *saṃvakṣ* \< *√vakṣ*
+- *samukṣitānām* ← *saṃvakṣ* ← *√vakṣ*
 - \[verb noun\], genitive, plural
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *purutamam* \< *purutama*
+- *purutamam* ← *purutama*
 - \[noun\], accusative, singular, masculine
 - “most(a).”
 ------------------------------------------------------------------------
-- *apūrvyaṃ* \< *apūrvyam* \< *apūrvya*
+- *apūrvyaṃ* ← *apūrvyam* ← *apūrvya*
 - \[noun\], accusative, singular, masculine
 - “incomparable.”
 ------------------------------------------------------------------------
-- *gavāṃ* \< *gavām* \< *go*
+- *gavāṃ* ← *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *sargam* \< *sarga*
+- *sargam* ← *sarga*
 - \[noun\], accusative, singular, masculine
 - “Creation; metempsychosis; discharge; torrent; birth; undertaking.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 5.56.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *hvaye* \< *hvā*
+- *hvaye* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

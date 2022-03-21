@@ -10,43 +10,43 @@ title = "Rig Veda 8.50.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb noun\], accusative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *surādhasam* \< *su*
+- *surādhasam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surādhasam* \< *rādhasam* \< *rādhas*
+- *surādhasam* ← *rādhasam* ← *rādhas*
 - \[noun\], accusative, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *arcā* \< *arca* \< *arc*
+- *arcā* ← *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *śakram* \< *śakra*
+- *śakram* ← *śakra*
 - \[noun\], accusative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *kāmyaṃ* \< *kāmyam* \< *kāmya*
+- *kāmyaṃ* ← *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, neuter
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
@@ -54,15 +54,15 @@ title = "Rig Veda 8.50.1"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *sahasreṇeva* \< *sahasreṇa* \< *sahasra*
+- *sahasreṇeva* ← *sahasreṇa* ← *sahasra*
 - \[noun\], instrumental, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasreṇeva* \< *iva*
+- *sahasreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *maṃhate* \< *mah*
+- *maṃhate* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------

@@ -2,24 +2,24 @@
 title = "Rig Veda 2.39.3"
 
 +++
--   *śṛṅgeva* \< *śṛṅgā* \< *śṛṅga*
+-   *śṛṅgeva* ← *śṛṅgā* ← *śṛṅga*
 - \[noun\], nominative, plural, neuter
 - “peak; horn; tusk; śṛṅga \[word\].”
 ------------------------------------------------------------------------
-- *śṛṅgeva* \< *iva*
+- *śṛṅgeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], nominative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *gantam* \< *gam*
+- *gantam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -30,7 +30,7 @@ title = "Rig Veda 2.39.3"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *chaphāv* \< *śaphau* \< *śapha*
+- *chaphāv* ← *śaphau* ← *śapha*
 - \[noun\], nominative, dual, masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
@@ -38,17 +38,17 @@ title = "Rig Veda 2.39.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jarbhurāṇā* \< *jarbhur* \< *√bhur*
+- *jarbhurāṇā* ← *jarbhur* ← *√bhur*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *tarobhiḥ* \< *taras*
+- *tarobhiḥ* ← *taras*
 - \[noun\], instrumental, plural, neuter
 - “speed; Stoma.”
 ------------------------------------------------------------------------
-- *cakravākeva* \< *cakravākā* \< *cakravāka*
+- *cakravākeva* ← *cakravākā* ← *cakravāka*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *cakravākeva* \< *iva*
+- *cakravākeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -56,31 +56,31 @@ title = "Rig Veda 2.39.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], ablative, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *usrārvāñcā* \< *usrā* \< *usra*
+- *usrārvāñcā* ← *usrā* ← *usra*
 - \[noun\], nominative, dual, masculine
 - “beam; Asvins.”
 ------------------------------------------------------------------------
-- *usrārvāñcā* \< *arvāñcā* \< *arvāñc*
+- *usrārvāñcā* ← *arvāñcā* ← *arvāñc*
 - \[noun\], nominative, dual, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *rathyeva* \< *rathyā* \< *rathya*
+- *rathyeva* ← *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *rathyeva* \< *iva*
+- *rathyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śakrā* \< *śakra*
+- *śakrā* ← *śakra*
 - \[noun\], vocative, dual, masculine
 - “mighty.”
 ------------------------------------------------------------------------

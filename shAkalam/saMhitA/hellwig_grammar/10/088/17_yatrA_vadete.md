@@ -2,21 +2,21 @@
 title = "Rig Veda 10.88.17"
 
 +++
--   *yatrā* \< *yatra*
+-   *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *vadete* \< *vad*
+- *vadete* ← *vad*
 - \[verb\], dual, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *avaraḥ* \< *avara*
+- *avaraḥ* ← *avara*
 - \[noun\], nominative, singular, masculine
 - “worst; avara \[word\]; lower; nearer; base; short; low; abject;
     later(a); worse; antecedent.”
 ------------------------------------------------------------------------
-- *paraś* \< *paraḥ* \< *para*
+- *paraś* ← *paraḥ* ← *para*
 - \[noun\], nominative, singular, masculine
 - “best; other; following; devoted(p); extreme; highest; otherwordly;
     better; hostile; maximal; distant; another(a); para \[word\]; upper;
@@ -26,14 +26,14 @@ title = "Rig Veda 10.88.17"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yajñanyoḥ* \< *yajñanī*
+- *yajñanyoḥ* ← *yajñanī*
 - \[noun\], genitive, dual, masculine
 ------------------------------------------------------------------------
-- *kataro* \< *kataraḥ* \< *katara*
+- *kataro* ← *kataraḥ* ← *katara*
 - \[noun\], nominative, singular, masculine
 - “katara \[word\]; who.”
 ------------------------------------------------------------------------
-- *nau* \< *mad*
+- *nau* ← *mad*
 - \[noun\], genitive, dual
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 10.88.17"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *veda* \< *vid*
+- *veda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -50,35 +50,35 @@ title = "Rig Veda 10.88.17"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śekur* \< *śekuḥ* \< *śak*
+- *śekur* ← *śekuḥ* ← *śak*
 - \[verb\], plural, Perfect indicative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sadhamādaṃ* \< *sadhamādam* \< *sadhamāda*
+- *sadhamādaṃ* ← *sadhamādam* ← *sadhamāda*
 - \[noun\], accusative, singular, masculine
 - “banquet; party; drink.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *nakṣanta* \< *nakṣ*
+- *nakṣanta* ← *nakṣ*
 - \[verb\], plural, Present injunctive
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ka* \< *kaḥ* \< *ka*
+- *ka* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ title = "Rig Veda 10.88.17"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vocat* \< *vac*
+- *vocat* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

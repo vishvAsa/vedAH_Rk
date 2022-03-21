@@ -6,67 +6,67 @@ title = "Rig Veda 7.71.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *avamasyāṃ* \< *avamasyām* \< *avama*
+- *avamasyāṃ* ← *avamasyām* ← *avama*
 - \[noun\], locative, singular, feminine
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
-- *vyuṣṭau* \< *vyuṣṭi*
+- *vyuṣṭau* ← *vyuṣṭi*
 - \[noun\], locative, singular, feminine
 - “dawn; happiness; consequence.”
 ------------------------------------------------------------------------
-- *sumnāyavo* \< *sumnāyavaḥ* \< *sumnāyu*
+- *sumnāyavo* ← *sumnāyavaḥ* ← *sumnāyu*
 - \[noun\], nominative, plural, masculine
 - “gracious.”
 ------------------------------------------------------------------------
-- *vṛṣaṇo* \< *vṛṣaṇaḥ* \< *vṛṣan*
+- *vṛṣaṇo* ← *vṛṣaṇaḥ* ← *vṛṣan*
 - \[noun\], nominative, plural, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vartayantu* \< *vartay* \< *√vṛt*
+- *vartayantu* ← *vartay* ← *√vṛt*
 - \[verb\], plural, Present imperative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *syūmagabhastim* \< *syūma* \< *syūman*
+- *syūmagabhastim* ← *syūma* ← *syūman*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *syūmagabhastim* \< *gabhastim* \< *gabhasti*
+- *syūmagabhastim* ← *gabhastim* ← *gabhasti*
 - \[noun\], accusative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *ṛta*
+- *ṛtayugbhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *yugbhiḥ* \< *yuj*
+- *ṛtayugbhir* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *aśvair* \< *aśvaiḥ* \< *aśva*
+- *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *āśvinā* \< *ā*
+- *āśvinā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āśvinā* \< *aśvinā* \< *aśvin*
+- *āśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vasumantaṃ* \< *vasumantam* \< *vasumat*
+- *vasumantaṃ* ← *vasumantam* ← *vasumat*
 - \[noun\], accusative, singular, masculine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
-- *vahethām* \< *vah*
+- *vahethām* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

@@ -6,32 +6,32 @@ title = "Rig Veda 1.121.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, dual, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pājasī* \< *pājas*
+- *pājasī* ← *pājas*
 - \[noun\], nominative, dual, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *acakre* \< *a*
+- *acakre* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *acakre* \< *cakre* \< *cakra*
+- *acakre* ← *cakre* ← *cakra*
 - \[noun\], nominative, dual, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *dyāvākṣāmā* \< *dyāvākṣam*
+- *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *madatām* \< *mad*
+- *madatām* ← *mad*
 - \[verb\], dual, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -48,40 +48,40 @@ title = "Rig Veda 1.121.11"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *āśayānaṃ* \< *āśayānam* \< *āśī* \< *√śī*
+- *āśayānaṃ* ← *āśayānam* ← *āśī* ← *√śī*
 - \[verb noun\], accusative, singular
 - “lie; stay.”
 ------------------------------------------------------------------------
-- *sirāsu* \< *sirā*
+- *sirāsu* ← *sirā*
 - \[noun\], locative, plural, feminine
 - “sirā; vessel; river; vein; artery.”
 ------------------------------------------------------------------------
-- *maho* \< *mahā* \< *mah*
+- *maho* ← *mahā* ← *mah*
 - \[noun\], instrumental, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *maho* \< *u*
+- *maho* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *siṣvapo* \< *siṣvapaḥ* \< *svap*
+- *siṣvapo* ← *siṣvapaḥ* ← *svap*
 - \[verb\], singular, Aorist inj. (proh.)
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------
-- *varāhum* \< *varāhu*
+- *varāhum* ← *varāhu*
 - \[noun\], accusative, singular, masculine
 - “wild boar.”
 ------------------------------------------------------------------------

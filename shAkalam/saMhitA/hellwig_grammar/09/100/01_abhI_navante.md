@@ -2,33 +2,33 @@
 title = "Rig Veda 9.100.1"
 
 +++
--   *abhī* \< *abhi*
+-   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *navante* \< *nū*
+- *navante* ← *nū*
 - \[verb\], plural, Present indikative
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *adruhaḥ* \< *adruh*
+- *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, feminine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kāmyam* \< *kāmya*
+- *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, masculine
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -37,13 +37,13 @@ title = "Rig Veda 9.100.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūrva* \< *pūrve* \< *pūrva*
+- *pūrva* ← *pūrve* ← *pūrva*
 - \[noun\], locative, singular, neuter
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *āyuni* \< *āyu*
+- *āyuni* ← *āyu*
 - \[noun\], locative, singular, neuter
 - “life; life; age.”
 ------------------------------------------------------------------------

@@ -2,24 +2,24 @@
 title = "Rig Veda 5.54.12"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣaṃ* \< *a*
+- *agṛbhītaśociṣaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣaṃ* \< *gṛbhīta* \< *grah*
+- *agṛbhītaśociṣaṃ* ← *gṛbhīta* ← *grah*
 - \[verb noun\]
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -27,7 +27,7 @@ title = "Rig Veda 5.54.12"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣaṃ* \< *śociṣam* \< *śocis*
+- *agṛbhītaśociṣaṃ* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 5.54.12"
 - \[noun\], accusative, singular, neuter
 - “white; bright; bright.”
 ------------------------------------------------------------------------
-- *pippalam* \< *pippala*
+- *pippalam* ← *pippala*
 - \[noun\], accusative, singular, neuter
 - “berry.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 5.54.12"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhūnutha* \< *dhū*
+- *dhūnutha* ← *dhū*
 - \[verb\], plural, Present indikative
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
@@ -55,33 +55,33 @@ title = "Rig Veda 5.54.12"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *acyanta* \< *añc*
+- *acyanta* ← *añc*
 - \[verb\], plural, Imperfekt Passiv
 ------------------------------------------------------------------------
-- *vṛjanātitviṣanta* \< *vṛjanā* \< *vṛjana*
+- *vṛjanātitviṣanta* ← *vṛjanā* ← *vṛjana*
 - \[noun\], nominative, plural, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *vṛjanātitviṣanta* \< *atitviṣanta* \< *atitviṣ* \< *√tviṣ*
+- *vṛjanātitviṣanta* ← *atitviṣanta* ← *atitviṣ* ← *√tviṣ*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *svaranti* \< *svar*
+- *svaranti* ← *svar*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------
-- *ghoṣaṃ* \< *ghoṣam* \< *ghoṣa*
+- *ghoṣaṃ* ← *ghoṣam* ← *ghoṣa*
 - \[noun\], accusative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *vitatam* \< *vitan* \< *√tan*
+- *vitatam* ← *vitan* ← *√tan*
 - \[verb noun\], accusative, singular
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *ṛtāyavaḥ* \< *ṛtāyu*
+- *ṛtāyavaḥ* ← *ṛtāyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

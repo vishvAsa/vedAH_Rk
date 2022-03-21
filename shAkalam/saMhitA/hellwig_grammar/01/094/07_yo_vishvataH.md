@@ -2,32 +2,32 @@
 title = "Rig Veda 1.94.7"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *supratīkaḥ* \< *su*
+- *supratīkaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratīkaḥ* \< *pratīkaḥ* \< *pratīka*
+- *supratīkaḥ* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *sadṛṅṅ* \< *sadṛś*
+- *sadṛṅṅ* ← *sadṛś*
 - \[noun\], nominative, singular, masculine
 - “like; same.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dūre* \< *dūra*
+- *dūre* ← *dūra*
 - \[noun\], locative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
@@ -35,36 +35,36 @@ title = "Rig Veda 1.94.7"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *taḍid* \< *taḍit*
+- *taḍid* ← *taḍit*
 - \[noun\], nominative, singular, feminine
 - “lightning; lightning.”
 ------------------------------------------------------------------------
-- *ivāti* \< *iva*
+- *ivāti* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāti* \< *ati*
+- *ivāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *rocase* \< *ruc*
+- *rocase* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *rātryāś* \< *rātryāḥ* \< *rātri*
+- *rātryāś* ← *rātryāḥ* ← *rātri*
 - \[noun\], genitive, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *andho* \< *andhaḥ* \< *andhas*
+- *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
@@ -77,18 +77,18 @@ title = "Rig Veda 1.94.7"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *paśyasy* \< *paśyasi* \< *paś*
+- *paśyasy* ← *paśyasi* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -96,15 +96,15 @@ title = "Rig Veda 1.94.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣāmā* \< *riṣ*
+- *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

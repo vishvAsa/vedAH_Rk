@@ -6,7 +6,7 @@ title = "Rig Veda 7.104.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 7.104.13"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vṛjinaṃ* \< *vṛjinam* \< *vṛjina*
+- *vṛjinaṃ* ← *vṛjinam* ← *vṛjina*
 - \[noun\], accusative, singular, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
-- *hinoti* \< *hi*
+- *hinoti* ← *hi*
 - \[verb\], singular, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 7.104.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kṣatriyam* \< *kṣatriya*
+- *kṣatriyam* ← *kṣatriya*
 - \[noun\], accusative, singular, masculine
 - “Kshatriya.”
 ------------------------------------------------------------------------
@@ -38,51 +38,51 @@ title = "Rig Veda 7.104.13"
 - \[adverb\]
 - “falsely.”
 ------------------------------------------------------------------------
-- *dhārayantam* \< *dhāray* \< *√dhṛ*
+- *dhārayantam* ← *dhāray* ← *√dhṛ*
 - \[verb noun\], accusative, singular
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *hanty* \< *hanti* \< *han*
+- *hanty* ← *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *āsad* \< *asat*
+- *āsad* ← *asat*
 - \[noun\], accusative, singular, neuter
 - “nonexistent; bad; wrong; wrong; asat \[prefix\]; dissident; fake.”
 ------------------------------------------------------------------------
-- *vadantam* \< *vad*
+- *vadantam* ← *vad*
 - \[verb noun\], accusative, singular
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *ubhāv* \< *ubhau* \< *ubh*
+- *ubhāv* ← *ubhau* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prasitau* \< *prasiti*
+- *prasitau* ← *prasiti*
 - \[noun\], locative, singular, feminine
 - “binding.”
 ------------------------------------------------------------------------
-- *śayāte* \< *śī*
+- *śayāte* ← *śī*
 - \[verb\], dual, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------

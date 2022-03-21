@@ -6,23 +6,23 @@ title = "Rig Veda 9.73.2"
 - \[adverb\]
 - “correctly.”
 ------------------------------------------------------------------------
-- *samyañco* \< *samyañcaḥ* \< *samyañc*
+- *samyañco* ← *samyañcaḥ* ← *samyañc*
 - \[noun\], nominative, plural, masculine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *mahiṣā* \< *mahiṣāḥ* \< *mahiṣa*
+- *mahiṣā* ← *mahiṣāḥ* ← *mahiṣa*
 - \[noun\], nominative, plural, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *aheṣata* \< *hi*
+- *aheṣata* ← *hi*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmāv* \< *ūrmau* \< *ūrmi*
+- *ūrmāv* ← *ūrmau* ← *ūrmi*
 - \[noun\], locative, singular, feminine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -30,51 +30,51 @@ title = "Rig Veda 9.73.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *venā* \< *venāḥ* \< *vena*
+- *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
 - “Vena.”
 ------------------------------------------------------------------------
-- *avīvipan* \< *vip*
+- *avīvipan* ← *vip*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “tremble.”
 ------------------------------------------------------------------------
-- *madhor* \< *madhoḥ* \< *madhu*
+- *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *dhārābhir* \< *dhārābhiḥ* \< *dhārā*
+- *dhārābhir* ← *dhārābhiḥ* ← *dhārā*
 - \[noun\], instrumental, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *janayanto* \< *janayantaḥ* \< *janay* \< *√jan*
+- *janayanto* ← *janayantaḥ* ← *janay* ← *√jan*
 - \[verb noun\], nominative, plural
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *arkam* \< *arka*
+- *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *priyām* \< *priya*
+- *priyām* ← *priya*
 - \[noun\], accusative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *avīvṛdhan* \< *vṛdh*
+- *avīvṛdhan* ← *vṛdh*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

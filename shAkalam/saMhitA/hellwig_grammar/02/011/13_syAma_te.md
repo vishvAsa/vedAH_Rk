@@ -2,18 +2,18 @@
 title = "Rig Veda 2.11.13"
 
 +++
--   *syāma* \< *as*
+-   *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -22,59 +22,59 @@ title = "Rig Veda 2.11.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *avasyava* \< *avasyavaḥ* \< *avasyu*
+- *avasyava* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *vardhayantaḥ* \< *vardhay* \< *√vṛdh*
+- *vardhayantaḥ* ← *vardhay* ← *√vṛdh*
 - \[verb noun\], nominative, plural
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *śuṣmintamaṃ* \< *śuṣmintamam* \< *śuṣmintama*
+- *śuṣmintamaṃ* ← *śuṣmintamam* ← *śuṣmintama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cākanāma* \< *kan*
+- *cākanāma* ← *kan*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *devāsme* \< *deva*
+- *devāsme* ← *deva*
 - \[noun\], vocative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devāsme* \< *asme* \< *mad*
+- *devāsme* ← *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rāsi* \< *rā*
+- *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vīravantam* \< *vīravat*
+- *vīravantam* ← *vīravat*
 - \[noun\], accusative, singular, masculine
 - “rich in men.”
 ------------------------------------------------------------------------

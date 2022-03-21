@@ -6,17 +6,17 @@ title = "Rig Veda 10.48.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nemasmin* \< *nema*
+- *nemasmin* ← *nema*
 - \[noun\], locative, singular, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *dadṛśe* \< *dṛś*
+- *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 10.48.10"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *gopā* \< *gopāḥ* \< *gopā*
+- *gopā* ← *gopāḥ* \< *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------

@@ -6,15 +6,15 @@ title = "Rig Veda 6.17.10"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *tvaṣṭā* \< *tvaṣṭṛ*
+- *tvaṣṭā* ← *tvaṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *maha* \< *mahe* \< *mah*
+- *maha* ← *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -23,48 +23,48 @@ title = "Rig Veda 6.17.10"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭiṃ* \< *sahasra*
+- *sahasrabhṛṣṭiṃ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrabhṛṣṭiṃ* \< *bhṛṣṭim* \< *bhṛṣṭi*
+- *sahasrabhṛṣṭiṃ* ← *bhṛṣṭim* ← *bhṛṣṭi*
 - \[noun\], accusative, singular, masculine
 - “spike.”
 ------------------------------------------------------------------------
-- *vavṛtacchatāśrim* \< *vavṛtat* \< *vṛt*
+- *vavṛtacchatāśrim* ← *vavṛtat* ← *vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *vavṛtacchatāśrim* \< *śata*
+- *vavṛtacchatāśrim* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *vavṛtacchatāśrim* \< *aśrim* \< *asra*
+- *vavṛtacchatāśrim* ← *aśrim* ← *asra*
 - \[noun\], accusative, singular, masculine
 - “blood; corner; tear.”
 ------------------------------------------------------------------------
-- *nikāmam* \< *nikāma*
+- *nikāmam* ← *nikāma*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aramaṇasaṃ* \< *aramaṇasam* \< *aramaṇas*
+- *aramaṇasaṃ* ← *aramaṇasam* ← *aramaṇas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *navantam* \< *nū*
+- *navantam* ← *nū*
 - \[verb noun\], accusative, singular
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *ahiṃ* \< *ahim* \< *ahi*
+- *ahiṃ* ← *ahim* ← *ahi*
 - \[noun\], accusative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 6.17.10"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *piṇag* \< *piṇak* \< *piṣ*
+- *piṇag* ← *piṇak* ← *piṣ*
 - \[verb\], singular, Present injunctive
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------

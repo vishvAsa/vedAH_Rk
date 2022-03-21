@@ -6,7 +6,7 @@ title = "Rig Veda 8.13.22"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,21 +15,21 @@ title = "Rig Veda 8.13.22"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girvaṇa* \< *girvaṇaḥ* \< *girvaṇas*
+- *girvaṇa* ← *girvaṇaḥ* ← *girvaṇas*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *stotā* \< *stotṛ*
+- *stotā* ← *stotṛ*
 - \[noun\], nominative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *bhavāti* \< *bhū*
+- *bhavāti* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *śantamaḥ* \< *śaṃtama*
+- *śantamaḥ* ← *śaṃtama*
 - \[noun\], nominative, singular, masculine
 - “beneficent.”
 ------------------------------------------------------------------------
@@ -37,23 +37,23 @@ title = "Rig Veda 8.13.22"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gavye* \< *gavya*
+- *gavye* ← *gavya*
 - \[noun\], locative, singular, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *aśvye* \< *aśvya*
+- *aśvye* ← *aśvya*
 - \[noun\], locative, singular, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *vasau* \< *vasu*
+- *vasau* ← *vasu*
 - \[noun\], locative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *dadhaḥ* \< *dhā*
+- *dadhaḥ* ← *dhā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

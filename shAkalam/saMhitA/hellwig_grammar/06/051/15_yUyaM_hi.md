@@ -2,7 +2,7 @@
 title = "Rig Veda 6.51.15"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -10,29 +10,29 @@ title = "Rig Veda 6.51.15"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣṭhā* \< *as*
+- *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *sudānava* \< *sudānavaḥ* \< *sudānu*
+- *sudānava* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *indrajyeṣṭhā* \< *indra*
+- *indrajyeṣṭhā* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrajyeṣṭhā* \< *jyeṣṭhāḥ* \< *jyeṣṭha*
+- *indrajyeṣṭhā* ← *jyeṣṭhāḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *abhidyavaḥ* \< *abhidyu*
+- *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *kartā* \< *karta* \< *kṛ*
+- *kartā* ← *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -43,11 +43,11 @@ title = "Rig Veda 6.51.15"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *adhvann* \< *adhvan*
+- *adhvann* ← *adhvan*
 - \[noun\], locative, singular, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
@@ -56,10 +56,10 @@ title = "Rig Veda 6.51.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sugaṃ* \< *sugam* \< *suga*
+- *sugaṃ* ← *sugam* ← *suga*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *gopā* \< *gopāḥ* \< *gopa*
+- *gopā* ← *gopāḥ* ← *gopa*
 - \[noun\], nominative, plural, masculine
 - “cowboy; Gopa; defender.”
 ------------------------------------------------------------------------

@@ -6,33 +6,33 @@ title = "Rig Veda 6.61.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], nominative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *priyāsu* \< *priya*
+- *priyāsu* ← *priya*
 - \[noun\], locative, plural, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *saptasvasā* \< *sapta* \< *saptan*
+- *saptasvasā* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptasvasā* \< *svasā* \< *svasṛ*
+- *saptasvasā* ← *svasā* ← *svasṛ*
 - \[noun\], nominative, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *sujuṣṭā* \< *su*
+- *sujuṣṭā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujuṣṭā* \< *juṣṭā* \< *juṣ*
+- *sujuṣṭā* ← *juṣṭā* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -42,11 +42,11 @@ title = "Rig Veda 6.61.10"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *stomyā* \< *stomya*
+- *stomyā* ← *stomya*
 - \[noun\], nominative, singular, feminine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

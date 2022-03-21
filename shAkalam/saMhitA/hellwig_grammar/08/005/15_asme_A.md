@@ -2,7 +2,7 @@
 title = "Rig Veda 8.5.15"
 
 +++
--   *asme* \< *mad*
+-   *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -10,31 +10,31 @@ title = "Rig Veda 8.5.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vahataṃ* \< *vahatam* \< *vah*
+- *vahataṃ* ← *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *śatavantaṃ* \< *śatavantam* \< *śatavat*
+- *śatavantaṃ* ← *śatavantam* ← *śatavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasriṇam* \< *sahasrin*
+- *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *purukṣuṃ* \< *purukṣum* \< *purukṣu*
+- *purukṣuṃ* ← *purukṣum* ← *purukṣu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvadhāyasam* \< *viśva*
+- *viśvadhāyasam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadhāyasam* \< *dhāyasam* \< *dhāyas*
+- *viśvadhāyasam* ← *dhāyasam* ← *dhāyas*
 - \[noun\], accusative, singular, masculine
 - “alimentary; sustaining.”
 ------------------------------------------------------------------------

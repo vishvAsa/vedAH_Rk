@@ -6,49 +6,49 @@ title = "Rig Veda 1.51.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *meṣam* \< *meṣa*
+- *meṣam* ← *meṣa*
 - \[noun\], accusative, singular, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *puruhūta*
+- *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *ṛgmiyam* \< *ṛgmiya*
+- *ṛgmiyam* ← *ṛgmiya*
 - \[noun\], accusative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *madatā* \< *mad*
+- *madatā* ← *mad*
 - \[verb\], plural, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *vasvo* \< *vasvaḥ* \< *vasu*
+- *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *arṇavam* \< *arṇava*
+- *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -56,19 +56,19 @@ title = "Rig Veda 1.51.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vicaranti* \< *vicar* \< *√car*
+- *vicaranti* ← *vicar* ← *√car*
 - \[verb\], plural, Present indikative
 - “wander; travel; vraj; be active.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣāḥ* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣāḥ* ← *mānuṣa*
 - \[noun\], nominative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *maṃhiṣṭham* \< *maṃhiṣṭha*
+- *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 1.51.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vipram* \< *vipra*
+- *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *arcata* \< *arc*
+- *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

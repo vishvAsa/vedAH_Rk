@@ -2,39 +2,39 @@
 title = "Rig Veda 6.6.4"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śukrāsaḥ* \< *śukra*
+- *śukrāsaḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śucayaḥ* \< *śuci*
+- *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śuciṣmaḥ* \< *śuciṣmas* \< *śuciṣmat*
+- *śuciṣmaḥ* ← *śuciṣmas* ← *śuciṣmat*
 - \[noun\], vocative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *kṣāṃ* \< *kṣām* \< *kṣā*
+- *kṣāṃ* ← *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *vapanti* \< *vap*
+- *vapanti* ← *vap*
 - \[verb\], plural, Present indikative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *viṣitāso* \< *viṣitāsaḥ* \< *viṣā* \< *√sā*
+- *viṣitāso* ← *viṣitāsaḥ* ← *viṣā* ← *√sā*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *aśvāḥ* \< *aśva*
+- *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -42,11 +42,11 @@ title = "Rig Veda 6.6.4"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *bhramas* \< *bhramaḥ* \< *bhrama*
+- *bhramas* ← *bhramaḥ* ← *bhrama*
 - \[noun\], nominative, singular, masculine
 - “bhrama; dizziness; flare; wandering.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 6.6.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *yātayamāno* \< *yātayamānaḥ* \< *yātay* \< *√yat*
+- *yātayamāno* ← *yātayamānaḥ* ← *yātay* ← *√yat*
 - \[verb noun\], nominative, singular
 - “endeavor; settle.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 6.6.4"
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *pṛśneḥ* \< *pṛśni*
+- *pṛśneḥ* ← *pṛśni*
 - \[noun\], genitive, singular, feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------

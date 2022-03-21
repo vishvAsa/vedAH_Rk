@@ -2,35 +2,35 @@
 title = "Rig Veda 5.25.7"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāhiṣṭhaṃ* \< *vāhiṣṭham* \< *vāhiṣṭha*
+- *vāhiṣṭhaṃ* ← *vāhiṣṭham* ← *vāhiṣṭha*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *agnaye* \< *agni*
+- *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *arca* \< *arc*
+- *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *vibhāvaso* \< *vibhāvasu*
+- *vibhāvaso* ← *vibhāvasu*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sun; Surya.”
 ------------------------------------------------------------------------

@@ -6,35 +6,35 @@ title = "Rig Veda 1.42.1"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *pūṣann* \< *pūṣan*
+- *pūṣann* ← *pūṣan*
 - \[noun\], vocative, singular, masculine
 - “Pushan; pūṣan \[word\]; sun.”
 ------------------------------------------------------------------------
-- *adhvanas* \< *adhvanaḥ* \< *adhvan*
+- *adhvanas* ← *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *tira* \< *tṛ*
+- *tira* ← *tṛ*
 - \[verb\], singular, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *vimuco* \< *vimucaḥ* \< *vimuc*
+- *vimuco* ← *vimucaḥ* ← *vimuc*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
 - *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *sakṣvā* \< *sakṣva* \< *sac*
+- *sakṣvā* ← *sakṣva* ← *sac*
 - \[verb\], singular, Aorist imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
@@ -47,11 +47,11 @@ title = "Rig Veda 1.42.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇas* \< *ṇaḥ* \< *mad*
+- *ṇas* ← *ṇaḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *puras*
+- *puraḥ* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------

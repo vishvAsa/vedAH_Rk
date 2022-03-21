@@ -2,25 +2,25 @@
 title = "Rig Veda 6.17.14"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vājāya* \< *vāja*
+- *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *śravasa* \< *śravase* \< *śravas*
+- *śravasa* ← *śravase* ← *śravas*
 - \[noun\], dative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
@@ -28,16 +28,16 @@ title = "Rig Veda 6.17.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dyumata* \< *dyumataḥ* \< *dyumat*
+- *dyumata* ← *dyumataḥ* ← *dyumat*
 - \[noun\], accusative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
@@ -46,15 +46,15 @@ title = "Rig Veda 6.17.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viprān* \< *vipra*
+- *viprān* ← *vipra*
 - \[noun\], accusative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *bharadvāje* \< *bharadvāja*
+- *bharadvāje* ← *bharadvāja*
 - \[noun\], locative, singular, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *nṛvata* \< *nṛvataḥ* \< *nṛvat*
+- *nṛvata* ← *nṛvataḥ* ← *nṛvat*
 - \[noun\], accusative, plural, masculine
 - “rich in men.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 6.17.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -75,19 +75,19 @@ title = "Rig Veda 6.17.14"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *smaidhi* \< *smā* \< *sma*
+- *smaidhi* ← *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smaidhi* \< *edhi* \< *as*
+- *smaidhi* ← *edhi* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,61 +2,61 @@
 title = "Rig Veda 1.143.8"
 
 +++
--   *aprayucchann* \< *aprayucchan* \< *aprayucchat*
+-   *aprayucchann* ← *aprayucchan* ← *aprayucchat*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; attentive.”
 ------------------------------------------------------------------------
-- *aprayucchadbhir* \< *aprayucchadbhiḥ* \< *aprayucchat*
+- *aprayucchadbhir* ← *aprayucchadbhiḥ* ← *aprayucchat*
 - \[noun\], instrumental, plural, masculine
 - “ceaseless; attentive.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śivebhir* \< *śivebhiḥ* \< *śiva*
+- *śivebhir* ← *śivebhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pāyubhiḥ* \< *pāyu*
+- *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *śagmaiḥ* \< *śagma*
+- *śagmaiḥ* ← *śagma*
 - \[noun\], instrumental, plural, masculine
 - “powerful; reliable; competent.”
 ------------------------------------------------------------------------
-- *adabdhebhir* \< *adabdhebhiḥ* \< *adabdha*
+- *adabdhebhir* ← *adabdhebhiḥ* ← *adabdha*
 - \[noun\], instrumental, plural, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *adṛpitebhir* \< *a*
+- *adṛpitebhir* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adṛpitebhir* \< *dṛpitebhiḥ* \< *dṛp*
+- *adṛpitebhir* ← *dṛpitebhiḥ* ← *dṛp*
 - \[verb noun\], instrumental, plural
 ------------------------------------------------------------------------
-- *iṣṭe* \< *iṣṭa*
+- *iṣṭe* ← *iṣṭa*
 - \[noun\], locative, singular, neuter
 - “yajña.”
 ------------------------------------------------------------------------
-- *'nimiṣadbhiḥ* \< *a*
+- *'nimiṣadbhiḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'nimiṣadbhiḥ* \< *nimiṣadbhiḥ* \< *nimiṣ* \< *√miṣ*
+- *'nimiṣadbhiḥ* ← *nimiṣadbhiḥ* ← *nimiṣ* ← *√miṣ*
 - \[verb noun\], instrumental, plural
 - “blink.”
 ------------------------------------------------------------------------
@@ -64,15 +64,15 @@ title = "Rig Veda 1.143.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jāḥ* \< *jā*
+- *jāḥ* ← *jā*
 - \[noun\], accusative, plural, masculine
 - “born.”
 ------------------------------------------------------------------------

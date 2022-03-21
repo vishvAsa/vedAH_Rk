@@ -2,10 +2,10 @@
 title = "Rig Veda 10.100.11"
 
 +++
--   *kratuprāvā* \< *kratuprāvan*
+-   *kratuprāvā* ← *kratuprāvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------

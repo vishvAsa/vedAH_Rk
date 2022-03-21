@@ -2,34 +2,34 @@
 title = "Rig Veda 4.57.5"
 
 +++
--   *śunāsīrāv* \< *śunāsīrau* \< *śunāsīra*
+-   *śunāsīrāv* ← *śunāsīrau* ← *śunāsīra*
 - \[noun\], vocative, dual, masculine
 - “śunāsīra \[word\]; Indra.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vācaṃ* \< *vācam* \< *vāc*
+- *vācaṃ* ← *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *juṣethāṃ* \< *juṣethām* \< *juṣ*
+- *juṣethāṃ* ← *juṣethām* ← *juṣ*
 - \[verb\], dual, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *cakrathuḥ* \< *kṛ*
+- *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,17 +40,17 @@ title = "Rig Veda 4.57.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *tenemām* \< *tena* \< *tad*
+- *tenemām* ← *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tenemām* \< *imām* \< *idam*
+- *tenemām* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 4.57.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *siñcatam* \< *sic*
+- *siñcatam* ← *sic*
 - \[verb\], dual, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------

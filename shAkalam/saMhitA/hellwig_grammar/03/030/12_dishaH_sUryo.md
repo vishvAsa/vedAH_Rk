@@ -2,12 +2,12 @@
 title = "Rig Veda 3.30.12"
 
 +++
--   *diśaḥ* \< *diś*
+-   *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -16,48 +16,48 @@ title = "Rig Veda 3.30.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *pradiṣṭā* \< *pradiṣṭāḥ* \< *pradiś* \< *√diś*
+- *pradiṣṭā* ← *pradiṣṭāḥ* ← *pradiś* ← *√diś*
 - \[verb noun\], accusative, plural
 - “describe; indicate; name; teach; diagnose.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *haryaśvaprasūtāḥ* \< *haryaśva*
+- *haryaśvaprasūtāḥ* ← *haryaśva*
 - \[noun\], masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *haryaśvaprasūtāḥ* \< *prasūtāḥ* \< *prasū* \< *√sū*
+- *haryaśvaprasūtāḥ* ← *prasūtāḥ* ← *prasū* ← *√sū*
 - \[verb noun\], accusative, plural
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ānaḍ* \< *ānaṭ* \< *naś*
+- *ānaḍ* ← *ānaṭ* ← *naś*
 - \[verb\], singular, Root aorist (Ind.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *adhvana* \< *adhvanaḥ* \< *adhvan*
+- *adhvana* ← *adhvanaḥ* ← *adhvan*
 - \[noun\], accusative, plural, masculine
 - “way; journey; adhvan \[word\]; time; path; method; road; time;
     distance.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -65,14 +65,14 @@ title = "Rig Veda 3.30.12"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aśvair* \< *aśvaiḥ* \< *aśva*
+- *aśvair* ← *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *vimocanaṃ* \< *vimocanam* \< *vimocana*
+- *vimocanaṃ* ← *vimocanam* ← *vimocana*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -83,17 +83,17 @@ title = "Rig Veda 3.30.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

@@ -2,72 +2,72 @@
 title = "Rig Veda 1.127.5"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pṛkṣam* \< *pṛkṣa*
+- *pṛkṣam* ← *pṛkṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *uparāsu* \< *upara*
+- *uparāsu* ← *upara*
 - \[noun\], locative, plural, feminine
 - “later(a); future(a); nether.”
 ------------------------------------------------------------------------
-- *dhīmahi* \< *dhā*
+- *dhīmahi* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *naktaṃ* \< *naktam* \< *nakta*
+- *naktaṃ* ← *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudarśataro* \< *sudarśataraḥ* \< *sudarśatara*
+- *sudarśataro* ← *sudarśataraḥ* ← *sudarśatara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *divātarād* \< *divātarāt* \< *divātara*
+- *divātarād* ← *divātarāt* ← *divātara*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *aprāyuṣe* \< *a*
+- *aprāyuṣe* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aprāyuṣe* \< *prāyuṣe* \< *prāyus*
+- *aprāyuṣe* ← *prāyuṣe* ← *prāyus*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *divātarāt* \< *divātara*
+- *divātarāt* ← *divātara*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *asyāyur* \< *asya* \< *idam*
+- *asyāyur* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyāyur* \< *āyuḥ* \< *āyus*
+- *asyāyur* ← *āyuḥ* ← *āyus*
 - \[noun\], nominative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *grabhaṇavad* \< *grabhaṇavat*
+- *grabhaṇavad* ← *grabhaṇavat*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *vīﾱu* \< *vīḍu*
+- *vīﾱu* ← *vīḍu*
 - \[noun\], nominative, singular, neuter
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], nominative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
@@ -75,47 +75,47 @@ title = "Rig Veda 1.127.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūnave* \< *sūnu*
+- *sūnave* ← *sūnu*
 - \[noun\], dative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *bhaktam* \< *bhaj*
+- *bhaktam* ← *bhaj*
 - \[verb noun\], accusative, singular
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *abhaktam* \< *a*
+- *abhaktam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abhaktam* \< *bhaktam* \< *bhaj*
+- *abhaktam* ← *bhaktam* ← *bhaj*
 - \[verb noun\], accusative, singular
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *avo* \< *avaḥ* \< *avas*
+- *avo* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *vyanto* \< *vyantaḥ* \< *vī*
+- *vyanto* ← *vyantaḥ* ← *vī*
 - \[verb noun\], nominative, plural
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *ajarā* \< *ajarāḥ* \< *ajara*
+- *ajarā* ← *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *agnayo* \< *agnayaḥ* \< *agni*
+- *agnayo* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vyanto* \< *vyantaḥ* \< *vī*
+- *vyanto* ← *vyantaḥ* ← *vī*
 - \[verb noun\], nominative, plural
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *ajarāḥ* \< *ajara*
+- *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------

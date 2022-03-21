@@ -2,42 +2,42 @@
 title = "Rig Veda 4.15.10"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *devāv* \< *devau* \< *deva*
+- *devāv* ← *devau* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *kumāraṃ* \< *kumāram* \< *kumāra*
+- *kumāraṃ* ← *kumāram* ← *kumāra*
 - \[noun\], accusative, singular, masculine
 - “prince; male child; child; Skanda; son; kumārabandha; kumāra
     \[word\]; young person.”
 ------------------------------------------------------------------------
-- *sāhadevyam* \< *sāhadevya*
+- *sāhadevyam* ← *sāhadevya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dīrghāyuṣaṃ* \< *dīrgha*
+- *dīrghāyuṣaṃ* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghāyuṣaṃ* \< *āyuṣam* \< *āyus*
+- *dīrghāyuṣaṃ* ← *āyuṣam* ← *āyus*
 - \[noun\], accusative, singular, masculine
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *kṛṇotana* \< *kṛ*
+- *kṛṇotana* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

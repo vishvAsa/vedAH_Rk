@@ -2,27 +2,27 @@
 title = "Rig Veda 6.45.29"
 
 +++
--   *purūtamam* \< *purutama*
+-   *purūtamam* ← *purutama*
 - \[noun\], nominative, singular, neuter
 - “most(a).”
 ------------------------------------------------------------------------
-- *purūṇāṃ* \< *purūṇām* \< *puru*
+- *purūṇāṃ* ← *purūṇām* ← *puru*
 - \[noun\], genitive, plural, masculine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *stotṝṇāṃ* \< *stotṝṇām* \< *stotṛ*
+- *stotṝṇāṃ* ← *stotṝṇām* ← *stotṛ*
 - \[noun\], genitive, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vivāci* \< *vivāc*
+- *vivāci* ← *vivāc*
 - \[noun\], locative, singular, feminine
 - “contest.”
 ------------------------------------------------------------------------
-- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājayatām* \< *vājay* \< *√vaj*
+- *vājayatām* ← *vājay* ← *√vaj*
 - \[verb noun\], genitive, plural
 - “incite.”
 ------------------------------------------------------------------------

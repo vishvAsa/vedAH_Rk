@@ -6,23 +6,23 @@ title = "Rig Veda 8.78.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karṇaśobhanā* \< *karṇa*
+- *karṇaśobhanā* ← *karṇa*
 - \[noun\], masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *karṇaśobhanā* \< *śobhanā* \< *śobhana*
+- *karṇaśobhanā* ← *śobhanā* ← *śobhana*
 - \[noun\], accusative, plural, neuter
 - “decoration; benefit; adornment.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dhṛṣṇav* \< *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇav* ← *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
@@ -30,12 +30,12 @@ title = "Rig Veda 8.78.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 8.78.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śṛṇviṣe* \< *śru*
+- *śṛṇviṣe* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------

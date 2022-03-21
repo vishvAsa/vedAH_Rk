@@ -2,7 +2,7 @@
 title = "Rig Veda 6.45.25"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 6.45.25"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śatakrato* \< *śatakratu*
+- *śatakrato* ← *śatakratu*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *'bhi* \< *abhi*
+- *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 6.45.25"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonuvur* \< *nonuvuḥ* \< *nonāv* \< *√nū*
+- *ṇonuvur* ← *nonuvuḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Perfect indicative
 - “bellow.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -40,7 +40,7 @@ title = "Rig Veda 6.45.25"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -49,7 +49,7 @@ title = "Rig Veda 6.45.25"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātaraḥ* \< *mātṛ*
+- *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

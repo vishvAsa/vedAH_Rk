@@ -2,16 +2,16 @@
 title = "Rig Veda 3.60.3"
 
 +++
--   *indrasya* \< *indra*
+-   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -19,65 +19,65 @@ title = "Rig Veda 3.60.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ānaśur* \< *ānaśuḥ* \< *aś*
+- *ānaśur* ← *ānaśuḥ* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *manor* \< *manoḥ* \< *manu*
+- *manor* ← *manoḥ* ← *manu*
 - \[noun\], genitive, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
 ------------------------------------------------------------------------
-- *napāto* \< *napātaḥ* \< *napāt*
+- *napāto* ← *napātaḥ* ← *napāt*
 - \[noun\], nominative, plural, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *apaso* \< *apasaḥ* \< *apas*
+- *apaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “busy; effective; hardworking.”
 ------------------------------------------------------------------------
-- *dadhanvire* \< *dhanv*
+- *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
-- *saudhanvanāso* \< *saudhanvanāsaḥ* \< *saudhanvana*
+- *saudhanvanāso* ← *saudhanvanāsaḥ* ← *saudhanvana*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *erire* \< *er* \< *√īr*
+- *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *viṣṭvī* \< *viṣ*
+- *viṣṭvī* ← *viṣ*
 - \[verb noun\]
 - “labor; act; perform.”
 ------------------------------------------------------------------------
-- *śamībhiḥ* \< *śamī*
+- *śamībhiḥ* ← *śamī*
 - \[noun\], instrumental, plural, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *sukṛtaḥ* \< *su*
+- *sukṛtaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtaḥ* \< *kṛtaḥ* \< *kṛt*
+- *sukṛtaḥ* ← *kṛtaḥ* ← *kṛt*
 - \[noun\], nominative, plural, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *su*
+- *sukṛtyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- *sukṛtyayā* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 ------------------------------------------------------------------------

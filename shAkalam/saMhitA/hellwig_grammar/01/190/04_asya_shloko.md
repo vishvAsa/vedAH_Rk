@@ -2,27 +2,27 @@
 title = "Rig Veda 1.190.4"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śloko* \< *ślokaḥ* \< *śloka*
+- *śloko* ← *ślokaḥ* ← *śloka*
 - \[noun\], nominative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *divīyate* \< *divi* \< *div*
+- *divīyate* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *divīyate* \< *iyate* \< *i*
+- *divīyate* ← *iyate* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pṛthivyām* \< *pṛthivī*
+- *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -30,23 +30,23 @@ title = "Rig Veda 1.190.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃsad* \< *yaṃsat* \< *yam*
+- *yaṃsad* ← *yaṃsat* ← *yam*
 - \[verb\], singular, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *yakṣabhṛd* \< *yakṣa*
+- *yakṣabhṛd* ← *yakṣa*
 - \[noun\], neuter
 - “apparition; monster; apparition.”
 ------------------------------------------------------------------------
-- *yakṣabhṛd* \< *bhṛt*
+- *yakṣabhṛd* ← *bhṛt*
 - \[noun\], nominative, singular, masculine
 - “endowed; bringing; carrying.”
 ------------------------------------------------------------------------
-- *vicetāḥ* \< *vicetas*
+- *vicetāḥ* ← *vicetas*
 - \[noun\], nominative, singular, masculine
 - “wise; diligent.”
 ------------------------------------------------------------------------
-- *mṛgāṇāṃ* \< *mṛgāṇām* \< *mṛga*
+- *mṛgāṇāṃ* ← *mṛgāṇām* ← *mṛga*
 - \[noun\], genitive, plural, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -54,31 +54,31 @@ title = "Rig Veda 1.190.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *hetayo* \< *hetayaḥ* \< *heti*
+- *hetayo* ← *hetayaḥ* ← *heti*
 - \[noun\], nominative, plural, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *cemā* \< *ca*
+- *cemā* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cemā* \< *imāḥ* \< *idam*
+- *cemā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bṛhaspater* \< *bṛhaspateḥ* \< *bṛhaspati*
+- *bṛhaspater* ← *bṛhaspateḥ* ← *bṛhaspati*
 - \[noun\], genitive, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *ahimāyāṃ* \< *ahi*
+- *ahimāyāṃ* ← *ahi*
 - \[noun\], masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *ahimāyāṃ* \< *māyāṃ* \< *māyā*
+- *ahimāyāṃ* ← *māyāṃ* ← *māyā*
 - \[noun\], accusative, plural, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
@@ -87,7 +87,7 @@ title = "Rig Veda 1.190.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

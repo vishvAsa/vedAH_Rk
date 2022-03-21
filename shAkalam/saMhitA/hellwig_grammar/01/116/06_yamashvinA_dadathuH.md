@@ -2,42 +2,42 @@
 title = "Rig Veda 1.116.6"
 
 +++
--   *yam* \< *yad*
+-   *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *dadathuḥ* \< *dā*
+- *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *śvetam* \< *śveta*
+- *śvetam* ← *śveta*
 - \[noun\], accusative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aghāśvāya* \< *agha*
+- *aghāśvāya* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *aghāśvāya* \< *aśvāya* \< *aśva*
+- *aghāśvāya* ← *aśvāya* ← *aśva*
 - \[noun\], dative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *śaśvad* \< *śaśvat*
+- *śaśvad* ← *śaśvat*
 - \[noun\], nominative, singular, neuter
 - “all(a); each(a).”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -46,17 +46,17 @@ title = "Rig Veda 1.116.6"
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dātram* \< *dātra*
+- *dātram* ← *dātra*
 - \[noun\], nominative, singular, neuter
 - “sickle; gift; scythe.”
 ------------------------------------------------------------------------
@@ -64,20 +64,20 @@ title = "Rig Veda 1.116.6"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *kīrtenyam* \< *kīrtenya*
+- *kīrtenyam* ← *kīrtenya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *paidvo* \< *paidvaḥ* \< *paidva*
+- *paidvo* ← *paidvaḥ* ← *paidva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
@@ -89,10 +89,10 @@ title = "Rig Veda 1.116.6"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dhavyo* \< *havyaḥ* \< *hvā*
+- *dhavyo* ← *havyaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

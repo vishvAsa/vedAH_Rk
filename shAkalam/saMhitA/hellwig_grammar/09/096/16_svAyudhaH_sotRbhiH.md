@@ -2,30 +2,30 @@
 title = "Rig Veda 9.96.16"
 
 +++
--   *svāyudhaḥ* \< *su*
+-   *svāyudhaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyudhaḥ* \< *āyudhaḥ* \< *āyudha*
+- *svāyudhaḥ* ← *āyudhaḥ* ← *āyudha*
 - \[noun\], nominative, singular, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *sotṛbhiḥ* \< *sotṛ*
+- *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *pūyamāno* \< *pūyamānaḥ* \< *pū*
+- *pūyamāno* ← *pūyamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *'bhy* \< *abhi*
+- *'bhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *guhyaṃ* \< *guhyam* \< *guhya*
+- *guhyaṃ* ← *guhyam* ← *guhya*
 - \[noun\], accusative, singular, neuter
 - “secret; concealed.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 9.96.16"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
@@ -42,11 +42,11 @@ title = "Rig Veda 9.96.16"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *saptir* \< *saptiḥ* \< *sapti*
+- *saptir* ← *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -54,14 +54,14 @@ title = "Rig Veda 9.96.16"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śravasyābhi* \< *śravasyā*
+- *śravasyābhi* ← *śravasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *śravasyābhi* \< *abhi*
+- *śravasyābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāyum* \< *vāyu*
+- *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -70,7 +70,7 @@ title = "Rig Veda 9.96.16"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

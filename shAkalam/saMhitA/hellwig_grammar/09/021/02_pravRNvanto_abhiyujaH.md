@@ -2,15 +2,15 @@
 title = "Rig Veda 9.21.2"
 
 +++
--   *pravṛṇvanto* \< *pravṛṇvantaḥ* \< *pravṛ* \< *√vṛ*
+-   *pravṛṇvanto* ← *pravṛṇvantaḥ* ← *pravṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “cover; envelop; ward off.”
 ------------------------------------------------------------------------
-- *abhiyujaḥ* \< *abhiyuj*
+- *abhiyujaḥ* ← *abhiyuj*
 - \[noun\], accusative, plural, feminine
 - “attack; attack.”
 ------------------------------------------------------------------------
-- *suṣvaye* \< *suṣvi*
+- *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
 - *varivovidaḥ* \< *varivaḥ* \< *varivas*

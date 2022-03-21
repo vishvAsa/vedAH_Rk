@@ -2,48 +2,48 @@
 title = "Rig Veda 3.33.9"
 
 +++
--   *o* \< *ā*
+-   *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svasāraḥ* \< *svasṛ*
+- *svasāraḥ* ← *svasṛ*
 - \[noun\], vocative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *kārave* \< *kāru*
+- *kārave* ← *kāru*
 - \[noun\], dative, singular, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *śṛṇota* \< *śru*
+- *śṛṇota* ← *śru*
 - \[verb\], plural, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *yayau* \< *yā*
+- *yayau* ← *yā*
 - \[verb\], singular, Perfect indicative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dūrād* \< *dūrāt* \< *dūra*
+- *dūrād* ← *dūrāt* ← *dūra*
 - \[noun\], ablative, singular, neuter
 - “distance; distance; farness.”
 ------------------------------------------------------------------------
-- *anasā* \< *anas*
+- *anasā* ← *anas*
 - \[noun\], instrumental, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -51,37 +51,37 @@ title = "Rig Veda 3.33.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *namadhvam* \< *nam*
+- *namadhvam* ← *nam*
 - \[verb\], plural, Present imperative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
-- *bhavatā* \< *bhū*
+- *bhavatā* ← *bhū*
 - \[verb\], plural, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *supārā* \< *su*
+- *supārā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supārā* \< *pārāḥ* \< *pāra*
+- *supārā* ← *pārāḥ* ← *pāra*
 - \[noun\], nominative, plural, feminine
 - “Pāra; Pāra.”
 ------------------------------------------------------------------------
-- *adhoakṣāḥ* \< *adhoakṣa*
+- *adhoakṣāḥ* ← *adhoakṣa*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *sindhavaḥ* \< *sindhu*
+- *sindhavaḥ* ← *sindhu*
 - \[noun\], vocative, plural, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *srotyābhiḥ* \< *srotyā*
+- *srotyābhiḥ* ← *srotyā*
 - \[noun\], instrumental, plural, feminine
 - “river.”
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 10.93.12"
 
 +++
--   *etam* \< *etad*
+-   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
@@ -22,52 +22,52 @@ title = "Rig Veda 10.93.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūrye* \< *sūrya*
+- *sūrye* ← *sūrya*
 - \[noun\], locative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *dyutadyāmānaṃ* \< *dyutat*
+- *dyutadyāmānaṃ* ← *dyutat*
 - \[noun\]
 ------------------------------------------------------------------------
-- *dyutadyāmānaṃ* \< *yāmānam* \< *yāman*
+- *dyutadyāmānaṃ* ← *yāmānam* ← *yāman*
 - \[noun\], accusative, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *vāvṛdhanta* \< *vṛdh*
+- *vāvṛdhanta* ← *vṛdh*
 - \[verb\], plural, Plusquamperfect
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *nṛṇām* \< *nṛ*
+- *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *saṃvananaṃ* \< *saṃvananam* \< *saṃvanana*
+- *saṃvananaṃ* ← *saṃvananam* ← *saṃvanana*
 - \[noun\], accusative, singular, masculine
 - “propitiative; conciliating.”
 ------------------------------------------------------------------------
-- *nāśvyaṃ* \< *na*
+- *nāśvyaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāśvyaṃ* \< *aśvyam* \< *aśvya*
+- *nāśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, masculine
 - “equine.”
 ------------------------------------------------------------------------
-- *taṣṭevānapacyutam* \< *taṣṭā* \< *taṣṭṛ*
+- *taṣṭevānapacyutam* ← *taṣṭā* ← *taṣṭṛ*
 - \[noun\], nominative, singular, masculine
 - “carpenter.”
 ------------------------------------------------------------------------
-- *taṣṭevānapacyutam* \< *iva*
+- *taṣṭevānapacyutam* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *taṣṭevānapacyutam* \< *an*
+- *taṣṭevānapacyutam* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *taṣṭevānapacyutam* \< *apacyutam* \< *apacyu* \< *√cyu*
+- *taṣṭevānapacyutam* ← *apacyutam* ← *apacyu* ← *√cyu*
 - \[verb noun\], accusative, singular
 - “abscond.”
 ------------------------------------------------------------------------

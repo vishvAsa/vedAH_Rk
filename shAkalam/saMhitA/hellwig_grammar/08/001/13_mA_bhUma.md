@@ -6,31 +6,31 @@ title = "Rig Veda 8.1.13"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *bhūma* \< *bhū*
+- *bhūma* ← *bhū*
 - \[verb\], plural, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *niṣṭyā* \< *niṣṭyāḥ* \< *niṣṭya*
+- *niṣṭyā* ← *niṣṭyāḥ* ← *niṣṭya*
 - \[noun\], nominative, plural, masculine
 - “foreign; alien.”
 ------------------------------------------------------------------------
-- *ivendra* \< *iva*
+- *ivendra* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivendra* \< *indra*
+- *ivendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *araṇā* \< *araṇāḥ* \< *araṇa*
+- *araṇā* ← *araṇāḥ* ← *araṇa*
 - \[noun\], nominative, plural, masculine
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.1.13"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vanāni* \< *vana*
+- *vanāni* ← *vana*
 - \[noun\], nominative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -46,18 +46,18 @@ title = "Rig Veda 8.1.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prajahitāny* \< *prajahitāni* \< *prahā* \< *√hā*
+- *prajahitāny* ← *prajahitāni* ← *prahā* ← *√hā*
 - \[verb noun\], nominative, plural
 - “abandon; transgress; vanish; avoid.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *duroṣāso* \< *duroṣāsaḥ* \< *duroṣa*
+- *duroṣāso* ← *duroṣāsaḥ* ← *duroṣa*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *amanmahi* \< *man*
+- *amanmahi* ← *man*
 - \[verb\], plural, Root aorist (Ind.)
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;

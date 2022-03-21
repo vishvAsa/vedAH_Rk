@@ -2,21 +2,21 @@
 title = "Rig Veda 10.140.4"
 
 +++
--   *irajyann* \< *irajyan* \< *irajy* \< *√rañj*
+-   *irajyann* ← *irajyan* ← *irajy* ← *√rañj*
 - \[verb noun\], nominative, singular
 - “direct.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *prathayasva* \< *prathay* \< *√prath*
+- *prathayasva* ← *prathay* ← *√prath*
 - \[verb\], singular, Present imperative
 - “spread; proclaim.”
 ------------------------------------------------------------------------
-- *jantubhir* \< *jantubhiḥ* \< *jantu*
+- *jantubhir* ← *jantubhiḥ* \< *jantu*
 - \[noun\], instrumental, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------

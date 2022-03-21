@@ -10,19 +10,19 @@ title = "Rig Veda 9.81.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *kalaśāṃ* \< *kalaśa*
+- *kalaśāṃ* ← *kalaśa*
 - \[noun\], accusative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *asiṣyadad* \< *asiṣyadat* \< *syand*
+- *asiṣyadad* ← *asiṣyadat* ← *syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “run.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -30,54 +30,54 @@ title = "Rig Veda 9.81.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *voﾱhā* \< *voḍhā* \< *voḍhṛ*
+- *voﾱhā* ← *voḍhā* ← *voḍhṛ*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *raghuvartanir* \< *raghu*
+- *raghuvartanir* ← *raghu*
 - \[noun\]
 - “low; fast.”
 ------------------------------------------------------------------------
-- *raghuvartanir* \< *vartaniḥ* \< *vartani*
+- *raghuvartanir* ← *vartaniḥ* ← *vartani*
 - \[noun\], nominative, singular, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ubhayasya* \< *ubhaya*
+- *ubhayasya* ← *ubhaya*
 - \[noun\], genitive, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *janmano* \< *janmanaḥ* \< *janman*
+- *janmano* ← *janmanaḥ* ← *janman*
 - \[noun\], genitive, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *aśnoty* \< *aśnoti* \< *aś*
+- *aśnoty* ← *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *amuta* \< *amutas*
+- *amuta* ← *amutas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *itaś* \< *itas*
+- *itaś* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 9.81.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

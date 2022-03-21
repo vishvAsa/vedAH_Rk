@@ -2,7 +2,7 @@
 title = "Rig Veda 10.105.11"
 
 +++
--   *śataṃ* \< *śatam* \< *śata*
+-   *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------

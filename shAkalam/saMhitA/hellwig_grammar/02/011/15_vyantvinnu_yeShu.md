@@ -2,11 +2,11 @@
 title = "Rig Veda 2.11.15"
 
 +++
--   *vyantv* \< *vyantu* \< *vī*
+-   *vyantv* ← *vyantu* ← *vī*
 - \[verb\], plural, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,27 +14,27 @@ title = "Rig Veda 2.11.15"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mandasānas* \< *mandasānaḥ* \< *mand*
+- *mandasānas* ← *mandasānaḥ* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *tṛpat* \< *tṛp*
+- *tṛpat* ← *tṛp*
 - \[verb noun\], accusative, singular
 - “satiate; enjoy; delight.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *drahyad* \< *drahyat*
+- *drahyad* ← *drahyat*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *indra*
@@ -42,7 +42,7 @@ title = "Rig Veda 2.11.15"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 2.11.15"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *pṛtsv* \< *pṛtsu* \< *pṛt*
+- *pṛtsv* ← *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
@@ -58,24 +58,24 @@ title = "Rig Veda 2.11.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tarutrāvardhayo* \< *tarutra*
+- *tarutrāvardhayo* ← *tarutra*
 - \[noun\], vocative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *tarutrāvardhayo* \< *avardhayaḥ* \< *vardhay* \< *√vṛdh*
+- *tarutrāvardhayo* ← *avardhayaḥ* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Imperfect
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *bṛhadbhir* \< *bṛhadbhiḥ* \< *bṛhat*
+- *bṛhadbhir* ← *bṛhadbhiḥ* ← *bṛhat*
 - \[noun\], instrumental, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”

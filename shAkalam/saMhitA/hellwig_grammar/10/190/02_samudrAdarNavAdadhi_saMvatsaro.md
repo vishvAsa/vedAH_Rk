@@ -2,11 +2,11 @@
 title = "Rig Veda 10.190.2"
 
 +++
--   *samudrād* \< *samudrāt* \< *samudra*
+-   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *arṇavād* \< *arṇavāt* \< *arṇava*
+- *arṇavād* ← *arṇavāt* ← *arṇava*
 - \[noun\], ablative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
@@ -14,21 +14,21 @@ title = "Rig Veda 10.190.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *saṃvatsaro* \< *saṃvatsaraḥ* \< *saṃvatsara*
+- *saṃvatsaro* ← *saṃvatsaraḥ* ← *saṃvatsara*
 - \[noun\], nominative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
 ------------------------------------------------------------------------
-- *ajāyata* \< *jan*
+- *ajāyata* ← *jan*
 - \[verb\], singular, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *ahorātrāṇi* \< *ahorātra*
+- *ahorātrāṇi* ← *ahorātra*
 - \[noun\], accusative, plural, neuter
 - “day.”
 ------------------------------------------------------------------------
-- *vidadhad* \< *vidadhat* \< *vidhā* \< *√dhā*
+- *vidadhad* ← *vidadhat* ← *vidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “produce; perform; administer; cause; shape; use; make; dig;
     describe; construct; teach; bore; fill into; prepare; ignite;
@@ -36,15 +36,15 @@ title = "Rig Veda 10.190.2"
     order; name; breed; raise; write; produce; grant; appoint; do; put
     on.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *miṣato* \< *miṣataḥ* \< *miṣ*
+- *miṣato* ← *miṣataḥ* ← *miṣ*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *vaśī* \< *vaśin*
+- *vaśī* ← *vaśin*
 - \[noun\], nominative, singular, masculine
 - “powerful; controlling; regnant; authoritative.”
 ------------------------------------------------------------------------

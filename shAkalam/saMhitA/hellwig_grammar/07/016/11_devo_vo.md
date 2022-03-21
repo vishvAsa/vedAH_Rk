@@ -2,33 +2,33 @@
 title = "Rig Veda 7.16.11"
 
 +++
--   *devo* \< *devaḥ* \< *deva*
+-   *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *draviṇodāḥ* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodāḥ* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodāḥ* \< *dāḥ* \< *dā*
+- *draviṇodāḥ* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *pūrṇāṃ* \< *pūrṇām* \< *pṛ*
+- *pūrṇāṃ* ← *pūrṇām* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *vivaṣṭy* \< *vivaṣṭi* \< *vaś*
+- *vivaṣṭy* ← *vivaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *āsicam* \< *āsic*
+- *āsicam* ← *āsic*
 - \[noun\], accusative, singular, feminine
 - “pouring.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 7.16.11"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *siñcadhvam* \< *sic*
+- *siñcadhvam* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 7.16.11"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pṛṇadhvam* \< *pṛṇ*
+- *pṛṇadhvam* ← *pṛṇ*
 - \[verb\], plural, Present imperative
 - “satisfy.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -64,16 +64,16 @@ title = "Rig Veda 7.16.11"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ohate* \< *ūh*
+- *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------

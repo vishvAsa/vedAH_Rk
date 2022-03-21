@@ -6,22 +6,22 @@ title = "Rig Veda 7.34.17"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'hir* \< *ahiḥ* \< *ahi*
+- *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnyo* \< *budhnyaḥ* \< *budhnya*
+- *budhnyo* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *riṣe* \< *riṣ*
+- *riṣe* ← *riṣ*
 - \[verb noun\]
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *dhān* \< *dhāt* \< *dhā*
+- *dhān* ← *dhāt* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -30,17 +30,17 @@ title = "Rig Veda 7.34.17"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *yajño* \< *yajñaḥ* \< *yajña*
+- *yajño* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sridhad* \< *sridhat* \< *sridh*
+- *sridhad* ← *sridhat* ← *sridh*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *ṛtāyoḥ* \< *ṛtāyu*
+- *ṛtāyoḥ* ← *ṛtāyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

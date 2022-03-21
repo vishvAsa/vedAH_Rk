@@ -6,20 +6,20 @@ title = "Rig Veda 1.104.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *bharate* \< *bhṛ*
+- *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *ketavedā* \< *keta*
+- *ketavedā* ← *keta*
 - \[noun\], masculine
 - “wish; will; purpose; expectation; house.”
 ------------------------------------------------------------------------
-- *ketavedā* \< *vedāḥ* \< *vedas*
+- *ketavedā* ← *vedāḥ* ← *vedas*
 - \[noun\], nominative, singular, feminine
 - “knowledge.”
 ------------------------------------------------------------------------
@@ -27,16 +27,16 @@ title = "Rig Veda 1.104.3"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *bharate* \< *bhṛ*
+- *bharate* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *phenam* \< *phena*
+- *phenam* ← *phena*
 - \[noun\], accusative, singular, masculine
 - “foam; cuttlefish bone; phenaprameha; saliva; opium; phena
     \[word\].”
@@ -45,43 +45,43 @@ title = "Rig Veda 1.104.3"
 - \[noun\], locative, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *kṣīreṇa* \< *kṣīra*
+- *kṣīreṇa* ← *kṣīra*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; milk; sap; kṣīra \[word\]; juice; fluid.”
 ------------------------------------------------------------------------
-- *snātaḥ* \< *snā*
+- *snātaḥ* ← *snā*
 - \[verb noun\], nominative, singular
 - “bathe.”
 ------------------------------------------------------------------------
-- *kuyavasya* \< *kuyava*
+- *kuyavasya* ← *kuyava*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *yoṣe* \< *yoṣā*
+- *yoṣe* ← *yoṣā*
 - \[noun\], nominative, dual, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *hate* \< *han*
+- *hate* ← *han*
 - \[verb noun\], nominative, dual
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], nominative, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *syātām* \< *as*
+- *syātām* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pravaṇe* \< *pravaṇa*
+- *pravaṇe* ← *pravaṇa*
 - \[noun\], locative, singular, masculine
 - “torrent.”
 ------------------------------------------------------------------------
-- *śiphāyāḥ* \< *śiphā*
+- *śiphāyāḥ* ← *śiphā*
 - \[noun\], genitive, singular, feminine
 - “fiber; śiphā.”
 ------------------------------------------------------------------------

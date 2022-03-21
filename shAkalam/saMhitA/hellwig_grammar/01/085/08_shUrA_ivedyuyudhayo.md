@@ -2,20 +2,20 @@
 title = "Rig Veda 1.85.8"
 
 +++
--   *śūrā* \< *śūrāḥ* \< *śūra*
+-   *śūrā* ← *śūrāḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *ived* \< *iva*
+- *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ived* \< *id*
+- *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yuyudhayo* \< *yuyudhayaḥ* \< *yuyudhi*
+- *yuyudhayo* ← *yuyudhayaḥ* ← *yuyudhi*
 - \[noun\], nominative, plural, masculine
 - “unpacific.”
 ------------------------------------------------------------------------
@@ -23,10 +23,10 @@ title = "Rig Veda 1.85.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jagmayaḥ* \< *jagmi*
+- *jagmayaḥ* ← *jagmi*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- *śravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
@@ -34,32 +34,32 @@ title = "Rig Veda 1.85.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *yetire* \< *yat*
+- *yetire* ← *yat*
 - \[verb\], plural, Perfect indicative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *bhayante* \< *bhī*
+- *bhayante* ← *bhī*
 - \[verb\], plural, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanā* \< *bhuvana*
+- *bhuvanā* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *marudbhyo* \< *marudbhyaḥ* \< *marut*
+- *marudbhyo* ← *marudbhyaḥ* ← *marut*
 - \[noun\], ablative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *rājāna* \< *rājānaḥ* \< *rājan*
+- *rājāna* ← *rājānaḥ* ← *rājan*
 - \[noun\], nominative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
@@ -67,15 +67,15 @@ title = "Rig Veda 1.85.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tveṣasaṃdṛśo* \< *tveṣa*
+- *tveṣasaṃdṛśo* ← *tveṣa*
 - \[noun\]
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *tveṣasaṃdṛśo* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- *tveṣasaṃdṛśo* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], nominative, plural, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

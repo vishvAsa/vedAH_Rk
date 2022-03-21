@@ -2,17 +2,17 @@
 title = "Rig Veda 9.97.34"
 
 +++
--   *tisro* \< *tisraḥ* \< *tri*
+-   *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], accusative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *vāca* \< *vācaḥ* \< *vāc*
+- *vāca* ← *vācaḥ* ← *vāc*
 - \[noun\], accusative, plural, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *īrayati* \< *īray* \< *√īr*
+- *īrayati* ← *īray* ← *√īr*
 - \[verb\], singular, Present indikative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
@@ -21,61 +21,61 @@ title = "Rig Veda 9.97.34"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vahnir* \< *vahniḥ* \< *vahni*
+- *vahnir* ← *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhītim* \< *dhīti*
+- *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *brahmaṇo* \< *brahmaṇaḥ* \< *brahman*
+- *brahmaṇo* ← *brahmaṇaḥ* ← *brahman*
 - \[noun\], genitive, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *manīṣām* \< *manīṣā*
+- *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *gopatim* \< *gopati*
+- *gopatim* ← *gopati*
 - \[noun\], accusative, singular, masculine
 - “Shiva; bull; cowboy; Indra; Gopati; king.”
 ------------------------------------------------------------------------
-- *pṛcchamānāḥ* \< *pracch*
+- *pṛcchamānāḥ* ← *pracch*
 - \[verb noun\], nominative, plural
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *matayo* \< *matayaḥ* \< *mati*
+- *matayo* ← *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *vāvaśānāḥ* \< *vaś*
+- *vāvaśānāḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------

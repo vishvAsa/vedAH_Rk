@@ -2,7 +2,7 @@
 title = "Rig Veda 1.169.1"
 
 +++
--   *mahaś* \< *mahaḥ* \< *mah*
+-   *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.169.1"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -19,65 +19,65 @@ title = "Rig Veda 1.169.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yata* \< *yataḥ* \< *i*
+- *yata* ← *yataḥ* ← *i*
 - \[verb noun\], accusative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *etān* \< *etad*
+- *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *mahaś* \< *mahaḥ* \< *mah*
+- *mahaś* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *tyajaso* \< *tyajasaḥ* \< *tyajas*
+- *tyajaso* ← *tyajasaḥ* ← *tyajas*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *varūtā* \< *varūtṛ*
+- *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vedho* \< *vedhaḥ* \< *vedhas*
+- *vedho* ← *vedhaḥ* ← *vedhas*
 - \[noun\], vocative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *cikitvān* \< *cit*
+- *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *sumnā* \< *sumna*
+- *sumnā* ← *sumna*
 - \[noun\], accusative, plural, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *vanuṣva* \< *van*
+- *vanuṣva* ← *van*
 - \[verb\], singular, Present imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 1.169.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *preṣṭhā* \< *preṣṭha*
+- *preṣṭhā* ← *preṣṭha*
 - \[noun\], nominative, plural, neuter
 - “dearest.”
 ------------------------------------------------------------------------

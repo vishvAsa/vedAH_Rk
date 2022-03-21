@@ -2,16 +2,16 @@
 title = "Rig Veda 6.15.9"
 
 +++
--   *vibhūṣann* \< *vibhūṣan* \< *vibhūṣ* \< *√bhūṣ*
+-   *vibhūṣann* ← *vibhūṣan* ← *vibhūṣ* ← *√bhūṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ubhayāṃ* \< *ubhayān* \< *ubhaya*
+- *ubhayāṃ* ← *ubhayān* ← *ubhaya*
 - \[noun\], accusative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -19,21 +19,21 @@ title = "Rig Veda 6.15.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vratā* \< *vrata*
+- *vratā* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *dūto* \< *dūtaḥ* \< *dūta*
+- *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *devānāṃ* \< *devānām* \< *deva*
+- *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *rajasī* \< *rajas*
+- *rajasī* ← *rajas*
 - \[noun\], accusative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -42,7 +42,7 @@ title = "Rig Veda 6.15.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *īyase* \< *i*
+- *īyase* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -50,34 +50,34 @@ title = "Rig Veda 6.15.9"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhītiṃ* \< *dhītim* \< *dhīti*
+- *dhītiṃ* ← *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *āvṛṇīmahe* \< *āvṛ* \< *√vṛ*
+- *āvṛṇīmahe* ← *āvṛ* ← *√vṛ*
 - \[verb\], plural, Present indikative
 - “prefer; choose.”
 ------------------------------------------------------------------------
-- *'dha* \< *adha*
+- *'dha* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *trivarūthaḥ* \< *tri*
+- *trivarūthaḥ* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------

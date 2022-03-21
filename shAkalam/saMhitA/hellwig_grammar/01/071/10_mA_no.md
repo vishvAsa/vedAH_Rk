@@ -6,21 +6,21 @@ title = "Rig Veda 1.71.10"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *pitryāṇi* \< *pitrya*
+- *pitryāṇi* ← *pitrya*
 - \[noun\], accusative, plural, neuter
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 1.71.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *marṣiṣṭhā* \< *marṣiṣṭhāḥ* \< *mṛṣ*
+- *marṣiṣṭhā* ← *marṣiṣṭhāḥ* ← *mṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “forgive; endure; heed; pardon; neglect; forget.”
 ------------------------------------------------------------------------
@@ -36,21 +36,21 @@ title = "Rig Veda 1.71.10"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *viduṣ* \< *vidu*
+- *viduṣ* ← *vidu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *nabho* \< *nabhaḥ* \< *nabhas*
+- *nabho* ← *nabhaḥ* ← *nabhas*
 - \[noun\], nominative, singular, neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
@@ -58,18 +58,18 @@ title = "Rig Veda 1.71.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rūpaṃ* \< *rūpam* \< *rūpa*
+- *rūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *jarimā* \< *jariman*
+- *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
@@ -77,17 +77,17 @@ title = "Rig Veda 1.71.10"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *tasyā* \< *tasyāḥ* \< *tad*
+- *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhiśaster* \< *abhiśasteḥ* \< *abhiśasti*
+- *abhiśaster* ← *abhiśasteḥ* ← *abhiśasti*
 - \[noun\], genitive, singular, feminine
 - “hex; accusation; defamation; blame; aspersion.”
 ------------------------------------------------------------------------
-- *adhīhi* \< *adhī* \< *√i*
+- *adhīhi* ← *adhī* ← *√i*
 - \[verb\], singular, Present imperative
 - “learn; learn; recite; read; understand.”
 ------------------------------------------------------------------------

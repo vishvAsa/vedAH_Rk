@@ -2,48 +2,48 @@
 title = "Rig Veda 5.46.7"
 
 +++
--   *devānām* \< *deva*
+-   *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *uśatīr* \< *uśatīḥ* \< *vaś*
+- *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *avantu* \< *av*
+- *avantu* ← *av*
 - \[verb\], plural, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prāvantu* \< *prāv* \< *√av*
+- *prāvantu* ← *prāv* ← *√av*
 - \[verb\], plural, Present imperative
 - “help; promote.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tujaye* \< *tuj*
+- *tujaye* ← *tuj*
 - \[verb noun\]
 - “draw.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pārthivāso* \< *pārthivāsaḥ* \< *pārthiva*
+- *pārthivāso* ← *pārthivāsaḥ* ← *pārthiva*
 - \[noun\], nominative, plural, masculine
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------

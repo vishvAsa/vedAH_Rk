@@ -2,7 +2,7 @@
 title = "Rig Veda 5.45.11"
 
 +++
--   *dhiyaṃ* \< *dhiyam* \< *dhī*
+-   *dhiyaṃ* ← *dhiyam* \< *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

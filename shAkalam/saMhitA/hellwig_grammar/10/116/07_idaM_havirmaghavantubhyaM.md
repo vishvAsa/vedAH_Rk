@@ -2,11 +2,11 @@
 title = "Rig Veda 10.116.7"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havir* \< *haviḥ* \< *havis*
+- *havir* ← *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 10.116.7"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rātam* \< *rā*
+- *rātam* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -26,27 +26,27 @@ title = "Rig Veda 10.116.7"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *samrāḍ* \< *samrāj*
+- *samrāḍ* ← *samrāj*
 - \[noun\], vocative, singular, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *ahṛṇāno* \< *a*
+- *ahṛṇāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahṛṇāno* \< *hṛṇānaḥ* \< *hṛ*
+- *ahṛṇāno* ← *hṛṇānaḥ* ← *hṛ*
 - \[verb noun\], nominative, singular
 - “anger.”
 ------------------------------------------------------------------------
-- *gṛbhāya* \< *gṛbhāy* \< *√grah*
+- *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suto* \< *sutaḥ* \< *su*
+- *suto* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -54,25 +54,25 @@ title = "Rig Veda 10.116.7"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *tubhyam* \< *tvad*
+- *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pakvo* \< *pakvaḥ* \< *pakva*
+- *pakvo* ← *pakvaḥ* ← *pakva*
 - \[noun\], nominative, singular, masculine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *'ddhīndra* \< *addhi* \< *ad*
+- *'ddhīndra* ← *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *'ddhīndra* \< *indra*
+- *'ddhīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -80,7 +80,7 @@ title = "Rig Veda 10.116.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *prasthitasya* \< *prasthā* \< *√sthā*
+- *prasthitasya* ← *prasthā* ← *√sthā*
 - \[verb noun\], genitive, singular
 - “depart; give; depart; go; stay; proceed.”
 ------------------------------------------------------------------------

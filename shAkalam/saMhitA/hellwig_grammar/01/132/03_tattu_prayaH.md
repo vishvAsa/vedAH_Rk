@@ -2,7 +2,7 @@
 title = "Rig Veda 1.132.3"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,32 +12,32 @@ title = "Rig Veda 1.132.3"
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *prayaḥ* \< *prayas*
+- *prayaḥ* ← *prayas*
 - \[noun\], nominative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
 - *pratnathā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuśukvanaṃ* \< *śuśukvanam* \< *śuśukvana*
+- *śuśukvanaṃ* ← *śuśukvanam* ← *śuśukvana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *vāram* \< *vār*
+- *vāram* ← *vār*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *akṛṇvata* \< *kṛ*
+- *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,23 +48,23 @@ title = "Rig Veda 1.132.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṣayam* \< *kṣaya*
+- *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
 - *vār*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *kṣayam* \< *kṣaya*
+- *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
@@ -72,13 +72,13 @@ title = "Rig Veda 1.132.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vocer* \< *voceḥ* \< *vac*
+- *vocer* ← *voceḥ* ← *vac*
 - \[verb\], singular, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -89,58 +89,58 @@ title = "Rig Veda 1.132.3"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *dvitāntaḥ* \< *dvitā*
+- *dvitāntaḥ* ← *dvitā*
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *dvitāntaḥ* \< *antar*
+- *dvitāntaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *paśyanti* \< *paś*
+- *paśyanti* ← *paś*
 - \[verb\], plural, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gaveṣaṇo* \< *gaveṣaṇaḥ* \< *gaveṣaṇa*
+- *gaveṣaṇo* ← *gaveṣaṇaḥ* ← *gaveṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “marauding.”
 ------------------------------------------------------------------------
-- *bandhukṣidbhyo* \< *bandhu*
+- *bandhukṣidbhyo* ← *bandhu*
 - \[noun\], masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *bandhukṣidbhyo* \< *kṣidbhyaḥ* \< *kṣit*
+- *bandhukṣidbhyo* ← *kṣidbhyaḥ* ← *kṣit*
 - \[noun\], dative, plural, masculine
 ------------------------------------------------------------------------
-- *gaveṣaṇaḥ* \< *gaveṣaṇa*
+- *gaveṣaṇaḥ* ← *gaveṣaṇa*
 - \[noun\], nominative, singular, masculine
 - “marauding.”
 ------------------------------------------------------------------------

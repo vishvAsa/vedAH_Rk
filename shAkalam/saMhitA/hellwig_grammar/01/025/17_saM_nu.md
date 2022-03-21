@@ -2,7 +2,7 @@
 title = "Rig Veda 1.25.17"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 1.25.17"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vocāvahai* \< *vac*
+- *vocāvahai* ← *vac*
 - \[verb\], dual, Aorist conj./subj.
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -22,35 +22,35 @@ title = "Rig Veda 1.25.17"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhu*
+- *madhv* ← *madhu*
 - \[noun\], nominative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ābhṛtam* \< *ābhṛ* \< *√bhṛ*
+- *ābhṛtam* ← *ābhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, singular
 - “bring.”
 ------------------------------------------------------------------------
-- *hoteva* \< *hotā* \< *hotṛ*
+- *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hoteva* \< *iva*
+- *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṣadase* \< *kṣad*
+- *kṣadase* ← *kṣad*
 - \[verb noun\]
 - “butcher; carve.”
 ------------------------------------------------------------------------
-- *priyam* \< *priya*
+- *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”

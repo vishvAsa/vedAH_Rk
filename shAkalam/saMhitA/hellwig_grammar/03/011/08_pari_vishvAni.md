@@ -6,34 +6,34 @@ title = "Rig Veda 3.11.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *viśvāni* \< *viśva*
+- *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sudhitāgner* \< *sudhitā* \< *sudhita*
+- *sudhitāgner* ← *sudhitā* ← *sudhita*
 - \[noun\], accusative, plural, neuter
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *sudhitāgner* \< *agneḥ* \< *agni*
+- *sudhitāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *manmabhiḥ* \< *manman*
+- *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *jātavedasaḥ* \< *jātavedas*
+- *jātavedasaḥ* ← *jātavedas*
 - \[noun\], genitive, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

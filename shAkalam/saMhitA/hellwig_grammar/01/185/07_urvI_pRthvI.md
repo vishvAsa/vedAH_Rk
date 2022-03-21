@@ -10,61 +10,61 @@ title = "Rig Veda 1.185.7"
 - \[noun\], accusative, dual, feminine
 - “Earth; floor; earth.”
 ------------------------------------------------------------------------
-- *bahule* \< *bahula*
+- *bahule* ← *bahula*
 - \[noun\], accusative, dual, feminine
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
 ------------------------------------------------------------------------
-- *dūreante* \< *dūreanta*
+- *dūreante* ← *dūreanta*
 - \[noun\], accusative, dual, feminine
 ------------------------------------------------------------------------
 - *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *asmin* \< *idam*
+- *asmin* ← *idam*
 - \[noun\], locative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dadhāte* \< *dhā*
+- *dadhāte* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, dual, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], nominative, dual, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *supratūrtī* \< *su*
+- *supratūrtī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratūrtī* \< *pratūrtī* \< *pratūrti*
+- *supratūrtī* ← *pratūrtī* ← *pratūrti*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rakṣatam* \< *rakṣ*
+- *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 1.185.7"
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhvāt* \< *abhva*
+- *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

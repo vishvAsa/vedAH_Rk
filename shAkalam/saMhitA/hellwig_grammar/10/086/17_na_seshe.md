@@ -6,77 +6,77 @@ title = "Rig Veda 10.86.17"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *seśe* \< *sa* \< *tad*
+- *seśe* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *seśe* \< *īśe* \< *īś*
+- *seśe* ← *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *romaśaṃ* \< *romaśam* \< *romaśa*
+- *romaśaṃ* ← *romaśam* ← *romaśa*
 - \[noun\], nominative, singular, neuter
 - “vulva.”
 ------------------------------------------------------------------------
-- *niṣeduṣo* \< *niṣeduṣaḥ* \< *niṣad* \< *√sad*
+- *niṣeduṣo* ← *niṣeduṣaḥ* ← *niṣad* ← *√sad*
 - \[verb noun\], genitive, singular
 - “sit down; sit; put.”
 ------------------------------------------------------------------------
-- *vijṛmbhate* \< *vijṛmbh* \< *√jṛmbh*
+- *vijṛmbhate* ← *vijṛmbh* ← *√jṛmbh*
 - \[verb\], singular, Present indikative
 - “yawn.”
 ------------------------------------------------------------------------
-- *sed* \< *sa* \< *tad*
+- *sed* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sed* \< *id*
+- *sed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *īśe* \< *īś*
+- *īśe* ← *īś*
 - \[verb\], singular, Perfect indicative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rambate* \< *lamb*
+- *rambate* ← *lamb*
 - \[verb\], singular, Present indikative
 - “hang down; set.”
 ------------------------------------------------------------------------
-- *'ntarā* \< *antarā*
+- *'ntarā* ← *antarā*
 - \[adverb\]
 - “inside; meanwhile; occasionally.”
 ------------------------------------------------------------------------
-- *sakthyā* \< *\_* \< *√\_*
+- *sakthyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *kapṛd* \< *kapṛth*
+- *kapṛd* ← *kapṛth*
 - \[noun\], nominative, singular, masculine
 - “penis.”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

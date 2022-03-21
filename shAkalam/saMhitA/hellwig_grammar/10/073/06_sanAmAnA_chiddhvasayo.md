@@ -2,68 +2,68 @@
 title = "Rig Veda 10.73.6"
 
 +++
--   *sanāmānā* \< *sanāman*
+-   *sanāmānā* ← *sanāman*
 - \[noun\], accusative, dual, feminine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dhvasayo* \< *dhvasayaḥ* \< *dhvasay* \< *√dhvaṃs*
+- *dhvasayo* ← *dhvasayaḥ* ← *dhvasay* ← *√dhvaṃs*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *avāhann* \< *avāhan* \< *avahan* \< *√han*
+- *avāhann* ← *avāhan* ← *avahan* ← *√han*
 - \[verb\], singular, Imperfect
 - “thrash; strike.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yathānaḥ* \< *yathā*
+- *yathānaḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathānaḥ* \< *anaḥ* \< *anas*
+- *yathānaḥ* ← *anaḥ* ← *anas*
 - \[noun\], accusative, singular, neuter
 - “cart; anas \[word\].”
 ------------------------------------------------------------------------
-- *ṛṣvair* \< *ṛṣvaiḥ* \< *ṛṣva*
+- *ṛṣvair* ← *ṛṣvaiḥ* ← *ṛṣva*
 - \[noun\], instrumental, plural, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *agacchaḥ* \< *gam*
+- *agacchaḥ* ← *gam*
 - \[verb\], singular, Imperfect
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *sakhibhir* \< *sakhibhiḥ* \< *sakhī*
+- *sakhibhir* ← *sakhibhiḥ* ← *sakhī*
 - \[noun\], instrumental, plural, feminine
 - “confidante; sakhī \[word\]; friend.”
 ------------------------------------------------------------------------
-- *nikāmaiḥ* \< *nikāma*
+- *nikāmaiḥ* ← *nikāma*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
 - *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *pratiṣṭhā* \< *pratiṣṭhāḥ* \< *pratiṣṭhā*
+- *pratiṣṭhā* ← *pratiṣṭhāḥ* \< *pratiṣṭhā*
 - \[noun\], accusative, plural, feminine
 - “foundation; base; fame; consecration; location.”
 ------------------------------------------------------------------------

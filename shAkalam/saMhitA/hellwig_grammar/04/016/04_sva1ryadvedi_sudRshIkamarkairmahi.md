@@ -6,19 +6,19 @@ title = "Rig Veda 4.16.4"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vedi* \< *vid*
+- *vedi* ← *vid*
 - \[verb\], singular, Aorist passive
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *sudṛśīkam* \< *sudṛśīka*
+- *sudṛśīkam* ← *sudṛśīka*
 - \[noun\], nominative, singular, neuter
 - “beautiful.”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
@@ -27,47 +27,47 @@ title = "Rig Veda 4.16.4"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *jyotī* \< *jyotiḥ* \< *jyotis*
+- *jyotī* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *rurucur* \< *rurucuḥ* \< *ruc*
+- *rurucur* ← *rurucuḥ* ← *ruc*
 - \[verb\], plural, Perfect indicative
 - “please; shine.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dha* \< *ha*
+- *dha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vastoḥ* \< *vastu*
+- *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *andhā* \< *andha*
+- *andhā* ← *andha*
 - \[noun\], accusative, plural, neuter
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *tamāṃsi* \< *tamas*
+- *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *dudhitā* \< *dudhita*
+- *dudhitā* ← *dudhita*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *vicakṣe* \< *vicakṣ* \< *√cakṣ*
+- *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *nṛbhyaś* \< *nṛbhyaḥ* \< *nṛ*
+- *nṛbhyaś* ← *nṛbhyaḥ* ← *nṛ*
 - \[noun\], dative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -78,10 +78,10 @@ title = "Rig Veda 4.16.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nṛtamo* \< *nṛtamaḥ* \< *nṛtama*
+- *nṛtamo* ← *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------

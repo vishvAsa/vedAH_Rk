@@ -2,7 +2,7 @@
 title = "Rig Veda 9.14.4"
 
 +++
--   *niriṇāno* \< *niriṇānaḥ* \< *nirī* \< *√ri*
+-   *niriṇāno* ← *niriṇānaḥ* ← *nirī* ← *√ri*
 - \[verb noun\], nominative, singular
 - “disperse.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 9.14.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *jahaccharyāṇi* \< *jahat* \< *hā*
+- *jahaccharyāṇi* ← *jahat* ← *hā*
 - \[verb noun\], nominative, singular
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *jahaccharyāṇi* \< *śaryāṇi* \< *śarya*
+- *jahaccharyāṇi* ← *śaryāṇi* ← *śarya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *tānvā* \< *tānva*
+- *tānvā* ← *tānva*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *atrā* \< *atra*
+- *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *jighnate* \< *han*
+- *jighnate* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------

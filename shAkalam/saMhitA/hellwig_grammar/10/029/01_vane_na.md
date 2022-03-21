@@ -2,7 +2,7 @@
 title = "Rig Veda 10.29.1"
 
 +++
--   *vane* \< *vana*
+-   *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -14,69 +14,69 @@ title = "Rig Veda 10.29.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *adhāyi* \< *dhā*
+- *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *cākañ* \< *cākan* \< *kan*
+- *cākañ* ← *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *chucir* \< *śuciḥ* \< *śuci*
+- *chucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *bhuraṇāv* \< *bhuraṇau* \< *bhuraṇa*
+- *bhuraṇāv* ← *bhuraṇau* ← *bhuraṇa*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *ajīgaḥ* \< *jāgṛ*
+- *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *yasyed* \< *yasya* \< *yad*
+- *yasyed* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyed* \< *id*
+- *yasyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *purudineṣu* \< *puru*
+- *purudineṣu* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purudineṣu* \< *dineṣu* \< *dina*
+- *purudineṣu* ← *dineṣu* ← *dina*
 - \[noun\], locative, plural, neuter
 - “day; day; day of the week; one.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *nṛṇāṃ* \< *nṛṇām* \< *nṛ*
+- *nṛṇāṃ* ← *nṛṇām* \< *nṛ*
 - \[noun\], genitive, plural
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

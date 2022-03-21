@@ -2,55 +2,55 @@
 title = "Rig Veda 9.85.10"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *nāke* \< *nāka*
+- *nāke* ← *nāka*
 - \[noun\], locative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *madhujihvā* \< *madhu*
+- *madhujihvā* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhujihvā* \< *jihvāḥ* \< *jihvā*
+- *madhujihvā* ← *jihvāḥ* ← *jihvā*
 - \[noun\], nominative, plural, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *asaścato* \< *asaścataḥ* \< *asaścat*
+- *asaścato* ← *asaścataḥ* ← *asaścat*
 - \[noun\], nominative, plural, masculine
 - “inexhaustible.”
 ------------------------------------------------------------------------
-- *venā* \< *venāḥ* \< *vena*
+- *venā* ← *venāḥ* ← *vena*
 - \[noun\], nominative, plural, masculine
 - “Vena.”
 ------------------------------------------------------------------------
-- *duhanty* \< *duhanti* \< *duh*
+- *duhanty* ← *duhanti* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *ukṣaṇaṃ* \< *ukṣaṇam* \< *ukṣan*
+- *ukṣaṇaṃ* ← *ukṣaṇam* ← *ukṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *giriṣṭhām* \< *giriṣṭhā*
+- *giriṣṭhām* ← *giriṣṭhā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *drapsaṃ* \< *drapsam* \< *drapsa*
+- *drapsaṃ* ← *drapsam* ← *drapsa*
 - \[noun\], accusative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *vāvṛdhānaṃ* \< *vāvṛdhānam* \< *vṛdh*
+- *vāvṛdhānaṃ* ← *vāvṛdhānam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *samudra* \< *samudre* \< *samudra*
+- *samudra* ← *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -58,19 +58,19 @@ title = "Rig Veda 9.85.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmā* \< *ūrmi*
+- *ūrmā* ← *ūrmi*
 - \[noun\], locative, singular, feminine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *madhumantam* \< *madhumat*
+- *madhumantam* ← *madhumat*
 - \[noun\], accusative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *pavitra* \< *pavitre* \< *pavitra*
+- *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------

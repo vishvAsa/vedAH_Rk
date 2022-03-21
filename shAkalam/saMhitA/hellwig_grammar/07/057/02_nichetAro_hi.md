@@ -2,7 +2,7 @@
 title = "Rig Veda 7.57.2"
 
 +++
--   *nicetāro* \< *nicetāraḥ* \< *nici* \< *√ci*
+-   *nicetāro* ← *nicetāraḥ* ← *nici* ← *√ci*
 - \[verb\], plural, periphrast. future
 - “notice.”
 ------------------------------------------------------------------------
@@ -10,27 +10,27 @@ title = "Rig Veda 7.57.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *gṛṇantam* \< *gṛ*
+- *gṛṇantam* ← *gṛ*
 - \[verb noun\], accusative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *praṇetāro* \< *praṇetāraḥ* \< *praṇī* \< *√nī*
+- *praṇetāro* ← *praṇetāraḥ* ← *praṇī* ← *√nī*
 - \[verb\], plural, periphrast. future
 - “enforce; lead; produce.”
 ------------------------------------------------------------------------
-- *yajamānasya* \< *yaj*
+- *yajamānasya* ← *yaj*
 - \[verb noun\], genitive, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -38,11 +38,11 @@ title = "Rig Veda 7.57.2"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -50,16 +50,16 @@ title = "Rig Veda 7.57.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vītaye* \< *vī*
+- *vītaye* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *sadata* \< *sad*
+- *sadata* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *pipriyāṇāḥ* \< *prī*
+- *pipriyāṇāḥ* ← *prī*
 - \[verb noun\], nominative, plural
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------

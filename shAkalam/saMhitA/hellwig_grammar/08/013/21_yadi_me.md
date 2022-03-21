@@ -6,35 +6,35 @@ title = "Rig Veda 8.13.21"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *āvara* \< *āvaraḥ* \< *āvṛ* \< *√vṛ*
+- *āvara* ← *āvaraḥ* ← *āvṛ* ← *√vṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “prefer; choose.”
 ------------------------------------------------------------------------
-- *imasya* \< *idam*
+- *imasya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pāhy* \< *pāhi* \< *pā*
+- *pāhy* ← *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *andhasaḥ* \< *andhas*
+- *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -43,11 +43,11 @@ title = "Rig Veda 8.13.21"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+- *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *atārima* \< *tṛ*
+- *atārima* ← *tṛ*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

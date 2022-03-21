@@ -6,22 +6,22 @@ title = "Rig Veda 4.29.4"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *gantā* \< *gam*
+- *gantā* ← *gam*
 - \[verb\], singular, periphrast. future
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *nādhamānam* \< *nādh*
+- *nādhamānam* ← *nādh*
 - \[verb noun\], accusative, singular
 - “suffer.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -29,15 +29,15 @@ title = "Rig Veda 4.29.4"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *havamānaṃ* \< *havamānam* \< *hvā*
+- *havamānaṃ* ← *havamānam* ← *hvā*
 - \[verb noun\], accusative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *gṛṇantam* \< *gṛ*
+- *gṛṇantam* ← *gṛ*
 - \[verb noun\], accusative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -45,37 +45,37 @@ title = "Rig Veda 4.29.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tmani* \< *tman*
+- *tmani* ← *tman*
 - \[noun\], locative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *dadhāno* \< *dadhānaḥ* \< *dhā*
+- *dadhāno* ← *dadhānaḥ* ← *dhā*
 - \[verb noun\], nominative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dhury* \< *dhuri* \< *dhur*
+- *dhury* ← *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *āśūn* \< *āśu*
+- *āśūn* ← *āśu*
 - \[noun\], accusative, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śatāni* \< *śata*
+- *śatāni* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *vajrabāhuḥ* \< *vajra*
+- *vajrabāhuḥ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajrabāhuḥ* \< *bāhuḥ* \< *bāhu*
+- *vajrabāhuḥ* ← *bāhuḥ* ← *bāhu*
 - \[noun\], nominative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------

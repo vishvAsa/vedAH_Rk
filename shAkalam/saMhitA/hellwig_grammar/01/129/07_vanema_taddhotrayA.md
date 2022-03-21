@@ -2,87 +2,87 @@
 title = "Rig Veda 1.129.7"
 
 +++
--   *vanema* \< *van*
+-   *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *taddhotrayā* \< *tat* \< *tad*
+- *taddhotrayā* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *taddhotrayā* \< *hotrayā* \< *hotrā*
+- *taddhotrayā* ← *hotrayā* ← *hotrā*
 - \[noun\], instrumental, singular, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *citantyā* \< *\_* \< *√\_*
+- *citantyā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vanema* \< *van*
+- *vanema* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayivaḥ* \< *rayivas* \< *rayivat*
+- *rayivaḥ* ← *rayivas* ← *rayivat*
 - \[noun\], vocative, singular, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *su*
+- *suvīryaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryaṃ* \< *vīryam* \< *vīrya*
+- *suvīryaṃ* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, masculine
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *raṇvaṃ* \< *raṇvam* \< *raṇva*
+- *raṇvaṃ* ← *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *santaṃ* \< *santam* \< *as*
+- *santaṃ* ← *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *su*
+- *suvīryam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīryam* \< *vīryam* \< *vīrya*
+- *suvīryam* ← *vīryam* ← *vīrya*
 - \[noun\], accusative, singular, masculine
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *durmanmānaṃ* \< *durmanmānam* \< *durmanman*
+- *durmanmānaṃ* ← *durmanmānam* ← *durmanman*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sumantubhir* \< *su*
+- *sumantubhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumantubhir* \< *mantubhiḥ* \< *mantu*
+- *sumantubhir* ← *mantubhiḥ* ← *mantu*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *em* \< *ā*
+- *em* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *em* \< *īm* \< *īṃ*
+- *em* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *iṣā* \< *iṣ*
+- *iṣā* ← *iṣ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pṛcīmahi* \< *pṛc*
+- *pṛcīmahi* ← *pṛc*
 - \[verb\], plural, Aorist optative
 - “mix; unite.”
 ------------------------------------------------------------------------
@@ -90,32 +90,32 @@ title = "Rig Veda 1.129.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *satyābhir* \< *satyābhiḥ* \< *satya*
+- *satyābhir* ← *satyābhiḥ* ← *satya*
 - \[noun\], instrumental, plural, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dyumnahūtibhir* \< *dyumna*
+- *dyumnahūtibhir* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *dyumnahūtibhir* \< *hūtibhiḥ* \< *hūti*
+- *dyumnahūtibhir* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *yajatraṃ* \< *yajatram* \< *yajatra*
+- *yajatraṃ* ← *yajatram* ← *yajatra*
 - \[noun\], accusative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *dyumnahūtibhiḥ* \< *dyumna*
+- *dyumnahūtibhiḥ* ← *dyumna*
 - \[noun\], neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *dyumnahūtibhiḥ* \< *hūtibhiḥ* \< *hūti*
+- *dyumnahūtibhiḥ* ← *hūtibhiḥ* ← *hūti*
 - \[noun\], instrumental, plural, feminine
 - “invocation.”
 ------------------------------------------------------------------------

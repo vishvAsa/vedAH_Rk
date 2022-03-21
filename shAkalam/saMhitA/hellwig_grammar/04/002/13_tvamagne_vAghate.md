@@ -2,36 +2,36 @@
 title = "Rig Veda 4.2.13"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vāghate* \< *vāghant*
+- *vāghate* ← *vāghant*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *supraṇītiḥ* \< *su*
+- *supraṇītiḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraṇītiḥ* \< *praṇītiḥ* \< *praṇīti*
+- *supraṇītiḥ* ← *praṇītiḥ* ← *praṇīti*
 - \[noun\], nominative, singular, masculine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *sutasomāya* \< *suta* \< *su*
+- *sutasomāya* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasomāya* \< *somāya* \< *soma*
+- *sutasomāya* ← *somāya* ← *soma*
 - \[noun\], dative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
@@ -39,21 +39,21 @@ title = "Rig Veda 4.2.13"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *śaśamānāya* \< *śam*
+- *śaśamānāya* ← *śam*
 - \[verb noun\], dative, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *ghṛṣve* \< *ghṛṣvi*
+- *ghṛṣve* ← *ghṛṣvi*
 - \[noun\], vocative, singular, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
@@ -61,19 +61,19 @@ title = "Rig Veda 4.2.13"
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *ścandram* \< *ścandra*
+- *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, neuter
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *carṣaṇi*
+- *carṣaṇiprāḥ* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *prāḥ* \< *prā*
+- *carṣaṇiprāḥ* ← *prāḥ* ← *prā*
 - \[noun\], nominative, singular, masculine
 - “appreciated.”
 ------------------------------------------------------------------------

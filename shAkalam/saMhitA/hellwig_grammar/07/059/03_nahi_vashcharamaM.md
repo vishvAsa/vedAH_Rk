@@ -5,11 +5,11 @@ title = "Rig Veda 7.59.3"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vaś* \< *vaḥ* \< *tvad*
+- *vaś* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *caramaṃ* \< *caramam* \< *carama*
+- *caramaṃ* ← *caramam* ← *carama*
 - \[noun\], accusative, singular, masculine
 - “last; ultimate.”
 ------------------------------------------------------------------------
@@ -17,14 +17,14 @@ title = "Rig Veda 7.59.3"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *vasiṣṭhaḥ* \< *vasiṣṭha*
+- *vasiṣṭhaḥ* ← *vasiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “Vasiṣṭha; vasiṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *parimaṃsate* \< *pariman* \< *√man*
+- *parimaṃsate* ← *pariman* ← *√man*
 - \[verb\], singular, Aorist conj./subj.
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 7.59.3"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
@@ -44,16 +44,16 @@ title = "Rig Veda 7.59.3"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pibata* \< *pā*
+- *pibata* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *kāminaḥ* \< *kāmin*
+- *kāminaḥ* ← *kāmin*
 - \[noun\], nominative, plural, masculine
 - “desirous; aroused; loving.”
 ------------------------------------------------------------------------

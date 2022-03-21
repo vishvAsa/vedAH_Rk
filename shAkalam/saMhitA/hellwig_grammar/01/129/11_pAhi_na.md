@@ -2,11 +2,11 @@
 title = "Rig Veda 1.129.11"
 
 +++
--   *pāhi* \< *pā*
+-   *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.129.11"
 - *suṣṭuta*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sridho* \< *sridhaḥ* \< *sridh*
+- *sridho* ← *sridhaḥ* ← *sridh*
 - \[noun\], ablative, singular, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
-- *'vayātā* \< *avayātā* \< *avayātṛ*
+- *'vayātā* ← *avayātā* ← *avayātṛ*
 - \[noun\], nominative, singular, masculine
 - “averting.”
 ------------------------------------------------------------------------
@@ -34,50 +34,50 @@ title = "Rig Veda 1.129.11"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *durmatīnāṃ* \< *durmatīnām* \< *durmati*
+- *durmatīnāṃ* ← *durmatīnām* ← *durmati*
 - \[noun\], genitive, plural, masculine
 - “stupid.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *durmatīnām* \< *durmati*
+- *durmatīnām* ← *durmati*
 - \[noun\], genitive, plural, masculine
 - “stupid.”
 ------------------------------------------------------------------------
-- *hantā* \< *han*
+- *hantā* ← *han*
 - \[verb\], singular, periphrast. future
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *pāpasya* \< *pāpa*
+- *pāpasya* ← *pāpa*
 - \[noun\], genitive, singular, neuter
 - “evil; dangerous; wicked; pāpa \[word\].”
 ------------------------------------------------------------------------
-- *rakṣasas* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣasas* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], genitive, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *trātā* \< *trā*
+- *trātā* ← *trā*
 - \[verb\], singular, periphrast. future
 - “protect; help.”
 ------------------------------------------------------------------------
-- *viprasya* \< *vipra*
+- *viprasya* ← *vipra*
 - \[noun\], genitive, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *māvataḥ* \< *māvat*
+- *māvataḥ* ← *māvat*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -85,43 +85,43 @@ title = "Rig Veda 1.129.11"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *janitā* \< *janitṛ*
+- *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
 ------------------------------------------------------------------------
-- *jījanad* \< *jījanat* \< *jan*
+- *jījanad* ← *jījanat* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *rakṣohaṇaṃ* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣohaṇaṃ* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
-- *rakṣohaṇaṃ* \< *haṇam* \< *han*
+- *rakṣohaṇaṃ* ← *haṇam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jījanad* \< *jījanat* \< *jan*
+- *jījanad* ← *jījanat* ← *jan*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------

@@ -2,40 +2,40 @@
 title = "Rig Veda 1.128.7"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mānuṣe* \< *mānuṣa*
+- *mānuṣe* ← *mānuṣa*
 - \[noun\], locative, singular, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *vṛjane* \< *vṛjana*
+- *vṛjane* ← *vṛjana*
 - \[noun\], locative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *śantamo* \< *śantamaḥ* \< *śaṃtama*
+- *śantamo* ← *śantamaḥ* ← *śaṃtama*
 - \[noun\], nominative, singular, masculine
 - “beneficent.”
 ------------------------------------------------------------------------
-- *hito* \< *hitaḥ* \< *hita*
+- *hito* ← *hitaḥ* ← *hita*
 - \[noun\], nominative, singular, masculine
 - “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
     Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
 ------------------------------------------------------------------------
-- *'gnir* \< *agniḥ* \< *agni*
+- *'gnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *jenyo* \< *jenyaḥ* \< *jenya*
+- *jenyo* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
@@ -43,42 +43,42 @@ title = "Rig Veda 1.128.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *viśpatiḥ* \< *viśpati*
+- *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *priyo* \< *priyaḥ* \< *priya*
+- *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *viśpatiḥ* \< *viśpati*
+- *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *havyā* \< *havya*
+- *havyā* ← *havya*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣāṇām* \< *mānuṣa*
+- *mānuṣāṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------
-- *iﾱā* \< *iḍ*
+- *iﾱā* ← *iḍ*
 - \[noun\], instrumental, singular, feminine
 - “refreshment; libation.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -89,43 +89,43 @@ title = "Rig Veda 1.128.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *patyate* \< *paty*
+- *patyate* ← *paty*
 - \[verb\], singular, Present indikative
 - “own; have; master.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *trāsate* \< *trā*
+- *trāsate* ← *trā*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; help.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhūrter* \< *dhūrteḥ* \< *dhūrti*
+- *dhūrter* ← *dhūrteḥ* ← *dhūrti*
 - \[noun\], ablative, singular, feminine
 - “fraud; damage.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dhūrteḥ* \< *dhūrti*
+- *dhūrteḥ* ← *dhūrti*
 - \[noun\], ablative, singular, feminine
 - “fraud; damage.”
 ------------------------------------------------------------------------

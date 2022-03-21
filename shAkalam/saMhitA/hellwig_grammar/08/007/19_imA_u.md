@@ -2,7 +2,7 @@
 title = "Rig Veda 8.7.19"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 8.7.19"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 8.7.19"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pipyuṣīr* \< *pipyuṣīḥ* \< *pyā*
+- *pipyuṣīr* ← *pipyuṣīḥ* ← *pyā*
 - \[verb noun\], nominative, plural
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], nominative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *vardhān* \< *vṛdh*
+- *vardhān* ← *vṛdh*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *kāṇvasya* \< *kāṇva*
+- *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *manmabhiḥ* \< *manman*
+- *manmabhiḥ* ← *manman*
 - \[noun\], instrumental, plural, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------

@@ -2,10 +2,10 @@
 title = "Rig Veda 1.113.17"
 
 +++
--   *syūmanā* \< *syūman*
+-   *syūmanā* ← *syūman*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *vāca* \< *vācaḥ* \< *vāc*
+- *vāca* ← *vācaḥ* ← *vāc*
 - \[noun\], genitive, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
@@ -15,62 +15,62 @@ title = "Rig Veda 1.113.17"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vahni* \< *\_* \< *√\_*
+- *vahni* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *stavāno* \< *stavānaḥ* \< *stu*
+- *stavāno* ← *stavānaḥ* ← *stu*
 - \[verb noun\], nominative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *rebha* \< *rebhe* \< *rabh*
+- *rebha* ← *rebhe* ← *rabh*
 - \[verb\], singular, Perfect indicative
 - “clasp.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vibhātīḥ* \< *vibhā* \< *√bhā*
+- *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], accusative, plural
 - “shine.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyā* \< *ā*
+- *adyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *uccha* \< *vas*
+- *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *maghony* \< *maghoni* \< *maghavan*
+- *maghony* ← *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 1.113.17"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *didīhi* \< *dīdī*
+- *didīhi* ← *dīdī*
 - \[verb\], singular, Present imperative
 - “shine; glitter.”
 ------------------------------------------------------------------------

@@ -2,81 +2,81 @@
 title = "Rig Veda 1.166.8"
 
 +++
--   *śatabhujibhis* \< *śata*
+-   *śatabhujibhis* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatabhujibhis* \< *bhujibhiḥ* \< *bhuji*
+- *śatabhujibhis* ← *bhujibhiḥ* ← *bhuji*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhihruter* \< *abhihruteḥ* \< *abhihruti*
+- *abhihruter* ← *abhihruteḥ* ← *abhihruti*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
-- *aghāt* \< *agha*
+- *aghāt* ← *agha*
 - \[noun\], ablative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------
-- *pūrbhī* \< *pūrbhiḥ* \< *pur*
+- *pūrbhī* ← *pūrbhiḥ* ← *pur*
 - \[noun\], instrumental, plural
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *rakṣatā* \< *rakṣata* \< *rakṣ*
+- *rakṣatā* ← *rakṣata* ← *rakṣ*
 - \[verb\], plural, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āvata* \< *av*
+- *āvata* ← *av*
 - \[verb\], plural, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ugrās* \< *ugrāḥ* \< *ugra*
+- *ugrās* ← *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *tavaso* \< *tavasaḥ* \< *tavas*
+- *tavaso* ← *tavasaḥ* ← *tavas*
 - \[noun\], nominative, plural, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *virapśinaḥ* \< *virapśin*
+- *virapśinaḥ* ← *virapśin*
 - \[noun\], nominative, plural, masculine
 - “exuberant; copious; ample.”
 ------------------------------------------------------------------------
-- *pāthanā* \< *pāthana* \< *pā*
+- *pāthanā* ← *pāthana* ← *pā*
 - \[verb\], plural, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *śaṃsāt* \< *śaṃsa*
+- *śaṃsāt* ← *śaṃsa*
 - \[noun\], ablative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *tanayasya* \< *tanaya*
+- *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, neuter
 - “child; descendants.”
 ------------------------------------------------------------------------
-- *puṣṭiṣu* \< *puṣṭi*
+- *puṣṭiṣu* ← *puṣṭi*
 - \[noun\], locative, plural, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”

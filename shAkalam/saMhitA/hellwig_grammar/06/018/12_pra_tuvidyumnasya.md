@@ -6,47 +6,47 @@ title = "Rig Veda 6.18.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tuvidyumnasya* \< *tuvi*
+- *tuvidyumnasya* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvidyumnasya* \< *dyumnasya* \< *dyumna*
+- *tuvidyumnasya* ← *dyumnasya* ← *dyumna*
 - \[noun\], genitive, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *sthavirasya* \< *sthavira*
+- *sthavirasya* ← *sthavira*
 - \[noun\], genitive, singular, masculine
 - “old; strong; hardy; firm; firm.”
 ------------------------------------------------------------------------
-- *ghṛṣver* \< *ghṛṣveḥ* \< *ghṛṣvi*
+- *ghṛṣver* ← *ghṛṣveḥ* ← *ghṛṣvi*
 - \[noun\], genitive, singular, masculine
 - “anticipated; electrifying.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rarapśe* \< *rapś*
+- *rarapśe* ← *rapś*
 - \[verb\], singular, Perfect indicative
 - “abound in.”
 ------------------------------------------------------------------------
-- *mahimā* \< *mahiman*
+- *mahimā* ← *mahiman*
 - \[noun\], nominative, singular, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], ablative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *nāsya* \< *na*
+- *nāsya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsya* \< *asya* \< *idam*
+- *nāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śatrur* \< *śatruḥ* \< *śatru*
+- *śatrur* ← *śatruḥ* ← *śatru*
 - \[noun\], nominative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 6.18.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pratimānam* \< *pratimāna*
+- *pratimānam* ← *pratimāna*
 - \[noun\], nominative, singular, neuter
 - “weight.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -67,19 +67,19 @@ title = "Rig Veda 6.18.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pratiṣṭhiḥ* \< *pratiṣṭhi*
+- *pratiṣṭhiḥ* ← *pratiṣṭhi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *purumāyasya* \< *puru*
+- *purumāyasya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purumāyasya* \< *māyasya* \< *māyā*
+- *purumāyasya* ← *māyasya* ← *māyā*
 - \[noun\], genitive, singular, masculine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *sahyoḥ* \< *sahyu*
+- *sahyoḥ* ← *sahyu*
 - \[noun\], genitive, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------

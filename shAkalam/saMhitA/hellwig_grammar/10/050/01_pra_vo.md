@@ -6,50 +6,50 @@ title = "Rig Veda 10.50.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mandamānāyāndhaso* \< *mandamānāya* \< *mad*
+- *mandamānāyāndhaso* ← *mandamānāya* ← *mad*
 - \[verb noun\], dative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *mandamānāyāndhaso* \< *andhasaḥ* \< *andhas*
+- *mandamānāyāndhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *'rcā* \< *arcā* \< *arc*
+- *'rcā* ← *arcā* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *viśvānarāya* \< *viśvānara*
+- *viśvānarāya* ← *viśvānara*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvābhuve* \< *viśvābhū*
+- *viśvābhuve* ← *viśvābhū*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sumakhaṃ* \< *su*
+- *sumakhaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumakhaṃ* \< *makham* \< *makha*
+- *sumakhaṃ* ← *makham* ← *makha*
 - \[noun\], accusative, singular, masculine
 - “yajña; Makha; festival.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 10.50.1"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *nṛmṇaṃ* \< *nṛmṇam* \< *nṛmṇa*
+- *nṛmṇaṃ* ← *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 10.50.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *saparyataḥ* \< *sapary*
+- *saparyataḥ* ← *sapary*
 - \[verb\], dual, Present indikative
 - “worship.”
 ------------------------------------------------------------------------

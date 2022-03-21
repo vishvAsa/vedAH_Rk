@@ -2,15 +2,15 @@
 title = "Rig Veda 1.58.5"
 
 +++
--   *tapurjambho* \< *tapuḥ* \< *tapus*
+-   *tapurjambho* ← *tapuḥ* ← *tapus*
 - \[noun\], neuter
 - “heat.”
 ------------------------------------------------------------------------
-- *tapurjambho* \< *jambhaḥ* \< *jambha*
+- *tapurjambho* ← *jambhaḥ* ← *jambha*
 - \[noun\], nominative, singular, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *vana* \< *vane* \< *vana*
+- *vana* ← *vane* ← *vana*
 - \[noun\], locative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
@@ -18,16 +18,16 @@ title = "Rig Veda 1.58.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vātacodito* \< *vāta*
+- *vātacodito* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātacodito* \< *coditaḥ* \< *coday* \< *√cud*
+- *vātacodito* ← *coditaḥ* ← *coday* ← *√cud*
 - \[verb noun\], nominative, singular
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *yūthe* \< *yūtha*
+- *yūthe* ← *yūtha*
 - \[noun\], locative, singular, masculine
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 1.58.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sāhvāṃ* \< *sah*
+- *sāhvāṃ* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -43,41 +43,41 @@ title = "Rig Veda 1.58.5"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *vāti* \< *vā*
+- *vāti* ← *vā*
 - \[verb\], singular, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *vaṃsagaḥ* \< *vaṃsaga*
+- *vaṃsagaḥ* ← *vaṃsaga*
 - \[noun\], nominative, singular, masculine
 - “bull.”
 ------------------------------------------------------------------------
-- *abhivrajann* \< *abhivrajan* \< *abhivraj* \< *√vraj*
+- *abhivrajann* ← *abhivrajan* ← *abhivraj* ← *√vraj*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *akṣitam* \< *akṣita*
+- *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------
-- *pājasā* \< *pājas*
+- *pājasā* ← *pājas*
 - \[noun\], instrumental, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *raja* \< *rajas*
+- *raja* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *sthātuś* \< *sthātuḥ* \< *sthātṛ*
+- *sthātuś* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *caratham* \< *caratha*
+- *caratham* ← *caratha*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *bhayate* \< *bhī*
+- *bhayate* ← *bhī*
 - \[verb\], singular, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *patatriṇaḥ* \< *patatrin*
+- *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “bird; arrow; horse.”
 ------------------------------------------------------------------------

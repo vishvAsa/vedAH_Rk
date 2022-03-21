@@ -2,78 +2,78 @@
 title = "Rig Veda 1.180.2"
 
 +++
--   *yuvam* \< *tvad*
+-   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *atyasyāva* \< *atyasya* \< *atya*
+- *atyasyāva* ← *atyasya* ← *atya*
 - \[noun\], genitive, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
-- *atyasyāva* \< *ava*
+- *atyasyāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *nakṣatho* \< *nakṣathaḥ* \< *nakṣ*
+- *nakṣatho* ← *nakṣathaḥ* ← *nakṣ*
 - \[verb\], dual, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vipatmano* \< *vipatmanaḥ* \< *vipatman*
+- *vipatmano* ← *vipatmanaḥ* ← *vipatman*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *naryasya* \< *narya*
+- *naryasya* ← *narya*
 - \[noun\], genitive, singular, masculine
 - “manly; heroic; powerful; male; human.”
 ------------------------------------------------------------------------
-- *prayajyoḥ* \< *prayajyu*
+- *prayajyoḥ* ← *prayajyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *svasā* \< *svasṛ*
+- *svasā* ← *svasṛ*
 - \[noun\], nominative, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *viśvagūrtī* \< *viśva*
+- *viśvagūrtī* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvagūrtī* \< *gūrtī* \< *gūrti*
+- *viśvagūrtī* ← *gūrtī* ← *gūrti*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *bharāti* \< *bhṛ*
+- *bharāti* ← *bhṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vājāyeṭṭe* \< *vājāya* \< *vāja*
+- *vājāyeṭṭe* ← *vājāya* ← *vāja*
 - \[noun\], dative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājāyeṭṭe* \< *īṭṭe* \< *īḍ*
+- *vājāyeṭṭe* ← *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *madhupāv* \< *madhu*
+- *madhupāv* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhupāv* \< *pau* \< *pā*
+- *madhupāv* ← *pau* ← *pā*
 - \[noun\], accusative, dual, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

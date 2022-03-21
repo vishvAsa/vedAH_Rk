@@ -2,25 +2,25 @@
 title = "Rig Veda 10.75.3"
 
 +++
--   *divi* \< *div*
+-   *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *svano* \< *svanaḥ* \< *svana*
+- *svano* ← *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *yatate* \< *yat*
+- *yatate* ← *yat*
 - \[verb\], singular, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *bhūmyopary* \< *bhūmyā* \< *bhūmi*
+- *bhūmyopary* ← *bhūmyā* ← *bhūmi*
 - \[noun\], instrumental, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *bhūmyopary* \< *upari*
+- *bhūmyopary* ← *upari*
 - \[adverb\]
 - “above; up; additionally; upari \[word\]; subsequently.”
 ------------------------------------------------------------------------

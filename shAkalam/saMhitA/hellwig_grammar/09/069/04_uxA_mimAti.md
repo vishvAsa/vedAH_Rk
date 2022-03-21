@@ -2,11 +2,11 @@
 title = "Rig Veda 9.69.4"
 
 +++
--   *ukṣā* \< *ukṣan*
+-   *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------
-- *mimāti* \< *mā*
+- *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
 ------------------------------------------------------------------------
@@ -14,20 +14,20 @@ title = "Rig Veda 9.69.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
@@ -35,35 +35,35 @@ title = "Rig Veda 9.69.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *aty* \< *ati*
+- *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *akramīd* \< *akramīt* \< *kram*
+- *akramīd* ← *akramīt* ← *kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *arjunaṃ* \< *arjunam* \< *arjuna*
+- *arjunaṃ* ← *arjunam* ← *arjuna*
 - \[noun\], accusative, singular, masculine
 - “white; clean; light.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyayam* \< *avyaya*
+- *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
-- *atkaṃ* \< *atkam* \< *atka*
+- *atkaṃ* ← *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
@@ -71,18 +71,18 @@ title = "Rig Veda 9.69.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niktam* \< *nij*
+- *niktam* ← *nij*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *avyata* \< *vye*
+- *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
 ------------------------------------------------------------------------

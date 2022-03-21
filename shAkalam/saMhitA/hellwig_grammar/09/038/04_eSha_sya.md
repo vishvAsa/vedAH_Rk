@@ -2,15 +2,15 @@
 title = "Rig Veda 9.38.4"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *mānuṣīṣv* \< *mānuṣīṣu* \< *mānuṣa*
+- *mānuṣīṣv* ← *mānuṣīṣu* ← *mānuṣa*
 - \[noun\], locative, plural, feminine
 - “human.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 9.38.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śyeno* \< *śyenaḥ* \< *śyena*
+- *śyeno* ← *śyenaḥ* ← *śyena*
 - \[noun\], nominative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 9.38.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *sīdati* \< *sad*
+- *sīdati* ← *sad*
 - \[verb\], singular, Present indikative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *gacchañ* \< *gacchan* \< *gam*
+- *gacchañ* ← *gacchan* ← *gam*
 - \[verb noun\], nominative, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *jāro* \< *jāraḥ* \< *jāra*
+- *jāro* ← *jāraḥ* ← *jāra*
 - \[noun\], nominative, singular, masculine
 - “fancy man.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 9.38.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yoṣitam* \< *yoṣit*
+- *yoṣitam* ← *yoṣit*
 - \[noun\], accusative, singular, feminine
 - “woman; wife; strīvajra; sexual activity.”
 ------------------------------------------------------------------------

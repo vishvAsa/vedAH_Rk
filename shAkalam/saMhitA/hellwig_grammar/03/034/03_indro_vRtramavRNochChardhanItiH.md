@@ -2,25 +2,25 @@
 title = "Rig Veda 3.34.3"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *avṛṇocchardhanītiḥ* \< *avṛṇot* \< *vṛ*
+- *avṛṇocchardhanītiḥ* ← *avṛṇot* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *avṛṇocchardhanītiḥ* \< *śardha*
+- *avṛṇocchardhanītiḥ* ← *śardha*
 - \[noun\], masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *avṛṇocchardhanītiḥ* \< *nītiḥ* \< *nīti*
+- *avṛṇocchardhanītiḥ* ← *nītiḥ* ← *nīti*
 - \[noun\], nominative, singular, masculine
 - “caution; good behavior; policy; politics.”
 ------------------------------------------------------------------------
@@ -28,43 +28,43 @@ title = "Rig Veda 3.34.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *māyinām* \< *māyin*
+- *māyinām* ← *māyin*
 - \[noun\], genitive, plural, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *aminād* \< *amināt* \< *mī*
+- *aminād* ← *amināt* ← *mī*
 - \[verb\], singular, Imperfect
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *varpaṇītiḥ* \< *varpaṇīti*
+- *varpaṇītiḥ* ← *varpaṇīti*
 - \[noun\], nominative, singular, masculine
 - “artful.”
 ------------------------------------------------------------------------
-- *ahan* \< *han*
+- *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vyaṃsam* \< *vyaṃsa*
+- *vyaṃsam* ← *vyaṃsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *uśadhag* \< *uśadhak*
+- *uśadhag* ← *uśadhak*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vaneṣv* \< *vaneṣu* \< *vana*
+- *vaneṣv* ← *vaneṣu* ← *vana*
 - \[noun\], locative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *dhenā* \< *dhenāḥ* \< *dhenā*
+- *dhenā* ← *dhenāḥ* ← *dhenā*
 - \[noun\], accusative, plural, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,7 +75,7 @@ title = "Rig Veda 3.34.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rāmyāṇām* \< *rāmyā*
+- *rāmyāṇām* ← *rāmyā*
 - \[noun\], genitive, plural, feminine
 - “night; night.”
 ------------------------------------------------------------------------

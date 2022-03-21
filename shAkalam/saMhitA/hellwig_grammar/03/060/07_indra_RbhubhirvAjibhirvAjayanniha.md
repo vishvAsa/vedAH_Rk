@@ -7,15 +7,15 @@ title = "Rig Veda 3.60.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṛbhubhir* \< *ṛbhubhiḥ* \< *ṛbhu*
+- *ṛbhubhir* ← *ṛbhubhiḥ* ← *ṛbhu*
 - \[noun\], instrumental, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *vājibhir* \< *vājibhiḥ* \< *vājin*
+- *vājibhir* ← *vājibhiḥ* ← *vājin*
 - \[noun\], instrumental, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājayann* \< *vājayan* \< *vājay* \< *√vaj*
+- *vājayann* ← *vājayan* ← *vājay* ← *√vaj*
 - \[verb noun\], nominative, singular
 - “incite.”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 3.60.7"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *jaritur* \< *jarituḥ* \< *jaritṛ*
+- *jaritur* ← *jarituḥ* ← *jaritṛ*
 - \[noun\], genitive, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
@@ -35,37 +35,37 @@ title = "Rig Veda 3.60.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *yajñiyam* \< *yajñiya*
+- *yajñiyam* ← *yajñiya*
 - \[noun\], accusative, singular, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *ketebhir* \< *ketebhiḥ* \< *keta*
+- *ketebhir* ← *ketebhiḥ* ← *keta*
 - \[noun\], instrumental, plural, masculine
 - “wish; will; purpose; expectation; house.”
 ------------------------------------------------------------------------
-- *iṣirebhir* \< *iṣirebhiḥ* \< *iṣira*
+- *iṣirebhir* ← *iṣirebhiḥ* ← *iṣira*
 - \[noun\], instrumental, plural, masculine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *āyave* \< *āyu*
+- *āyave* ← *āyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasraṇītho* \< *sahasraṇīthaḥ* \< *sahasraṇītha*
+- *sahasraṇītho* ← *sahasraṇīthaḥ* ← *sahasraṇītha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adhvarasya* \< *adhvara*
+- *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *homani* \< *homan*
+- *homani* ← *homan*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------

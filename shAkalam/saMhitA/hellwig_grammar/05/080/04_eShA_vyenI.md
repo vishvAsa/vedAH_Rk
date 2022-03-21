@@ -2,29 +2,29 @@
 title = "Rig Veda 5.80.4"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vyenī* \< *vyena*
+- *vyenī* ← *vyena*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *dvibarhā* \< *dvibarhāḥ* \< *dvibarhas*
+- *dvibarhā* ← *dvibarhāḥ* ← *dvibarhas*
 - \[noun\], nominative, singular, feminine
 - “double.”
 ------------------------------------------------------------------------
-- *āviṣkṛṇvānā* \< *āviṣkṛ* \< *√kṛ*
+- *āviṣkṛṇvānā* ← *āviṣkṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “show; uncover.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -32,19 +32,19 @@ title = "Rig Veda 5.80.4"
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *panthām* \< *pathin*
+- *panthām* ← *pathin*
 - \[noun\], accusative, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 5.80.4"
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *prajānatīva* \< *prajānatī* \< *prajñā* \< *√jñā*
+- *prajānatīva* ← *prajānatī* ← *prajñā* ← *√jñā*
 - \[verb noun\], nominative, singular
 - “know; perceive; understand; detect.”
 ------------------------------------------------------------------------
-- *prajānatīva* \< *iva*
+- *prajānatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -65,12 +65,12 @@ title = "Rig Veda 5.80.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *diśo* \< *diśaḥ* \< *diś*
+- *diśo* ← *diśaḥ* ← *diś*
 - \[noun\], accusative, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------

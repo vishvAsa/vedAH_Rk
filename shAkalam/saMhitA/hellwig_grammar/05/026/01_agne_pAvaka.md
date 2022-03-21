@@ -2,7 +2,7 @@
 title = "Rig Veda 5.26.1"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -12,7 +12,7 @@ title = "Rig Veda 5.26.1"
 - \[noun\], vocative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *rociṣā* \< *rocis*
+- *rociṣā* ← *rocis*
 - \[noun\], instrumental, singular, neuter
 - “beam.”
 ------------------------------------------------------------------------

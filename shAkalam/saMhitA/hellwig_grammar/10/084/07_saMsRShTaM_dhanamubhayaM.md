@@ -2,36 +2,36 @@
 title = "Rig Veda 10.84.7"
 
 +++
--   *saṃsṛṣṭaṃ* \< *saṃsṛṣṭam* \< *saṃsṛj* \< *√sṛj*
+-   *saṃsṛṣṭaṃ* ← *saṃsṛṣṭam* ← *saṃsṛj* ← *√sṛj*
 - \[verb noun\], accusative, singular
 - “mix; saṃsṛj; combine; accompany; blend; afflict; endow; consociate;
     love; alloy.”
 ------------------------------------------------------------------------
-- *dhanam* \< *dhana*
+- *dhanam* ← *dhana*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *ubhayaṃ* \< *ubhayam* \< *ubhaya*
+- *ubhayaṃ* ← *ubhayam* ← *ubhaya*
 - \[noun\], accusative, singular, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *samākṛtam* \< *samākṛ* \< *√kṛ*
+- *samākṛtam* ← *samākṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “gather; collect.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dattāṃ* \< *dattām* \< *dā*
+- *dattāṃ* ← *dattām* ← *dā*
 - \[verb\], dual, Present imperative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *varuṇaś* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -40,29 +40,29 @@ title = "Rig Veda 10.84.7"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *manyuḥ* \< *manyu*
+- *manyuḥ* ← *manyu*
 - \[noun\], nominative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *bhiyaṃ* \< *bhiyam* \< *bhī*
+- *bhiyaṃ* ← *bhiyam* ← *bhī*
 - \[noun\], accusative, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dadhānāḥ* \< *dhā*
+- *dadhānā* ← *dadhānāḥ* ← *dhā*
 - \[verb noun\], nominative, plural
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *hṛdayeṣu* \< *hṛdaya*
+- *hṛdayeṣu* ← *hṛdaya*
 - \[noun\], locative, plural, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
 ------------------------------------------------------------------------
-- *śatravaḥ* \< *śatru*
+- *śatravaḥ* ← *śatru*
 - \[noun\], nominative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *parājitāso* \< *parājitāsaḥ* \< *parāji* \< *√ji*
+- *parājitāso* ← *parājitāsaḥ* ← *parāji* ← *√ji*
 - \[verb noun\], nominative, plural
 - “overcome; overpower.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 10.84.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *layantām* \< *lī*
+- *layantām* ← *lī*
 - \[verb\], plural, Present imperative
 - “disappear; repose; lie; adhere.”
 ------------------------------------------------------------------------

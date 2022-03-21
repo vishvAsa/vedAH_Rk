@@ -6,19 +6,19 @@ title = "Rig Veda 4.38.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *smāsu* \< *sma*
+- *smāsu* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *smāsu* \< *āsu* \< *idam*
+- *smāsu* ← *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *sariṣyan* \< *sṛ*
+- *sariṣyan* ← *sṛ*
 - \[verb noun\], nominative, singular
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
@@ -26,22 +26,22 @@ title = "Rig Veda 4.38.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *veveti* \< *vevīy* \< *√vī*
+- *veveti* ← *vevīy* ← *√vī*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *śreṇibhī* \< *śreṇibhiḥ* \< *śreṇi*
+- *śreṇibhī* ← *śreṇibhiḥ* ← *śreṇi*
 - \[noun\], instrumental, plural, feminine
 - “club; line.”
 ------------------------------------------------------------------------
-- *rathānām* \< *ratha*
+- *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *srajaṃ* \< *srajam* \< *sraj*
+- *srajaṃ* ← *srajam* ← *sraj*
 - \[noun\], accusative, singular, feminine
 - “wreath; sraj \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇvāno* \< *kṛṇvānaḥ* \< *kṛ*
+- *kṛṇvāno* ← *kṛṇvānaḥ* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -52,29 +52,29 @@ title = "Rig Veda 4.38.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *janyo* \< *janyaḥ* \< *janya*
+- *janyo* ← *janyaḥ* ← *janya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śubhvā* \< *śubhvan*
+- *śubhvā* ← *śubhvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *reṇuṃ* \< *reṇum* \< *reṇu*
+- *reṇuṃ* ← *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
 ------------------------------------------------------------------------
-- *rerihat* \< *rerih* \< *√rih*
+- *rerihat* ← *rerih* ← *√rih*
 - \[verb noun\], nominative, singular
 - “lick.”
 ------------------------------------------------------------------------
-- *kiraṇaṃ* \< *kiraṇam* \< *kiraṇa*
+- *kiraṇaṃ* ← *kiraṇam* ← *kiraṇa*
 - \[noun\], accusative, singular, masculine
 - “beam; sunbeam; Kiraṇa; dust; sun; chapter.”
 ------------------------------------------------------------------------
-- *dadaśvān* \< *daṃś*
+- *dadaśvān* ← *daṃś*
 - \[verb noun\], nominative, singular
 - “bite; sting.”
 ------------------------------------------------------------------------

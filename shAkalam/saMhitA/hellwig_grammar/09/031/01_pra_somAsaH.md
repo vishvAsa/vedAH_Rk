@@ -6,27 +6,27 @@ title = "Rig Veda 9.31.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somāsaḥ* \< *soma*
+- *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *svādhyaḥ* \< *svādhī*
+- *svādhyaḥ* ← *svādhī*
 - \[noun\], nominative, plural, masculine
 - “devout; heedful; prudent.”
 ------------------------------------------------------------------------
-- *pavamānāso* \< *pavamānāsaḥ* \< *pū*
+- *pavamānāso* ← *pavamānāsaḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *akramuḥ* \< *kram*
+- *akramuḥ* ← *kram*
 - \[verb\], plural, Root aorist (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *kṛṇvanti* \< *kṛ*
+- *kṛṇvanti* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -37,7 +37,7 @@ title = "Rig Veda 9.31.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cetanam* \< *cetana*
+- *cetanam* ← *cetana*
 - \[noun\], accusative, singular, masculine
 - “noteworthy; remarkable; memorable; conspicuous; conscious;
     sentient.”

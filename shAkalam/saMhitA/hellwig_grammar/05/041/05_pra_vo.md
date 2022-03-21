@@ -6,15 +6,15 @@ title = "Rig Veda 5.41.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *yuktāśvam* \< *yukta* \< *yuj*
+- *yuktāśvam* ← *yukta* ← *yuj*
 - \[verb noun\]
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -22,24 +22,24 @@ title = "Rig Veda 5.41.5"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yuktāśvam* \< *aśvam* \< *aśva*
+- *yuktāśvam* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *bharadhvaṃ* \< *bharadhvam* \< *bhṛ*
+- *bharadhvaṃ* ← *bharadhvam* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *eṣe* \< *eṣa*
+- *eṣe* ← *eṣa*
 - \[noun\], locative, singular, masculine
 - “quest.”
 ------------------------------------------------------------------------
-- *'vase* \< *avase* \< *av*
+- *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

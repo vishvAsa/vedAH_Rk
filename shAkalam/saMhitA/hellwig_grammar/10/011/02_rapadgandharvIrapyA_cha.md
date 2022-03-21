@@ -2,15 +2,15 @@
 title = "Rig Veda 10.11.2"
 
 +++
--   *rapad* \< \< *rap*
+-   *rapad* ← ← *rap*
 - \[verb\], singular, Present injunctive
 - “whisper.”
 ------------------------------------------------------------------------
-- *gandharvīr* \< *gandharvīḥ* \< *gandharvī*
+- *gandharvīr* ← *gandharvīḥ* ← *gandharvī*
 - \[noun\], nominative, singular, feminine
 - “Gandharvī.”
 ------------------------------------------------------------------------
-- *apyā* \< *apya*
+- *apyā* ← *apya*
 - \[noun\], nominative, singular, feminine
 - “aquatic; aquatic.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 10.11.2"
 - \[noun\], nominative, singular, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------
-- *nadasya* \< *nada*
+- *nadasya* ← *nada*
 - \[noun\], genitive, singular, masculine
 - “river; nad; roarer; stallion.”
 ------------------------------------------------------------------------
-- *nāde* \< *nāda*
+- *nāde* ← *nāda*
 - \[noun\], locative, singular, masculine
 - “sound; cry; noise; bellow; howl; crying.”
 ------------------------------------------------------------------------
@@ -34,30 +34,30 @@ title = "Rig Veda 10.11.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *iṣṭasya* \< *iṣṭa*
+- *iṣṭasya* ← *iṣṭa*
 - \[noun\], genitive, singular, neuter
 - “desire; wish.”
 ------------------------------------------------------------------------
-- *madhye* \< *madhya*
+- *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
     middle; middle age; span; belly.”
 ------------------------------------------------------------------------
-- *aditir* \< *aditiḥ* \< *aditi*
+- *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
@@ -65,28 +65,28 @@ title = "Rig Veda 10.11.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dhātu* \< *dhā*
+- *dhātu* ← *dhā*
 - \[verb\], singular, Aorist imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhrātā* \< *bhrātṛ*
+- *bhrātā* ← *bhrātṛ*
 - \[noun\], nominative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jyeṣṭhaḥ* \< *jyeṣṭha*
+- *jyeṣṭhaḥ* ← *jyeṣṭha*
 - \[noun\], nominative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *prathamo* \< *prathamaḥ* \< *prathama*
+- *prathamo* ← *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
@@ -95,7 +95,7 @@ title = "Rig Veda 10.11.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vocati* \< *vac*
+- *vocati* ← *vac*
 - \[verb\], singular, Aorist optative
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

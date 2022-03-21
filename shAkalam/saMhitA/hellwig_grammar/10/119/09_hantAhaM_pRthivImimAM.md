@@ -2,19 +2,19 @@
 title = "Rig Veda 10.119.9"
 
 +++
--   *hantāham* \< *hanta*
+-   *hantāham* ← *hanta*
 - \[adverb\]
 - “very well; hanta \[word\].”
 ------------------------------------------------------------------------
-- *hantāham* \< *aham* \< *mad*
+- *hantāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *imāṃ* \< *imām* \< *idam*
+- *imāṃ* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -22,20 +22,20 @@ title = "Rig Veda 10.119.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dadhānīha* \< *dadhāni* \< *dhā*
+- *dadhānīha* ← *dadhāni* ← *dhā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dadhānīha* \< *iha*
+- *dadhānīha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *veha* \< *vā*
+- *veha* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *veha* \< *iha*
+- *veha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
@@ -43,15 +43,15 @@ title = "Rig Veda 10.119.9"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *somasya* \< *soma*
+- *somasyāpām* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *apām* \< *pā*
+- *somasyāpām* ← *apām* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

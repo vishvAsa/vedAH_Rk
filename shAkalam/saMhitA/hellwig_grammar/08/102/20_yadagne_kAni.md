@@ -2,17 +2,17 @@
 title = "Rig Veda 8.102.20"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kāni* \< *ka*
+- *kāni* ← *ka*
 - \[noun\], accusative, plural, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------

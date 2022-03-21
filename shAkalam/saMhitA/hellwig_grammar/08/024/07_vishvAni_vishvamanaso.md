@@ -2,28 +2,28 @@
 title = "Rig Veda 8.24.7"
 
 +++
--   *viśvāni* \< *viśva*
+-   *viśvāni* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvamanaso* \< *viśvamanasaḥ* \< *viśvamanas*
+- *viśvamanaso* ← *viśvamanasaḥ* ← *viśvamanas*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *vṛtra*
+- *vṛtrahantama* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahantama* \< *hantama*
+- *vṛtrahantama* ← *hantama*
 - \[noun\], vocative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 8.24.7"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *praṇetar* \< *praṇetṛ*
+- *praṇetar* ← *praṇetṛ*
 - \[noun\], vocative, singular, masculine
 - “leader.”
 ------------------------------------------------------------------------
@@ -40,15 +40,15 @@ title = "Rig Veda 8.24.7"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

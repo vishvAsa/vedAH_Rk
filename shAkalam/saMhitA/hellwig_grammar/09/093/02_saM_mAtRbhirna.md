@@ -6,7 +6,7 @@ title = "Rig Veda 9.93.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *mātṛbhir* \< *mātṛbhiḥ* \< *mātṛ*
+- *mātṛbhir* ← *mātṛbhiḥ* ← *mātṛ*
 - \[noun\], instrumental, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -15,35 +15,35 @@ title = "Rig Veda 9.93.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śiśur* \< *śiśuḥ* \< *śiśu*
+- *śiśur* ← *śiśuḥ* ← *śiśu*
 - \[noun\], nominative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *vāvaśāno* \< *vāvaśānaḥ* \< *vāś*
+- *vāvaśāno* ← *vāvaśānaḥ* ← *vāś*
 - \[verb noun\], nominative, singular
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *dadhanve* \< *dhanv*
+- *dadhanve* ← *dhanv*
 - \[verb\], singular, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
-- *puruvāro* \< *puru*
+- *puruvāro* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāro* \< *vāraḥ* \< *vāra*
+- *puruvāro* ← *vāraḥ* ← *vāra*
 - \[noun\], nominative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *adbhiḥ* \< *ap*
+- *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *maryo* \< *maryaḥ* \< *marya*
+- *maryo* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -51,7 +51,7 @@ title = "Rig Veda 9.93.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yoṣām* \< *yoṣā*
+- *yoṣām* ← *yoṣā*
 - \[noun\], accusative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
@@ -59,30 +59,30 @@ title = "Rig Veda 9.93.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *niṣkṛtaṃ* \< *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtaṃ* ← *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *yan* \< *i*
+- *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *gacchate* \< *gam*
+- *gacchate* ← *gam*
 - \[verb\], singular, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *kalaśa* \< *kalaśe* \< *kalaśa*
+- *kalaśa* ← *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *usriyābhiḥ* \< *usriyā*
+- *usriyābhiḥ* ← *usriyā*
 - \[noun\], instrumental, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------

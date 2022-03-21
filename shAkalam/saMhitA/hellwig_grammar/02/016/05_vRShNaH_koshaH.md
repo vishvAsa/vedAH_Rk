@@ -2,72 +2,72 @@
 title = "Rig Veda 2.16.5"
 
 +++
--   *vṛṣṇaḥ* \< *vṛṣan*
+-   *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *kośaḥ* \< *kośa*
+- *kośaḥ* ← *kośa*
 - \[noun\], nominative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *madhva* \< *madhvaḥ* \< *madhu*
+- *madhva* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmir* \< *ūrmiḥ* \< *ūrmi*
+- *ūrmir* ← *ūrmiḥ* ← *ūrmi*
 - \[noun\], nominative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *vṛṣabhānnāya* \< *vṛṣabha*
+- *vṛṣabhānnāya* ← *vṛṣabha*
 - \[noun\], masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vṛṣabhānnāya* \< *annāya* \< *anna*
+- *vṛṣabhānnāya* ← *annāya* ← *anna*
 - \[noun\], dative, singular, masculine
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *vṛṣabhāya* \< *vṛṣabha*
+- *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣaṇādhvaryū* \< *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇādhvaryū* ← *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣaṇādhvaryū* \< *adhvaryū* \< *adhvaryu*
+- *vṛṣaṇādhvaryū* ← *adhvaryū* ← *adhvaryu*
 - \[noun\], nominative, dual, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *vṛṣabhāso* \< *vṛṣabhāsaḥ* \< *vṛṣabha*
+- *vṛṣabhāso* ← *vṛṣabhāsaḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *adrayo* \< *adrayaḥ* \< *adri*
+- *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vṛṣabhāya* \< *vṛṣabha*
+- *vṛṣabhāya* ← *vṛṣabha*
 - \[noun\], dative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *suṣvati* \< *\_* \< *√\_*
+- *suṣvati* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

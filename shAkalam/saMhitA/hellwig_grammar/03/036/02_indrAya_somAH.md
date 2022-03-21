@@ -2,46 +2,46 @@
 title = "Rig Veda 3.36.2"
 
 +++
--   *indrāya* \< *indra*
+-   *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somāḥ* \< *soma*
+- *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pradivo* \< *pradivaḥ* \< *pradiv*
+- *pradivo* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *vidānā* \< *vidānāḥ* \< *vid*
+- *vidānā* ← *vidānāḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *yebhir* \< *yebhiḥ* \< *yad*
+- *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛṣaparvā* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣaparvā* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *vṛṣaparvā* \< *parvā* \< *parvan*
+- *vṛṣaparvā* ← *parvā* ← *parvan*
 - \[noun\], nominative, singular, masculine
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *vihāyāḥ* \< *vihāyas*
+- *vihāyāḥ* ← *vihāyas*
 - \[noun\], nominative, singular, masculine
 - “vigorous.”
 ------------------------------------------------------------------------
-- *prayamyamānān* \< *prayam* \< *√yam*
+- *prayamyamānān* ← *prayam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “give; emit; send; transmit.”
 ------------------------------------------------------------------------
@@ -49,33 +49,33 @@ title = "Rig Veda 3.36.2"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *gṛbhāyendra* \< *gṛbhāya* \< *gṛbhāy* \< *√grah*
+- *gṛbhāyendra* ← *gṛbhāya* ← *gṛbhāy* ← *√grah*
 - \[verb\], singular, Present imperative
 - “accept.”
 ------------------------------------------------------------------------
-- *gṛbhāyendra* \< *indra*
+- *gṛbhāyendra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛṣadhūtasya* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣadhūtasya* ← *vṛṣa* ← *vṛṣan*
 - \[noun\]
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *vṛṣadhūtasya* \< *dhūtasya* \< *dhū*
+- *vṛṣadhūtasya* ← *dhūtasya* ← *dhū*
 - \[verb noun\], genitive, singular
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------

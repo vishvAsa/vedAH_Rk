@@ -2,31 +2,31 @@
 title = "Rig Veda 8.66.10"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *mahīr* \< *mahīḥ* \< *mahi*
+- *mahīr* ← *mahīḥ* ← *mahi*
 - \[noun\], nominative, plural, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *adhṛṣṭā* \< *adhṛṣṭāḥ* \< *adhṛṣṭa*
+- *adhṛṣṭā* ← *adhṛṣṭāḥ* ← *adhṛṣṭa*
 - \[noun\], nominative, plural, feminine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *taviṣīḥ* \< *taviṣī*
+- *taviṣīḥ* ← *taviṣī*
 - \[noun\], nominative, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -34,48 +34,48 @@ title = "Rig Veda 8.66.10"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *vṛtraghno* \< *vṛtra*
+- *vṛtraghno* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraghno* \< *ghnā* \< *ghna*
+- *vṛtraghno* ← *ghnā* ← *ghna*
 - \[noun\], instrumental, singular, masculine
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
-- *vṛtraghno* \< *u*
+- *vṛtraghno* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *astṛtam* \< *astṛta*
+- *astṛtam* ← *astṛta*
 - \[noun\], nominative, singular, neuter
 - “durable; invincible.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvān* \< *viśva*
+- *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bekanāṭāṃ* \< *bekanāṭa*
+- *bekanāṭāṃ* ← *bekanāṭa*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ahardṛśa* \< *ahardṛśaḥ* \< *ahardṛś*
+- *ahardṛśa* ← *ahardṛśaḥ* ← *ahardṛś*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇi*
+- *paṇīṃr* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------

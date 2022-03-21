@@ -2,36 +2,36 @@
 title = "Rig Veda 9.30.2"
 
 +++
--   *indur* \< *induḥ* \< *indu*
+-   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *hiyānaḥ* \< *hi*
+- *hiyānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *sotṛbhir* \< *sotṛbhiḥ* \< *sotṛ*
+- *sotṛbhir* ← *sotṛbhiḥ* ← *sotṛ*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *mṛjyamānaḥ* \< *mṛj*
+- *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vagnum* \< *vagnu*
+- *vagnum* ← *vagnu*
 - \[noun\], accusative, singular, masculine
 - “cry.”
 ------------------------------------------------------------------------
-- *indriyam* \< *indriya*
+- *indriyam* ← *indriya*
 - \[noun\], accusative, singular, masculine
 - “aindra.”
 ------------------------------------------------------------------------

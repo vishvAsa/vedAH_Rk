@@ -2,21 +2,21 @@
 title = "Rig Veda 7.48.3"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
@@ -24,58 +24,58 @@ title = "Rig Veda 7.48.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *śāsā* \< *śās*
+- *śāsā* ← *śās*
 - \[noun\], instrumental, singular, feminine
 - “śās; command; ruler; commander.”
 ------------------------------------------------------------------------
-- *viśvāṃ* \< *viśvān* \< *viśva*
+- *viśvāṃ* ← *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *arya* \< *aryaḥ* \< *ari*
+- *arya* ← *aryaḥ* ← *ari*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *uparatāti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vanvan* \< *van*
+- *vanvan* ← *van*
 - \[verb\], plural, Present injunctive
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vibhvāṃ* \< *vibhvā* \< *vibhvan*
+- *vibhvāṃ* ← *vibhvā* ← *vibhvan*
 - \[noun\], nominative, singular, masculine
 - “Vibhvan.”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *vājo* \< *vājaḥ* \< *vāja*
+- *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *śatror* \< *śatroḥ* \< *śatru*
+- *śatror* ← *śatroḥ* ← *śatru*
 - \[noun\], genitive, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
 - *mithatyā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇavan* \< *kṛ*
+- *kṛṇavan* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -90,7 +90,7 @@ title = "Rig Veda 7.48.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *nṛmṇam* \< *nṛmṇa*
+- *nṛmṇam* ← *nṛmṇa*
 - \[noun\], accusative, singular, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------

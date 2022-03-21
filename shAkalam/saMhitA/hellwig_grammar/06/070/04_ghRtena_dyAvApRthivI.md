@@ -2,7 +2,7 @@
 title = "Rig Veda 6.70.4"
 
 +++
--   *ghṛtena* \< *ghṛta*
+-   *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -10,50 +10,50 @@ title = "Rig Veda 6.70.4"
 - \[noun\], nominative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *abhīvṛte* \< *abhivṛ* \< *√vṛ*
+- *abhīvṛte* ← *abhivṛ* ← *√vṛ*
 - \[verb noun\], nominative, dual
 - “cover.”
 ------------------------------------------------------------------------
-- *ghṛtaśriyā* \< *ghṛta*
+- *ghṛtaśriyā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtaśriyā* \< *śriyāḥ* \< *śrī*
+- *ghṛtaśriyā* ← *śriyāḥ* ← *śrī*
 - \[noun\], nominative, dual, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *ghṛtapṛcā* \< *ghṛta*
+- *ghṛtapṛcā* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtapṛcā* \< *pṛcā* \< *pṛc*
+- *ghṛtapṛcā* ← *pṛcā* ← *pṛc*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *ghṛtāvṛdhā* \< *ghṛtāvṛdh*
+- *ghṛtāvṛdhā* ← *ghṛtāvṛdh*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], nominative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *pṛthvī* \< *pṛthu*
+- *pṛthvī* ← *pṛthu*
 - \[noun\], nominative, dual, feminine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *hotṛvūrye* \< *hotṛ*
+- *hotṛvūrye* ← *hotṛ*
 - \[noun\], masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hotṛvūrye* \< *vūrye* \< *vūrya*
+- *hotṛvūrye* ← *vūrye* ← *vūrya*
 - \[noun\], locative, singular, neuter
 - “election.”
 ------------------------------------------------------------------------
-- *purohite* \< *purodhā* \< *√dhā*
+- *purohite* ← *purodhā* ← *√dhā*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *te* \< *tad*
+- *te* ← *tad*
 - \[noun\], accusative, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -63,19 +63,19 @@ title = "Rig Veda 6.70.4"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *īﾱate* \< *īḍate* \< *īḍ*
+- *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------

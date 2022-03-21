@@ -2,14 +2,14 @@
 title = "Rig Veda 8.4.9"
 
 +++
--   *aśvī* \< *aśvin*
+-   *aśvī* ← *aśvin*
 - \[noun\], nominative, singular, masculine
 - “rich in horses; horsy.”
 ------------------------------------------------------------------------
-- *rathī* \< *rathin*
+- *rathī* ← *rathin*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *surūpa* \< *surūpaḥ* \< *surūpa*
+- *surūpa* ← *surūpaḥ* ← *surūpa*
 - \[noun\], nominative, singular, masculine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 8.4.9"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *gomāṃ* \< *gomat*
+- *gomāṃ* ← *gomat*
 - \[noun\], nominative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -30,27 +30,27 @@ title = "Rig Veda 8.4.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *śvātrabhājā* \< *śvātra*
+- *śvātrabhājā* ← *śvātra*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *śvātrabhājā* \< *bhājā* \< *bhāj*
+- *śvātrabhājā* ← *bhājā* ← *bhāj*
 - \[noun\], instrumental, singular, neuter
 - “enjoying; consisting of.”
 ------------------------------------------------------------------------
-- *vayasā* \< *vayas*
+- *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *sacate* \< *sac*
+- *sacate* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
@@ -58,16 +58,16 @@ title = "Rig Veda 8.4.9"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *candro* \< *candraḥ* \< *candra*
+- *candro* ← *candraḥ* ← *candra*
 - \[noun\], nominative, singular, masculine
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *yāti* \< *yā*
+- *yāti* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sabhām* \< *sabhā*
+- *sabhām* ← *sabhā*
 - \[noun\], accusative, singular, feminine
 - “assembly hall; sabhā \[word\]; assembly; audience.”
 ------------------------------------------------------------------------

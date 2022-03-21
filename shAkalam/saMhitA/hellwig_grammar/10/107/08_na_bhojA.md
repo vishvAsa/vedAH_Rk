@@ -6,11 +6,11 @@ title = "Rig Veda 10.107.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhojā* \< *bhojāḥ* \< *bhoja*
+- *bhojā* ← *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *mamrur* \< *mamruḥ* \< *mṛ*
+- *mamrur* ← *mamruḥ* ← *mṛ*
 - \[verb\], plural, Perfect indicative
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 10.107.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nyartham* \< *nyartha*
+- *nyartham* ← *nyartha*
 - \[noun\], accusative, singular, neuter
 - “failure.”
 ------------------------------------------------------------------------
-- *īyur* \< *īyuḥ* \< *i*
+- *īyur* ← *īyuḥ* ← *i*
 - \[verb\], plural, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 10.107.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *riṣyanti* \< *riṣ*
+- *riṣyanti* ← *riṣ*
 - \[verb\], plural, Present indikative
 - “suffer; harm.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 10.107.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vyathante* \< *vyath*
+- *vyathante* ← *vyath*
 - \[verb\], plural, Present indikative
 - “despair; tremble; disperse; flicker; pain; arouse.”
 ------------------------------------------------------------------------
@@ -46,54 +46,54 @@ title = "Rig Veda 10.107.8"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *bhojāḥ* \< *bhoja*
+- *bhojāḥ* ← *bhoja*
 - \[noun\], nominative, plural, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanaṃ* \< *bhuvanam* \< *bhuvana*
+- *bhuvanaṃ* ← *bhuvanam* ← *bhuvana*
 - \[noun\], nominative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *svaś* \< *svar*
+- *svaś* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *caitat* \< *ca*
+- *caitat* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *caitat* \< *etat* \< *etad*
+- *caitat* ← *etat* ← *etad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sarvaṃ* \< *sarvam* \< *sarva*
+- *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *dakṣiṇaibhyo* \< *dakṣiṇā*
+- *dakṣiṇaibhyo* ← *dakṣiṇā*
 - \[noun\], nominative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *dakṣiṇaibhyo* \< *ebhyaḥ* \< *idam*
+- *dakṣiṇaibhyo* ← *ebhyaḥ* ← *idam*
 - \[noun\], dative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

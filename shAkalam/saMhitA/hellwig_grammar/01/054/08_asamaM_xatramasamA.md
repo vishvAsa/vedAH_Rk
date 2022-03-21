@@ -2,15 +2,15 @@
 title = "Rig Veda 1.54.8"
 
 +++
--   *asamaṃ* \< *asamam* \< *asama*
+-   *asamaṃ* ← *asamam* ← *asama*
 - \[noun\], nominative, singular, neuter
 - “incomparable; unlike.”
 ------------------------------------------------------------------------
-- *kṣatram* \< *kṣatra*
+- *kṣatram* ← *kṣatra*
 - \[noun\], nominative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *asamā* \< *asama*
+- *asamā* ← *asama*
 - \[noun\], nominative, singular, feminine
 - “incomparable; unlike.”
 ------------------------------------------------------------------------
@@ -23,32 +23,32 @@ title = "Rig Veda 1.54.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, plural, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *apasā* \< *apas*
+- *apasā* ← *apas*
 - \[noun\], instrumental, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *santu* \< *as*
+- *santu* ← *as*
 - \[verb\], plural, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *neme* \< *nema*
+- *neme* ← *nema*
 - \[noun\], nominative, plural, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -57,14 +57,14 @@ title = "Rig Veda 1.54.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *daduṣo* \< *daduṣaḥ* \< *dā*
+- *daduṣo* ← *daduṣaḥ* ← *dā*
 - \[verb noun\], genitive, singular
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vardhayanti* \< *vardhay* \< *√vṛdh*
+- *vardhayanti* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
@@ -72,15 +72,15 @@ title = "Rig Veda 1.54.8"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *sthaviraṃ* \< *sthaviram* \< *sthavira*
+- *sthaviraṃ* ← *sthaviram* ← *sthavira*
 - \[noun\], accusative, singular, neuter
 - “old; strong; hardy; firm; firm.”
 ------------------------------------------------------------------------
-- *vṛṣṇyaṃ* \< *vṛṣṇyam* \< *vṛṣṇya*
+- *vṛṣṇyaṃ* ← *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------

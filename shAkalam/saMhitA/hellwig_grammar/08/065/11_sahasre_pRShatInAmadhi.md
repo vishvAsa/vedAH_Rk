@@ -2,18 +2,18 @@
 title = "Rig Veda 8.65.11"
 
 +++
--   *sahasre* \< *sahasra*
+-   *sahasre* ← *sahasra*
 - \[noun\], locative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *pṛṣatīnām* \< *pṛṣatī*
+- *pṛṣatīnām* ← *pṛṣatī*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ścandram* \< *ścandra*
+- *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, neuter
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 8.65.11"
 - \[noun\], accusative, singular, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *śukraṃ* \< *śukram* \< *śukra*
+- *śukraṃ* ← *śukram* ← *śukra*
 - \[noun\], accusative, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *hiraṇyam* \< *hiraṇya*
+- *hiraṇyam* ← *hiraṇya*
 - \[noun\], accusative, singular, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 8.65.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

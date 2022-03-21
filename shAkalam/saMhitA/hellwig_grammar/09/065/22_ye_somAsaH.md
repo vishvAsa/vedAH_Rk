@@ -2,41 +2,41 @@
 title = "Rig Veda 9.65.22"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *somāsaḥ* \< *soma*
+- *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arvāvati* \< *arvāvat*
+- *arvāvati* ← *arvāvat*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *sunvire* \< *su*
+- *sunvire* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vādaḥ* \< *vā*
+- *vādaḥ* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vādaḥ* \< *adaḥ* \< *adas*
+- *vādaḥ* ← *adaḥ* ← *adas*
 - \[noun\], accusative, singular, neuter
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *śaryaṇāvati* \< *śaryaṇāvant*
+- *śaryaṇāvati* ← *śaryaṇāvant*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

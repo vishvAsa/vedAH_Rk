@@ -2,7 +2,7 @@
 title = "Rig Veda 10.78.2"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -12,23 +12,23 @@ title = "Rig Veda 10.78.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhrājasā* \< *bhrājas*
+- *bhrājasā* ← *bhrājas*
 - \[noun\], instrumental, singular, neuter
 - “glare.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *rukma*
+- *rukmavakṣaso* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *rukmavakṣaso* \< *vakṣasaḥ* \< *vakṣas*
+- *rukmavakṣaso* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], nominative, plural, masculine
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *vātāso* \< *vātāsaḥ* \< *vāta*
+- *vātāso* ← *vātāsaḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -37,42 +37,42 @@ title = "Rig Veda 10.78.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svayujaḥ* \< *sva*
+- *svayujaḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayujaḥ* \< *yujaḥ* \< *yuj*
+- *svayujaḥ* ← *yujaḥ* ← *yuj*
 - \[noun\], nominative, plural, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *sadyaūtayaḥ* \< *sadyaūti*
+- *sadyaūtayaḥ* ← *sadyaūti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *prajñātāro* \< *prajñātāraḥ* \< *prajñātṛ*
+- *prajñātāro* ← *prajñātāraḥ* ← *prajñātṛ*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *jyeṣṭhāḥ* \< *jyeṣṭha*
+- *jyeṣṭhāḥ* ← *jyeṣṭha*
 - \[noun\], nominative, plural, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *sunītayaḥ* \< *su*
+- *sunītayaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sunītayaḥ* \< *nītayaḥ* \< *nīti*
+- *sunītayaḥ* ← *nītayaḥ* ← *nīti*
 - \[noun\], nominative, plural, masculine
 - “caution; good behavior; policy; politics.”
 ------------------------------------------------------------------------
-- *suśarmāṇo* \< *su*
+- *suśarmāṇo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśarmāṇo* \< *śarmāṇaḥ* \< *śarman*
+- *suśarmāṇo* ← *śarmāṇaḥ* ← *śarman*
 - \[noun\], nominative, plural, masculine
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
@@ -80,15 +80,15 @@ title = "Rig Veda 10.78.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *somā* \< *somāḥ* \< *soma*
+- *somā* ← *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛtaṃ* \< *ṛtam* \< *ṛta*
+- *ṛtaṃ* ← *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yate* \< *i*
+- *yate* ← *i*
 - \[verb noun\], dative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

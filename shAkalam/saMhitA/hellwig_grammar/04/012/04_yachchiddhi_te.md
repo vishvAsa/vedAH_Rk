@@ -2,34 +2,34 @@
 title = "Rig Veda 4.12.4"
 
 +++
--   *yac* \< *yat*
+-   *yac* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dhi* \< *hi*
+- *dhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *puruṣatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yaviṣṭhācittibhiś* \< *yaviṣṭha*
+- *yaviṣṭhācittibhiś* ← *yaviṣṭha*
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *yaviṣṭhācittibhiś* \< *acittibhiḥ* \< *acitti*
+- *yaviṣṭhācittibhiś* ← *acittibhiḥ* ← *acitti*
 - \[noun\], instrumental, plural, masculine
 - “ignorance.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,19 +40,19 @@ title = "Rig Veda 4.12.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kac* \< *kad* \< *ka*
+- *kac* ← *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *āgaḥ* \< *āgas*
+- *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -63,38 +63,38 @@ title = "Rig Veda 4.12.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṣv* \< *ṣu* \< *su*
+- *ṣv* ← *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], ablative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *anāgān* \< *anāga*
+- *anāgān* ← *anāga*
 - \[noun\], accusative, plural, masculine
 - “impeccant; innocent.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *enāṃsi* \< *enas*
+- *enāṃsi* ← *enas*
 - \[noun\], accusative, plural, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
-- *śiśratho* \< *śiśrathaḥ* \< *śrath*
+- *śiśratho* ← *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *viṣvag* \< *viṣvak* \< *viṣvañc*
+- *viṣvag* ← *viṣvak* ← *viṣvañc*
 - \[noun\], accusative, singular, neuter
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

@@ -2,19 +2,19 @@
 title = "Rig Veda 9.33.6"
 
 +++
--   *rāyaḥ* \< *rai*
+-   *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *samudrāṃś* \< *samudrān* \< *samudra*
+- *samudrāṃś* ← *samudrān* ← *samudra*
 - \[noun\], accusative, plural, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *caturo* \< *caturaḥ* \< *catur*
+- *caturo* ← *caturaḥ* ← *catur*
 - \[noun\], accusative, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *'smabhyaṃ* \< *asmabhyam* \< *mad*
+- *'smabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 9.33.6"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 9.33.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sahasriṇaḥ* \< *sahasrin*
+- *sahasriṇaḥ* ← *sahasrin*
 - \[noun\], accusative, plural, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------

@@ -6,28 +6,28 @@ title = "Rig Veda 9.61.10"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jātam* \< *jāta*
+- *jātam* ← *jāta*
 - \[noun\], nominative, singular, neuter
 - “kind; object; descendant; kin; being; reincarnation.”
 ------------------------------------------------------------------------
-- *andhaso* \< *andhasaḥ* \< *andhas*
+- *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūmy* \< *bhūmī* \< *bhūmi*
+- *bhūmy* ← *bhūmī* ← *bhūmi*
 - \[noun\], locative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
@@ -37,19 +37,19 @@ title = "Rig Veda 9.61.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], nominative, singular, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], nominative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 9.61.10"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravaḥ* \< *śravas*
+- *śravaḥ* ← *śravas*
 - \[noun\], nominative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------

@@ -2,45 +2,45 @@
 title = "Rig Veda 6.23.3"
 
 +++
--   *pātā* \< *pā*
+-   *pātā* ← *pā*
 - \[verb\], singular, periphrast. future
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *sutam* \< *suta*
+- *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *praṇenīr* \< *praṇenīḥ* \< *praṇenī*
+- *praṇenīr* ← *praṇenīḥ* ← *praṇenī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ugro* \< *ugraḥ* \< *ugra*
+- *ugro* ← *ugraḥ* ← *ugra*
 - \[noun\], nominative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *jaritāram* \< *jaritṛ*
+- *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *kartā* \< *kṛ*
+- *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,23 +51,23 @@ title = "Rig Veda 6.23.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *suṣvaya* \< *suṣvaye* \< *suṣvi*
+- *suṣvaya* ← *suṣvaye* ← *suṣvi*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *dātā* \< *dā*
+- *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -78,11 +78,11 @@ title = "Rig Veda 6.23.3"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *kīraye* \< *kīri*
+- *kīraye* ← *kīri*
 - \[noun\], dative, singular, masculine
 - “pauper.”
 ------------------------------------------------------------------------

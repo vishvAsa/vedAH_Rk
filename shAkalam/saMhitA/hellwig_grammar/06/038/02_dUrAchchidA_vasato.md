@@ -2,11 +2,11 @@
 title = "Rig Veda 6.38.2"
 
 +++
--   *dūrāc* \< *dūrāt*
+-   *dūrāc* ← *dūrāt*
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -14,76 +14,76 @@ title = "Rig Veda 6.38.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vasato* \< *vasataḥ* \< *vas*
+- *vasato* ← *vasataḥ* ← *vas*
 - \[verb\], dual, Present indikative
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *karṇā* \< *karṇa*
+- *karṇā* ← *karṇa*
 - \[noun\], nominative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *ghoṣād* \< *ghoṣāt* \< *ghoṣa*
+- *ghoṣād* ← *ghoṣāt* ← *ghoṣa*
 - \[noun\], ablative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tanyati* \< *tan*
+- *tanyati* ← *tan*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *bruvāṇaḥ* \< *brū*
+- *bruvāṇaḥ* ← *brū*
 - \[verb noun\], nominative, singular
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *eyam* \< *ā*
+- *eyam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *eyam* \< *iyam* \< *idam*
+- *eyam* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *devahūtir* \< *deva*
+- *devahūtir* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtir* \< *hūtiḥ* \< *hūti*
+- *devahūtir* ← *hūtiḥ* ← *hūti*
 - \[noun\], nominative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vavṛtyān* \< *vavṛtyāt* \< *vṛt*
+- *vavṛtyān* ← *vavṛtyāt* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *madryag* \< *madryak* \< *madryañc*
+- *madryag* ← *madryak* ← *madryañc*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *iyam* \< *idam*
+- *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṛcyamānā* \< *arc*
+- *ṛcyamānā* ← *arc*
 - \[verb noun\], nominative, singular
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------

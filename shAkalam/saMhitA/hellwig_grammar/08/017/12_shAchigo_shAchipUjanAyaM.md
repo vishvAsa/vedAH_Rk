@@ -2,25 +2,25 @@
 title = "Rig Veda 8.17.12"
 
 +++
--   *śācigo* \< *śācigu*
+-   *śācigo* ← *śācigu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *śācipūjanāyaṃ* \< *śācipūjana*
+- *śācipūjanāyaṃ* ← *śācipūjana*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *śācipūjanāyaṃ* \< *ayam* \< *idam*
+- *śācipūjanāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *raṇāya* \< *raṇa*
+- *raṇāya* ← *raṇa*
 - \[noun\], dative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sutaḥ* \< *su*
+- *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 8.17.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hūyase* \< *hvā*
+- *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

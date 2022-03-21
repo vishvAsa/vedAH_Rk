@@ -2,77 +2,77 @@
 title = "Rig Veda 1.112.11"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudānū* \< *sudānu*
+- *sudānū* ← *sudānu*
 - \[noun\], nominative, dual, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *auśijāya* \< *auśija*
+- *auśijāya* ← *auśija*
 - \[noun\], dative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *vaṇije* \< *vaṇij*
+- *vaṇije* ← *vaṇij*
 - \[noun\], dative, singular, masculine
 - “merchant.”
 ------------------------------------------------------------------------
-- *dīrghaśravase* \< *dīrghaśravas*
+- *dīrghaśravase* ← *dīrghaśravas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *kośo* \< *kośaḥ* \< *kośa*
+- *kośo* ← *kośaḥ* ← *kośa*
 - \[noun\], nominative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *akṣarat* \< *kṣar*
+- *akṣarat* ← *kṣar*
 - \[verb\], singular, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------
-- *kakṣīvantaṃ* \< *kakṣīvantam* \< *kakṣīvant*
+- *kakṣīvantaṃ* ← *kakṣīvantam* ← *kakṣīvant*
 - \[noun\], accusative, singular, masculine
 - “Kakṣīvant; kakṣīvant \[word\].”
 ------------------------------------------------------------------------
-- *stotāraṃ* \< *stotāram* \< *stotṛ*
+- *stotāraṃ* ← *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āvataṃ* \< *āvatam* \< *av*
+- *āvataṃ* ← *āvatam* ← *av*
 - \[verb\], dual, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

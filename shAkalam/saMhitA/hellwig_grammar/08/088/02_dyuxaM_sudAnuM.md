@@ -2,24 +2,24 @@
 title = "Rig Veda 8.88.2"
 
 +++
--   *dyukṣaṃ* \< *dyukṣam* \< *dyukṣa*
+-   *dyukṣaṃ* ← *dyukṣam* ← *dyukṣa*
 - \[noun\], accusative, singular, masculine
 - “celestial; divine; divine; brilliant.”
 ------------------------------------------------------------------------
-- *sudānuṃ* \< *sudānum* \< *sudānu*
+- *sudānuṃ* ← *sudānum* ← *sudānu*
 - \[noun\], accusative, singular, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *taviṣībhir* \< *taviṣībhiḥ* \< *taviṣī*
+- *taviṣībhir* ← *taviṣībhiḥ* ← *taviṣī*
 - \[noun\], instrumental, plural, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *āvṛtaṃ* \< *āvṛtam* \< *āvṛ* \< *√vṛ*
+- *āvṛtaṃ* ← *āvṛtam* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], accusative, singular
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
 ------------------------------------------------------------------------
-- *giriṃ* \< *girim* \< *giri*
+- *giriṃ* ← *girim* ← *giri*
 - \[noun\], accusative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -27,26 +27,26 @@ title = "Rig Veda 8.88.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *purubhojasam* \< *puru*
+- *purubhojasam* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhojasam* \< *bhojasam* \< *bhojas*
+- *purubhojasam* ← *bhojasam* ← *bhojas*
 - \[noun\], accusative, singular, masculine
 - “advantage; utility; food.”
 ------------------------------------------------------------------------
-- *kṣumantaṃ* \< *kṣumantam* \< *kṣumat*
+- *kṣumantaṃ* ← *kṣumantam* ← *kṣumat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *śatinaṃ* \< *śatinam* \< *śatin*
+- *śatinaṃ* ← *śatinam* ← *śatin*
 - \[noun\], accusative, singular, masculine
 - “hundredfold.”
 ------------------------------------------------------------------------
-- *sahasriṇam* \< *sahasrin*
+- *sahasriṇam* ← *sahasrin*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 8.88.2"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

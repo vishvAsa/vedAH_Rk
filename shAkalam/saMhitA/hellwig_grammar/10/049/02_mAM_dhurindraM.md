@@ -2,16 +2,16 @@
 title = "Rig Veda 10.49.2"
 
 +++
--   *māṃ* \< *mām* \< *mad*
+-   *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhur* \< *dhuḥ* \< *dhā*
+- *dhur* ← *dhuḥ* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -20,11 +20,11 @@ title = "Rig Veda 10.49.2"
 - \[adverb\]
 - “by name; indeed; however; indeed.”
 ------------------------------------------------------------------------
-- *devatā* \< *devatāḥ* \< *devatā*
+- *devatā* ← *devatāḥ* ← *devatā*
 - \[noun\], nominative, plural, feminine
 - “Hindu deity; Deva; deity; idol; devatā \[word\]; divinity; temple.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -32,15 +32,15 @@ title = "Rig Veda 10.49.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gmaś* \< *gmaḥ* \< *gam*
+- *gmaś* ← *gmaḥ* ← *gam*
 - \[noun\], genitive, singular, masculine
 - “gam.”
 ------------------------------------------------------------------------
-- *cāpāṃ* \< *ca*
+- *cāpāṃ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāpāṃ* \< *apām* \< *ap*
+- *cāpāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -48,44 +48,44 @@ title = "Rig Veda 10.49.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *jantavaḥ* \< *jantu*
+- *jantavaḥ* ← *jantu*
 - \[noun\], nominative, plural, masculine
 - “man; worm; being; child; Jantu; offspring; insect; vermin; animal.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣaṇa*
+- *vṛṣaṇā* ← *vṛṣaṇa*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *vivratā* \< *vivrata*
+- *vivratā* ← *vivrata*
 - \[noun\], accusative, dual, masculine
 - “refractory; loath.”
 ------------------------------------------------------------------------
-- *raghū* \< *raghu*
+- *raghū* ← *raghu*
 - \[noun\], accusative, dual, masculine
 - “low; fast.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *dhṛṣṇv* \< *dhṛṣṇu*
+- *dhṛṣṇv* ← *dhṛṣṇu*
 - \[noun\], accusative, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
@@ -93,7 +93,7 @@ title = "Rig Veda 10.49.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;

@@ -2,47 +2,47 @@
 title = "Rig Veda 10.85.20"
 
 +++
--   *sukiṃśukaṃ* \< *su*
+-   *sukiṃśukaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukiṃśukaṃ* \< *kiṃśukam* \< *kiṃśuka*
+- *sukiṃśukaṃ* ← *kiṃśukam* ← *kiṃśuka*
 - \[noun\], accusative, singular, masculine
 - “dhak.”
 ------------------------------------------------------------------------
-- *śalmaliṃ* \< *śalmalim* \< *śalmali*
+- *śalmaliṃ* ← *śalmalim* ← *śalmali*
 - \[noun\], accusative, singular, masculine
 - “red silk-cotton tree, Bombax ceiba Linn..”
 ------------------------------------------------------------------------
-- *viśvarūpaṃ* \< *viśva*
+- *viśvarūpaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvarūpaṃ* \< *rūpam* \< *rūpa*
+- *viśvarūpaṃ* ← *rūpam* ← *rūpa*
 - \[noun\], accusative, singular, masculine
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇaṃ* \< *hiraṇya*
+- *hiraṇyavarṇaṃ* ← *hiraṇya*
 - \[noun\], neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavarṇaṃ* \< *varṇam* \< *varṇa*
+- *hiraṇyavarṇaṃ* ← *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *suvṛtaṃ* \< *suvṛtam* \< *suvṛt*
+- *suvṛtaṃ* ← *suvṛtam* ← *suvṛt*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sucakram* \< *su*
+- *sucakram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sucakram* \< *cakram* \< *cakra*
+- *sucakram* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -51,38 +51,38 @@ title = "Rig Veda 10.85.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *roha* \< *ruh*
+- *roha* ← *ruh*
 - \[verb\], singular, Present imperative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *sūrye* \< *sūryā*
+- *sūrye* ← *sūryā*
 - \[noun\], vocative, singular, feminine
 - “Citrullus colocynthis Schrad..”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *syonam* \< *syona*
+- *syonam* ← *syona*
 - \[noun\], accusative, singular, masculine
 - “benevolent; agreeable; pleasant; agreeable.”
 ------------------------------------------------------------------------
-- *patye* \< *pati*
+- *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vahatuṃ* \< *vahatum* \< *vahatu*
+- *vahatuṃ* ← *vahatum* ← *vahatu*
 - \[noun\], accusative, singular, masculine
 - “marriage.”
 ------------------------------------------------------------------------
-- *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

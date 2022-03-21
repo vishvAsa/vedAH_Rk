@@ -2,22 +2,22 @@
 title = "Rig Veda 4.42.6"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *cakaraṃ* \< *cakaram* \< *kṛ*
+- *cakaraṃ* ← *cakaram* ← *kṛ*
 - \[verb\], singular, Plusquamperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -32,65 +32,65 @@ title = "Rig Veda 4.42.6"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], nominative, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], nominative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *varate* \< *vṛ*
+- *varate* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *apratītam* \< *apratīta*
+- *apratītam* ← *apratīta*
 - \[noun\], accusative, singular, masculine
 - “irresistible.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *somāso* \< *somāsaḥ* \< *soma*
+- *somāso* ← *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *mamadan* \< *mad*
+- *mamadan* ← *mad*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ukthobhe* \< *ukthā* \< *uktha*
+- *ukthobhe* ← *ukthā* ← *uktha*
 - \[noun\], nominative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ukthobhe* \< *ubhe* \< *ubh*
+- *ukthobhe* ← *ubhe* ← *ubh*
 - \[noun\], nominative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *bhayete* \< *bhī*
+- *bhayete* ← *bhī*
 - \[verb\], dual, Present indikative
 - “fear; fear.”
 ------------------------------------------------------------------------
-- *rajasī* \< *rajas*
+- *rajasī* ← *rajas*
 - \[noun\], nominative, dual, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *apāre* \< *apāra*
+- *apāre* ← *apāra*
 - \[noun\], nominative, dual, neuter
 - “boundless.”
 ------------------------------------------------------------------------

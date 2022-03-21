@@ -2,35 +2,35 @@
 title = "Rig Veda 4.31.3"
 
 +++
--   *abhī* \< *abhi*
+-   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhīnām* \< *sakhi*
+- *sakhīnām* ← *sakhi*
 - \[noun\], genitive, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *avitā* \< *av*
+- *avitā* ← *av*
 - \[verb\], singular, periphrast. future
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *jaritṝṇām* \< *jaritṛ*
+- *jaritṝṇām* ← *jaritṛ*
 - \[noun\], genitive, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *śatam* \< *śata*
+- *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *bhavāsy* \< *bhavāsi* \< *bhū*
+- *bhavāsy* ← *bhavāsi* \< *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

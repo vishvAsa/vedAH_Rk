@@ -2,19 +2,19 @@
 title = "Rig Veda 8.61.8"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrāṇi* \< *sahasra*
+- *sahasrāṇi* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śatāni* \< *śata*
+- *śatāni* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
@@ -22,16 +22,16 @@ title = "Rig Veda 8.61.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yūthā* \< *yūtha*
+- *yūthā* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *dānāya* \< *dāna*
+- *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *maṃhase* \< *mah*
+- *maṃhase* ← *mah*
 - \[verb\], singular, Present indikative
 - “give; accord.”
 ------------------------------------------------------------------------
@@ -39,11 +39,11 @@ title = "Rig Veda 8.61.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *purandaraṃ* \< *purandaram* \< *puraṃdara*
+- *purandaraṃ* ← *purandaram* ← *puraṃdara*
 - \[noun\], accusative, singular, masculine
 - “Indra; puraṃdara \[word\].”
 ------------------------------------------------------------------------
-- *cakṛma* \< *kṛ*
+- *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,24 +54,24 @@ title = "Rig Veda 8.61.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vipravacasa* \< *vipra*
+- *vipravacasa* ← *vipra*
 - \[noun\]
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *vipravacasa* \< *vacasaḥ* \< *vacas*
+- *vipravacasa* ← *vacasaḥ* ← *vacas*
 - \[noun\], nominative, plural, masculine
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gāyanto* \< *gāyantaḥ* \< *gā*
+- *gāyanto* ← *gāyantaḥ* ← *gā*
 - \[verb noun\], nominative, plural
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *'vase* \< *avase* \< *av*
+- *'vase* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

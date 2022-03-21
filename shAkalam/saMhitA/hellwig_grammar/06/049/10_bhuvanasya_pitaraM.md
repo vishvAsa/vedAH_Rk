@@ -2,25 +2,25 @@
 title = "Rig Veda 6.49.10"
 
 +++
--   *bhuvanasya* \< *bhuvana*
+-   *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *pitaraṃ* \< *pitaram* \< *pitṛ*
+- *pitaraṃ* ← *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *ābhī* \< *ābhiḥ* \< *idam*
+- *ābhī* ← *ābhiḥ* ← *idam*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rudraṃ* \< *rudram* \< *rudra*
+- *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
@@ -28,47 +28,47 @@ title = "Rig Veda 6.49.10"
 - \[adverb\]
 - “by day; divā \[indecl.\].”
 ------------------------------------------------------------------------
-- *vardhayā* \< *vardhaya* \< *vardhay* \< *√vṛdh*
+- *vardhayā* ← *vardhaya* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *rudram* \< *rudra*
+- *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *aktau* \< *aktu*
+- *aktau* ← *aktu*
 - \[noun\], locative, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *ṛṣvam* \< *ṛṣva*
+- *ṛṣvam* ← *ṛṣva*
 - \[noun\], accusative, singular, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *ajaraṃ* \< *ajaram* \< *ajara*
+- *ajaraṃ* ← *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *suṣumnam* \< *suṣumna*
+- *suṣumnam* ← *suṣumna*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛdhagghuvema* \< *ṛdhak*
+- *ṛdhagghuvema* ← *ṛdhak*
 - \[adverb\]
 - “away; apart.”
 ------------------------------------------------------------------------
-- *ṛdhagghuvema* \< *huvema* \< *hu*
+- *ṛdhagghuvema* ← *huvema* ← *hu*
 - \[verb\], plural, Aorist optative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *kavineṣitāsaḥ* \< *kavinā* \< *kavi*
+- *kavineṣitāsaḥ* ← *kavinā* ← *kavi*
 - \[noun\], instrumental, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kavineṣitāsaḥ* \< *iṣitāsaḥ* \< *iṣay* \< *√iṣ*
+- *kavineṣitāsaḥ* ← *iṣitāsaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------

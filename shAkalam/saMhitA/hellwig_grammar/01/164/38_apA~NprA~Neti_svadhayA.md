@@ -2,25 +2,25 @@
 title = "Rig Veda 1.164.38"
 
 +++
--   *apāṅ* \< *apāñc*
+-   *apāṅ* ← *apāñc*
 - \[noun\], nominative, singular, masculine
 - “backward; apāñc \[word\]; western.”
 ------------------------------------------------------------------------
-- *prāṅ* \< *prāñc*
+- *prāṅ* ← *prāñc*
 - \[noun\], nominative, singular, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *gṛbhīto* \< *gṛbhītaḥ* \< *grah*
+- *gṛbhīto* ← *gṛbhītaḥ* ← *grah*
 - \[verb noun\], nominative, singular
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -28,45 +28,45 @@ title = "Rig Veda 1.164.38"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *'martyo* \< *amartyaḥ* \< *amartya*
+- *'martyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *martyenā* \< *martyena* \< *martya*
+- *martyenā* ← *martyena* ← *martya*
 - \[noun\], instrumental, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *sayoniḥ* \< *sayoni*
+- *sayoniḥ* ← *sayoni*
 - \[noun\], nominative, singular, masculine
 - “related.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śaśvantā* \< *śaśvat*
+- *śaśvantā* ← *śaśvat*
 - \[noun\], nominative, dual, masculine
 - “all(a).”
 ------------------------------------------------------------------------
-- *viṣūcīnā* \< *viṣūcīna*
+- *viṣūcīnā* ← *viṣūcīna*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *viyantā* \< *vī* \< *√i*
+- *viyantā* ← *vī* ← *√i*
 - \[verb noun\], nominative, dual
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *anyaṃ* \< *anyam* \< *anya*
+- *anyaṃ* ← *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *cikyur* \< *cikyuḥ* \< *ci*
+- *cikyur* ← *cikyuḥ* ← *ci*
 - \[verb\], plural, Perfect indicative
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 1.164.38"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *cikyur* \< *cikyuḥ* \< *ci*
+- *cikyur* ← *cikyuḥ* ← *ci*
 - \[verb\], plural, Perfect indicative
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------
-- *anyam* \< *anya*
+- *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”

@@ -2,18 +2,18 @@
 title = "Rig Veda 9.67.30"
 
 +++
--   *alāyyasya* \< *alāyya*
+-   *alāyyasya* ← *alāyya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *paraśur* \< *paraśuḥ* \< *paraśu*
+- *paraśur* ← *paraśuḥ* ← *paraśu*
 - \[noun\], nominative, singular, masculine
 - “ax.”
 ------------------------------------------------------------------------
-- *nanāśa* \< *naś*
+- *nanāśa* ← *naś*
 - \[verb\], singular, Perfect indicative
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -23,7 +23,7 @@ title = "Rig Veda 9.67.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 9.67.30"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ākhuṃ* \< *ākhum* \< *ākhu*
+- *ākhuṃ* ← *ākhum* ← *ākhu*
 - \[noun\], accusative, singular, masculine
 - “mouse; rat.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------

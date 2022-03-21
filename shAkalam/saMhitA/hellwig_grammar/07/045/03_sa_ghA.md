@@ -2,65 +2,65 @@
 title = "Rig Veda 7.45.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *sahāvā* \< *sahāvan*
+- *sahāvā* ← *sahāvan*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *sāviṣad* \< *sāviṣat* \< *sū*
+- *sāviṣad* ← *sāviṣat* ← *sū*
 - \[verb\], singular, Aorist conj./subj.
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *vasupatir* \< *vasu*
+- *vasupatir* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasupatir* \< *patiḥ* \< *pati*
+- *vasupatir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *viśrayamāṇo* \< *viśrayamāṇaḥ* \< *viśri* \< *√śri*
+- *viśrayamāṇo* ← *viśrayamāṇaḥ* ← *viśri* ← *√śri*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *amatim* \< *amati*
+- *amatim* ← *amati*
 - \[noun\], accusative, singular, feminine
 - “effigy; ignorance; light; light; luster; form.”
 ------------------------------------------------------------------------
-- *urūcīm* \< *uruvyañc*
+- *urūcīm* ← *uruvyañc*
 - \[noun\], accusative, singular, feminine
 - “extensive; wide.”
 ------------------------------------------------------------------------
-- *martabhojanam* \< *marta*
+- *martabhojanam* ← *marta*
 - \[noun\], masculine
 - “man.”
 ------------------------------------------------------------------------
-- *martabhojanam* \< *bhojanam* \< *bhojana*
+- *martabhojanam* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 7.45.3"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *rāsate* \< *rā*
+- *rāsate* ← *rā*
 - \[verb\], singular, Aorist conj./subj.
 - “give; impart.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

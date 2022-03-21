@@ -2,51 +2,51 @@
 title = "Rig Veda 8.79.2"
 
 +++
--   *abhy* \< *abhi*
+-   *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ūrṇoti* \< *vṛ*
+- *ūrṇoti* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *yan* \< *yat* \< *yad*
+- *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nagnam* \< *nagna*
+- *nagnam* ← *nagna*
 - \[noun\], nominative, singular, neuter
 - “bare; nagna \[word\].”
 ------------------------------------------------------------------------
-- *bhiṣakti* \< *\_* \< *√\_*
+- *bhiṣakti* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *turam* \< *tura*
+- *turam* ← *tura*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *prem* \< *pra*
+- *prem* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prem* \< *īm* \< *īṃ*
+- *prem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *andhaḥ* \< *andha*
+- *andhaḥ* ← *andha*
 - \[noun\], nominative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *khyan* \< *khyat* \< *khyā*
+- *khyan* ← *khyat* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 8.79.2"
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *śroṇo* \< *śroṇaḥ* \< *śroṇa*
+- *śroṇo* ← *śroṇaḥ* ← *śroṇa*
 - \[noun\], nominative, singular, masculine
 - “crippled.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

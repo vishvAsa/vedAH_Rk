@@ -2,60 +2,60 @@
 title = "Rig Veda 8.95.7"
 
 +++
--   *eto* \< *eta* \< *e* \< *√i*
+-   *eto* ← *eta* ← *e* ← *√i*
 - \[verb\], plural, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *eto* \< *u*
+- *eto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stavāma* \< *stu*
+- *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *śuddhaṃ* \< *śuddham* \< *śudh*
+- *śuddhaṃ* ← *śuddham* ← *śudh*
 - \[verb noun\], accusative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *śuddhena* \< *śudh*
+- *śuddhena* ← *śudh*
 - \[verb noun\], instrumental, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *sāmnā* \< *sāman*
+- *sāmnā* ← *sāman*
 - \[noun\], instrumental, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *śuddhair* \< *śuddhaiḥ* \< *śudh*
+- *śuddhair* ← *śuddhaiḥ* ← *śudh*
 - \[verb noun\], instrumental, plural
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *ukthair* \< *ukthaiḥ* \< *uktha*
+- *ukthair* ← *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *vāvṛdhvāṃsaṃ* \< *vāvṛdhvāṃsam* \< *vṛdh*
+- *vāvṛdhvāṃsaṃ* ← *vāvṛdhvāṃsam* ← *vṛdh*
 - \[verb noun\], accusative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *śuddha* \< *śuddhaḥ* \< *śudh*
+- *śuddha* ← *śuddhaḥ* ← *śudh*
 - \[verb noun\], nominative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *āśīrvān* \< *āśīrvat*
+- *āśīrvān* ← *āśīrvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *mamattu* \< *mad*
+- *mamattu* ← *mad*
 - \[verb\], singular, Perfect imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------

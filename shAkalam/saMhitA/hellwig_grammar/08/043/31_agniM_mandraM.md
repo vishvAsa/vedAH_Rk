@@ -2,46 +2,46 @@
 title = "Rig Veda 8.43.31"
 
 +++
--   *agnim* \< *agni*
+-   *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *mandram* \< *mandra*
+- *mandram* ← *mandra*
 - \[noun\], accusative, singular, masculine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *purupriyaṃ* \< *puru*
+- *purupriyaṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupriyaṃ* \< *priyam* \< *priya*
+- *purupriyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *śīram* \< *śīra*
+- *śīram* ← *śīra*
 - \[noun\], accusative, singular, masculine
 - “sharp; acerb.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣam* \< *pāvaka*
+- *pāvakaśociṣam* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣam* \< *śociṣam* \< *śocis*
+- *pāvakaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *hṛdbhir* \< *hṛdbhiḥ* \< *hṛd*
+- *hṛdbhir* ← *hṛdbhiḥ* ← *hṛd*
 - \[noun\], instrumental, plural, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *mandrebhir* \< *mandrebhiḥ* \< *mandra*
+- *mandrebhir* ← *mandrebhiḥ* ← *mandra*
 - \[noun\], instrumental, plural, neuter
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

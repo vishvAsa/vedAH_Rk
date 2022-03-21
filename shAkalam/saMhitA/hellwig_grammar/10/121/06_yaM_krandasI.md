@@ -2,74 +2,74 @@
 title = "Rig Veda 10.121.6"
 
 +++
--   *yaṃ* \< *yam* \< *yad*
+-   *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *krandasī* \< *krandas*
+- *krandasī* ← *krandas*
 - \[noun\], nominative, dual, neuter
 - “army; war cry.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *tastabhāne* \< *stambh*
+- *tastabhāne* ← *stambh*
 - \[verb noun\], nominative, dual
 - “paralyze; stiffen; fixate; fixate; stambh; rear; stop; strengthen;
     constipate.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aikṣetām* \< *īkṣ*
+- *aikṣetām* ← *īkṣ*
 - \[verb\], dual, Imperfect
 - “view; see; detect; watch; consider; think; see; think; diagnose.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *rejamāne* \< *rej*
+- *rejamāne* ← *rej*
 - \[verb noun\], nominative, dual
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *yatrādhi* \< *yatra*
+- *yatrādhi* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrādhi* \< *adhi*
+- *yatrādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sūra* \< *sūraḥ* \< *sūra*
+- *sūra* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *udito* \< *uditaḥ* \< *udi* \< *√i*
+- *udito* ← *uditaḥ* ← *udi* ← *√i*
 - \[verb noun\], nominative, singular
 - “rise; originate; rise; increase.”
 ------------------------------------------------------------------------
-- *vibhāti* \< *vibhā* \< *√bhā*
+- *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
 ------------------------------------------------------------------------
-- *kasmai* \< *ka*
+- *kasmai* ← *ka*
 - \[noun\], dative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *devāya* \< *deva*
+- *devāya* ← *deva*
 - \[noun\], dative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vidhema* \< *vidh*
+- *vidhema* ← *vidh*
 - \[verb\], plural, Present optative
 - “worship; offer.”
 ------------------------------------------------------------------------

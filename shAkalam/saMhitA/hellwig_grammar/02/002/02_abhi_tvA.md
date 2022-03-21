@@ -6,28 +6,28 @@ title = "Rig Veda 2.2.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naktīr* \< *naktīḥ* \< *nakti*
+- *naktīr* ← *naktīḥ* ← *nakti*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vavāśire* \< *vāś*
+- *vavāśire* ← *vāś*
 - \[verb\], plural, Perfect indicative
 - “bellow; howl; sing; moo; shout.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vatsaṃ* \< *vatsam* \< *vatsa*
+- *vatsaṃ* ← *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -36,56 +36,56 @@ title = "Rig Veda 2.2.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *svasareṣu* \< *svasara*
+- *svasareṣu* ← *svasara*
 - \[noun\], locative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ived* \< *iva*
+- *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ived* \< *id*
+- *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aratir* \< *aratiḥ* \< *arati*
+- *aratir* ← *aratiḥ* ← *arati*
 - \[noun\], nominative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *mānuṣā* \< *mānuṣa*
+- *mānuṣā* ← *mānuṣa*
 - \[noun\], accusative, plural, neuter
 - “human.”
 ------------------------------------------------------------------------
-- *yugā* \< *yuga*
+- *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *kṣapo* \< *kṣapaḥ* \< *kṣap*
+- *kṣapo* ← *kṣapaḥ* ← *kṣap*
 - \[noun\], accusative, plural, feminine
 - “night.”
 ------------------------------------------------------------------------
-- *bhāsi* \< *bhā*
+- *bhāsi* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *puruvāra* \< *puru*
+- *puruvāra* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāra* \< *vāra*
+- *puruvāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *saṃyataḥ* \< *saṃyam* \< *√yam*
+- *saṃyataḥ* ← *saṃyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “control; curb; close; tie down; bottle up.”
 ------------------------------------------------------------------------

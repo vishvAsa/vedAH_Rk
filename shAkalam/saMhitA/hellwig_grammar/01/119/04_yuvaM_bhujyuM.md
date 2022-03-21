@@ -2,43 +2,43 @@
 title = "Rig Veda 1.119.4"
 
 +++
--   *yuvam* \< *tvad*
+-   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhujyum* \< *bhujyu*
+- *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *bhuramāṇaṃ* \< *bhuramāṇam* \< *bhur*
+- *bhuramāṇaṃ* ← *bhuramāṇam* ← *bhur*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vibhir* \< *vibhiḥ* \< *vi*
+- *vibhir* ← *vibhiḥ* ← *vi*
 - \[noun\], instrumental, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
-- *gataṃ* \< *gatam* \< *gam*
+- *gataṃ* ← *gatam* ← *gam*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *svayuktibhir* \< *sva*
+- *svayuktibhir* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svayuktibhir* \< *yuktibhiḥ* \< *yukti*
+- *svayuktibhir* ← *yuktibhiḥ* ← *yukti*
 - \[noun\], instrumental, plural, masculine
 - “method; moderation; caution; reason; magic trick; proof; reasoning;
     suitability; application; trick; reason; standard; intelligence;
     consideration; addition.”
 ------------------------------------------------------------------------
-- *nivahantā* \< *nivah* \< *√vah*
+- *nivahantā* ← *nivah* ← *√vah*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *pitṛbhya* \< *pitṛbhyaḥ* \< *pitṛ*
+- *pitṛbhya* ← *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
@@ -47,23 +47,23 @@ title = "Rig Veda 1.119.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāsiṣṭaṃ* \< *yāsiṣṭam* \< *yā*
+- *yāsiṣṭaṃ* ← *yāsiṣṭam* ← *yā*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vartir* \< *vartiḥ* \< *vartis*
+- *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vijenyaṃ* \< *vijenyam* \< *vijenya*
+- *vijenyaṃ* ← *vijenyam* ← *vijenya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *divodāsāya* \< *divodāsa*
+- *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ title = "Rig Veda 1.119.4"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *ceti* \< *cit*
+- *ceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

@@ -2,51 +2,51 @@
 title = "Rig Veda 1.162.13"
 
 +++
--   *yan* \< *yat* \< *yad*
+-   *yan* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nīkṣaṇam* \< *nīkṣaṇa*
+- *nīkṣaṇam* ← *nīkṣaṇa*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *māṃspacanyā* \< *māṃspacanyāḥ* \< *māṃspacana*
+- *māṃspacanyā* ← *māṃspacanyāḥ* ← *māṃspacana*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *ukhāyā* \< *ukhāyāḥ* \< *ukhā*
+- *ukhāyā* ← *ukhāyāḥ* ← *ukhā*
 - \[noun\], genitive, singular, feminine
 - “kettle; ukhā \[word\].”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pātrāṇi* \< *pātra*
+- *pātrāṇi* ← *pātra*
 - \[noun\], nominative, plural, neuter
 - “vessel; pātra \[word\]; authority; receptacle; pātra; vessel; cup;
     bowl; basket.”
 ------------------------------------------------------------------------
-- *yūṣṇa* \< *yūṣṇaḥ* \< *yūṣan*
+- *yūṣṇa* ← *yūṣṇaḥ* ← *yūṣan*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *āsecanāni* \< *āsecana*
+- *āsecanāni* ← *āsecana*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *ūṣmaṇyāpidhānā* \< *ūṣmaṇyā* \< *ūṣmaṇya*
+- *ūṣmaṇyāpidhānā* ← *ūṣmaṇyā* ← *ūṣmaṇya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *ūṣmaṇyāpidhānā* \< *apidhānā* \< *apidhāna*
+- *ūṣmaṇyāpidhānā* ← *apidhānā* ← *apidhāna*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *carūṇām* \< *caru*
+- *carūṇām* ← *caru*
 - \[noun\], genitive, plural, masculine
 - “caru; pot; Caru.”
 ------------------------------------------------------------------------
-- *aṅkāḥ* \< *aṅka*
+- *aṅkāḥ* ← *aṅka*
 - \[noun\], nominative, plural, masculine
 - “lap; sign; stigmatization; mark; number; knee; aṅka \[word\]; one;
     hook.”
 ------------------------------------------------------------------------
-- *sūnāḥ* \< *sūnā*
+- *sūnāḥ* ← *sūnā*
 - \[noun\], nominative, plural, feminine
 - “abattoir; killing; butchery.”
 ------------------------------------------------------------------------
@@ -54,11 +54,11 @@ title = "Rig Veda 1.162.13"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *bhūṣanty* \< *bhūṣanti* \< *bhūṣ*
+- *bhūṣanty* ← *bhūṣanti* ← *bhūṣ*
 - \[verb\], plural, Present indikative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

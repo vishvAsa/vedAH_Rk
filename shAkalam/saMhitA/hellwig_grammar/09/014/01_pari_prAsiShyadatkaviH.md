@@ -6,19 +6,19 @@ title = "Rig Veda 9.14.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *prāsiṣyadat* \< *prasyand* \< *√syand*
+- *prāsiṣyadat* ← *prasyand* ← *√syand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *sindhor* \< *sindhoḥ* \< *sindhu*
+- *sindhor* ← *sindhoḥ* ← *sindhu*
 - \[noun\], genitive, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *ūrmāv* \< *ūrmau* \< *ūrmi*
+- *ūrmāv* ← *ūrmau* ← *ūrmi*
 - \[noun\], locative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 9.14.1"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *śritaḥ* \< *śri*
+- *śritaḥ* ← *śri*
 - \[verb noun\], nominative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------
-- *kāram* \< *kārā*
+- *kāram* ← *kārā*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *bibhrat* \< *bhṛ*
+- *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *puruspṛham* \< *puruspṛh*
+- *puruspṛham* ← *puruspṛh*
 - \[noun\], accusative, singular, masculine
 - “coveted; desirous.”
 ------------------------------------------------------------------------

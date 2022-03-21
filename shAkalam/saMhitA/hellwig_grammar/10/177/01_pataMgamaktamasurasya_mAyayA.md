@@ -2,50 +2,50 @@
 title = "Rig Veda 10.177.1"
 
 +++
--   *pataṅgam* \< *pataṃga*
+-   *pataṅgam* ← *pataṃga*
 - \[noun\], accusative, singular, masculine
 - “insect; sun; bird; Caesalpinia sappan L.; Pataṃga; Vishnu.”
 ------------------------------------------------------------------------
-- *aktam* \< *añj*
+- *aktam* ← *añj*
 - \[verb noun\], accusative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *asurasya* \< *asura*
+- *asurasya* ← *asura*
 - \[noun\], genitive, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *māyayā* \< *māyā*
+- *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *paśyanti* \< *paś*
+- *paśyanti* ← *paś*
 - \[verb\], plural, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *vipaścitaḥ* \< *vipaścit*
+- *vipaścitaḥ* ← *vipaścit*
 - \[noun\], nominative, plural, masculine
 - “wise; expert.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *kavayo* \< *kavayaḥ* \< *kavi*
+- *kavayo* ← *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -54,27 +54,27 @@ title = "Rig Veda 10.177.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakṣate* \< *cakṣ*
+- *cakṣate* ← *cakṣ*
 - \[verb\], plural, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *marīcīnām* \< *marīci*
+- *marīcīnām* ← *marīci*
 - \[noun\], genitive, plural, masculine
 - “beam.”
 ------------------------------------------------------------------------
-- *padam* \< *pada*
+- *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *icchanti* \< *iṣ*
+- *icchanti* ← *iṣ*
 - \[verb\], plural, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *vedhasaḥ* \< *vedhas*
+- *vedhasaḥ* ← *vedhas*
 - \[noun\], nominative, plural, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------

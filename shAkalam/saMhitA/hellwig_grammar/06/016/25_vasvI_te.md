@@ -2,15 +2,15 @@
 title = "Rig Veda 6.16.25"
 
 +++
--   *vasvī* \< *vasu*
+-   *vasvī* ← *vasu*
 - \[noun\], nominative, singular, feminine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

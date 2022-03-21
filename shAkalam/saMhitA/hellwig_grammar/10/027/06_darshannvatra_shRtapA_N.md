@@ -2,13 +2,13 @@
 title = "Rig Veda 10.27.6"
 
 +++
--   *darśan* \< *dṛś*
+-   *darśan* ← *dṛś*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -17,50 +17,50 @@ title = "Rig Veda 10.27.6"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *śṛtapāṃ* \< *śṛtapām* \< *śṛtapā*
+- *śṛtapāṃ* ← *śṛtapām* ← *śṛtapā*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *anindrān* \< *an*
+- *anindrān* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anindrān* \< *indrān* \< *indra*
+- *anindrān* ← *indrān* ← *indra*
 - \[noun\], accusative, plural, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bāhukṣadaḥ* \< *bāhukṣad*
+- *bāhukṣadaḥ* ← *bāhukṣad*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *śarave* \< *śaru*
+- *śarave* ← *śaru*
 - \[noun\], dative, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
-- *patyamānān* \< *pat*
+- *patyamānān* ← *pat*
 - \[verb noun\], accusative, plural
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *ghṛṣuṃ* \< *ghṛṣum* \< *ghṛṣu*
+- *ghṛṣuṃ* ← *ghṛṣum* ← *ghṛṣu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *niniduḥ* \< *nind*
+- *niniduḥ* ← *nind*
 - \[verb\], plural, Perfect indicative
 - “blame; disapprove; condemn; reprehend; reprimand.”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
@@ -68,19 +68,19 @@ title = "Rig Veda 10.27.6"
 - \[adverb\]
 - “ūkāra.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *eṣu* \< *idam*
+- *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pavayo* \< *pavayaḥ* \< *pavi*
+- *pavayo* ← *pavayaḥ* ← *pavi*
 - \[noun\], nominative, plural, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
-- *vavṛtyuḥ* \< *vṛt*
+- *vavṛtyuḥ* ← *vṛt*
 - \[verb\], plural, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

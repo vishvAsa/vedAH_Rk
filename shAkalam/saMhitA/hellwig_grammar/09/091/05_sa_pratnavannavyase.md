@@ -2,42 +2,42 @@
 title = "Rig Veda 9.91.5"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pratnavan* \< *pratna*
+- *pratnavan* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *pratnavan* \< *vat*
+- *pratnavan* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *navyase* \< *navyas*
+- *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *viśvavāra* \< *viśva*
+- *viśvavāra* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavāra* \< *vāra*
+- *viśvavāra* ← *vāra*
 - \[noun\], vocative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *sūktāya* \< *sūkta*
+- *sūktāya* ← *sūkta*
 - \[noun\], dative, singular, neuter
 - “Mantra; hymn.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,50 +48,50 @@ title = "Rig Veda 9.91.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *prācaḥ* \< *prāñc*
+- *prācaḥ* ← *prāñc*
 - \[noun\], accusative, plural, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *duḥṣahāso* \< *duḥṣahāsaḥ* \< *duḥṣaha*
+- *duḥṣahāso* ← *duḥṣahāsaḥ* ← *duḥṣaha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vanuṣā* \< *vanus*
+- *vanuṣā* ← *vanus*
 - \[noun\], instrumental, singular, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *bṛhantas* \< *bṛhantaḥ* \< *bṛhat*
+- *bṛhantas* ← *bṛhantaḥ* ← *bṛhat*
 - \[noun\], nominative, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *tāṃs* \< *tān* \< *tad*
+- *tāṃs* ← *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aśyāma* \< *aś*
+- *aśyāma* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *purukṛt* \< *puru*
+- *purukṛt* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purukṛt* \< *kṛt*
+- *purukṛt* ← *kṛt*
 - \[noun\], vocative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *purukṣo* \< *purukṣu*
+- *purukṣo* ← *purukṣu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 9.97.46"
 
 +++
--   *eṣa* \< *etad*
+-   *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pavata* \< *pavate* \< *pū*
+- *pavata* ← *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -23,45 +23,45 @@ title = "Rig Veda 9.97.46"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somaś* \< *somaḥ* \< *soma*
+- *somaś* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *camūṣu* \< *camū*
+- *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *dhīra* \< *dhīraḥ* \< *dhīra*
+- *dhīra* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *uśate* \< *vaś*
+- *uśate* ← *vaś*
 - \[verb noun\], dative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *tavasvān* \< *tavasvat*
+- *tavasvān* ← *tavasvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *svarcakṣā* \< *svar*
+- *svarcakṣā* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *svarcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *rathiraḥ* \< *rathira*
+- *rathiraḥ* ← *rathira*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *satyaśuṣmaḥ* \< *satya*
+- *satyaśuṣmaḥ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmaḥ* \< *śuṣmaḥ* \< *śuṣma*
+- *satyaśuṣmaḥ* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *kāmo* \< *kāmaḥ* \< *kāma*
+- *kāmo* ← *kāmaḥ* ← *kāma*
 - \[noun\], nominative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
@@ -71,15 +71,15 @@ title = "Rig Veda 9.97.46"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devayatām* \< *devay*
+- *devayatām* ← *devay*
 - \[verb noun\], genitive, plural
 - “solicit.”
 ------------------------------------------------------------------------
-- *asarji* \< *sṛj*
+- *asarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”

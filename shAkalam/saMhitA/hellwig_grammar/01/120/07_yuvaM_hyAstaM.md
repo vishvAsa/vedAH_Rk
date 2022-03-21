@@ -2,27 +2,27 @@
 title = "Rig Veda 1.120.7"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *āstam* \< *as*
+- *āstam* ← *as*
 - \[verb\], dual, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
 - *ran*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -30,53 +30,53 @@ title = "Rig Veda 1.120.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *niratataṃsatam* \< *nistaṃs* \< *√taṃs*
+- *niratataṃsatam* ← *nistaṃs* ← *√taṃs*
 - \[verb\], dual, Plusquamperfect
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasū* \< *vasu*
+- *vasū* ← *vasu*
 - \[noun\], nominative, dual, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *sugopā* \< *su*
+- *sugopā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugopā* \< *gopā*
+- *sugopā* ← *gopā*
 - \[noun\], nominative, dual, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
-- *syātam* \< *as*
+- *syātam* ← *as*
 - \[verb\], dual, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pātaṃ* \< *pātam* \< *pā*
+- *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛkād* \< *vṛkāt* \< *vṛka*
+- *vṛkād* ← *vṛkāt* ← *vṛka*
 - \[noun\], ablative, singular, masculine
 - “wolf; Vṛka; vṛka \[word\]; Vṛka.”
 ------------------------------------------------------------------------
-- *aghāyoḥ* \< *aghāyu*
+- *aghāyoḥ* ← *aghāyu*
 - \[noun\], ablative, singular, masculine
 - “malevolent.”
 ------------------------------------------------------------------------

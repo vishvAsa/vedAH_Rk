@@ -6,19 +6,19 @@ title = "Rig Veda 5.30.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mṛdho* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *januṣā* \< *janus*
+- *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *dānam* \< *dāna*
+- *dānam* ← *dāna*
 - \[noun\], vocative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”

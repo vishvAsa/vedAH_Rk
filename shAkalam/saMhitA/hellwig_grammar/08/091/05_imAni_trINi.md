@@ -2,25 +2,25 @@
 title = "Rig Veda 8.91.5"
 
 +++
--   *imāni* \< *idam*
+-   *imāni* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *viṣṭapā* \< *viṣṭapa*
+- *viṣṭapā* ← *viṣṭapa*
 - \[noun\], accusative, plural, neuter
 - “surface.”
 ------------------------------------------------------------------------
-- *tānīndra* \< *tāni* \< *tad*
+- *tānīndra* ← *tāni* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tānīndra* \< *indra*
+- *tānīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -29,22 +29,22 @@ title = "Rig Veda 8.91.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rohaya* \< *rohay* \< *√ruh*
+- *rohaya* ← *rohay* ← *√ruh*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *śiras* \< *śiraḥ* \< *śiras*
+- *śiras* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *tatasyorvarām* \< *tatasya* \< *tata*
+- *tatasyorvarām* ← *tatasya* ← *tata*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ.”
 ------------------------------------------------------------------------
-- *tatasyorvarām* \< *urvarām* \< *urvarā*
+- *tatasyorvarām* ← *urvarām* ← *urvarā*
 - \[noun\], accusative, singular, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -52,15 +52,15 @@ title = "Rig Veda 8.91.5"
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *upodare* \< *upa*
+- *upodare* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upodare* \< *udare* \< *udara*
+- *upodare* ← *udare* ← *udara*
 - \[noun\], locative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”

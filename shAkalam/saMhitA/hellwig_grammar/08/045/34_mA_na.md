@@ -6,17 +6,17 @@ title = "Rig Veda 8.45.34"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ekasminn* \< *ekasmin* \< *eka*
+- *ekasminn* ← *ekasmin* ← *eka*
 - \[noun\], locative, singular, neuter
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *āgasi* \< *āgas*
+- *āgasi* ← *āgas*
 - \[noun\], locative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 8.45.34"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *dvayor* \< *dvayoḥ* \< *dvi*
+- *dvayor* ← *dvayoḥ* ← *dvi*
 - \[noun\], locative, dual, neuter
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
@@ -32,11 +32,11 @@ title = "Rig Veda 8.45.34"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *triṣu* \< *tri*
+- *triṣu* ← *tri*
 - \[noun\], locative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *vadhīr* \< *vadhīḥ* \< *vadh*
+- *vadhīr* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 8.45.34"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *bhūriṣu* \< *bhūri*
+- *bhūriṣu* ← *bhūri*
 - \[noun\], locative, plural, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------

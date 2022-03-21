@@ -2,21 +2,21 @@
 title = "Rig Veda 5.29.10"
 
 +++
--   *prānyac* \< *pra*
+-   *prānyac* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prānyac* \< *anyat* \< *anya*
+- *prānyac* ← *anyat* ← *anya*
 - \[noun\], accusative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *cakram* \< *cakra*
+- *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *avṛhaḥ* \< *vṛh*
+- *avṛhaḥ* ← *vṛh*
 - \[verb\], singular, Imperfect
 - “extract.”
 ------------------------------------------------------------------------

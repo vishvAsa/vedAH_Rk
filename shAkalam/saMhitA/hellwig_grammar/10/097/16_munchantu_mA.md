@@ -2,7 +2,7 @@
 title = "Rig Veda 10.97.16"
 
 +++
--   *muñcantu* \< *muc*
+-   *muñcantu* ← *muc*
 - \[verb\], plural, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -10,18 +10,18 @@ title = "Rig Veda 10.97.16"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śapathyād* \< *śapathyāt* \< *śapathya*
+- *śapathyād* ← *śapathyāt* ← *śapathya*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *varuṇyād* \< *varuṇyāt* \< *varuṇya*
+- *varuṇyād* ← *varuṇyāt* ← *varuṇya*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
@@ -32,25 +32,25 @@ title = "Rig Veda 10.97.16"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *yamasya* \< *yama*
+- *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *paḍbīśāt* \< *paḍvīśa*
+- *paḍbīśāt* ← *paḍvīśa*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
-- *sarvasmād* \< *sarvasmāt* \< *sarva*
+- *sarvasmād* ← *sarvasmāt* ← *sarva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *devakilbiṣāt* \< *deva*
+- *devakilbiṣāt* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devakilbiṣāt* \< *kilbiṣāt* \< *kilbiṣa*
+- *devakilbiṣāt* ← *kilbiṣāt* ← *kilbiṣa*
 - \[noun\], ablative, singular, neuter
 - “sin; fault; misdemeanor.”
 ------------------------------------------------------------------------

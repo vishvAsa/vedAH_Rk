@@ -2,59 +2,59 @@
 title = "Rig Veda 5.63.2"
 
 +++
--   *samrājāv* \< *samrājau* \< *samrāj*
+-   *samrājāv* ← *samrājau* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *rājatho* \< *rājathaḥ* \< *rāj*
+- *rājatho* ← *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *svardṛśā* \< *svar*
+- *svardṛśā* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛśā* \< *dṛśā* \< *dṛś*
+- *svardṛśā* ← *dṛśā* ← *dṛś*
 - \[noun\], nominative, dual, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 ------------------------------------------------------------------------
-- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
@@ -66,12 +66,12 @@ title = "Rig Veda 5.63.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *tanyavaḥ* \< *tanyu*
+- *tanyavaḥ* ← *tanyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

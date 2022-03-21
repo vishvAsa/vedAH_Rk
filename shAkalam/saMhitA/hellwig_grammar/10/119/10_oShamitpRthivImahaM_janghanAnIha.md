@@ -5,31 +5,31 @@ title = "Rig Veda 10.119.10"
 -   *oṣam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jaṅghanānīha* \< *jaṅghanāni* \< *jaṅghan* \< *√han*
+- *jaṅghanānīha* ← *jaṅghanāni* ← *jaṅghan* ← *√han*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “murder; kill.”
 ------------------------------------------------------------------------
-- *jaṅghanānīha* \< *iha*
+- *jaṅghanānīha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *veha* \< *vā*
+- *veha* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *veha* \< *iha*
+- *veha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
@@ -37,15 +37,15 @@ title = "Rig Veda 10.119.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *somasya* \< *soma*
+- *somasyāpām* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyāpām* \< *apām* \< *pā*
+- *somasyāpām* ← *apām* ← *pā*
 - \[verb\], singular, Root aorist (Ind.)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

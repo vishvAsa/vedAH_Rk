@@ -2,11 +2,11 @@
 title = "Rig Veda 10.22.9"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 10.22.9"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *śūrair* \< *śūraiḥ* \< *śūra*
+- *śūrair* ← *śūraiḥ* ← *śūra*
 - \[noun\], instrumental, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -29,7 +29,7 @@ title = "Rig Veda 10.22.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvotāso* \< *tvotāsaḥ* \< *tvota*
+- *tvotāso* ← *tvotāsaḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *barhaṇā*
@@ -40,7 +40,7 @@ title = "Rig Veda 10.22.9"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 10.22.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pūrtayo* \< *pūrtayaḥ* \< *pūrti*
+- *pūrtayo* ← *pūrtayaḥ* ← *pūrti*
 - \[noun\], nominative, plural, feminine
 - “fullness.”
 ------------------------------------------------------------------------

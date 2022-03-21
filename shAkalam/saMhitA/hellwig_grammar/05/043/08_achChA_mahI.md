@@ -6,16 +6,16 @@ title = "Rig Veda 5.43.8"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *bṛhatī* \< *bṛhat*
+- *bṛhatī* ← *bṛhat*
 - \[noun\], nominative, singular, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *śantamā* \< *śaṃtama*
+- *śantamā* ← *śaṃtama*
 - \[noun\], nominative, singular, feminine
 - “beneficent.”
 ------------------------------------------------------------------------

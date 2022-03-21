@@ -6,17 +6,17 @@ title = "Rig Veda 10.37.8"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bibhrataṃ* \< *bibhratam* \< *bhṛ*
+- *bibhrataṃ* ← *bibhratam* ← *bhṛ*
 - \[verb noun\], accusative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -24,32 +24,32 @@ title = "Rig Veda 10.37.8"
 - \[noun\], vocative, singular, masculine
 - “expert; wise; discerning; clear-sighted; conversant(p); bright.”
 ------------------------------------------------------------------------
-- *bhāsvantaṃ* \< *bhāsvantam* \< *bhāsvat*
+- *bhāsvantaṃ* ← *bhāsvantam* ← *bhāsvat*
 - \[noun\], accusative, singular, masculine
 - “shining; glorious; glistening; aglow(p); beautiful.”
 ------------------------------------------------------------------------
-- *cakṣuṣe* \< *cakṣus*
+- *cakṣuṣe* ← *cakṣus*
 - \[noun\], dative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *cakṣuṣe* \< *cakṣus*
+- *cakṣuṣe* ← *cakṣus*
 - \[noun\], dative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *mayaḥ* \< *mayas*
+- *mayaḥ* ← *mayas*
 - \[noun\], accusative, singular, neuter
 - “pleasure; refreshment.”
 ------------------------------------------------------------------------
-- *ārohantam* \< *āruh* \< *√ruh*
+- *ārohantam* ← *āruh* ← *√ruh*
 - \[verb noun\], accusative, singular
 - “board; hop on; climb; ascend; descend; ride; copulate; grow.”
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *pājasas* \< *pājasaḥ* \< *pājas*
+- *pājasas* ← *pājasaḥ* ← *pājas*
 - \[noun\], ablative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 10.37.8"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jīvāḥ* \< *jīva*
+- *jīvāḥ* ← *jīva*
 - \[noun\], nominative, plural, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.37.8"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *paśyema* \< *paś*
+- *paśyema* ← *paś*
 - \[verb\], plural, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”

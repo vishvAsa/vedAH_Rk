@@ -2,22 +2,22 @@
 title = "Rig Veda 8.73.16"
 
 +++
--   *aruṇapsur* \< *aruṇapsuḥ* \< *aruṇapsu*
+-   *aruṇapsur* ← *aruṇapsuḥ* ← *aruṇapsu*
 - \[noun\], nominative, singular, feminine
 - “red.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *abhūd* \< *abhūt* \< *bhū*
+- *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *akar* \< *akaḥ* \< *kṛ*
+- *akar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -28,35 +28,35 @@ title = "Rig Veda 8.73.16"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *ṛtāvarī* \< *ṛtāvan*
+- *ṛtāvarī* ← *ṛtāvan*
 - \[noun\], nominative, singular, feminine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
 - *anti*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣad* \< *sat* \< *as*
+- *ṣad* ← *sat* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

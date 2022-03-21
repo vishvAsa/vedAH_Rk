@@ -2,36 +2,36 @@
 title = "Rig Veda 1.140.13"
 
 +++
--   *abhī* \< *abhi*
+-   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *uktham* \< *uktha*
+- *uktham* ← *uktha*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *ij* \< *id*
+- *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *juguryā* \< *juguryāḥ* \< *gur*
+- *juguryā* ← *juguryāḥ* ← *gur*
 - \[verb\], singular, Perfect optative
 ------------------------------------------------------------------------
-- *dyāvākṣāmā* \< *dyāvākṣam*
+- *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], nominative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *sindhavaś* \< *sindhavaḥ* \< *sindhu*
+- *sindhavaś* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -39,46 +39,46 @@ title = "Rig Veda 1.140.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *svagūrtāḥ* \< *sva*
+- *svagūrtāḥ* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svagūrtāḥ* \< *gūrtāḥ* \< *gur*
+- *svagūrtāḥ* ← *gūrtāḥ* ← *gur*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *gavyaṃ* \< *gavyam* \< *gavya*
+- *gavyaṃ* ← *gavyam* ← *gavya*
 - \[noun\], accusative, singular, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *yavyaṃ* \< *yavyam* \< *yavya*
+- *yavyaṃ* ← *yavyam* ← *yavya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *yanto* \< *yantaḥ* \< *i*
+- *yanto* ← *yantaḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *dīrghāheṣaṃ* \< *dīrghā* \< *dīrgha*
+- *dīrghāheṣaṃ* ← *dīrghā* ← *dīrgha*
 - \[noun\], accusative, plural, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghāheṣaṃ* \< *ahā* \< *aha*
+- *dīrghāheṣaṃ* ← *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *dīrghāheṣaṃ* \< *iṣam* \< *iṣ*
+- *dīrghāheṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, masculine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *varam* \< *vara*
+- *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
-- *aruṇyo* \< *aruṇyaḥ* \< *aruṇī*
+- *aruṇyo* ← *aruṇyaḥ* ← *aruṇī*
 - \[noun\], accusative, plural, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *varanta* \< *vṛ*
+- *varanta* ← *vṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “choose; ask.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 1.38.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
@@ -18,33 +18,33 @@ title = "Rig Veda 1.38.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavase* \< *yavasa*
+- *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *ajoṣyaḥ* \< *ajoṣya*
+- *ajoṣyaḥ* ← *ajoṣya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pathā* \< *pathin*
+- *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *yamasya* \< *yama*
+- *yamasya* ← *yama*
 - \[noun\], genitive, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *gād* \< *gāt* \< *gā*
+- *gād* ← *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

@@ -2,34 +2,34 @@
 title = "Rig Veda 2.31.7"
 
 +++
--   *etā* \< *etad*
+-   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vaśmy* \< *vaśmi* \< *vaś*
+- *vaśmy* ← *vaśmi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *udyatā* \< *udyam* \< *√yam*
+- *udyatā* ← *udyam* ← *√yam*
 - \[verb noun\], accusative, plural
 - “raise; prepare; begin; endeavor; specialize.”
 ------------------------------------------------------------------------
-- *yajatrā* \< *yajatrāḥ* \< *yajatra*
+- *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *atakṣann* \< *atakṣan* \< *takṣ*
+- *atakṣann* ← *atakṣan* ← *takṣ*
 - \[verb\], plural, Imperfect
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *āyavo* \< *āyavaḥ* \< *āyu*
+- *āyavo* ← *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *navyase* \< *navyas*
+- *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
@@ -37,19 +37,19 @@ title = "Rig Veda 2.31.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *śravasyavo* \< *śravasyavaḥ* \< *śravasyu*
+- *śravasyavo* ← *śravasyavaḥ* ← *śravasyu*
 - \[noun\], nominative, plural, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *cakānāḥ* \< *kan*
+- *cakānāḥ* ← *kan*
 - \[verb noun\], nominative, plural
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *saptir* \< *saptiḥ* \< *sapti*
+- *saptir* ← *saptiḥ* ← *sapti*
 - \[noun\], nominative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -57,18 +57,18 @@ title = "Rig Veda 2.31.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathya*
+- *rathyo* ← *rathyaḥ* ← *rathya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *dhītim* \< *dhīti*
+- *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *aśyāḥ* \< *aś*
+- *aśyāḥ* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

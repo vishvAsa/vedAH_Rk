@@ -2,11 +2,11 @@
 title = "Rig Veda 4.28.2"
 
 +++
--   *tvā* \< *tvad*
+-   *tvā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -14,34 +14,34 @@ title = "Rig Veda 4.28.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *khidat* \< *khid*
+- *khidat* ← *khid*
 - \[verb\], singular, Present injunctive
 - “tire; depress; press down.”
 ------------------------------------------------------------------------
-- *sūryasyendraś* \< *sūryasya* \< *sūrya*
+- *sūryasyendraś* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyendraś* \< *indraḥ* \< *indra*
+- *sūryasyendraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sadya* \< *sadyas*
+- *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -50,26 +50,26 @@ title = "Rig Veda 4.28.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ṣṇunā* \< *snunā* \< *snu*
+- *ṣṇunā* ← *snunā* ← *snu*
 - \[noun\], instrumental, singular, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *bṛhatā* \< *bṛhat*
+- *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vartamānam* \< *vṛt*
+- *vartamānam* ← *vṛt*
 - \[verb noun\], accusative, singular
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *druho* \< *druhaḥ* \< *druh*
+- *druho* ← *druhaḥ* ← *druh*
 - \[noun\], genitive, singular, feminine
 - “deception; druh; misrepresentation; fraudulence; offense; injury.”
 ------------------------------------------------------------------------
@@ -77,16 +77,16 @@ title = "Rig Veda 4.28.2"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *viśvāyu* \< *viśva*
+- *viśvāyu* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvāyu* \< *āyu*
+- *viśvāyu* ← *āyu*
 - \[noun\], nominative, singular, neuter
 - “life; life; age.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

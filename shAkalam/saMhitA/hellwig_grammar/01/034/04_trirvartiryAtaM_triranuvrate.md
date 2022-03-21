@@ -2,93 +2,93 @@
 title = "Rig Veda 1.34.4"
 
 +++
--   *trir* \< *tris*
+-   *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *vartir* \< *vartiḥ* \< *vartis*
+- *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], accusative, singular, neuter
 - “tour.”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *anuvrate* \< *anuvrata*
+- *anuvrate* ← *anuvrata*
 - \[noun\], locative, singular, masculine
 - “attached; devoted(p); faithful.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *suprāvye* \< *suprāvya*
+- *suprāvye* ← *suprāvya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *tredheva* \< *tredhā*
+- *tredheva* ← *tredhā*
 - \[adverb\]
 - “threefold.”
 ------------------------------------------------------------------------
-- *tredheva* \< *iva*
+- *tredheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śikṣatam* \< *śikṣ*
+- *śikṣatam* ← *śikṣ*
 - \[verb\], dual, Present imperative
 - “help; give.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *nāndyaṃ* \< *nāndyam* \< *nāndī*
+- *nāndyaṃ* ← *nāndyam* ← *nāndī*
 - \[noun\], accusative, singular, feminine
 - “nāndī \[word\]; nāndī; joy; pleasure; praise.”
 ------------------------------------------------------------------------
-- *vahatam* \< *vah*
+- *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *triḥ* \< *tris*
+- *triḥ* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *akṣareva* \< *akṣarā* \< *akṣara*
+- *akṣareva* ← *akṣarā* ← *akṣara*
 - \[noun\], nominative, singular, feminine
 - “imperishable.”
 ------------------------------------------------------------------------
-- *akṣareva* \< *iva*
+- *akṣareva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pinvatam* \< *pinv*
+- *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------

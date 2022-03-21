@@ -6,22 +6,22 @@ title = "Rig Veda 5.41.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yeṣṭhāśvinā* \< *yeṣṭha*
+- *yeṣṭhāśvinā* ← *yeṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *yeṣṭhāśvinā* \< *aśvinā* \< *aśvin*
+- *yeṣṭhāśvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *huvadhyai* \< *hvā*
+- *huvadhyai* ← *hvā*
 - \[verb noun\]
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vātasya* \< *vāta*
+- *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -30,10 +30,10 @@ title = "Rig Veda 5.41.3"
 - \[noun\], locative, singular, neuter
 - “flight.”
 ------------------------------------------------------------------------
-- *rathyasya* \< *rathya*
+- *rathyasya* ← *rathya*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *puṣṭau* \< *puṣṭi*
+- *puṣṭau* ← *puṣṭi*
 - \[noun\], locative, singular, feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
@@ -46,15 +46,15 @@ title = "Rig Veda 5.41.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *asurāya* \< *asura*
+- *asurāya* ← *asura*
 - \[noun\], dative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], accusative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------

@@ -2,16 +2,16 @@
 title = "Rig Veda 9.31.3"
 
 +++
--   *tubhyaṃ* \< *tubhyam* \< *tvad*
+-   *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vātā* \< *vātāḥ* \< *vāta*
+- *vātā* ← *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *abhipriyas* \< *abhipriyaḥ* \< *abhiprī*
+- *abhipriyas* ← *abhipriyaḥ* ← *abhiprī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *tubhyam* \< *tvad*

@@ -2,7 +2,7 @@
 title = "Rig Veda 6.35.5"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,11 +12,11 @@ title = "Rig Veda 6.35.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *vṛjanam* \< *vṛjana*
+- *vṛjanam* ← *vṛjana*
 - \[noun\], accusative, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
@@ -24,20 +24,20 @@ title = "Rig Veda 6.35.5"
 - \[adverb\]
 - “otherwise; differently; vice versa; anyathā \[word\].”
 ------------------------------------------------------------------------
-- *cicchūro* \< *cit*
+- *cicchūro* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchūro* \< *śūraḥ* \< *śūra*
+- *cicchūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *yacchakra* \< *yat*
+- *yacchakra* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchakra* \< *śakra*
+- *yacchakra* ← *śakra*
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 6.35.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural, feminine
 - “door; means.”
 ------------------------------------------------------------------------
-- *gṛṇīṣe* \< *gṛ*
+- *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
@@ -57,32 +57,32 @@ title = "Rig Veda 6.35.5"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *araṃ* \< *aram* \< *ṛch*
+- *araṃ* ← *aram* ← *ṛch*
 - \[verb\], singular, Aorist inj. (proh.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *śukradughasya* \< *śukra*
+- *śukradughasya* ← *śukra*
 - \[noun\], neuter
 - “semen; sperm; śukra; śukraprameha; liquid; ejaculation.”
 ------------------------------------------------------------------------
-- *śukradughasya* \< *dughasya* \< *dugha*
+- *śukradughasya* ← *dughasya* ← *dugha*
 - \[noun\], genitive, singular, masculine
 - “yielding.”
 ------------------------------------------------------------------------
-- *dhenor* \< *dhenoḥ* \< *dhenu*
+- *dhenor* ← *dhenoḥ* ← *dhenu*
 - \[noun\], ablative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *āṅgirasān* \< *āṅgirasa*
+- *āṅgirasān* ← *āṅgirasa*
 - \[noun\], accusative, plural, masculine
 - “Aṅgiras; Brihaspati; Bṛhaspati; Jupiter.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -91,7 +91,7 @@ title = "Rig Veda 6.35.5"
 - \[noun\], vocative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *jinva* \< *jinv*
+- *jinva* ← *jinv*
 - \[verb\], singular, Present imperative
 - “enliven; animate.”
 ------------------------------------------------------------------------

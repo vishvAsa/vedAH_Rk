@@ -2,72 +2,72 @@
 title = "Rig Veda 6.39.4"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rocayad* \< *rocayat* \< *rocay* \< *√ruc*
+- *rocayad* ← *rocayat* ← *rocay* ← *√ruc*
 - \[verb\], singular, Present injunctive
 - “like; approve; like; simulate.”
 ------------------------------------------------------------------------
-- *aruco* \< *arucaḥ* \< *aruc*
+- *aruco* ← *arucaḥ* ← *aruc*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *rucāno* \< *rucānaḥ* \< *ruc*
+- *rucāno* ← *rucānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *'yaṃ* \< *ayam* \< *idam*
+- *'yaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vāsayad* \< *vāsayat* \< *vāsay* \< *√vas*
+- *vāsayad* ← *vāsayat* ← *vāsay* ← *√vas*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṛtena* \< *ṛta*
+- *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *ayam* \< *idam*
+- *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *īyata* \< *īyate* \< *i*
+- *īyata* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *ṛta*
+- *ṛtayugbhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *yugbhiḥ* \< *yuj*
+- *ṛtayugbhir* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *aśvaiḥ* \< *aśva*
+- *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *svarvidā* \< *svarvid*
+- *svarvidā* ← *svarvid*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *nābhinā* \< *nābhi*
+- *nābhinā* ← *nābhi*
 - \[noun\], instrumental, singular, masculine
 - “Nābhi; musk.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *carṣaṇi*
+- *carṣaṇiprāḥ* ← *carṣaṇi*
 - \[noun\], feminine
 - “people.”
 ------------------------------------------------------------------------
-- *carṣaṇiprāḥ* \< *prāḥ* \< *prā*
+- *carṣaṇiprāḥ* ← *prāḥ* ← *prā*
 - \[noun\], nominative, plural, masculine
 - “appreciated.”
 ------------------------------------------------------------------------

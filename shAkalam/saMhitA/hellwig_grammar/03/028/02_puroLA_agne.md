@@ -2,21 +2,21 @@
 title = "Rig Veda 3.28.2"
 
 +++
--   *puroḍā* \< *puroḍāś*
+-   *puroḍā* ← *puroḍāś*
 - \[noun\], nominative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *pacatas* \< *pacataḥ* \< *pacata*
+- *pacatas* ← *pacataḥ* ← *pacata*
 - \[noun\], nominative, singular, masculine
 - “cooked.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -24,10 +24,10 @@ title = "Rig Veda 3.28.2"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *pariṣkṛtaḥ* \< *pariṣkṛ* \< *√kṛ*
+- *pariṣkṛtaḥ* ← *pariṣkṛ* \< *√kṛ*
 - \[verb noun\], nominative, singular
 - “decorate.”
 ------------------------------------------------------------------------

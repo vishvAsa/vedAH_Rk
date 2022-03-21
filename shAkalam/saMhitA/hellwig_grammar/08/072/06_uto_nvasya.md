@@ -2,37 +2,37 @@
 title = "Rig Veda 8.72.6"
 
 +++
--   *uto* \< *uta*
+-   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *mahad* \< *mahat*
+- *mahad* ← *mahat*
 - \[noun\], nominative, singular, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *aśvāvad* \< *aśvāvat*
+- *aśvāvad* ← *aśvāvat*
 - \[noun\], nominative, singular, neuter
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *yojanam* \< *yojana*
+- *yojanam* ← *yojana*
 - \[noun\], nominative, singular, neuter
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
@@ -41,15 +41,15 @@ title = "Rig Veda 8.72.6"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *dāmā* \< *dāma* \< *dāman*
+- *dāmā* ← *dāma* ← *dāman*
 - \[noun\], nominative, singular, neuter
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dadṛśe* \< *dṛś*
+- *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;

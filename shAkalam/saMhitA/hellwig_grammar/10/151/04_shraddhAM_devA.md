@@ -2,16 +2,16 @@
 title = "Rig Veda 10.151.4"
 
 +++
--   *śraddhāṃ* \< *śraddhām* \< *śraddhā*
+-   *śraddhāṃ* ← *śraddhām* ← *śraddhā*
 - \[noun\], accusative, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yajamānā* \< *yajamānāḥ* \< *yaj*
+- *yajamānā* ← *yajamānāḥ* \< *yaj*
 - \[verb noun\], nominative, plural
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

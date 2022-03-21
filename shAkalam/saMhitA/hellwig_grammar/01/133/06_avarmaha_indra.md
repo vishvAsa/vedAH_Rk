@@ -2,11 +2,11 @@
 title = "Rig Veda 1.133.6"
 
 +++
--   *avar* \< *avas*
+-   *avar* ← *avas*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *maha* \< *mahaḥ* \< *mah*
+- *maha* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -15,19 +15,19 @@ title = "Rig Veda 1.133.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dādṛhi* \< *dardar* \< *√dṛ*
+- *dādṛhi* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present imperative
 - “cleave.”
 ------------------------------------------------------------------------
-- *śrudhī* \< *śru*
+- *śrudhī* ← *śru*
 - \[verb\], singular, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śuśoca* \< *śuc*
+- *śuśoca* ← *śuc*
 - \[verb\], singular, Perfect indicative
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 1.133.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 1.133.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīṣāṃ* \< *\_* \< *√\_*
+- *bhīṣāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *ghṛṇān* \< *ghṛṇāt* \< *ghṛṇa*
+- *ghṛṇān* ← *ghṛṇāt* ← *ghṛṇa*
 - \[noun\], ablative, singular, masculine
 - “sunlight; heat; hotness.”
 ------------------------------------------------------------------------
@@ -63,48 +63,48 @@ title = "Rig Veda 1.133.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhīṣāṃ* \< *\_* \< *√\_*
+- *bhīṣāṃ* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
-- *śuṣmintamo* \< *śuṣmintamaḥ* \< *śuṣmintama*
+- *śuṣmintamo* ← *śuṣmintamaḥ* ← *śuṣmintama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śuṣmibhir* \< *śuṣmibhiḥ* \< *śuṣmin*
+- *śuṣmibhir* ← *śuṣmibhiḥ* ← *śuṣmin*
 - \[noun\], instrumental, plural, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *vadhair* \< *vadhaiḥ* \< *vadha*
+- *vadhair* ← *vadhaiḥ* ← *vadha*
 - \[noun\], instrumental, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
 ------------------------------------------------------------------------
-- *ugrebhir* \< *ugrebhiḥ* \< *ugra*
+- *ugrebhir* ← *ugrebhiḥ* ← *ugra*
 - \[noun\], instrumental, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *apūruṣaghno* \< *a*
+- *apūruṣaghno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apūruṣaghno* \< *pūruṣa*
+- *apūruṣaghno* ← *pūruṣa*
 - \[noun\], masculine
 - “man; man; Puruṣa.”
 ------------------------------------------------------------------------
-- *apūruṣaghno* \< *ghnaḥ* \< *ghna*
+- *apūruṣaghno* ← *ghnaḥ* ← *ghna*
 - \[noun\], nominative, singular, masculine
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
@@ -117,11 +117,11 @@ title = "Rig Veda 1.133.6"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *satvabhis* \< *satvabhiḥ* \< *satvan*
+- *satvabhis* ← *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------
-- *trisaptaiḥ* \< *trisapta*
+- *trisaptaiḥ* ← *trisapta*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
 - *śūra*
@@ -129,7 +129,7 @@ title = "Rig Veda 1.133.6"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *satvabhiḥ* \< *satvan*
+- *satvabhiḥ* ← *satvan*
 - \[noun\], instrumental, plural, masculine
 - “warrior.”
 ------------------------------------------------------------------------

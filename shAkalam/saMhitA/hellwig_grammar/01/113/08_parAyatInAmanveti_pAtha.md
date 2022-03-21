@@ -2,57 +2,57 @@
 title = "Rig Veda 1.113.8"
 
 +++
--   *parāyatīnām* \< *pare* \< *√i*
+-   *parāyatīnām* ← *pare* ← *√i*
 - \[verb noun\], genitive, plural
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pātha* \< *pāthaḥ* \< *pāthas*
+- *pātha* ← *pāthaḥ* ← *pāthas*
 - \[noun\], accusative, singular, neuter
 - “pāthas \[word\]; water; place.”
 ------------------------------------------------------------------------
-- *āyatīnām* \< *e* \< *√i*
+- *āyatīnām* ← *e* ← *√i*
 - \[verb noun\], genitive, plural
 - “come; travel.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *śaśvatīnām* \< *śaśvat*
+- *śaśvatīnām* ← *śaśvat*
 - \[noun\], genitive, plural, feminine
 - “all(a).”
 ------------------------------------------------------------------------
-- *vyucchantī* \< *vivas* \< *√vas*
+- *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], nominative, singular
 - “dawn.”
 ------------------------------------------------------------------------
-- *jīvam* \< *jīva*
+- *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “live; alive(p); amṛta.”
 ------------------------------------------------------------------------
-- *udīrayanty* \< *udīrayantī* \< *udīray* \< *√īr*
+- *udīrayanty* ← *udīrayantī* ← *udīray* ← *√īr*
 - \[verb noun\], nominative, singular
 - “state; name; agitate; define; recommend; cause; shoot; describe;
     intensify.”
 ------------------------------------------------------------------------
-- *uṣā* \< *uṣāḥ* \< *uṣas*
+- *uṣā* ← *uṣāḥ* ← *uṣas*
 - \[noun\], nominative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *mṛtaṃ* \< *mṛtam* \< *mṛ*
+- *mṛtaṃ* ← *mṛtam* ← *mṛ*
 - \[verb noun\], accusative, singular
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *ka*
+- *kaṃ* ← *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 1.113.8"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *bodhayantī* \< *bodhay* \< *√budh*
+- *bodhayantī* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, singular
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------

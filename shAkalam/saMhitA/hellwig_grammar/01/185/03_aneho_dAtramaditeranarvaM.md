@@ -2,60 +2,60 @@
 title = "Rig Veda 1.185.3"
 
 +++
--   *aneho* \< *anehaḥ* \< *anehas*
+-   *aneho* ← *anehaḥ* ← *anehas*
 - \[noun\], accusative, singular, neuter
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *dātram* \< *dātra*
+- *dātram* ← *dātra*
 - \[noun\], accusative, singular, neuter
 - “sickle; gift; scythe.”
 ------------------------------------------------------------------------
-- *aditer* \< *aditeḥ* \< *aditi*
+- *aditer* ← *aditeḥ* ← *aditi*
 - \[noun\], genitive, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *anarvaṃ* \< *anarvam* \< *anarva*
+- *anarvaṃ* ← *anarvam* ← *anarva*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *svarvad* \< *svarvat*
+- *svarvad* ← *svarvat*
 - \[noun\], accusative, singular, neuter
 - “bright; bright.”
 ------------------------------------------------------------------------
-- *avadhaṃ* \< *avadham* \< *avadha*
+- *avadhaṃ* ← *avadham* ← *avadha*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *namasvat*
 - \[noun\], accusative, singular, neuter
 - “respectful.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *janayataṃ* \< *janayatam* \< *janay* \< *√jan*
+- *janayataṃ* ← *janayatam* ← *janay* ← *√jan*
 - \[verb\], dual, Present imperative
 - “cause; give birth; produce; beget; generate; originate; create;
     create; make.”
 ------------------------------------------------------------------------
-- *jaritre* \< *jaritṛ*
+- *jaritre* ← *jaritṛ*
 - \[noun\], dative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rakṣatam* \< *rakṣ*
+- *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 1.185.3"
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhvāt* \< *abhva*
+- *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

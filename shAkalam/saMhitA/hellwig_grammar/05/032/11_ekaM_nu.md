@@ -2,7 +2,7 @@
 title = "Rig Veda 5.32.11"
 
 +++
--   *ekaṃ* \< *ekam* \< *eka*
+-   *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -12,53 +12,53 @@ title = "Rig Veda 5.32.11"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *satpatim* \< *sat*
+- *satpatim* ← *sat*
 - \[noun\]
 - “good; good; real; existent; virtuous; sat \[prefix\]; real.”
 ------------------------------------------------------------------------
-- *satpatim* \< *patim* \< *pati*
+- *satpatim* ← *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *pāñcajanyaṃ* \< *pāñcajanyam* \< *pāñcajanya*
+- *pāñcajanyaṃ* ← *pāñcajanyam* ← *pāñcajanya*
 - \[noun\], accusative, singular, masculine
 - “worldwide.”
 ------------------------------------------------------------------------
-- *jātaṃ* \< *jātam* \< *jan*
+- *jātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *śṛṇomi* \< *śru*
+- *śṛṇomi* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *yaśasaṃ* \< *yaśasam* \< *yaśas*
+- *yaśasaṃ* ← *yaśasam* ← *yaśas*
 - \[noun\], accusative, singular, masculine
 - “esteemed; celebrated; glorious; honorable.”
 ------------------------------------------------------------------------
-- *janeṣu* \< *jana*
+- *janeṣu* ← *jana*
 - \[noun\], locative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jagṛbhra* \< *jagṛbhre* \< *grah*
+- *jagṛbhra* ← *jagṛbhre* ← *grah*
 - \[verb\], plural, Perfect indicative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -66,10 +66,10 @@ title = "Rig Veda 5.32.11"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *āśaso* \< *āśasaḥ* \< *āśas*
+- *āśaso* ← *āśasaḥ* ← *āśas*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *naviṣṭhaṃ* \< *naviṣṭham* \< *naviṣṭha*
+- *naviṣṭhaṃ* ← *naviṣṭham* ← *naviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “late(a).”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 5.32.11"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *havamānāsa* \< *havamānāsaḥ* \< *hvā*
+- *havamānāsa* ← *havamānāsaḥ* ← *hvā*
 - \[verb noun\], nominative, plural
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 8.75.7"
 
 +++
--   *kam* \< *ka*
+-   *kam* ← *ka*
 - \[noun\], accusative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,42 +10,42 @@ title = "Rig Veda 8.75.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣvid* \< *svid*
+- *ṣvid* ← *svid*
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *senayāgner* \< *senayā* \< *senā*
+- *senayāgner* ← *senayā* ← *senā*
 - \[noun\], instrumental, singular, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *senayāgner* \< *agneḥ* \< *agni*
+- *senayāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *apākacakṣasaḥ* \< *apāka*
+- *apākacakṣasaḥ* ← *apāka*
 - \[noun\]
 - “distant; far.”
 ------------------------------------------------------------------------
-- *apākacakṣasaḥ* \< *cakṣasaḥ* \< *cakṣas*
+- *apākacakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], genitive, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *paṇiṃ* \< *paṇim* \< *paṇi*
+- *paṇiṃ* ← *paṇim* ← *paṇi*
 - \[noun\], accusative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *starāmahe* \< *stṛ*
+- *starāmahe* ← *stṛ*
 - \[verb\], plural, Aorist conj./subj.
 - “spread; kill; lay; cover.”
 ------------------------------------------------------------------------

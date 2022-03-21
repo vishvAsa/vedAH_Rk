@@ -2,19 +2,19 @@
 title = "Rig Veda 8.91.4"
 
 +++
--   *kuvicchakat* \< *kuvid*
+-   *kuvicchakat* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *kuvicchakat* \< *śakat* \< *śak*
+- *kuvicchakat* ← *śakat* ← *śak*
 - \[verb\], singular, Aorist conj./subj.
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,19 +25,19 @@ title = "Rig Veda 8.91.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kuvin* \< *kuvid*
+- *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasyasas* \< *vasyasaḥ* \< *vasyas*
+- *vasyasas* ← *vasyasaḥ* ← *vasyas*
 - \[noun\], accusative, plural, masculine
 - “better; rich.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,29 +48,29 @@ title = "Rig Veda 8.91.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kuvit* \< *kuvid*
+- *kuvit* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *patidviṣo* \< *pati*
+- *patidviṣo* ← *pati*
 - \[noun\], masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *patidviṣo* \< *dviṣaḥ* \< *dviṣ*
+- *patidviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], nominative, plural, feminine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *yatīr* \< *yatīḥ* \< *i*
+- *yatīr* ← *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *saṃgamāmahai* \< *saṃgam* \< *√gam*
+- *saṃgamāmahai* ← *saṃgam* ← *√gam*
 - \[verb\], plural, Present imperative
 - “meet; unite; love; connect; exist; land; justify.”
 ------------------------------------------------------------------------

@@ -2,36 +2,36 @@
 title = "Rig Veda 8.81.9"
 
 +++
--   *sadyojuvas* \< *sadyas*
+-   *sadyojuvas* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *sadyojuvas* \< *juvaḥ* \< *jū*
+- *sadyojuvas* ← *juvaḥ* ← *jū*
 - \[noun\], nominative, plural, masculine
 - “fleet.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], nominative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvaścandrāḥ* \< *viśva*
+- *viśvaścandrāḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvaścandrāḥ* \< *ścandrāḥ* \< *ścandra*
+- *viśvaścandrāḥ* ← *ścandrāḥ* ← *ścandra*
 - \[noun\], nominative, plural, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *vaśaiś* \< *vaśaiḥ* \< *vaśa*
+- *vaśaiś* ← *vaśaiḥ* ← *vaśa*
 - \[noun\], instrumental, plural, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
@@ -44,7 +44,7 @@ title = "Rig Veda 8.81.9"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *jarante* \< *jṛ*
+- *jarante* ← *jṛ*
 - \[verb\], plural, Present indikative
 - “sing.”
 ------------------------------------------------------------------------

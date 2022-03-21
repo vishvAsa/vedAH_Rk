@@ -5,48 +5,48 @@ title = "Rig Veda 1.62.10"
 -   *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sanīḍā* \< *sanīḍāḥ* \< *sanīḍa*
+- *sanīḍā* ← *sanīḍāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, feminine
 - “kindred; equal; sanīḍa \[word\].”
 ------------------------------------------------------------------------
-- *avanīr* \< *avanīḥ* \< *avani*
+- *avanīr* ← *avanīḥ* ← *avani*
 - \[noun\], nominative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *avātā* \< *a*
+- *avātā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avātā* \< *vātāḥ* \< *van*
+- *avātā* ← *vātāḥ* ← *van*
 - \[verb noun\], nominative, plural
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vratā* \< *vrata*
+- *vratā* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *rakṣante* \< *rakṣ*
+- *rakṣante* ← *rakṣ*
 - \[verb\], plural, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *amṛtāḥ* \< *amṛta*
+- *amṛtāḥ* ← *amṛta*
 - \[noun\], nominative, plural, feminine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *sahobhiḥ* \< *sahas*
+- *sahobhiḥ* ← *sahas*
 - \[noun\], instrumental, plural, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], nominative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *janayo* \< *janayaḥ* \< *jani*
+- *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -54,19 +54,19 @@ title = "Rig Veda 1.62.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *patnīr* \< *patnīḥ* \< *patnī*
+- *patnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *duvasyanti* \< *duvasy*
+- *duvasyanti* ← *duvasy*
 - \[verb\], plural, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *svasāro* \< *svasāraḥ* \< *svasṛ*
+- *svasāro* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *ahrayāṇam* \< *ahrayāṇa*
+- *ahrayāṇam* ← *ahrayāṇa*
 - \[noun\], accusative, singular, masculine
 - “audacious.”
 ------------------------------------------------------------------------

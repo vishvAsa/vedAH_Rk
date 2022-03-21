@@ -6,18 +6,18 @@ title = "Rig Veda 8.99.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *turayantam* \< *turay* \< *√tṛ*
+- *turayantam* ← *turay* ← *√tṛ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *īyatuḥ* \< *i*
+- *īyatuḥ* ← *i*
 - \[verb\], dual, Perfect indicative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 8.99.6"
 - \[noun\], nominative, dual, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *śiśuṃ* \< *śiśum* \< *śiśu*
+- *śiśuṃ* ← *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
@@ -33,37 +33,37 @@ title = "Rig Veda 8.99.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], nominative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *viśvās* \< *viśvāḥ* \< *viśva*
+- *viśvās* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *spṛdhaḥ* \< *spṛdh*
+- *spṛdhaḥ* ← *spṛdh*
 - \[noun\], nominative, plural, feminine
 - “adversary; enemy; rival.”
 ------------------------------------------------------------------------
-- *śnathayanta* \< *śnathay* \< *√śnath*
+- *śnathayanta* ← *śnathay* ← *√śnath*
 - \[verb\], plural, Present injunctive
 - “kill.”
 ------------------------------------------------------------------------
-- *manyave* \< *manyu*
+- *manyave* ← *manyu*
 - \[noun\], dative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 8.99.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tūrvasi* \< *tūrv*
+- *tūrvasi* ← *tūrv*
 - \[verb\], singular, Present indikative
 - “overpower.”
 ------------------------------------------------------------------------

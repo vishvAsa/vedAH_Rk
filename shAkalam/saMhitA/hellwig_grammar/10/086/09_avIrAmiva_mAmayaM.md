@@ -2,78 +2,78 @@
 title = "Rig Veda 10.86.9"
 
 +++
--   *avīrām* \< *avīra*
+-   *avīrām* ← *avīra*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śarārur* \< *śarāruḥ* \< *śarāru*
+- *śarārur* ← *śarāruḥ* ← *śarāru*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *manyate* \< *man*
+- *manyate* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *utāham* \< *uta*
+- *utāham* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāham* \< *aham* \< *mad*
+- *utāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *vīriṇī*
+- *vīriṇīndrapatnī* ← *vīriṇī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *indra*
+- *vīriṇīndrapatnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vīriṇīndrapatnī* \< *patnī*
+- *vīriṇīndrapatnī* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *marutsakhā* \< *marut*
+- *marutsakhā* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *marutsakhā* \< *sakhā* \< *sakhi*
+- *marutsakhā* ← *sakhā* ← *sakhi*
 - \[noun\], nominative, singular, feminine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

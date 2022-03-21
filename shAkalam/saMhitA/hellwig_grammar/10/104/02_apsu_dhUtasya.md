@@ -2,51 +2,51 @@
 title = "Rig Veda 10.104.2"
 
 +++
--   *apsu* \< *ap*
+-   *apsu* ← *ap*
 - \[noun\], locative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *dhūtasya* \< *dhū*
+- *dhūtasya* ← *dhū*
 - \[verb noun\], genitive, singular
 - “shake; remove; chase away.”
 ------------------------------------------------------------------------
-- *harivaḥ* \< *harivas* \< *harivat*
+- *harivaḥ* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pibeha* \< *pibā* \< *pā*
+- *pibeha* ← *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pibeha* \< *iha*
+- *pibeha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sutasya* \< *suta*
+- *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *jaṭharam* \< *jaṭhara*
+- *jaṭharam* ← *jaṭhara*
 - \[noun\], accusative, singular, masculine
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *pṛṇasva* \< *pṛ*
+- *pṛṇasva* ← *pṛ*
 - \[verb\], singular, Present imperative
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *mimikṣur* \< *mimikṣuḥ* \< *myakṣ*
+- *mimikṣur* ← *mimikṣuḥ* ← *myakṣ*
 - \[verb\], plural, Perfect indicative
 - “be situated; attach.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *adraya* \< *adrayaḥ* \< *adri*
+- *adraya* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -55,17 +55,17 @@ title = "Rig Veda 10.104.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tebhir* \< *tebhiḥ* \< *tad*
+- *tebhir* ← *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vardhasva* \< *vṛdh*
+- *vardhasva* ← *vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

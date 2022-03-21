@@ -6,48 +6,48 @@ title = "Rig Veda 10.176.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sūnava* \< *sūnavaḥ* \< *sūnu*
+- *sūnava* ← *sūnavaḥ* ← *sūnu*
 - \[noun\], nominative, plural, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *ṛbhūṇām* \< *ṛbhu*
+- *ṛbhūṇām* ← *ṛbhu*
 - \[noun\], genitive, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *bṛhan* \< *bṛhat*
+- *bṛhan* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *navanta* \< *nū*
+- *navanta* ← *nū*
 - \[verb\], plural, Present injunctive
 - “praise; shout.”
 ------------------------------------------------------------------------
-- *vṛjanā* \< *vṛjana*
+- *vṛjanā* ← *vṛjana*
 - \[noun\], instrumental, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *kṣāmā* \< *kṣāman*
+- *kṣāmā* ← *kṣāman*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *viśvadhāyaso* \< *viśva*
+- *viśvadhāyaso* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadhāyaso* \< *dhāyasaḥ* \< *dhāyas*
+- *viśvadhāyaso* ← *dhāyasaḥ* ← *dhāyas*
 - \[noun\], nominative, plural, masculine
 - “alimentary; sustaining.”
 ------------------------------------------------------------------------
-- *'śnan* \< *aśnan* \< *aś*
+- *'śnan* ← *aśnan* ← *aś*
 - \[verb\], plural, Imperfect
 - “eat; consume; chew; feed.”
 ------------------------------------------------------------------------
-- *dhenuṃ* \< *dhenum* \< *dhenu*
+- *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 10.176.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātaram* \< *mātṛ*
+- *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”

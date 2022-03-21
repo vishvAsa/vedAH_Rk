@@ -6,30 +6,30 @@ title = "Rig Veda 5.42.18"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aśvinor* \< *aśvinoḥ* \< *aśvin*
+- *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *nūtanena* \< *nūtana*
+- *nūtanena* ← *nūtana*
 - \[noun\], instrumental, singular, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
-- *mayobhuvā* \< *mayobhu*
+- *mayobhuvā* ← *mayobhu*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *supraṇītī* \< *su*
+- *supraṇītī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraṇītī* \< *praṇītī* \< *praṇīti*
+- *supraṇītī* ← *praṇītī* ← *praṇīti*
 - \[noun\], instrumental, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *gamema* \< *gam*
+- *gamema* ← *gam*
 - \[verb\], plural, Aorist optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -40,28 +40,28 @@ title = "Rig Veda 5.42.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *vahatam* \< *vah*
+- *vahatam* ← *vah*
 - \[verb\], dual, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *ota* \< *ā*
+- *ota* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ota* \< *uta*
+- *ota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vīrān* \< *vīra*
+- *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 5.42.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśvāny* \< *viśvāni* \< *viśva*
+- *viśvāny* ← *viśvāni* \< *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

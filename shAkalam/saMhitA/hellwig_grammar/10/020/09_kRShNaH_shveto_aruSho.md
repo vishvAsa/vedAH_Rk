@@ -2,23 +2,23 @@
 title = "Rig Veda 10.20.9"
 
 +++
--   *kṛṣṇaḥ* \< *kṛṣṇa*
+-   *kṛṣṇaḥ* ← *kṛṣṇa*
 - \[noun\], nominative, singular, masculine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *śveto* \< *śvetaḥ* \< *śveta*
+- *śveto* ← *śvetaḥ* ← *śveta*
 - \[noun\], nominative, singular, masculine
 - “white; bright; śveta \[word\]; bright.”
 ------------------------------------------------------------------------
-- *'ruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *'ruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *yāmo* \< *yāmaḥ* \< *yāma*
+- *yāmo* ← *yāmaḥ* ← *yāma*
 - \[noun\], nominative, singular, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

@@ -6,81 +6,81 @@ title = "Rig Veda 6.66.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īṣante* \< *īṣ*
+- *īṣante* ← *īṣ*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *januṣo* \< *januṣaḥ* \< *janus*
+- *januṣo* ← *januṣaḥ* ← *janus*
 - \[noun\], ablative, singular, neuter
 - “birth.”
 ------------------------------------------------------------------------
-- *'yā* \< *ayā* \< *idam*
+- *'yā* ← *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *antaḥ* \< *antar*
+- *antaḥ* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *santo* \< *santaḥ* \< *as*
+- *santo* ← *santaḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *'vadyāni* \< *avadyāni* \< *avadya*
+- *'vadyāni* ← *avadyāni* ← *avadya*
 - \[noun\], accusative, plural, neuter
 - “blameworthy; avadya \[word\].”
 ------------------------------------------------------------------------
-- *punānāḥ* \< *pū*
+- *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *duhre* \< *duh*
+- *duhre* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *śucayo* \< *śucayaḥ* \< *śuci*
+- *śucayo* ← *śucayaḥ* ← *śuci*
 - \[noun\], nominative, plural, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *'nu* \< *anu*
+- *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *joṣam* \< *joṣa*
+- *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *śriyā* \< *śrī*
+- *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *ukṣamāṇāḥ* \< *vakṣ*
+- *ukṣamāṇāḥ* ← *vakṣ*
 - \[verb noun\], nominative, plural
 - “grow; grow.”
 ------------------------------------------------------------------------

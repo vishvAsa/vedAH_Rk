@@ -2,18 +2,18 @@
 title = "Rig Veda 8.24.25"
 
 +++
--   *tad* \< *tat* \< *tad*
+-   *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *indrāva* \< *indra*
+- *indrāva* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāva* \< *avaḥ* \< *avas*
+- *indrāva* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
@@ -21,23 +21,23 @@ title = "Rig Veda 8.24.25"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yenā* \< *ye* \< *yad*
+- *yenā* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yenā* \< *nā* \< *nṛ*
+- *yenā* ← *nā* ← *nṛ*
 - \[noun\], nominative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
 - *daṃsiṣṭha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛtvane* \< *kṛtvan*
+- *kṛtvane* ← *kṛtvan*
 - \[noun\], dative, singular, masculine
 - “busy.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 8.24.25"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *kutsāya* \< *kutsa*
+- *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *śiśnatho* \< *śiśnathaḥ* \< *śnath*
+- *śiśnatho* ← *śiśnathaḥ* ← *śnath*
 - \[verb\], singular, Aorist inj. (proh.)
 - “pierce; kill.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 8.24.25"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *codaya* \< *coday* \< *√cud*
+- *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------

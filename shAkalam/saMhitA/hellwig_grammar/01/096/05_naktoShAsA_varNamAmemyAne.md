@@ -2,40 +2,40 @@
 title = "Rig Veda 1.96.5"
 
 +++
--   *naktoṣāsā* \< *naktoṣāsāḥ* \< *naktoṣāsā*
+-   *naktoṣāsā* ← *naktoṣāsāḥ* ← *naktoṣāsā*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *varṇam* \< *varṇa*
+- *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *āmemyāne* \< *\_* \< *√\_*
+- *āmemyāne* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *dhāpayete* \< *dhāpay* \< *√dhā*
+- *dhāpayete* ← *dhāpay* ← *√dhā*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
-- *śiśum* \< *śiśu*
+- *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *ekaṃ* \< *ekam* \< *eka*
+- *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *samīcī* \< *samyañc*
+- *samīcī* ← *samyañc*
 - \[noun\], nominative, dual, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *dyāvākṣāmā* \< *dyāvākṣam*
+- *dyāvākṣāmā* ← *dyāvākṣam*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *rukmo* \< *rukmaḥ* \< *rukma*
+- *rukmo* ← *rukmaḥ* ← *rukma*
 - \[noun\], nominative, singular, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -47,32 +47,32 @@ title = "Rig Veda 1.96.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāti* \< *bhā*
+- *bhāti* ← *bhā*
 - \[verb\], singular, Present indikative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dhārayan* \< *dhāray* \< *√dhṛ*
+- *dhārayan* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *draviṇodām* \< *draviṇaḥ* \< *draviṇas*
+- *draviṇodām* ← *draviṇaḥ* ← *draviṇas*
 - \[noun\], neuter
 - “property.”
 ------------------------------------------------------------------------
-- *draviṇodām* \< *dām* \< *dā*
+- *draviṇodām* ← *dām* ← *dā*
 - \[noun\], accusative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------

@@ -10,7 +10,7 @@ title = "Rig Veda 9.87.1"
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
-- *drava* \< *dru*
+- *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
@@ -19,7 +19,7 @@ title = "Rig Veda 9.87.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kośaṃ* \< *kośam* \< *kośa*
+- *kośaṃ* ← *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
@@ -28,16 +28,16 @@ title = "Rig Veda 9.87.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīda* \< *sīda* \< *sad*
+- *ṣīda* ← *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -45,15 +45,15 @@ title = "Rig Veda 9.87.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *arṣa* \< *ṛṣ*
+- *arṣa* ← *ṛṣ*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *aśvaṃ* \< *aśvam* \< *aśva*
+- *aśvaṃ* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -61,30 +61,30 @@ title = "Rig Veda 9.87.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *marjayanto* \< *marjayantaḥ* \< *marjay* \< *√mṛj*
+- *marjayanto* ← *marjayantaḥ* ← *marjay* ← *√mṛj*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *'cchā* \< *acchā*
+- *'cchā* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *barhī* \< *barhiḥ* \< *barhis*
+- *barhī* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *raśanābhir* \< *raśanābhiḥ* \< *raśanā*
+- *raśanābhir* ← *raśanābhiḥ* ← *raśanā*
 - \[noun\], instrumental, plural, feminine
 - “rein; bridle; girdle; cord.”
 ------------------------------------------------------------------------
-- *nayanti* \< *nī*
+- *nayanti* ← *nī*
 - \[verb\], plural, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”

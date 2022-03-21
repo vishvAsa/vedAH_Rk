@@ -2,15 +2,15 @@
 title = "Rig Veda 2.29.7"
 
 +++
--   *māham* \< *mā*
+-   *māham* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māham* \< *aham* \< *mad*
+- *māham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghono* \< *maghonaḥ* \< *maghavan*
+- *maghono* ← *maghonaḥ* ← *maghavan*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -19,16 +19,16 @@ title = "Rig Veda 2.29.7"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *priyasya* \< *priya*
+- *priyasya* ← *priya*
 - \[noun\], genitive, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *bhūridāvna* \< *bhūri*
+- *bhūridāvna* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūridāvna* \< *dāvnaḥ* \< *dāvan*
+- *bhūridāvna* ← *dāvnaḥ* ← *dāvan*
 - \[noun\], genitive, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
@@ -36,15 +36,15 @@ title = "Rig Veda 2.29.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vidaṃ* \< *vidam* \< *vid*
+- *vidaṃ* ← *vidam* ← *vid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *śūnam* \< *śūna*
+- *śūnam* ← *śūna*
 - \[noun\], accusative, singular, neuter
 - “lack; absence.”
 ------------------------------------------------------------------------
-- *āpeḥ* \< *āpi*
+- *āpeḥ* ← *āpi*
 - \[noun\], genitive, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 2.29.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], ablative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -60,11 +60,11 @@ title = "Rig Veda 2.29.7"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *suyamād* \< *su*
+- *suyamād* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suyamād* \< *yamāt* \< *yama*
+- *suyamād* ← *yamāt* ← *yama*
 - \[noun\], ablative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
@@ -72,31 +72,31 @@ title = "Rig Veda 2.29.7"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *sthām* \< *sthā*
+- *sthām* ← *sthā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vadema* \< *vad*
+- *vadema* ← *vad*
 - \[verb\], plural, Present optative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *su*
+- *suvīrāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīrāḥ* \< *vīrāḥ* \< *vīra*
+- *suvīrāḥ* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

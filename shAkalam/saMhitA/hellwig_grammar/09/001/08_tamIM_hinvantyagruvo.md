@@ -2,45 +2,45 @@
 title = "Rig Veda 9.1.8"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *hinvanty* \< *hinvanti* \< *hi*
+- *hinvanty* ← *hinvanti* ← *hi*
 - \[verb\], plural, Present indikative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *agruvo* \< *agruvaḥ* \< *agru*
+- *agruvo* ← *agruvaḥ* ← *agru*
 - \[noun\], nominative, plural, feminine
 - “unmarried.”
 ------------------------------------------------------------------------
-- *dhamanti* \< *dham*
+- *dhamanti* ← *dham*
 - \[verb\], plural, Present indikative
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *bākuraṃ* \< *bākuram* \< *bākura*
+- *bākuraṃ* ← *bākuram* ← *bākura*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dṛtim* \< *dṛti*
+- *dṛtim* ← *dṛti*
 - \[noun\], accusative, singular, masculine
 - “hose; dṛti \[word\]; hide; bladder.”
 ------------------------------------------------------------------------
-- *tridhātu* \< *tri*
+- *tridhātu* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tridhātu* \< *dhātu*
+- *tridhātu* ← *dhātu*
 - \[noun\], accusative, plural, neuter
 - “mineral; dhātu; saptadhātu; Sanskrit verbal root; etymon; aṣṭaloha;
     mahābhūta; gairika; component; navadhātu; svarṇamākṣika; doṣa;
     inorganic compound.”
 ------------------------------------------------------------------------
-- *vāraṇam* \< *vāraṇa*
+- *vāraṇam* ← *vāraṇa*
 - \[noun\], accusative, singular, neuter
 - “removing; desert.”
 ------------------------------------------------------------------------

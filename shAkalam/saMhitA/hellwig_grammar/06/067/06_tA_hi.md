@@ -2,7 +2,7 @@
 title = "Rig Veda 6.67.6"
 
 +++
--   *tā* \< *tad*
+-   *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,11 +12,11 @@ title = "Rig Veda 6.67.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *dhārayethe* \< *dhāray* \< *√dhṛ*
+- *dhārayethe* ← *dhāray* ← *√dhṛ*
 - \[verb\], dual, Present indikative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
@@ -26,19 +26,19 @@ title = "Rig Veda 6.67.6"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dṛṃhethe* \< *dṛh*
+- *dṛṃhethe* ← *dṛh*
 - \[verb\], dual, Present indikative
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
-- *sānum* \< *sānu*
+- *sānum* ← *sānu*
 - \[noun\], accusative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *upamād* \< *upamāt* \< *upama*
+- *upamād* ← *upamāt* ← *upama*
 - \[noun\], ablative, singular, masculine
 - “best; topmost.”
 ------------------------------------------------------------------------
@@ -46,17 +46,17 @@ title = "Rig Veda 6.67.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyoḥ* \< *div*
+- *dyoḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dṛﾱho* \< *dṛﾱhaḥ* \< *dṛḍha*
+- *dṛﾱho* ← *dṛﾱhaḥ* ← *dṛḍha*
 - \[noun\], nominative, singular, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *nakṣatra* \< *nakṣatraḥ* \< *nakṣatra*
+- *nakṣatra* ← *nakṣatraḥ* ← *nakṣatra*
 - \[noun\], nominative, singular, masculine
 - “Nakṣatra; celestial body; nakṣatra \[word\]; pearl.”
 ------------------------------------------------------------------------
@@ -64,35 +64,35 @@ title = "Rig Veda 6.67.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *viśvadevo* \< *viśva*
+- *viśvadevo* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvadevo* \< *devaḥ* \< *deva*
+- *viśvadevo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *bhūmim* \< *bhūmi*
+- *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *ātān* \< *ātan* \< *√tan*
+- *ātān* ← *ātan* ← *√tan*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “expand; prolong; chant; inflate.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dhāsināyoḥ* \< *dhāsinā* \< *dhāsi*
+- *dhāsināyoḥ* ← *dhāsinā* ← *dhāsi*
 - \[noun\], instrumental, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *dhāsināyoḥ* \< *ayoḥ* \< *idam*
+- *dhāsināyoḥ* ← *ayoḥ* ← *idam*
 - \[noun\], genitive, dual, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

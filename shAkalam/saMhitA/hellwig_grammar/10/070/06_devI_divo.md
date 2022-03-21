@@ -6,19 +6,19 @@ title = "Rig Veda 10.70.6"
 - \[noun\], nominative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *duhitarā* \< *duhitṛ*
+- *duhitarā* ← *duhitṛ*
 - \[noun\], nominative, dual, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *suśilpe* \< *su*
+- *suśilpe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśilpe* \< *śilpe* \< *śilpa*
+- *suśilpe* ← *śilpe* ← *śilpa*
 - \[noun\], nominative, dual, feminine
 - “art; art.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 10.70.6"
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *sadatāṃ* \< *sadatām* \< *sad*
+- *sadatāṃ* ← *sadatām* ← *sad*
 - \[verb\], dual, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
@@ -35,7 +35,7 @@ title = "Rig Veda 10.70.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
@@ -45,38 +45,38 @@ title = "Rig Veda 10.70.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *devāsa* \< *devāsaḥ* \< *deva*
+- *devāsa* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *uśatī* \< *vaś*
+- *uśatī* ← *vaś*
 - \[verb noun\], vocative, dual
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśanta* \< *uśantaḥ* \< *vaś*
+- *uśanta* ← *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *urau* \< *uru*
+- *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *sīdantu* \< *sad*
+- *sīdantu* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], locative, singular, neuter
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *upasthe* \< *upastha*
+- *upasthe* ← *upastha*
 - \[noun\], locative, singular, neuter
 - “genitalia; lap; sexual desire; anus.”
 ------------------------------------------------------------------------

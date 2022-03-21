@@ -2,37 +2,37 @@
 title = "Rig Veda 9.37.4"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tritasyādhi* \< *tritasya* \< *trita*
+- *tritasyādhi* ← *tritasya* ← *trita*
 - \[noun\], genitive, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *tritasyādhi* \< *adhi*
+- *tritasyādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sānavi* \< *sānu*
+- *sānavi* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *pavamāno* \< *pavamānaḥ* \< *pū*
+- *pavamāno* ← *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *arocayat* \< *rocay* \< *√ruc*
+- *arocayat* ← *rocay* ← *√ruc*
 - \[verb\], singular, Imperfect
 - “like; approve; like; simulate.”
 ------------------------------------------------------------------------
-- *jāmibhiḥ* \< *jāmi*
+- *jāmibhiḥ* ← *jāmi*
 - \[noun\], instrumental, plural, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

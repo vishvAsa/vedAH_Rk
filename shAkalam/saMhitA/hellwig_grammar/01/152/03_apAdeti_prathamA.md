@@ -2,61 +2,61 @@
 title = "Rig Veda 1.152.3"
 
 +++
--   *apād* \< *a*
+-   *apād* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apād* \< *pād*
+- *apād* ← *pād*
 - \[noun\], nominative, singular, feminine
 - “pād \[word\]; foot.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], nominative, singular, feminine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *padvatīnāṃ* \< *padvatīnām* \< *padvat*
+- *padvatīnāṃ* ← *padvatīnām* ← *padvat*
 - \[noun\], genitive, plural, feminine
 - “footed.”
 ------------------------------------------------------------------------
-- *kas* \< *kaḥ* \< *ka*
+- *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *garbho* \< *garbhaḥ* \< *garbha*
+- *garbho* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *bhāram* \< *bhāra*
+- *bhāram* ← *bhāra*
 - \[noun\], accusative, singular, masculine
 - “weight; load; difficulty; bhāra \[word\]; bhāra; quantity; trouble;
     specific gravity; cargo; effort; labor.”
 ------------------------------------------------------------------------
-- *bharaty* \< *bharati* \< *bhṛ*
+- *bharaty* ← *bharati* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -65,23 +65,23 @@ title = "Rig Veda 1.152.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *piparty* \< *piparti* \< *pṛ*
+- *piparty* ← *piparti* ← *pṛ*
 - \[verb\], singular, Present indikative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *anṛtaṃ* \< *anṛtam* \< *anṛta*
+- *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
@@ -89,7 +89,7 @@ title = "Rig Veda 1.152.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tārīt* \< *tṛ*
+- *tārīt* ← *tṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------

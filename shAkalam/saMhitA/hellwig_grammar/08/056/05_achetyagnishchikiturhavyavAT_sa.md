@@ -2,48 +2,48 @@
 title = "Rig Veda 8.56.5"
 
 +++
--   *acety* \< *aceti* \< *cit*
+-   *acety* ← *aceti* ← *cit*
 - \[verb\], singular, Aorist passive
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *agniś* \< *agniḥ* \< *agni*
+- *agniś* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *cikitur* \< *cikituḥ* \< *cikitu*
+- *cikitur* ← *cikituḥ* ← *cikitu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *havyavāṭ* \< *havyavah*
+- *havyavāṭ* ← *havyavah*
 - \[noun\], nominative, singular
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sumadrathaḥ* \< *sumat*
+- *sumadrathaḥ* ← *sumat*
 - \[adverb\]
 - “together.”
 ------------------------------------------------------------------------
-- *sumadrathaḥ* \< *rathaḥ* \< *ratha*
+- *sumadrathaḥ* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śukreṇa* \< *śukra*
+- *śukreṇa* ← *śukra*
 - \[noun\], instrumental, singular, neuter
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
@@ -52,24 +52,24 @@ title = "Rig Veda 8.56.5"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *sūra*
+- *sūro* ← *sūraḥ* ← *sūra*
 - \[noun\], nominative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *arocata* \< *ruc*
+- *arocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *arocata* \< *ruc*
+- *arocata* ← *ruc*
 - \[verb\], singular, Imperfect
 - “please; shine.”
 ------------------------------------------------------------------------

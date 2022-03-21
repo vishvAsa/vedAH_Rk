@@ -2,53 +2,53 @@
 title = "Rig Veda 1.26.6"
 
 +++
--   *yacciddhi* \< *yat*
+-   *yacciddhi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *cit*
+- *yacciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *hi*
+- *yacciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śaśvatā* \< *śaśvat*
+- *śaśvatā* ← *śaśvat*
 - \[noun\], instrumental, singular, feminine
 - “all(a); each(a).”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhūyate* \< *id*
+- *iddhūyate* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhūyate* \< *hūyate* \< *hu*
+- *iddhūyate* ← *hūyate* ← *hu*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *haviḥ* \< *havis*
+- *haviḥ* ← *havis*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------

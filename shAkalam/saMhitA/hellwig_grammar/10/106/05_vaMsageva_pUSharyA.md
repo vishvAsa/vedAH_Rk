@@ -2,53 +2,53 @@
 title = "Rig Veda 10.106.5"
 
 +++
--   *vaṃsageva* \< *vaṃsagā* \< *vaṃsaga*
+-   *vaṃsageva* ← *vaṃsagā* ← *vaṃsaga*
 - \[noun\], nominative, dual, masculine
 - “bull.”
 ------------------------------------------------------------------------
-- *vaṃsageva* \< *iva*
+- *vaṃsageva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pūṣaryā* \< *\_* \< *√\_*
+- *pūṣaryā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *śimbātā* \< *śimbāta*
+- *śimbātā* ← *śimbāta*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *mitreva* \< *mitrā* \< *mitra*
+- *mitreva* ← *mitrā* ← *mitra*
 - \[noun\], nominative, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitreva* \< *iva*
+- *mitreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ṛtā* \< *ṛta*
+- *ṛtā* ← *ṛta*
 - \[noun\], nominative, dual, masculine
 - “timely; honest.”
 ------------------------------------------------------------------------
 - *śatarā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śātapantā* \< *\_* \< *√\_*
+- *śātapantā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *vājevoccā* \< *vājā* \< *vāja*
+- *vājevoccā* ← *vājā* ← *vāja*
 - \[noun\], nominative, dual, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājevoccā* \< *iva*
+- *vājevoccā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vājevoccā* \< *uccā* \< *ucca*
+- *vājevoccā* ← *uccā* ← *ucca*
 - \[noun\], nominative, dual, masculine
 - “high; large; eminent.”
 ------------------------------------------------------------------------
-- *vayasā* \< *vayas*
+- *vayasā* ← *vayas*
 - \[noun\], instrumental, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
@@ -56,21 +56,21 @@ title = "Rig Veda 10.106.5"
 - *gharmyeṣṭhā*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *meṣeveṣā* \< *meṣā* \< *meṣa*
+- *meṣeveṣā* ← *meṣā* ← *meṣa*
 - \[noun\], nominative, dual, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *meṣeveṣā* \< *iva*
+- *meṣeveṣā* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *meṣeveṣā* \< *īṣā*
+- *meṣeveṣā* ← *īṣā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *saparyā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *purīṣā* \< *purīṣa*
+- *purīṣā* ← *purīṣa*
 - \[noun\], nominative, plural, neuter
 - “fecal matter; droppings; spring; earth; purīṣa \[word\]; Purīṣa;
     rust; affluence; defecation.”

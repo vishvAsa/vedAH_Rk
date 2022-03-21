@@ -6,15 +6,15 @@ title = "Rig Veda 6.50.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], nominative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havam* \< *hava*
+- *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 6.50.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jagmyātaṃ* \< *jagmyātam* \< *gam*
+- *jagmyātaṃ* ← *jagmyātam* ← *gam*
 - \[verb\], dual, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], vocative, plural, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -46,11 +46,11 @@ title = "Rig Veda 6.50.10"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *viprā* \< *vipra*
+- *viprā* ← *vipra*
 - \[noun\], vocative, dual, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *atriṃ* \< *atrim* \< *atri*
+- *atriṃ* ← *atrim* ← *atri*
 - \[noun\], accusative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
@@ -58,16 +58,16 @@ title = "Rig Veda 6.50.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mahas* \< *mahaḥ* \< *mah*
+- *mahas* ← *mahaḥ* ← *mah*
 - \[noun\], ablative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *tamaso* \< *tamasaḥ* \< *tamas*
+- *tamaso* ← *tamasaḥ* ← *tamas*
 - \[noun\], ablative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *'mumuktaṃ* \< *amumuktam* \< *muc*
+- *'mumuktaṃ* ← *amumuktam* ← *muc*
 - \[verb\], dual, Plusquamperfect
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -75,19 +75,19 @@ title = "Rig Veda 6.50.10"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *tūrvataṃ* \< *tūrvatam* \< *tūrv*
+- *tūrvataṃ* ← *tūrvatam* ← *tūrv*
 - \[verb\], dual, Present imperative
 - “overpower.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *duritād* \< *duritāt* \< *durita*
+- *duritād* ← *duritāt* ← *durita*
 - \[noun\], ablative, singular, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------

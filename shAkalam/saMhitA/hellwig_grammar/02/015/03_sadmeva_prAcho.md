@@ -2,15 +2,15 @@
 title = "Rig Veda 2.15.3"
 
 +++
--   *sadmeva* \< *sadma* \< *sadman*
+-   *sadmeva* ← *sadma* ← *sadman*
 - \[noun\], nominative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *sadmeva* \< *iva*
+- *sadmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *prāco* \< *prācaḥ* \< *prāñc*
+- *prāco* ← *prācaḥ* ← *prāñc*
 - \[noun\], accusative, plural, masculine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
@@ -19,69 +19,69 @@ title = "Rig Veda 2.15.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mimāya* \< *mi*
+- *mimāya* ← *mi*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *mānair* \< *mānaiḥ* \< *māna*
+- *mānair* ← *mānaiḥ* ← *māna*
 - \[noun\], instrumental, plural, neuter
 - “weight; size; intensity; duration; dimension; weighing; volume;
     measure; grāsamāna; weight unit; accord; height; thickness.”
 ------------------------------------------------------------------------
-- *vajreṇa* \< *vajra*
+- *vajreṇa* ← *vajra*
 - \[noun\], instrumental, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *khāny* \< *khāni* \< *kha*
+- *khāny* ← *khāni* ← *kha*
 - \[noun\], accusative, plural, neuter
 - “sky; abhra; orifice; ākāśa; hub; aperture; air; hollow; cavity;
     air.”
 ------------------------------------------------------------------------
-- *atṛṇan* \< *atṛṇat* \< *tṛd*
+- *atṛṇan* ← *atṛṇat* ← *tṛd*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *vṛthāsṛjat* \< *vṛthā*
+- *vṛthāsṛjat* ← *vṛthā*
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *vṛthāsṛjat* \< *sṛjat* \< *sṛj*
+- *vṛthāsṛjat* ← *sṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *pathibhir* \< *pathibhiḥ* \< *pathin*
+- *pathibhir* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *dīrghayāthaiḥ* \< *dīrghayātha*
+- *dīrghayāthaiḥ* ← *dīrghayātha*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mada* \< *made* \< *mada*
+- *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

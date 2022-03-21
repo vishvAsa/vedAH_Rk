@@ -6,20 +6,20 @@ title = "Rig Veda 1.34.9"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *trī* \< *tri*
+- *trī* ← *tri*
 - \[noun\], nominative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *cakrā* \< *cakra*
+- *cakrā* ← *cakra*
 - \[noun\], nominative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *trivṛto* \< *trivṛtaḥ* \< *trivṛt*
+- *trivṛto* ← *trivṛtaḥ* ← *trivṛt*
 - \[noun\], genitive, singular, masculine
 - “treble.”
 ------------------------------------------------------------------------
-- *rathasya* \< *ratha*
+- *rathasya* ← *ratha*
 - \[noun\], genitive, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -27,19 +27,19 @@ title = "Rig Veda 1.34.9"
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *trayo* \< *trayaḥ* \< *tri*
+- *trayo* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *vandhuro* \< *vandhuraḥ* \< *vandhur*
+- *vandhuro* ← *vandhuraḥ* ← *vandhur*
 - \[noun\], nominative, plural, masculine
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sanīḍāḥ* \< *sanīḍa*
+- *sanīḍāḥ* ← *sanīḍa*
 - \[noun\], nominative, plural, masculine
 - “kindred; equal; sanīḍa \[word\].”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 1.34.9"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *yogo* \< *yogaḥ* \< *yoga*
+- *yogo* ← *yogaḥ* ← *yoga*
 - \[noun\], nominative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -56,27 +56,27 @@ title = "Rig Veda 1.34.9"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *rāsabhasya* \< *rāsabha*
+- *rāsabhasya* ← *rāsabha*
 - \[noun\], genitive, singular, masculine
 - “ass; domestic ass.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *nāsatyopayāthaḥ* \< *nāsatyā* \< *nāsatya*
+- *nāsatyopayāthaḥ* ← *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyopayāthaḥ* \< *upayāthaḥ* \< *upayā* \< *√yā*
+- *nāsatyopayāthaḥ* ← *upayāthaḥ* ← *upayā* ← *√yā*
 - \[verb\], dual, Present indikative
 - “enter (a state); arrive; come; go.”
 ------------------------------------------------------------------------

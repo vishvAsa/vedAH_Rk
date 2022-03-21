@@ -2,31 +2,31 @@
 title = "Rig Veda 8.68.4"
 
 +++
--   *viśvānarasya* \< *viśvānara*
+-   *viśvānarasya* ← *viśvānara*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *vas* \< *vaḥ* \< *tvad*
+- *vas* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *anānatasya* \< *an*
+- *anānatasya* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anānatasya* \< *ānatasya* \< *ānam* \< *√nam*
+- *anānatasya* ← *ānatasya* ← *ānam* ← *√nam*
 - \[verb noun\], genitive, singular
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *śavasaḥ* \< *śavas*
+- *śavasaḥ* ← *śavas*
 - \[noun\], genitive, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *evaiś* \< *evaiḥ* \< *eva*
+- *evaiś* ← *evaiḥ* ← *eva*
 - \[noun\], instrumental, plural, masculine
 - “eva \[word\]; habit; manner; behavior; custom.”
 ------------------------------------------------------------------------
@@ -34,19 +34,19 @@ title = "Rig Veda 8.68.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *rathānām* \< *ratha*
+- *rathānām* ← *ratha*
 - \[noun\], genitive, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------

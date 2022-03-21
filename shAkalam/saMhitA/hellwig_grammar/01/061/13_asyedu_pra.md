@@ -2,11 +2,11 @@
 title = "Rig Veda 1.61.13"
 
 +++
--   *asyed* \< *asya* \< *idam*
+-   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyed* \< *id*
+- *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -18,20 +18,20 @@ title = "Rig Veda 1.61.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *brūhi* \< *brū*
+- *brūhi* ← *brū*
 - \[verb\], singular, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *pūrvyāṇi* \< *pūrvya*
+- *pūrvyāṇi* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *turasya* \< *tura*
+- *turasya* ← *tura*
 - \[noun\], genitive, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *karmāṇi* \< *karman*
+- *karmāṇi* ← *karman*
 - \[noun\], accusative, plural, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -39,38 +39,38 @@ title = "Rig Veda 1.61.13"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *navya* \< *navyaḥ* \< *navyas*
+- *navya* ← *navyaḥ* ← *navyas*
 - \[noun\], accusative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *ukthaiḥ* \< *uktha*
+- *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *yudhe* \< *yudh*
+- *yudhe* ← *yudh*
 - \[verb noun\]
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *iṣṇāna* \< *iṣṇānaḥ* \< *iṣ*
+- *iṣṇāna* ← *iṣṇānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *āyudhāny* \< *āyudhāni* \< *āyudha*
+- *āyudhāny* ← *āyudhāni* ← *āyudha*
 - \[noun\], accusative, plural, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *ṛghāyamāṇo* \< *ṛghāyamāṇaḥ* \< *ṛghāy*
+- *ṛghāyamāṇo* ← *ṛghāyamāṇaḥ* ← *ṛghāy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *niriṇāti* \< *nirī* \< *√ri*
+- *niriṇāti* ← *nirī* ← *√ri*
 - \[verb\], singular, Present indikative
 - “disperse.”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------

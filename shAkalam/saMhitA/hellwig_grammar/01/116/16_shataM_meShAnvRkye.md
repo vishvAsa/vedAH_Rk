@@ -2,42 +2,42 @@
 title = "Rig Veda 1.116.16"
 
 +++
--   *śatam* \< *śata*
+-   *śatam* ← *śata*
 - \[noun\], accusative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *meṣān* \< *meṣa*
+- *meṣān* ← *meṣa*
 - \[noun\], accusative, plural, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *vṛkye* \< *vṛkī*
+- *vṛkye* ← *vṛkī*
 - \[noun\], dative, singular, feminine
 - “wolf.”
 ------------------------------------------------------------------------
-- *cakṣadānam* \< *kṣad*
+- *cakṣadānam* ← *kṣad*
 - \[verb noun\], accusative, singular
 - “butcher; carve.”
 ------------------------------------------------------------------------
-- *ṛjrāśvaṃ* \< *ṛjrāśvam* \< *ṛjrāśva*
+- *ṛjrāśvaṃ* ← *ṛjrāśvam* ← *ṛjrāśva*
 - \[noun\], accusative, singular, masculine
 - “Ṛjrāśva.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pitāndhaṃ* \< *pitā* \< *pitṛ*
+- *pitāndhaṃ* ← *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitāndhaṃ* \< *andham* \< *andha*
+- *pitāndhaṃ* ← *andham* ← *andha*
 - \[noun\], accusative, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,32 +48,32 @@ title = "Rig Veda 1.116.16"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tasmā* \< *tasmai* \< *tad*
+- *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *akṣī* \< *akṣi*
+- *akṣī* ← *akṣi*
 - \[noun\], accusative, dual, neuter
 - “eye; akṣi \[word\]; two.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatyāḥ* \< *nāsatya*
+- *nāsatyā* ← *nāsatyāḥ* ← *nāsatya*
 - \[noun\], nominative, plural, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *vicakṣa* \< *vicakṣe* \< *vicakṣ* \< *√cakṣ*
+- *vicakṣa* ← *vicakṣe* ← *vicakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *ādhattaṃ* \< *ādhattam* \< *ādhā* \< *√dhā*
+- *ādhattaṃ* ← *ādhattam* ← *ādhā* ← *√dhā*
 - \[verb\], dual, Imperfect
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *bhiṣajāv* \< *bhiṣajau* \< *bhiṣaj*
+- *bhiṣajāv* ← *bhiṣajau* ← *bhiṣaj*
 - \[noun\], vocative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------

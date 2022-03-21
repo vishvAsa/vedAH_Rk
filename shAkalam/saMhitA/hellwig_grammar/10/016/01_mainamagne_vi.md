@@ -2,15 +2,15 @@
 title = "Rig Veda 10.16.1"
 
 +++
--   *mainam* \< *mā*
+-   *mainam* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mainam* \< *enam* \< *enad*
+- *mainam* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -20,36 +20,36 @@ title = "Rig Veda 10.16.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *daho* \< *dahaḥ* \< *dah*
+- *daho* ← *dahaḥ* ← *dah*
 - \[verb\], singular, Aorist inj. (proh.)
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
 ------------------------------------------------------------------------
-- *mābhi* \< *mā*
+- *mābhi* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mābhi* \< *abhi*
+- *mābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śoco* \< *śocaḥ* \< *śuc*
+- *śoco* ← *śocaḥ* ← *śuc*
 - \[verb\], singular, Aorist inj. (proh.)
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *māsya* \< *mā*
+- *māsya* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māsya* \< *asya* \< *idam*
+- *māsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tvacaṃ* \< *tvacam* \< *tvac*
+- *tvacaṃ* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *cikṣipo* \< *cikṣipaḥ* \< *kṣip*
+- *cikṣipo* ← *cikṣipaḥ* ← *kṣip*
 - \[verb\], singular, Aorist inj. (proh.)
 - “fill into; add; put; throw; insert; submerge; pour; mix; ignite;
     shoot; hurl; vilify; reject; join; put on; stow; stack; throw.”
@@ -58,7 +58,7 @@ title = "Rig Veda 10.16.1"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *śarīram* \< *śarīra*
+- *śarīram* ← *śarīra*
 - \[noun\], accusative, singular, neuter
 - “body; human body; body part; body; body; strength.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 10.16.1"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *śṛtaṃ* \< *śṛtam* \< *śrī*
+- *śṛtaṃ* ← *śṛtam* ← *śrī*
 - \[verb noun\], accusative, singular
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *kṛṇavo* \< *kṛṇavaḥ* \< *kṛ*
+- *kṛṇavo* ← *kṛṇavaḥ* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -81,18 +81,18 @@ title = "Rig Veda 10.16.1"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *'them* \< *atha*
+- *'them* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *'them* \< *īm* \< *īṃ*
+- *'them* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *enam* \< *enad*
+- *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
@@ -100,11 +100,11 @@ title = "Rig Veda 10.16.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hiṇutāt* \< *hi*
+- *hiṇutāt* ← *hi*
 - \[verb\], singular, Present imperative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *pitṛbhyaḥ* \< *pitṛ*
+- *pitṛbhyaḥ* ← *pitṛ*
 - \[noun\], dative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”

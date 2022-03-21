@@ -2,15 +2,15 @@
 title = "Rig Veda 9.31.6"
 
 +++
--   *svāyudhasya* \< *su*
+-   *svāyudhasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyudhasya* \< *āyudhasya* \< *āyudha*
+- *svāyudhasya* ← *āyudhasya* ← *āyudha*
 - \[noun\], genitive, singular, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

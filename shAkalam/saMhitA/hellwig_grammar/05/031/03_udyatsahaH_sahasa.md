@@ -10,49 +10,49 @@ title = "Rig Veda 5.31.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sahaḥ* \< *sahas*
+- *sahaḥ* ← *sahas*
 - \[noun\], nominative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahasa* \< *sahasaḥ* \< *sahas*
+- *sahasa* ← *sahasaḥ* ← *sahas*
 - \[noun\], ablative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *ājaniṣṭa* \< *ājan* \< *√jan*
+- *ājaniṣṭa* ← *ājan* ← *√jan*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “be born.”
 ------------------------------------------------------------------------
-- *dediṣṭa* \< *dediś* \< *√diś*
+- *dediṣṭa* ← *dediś* ← *√diś*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indriyāṇi* \< *indriya*
+- *indriyāṇi* ← *indriya*
 - \[noun\], accusative, plural, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *prācodayat* \< *pracoday* \< *√cud*
+- *prācodayat* ← *pracoday* ← *√cud*
 - \[verb\], singular, Imperfect
 - “push; drive; command; excite; proclaim; demand; request; request.”
 ------------------------------------------------------------------------
-- *sudughā* \< *su*
+- *sudughā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudughā* \< *dughāḥ* \< *dugha*
+- *sudughā* ← *dughāḥ* ← *dugha*
 - \[noun\], accusative, plural, feminine
 - “yielding.”
 ------------------------------------------------------------------------
-- *vavre* \< *vavra*
+- *vavre* ← *vavra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *antar*
@@ -63,21 +63,21 @@ title = "Rig Veda 5.31.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jyotiṣā* \< *jyotis*
+- *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *saṃvavṛtvat* \< *saṃvṛt* \< *√vṛt*
+- *saṃvavṛtvat* ← *saṃvṛt* ← *√vṛt*
 - \[verb noun\], accusative, singular
 - “become.”
 ------------------------------------------------------------------------
-- *tamo* \< *tamaḥ* \< *tamas*
+- *tamo* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *'vaḥ* \< *avaḥ* \< *vṛ*
+- *'vaḥ* ← *avaḥ* ← *vṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

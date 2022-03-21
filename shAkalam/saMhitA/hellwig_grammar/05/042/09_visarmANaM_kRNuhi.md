@@ -2,10 +2,10 @@
 title = "Rig Veda 5.42.9"
 
 +++
--   *visarmāṇaṃ* \< *visarmāṇam* \< *visarman*
+-   *visarmāṇaṃ* ← *visarmāṇam* ← *visarman*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -16,57 +16,57 @@ title = "Rig Veda 5.42.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vittam* \< *vitta*
+- *vittam* ← *vitta*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; money.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhuñjate* \< *bhuj*
+- *bhuñjate* ← *bhuj*
 - \[verb\], plural, Present indikative
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *apṛṇanto* \< *apṛṇantaḥ* \< *apṛṇat*
+- *apṛṇanto* ← *apṛṇantaḥ* ← *apṛṇat*
 - \[noun\], nominative, plural, masculine
 - “stingy.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ukthaiḥ* \< *uktha*
+- *ukthaiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *apavratān* \< *apavrata*
+- *apavratān* ← *apavrata*
 - \[noun\], accusative, plural, masculine
 - “lawless; faithless.”
 ------------------------------------------------------------------------
-- *prasave* \< *prasava*
+- *prasave* ← *prasava*
 - \[noun\], locative, singular, masculine
 - “stimulation.”
 ------------------------------------------------------------------------
-- *vāvṛdhānān* \< *vṛdh*
+- *vāvṛdhānān* ← *vṛdh*
 - \[verb noun\], accusative, plural
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *brahmadviṣaḥ* \< *brahma* \< *brahman*
+- *brahmadviṣaḥ* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣaḥ* \< *dviṣaḥ* \< *dviṣ*
+- *brahmadviṣaḥ* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *sūryād* \< *sūryāt* \< *sūrya*
+- *sūryād* ← *sūryāt* ← *sūrya*
 - \[noun\], ablative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

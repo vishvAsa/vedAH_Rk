@@ -2,44 +2,44 @@
 title = "Rig Veda 9.48.5"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *hinvāna* \< *hinvānaḥ* \< *hi*
+- *hinvāna* ← *hinvānaḥ* ← *hi*
 - \[verb noun\], nominative, singular
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, neuter
 - “aindra.”
 ------------------------------------------------------------------------
-- *jyāyo* \< *jyāyaḥ* \< *jyāyas*
+- *jyāyo* ← *jyāyaḥ* ← *jyāyas*
 - \[noun\], accusative, singular, neuter
 - “better; elder; greater; bigger.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *mahi*
+- *mahitvam* ← *mahi*
 - \[noun\]
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *tvam* \< *tva*
+- *mahitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ānaśe* \< *aś*
+- *ānaśe* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *abhiṣṭikṛd* \< *abhiṣṭi*
+- *abhiṣṭikṛd* ← *abhiṣṭi*
 - \[noun\], feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *abhiṣṭikṛd* \< *kṛt*
+- *abhiṣṭikṛd* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------

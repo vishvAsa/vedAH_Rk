@@ -2,40 +2,40 @@
 title = "Rig Veda 8.2.25"
 
 +++
--   *panyaṃ* \< *panyam* \< *panya*
+-   *panyaṃ* ← *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *panyam* \< *panya*
+- *panyam* ← *panya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sotāra* \< *sotāraḥ* \< *sotṛ*
+- *sotāra* ← *sotāraḥ* ← *sotṛ*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhāvata* \< *dhāv*
+- *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *madyāya* \< *mad*
+- *madyāya* ← *mad*
 - \[verb noun\], dative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *śūrāya* \< *śūra*
+- *śūrāya* ← *śūra*
 - \[noun\], dative, singular, masculine
 - “brave; powerful.”
 ------------------------------------------------------------------------

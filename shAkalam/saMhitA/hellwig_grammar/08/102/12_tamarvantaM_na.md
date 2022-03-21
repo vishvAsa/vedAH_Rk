@@ -2,13 +2,13 @@
 title = "Rig Veda 8.102.12"
 
 +++
--   *tam* \< *tad*
+-   *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *arvantaṃ* \< *arvantam* \< *arvant*
+- *arvantaṃ* ← *arvantam* ← *arvant*
 - \[noun\], accusative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
@@ -16,11 +16,11 @@ title = "Rig Veda 8.102.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sānasiṃ* \< *sānasim* \< *sānasi*
+- *sānasiṃ* ← *sānasim* ← *sānasi*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *gṛṇīhi* \< *gṛ*
+- *gṛṇīhi* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
@@ -28,11 +28,11 @@ title = "Rig Veda 8.102.12"
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *śuṣmiṇam* \< *śuṣmin*
+- *śuṣmiṇam* ← *śuṣmin*
 - \[noun\], accusative, singular, masculine
 - “strong; hotheaded.”
 ------------------------------------------------------------------------
-- *mitraṃ* \< *mitram* \< *mitra*
+- *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -40,11 +40,11 @@ title = "Rig Veda 8.102.12"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yātayajjanam* \< *yātayat* \< *yātay* \< *√yat*
+- *yātayajjanam* ← *yātayat* ← *yātay* ← *√yat*
 - \[verb noun\]
 - “endeavor; settle.”
 ------------------------------------------------------------------------
-- *yātayajjanam* \< *janam* \< *jana*
+- *yātayajjanam* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

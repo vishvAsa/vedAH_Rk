@@ -2,15 +2,15 @@
 title = "Rig Veda 10.21.6"
 
 +++
--   *tvāṃ* \< *tvām* \< *tvad*
+-   *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajñeṣv* \< *yajñeṣu* \< *yajña*
+- *yajñeṣv* ← *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *īḍate* \< *īḍ*
+- *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------

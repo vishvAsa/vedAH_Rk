@@ -2,7 +2,7 @@
 title = "Rig Veda 5.46.1"
 
 +++
--   *hayo* \< *hayaḥ* \< *haya*
+-   *hayo* ← *hayaḥ* ← *haya*
 - \[noun\], nominative, singular, masculine
 - “horse; Haya.”
 ------------------------------------------------------------------------
@@ -10,12 +10,12 @@ title = "Rig Veda 5.46.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vidvāṃ* \< *vid*
+- *vidvāṃ* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ayuji* \< *yuj*
+- *ayuji* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -23,53 +23,53 @@ title = "Rig Veda 5.46.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *svayaṃ* \< *svayam*
+- *svayaṃ* ← *svayam*
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
 ------------------------------------------------------------------------
-- *dhuri* \< *dhur*
+- *dhuri* ← *dhur*
 - \[noun\], locative, singular, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tām* \< *tad*
+- *tāṃ* ← *tām* ← *tad*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vahāmi* \< *vah*
+- *vahāmi* ← *vah*
 - \[verb\], singular, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *prataraṇīm* \< *prataraṇa*
+- *prataraṇīm* ← *prataraṇa*
 - \[noun\], accusative, singular, feminine
 - “prolonging; beneficial.”
 ------------------------------------------------------------------------
-- *avasyuvam* \< *avasyu*
+- *avasyuvam* ← *avasyu*
 - \[noun\], accusative, singular, feminine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
-- *nāsyā* \< *na*
+- *nāsyā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāsyā* \< *asyāḥ* \< *idam*
+- *nāsyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vaśmi* \< *vaś*
+- *vaśmi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *vimucaṃ* \< *vimucam* \< *vimuc*
+- *vimucaṃ* ← *vimucam* ← *vimuc*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *nāvṛtam* \< *na*
+- *nāvṛtam* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvṛtam* \< *āvṛtam* \< *āvṛt*
+- *nāvṛtam* ← *āvṛtam* ← *āvṛt*
 - \[noun\], accusative, singular, feminine
 - “arrival.”
 ------------------------------------------------------------------------
@@ -78,16 +78,16 @@ title = "Rig Veda 5.46.1"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *pathaḥ* \< *pathin*
+- *pathaḥ* ← *pathin*
 - \[noun\], genitive, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *puraeta* \< *puraetar* \< *puraetṛ*
+- *puraeta* ← *puraetar* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ title = "Rig Veda 5.46.1"
 - \[noun\], accusative, singular, neuter
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *neṣati* \< *nī*
+- *neṣati* ← *nī*
 - \[verb\], singular, Aorist conj./subj.
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”

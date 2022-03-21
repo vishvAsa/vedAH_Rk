@@ -2,20 +2,20 @@
 title = "Rig Veda 5.17.4"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *vicetaso* \< *vicetasaḥ* \< *vicetas*
+- *vicetaso* ← *vicetasaḥ* ← *vicetas*
 - \[noun\], genitive, singular, masculine
 - “wise; diligent.”
 ------------------------------------------------------------------------
-- *dasmasya* \< *dasma*
+- *dasmasya* ← *dasma*
 - \[noun\], genitive, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 5.17.4"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ratha* \< *rathe* \< *ratha*
+- *ratha* ← *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -31,26 +31,26 @@ title = "Rig Veda 5.17.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *viśvāsu* \< *viśva*
+- *viśvāsu* ← *viśva*
 - \[noun\], locative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *havyo* \< *havyaḥ* \< *hu*
+- *havyo* ← *havyaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *'gnir* \< *agniḥ* \< *agni*
+- *'gnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 5.17.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śasyate* \< *śaṃs*
+- *śasyate* ← *śaṃs*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”

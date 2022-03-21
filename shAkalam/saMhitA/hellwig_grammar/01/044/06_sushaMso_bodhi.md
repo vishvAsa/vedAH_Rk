@@ -2,22 +2,22 @@
 title = "Rig Veda 1.44.6"
 
 +++
--   *suśaṃso* \< *su*
+-   *suśaṃso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- *suśaṃso* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
-- *bodhi* \< *bhū*
+- *bodhi* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
@@ -25,47 +25,47 @@ title = "Rig Veda 1.44.6"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *madhujihvaḥ* \< *madhu*
+- *madhujihvaḥ* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhujihvaḥ* \< *jihvaḥ* \< *jihvā*
+- *madhujihvaḥ* ← *jihvaḥ* ← *jihvā*
 - \[noun\], nominative, singular, masculine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *svāhutaḥ* \< *su*
+- *svāhutaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāhutaḥ* \< *āhutaḥ* \< *āhu* \< *√hu*
+- *svāhutaḥ* ← *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *praskaṇvasya* \< *praskaṇva*
+- *praskaṇvasya* ← *praskaṇva*
 - \[noun\], genitive, singular, masculine
 - “Praskaṇva.”
 ------------------------------------------------------------------------
-- *pratirann* \< *pratiran* \< *pratṛ* \< *√tṛ*
+- *pratirann* ← *pratiran* ← *pratṛ* ← *√tṛ*
 - \[verb noun\], nominative, singular
 - “traverse; prolong.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *namasyā* \< *namasy*
+- *namasyā* ← *namasy*
 - \[verb\], singular, Present imperative
 - “worship; respect.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

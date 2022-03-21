@@ -2,31 +2,31 @@
 title = "Rig Veda 6.74.4"
 
 +++
--   *tigmāyudhau* \< *tigma*
+-   *tigmāyudhau* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmāyudhau* \< *āyudhau* \< *āyudha*
+- *tigmāyudhau* ← *āyudhau* ← *āyudha*
 - \[noun\], nominative, dual, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *tigmahetī* \< *tigma*
+- *tigmahetī* ← *tigma*
 - \[noun\]
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *tigmahetī* \< *hetī* \< *heti*
+- *tigmahetī* ← *hetī* ← *heti*
 - \[noun\], nominative, dual, masculine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *suśevau* \< *su*
+- *suśevau* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśevau* \< *śevau* \< *śeva*
+- *suśevau* ← *śevau* ← *śeva*
 - \[noun\], nominative, dual, masculine
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *somārudrāv* \< *somārudrau* \< *somārudra*
+- *somārudrāv* ← *somārudrau* ← *somārudra*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
 - *iha*
@@ -37,11 +37,11 @@ title = "Rig Veda 6.74.4"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mṛﾱataṃ* \< *mṛḍatam* \< *mṛḍ*
+- *mṛﾱataṃ* ← *mṛḍatam* ← *mṛḍ*
 - \[verb\], dual, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -49,11 +49,11 @@ title = "Rig Veda 6.74.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *muñcataṃ* \< *muñcatam* \< *muc*
+- *muñcataṃ* ← *muñcatam* ← *muc*
 - \[verb\], dual, Present imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -61,23 +61,23 @@ title = "Rig Veda 6.74.4"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *pāśād* \< *pāśāt* \< *pāśa*
+- *pāśād* ← *pāśāt* ← *pāśa*
 - \[noun\], ablative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *gopāyataṃ* \< *gopāyatam* \< *gopāy*
+- *gopāyataṃ* ← *gopāyatam* ← *gopāy*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumanasyamānā* \< *sumanasyamāna*
+- *sumanasyamānā* ← *sumanasyamāna*
 - \[noun\], nominative, dual, masculine
 - “favorable.”
 ------------------------------------------------------------------------

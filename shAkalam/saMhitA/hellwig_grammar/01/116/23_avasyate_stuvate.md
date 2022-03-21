@@ -2,29 +2,29 @@
 title = "Rig Veda 1.116.23"
 
 +++
--   *avasyate* \< *avasā* \< *√sā*
+-   *avasyate* ← *avasā* ← *√sā*
 - \[verb noun\], dative, singular
 - “end.”
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *kṛṣṇiyāya* \< *kṛṣṇiya*
+- *kṛṣṇiyāya* ← *kṛṣṇiya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛjūyate* \< *ṛjūy*
+- *ṛjūyate* ← *ṛjūy*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *paśuṃ* \< *paśum* \< *paśu*
+- *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
@@ -33,7 +33,7 @@ title = "Rig Veda 1.116.23"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naṣṭam* \< *naś*
+- *naṣṭam* ← *naś*
 - \[verb noun\], accusative, singular
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
@@ -41,24 +41,24 @@ title = "Rig Veda 1.116.23"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *darśanāya* \< *darśana*
+- *darśanāya* ← *darśana*
 - \[noun\], dative, singular, neuter
 - “visual perception; look; sight; meeting; perception; doctrine;
     appearance; appearance; display; opinion; observation; sight; eye;
     inspection; examination.”
 ------------------------------------------------------------------------
-- *viṣṇāpvaṃ* \< *viṣṇāpvam* \< *viṣṇāpū*
+- *viṣṇāpvaṃ* ← *viṣṇāpvam* ← *viṣṇāpū*
 - \[noun\], accusative, singular, masculine
 - “Viṣṇāpū.”
 ------------------------------------------------------------------------
-- *dadathur* \< *dadathuḥ* \< *dā*
+- *dadathur* ← *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *viśvakāya* \< *viśvaka*
+- *viśvakāya* ← *viśvaka*
 - \[noun\], dative, singular, masculine
 - “Viśvaka; Viśvaka.”
 ------------------------------------------------------------------------

@@ -2,14 +2,14 @@
 title = "Rig Veda 5.18.2"
 
 +++
--   *dvitāya* \< *dvita*
+-   *dvitāya* ← *dvita*
 - \[noun\], dative, singular, masculine
 - “Dvita.”
 ------------------------------------------------------------------------
-- *mṛktavāhase* \< *mṛktavāhas*
+- *mṛktavāhase* ← *mṛktavāhas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *svasya* \< *sva*
+- *svasya* ← *sva*
 - \[noun\], genitive, singular, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”

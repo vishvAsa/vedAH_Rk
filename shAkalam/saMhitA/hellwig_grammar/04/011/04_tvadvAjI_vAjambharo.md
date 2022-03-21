@@ -2,84 +2,84 @@
 title = "Rig Veda 4.11.4"
 
 +++
--   *tvad* \< *tvat* \< *tvad*
+-   *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *vājambharo* \< *vājambharaḥ* \< *vājambhara*
+- *vājambharo* ← *vājambharaḥ* ← *vājambhara*
 - \[noun\], nominative, singular, masculine
 - “champion.”
 ------------------------------------------------------------------------
-- *vihāyā* \< *vihāyāḥ* \< *vihāyas*
+- *vihāyā* ← *vihāyāḥ* ← *vihāyas*
 - \[noun\], nominative, singular, masculine
 - “vigorous.”
 ------------------------------------------------------------------------
-- *abhiṣṭikṛj* \< *abhiṣṭi*
+- *abhiṣṭikṛj* ← *abhiṣṭi*
 - \[noun\], feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *abhiṣṭikṛj* \< *kṛt*
+- *abhiṣṭikṛj* ← *kṛt*
 - \[noun\], nominative, singular, masculine
 - “causing; making; performing; promotive; producing; doing; acting;
     writing; transforming; effecting.”
 ------------------------------------------------------------------------
-- *jāyate* \< *jan*
+- *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *satyaśuṣmaḥ* \< *satya*
+- *satyaśuṣmaḥ* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyaśuṣmaḥ* \< *śuṣmaḥ* \< *śuṣma*
+- *satyaśuṣmaḥ* ← *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *rayir* \< *rayiḥ* \< *rayi*
+- *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *devajūto* \< *deva*
+- *devajūto* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajūto* \< *jūtaḥ* \< *jū*
+- *devajūto* ← *jūtaḥ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *mayobhus* \< *mayobhuḥ* \< *mayobhu*
+- *mayobhus* ← *mayobhuḥ* ← *mayobhu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tvad*
+- *tvad* ← *tvat* ← *tvad*
 - \[noun\], ablative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *āśur* \< *āśuḥ* \< *āśu*
+- *āśur* ← *āśuḥ* ← *āśu*
 - \[noun\], nominative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *jūjuvāṃ* \< *jū*
+- *jūjuvāṃ* ← *jū*
 - \[verb noun\], nominative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------

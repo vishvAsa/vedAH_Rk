@@ -2,16 +2,16 @@
 title = "Rig Veda 10.45.2"
 
 +++
--   *vidmā* \< *vidma* \< *vid*
+-   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -21,46 +21,46 @@ title = "Rig Veda 10.45.2"
 - \[adverb\]
 - “threefold.”
 ------------------------------------------------------------------------
-- *trayāṇi* \< *traya*
+- *trayāṇi* ← *traya*
 - \[noun\], accusative, plural, neuter
 - “three; trio; saṃnipāta.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhāman*
+- *dhāma* ← *dhāman*
 - \[noun\], accusative, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *vibhṛtā* \< *vibhṛ* \< *√bhṛ*
+- *vibhṛtā* ← *vibhṛ* ← *√bhṛ*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *purutrā*
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *vidmā* \< *vidma* \< *vid*
+- *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], accusative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *paramaṃ* \< *paramam* \< *parama*
+- *paramaṃ* ← *paramam* ← *parama*
 - \[noun\], accusative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”

@@ -2,44 +2,44 @@
 title = "Rig Veda 10.47.4"
 
 +++
--   *sanadvājaṃ* \< *sanat* \< *san*
+-   *sanadvājaṃ* ← *sanat* ← *san*
 - \[verb noun\]
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *sanadvājaṃ* \< *vājam* \< *vāja*
+- *sanadvājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vipravīraṃ* \< *vipra*
+- *vipravīraṃ* ← *vipra*
 - \[noun\], masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *vipravīraṃ* \< *vīram* \< *vīra*
+- *vipravīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *tarutraṃ* \< *tarutram* \< *tarutra*
+- *tarutraṃ* ← *tarutram* ← *tarutra*
 - \[noun\], accusative, singular, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *dhanaspṛtaṃ* \< *dhana*
+- *dhanaspṛtaṃ* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanaspṛtaṃ* \< *spṛtam* \< *spṛt*
+- *dhanaspṛtaṃ* ← *spṛtam* ← *spṛt*
 - \[noun\], accusative, singular, masculine
 - “victorious; protecting.”
 ------------------------------------------------------------------------
-- *śūśuvāṃsaṃ* \< *śūśuvāṃsam* \< *śvi*
+- *śūśuvāṃsaṃ* ← *śūśuvāṃsam* ← *śvi*
 - \[verb noun\], accusative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *su*
+- *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *dakṣam* \< *dakṣa*
+- *sudakṣam* ← *dakṣam* \< *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------

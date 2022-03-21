@@ -2,7 +2,7 @@
 title = "Rig Veda 8.102.3"
 
 +++
--   *tvayā* \< *tvad*
+-   *tvayā* ← *tvad*
 - \[noun\], instrumental, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 8.102.3"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *codiṣṭhena* \< *codiṣṭha*
+- *codiṣṭhena* ← *codiṣṭha*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *yaviṣṭhya*
@@ -33,12 +33,12 @@ title = "Rig Veda 8.102.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ṣmo* \< *smaḥ* \< *as*
+- *ṣmo* ← *smaḥ* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 1.19.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *gopīthāya* \< *gopītha*
+- *gopīthāya* ← *gopītha*
 - \[noun\], dative, singular, masculine
 - “protection.”
 ------------------------------------------------------------------------
@@ -26,15 +26,15 @@ title = "Rig Veda 1.19.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hūyase* \< *hvā*
+- *hūyase* ← *hvā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *marudbhir* \< *marudbhiḥ* \< *marut*
+- *marudbhir* ← *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -44,7 +44,7 @@ title = "Rig Veda 1.19.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

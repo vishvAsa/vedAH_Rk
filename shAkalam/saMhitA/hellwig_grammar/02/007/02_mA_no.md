@@ -6,24 +6,24 @@ title = "Rig Veda 2.7.2"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arātir* \< *arātiḥ* \< *arāti*
+- *arātir* ← *arātiḥ* ← *arāti*
 - \[noun\], nominative, singular, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *martyasya* \< *martya*
+- *martyasya* ← *martya*
 - \[noun\], genitive, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 2.7.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *parṣi* \< *pṛ*
+- *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *tasyā* \< *tasyāḥ* \< *tad*
+- *tasyā* ← *tasyāḥ* ← *tad*
 - \[noun\], ablative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -45,7 +45,7 @@ title = "Rig Veda 2.7.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dviṣaḥ* \< *dviṣ*
+- *dviṣaḥ* ← *dviṣ*
 - \[noun\], ablative, singular, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------

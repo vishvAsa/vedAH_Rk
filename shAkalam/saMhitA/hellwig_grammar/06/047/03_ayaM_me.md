@@ -2,15 +2,15 @@
 title = "Rig Veda 6.47.3"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pīta* \< *pītaḥ* \< *pā*
+- *pīta* ← *pītaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -18,51 +18,51 @@ title = "Rig Veda 6.47.3"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *ayam* \< *idam*
+- *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *manīṣām* \< *manīṣā*
+- *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *uśatīm* \< *vaś*
+- *uśatīm* ← *vaś*
 - \[verb noun\], accusative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ajīgaḥ* \< *jāgṛ*
+- *ajīgaḥ* ← *jāgṛ*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “wake; watch; awaken; wake up; oversee.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṣaﾱ* \< *ṣaṣ*
+- *ṣaﾱ* ← *ṣaṣ*
 - \[noun\], accusative, singular, neuter
 - “six; ṣaṣ; sixth; ṣaṣ \[word\].”
 ------------------------------------------------------------------------
-- *urvīr* \< *urvīḥ* \< *urvī*
+- *urvīr* ← *urvīḥ* ← *urvī*
 - \[noun\], accusative, plural, feminine
 - “Earth; floor; land; heaven and earth; urvī; pṛthivī; kingdom.”
 ------------------------------------------------------------------------
-- *amimīta* \< *mā*
+- *amimīta* ← *mā*
 - \[verb\], singular, Imperfect
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *dhīro* \< *dhīraḥ* \< *dhīra*
+- *dhīro* ← *dhīraḥ* ← *dhīra*
 - \[noun\], nominative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
@@ -70,23 +70,23 @@ title = "Rig Veda 6.47.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yābhyo* \< *yābhyaḥ* \< *yad*
+- *yābhyo* ← *yābhyaḥ* ← *yad*
 - \[noun\], ablative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *bhuvanaṃ* \< *bhuvanam* \< *bhuvana*
+- *bhuvanaṃ* ← *bhuvanam* ← *bhuvana*
 - \[noun\], nominative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *kac* \< *kad* \< *ka*
+- *kac* ← *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *canāre* \< *cana*
+- *canāre* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāre* \< *āre* \< *ṛch*
+- *canāre* ← *āre* ← *ṛch*
 - \[verb\], singular, Perfect indicative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”

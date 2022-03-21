@@ -2,16 +2,16 @@
 title = "Rig Veda 1.7.3"
 
 +++
--   *indro* \< *indraḥ* \< *indra*
+-   *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dīrghāya* \< *dīrgha*
+- *dīrghāya* ← *dīrgha*
 - \[noun\], dative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *cakṣasa* \< *cakṣase* \< *cakṣas*
+- *cakṣasa* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -19,15 +19,15 @@ title = "Rig Veda 1.7.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *rohayad* \< *rohayat* \< *rohay* \< *√ruh*
+- *rohayad* ← *rohayat* ← *rohay* ← *√ruh*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 1.7.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *airayat* \< *īray* \< *√īr*
+- *airayat* ← *īray* ← *√īr*
 - \[verb\], singular, Imperfect
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”

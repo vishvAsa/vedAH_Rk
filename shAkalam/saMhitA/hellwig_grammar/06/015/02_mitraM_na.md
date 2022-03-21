@@ -2,7 +2,7 @@
 title = "Rig Veda 6.15.2"
 
 +++
--   *mitraṃ* \< *mitram* \< *mitra*
+-   *mitraṃ* ← *mitram* ← *mitra*
 - \[noun\], accusative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -10,59 +10,59 @@ title = "Rig Veda 6.15.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sudhitam* \< *sudhita*
+- *sudhitam* ← *sudhita*
 - \[noun\], accusative, singular, masculine
 - “sudhita \[word\].”
 ------------------------------------------------------------------------
-- *bhṛgavo* \< *bhṛgavaḥ* \< *bhṛgu*
+- *bhṛgavo* ← *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
-- *dadhur* \< *dadhuḥ* \< *dhā*
+- *dadhur* ← *dadhuḥ* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vanaspatāv* \< *vanaspatau* \< *vanaspati*
+- *vanaspatāv* ← *vanaspatau* ← *vanaspati*
 - \[noun\], locative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *īḍyam* \< *īḍ*
+- *īḍyam* ← *īḍ*
 - \[verb noun\], accusative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *ūrdhvaśociṣam* \< *ūrdhva*
+- *ūrdhvaśociṣam* ← *ūrdhva*
 - \[noun\]
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *ūrdhvaśociṣam* \< *śociṣam* \< *śocis*
+- *ūrdhvaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *suprīto* \< *su*
+- *suprīto* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprīto* \< *prītaḥ* \< *prī*
+- *suprīto* ← *prītaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *vītahavye* \< *vītahavya*
+- *vītahavye* ← *vītahavya*
 - \[noun\], locative, singular, masculine
 - “Vaitahavya.”
 ------------------------------------------------------------------------
@@ -70,19 +70,19 @@ title = "Rig Veda 6.15.2"
 - \[noun\], vocative, singular, masculine
 - “extraordinary; amazing; supernatural.”
 ------------------------------------------------------------------------
-- *praśastibhir* \< *praśastibhiḥ* \< *praśasti*
+- *praśastibhir* ← *praśastibhiḥ* ← *praśasti*
 - \[noun\], instrumental, plural, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------
-- *mahayase* \< *mahay* \< *√mah*
+- *mahayase* ← *mahay* ← *√mah*
 - \[verb\], singular, Present indikative
 - “glorify.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------

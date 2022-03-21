@@ -2,46 +2,46 @@
 title = "Rig Veda 3.51.3"
 
 +++
--   *ākare* \< *ākara*
+-   *ākare* ← *ākara*
 - \[noun\], locative, singular, masculine
 - “mine; group; aṅgārakoṣṭhī; source.”
 ------------------------------------------------------------------------
-- *vasor* \< *vasoḥ* \< *vasu*
+- *vasor* ← *vasoḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *jaritā* \< *jaritṛ*
+- *jaritā* ← *jaritṛ*
 - \[noun\], nominative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *panasyate* \< *panasy*
+- *panasyate* ← *panasy*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *'nehasa* \< *an*
+- *'nehasa* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *'nehasa* \< *ehasaḥ* \< *ehas*
+- *'nehasa* ← *ehasaḥ* ← *ehas*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *stubha* \< *stubhaḥ* \< *stubh*
+- *stubha* ← *stubhaḥ* ← *stubh*
 - \[noun\], accusative, plural, feminine
 - “song; praise.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *duvasyati* \< *duvasy*
+- *duvasyati* ← *duvasy*
 - \[verb\], singular, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *vivasvataḥ* \< *vivasvant*
+- *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
-- *sadana* \< *sadane* \< *sadana*
+- *sadana* ← *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
@@ -54,22 +54,22 @@ title = "Rig Veda 3.51.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pipriye* \< *prī*
+- *pipriye* ← *prī*
 - \[verb\], singular, Perfect indicative
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *satrāsāham* \< *satrāsāh*
+- *satrāsāham* ← *satrāsāh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *abhimātihanaṃ* \< *abhimāti*
+- *abhimātihanaṃ* ← *abhimāti*
 - \[noun\], feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *abhimātihanaṃ* \< *hanam* \< *han*
+- *abhimātihanaṃ* ← *hanam* ← *han*
 - \[noun\], accusative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------
-- *stuhi* \< *stu*
+- *stuhi* ← *stu*
 - \[verb\], singular, Present imperative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 7.104.2"
 
 +++
--   *indrāsomā* \< *indrāsoma*
+-   *indrāsomā* ← *indrāsoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Indra.”
 ------------------------------------------------------------------------
@@ -10,74 +10,74 @@ title = "Rig Veda 7.104.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *aghaśaṃsam* \< *agha*
+- *aghaśaṃsam* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *aghaśaṃsam* \< *śaṃsam* \< *śaṃsa*
+- *aghaśaṃsam* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aghaṃ* \< *agham* \< *agha*
+- *aghaṃ* ← *agham* ← *agha*
 - \[noun\], nominative, singular, neuter
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *tapur* \< *tapuḥ* \< *tapus*
+- *tapur* ← *tapuḥ* ← *tapus*
 - \[noun\], nominative, singular, neuter
 - “heat.”
 ------------------------------------------------------------------------
-- *yayastu* \< *yas*
+- *yayastu* ← *yas*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *carur* \< *caruḥ* \< *caru*
+- *carur* ← *caruḥ* ← *caru*
 - \[noun\], nominative, singular, masculine
 - “caru; pot; Caru.”
 ------------------------------------------------------------------------
-- *agnivāṃ* \< *agnivat*
+- *agnivāṃ* ← *agnivat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *brahma* \< *brahman*
+- *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *dviṣe* \< *dviṣ*
+- *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *kravyāde* \< *kravyād*
+- *kravyāde* ← *kravyād*
 - \[noun\], dative, singular, masculine
 - “carnivorous.”
 ------------------------------------------------------------------------
-- *ghoracakṣase* \< *ghora*
+- *ghoracakṣase* ← *ghora*
 - \[noun\]
 - “awful; dangerous; terrific; intense; dreadful.”
 ------------------------------------------------------------------------
-- *ghoracakṣase* \< *cakṣase* \< *cakṣas*
+- *ghoracakṣase* ← *cakṣase* ← *cakṣas*
 - \[noun\], dative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *dveṣo* \< *dveṣaḥ* \< *dveṣas*
+- *dveṣo* ← *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *dhattam* \< *dhā*
+- *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *anavāyaṃ* \< *anavāyam* \< *anavāya*
+- *anavāyaṃ* ← *anavāyam* ← *anavāya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *kimīdine* \< *kimīdin*
+- *kimīdine* ← *kimīdin*
 - \[noun\], dative, singular, masculine
 - “Kimīdin.”
 ------------------------------------------------------------------------

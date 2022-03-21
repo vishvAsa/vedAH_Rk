@@ -2,7 +2,7 @@
 title = "Rig Veda 3.29.13"
 
 +++
--   *ajījanann* \< *ajījanan* \< *jan*
+-   *ajījanann* ← *ajījanan* \< *jan*
 - \[verb\], plural, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

@@ -10,11 +10,11 @@ title = "Rig Veda 6.51.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyac* \< *tyad* \< *tya*
+- *tyac* ← *tyad* ← *tya*
 - \[noun\], nominative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *cakṣur* \< *cakṣuḥ* \< *cakṣus*
+- *cakṣur* ← *cakṣuḥ* ← *cakṣus*
 - \[noun\], nominative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -22,32 +22,32 @@ title = "Rig Veda 6.51.1"
 - \[noun\], nominative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *mitrayor* \< *mitrayoḥ* \< *mitra*
+- *mitrayor* ← *mitrayoḥ* ← *mitra*
 - \[noun\], genitive, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], nominative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *varuṇayor* \< *varuṇayoḥ* \< *varuṇa*
+- *varuṇayor* ← *varuṇayoḥ* ← *varuṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *adabdham* \< *adabdha*
+- *adabdham* ← *adabdha*
 - \[noun\], nominative, singular, neuter
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -56,15 +56,15 @@ title = "Rig Veda 6.51.1"
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *darśatam* \< *darśata*
+- *darśatam* ← *darśata*
 - \[noun\], nominative, singular, neuter
 - “beautiful; visible; beautiful.”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], nominative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *rukmo* \< *rukmaḥ* \< *rukma*
+- *rukmo* ← *rukmaḥ* ← *rukma*
 - \[noun\], nominative, singular, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -72,19 +72,19 @@ title = "Rig Veda 6.51.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *uditā* \< *uditi*
+- *uditā* ← *uditi*
 - \[noun\], locative, singular, feminine
 - “rise.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *adyaut* \< *dyut*
+- *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------

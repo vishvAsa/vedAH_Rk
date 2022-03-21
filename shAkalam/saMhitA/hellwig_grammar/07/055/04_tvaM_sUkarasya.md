@@ -2,40 +2,40 @@
 title = "Rig Veda 7.55.4"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūkarasya* \< *sūkara*
+- *sūkarasya* ← *sūkara*
 - \[noun\], genitive, singular, masculine
 - “hog; wild boar; boar; Sūkara.”
 ------------------------------------------------------------------------
-- *dardṛhi* \< *dardar* \< *√dṛ*
+- *dardṛhi* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present imperative
 - “cleave.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dardartu* \< *dardar* \< *√dṛ*
+- *dardartu* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present imperative
 - “cleave.”
 ------------------------------------------------------------------------
-- *sūkaraḥ* \< *sūkara*
+- *sūkaraḥ* ← *sūkara*
 - \[noun\], nominative, singular, masculine
 - “hog; wild boar; boar; Sūkara.”
 ------------------------------------------------------------------------
-- *stotṝn* \< *stotṛ*
+- *stotṝn* ← *stotṛ*
 - \[noun\], accusative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rāyasi* \< *rā*
+- *rāyasi* ← *rā*
 - \[verb\], singular, Present indikative
 - “bark.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 7.55.4"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ducchunāyase* \< *duchunāy*
+- *ducchunāyase* ← *duchunāy*
 - \[verb\], singular, Present indikative
 - “threaten.”
 ------------------------------------------------------------------------
@@ -55,11 +55,11 @@ title = "Rig Veda 7.55.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapa* \< *svap*
+- *svapa* ← *svap*
 - \[verb\], singular, Present imperative
 - “sleep; numb; fall asleep.”
 ------------------------------------------------------------------------

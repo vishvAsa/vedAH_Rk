@@ -2,26 +2,26 @@
 title = "Rig Veda 3.51.9"
 
 +++
--   *aptūrye* \< *aptūrya*
+-   *aptūrye* ← *aptūrya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *maruta* \< *marutaḥ* \< *marut*
+- *maruta* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *āpir* \< *āpiḥ* \< *āpi*
+- *āpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *eṣo* \< *eṣaḥ* \< *etad*
+- *eṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *'mandann* \< *amandan* \< *mad*
+- *'mandann* ← *amandan* ← *mad*
 - \[verb\], plural, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -30,14 +30,14 @@ title = "Rig Veda 3.51.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dātivārāḥ* \< *dāti*
+- *dātivārāḥ* ← *dāti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *dātivārāḥ* \< *vārāḥ* \< *vāra*
+- *dātivārāḥ* ← *vārāḥ* ← *vāra*
 - \[noun\], nominative, plural, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *tebhiḥ* \< *tad*
+- *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -47,36 +47,36 @@ title = "Rig Veda 3.51.9"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *pibatu* \< *pā*
+- *pibatu* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vṛtrakhādaḥ* \< *vṛtra*
+- *vṛtrakhādaḥ* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrakhādaḥ* \< *khādaḥ* \< *khāda*
+- *vṛtrakhādaḥ* ← *khādaḥ* ← *khāda*
 - \[noun\], nominative, singular, masculine
 - “eating.”
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somaṃ* \< *somam* \< *soma*
+- *somaṃ* ← *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *dāśuṣaḥ* \< *dāś*
+- *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *sve* \< *sva*
+- *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *sadhasthe* \< *sadhastha*
+- *sadhasthe* ← *sadhastha*
 - \[noun\], locative, singular, neuter
 - “dwelling; location; home.”
 ------------------------------------------------------------------------

@@ -2,42 +2,42 @@
 title = "Rig Veda 10.76.6"
 
 +++
--   *bhurantu* \< *bhur*
+-   *bhurantu* ← *bhur*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yaśasaḥ* \< *yaśas*
+- *yaśasaḥ* ← *yaśas*
 - \[noun\], genitive, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *sotv* \< *sotu* \< *su*
+- *sotv* ← *sotu* ← *su*
 - \[verb\], singular, Aorist imperative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *andhaso* \< *andhasaḥ* \< *andhas*
+- *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *grāvāṇo* \< *grāvāṇaḥ* \< *grāvan*
+- *grāvāṇo* ← *grāvāṇaḥ* ← *grāvan*
 - \[noun\], nominative, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *vācā* \< *vāc*
+- *vācā* ← *vāc*
 - \[noun\], instrumental, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *divitā* \< *divit*
+- *divitā* ← *divit*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *divitmatā* \< *divitmat*
+- *divitmatā* ← *divitmat*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -45,25 +45,25 @@ title = "Rig Veda 10.76.6"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *duhate* \< *duh*
+- *duhate* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *kāmyam* \< *kāmya*
+- *kāmyam* ← *kāmya*
 - \[noun\], accusative, singular, neuter
 - “desirable; optional; beautiful.”
 ------------------------------------------------------------------------
-- *madhv* \< *madhu*
+- *madhv* ← *madhu*
 - \[noun\], accusative, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *āghoṣayanto* \< *āghoṣayantaḥ* \< *āghoṣay* \< *√ghuṣ*
+- *āghoṣayanto* ← *āghoṣayantaḥ* ← *āghoṣay* ← *√ghuṣ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *abhito* \< *abhitas*
+- *abhito* ← *abhitas*
 - \[adverb\]
 - “about; around; regarding; about.”
 ------------------------------------------------------------------------
-- *mithasturaḥ* \< *mithastur*
+- *mithasturaḥ* ← *mithastur*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

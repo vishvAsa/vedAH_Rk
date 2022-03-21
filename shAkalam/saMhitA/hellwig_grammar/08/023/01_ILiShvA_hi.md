@@ -2,7 +2,7 @@
 title = "Rig Veda 8.23.1"
 
 +++
--   *īﾱiṣvā* \< *īḍiṣva* \< *īḍ*
+-   *īﾱiṣvā* ← *īḍiṣva* ← *īḍ*
 - \[verb\], singular, Present imperative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
@@ -10,31 +10,31 @@ title = "Rig Veda 8.23.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pratīvyaṃ* \< *pratīvyam* \< *pratīvī*
+- *pratīvyaṃ* ← *pratīvyam* ← *pratīvī*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *jātavedasam* \< *jātavedas*
+- *jātavedasam* ← *jātavedas*
 - \[noun\], accusative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *cariṣṇudhūmam* \< *cariṣṇu*
+- *cariṣṇudhūmam* ← *cariṣṇu*
 - \[noun\]
 - “mobile; moving.”
 ------------------------------------------------------------------------
-- *cariṣṇudhūmam* \< *dhūmam* \< *dhūma*
+- *cariṣṇudhūmam* ← *dhūmam* ← *dhūma*
 - \[noun\], accusative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣam* \< *a*
+- *agṛbhītaśociṣam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣam* \< *gṛbhīta* \< *grah*
+- *agṛbhītaśociṣam* ← *gṛbhīta* ← *grah*
 - \[verb noun\]
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -42,7 +42,7 @@ title = "Rig Veda 8.23.1"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *agṛbhītaśociṣam* \< *śociṣam* \< *śocis*
+- *agṛbhītaśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------

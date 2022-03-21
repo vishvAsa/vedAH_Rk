@@ -2,64 +2,64 @@
 title = "Rig Veda 5.58.2"
 
 +++
--   *tveṣaṃ* \< *tveṣam* \< *tveṣa*
+-   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *gaṇaṃ* \< *gaṇam* \< *gaṇa*
+- *gaṇaṃ* ← *gaṇam* ← *gaṇa*
 - \[noun\], accusative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *tavasaṃ* \< *tavasam* \< *tavas*
+- *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *khādihastaṃ* \< *khādi*
+- *khādihastaṃ* ← *khādi*
 - \[noun\], masculine
 - “ring.”
 ------------------------------------------------------------------------
-- *khādihastaṃ* \< *hastam* \< *hasta*
+- *khādihastaṃ* ← *hastam* ← *hasta*
 - \[noun\], accusative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *dhunivratam* \< *dhuni*
+- *dhunivratam* ← *dhuni*
 - \[noun\]
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *dhunivratam* \< *vratam* \< *vrata*
+- *dhunivratam* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *māyinaṃ* \< *māyinam* \< *māyin*
+- *māyinaṃ* ← *māyinam* ← *māyin*
 - \[noun\], accusative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *dātivāram* \< *dāti*
+- *dātivāram* ← *dāti*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *dātivāram* \< *vāram* \< *vāra*
+- *dātivāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *mayobhuvo* \< *mayobhuvaḥ* \< *mayobhu*
+- *mayobhuvo* ← *mayobhuvaḥ* ← *mayobhu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *amitā* \< *amitāḥ* \< *amita*
+- *amitā* ← *amitāḥ* ← *amita*
 - \[noun\], nominative, plural, masculine
 - “infinite; illimitable; countless.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *vandasva* \< *vand*
+- *vandasva* ← *vand*
 - \[verb\], singular, Present imperative
 - “worship; laud.”
 ------------------------------------------------------------------------
@@ -67,15 +67,15 @@ title = "Rig Veda 5.58.2"
 - \[noun\], vocative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *tuvirādhaso* \< *tuvi*
+- *tuvirādhaso* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvirādhaso* \< *rādhasaḥ* \< *rādhas*
+- *tuvirādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], accusative, plural, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

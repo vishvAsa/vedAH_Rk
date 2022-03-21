@@ -2,7 +2,7 @@
 title = "Rig Veda 5.69.2"
 
 +++
--   *irāvatīr* \< *irāvatīḥ* \< *irāvat*
+-   *irāvatīr* ← *irāvatīḥ* ← *irāvat*
 - \[noun\], nominative, plural, feminine
 - “enjoyable.”
 ------------------------------------------------------------------------
@@ -11,23 +11,23 @@ title = "Rig Veda 5.69.2"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *dhenavo* \< *dhenavaḥ* \< *dhenu*
+- *dhenavo* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhumad* \< *madhumat*
+- *madhumad* ← *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -35,40 +35,40 @@ title = "Rig Veda 5.69.2"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *duhre* \< *duh*
+- *duhre* ← *duh*
 - \[verb\], plural, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *trayas* \< *trayaḥ* \< *tri*
+- *trayas* ← *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tasthur* \< *tasthuḥ* \< *sthā*
+- *tasthur* ← *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *vṛṣabhāsas* \< *vṛṣabhāsaḥ* \< *vṛṣabha*
+- *vṛṣabhāsas* ← *vṛṣabhāsaḥ* ← *vṛṣabha*
 - \[noun\], nominative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *tisṛṇāṃ* \< *tisṛṇām* \< *tri*
+- *tisṛṇāṃ* ← *tisṛṇām* ← *tri*
 - \[noun\], genitive, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *dhiṣaṇānāṃ* \< *dhiṣaṇānām* \< *dhiṣaṇā*
+- *dhiṣaṇānāṃ* ← *dhiṣaṇānām* ← *dhiṣaṇā*
 - \[noun\], genitive, plural, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *retodhā* \< *retodhāḥ* \< *retodhā*
+- *retodhā* ← *retodhāḥ* ← *retodhā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dyumantaḥ* \< *dyumat*
+- *dyumantaḥ* ← *dyumat*
 - \[noun\], nominative, plural, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------

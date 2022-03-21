@@ -2,11 +2,11 @@
 title = "Rig Veda 10.45.9"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 10.45.9"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇavad* \< *kṛṇavat* \< *kṛ*
+- *kṛṇavad* ← *kṛṇavat* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,16 +25,16 @@ title = "Rig Veda 10.45.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *bhadraśoce* \< *bhadra*
+- *bhadraśoce* ← *bhadra*
 - \[noun\]
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bhadraśoce* \< *śoce* \< *śoci*
+- *bhadraśoce* ← *śoce* ← *śoci*
 - \[noun\], vocative, singular, masculine
 - “fire.”
 ------------------------------------------------------------------------
-- *'pūpaṃ* \< *apūpam* \< *apūpa*
+- *'pūpaṃ* ← *apūpam* ← *apūpa*
 - \[noun\], accusative, singular, masculine
 - “Apūpa; apūpa \[word\]; wheat.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 10.45.9"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ghṛtavantam* \< *ghṛtavat*
+- *ghṛtavantam* ← *ghṛtavat*
 - \[noun\], accusative, singular, masculine
 - “buttery.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -57,7 +57,7 @@ title = "Rig Veda 10.45.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* \< *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

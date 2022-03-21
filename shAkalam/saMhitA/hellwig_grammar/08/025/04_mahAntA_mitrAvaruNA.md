@@ -2,34 +2,34 @@
 title = "Rig Veda 8.25.4"
 
 +++
--   *mahāntā* \< *mahat*
+-   *mahāntā* ← *mahat*
 - \[noun\], nominative, dual, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], nominative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *samrājā* \< *samrāj*
+- *samrājā* ← *samrāj*
 - \[noun\], nominative, dual, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *devāv* \< *devau* \< *deva*
+- *devāv* ← *devau* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *asurā* \< *asura*
+- *asurā* ← *asura*
 - \[noun\], nominative, dual, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *ṛtāvānāv* \< *ṛtāvānau* \< *ṛtāvan*
+- *ṛtāvānāv* ← *ṛtāvānau* ← *ṛtāvan*
 - \[noun\], nominative, dual, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 8.25.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ghoṣato* \< *ghoṣataḥ* \< *ghuṣ*
+- *ghoṣato* ← *ghoṣataḥ* ← *ghuṣ*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------
 - *bṛhat*

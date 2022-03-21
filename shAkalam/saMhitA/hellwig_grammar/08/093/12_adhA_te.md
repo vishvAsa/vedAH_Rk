@@ -2,15 +2,15 @@
 title = "Rig Veda 8.93.12"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *apratiṣkutaṃ* \< *apratiṣkutam* \< *apratiṣkuta*
+- *apratiṣkutaṃ* ← *apratiṣkutam* ← *apratiṣkuta*
 - \[noun\], accusative, singular, masculine
 - “unhampered; unrestrained; unchallenged.”
 ------------------------------------------------------------------------
@@ -18,23 +18,23 @@ title = "Rig Veda 8.93.12"
 - \[noun\], nominative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *śuṣmaṃ* \< *śuṣmam* \< *śuṣma*
+- *śuṣmaṃ* ← *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *saparyataḥ* \< *sapary*
+- *saparyataḥ* ← *sapary*
 - \[verb\], dual, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *suśipra* \< *su*
+- *suśipra* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipra* \< *śipra* \< *śiprā*
+- *suśipra* ← *śipra* ← *śiprā*
 - \[noun\], vocative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------

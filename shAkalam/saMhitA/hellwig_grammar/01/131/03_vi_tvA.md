@@ -6,39 +6,39 @@ title = "Rig Veda 1.131.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tatasre* \< *taṃs*
+- *tatasre* ← *taṃs*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *mithunā* \< *mithunāḥ* \< *mithuna*
+- *mithunā* ← *mithunāḥ* ← *mithuna*
 - \[noun\], nominative, plural, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *avasyavo* \< *avasyavaḥ* \< *avasyu*
+- *avasyavo* ← *avasyavaḥ* ← *avasyu*
 - \[noun\], nominative, plural, masculine
 - “seeking protection; helpless.”
 ------------------------------------------------------------------------
-- *vrajasya* \< *vraja*
+- *vrajasya* ← *vraja*
 - \[noun\], genitive, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *sātā* \< *sāti*
+- *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *gavyasya* \< *gavya*
+- *gavyasya* ← *gavya*
 - \[noun\], genitive, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
-- *niḥsṛjaḥ* \< *niḥsṛj* \< *√sṛj*
+- *niḥsṛjaḥ* ← *niḥsṛj* ← *√sṛj*
 - \[verb noun\]
 - “remove.”
 ------------------------------------------------------------------------
-- *sakṣanta* \< *sakṣantaḥ* \< *sah*
+- *sakṣanta* ← *sakṣantaḥ* ← *sah*
 - \[verb noun\], nominative, plural
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
@@ -47,22 +47,22 @@ title = "Rig Veda 1.131.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *niḥsṛjaḥ* \< *niḥsṛj* \< *√sṛj*
+- *niḥsṛjaḥ* ← *niḥsṛj* ← *√sṛj*
 - \[verb noun\]
 - “remove.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *gavyantā* \< *gavyat*
+- *gavyantā* ← *gavyat*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *janā* \< *jana*
+- *janā* ← *jana*
 - \[noun\], accusative, dual, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -71,31 +71,31 @@ title = "Rig Veda 1.131.3"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *yantā* \< *i*
+- *yantā* ← *i*
 - \[verb noun\], accusative, dual
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *samūhasi* \< *samūh* \< *√ūh*
+- *samūhasi* ← *samūh* ← *√ūh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *āviṣ* \< *āvis*
+- *āviṣ* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *karikrad* \< *karikrat* \< *karikṛ* \< *√kṛ*
+- *karikrad* ← *karikrat* ← *karikṛ* ← *√kṛ*
 - \[verb noun\], nominative, singular
 - “produce.”
 ------------------------------------------------------------------------
-- *vṛṣaṇaṃ* \< *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇaṃ* ← *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bullocky; potent; powerful; strong; manly; aroused; potent;
     much(a); male; large.”
 ------------------------------------------------------------------------
-- *sacābhuvaṃ* \< *sacābhuvam* \< *sacābhū*
+- *sacābhuvaṃ* ← *sacābhuvam* ← *sacābhū*
 - \[noun\], accusative, singular, masculine
 - “ally.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
@@ -105,7 +105,7 @@ title = "Rig Veda 1.131.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sacābhuvam* \< *sacābhū*
+- *sacābhuvam* ← *sacābhū*
 - \[noun\], accusative, singular, masculine
 - “ally.”
 ------------------------------------------------------------------------

@@ -6,35 +6,35 @@ title = "Rig Veda 1.33.5"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *cicchīrṣā* \< *cit*
+- *cicchīrṣā* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *cicchīrṣā* \< *śīrṣā* \< *śīrṣa*
+- *cicchīrṣā* ← *śīrṣā* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
 ------------------------------------------------------------------------
-- *vavṛjus* \< *vavṛjuḥ* \< *vṛj*
+- *vavṛjus* ← *vavṛjuḥ* ← *vṛj*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *indrāyajvāno* \< *indra*
+- *indrāyajvāno* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyajvāno* \< *ayajvānaḥ* \< *ayajvan*
+- *indrāyajvāno* ← *ayajvānaḥ* ← *ayajvan*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yajvabhi* \< *yajvan*
+- *yajvabhi* ← *yajvan*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *spardhamānāḥ* \< *spṛdh*
+- *spardhamānāḥ* ← *spṛdh*
 - \[verb noun\], nominative, plural
 - “rival.”
 ------------------------------------------------------------------------
@@ -42,18 +42,18 @@ title = "Rig Veda 1.33.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *hariva* \< *harivat*
+- *hariva* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *sthātar* \< *sthātṛ*
+- *sthātar* ← *sthātṛ*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *ugra*
@@ -61,19 +61,19 @@ title = "Rig Veda 1.33.5"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *avratāṃ* \< *avrata*
+- *avratāṃ* ← *avrata*
 - \[noun\], accusative, plural, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------
-- *adhamo* \< *adhamaḥ* \< *dham*
+- *adhamo* ← *adhamaḥ* ← *dham*
 - \[verb\], singular, Imperfect
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *rodasyoḥ* \< *rodasī*
+- *rodasyoḥ* ← *rodasī*
 - \[noun\], locative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

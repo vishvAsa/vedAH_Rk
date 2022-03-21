@@ -2,22 +2,22 @@
 title = "Rig Veda 6.61.2"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śuṣmebhir* \< *śuṣmebhiḥ* \< *śuṣma*
+- *śuṣmebhir* ← *śuṣmebhiḥ* ← *śuṣma*
 - \[noun\], instrumental, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *bisakhā* \< *bisakhāḥ* \< *bisakhā*
+- *bisakhā* ← *bisakhāḥ* ← *bisakhā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ivārujat* \< *iva*
+- *ivārujat* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivārujat* \< *arujat* \< *ruj*
+- *ivārujat* ← *arujat* ← *ruj*
 - \[verb\], singular, Imperfect
 - “break; bend.”
 ------------------------------------------------------------------------
@@ -25,34 +25,34 @@ title = "Rig Veda 6.61.2"
 - \[noun\], accusative, singular, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *girīṇāṃ* \< *girīṇām* \< *giri*
+- *girīṇāṃ* ← *girīṇām* ← *giri*
 - \[noun\], genitive, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *taviṣebhir* \< *taviṣebhiḥ* \< *taviṣa*
+- *taviṣebhir* ← *taviṣebhiḥ* ← *taviṣa*
 - \[noun\], instrumental, plural, masculine
 - “strong.”
 ------------------------------------------------------------------------
-- *ūrmibhiḥ* \< *ūrmi*
+- *ūrmibhiḥ* ← *ūrmi*
 - \[noun\], instrumental, plural, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
-- *pārāvataghnīm* \< *pārāvata*
+- *pārāvataghnīm* ← *pārāvata*
 - \[noun\]
 ------------------------------------------------------------------------
-- *pārāvataghnīm* \< *ghnīm* \< *ghna*
+- *pārāvataghnīm* ← *ghnīm* ← *ghna*
 - \[noun\], accusative, singular, feminine
 - “curative; removing; killing; destroying; māraka; multiplied.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *sarasvatīm* \< *sarasvatī*
+- *sarasvatīm* ← *sarasvatī*
 - \[noun\], accusative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
@@ -61,11 +61,11 @@ title = "Rig Veda 6.61.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsema* \< *vivās* \< *√van*
+- *vivāsema* ← *vivās* ← *√van*
 - \[verb\], plural, Present optative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------

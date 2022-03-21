@@ -2,28 +2,28 @@
 title = "Rig Veda 5.65.6"
 
 +++
--   *yuvam* \< *tvad*
+-   *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitremaṃ* \< *mitrā* \< *mitra*
+- *mitremaṃ* ← *mitrā* ← *mitra*
 - \[noun\], vocative, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitremaṃ* \< *imam* \< *idam*
+- *mitremaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *janaṃ* \< *janam* \< *jana*
+- *janaṃ* ← *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yatathaḥ* \< *yat*
+- *yatathaḥ* ← *yat*
 - \[verb\], dual, Present indikative
 - “strive; endeavor; join; equal; rival.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 5.65.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nayathaḥ* \< *nī*
+- *nayathaḥ* ← *nī*
 - \[verb\], dual, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
@@ -40,7 +40,7 @@ title = "Rig Veda 5.65.6"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], genitive, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -48,35 +48,35 @@ title = "Rig Veda 5.65.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *khyatam* \< *khyā*
+- *khyatam* ← *khyā*
 - \[verb\], dual, Aorist imperative
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *mo* \< *mā*
+- *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asmākam* \< *mad*
+- *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛṣīṇāṃ* \< *ṛṣīṇām* \< *ṛṣi*
+- *ṛṣīṇāṃ* ← *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *gopīthe* \< *gopītha*
+- *gopīthe* ← *gopītha*
 - \[noun\], locative, singular, masculine
 - “protection.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uruṣyatam* \< *uruṣy*
+- *uruṣyatam* ← *uruṣy*
 - \[verb\], dual, Present imperative
 - “protect; help.”
 ------------------------------------------------------------------------

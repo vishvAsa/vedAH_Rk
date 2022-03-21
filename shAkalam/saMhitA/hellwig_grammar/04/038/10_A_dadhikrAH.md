@@ -6,23 +6,23 @@ title = "Rig Veda 4.38.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadhikrāḥ* \< *dadhikrā*
+- *dadhikrāḥ* ← *dadhikrā*
 - \[noun\], nominative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *sūrya* \< *sūryaḥ* \< *sūrya*
+- *sūrya* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -31,49 +31,49 @@ title = "Rig Veda 4.38.10"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jyotiṣāpas* \< *jyotiṣā* \< *jyotis*
+- *jyotiṣāpas* ← *jyotiṣā* ← *jyotis*
 - \[noun\], instrumental, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *jyotiṣāpas* \< *apaḥ* \< *ap*
+- *jyotiṣāpas* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *tatāna* \< *tan*
+- *tatāna* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sahasra*
+- *sahasrasāḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sāḥ* \< *sā*
+- *sahasrasāḥ* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *śatasā* \< *śata*
+- *śatasā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatasā* \< *sāḥ* \< *sā*
+- *śatasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *vājy* \< *vājī* \< *vājin*
+- *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *pṛṇaktu* \< *pṛc*
+- *pṛṇaktu* ← *pṛc*
 - \[verb\], singular, Present imperative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -81,11 +81,11 @@ title = "Rig Veda 4.38.10"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *imā* \< *idam*
+- *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vacāṃsi* \< *vacas*
+- *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------

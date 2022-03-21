@@ -2,38 +2,38 @@
 title = "Rig Veda 5.30.14"
 
 +++
--   *aucchat* \< *vas*
+-   *aucchat* ← *vas*
 - \[verb\], singular, Imperfect
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rātrī* \< *rātri*
+- *rātrī* ← *rātri*
 - \[noun\], nominative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *paritakmyā* \< *paritakmya*
+- *paritakmyā* ← *paritakmya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *yāṃ* \< *yām* \< *yad*
+- *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛṇañcaye* \< *ṛṇaṃcaya*
+- *ṛṇañcaye* ← *ṛṇaṃcaya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *rājani* \< *rājan*
+- *rājani* ← *rājan*
 - \[noun\], locative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *ruśamānām* \< *ruśamā*
+- *ruśamānām* ← *ruśamā*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -41,32 +41,32 @@ title = "Rig Veda 5.30.14"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *raghur* \< *raghuḥ* \< *raghu*
+- *raghur* ← *raghuḥ* ← *raghu*
 - \[noun\], nominative, singular, masculine
 - “low; fast.”
 ------------------------------------------------------------------------
-- *ajyamāno* \< *ajyamānaḥ* \< *añj*
+- *ajyamāno* ← *ajyamānaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *babhruś* \< *babhruḥ* \< *babhru*
+- *babhruś* ← *babhruḥ* ← *babhru*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; babhru \[word\]; Babhru; Babhru; water clover; Shiva;
     ichneumon.”
 ------------------------------------------------------------------------
-- *catvāry* \< *catvāri* \< *catur*
+- *catvāry* ← *catvāri* ← *catur*
 - \[noun\], accusative, plural, neuter
 - “four; catur \[word\].”
 ------------------------------------------------------------------------
-- *asanat* \< *san*
+- *asanat* ← *san*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------

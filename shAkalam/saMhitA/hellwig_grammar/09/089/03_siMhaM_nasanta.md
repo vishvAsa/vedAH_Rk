@@ -2,70 +2,70 @@
 title = "Rig Veda 9.89.3"
 
 +++
--   *siṃhaṃ* \< *siṃham* \< *siṃha*
+-   *siṃhaṃ* ← *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
-- *nasanta* \< *nas*
+- *nasanta* ← *nas*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *madhvo* \< *madhvaḥ* \< *madhu*
+- *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], nominative, plural, feminine
 - “sweet; deft.”
 ------------------------------------------------------------------------
-- *ayāsaṃ* \< *ayāsam* \< *ayās*
+- *ayāsaṃ* ← *ayāsam* ← *ayās*
 - \[noun\], accusative, singular, masculine
 - “undaunted; irrepressible; audacious.”
 ------------------------------------------------------------------------
-- *harim* \< *hari*
+- *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *aruṣaṃ* \< *aruṣam* \< *aruṣa*
+- *aruṣaṃ* ← *aruṣam* ← *aruṣa*
 - \[noun\], accusative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *śūro* \< *śūraḥ* \< *śūra*
+- *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *yutsu* \< *yudh*
+- *yutsu* ← *yudh*
 - \[noun\], locative, plural
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *prathamaḥ* \< *prathama*
+- *prathamaḥ* ← *prathama*
 - \[noun\], nominative, singular, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *pṛcchate* \< *pracch*
+- *pṛcchate* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cakṣasā* \< *cakṣas*
+- *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 9.89.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pāty* \< *pāti* \< *pā*
+- *pāty* ← *pāti* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *ukṣā* \< *ukṣan*
+- *ukṣā* ← *ukṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; ukṣan \[word\].”
 ------------------------------------------------------------------------

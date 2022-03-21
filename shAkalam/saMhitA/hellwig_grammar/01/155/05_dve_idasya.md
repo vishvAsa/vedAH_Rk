@@ -2,7 +2,7 @@
 title = "Rig Veda 1.155.5"
 
 +++
--   *dve* \< *dvi*
+-   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
@@ -10,38 +10,38 @@ title = "Rig Veda 1.155.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kramaṇe* \< *kramaṇa*
+- *kramaṇe* ← *kramaṇa*
 - \[noun\], accusative, dual, neuter
 - “kram; behavior; step.”
 ------------------------------------------------------------------------
-- *svardṛśo* \< *svar*
+- *svardṛśo* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svardṛśo* \< *dṛśaḥ* \< *dṛś*
+- *svardṛśo* ← *dṛśaḥ* ← *dṛś*
 - \[noun\], genitive, singular, masculine
 - “eye; dṛś; dṛś \[word\]; sight; evil eye.”
 ------------------------------------------------------------------------
-- *'bhikhyāya* \< *abhikhyāya* \< *abhikhyā* \< *√khyā*
+- *'bhikhyāya* ← *abhikhyāya* ← *abhikhyā* ← *√khyā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *martyo* \< *martyaḥ* \< *martya*
+- *martyo* ← *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *bhuraṇyati* \< *bhuraṇy*
+- *bhuraṇyati* ← *bhuraṇy*
 - \[verb\], singular, Present indikative
 - “be active.”
 ------------------------------------------------------------------------
-- *tṛtīyam* \< *tṛtīya*
+- *tṛtīyam* ← *tṛtīya*
 - \[noun\], accusative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 1.155.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadharṣati* \< *dhṛṣ*
+- *dadharṣati* ← *dhṛṣ*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *vayaś* \< *vayaḥ* \< *vi*
+- *vayaś* ← *vayaḥ* ← *vi*
 - \[noun\], nominative, plural, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 1.155.5"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *patayantaḥ* \< *patay* \< *√pat*
+- *patayantaḥ* ← *patay* ← *√pat*
 - \[verb noun\], nominative, plural
 - “fly.”
 ------------------------------------------------------------------------
-- *patatriṇaḥ* \< *patatrin*
+- *patatriṇaḥ* ← *patatrin*
 - \[noun\], nominative, plural, masculine
 - “flying; winged.”
 ------------------------------------------------------------------------

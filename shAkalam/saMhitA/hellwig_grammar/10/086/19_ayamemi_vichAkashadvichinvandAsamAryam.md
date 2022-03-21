@@ -2,48 +2,48 @@
 title = "Rig Veda 10.86.19"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *emi* \< *i*
+- *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *vicākaśad* \< *vicākaśat*
+- *vicākaśad* ← *vicākaśat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vicinvan* \< *vici* \< *√ci*
+- *vicinvan* ← *vici* ← *√ci*
 - \[verb noun\], nominative, singular
 - “search; search; examine; comb; search.”
 ------------------------------------------------------------------------
-- *dāsam* \< *dāsa*
+- *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *āryam* \< *ārya*
+- *āryam* ← *ārya*
 - \[noun\], accusative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *pibāmi* \< *pā*
+- *pibāmi* ← *pā*
 - \[verb\], singular, Present indikative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *pākasutvano* \< *pākasutvanaḥ* \< *pākasutvan*
+- *pākasutvano* ← *pākasutvanaḥ* ← *pākasutvan*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *'bhi* \< *abhi*
+- *'bhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dhīram* \< *dhīra*
+- *dhīram* ← *dhīra*
 - \[noun\], accusative, singular, masculine
 - “expert; wise; intelligent; versed; adept.”
 ------------------------------------------------------------------------
-- *acākaśaṃ* \< *acākaśam* \< *cākaś* \< *√kāś*
+- *acākaśaṃ* ← *acākaśam* ← *cākaś* ← *√kāś*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”

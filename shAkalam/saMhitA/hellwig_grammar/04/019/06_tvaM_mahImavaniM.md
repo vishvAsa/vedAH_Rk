@@ -2,58 +2,58 @@
 title = "Rig Veda 4.19.6"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *avaniṃ* \< *avanim* \< *avani*
+- *avaniṃ* ← *avanim* ← *avani*
 - \[noun\], accusative, singular, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *viśvadhenāṃ* \< *viśvadhenām* \< *viśvadhena*
+- *viśvadhenāṃ* ← *viśvadhenām* ← *viśvadhena*
 - \[noun\], accusative, singular, feminine
 - “alimentary.”
 ------------------------------------------------------------------------
-- *turvītaye* \< *turvīti*
+- *turvītaye* ← *turvīti*
 - \[noun\], dative, singular, masculine
 - “Turvīti.”
 ------------------------------------------------------------------------
-- *vayyāya* \< *vayya*
+- *vayyāya* ← *vayya*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣarantīm* \< *kṣar*
+- *kṣarantīm* ← *kṣar*
 - \[verb noun\], accusative, singular
 - “run; melt.”
 ------------------------------------------------------------------------
-- *aramayo* \< *aramayaḥ* \< *ramay* \< *√ram*
+- *aramayo* ← *aramayaḥ* ← *ramay* ← *√ram*
 - \[verb\], singular, Imperfect
 - “love; please; gladden; dam.”
 ------------------------------------------------------------------------
-- *namasaijad* \< *namasā* \< *namas*
+- *namasaijad* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namasaijad* \< *ejat* \< *ej*
+- *namasaijad* ← *ejat* ← *ej*
 - \[verb noun\], accusative, singular
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *arṇaḥ* \< *arṇas*
+- *arṇaḥ* ← *arṇas*
 - \[noun\], accusative, singular, neuter
 - “body of water; water.”
 ------------------------------------------------------------------------
-- *sutaraṇāṃ* \< *su*
+- *sutaraṇāṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutaraṇāṃ* \< *taraṇāṃ* \< *taraṇa*
+- *sutaraṇāṃ* ← *taraṇāṃ* ← *taraṇa*
 - \[noun\], accusative, plural, masculine
 - “floating.”
 ------------------------------------------------------------------------
-- *akṛṇor* \< *akṛṇoḥ* \< *kṛ*
+- *akṛṇor* ← *akṛṇoḥ* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -69,7 +69,7 @@ title = "Rig Veda 4.19.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sindhūn* \< *sindhu*
+- *sindhūn* ← *sindhu*
 - \[noun\], accusative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------

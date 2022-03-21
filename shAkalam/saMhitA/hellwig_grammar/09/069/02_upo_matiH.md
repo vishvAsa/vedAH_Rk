@@ -2,24 +2,24 @@
 title = "Rig Veda 9.69.2"
 
 +++
--   *upo* \< *upa*
+-   *upo* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upo* \< *u*
+- *upo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *matiḥ* \< *mati*
+- *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *pṛcyate* \< *pṛc*
+- *pṛcyate* ← *pṛc*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *sicyate* \< *sic*
+- *sicyate* ← *sic*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 9.69.2"
 - *mandrājanī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *codate* \< *cud*
+- *codate* ← *cud*
 - \[verb\], singular, Present indikative
 - “urge; rush.”
 ------------------------------------------------------------------------
@@ -38,18 +38,18 @@ title = "Rig Veda 9.69.2"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *āsani* \< *āsan*
+- *āsani* ← *āsan*
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *pavamānaḥ* \< *pū*
+- *pavamānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *saṃtaniḥ* \< *saṃtani*
+- *saṃtaniḥ* ← *saṃtani*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *praghnatām* \< *prahan* \< *√han*
+- *praghnatām* ← *prahan* ← *√han*
 - \[verb noun\], genitive, plural
 - “destroy.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 9.69.2"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *madhumān* \< *madhumat*
+- *madhumān* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *drapsaḥ* \< *drapsa*
+- *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 9.69.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------

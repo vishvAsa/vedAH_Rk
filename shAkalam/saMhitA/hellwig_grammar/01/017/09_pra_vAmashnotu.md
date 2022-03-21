@@ -6,15 +6,15 @@ title = "Rig Veda 1.17.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *aśnotu* \< *aś*
+- *aśnotu* ← *aś*
 - \[verb\], singular, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *suṣṭutir* \< *suṣṭutiḥ* \< *suṣṭuti*
+- *suṣṭutir* ← *suṣṭutiḥ* ← *suṣṭuti*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 1.17.9"
 - \[noun\], vocative, singular, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
-- *yāṃ* \< *yām* \< *yad*
+- *yāṃ* ← *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yām* \< *yad*
+- *yām* ← *yad*
 - \[noun\], accusative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛdhāthe* \< *ṛdh*
+- *ṛdhāthe* ← *ṛdh*
 - \[verb\], dual, Aorist conj./subj.
 - “boom; stick to.”
 ------------------------------------------------------------------------
-- *sadhastutim* \< *sadhastuti*
+- *sadhastutim* ← *sadhastuti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

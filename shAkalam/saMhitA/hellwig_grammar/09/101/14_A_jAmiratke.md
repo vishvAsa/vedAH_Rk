@@ -6,7 +6,7 @@ title = "Rig Veda 9.101.14"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jāmir* \< *jāmiḥ* \< *jāmi*
+- *jāmir* ← *jāmiḥ* \< *jāmi*
 - \[noun\], nominative, singular, masculine
 - “related; ancestral; customary; usual.”
 ------------------------------------------------------------------------

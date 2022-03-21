@@ -6,27 +6,27 @@ title = "Rig Veda 9.61.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṇo* \< *naḥ* \< *mad*
+- *ṇo* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvavid* \< *aśva*
+- *aśvavid* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvavid* \< *vid*
+- *aśvavid* ← *vid*
 - \[noun\], nominative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *gomad* \< *gomat*
+- *gomad* ← *gomat*
 - \[noun\], accusative, singular, neuter
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -35,15 +35,15 @@ title = "Rig Veda 9.61.3"
 - \[noun\], accusative, singular, neuter
 - “possessing gold.”
 ------------------------------------------------------------------------
-- *kṣarā* \< *kṣara* \< *kṣar*
+- *kṣarā* ← *kṣara* ← *kṣar*
 - \[verb\], singular, Present imperative
 - “run; melt.”
 ------------------------------------------------------------------------
-- *sahasriṇīr* \< *sahasriṇīḥ* \< *sahasrin*
+- *sahasriṇīr* ← *sahasriṇīḥ* ← *sahasrin*
 - \[noun\], accusative, plural, feminine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *iṣaḥ* \< *iṣ*
+- *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------

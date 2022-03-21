@@ -6,19 +6,19 @@ title = "Rig Veda 4.30.23"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, neuter
 - “aindra.”
 ------------------------------------------------------------------------
-- *kariṣyā* \< *kariṣyāḥ* \< *kṛ*
+- *kariṣyā* ← *kariṣyāḥ* ← *kṛ*
 - \[verb\], singular, Conditional
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -34,19 +34,19 @@ title = "Rig Veda 4.30.23"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], accusative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *nakiṣ* \< *nakir*
+- *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭad* \< *tat* \< *tad*
+- *ṭad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -56,7 +56,7 @@ title = "Rig Veda 4.30.23"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *minat* \< *mī*
+- *minat* ← *mī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “transgress; damage.”
 ------------------------------------------------------------------------

@@ -2,41 +2,41 @@
 title = "Rig Veda 3.15.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *nṛ*
+- *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *vṛṣabhānu* \< *vṛṣabha*
+- *vṛṣabhānu* ← *vṛṣabha*
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vṛṣabhānu* \< *anu*
+- *vṛṣabhānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *pūrvīḥ* \< *puru*
+- *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *kṛṣṇāsv* \< *kṛṣṇāsu* \< *kṛṣṇa*
+- *kṛṣṇāsv* ← *kṛṣṇāsu* ← *kṛṣṇa*
 - \[noun\], locative, plural, feminine
 - “black; dark; dark; blue; black.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
@@ -44,15 +44,15 @@ title = "Rig Veda 3.15.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāhi* \< *bhā*
+- *bhāhi* ← *bhā*
 - \[verb\], singular, Present imperative
 - “look; shine; show; look like; glitter; reflect.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *neṣi* \< *nī*
+- *neṣi* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
@@ -61,23 +61,23 @@ title = "Rig Veda 3.15.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *parṣi* \< *pṛ*
+- *parṣi* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *cāty* \< *ca*
+- *cāty* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāty* \< *ati*
+- *cāty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *aṃhaḥ* \< *aṃhas*
+- *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *kṛdhī* \< *kṛ*
+- *kṛdhī* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -88,15 +88,15 @@ title = "Rig Veda 3.15.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *uśijo* \< *uśijaḥ* \< *uśij*
+- *uśijo* ← *uśijaḥ* ← *uśij*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *yaviṣṭha*

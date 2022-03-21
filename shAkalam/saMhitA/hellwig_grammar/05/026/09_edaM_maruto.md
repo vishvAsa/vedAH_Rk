@@ -2,11 +2,11 @@
 title = "Rig Veda 5.26.9"
 
 +++
--   *edam* \< *ā*
+-   *edam* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *edam* \< *idam*
+- *edam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

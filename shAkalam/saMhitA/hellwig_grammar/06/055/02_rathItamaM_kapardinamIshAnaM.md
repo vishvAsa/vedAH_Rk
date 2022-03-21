@@ -2,33 +2,33 @@
 title = "Rig Veda 6.55.2"
 
 +++
--   *rathītamaṃ* \< *rathītamam* \< *rathītama*
+-   *rathītamaṃ* ← *rathītamam* ← *rathītama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kapardinam* \< *kapardin*
+- *kapardinam* ← *kapardin*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *īśānaṃ* \< *īśānam* \< *īś*
+- *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *rādhaso* \< *rādhasaḥ* \< *rādhas*
+- *rādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], accusative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

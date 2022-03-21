@@ -2,11 +2,11 @@
 title = "Rig Veda 3.30.5"
 
 +++
--   *utābhaye* \< *uta*
+-   *utābhaye* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utābhaye* \< *abhaye* \< *abhaya*
+- *utābhaye* ← *abhaye* ← *abhaya*
 - \[noun\], locative, singular, neuter
 - “security; abhayamudrā; Abhaya.”
 ------------------------------------------------------------------------
@@ -14,41 +14,41 @@ title = "Rig Veda 3.30.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *śravobhir* \< *śravobhiḥ* \< *śravas*
+- *śravobhir* ← *śravobhiḥ* ← *śravas*
 - \[noun\], instrumental, plural, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *dṛḍham* \< *dṛḍha*
+- *dṛḍham* ← *dṛḍha*
 - \[noun\], accusative, singular, neuter
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *avado* \< *avadaḥ* \< *vad*
+- *avado* ← *avadaḥ* ← *vad*
 - \[verb\], singular, Imperfect
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *san* \< *as*
+- *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, dual, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -57,11 +57,11 @@ title = "Rig Veda 3.30.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *apāre* \< *apāra*
+- *apāre* ← *apāra*
 - \[noun\], nominative, dual, neuter
 - “boundless.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 3.30.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *saṃgṛbhṇā* \< *saṃgṛbhṇāḥ* \< *saṃgrah* \< *√grah*
+- *saṃgṛbhṇā* ← *saṃgṛbhṇāḥ* ← *saṃgrah* ← *√grah*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “take; pick; collect; sum up; reign; harness; catch; gather;
     extract; curb; choose.”
@@ -78,15 +78,15 @@ title = "Rig Veda 3.30.5"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *kāśir* \< *kāśiḥ* \< *kāśi*
+- *kāśir* ← *kāśiḥ* ← *kāśi*
 - \[noun\], nominative, singular, masculine
 - “handful; kāśi \[word\]; Kāśi; fist.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

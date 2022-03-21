@@ -2,35 +2,35 @@
 title = "Rig Veda 2.34.15"
 
 +++
--   *yayā* \< *yad*
+-   *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *radhram* \< *radhra*
+- *radhram* ← *radhra*
 - \[noun\], accusative, singular, masculine
 - “obedient; powerless; weak.”
 ------------------------------------------------------------------------
-- *pārayathāty* \< *pārayatha* \< *pāray* \< *√pṛ*
+- *pārayathāty* ← *pārayatha* ← *pāray* ← *√pṛ*
 - \[verb\], plural, Present indikative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *pārayathāty* \< *ati*
+- *pārayathāty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nido* \< *nidaḥ* \< *nid*
+- *nido* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *muñcatha* \< *muc*
+- *muñcatha* ← *muc*
 - \[verb\], plural, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -38,60 +38,60 @@ title = "Rig Veda 2.34.15"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *vanditāram* \< *vanditṛ*
+- *vanditāram* ← *vanditṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arvācī* \< *arvāñc*
+- *arvācī* ← *arvāñc*
 - \[noun\], nominative, singular, feminine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtir* \< *ūtiḥ* \< *ūti*
+- *ūtir* ← *ūtiḥ* ← *ūti*
 - \[noun\], nominative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *o* \< *ā*
+- *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vāśreva* \< *vāśrā*
+- *vāśreva* ← *vāśrā*
 - \[noun\], nominative, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
-- *vāśreva* \< *iva*
+- *vāśreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *jigātu* \< *gā*
+- *jigātu* ← *gā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------

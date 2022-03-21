@@ -7,34 +7,34 @@ title = "Rig Veda 3.60.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṛbhumān* \< *ṛbhumat*
+- *ṛbhumān* ← *ṛbhumat*
 - \[noun\], nominative, singular, masculine
 - “prudent.”
 ------------------------------------------------------------------------
-- *vājavān* \< *vājavat*
+- *vājavān* ← *vājavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *matsveha* \< *matsva* \< *mad*
+- *matsveha* ← *matsva* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *matsveha* \< *iha*
+- *matsveha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'smin* \< *asmin* \< *idam*
+- *'smin* ← *asmin* ← *idam*
 - \[noun\], locative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
@@ -42,33 +42,33 @@ title = "Rig Veda 3.60.6"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *imāni* \< *idam*
+- *imāni* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tubhyaṃ* \< *tubhyam* \< *tvad*
+- *tubhyaṃ* ← *tubhyam* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svasarāṇi* \< *svasara*
+- *svasarāṇi* ← *svasara*
 - \[noun\], nominative, plural, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *yemire* \< *yam*
+- *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *vratā* \< *vrata*
+- *vratā* ← *vrata*
 - \[noun\], nominative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *manuṣaś* \< *manuṣaḥ* \< *manus*
+- *manuṣaś* ← *manuṣaḥ* ← *manus*
 - \[noun\], genitive, singular, masculine
 - “Manu; man.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 3.60.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dharmabhiḥ* \< *dharman*
+- *dharmabhiḥ* ← *dharman*
 - \[noun\], instrumental, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------

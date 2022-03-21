@@ -2,66 +2,66 @@
 title = "Rig Veda 5.34.6"
 
 +++
--   *vitvakṣaṇaḥ* \< *vitvakṣaṇa*
+-   *vitvakṣaṇaḥ* ← *vitvakṣaṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *samṛtau* \< *samṛti*
+- *samṛtau* ← *samṛti*
 - \[noun\], locative, singular, feminine
 - “battle; contact.”
 ------------------------------------------------------------------------
-- *cakramāsajo* \< *cakramāsajaḥ* \< *cakramāsaja*
+- *cakramāsajo* ← *cakramāsajaḥ* ← *cakramāsaja*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'sunvato* \< *a*
+- *'sunvato* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'sunvato* \< *sunvataḥ* \< *su*
+- *'sunvato* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *viṣuṇaḥ* \< *viṣuṇa*
+- *viṣuṇaḥ* ← *viṣuṇa*
 - \[noun\], nominative, singular, masculine
 - “different; assorted; antipathetic; changing.”
 ------------------------------------------------------------------------
-- *sunvato* \< *sunvataḥ* \< *su*
+- *sunvato* ← *sunvataḥ* ← *su*
 - \[verb noun\], genitive, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *vṛdhaḥ* \< *vṛdha*
+- *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvasya* \< *viśva*
+- *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *damitā* \< *dam*
+- *damitā* ← *dam*
 - \[verb\], singular, periphrast. future
 - “calm; mortify; tame.”
 ------------------------------------------------------------------------
-- *vibhīṣaṇo* \< *vibhīṣaṇaḥ* \< *vibhīṣaṇa*
+- *vibhīṣaṇo* ← *vibhīṣaṇaḥ* ← *vibhīṣaṇa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yathāvaśaṃ* \< *yathāvaśam*
+- *yathāvaśaṃ* ← *yathāvaśam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *nayati* \< *nī*
+- *nayati* ← *nī*
 - \[verb\], singular, Present indikative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *dāsam* \< *dāsa*
+- *dāsam* ← *dāsa*
 - \[noun\], accusative, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *āryaḥ* \< *ārya*
+- *āryaḥ* ← *ārya*
 - \[noun\], nominative, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------

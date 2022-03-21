@@ -2,31 +2,31 @@
 title = "Rig Veda 10.99.10"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *daśasyan* \< *daśasy*
+- *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *naryebhir* \< *naryebhiḥ* \< *narya*
+- *naryebhir* ← *naryebhiḥ* ← *narya*
 - \[noun\], instrumental, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dasmo* \< *dasmaḥ* \< *dasma*
+- *dasmo* ← *dasmaḥ* ← *dasma*
 - \[noun\], nominative, singular, masculine
 - “overlord.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -35,35 +35,35 @@ title = "Rig Veda 10.99.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *māyī* \< *māyin*
+- *māyī* ← *māyin*
 - \[noun\], nominative, singular, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *ayaṃ* \< *ayam* \< *idam*
+- *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kanīna* \< *kanīnaḥ* \< *kanīna*
+- *kanīna* ← *kanīnaḥ* ← *kanīna*
 - \[noun\], nominative, singular, masculine
 - “young; kanīna \[word\].”
 ------------------------------------------------------------------------
-- *ṛtupā* \< *ṛtu*
+- *ṛtupā* ← *ṛtu*
 - \[noun\], masculine
 - “season; turn; menstruation; ṛtu \[word\]; time period; order; six.”
 ------------------------------------------------------------------------
-- *ṛtupā* \< *pāḥ* \< *pā*
+- *ṛtupā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *avedy* \< *avedi* \< *vid*
+- *avedy* ← *avedi* ← *vid*
 - \[verb\], singular, Aorist passive
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *amimītāraruṃ* \< *amimīta* \< *mā*
+- *amimītāraruṃ* ← *amimīta* ← *mā*
 - \[verb\], singular, Imperfect
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *amimītāraruṃ* \< *ararum* \< *araru*
+- *amimītāraruṃ* ← *ararum* ← *araru*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *yaś* \< *yaḥ* \< *yad*

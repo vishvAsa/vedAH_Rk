@@ -6,28 +6,28 @@ title = "Rig Veda 8.72.2"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tigmam* \< *tigma*
+- *tigmam* ← *tigma*
 - \[noun\], accusative, singular, masculine
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *aṃśuṃ* \< *aṃśum* \< *aṃśu*
+- *aṃśuṃ* ← *aṃśum* ← *aṃśu*
 - \[noun\], accusative, singular, masculine
 - “sunbeam; beam; aṃśu \[word\]; thread.”
 ------------------------------------------------------------------------
-- *sīdaddhotā* \< *sīdat* \< *sad*
+- *sīdaddhotā* ← *sīdat* ← *sad*
 - \[verb\], singular, Present injunctive
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *sīdaddhotā* \< *hotā* \< *hotṛ*
+- *sīdaddhotā* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *manāv* \< *manau* \< *manu*
+- *manāv* ← *manau* ← *manu*
 - \[noun\], locative, singular, masculine
 - “Manu; mantra; Manusmṛti; fourteen; man; manu \[word\]; Vaivasvata;
     incantation; sacred text.”
@@ -36,16 +36,16 @@ title = "Rig Veda 8.72.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *juṣāṇo* \< *juṣāṇaḥ* \< *juṣ*
+- *juṣāṇo* ← *juṣāṇaḥ* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------

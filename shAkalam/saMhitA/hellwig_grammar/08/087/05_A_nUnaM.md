@@ -6,56 +6,56 @@ title = "Rig Veda 8.87.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *aśvināśvebhiḥ* \< *aśvinā* \< *aśvin*
+- *aśvināśvebhiḥ* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvināśvebhiḥ* \< *aśvebhiḥ* \< *aśva*
+- *aśvināśvebhiḥ* ← *aśvebhiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *pruṣitapsubhiḥ* \< *pruṣitapsu*
+- *pruṣitapsubhiḥ* ← *pruṣitapsu*
 - \[noun\], instrumental, plural, masculine
 - “motley.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *hiraṇyavartanī* \< *hiraṇya*
+- *hiraṇyavartanī* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyavartanī* \< *vartanī* \< *vartani*
+- *hiraṇyavartanī* ← *vartanī* ← *vartani*
 - \[noun\], vocative, dual, masculine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *śubhas* \< *śubhaḥ* \< *śubh*
+- *śubhas* ← *śubhaḥ* ← *śubh*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *patī* \< *pati*
+- *patī* ← *pati*
 - \[noun\], vocative, dual, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *pātaṃ* \< *pātam* \< *pā*
+- *pātaṃ* ← *pātam* ← *pā*
 - \[verb\], dual, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhā* \< *ṛtāvṛdh*
+- *ṛtāvṛdhā* ← *ṛtāvṛdh*
 - \[noun\], nominative, dual, masculine
 - “sincere.”
 ------------------------------------------------------------------------

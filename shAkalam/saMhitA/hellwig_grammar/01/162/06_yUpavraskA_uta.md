@@ -2,86 +2,86 @@
 title = "Rig Veda 1.162.6"
 
 +++
--   *yūpavraskā* \< *yūpavraskāḥ* \< *yūpavraska*
+-   *yūpavraskā* ← *yūpavraskāḥ* ← *yūpavraska*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yūpavāhāś* \< *yūpa*
+- *yūpavāhāś* ← *yūpa*
 - \[noun\], masculine
 - “column; stake.”
 ------------------------------------------------------------------------
-- *yūpavāhāś* \< *vāhāḥ* \< *vāha*
+- *yūpavāhāś* ← *vāhāḥ* ← *vāha*
 - \[noun\], nominative, plural, masculine
 - “transporting; flowing; removing.”
 ------------------------------------------------------------------------
-- *caṣālaṃ* \< *caṣālam* \< *caṣāla*
+- *caṣālaṃ* ← *caṣālam* ← *caṣāla*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aśvayūpāya* \< *aśva*
+- *aśvayūpāya* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvayūpāya* \< *yūpāya* \< *yūpa*
+- *aśvayūpāya* ← *yūpāya* ← *yūpa*
 - \[noun\], dative, singular, masculine
 - “column; stake.”
 ------------------------------------------------------------------------
-- *takṣati* \< *takṣ*
+- *takṣati* ← *takṣ*
 - \[verb\], plural, Present indikative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cārvate* \< *ca*
+- *cārvate* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cārvate* \< *arvate* \< *arvant*
+- *cārvate* ← *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *pacanaṃ* \< *pacanam* \< *pacana*
+- *pacanaṃ* ← *pacanam* ← *pacana*
 - \[noun\], accusative, singular, neuter
 - “heating; boiling; digestion.”
 ------------------------------------------------------------------------
-- *saṃbharanty* \< *saṃbharanti* \< *sambhṛ* \< *√bhṛ*
+- *saṃbharanty* ← *saṃbharanti* ← *sambhṛ* ← *√bhṛ*
 - \[verb\], plural, Present indikative
 - “gather; collect; fill; mix; fill into; produce.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *teṣām* \< *tad*
+- *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *abhigūrtir* \< *abhigūrtiḥ* \< *abhigūrti*
+- *abhigūrtir* ← *abhigūrtiḥ* ← *abhigūrti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *invatu* \< *inv*
+- *invatu* ← *inv*
 - \[verb\], singular, Present imperative
 - “bring; drive.”
 ------------------------------------------------------------------------

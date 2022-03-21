@@ -2,25 +2,25 @@
 title = "Rig Veda 3.1.20"
 
 +++
--   *etā* \< *etad*
+-   *etā* ← *etad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *janimā* \< *janiman*
+- *janimā* ← *janiman*
 - \[noun\], accusative, plural, neuter
 - “birth; offspring; origin; kind; being.”
 ------------------------------------------------------------------------
-- *sanāni* \< *sana*
+- *sanāni* ← *sana*
 - \[noun\], accusative, plural, neuter
 - “age-old; ancient.”
 ------------------------------------------------------------------------
@@ -28,36 +28,36 @@ title = "Rig Veda 3.1.20"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pūrvyāya* \< *pūrvya*
+- *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *nūtanāni* \< *nūtana*
+- *nūtanāni* ← *nūtana*
 - \[noun\], accusative, plural, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
-- *vocam* \< *vac*
+- *vocam* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *mahānti* \< *mahat*
+- *mahānti* ← *mahat*
 - \[noun\], nominative, plural, neuter
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
     dark; high; abundant; violent; remarkable; mighty; big; long.”
 ------------------------------------------------------------------------
-- *vṛṣṇe* \< *vṛṣan*
+- *vṛṣṇe* ← *vṛṣan*
 - \[noun\], dative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], nominative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *kṛtemā* \< *kṛtā* \< *kṛ*
+- *kṛtemā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -68,26 +68,26 @@ title = "Rig Veda 3.1.20"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtemā* \< *imā* \< *idam*
+- *kṛtemā* ← *imā* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *janmañjanman* \< *janman*
+- *janmañjanman* ← *janman*
 - \[noun\], locative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *janmañjanman* \< *janman*
+- *janmañjanman* ← *janman*
 - \[noun\], locative, singular, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *nihito* \< *nihitaḥ* \< *nidhā* \< *√dhā*
+- *nihito* ← *nihitaḥ* ← *nidhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; fill into; stow; insert; ignite; insert; add; put on;
     establish; keep down.”
 ------------------------------------------------------------------------
-- *jātavedāḥ* \< *jātavedas*
+- *jātavedāḥ* ← *jātavedas*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------

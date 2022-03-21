@@ -2,7 +2,7 @@
 title = "Rig Veda 4.51.5"
 
 +++
--   *yūyaṃ* \< *yūyam* \< *tvad*
+-   *yūyaṃ* ← *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -10,57 +10,57 @@ title = "Rig Veda 4.51.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *ṛta*
+- *ṛtayugbhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtayugbhir* \< *yugbhiḥ* \< *yuj*
+- *ṛtayugbhir* ← *yugbhiḥ* ← *yuj*
 - \[noun\], instrumental, plural
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *aśvaiḥ* \< *aśva*
+- *aśvaiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *pariprayātha* \< *pariprayā* \< *√yā*
+- *pariprayātha* ← *pariprayā* ← *√yā*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *bhuvanāni* \< *bhuvana*
+- *bhuvanāni* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *sadyaḥ* \< *sadyas*
+- *sadyaḥ* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *prabodhayantīr* \< *prabodhayantīḥ* \< *prabodhay* \< *√budh*
+- *prabodhayantīr* ← *prabodhayantīḥ* ← *prabodhay* ← *√budh*
 - \[verb noun\], nominative, plural
 - “awaken; fuel.”
 ------------------------------------------------------------------------
-- *uṣasaḥ* \< *uṣas*
+- *uṣasaḥ* ← *uṣas*
 - \[noun\], vocative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sasantaṃ* \< *sasantam* \< *sas*
+- *sasantaṃ* ← *sasantam* ← *sas*
 - \[verb noun\], accusative, singular
 - “sleep.”
 ------------------------------------------------------------------------
-- *dvipāc* \< *dvipāt* \< *dvipa*
+- *dvipāc* ← *dvipāt* ← *dvipa*
 - \[noun\], ablative, singular, masculine
 - “elephant.”
 ------------------------------------------------------------------------
-- *catuṣpāc* \< *catuṣpād*
+- *catuṣpāc* ← *catuṣpād*
 - \[noun\], nominative, singular, masculine
 - “quadruped.”
 ------------------------------------------------------------------------
-- *carathāya* \< *caratha*
+- *carathāya* ← *caratha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *jīvam* \< *jīva*
+- *jīvam* ← *jīva*
 - \[noun\], accusative, singular, masculine
 - “being; animal; life; jīva \[word\].”
 ------------------------------------------------------------------------

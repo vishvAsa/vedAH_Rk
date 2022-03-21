@@ -6,57 +6,57 @@ title = "Rig Veda 5.33.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *paurukutsyasya* \< *paurukutsya*
+- *paurukutsyasya* ← *paurukutsya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *sūres* \< *sūreḥ* \< *sūri*
+- *sūres* ← *sūreḥ* ← *sūri*
 - \[noun\], genitive, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *trasadasyor* \< *trasadasyoḥ* \< *trasadasyu*
+- *trasadasyor* ← *trasadasyoḥ* ← *trasadasyu*
 - \[noun\], genitive, singular, masculine
 - “Trasadasyu.”
 ------------------------------------------------------------------------
-- *hiraṇino* \< *hiraṇinaḥ* \< *hiraṇin*
+- *hiraṇino* ← *hiraṇinaḥ* ← *hiraṇin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *rarāṇāḥ* \< *rā*
+- *rarāṇāḥ* ← *rā*
 - \[verb noun\], nominative, plural
 - “give; impart.”
 ------------------------------------------------------------------------
-- *vahantu* \< *vah*
+- *vahantu* ← *vah*
 - \[verb\], plural, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *śyetāso* \< *śyetāsaḥ* \< *śyeta*
+- *śyetāso* ← *śyetāsaḥ* ← *śyeta*
 - \[noun\], nominative, plural, masculine
 - “whitish; red.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *gairikṣitasya* \< *gairikṣita*
+- *gairikṣitasya* ← *gairikṣita*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *kratubhir* \< *kratubhiḥ* \< *kratu*
+- *kratubhir* ← *kratubhiḥ* ← *kratu*
 - \[noun\], instrumental, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -65,7 +65,7 @@ title = "Rig Veda 5.33.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *saśce* \< *sac*
+- *saśce* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

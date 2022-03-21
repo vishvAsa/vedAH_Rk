@@ -2,26 +2,26 @@
 title = "Rig Veda 7.20.2"
 
 +++
--   *hantā* \< *han*
+-   *hantā* ← *han*
 - \[verb\], singular, periphrast. future
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śūśuvānaḥ* \< *śvi*
+- *śūśuvānaḥ* ← *śvi*
 - \[verb noun\], nominative, singular
 - “swell; grow.”
 ------------------------------------------------------------------------
-- *prāvīn* \< *prāvīt* \< *prāv* \< *√av*
+- *prāvīn* ← *prāvīt* ← *prāv* ← *√av*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “help; promote.”
 ------------------------------------------------------------------------
@@ -29,19 +29,19 @@ title = "Rig Veda 7.20.2"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vīro* \< *vīraḥ* \< *vīra*
+- *vīro* ← *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *jaritāram* \< *jaritṛ*
+- *jaritāram* ← *jaritṛ*
 - \[noun\], accusative, singular, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *kartā* \< *kṛ*
+- *kartā* ← *kṛ*
 - \[verb\], singular, periphrast. future
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -52,7 +52,7 @@ title = "Rig Veda 7.20.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sudāse* \< *sudās*
+- *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
@@ -60,7 +60,7 @@ title = "Rig Veda 7.20.2"
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *vā* \< *vai*
+- *vā* ← *vai*
 - \[adverb\]
 - “surely; on the other hand; vai \[word\]; indeed.”
 ------------------------------------------------------------------------
@@ -68,12 +68,12 @@ title = "Rig Veda 7.20.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokaṃ* \< *lokam* \< *loka*
+- *lokaṃ* ← *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *dātā* \< *dā*
+- *dātā* ← *dā*
 - \[verb\], singular, periphrast. future
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -92,11 +92,11 @@ title = "Rig Veda 7.20.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

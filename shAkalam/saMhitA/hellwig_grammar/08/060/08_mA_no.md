@@ -6,46 +6,46 @@ title = "Rig Veda 8.60.8"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *martāya* \< *marta*
+- *martāya* ← *marta*
 - \[noun\], dative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ripave* \< *ripu*
+- *ripave* ← *ripu*
 - \[noun\], dative, singular, masculine
 - “punic; deceitful; unfriendly.”
 ------------------------------------------------------------------------
-- *rakṣasvine* \< *rakṣasvin*
+- *rakṣasvine* ← *rakṣasvin*
 - \[noun\], dative, singular, masculine
 - “malevolent; demoniac; obsessed.”
 ------------------------------------------------------------------------
-- *māghaśaṃsāya* \< *mā*
+- *māghaśaṃsāya* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māghaśaṃsāya* \< *agha*
+- *māghaśaṃsāya* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *māghaśaṃsāya* \< *śaṃsāya* \< *śaṃsa*
+- *māghaśaṃsāya* ← *śaṃsāya* ← *śaṃsa*
 - \[noun\], dative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *rīradhaḥ* \< *radh*
+- *rīradhaḥ* ← *radh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “subjugate.”
 ------------------------------------------------------------------------
-- *asredhadbhis* \< *a*
+- *asredhadbhis* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asredhadbhis* \< *sredhadbhiḥ* \< *sridh*
+- *asredhadbhis* ← *sredhadbhiḥ* ← *sridh*
 - \[verb noun\], instrumental, plural
 ------------------------------------------------------------------------
-- *taraṇibhir* \< *taraṇibhiḥ* \< *taraṇi*
+- *taraṇibhir* ← *taraṇibhiḥ* ← *taraṇi*
 - \[noun\], instrumental, plural, masculine
 - “energetic; agile.”
 ------------------------------------------------------------------------
@@ -53,16 +53,16 @@ title = "Rig Veda 8.60.8"
 - \[noun\], vocative, singular, masculine
 - “youngest.”
 ------------------------------------------------------------------------
-- *śivebhiḥ* \< *śiva*
+- *śivebhiḥ* ← *śiva*
 - \[noun\], instrumental, plural, masculine
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *pāyubhiḥ* \< *pāyu*
+- *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------

@@ -2,29 +2,29 @@
 title = "Rig Veda 4.28.3"
 
 +++
--   *ahann* \< *ahan* \< *han*
+-   *ahann* ← *ahan* ← *han*
 - \[verb\], singular, Root aorist (Ind.)
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *adahad* \< *adahat* \< *dah*
+- *adahad* ← *adahat* ← *dah*
 - \[verb\], singular, Imperfect
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -33,27 +33,27 @@ title = "Rig Veda 4.28.3"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *madhyandinād* \< *madhyandināt* \< *madhyaṃdina*
+- *madhyandinād* ← *madhyandināt* ← *madhyaṃdina*
 - \[noun\], ablative, singular, masculine
 - “noon; Pentapetes phoenicea Linn..”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------
-- *durge* \< *durga*
+- *durge* ← *durga*
 - \[noun\], locative, singular, neuter
 - “inaccessible; impassable.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -62,20 +62,20 @@ title = "Rig Veda 4.28.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yātām* \< *yā*
+- *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *śarvā* \< *śaru*
+- *śarvā* ← *śaru*
 - \[noun\], instrumental, singular, masculine
 - “arrow.”
 ------------------------------------------------------------------------
@@ -83,6 +83,6 @@ title = "Rig Veda 4.28.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *barhīt* \< *bṛṃh*
+- *barhīt* ← *bṛṃh*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------

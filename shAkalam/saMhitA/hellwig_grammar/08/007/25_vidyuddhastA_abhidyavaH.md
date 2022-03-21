@@ -2,19 +2,19 @@
 title = "Rig Veda 8.7.25"
 
 +++
--   *vidyuddhastā* \< *vidyut*
+-   *vidyuddhastā* ← *vidyut*
 - \[noun\], feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
-- *vidyuddhastā* \< *hastāḥ* \< *hasta*
+- *vidyuddhastā* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *abhidyavaḥ* \< *abhidyu*
+- *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *śiprāḥ* \< *śiprā*
+- *śiprāḥ* ← *śiprā*
 - \[noun\], nominative, plural, feminine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
@@ -22,23 +22,23 @@ title = "Rig Veda 8.7.25"
 - \[noun\], locative, singular, neuter
 - “head; śīrṣan \[word\].”
 ------------------------------------------------------------------------
-- *hiraṇyayīḥ* \< *hiraṇyaya*
+- *hiraṇyayīḥ* ← *hiraṇyaya*
 - \[noun\], nominative, plural, feminine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
-- *śubhrā* \< *śubhrāḥ* \< *śubhra*
+- *śubhrā* ← *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *añjata* \< *añj*
+- *añjata* ← *añj*
 - \[verb\], plural, Present injunctive
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī

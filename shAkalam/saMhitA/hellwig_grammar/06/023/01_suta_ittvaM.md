@@ -2,19 +2,19 @@
 title = "Rig Veda 6.23.1"
 
 +++
--   *suta* \< *sute* \< *su*
+-   *suta* ← *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nimiśla* \< *nimiślaḥ* \< *nimiśla*
+- *nimiśla* ← *nimiślaḥ* ← *nimiśla*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -22,29 +22,29 @@ title = "Rig Veda 6.23.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *some* \< *soma*
+- *some* ← *soma*
 - \[noun\], locative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *stome* \< *stoma*
+- *stome* ← *stoma*
 - \[noun\], locative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *brahmaṇi* \< *brahman*
+- *brahmaṇi* ← *brahman*
 - \[noun\], locative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *śasyamāna* \< *śasyamāne* \< *śaṃs*
+- *śasyamāna* ← *śasyamāne* ← *śaṃs*
 - \[verb noun\], locative, singular
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *ukthe* \< *uktha*
+- *ukthe* ← *uktha*
 - \[noun\], locative, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 6.23.1"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yuktābhyām* \< *yuj*
+- *yuktābhyām* ← *yuj*
 - \[verb noun\], instrumental, dual
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -64,22 +64,22 @@ title = "Rig Veda 6.23.1"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *haribhyām* \< *hari*
+- *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *bibhrad* \< *bibhrat* \< *bhṛ*
+- *bibhrad* ← *bibhrat* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
@@ -88,7 +88,7 @@ title = "Rig Veda 6.23.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”

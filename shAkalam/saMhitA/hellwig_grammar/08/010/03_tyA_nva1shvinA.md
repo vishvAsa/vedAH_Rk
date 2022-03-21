@@ -2,33 +2,33 @@
 title = "Rig Veda 8.10.3"
 
 +++
--   *tyā* \< *tya*
+-   *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sudaṃsasā* \< *su*
+- *sudaṃsasā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudaṃsasā* \< *daṃsasā* \< *daṃsas*
+- *sudaṃsasā* ← *daṃsasā* ← *daṃsas*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *gṛbhe* \< *gṛbh*
+- *gṛbhe* ← *gṛbh*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *kṛtā* \< *kṛ*
+- *kṛtā* ← *kṛ*
 - \[verb noun\], accusative, dual
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,11 +39,11 @@ title = "Rig Veda 8.10.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yayor* \< *yayoḥ* \< *yad*
+- *yayor* ← *yayoḥ* ← *yad*
 - \[noun\], genitive, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -52,24 +52,24 @@ title = "Rig Veda 8.10.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *āpyam* \< *āpya*
+- *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------

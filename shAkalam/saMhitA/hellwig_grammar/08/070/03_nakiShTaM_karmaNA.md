@@ -2,17 +2,17 @@
 title = "Rig Veda 8.70.3"
 
 +++
--   *nakiṣ* \< *nakir*
+-   *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭaṃ* \< *tam* \< *tad*
+- *ṭaṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *karmaṇā* \< *karman*
+- *karmaṇā* ← *karman*
 - \[noun\], instrumental, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -20,15 +20,15 @@ title = "Rig Veda 8.70.3"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *naśad* \< *naśat* \< *naś*
+- *naśad* ← *naśat* ← *naś*
 - \[verb\], singular, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,10 +39,10 @@ title = "Rig Veda 8.70.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sadāvṛdham* \< *sadāvṛdha*
+- *sadāvṛdham* ← *sadāvṛdha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -51,30 +51,30 @@ title = "Rig Veda 8.70.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yajñair* \< *yajñaiḥ* \< *yajña*
+- *yajñair* ← *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *viśvagūrtam* \< *viśva*
+- *viśvagūrtam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvagūrtam* \< *gūrtam* \< *gur*
+- *viśvagūrtam* ← *gūrtam* ← *gur*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *ṛbhvasam* \< *ṛbhvas*
+- *ṛbhvasam* ← *ṛbhvas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *adhṛṣṭaṃ* \< *adhṛṣṭam* \< *adhṛṣṭa*
+- *adhṛṣṭaṃ* ← *adhṛṣṭam* ← *adhṛṣṭa*
 - \[noun\], accusative, singular, masculine
 - “modest; invincible.”
 ------------------------------------------------------------------------
-- *dhṛṣṇvojasam* \< *dhṛṣṇu*
+- *dhṛṣṇvojasam* ← *dhṛṣṇu*
 - \[noun\]
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *dhṛṣṇvojasam* \< *ojasam* \< *ojas*
+- *dhṛṣṇvojasam* ← *ojasam* ← *ojas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

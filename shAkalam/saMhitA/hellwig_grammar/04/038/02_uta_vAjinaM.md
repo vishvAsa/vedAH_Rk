@@ -6,18 +6,18 @@ title = "Rig Veda 4.38.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vājinam* \< *vājin*
+- *vājinam* ← *vājin*
 - \[noun\], accusative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *puruniṣṣidhvānaṃ* \< *puru*
+- *puruniṣṣidhvānaṃ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruniṣṣidhvānaṃ* \< *niṣṣidhvānam* \< *niṣṣidhvan*
+- *puruniṣṣidhvānaṃ* ← *niṣṣidhvānam* ← *niṣṣidhvan*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dadhikrām* \< *dadhikrā*
+- *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
@@ -25,39 +25,39 @@ title = "Rig Veda 4.38.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *dadathur* \< *dadathuḥ* \< *dā*
+- *dadathur* ← *dadathuḥ* ← *dā*
 - \[verb\], dual, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *viśvakṛṣṭim* \< *viśvakṛṣṭi*
+- *viśvakṛṣṭim* ← *viśvakṛṣṭi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛjipyaṃ* \< *ṛjipyam* \< *ṛjipya*
+- *ṛjipyaṃ* ← *ṛjipyam* ← *ṛjipya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *śyenam* \< *śyena*
+- *śyenam* ← *śyena*
 - \[noun\], accusative, singular, masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *pruṣitapsum* \< *pruṣitapsu*
+- *pruṣitapsum* ← *pruṣitapsu*
 - \[noun\], accusative, singular, masculine
 - “motley.”
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *carkṛtyam* \< *carkar* \< *√kṛ*
+- *carkṛtyam* ← *carkar* ← *√kṛ*
 - \[verb noun\], accusative, singular
 - “praise; commemorate.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *nṛpatiṃ* \< *nṛpatim* \< *nṛpati*
+- *nṛpatiṃ* ← *nṛpatim* ← *nṛpati*
 - \[noun\], accusative, singular, masculine
 - “king.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 4.38.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śūram* \< *śūra*
+- *śūram* ← *śūra*
 - \[noun\], accusative, singular, masculine
 - “brave; powerful.”
 ------------------------------------------------------------------------

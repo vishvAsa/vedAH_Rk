@@ -2,11 +2,11 @@
 title = "Rig Veda 10.127.6"
 
 +++
--   *yāvayā* \< *yāvaya* \< *yāvay* \< *√yu*
+-   *yāvayā* ← *yāvaya* ← *yāvay* ← *√yu*
 - \[verb\], singular, Present imperative
 - “keep away.”
 ------------------------------------------------------------------------
-- *vṛkyaṃ* \< *vṛkyam* \< *vṛkī*
+- *vṛkyaṃ* ← *vṛkyam* \< *vṛkī*
 - \[noun\], accusative, singular, feminine
 - “wolf.”
 ------------------------------------------------------------------------

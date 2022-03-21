@@ -2,15 +2,15 @@
 title = "Rig Veda 1.105.6"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -18,60 +18,60 @@ title = "Rig Veda 1.105.6"
 - \[noun\], nominative, singular, neuter
 - “permanent; firm.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *cakṣaṇam* \< *cakṣaṇa*
+- *cakṣaṇam* ← *cakṣaṇa*
 - \[noun\], nominative, singular, neuter
 - “appearance.”
 ------------------------------------------------------------------------
 - *kad*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aryamṇo* \< *aryamṇaḥ* \< *aryaman*
+- *aryamṇo* ← *aryamṇaḥ* ← *aryaman*
 - \[noun\], genitive, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *mahas* \< *mah*
+- *mahas* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pathāti* \< *pathā* \< *pathin*
+- *pathāti* ← *pathā* ← *pathin*
 - \[noun\], instrumental, singular, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *pathāti* \< *ati*
+- *pathāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *krāmema* \< *kram*
+- *krāmema* ← *kram*
 - \[verb\], plural, Present optative
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
-- *dūḍhyo* \< *dūḍhyaḥ* \< *dūḍhī*
+- *dūḍhyo* ← *dūḍhyaḥ* ← *dūḍhī*
 - \[noun\], accusative, plural, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
-- *vittam* \< *vid*
+- *vittam* ← *vid*
 - \[verb\], dual, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------

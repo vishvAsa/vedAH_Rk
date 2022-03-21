@@ -2,11 +2,11 @@
 title = "Rig Veda 1.164.44"
 
 +++
--   *trayaḥ* \< *tri*
+-   *trayaḥ* ← *tri*
 - \[noun\], nominative, plural, masculine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *keśina* \< *keśinaḥ* \< *keśin*
+- *keśina* ← *keśinaḥ* ← *keśin*
 - \[noun\], nominative, plural, masculine
 - “Keśi(n); keśin \[word\]; Vishnu.”
 ------------------------------------------------------------------------
@@ -18,34 +18,34 @@ title = "Rig Veda 1.164.44"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakṣate* \< *cakṣ*
+- *cakṣate* ← *cakṣ*
 - \[verb\], plural, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *saṃvatsare* \< *saṃvatsara*
+- *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
 ------------------------------------------------------------------------
-- *vapata* \< *vapate* \< *vap*
+- *vapata* ← *vapate* ← *vap*
 - \[verb\], singular, Present indikative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *eko* \< *ekaḥ* \< *eka*
+- *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -55,25 +55,25 @@ title = "Rig Veda 1.164.44"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *dhrājir* \< *dhrājiḥ* \< *dhrāji*
+- *dhrājir* ← *dhrājiḥ* ← *dhrāji*
 - \[noun\], nominative, singular, feminine
 - “rush; gust; feeling.”
 ------------------------------------------------------------------------
-- *ekasya* \< *eka*
+- *ekasya* ← *eka*
 - \[noun\], genitive, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *dadṛśe* \< *dṛś*
+- *dadṛśe* ← *dṛś*
 - \[verb\], singular, Perfect indicative
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
@@ -83,7 +83,7 @@ title = "Rig Veda 1.164.44"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rūpam* \< *rūpa*
+- *rūpam* ← *rūpa*
 - \[noun\], nominative, singular, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;

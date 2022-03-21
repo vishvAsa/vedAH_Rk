@@ -6,31 +6,31 @@ title = "Rig Veda 6.53.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *goṣaṇiṃ* \< *goṣaṇim* \< *goṣaṇi*
+- *goṣaṇiṃ* ← *goṣaṇim* ← *goṣaṇi*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *dhiyam* \< *dhī*
+- *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *aśvasāṃ* \< *aśva*
+- *aśvasāṃ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvasāṃ* \< *sām* \< *sā*
+- *aśvasāṃ* ← *sām* ← *sā*
 - \[noun\], accusative, singular, feminine
 - “winning.”
 ------------------------------------------------------------------------
-- *vājasām* \< *vāja*
+- *vājasām* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasām* \< *sām* \< *sā*
+- *vājasām* ← *sām* ← *sā*
 - \[noun\], accusative, singular, feminine
 - “winning.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 6.53.10"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *nṛvat* \< *nṛ*
+- *nṛvat* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛvat* \< *vat*
+- *nṛvat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -57,6 +57,6 @@ title = "Rig Veda 6.53.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vītaye* \< *vīti*
+- *vītaye* ← *vīti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------

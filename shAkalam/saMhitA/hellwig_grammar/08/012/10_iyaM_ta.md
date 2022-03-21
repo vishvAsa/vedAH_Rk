@@ -2,47 +2,47 @@
 title = "Rig Veda 8.12.10"
 
 +++
--   *iyaṃ* \< *iyam* \< *idam*
+-   *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ṛtviyāvatī* \< *ṛtviyāvat*
+- *ṛtviyāvatī* ← *ṛtviyāvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *dhītir* \< *dhītiḥ* \< *dhīti*
+- *dhītir* ← *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *navīyasī* \< *navīyas*
+- *navīyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
-- *saparyantī* \< *sapary*
+- *saparyantī* ← *sapary*
 - \[verb noun\], nominative, singular
 - “worship.”
 ------------------------------------------------------------------------
-- *purupriyā* \< *puru*
+- *purupriyā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purupriyā* \< *priyā* \< *priya*
+- *purupriyā* ← *priyā* ← *priya*
 - \[noun\], nominative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *mimīta* \< *mimīte* \< *mā*
+- *mimīta* ← *mimīte* ← *mā*
 - \[verb\], singular, Present indikative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------

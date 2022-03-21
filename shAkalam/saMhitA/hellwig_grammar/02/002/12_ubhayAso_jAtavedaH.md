@@ -2,34 +2,34 @@
 title = "Rig Veda 2.2.12"
 
 +++
--   *ubhayāso* \< *ubhayāsaḥ* \< *ubhaya*
+-   *ubhayāso* ← *ubhayāsaḥ* ← *ubhaya*
 - \[noun\], nominative, plural, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *stotāro* \< *stotāraḥ* \< *stotṛ*
+- *stotāro* ← *stotāraḥ* ← *stotṛ*
 - \[noun\], nominative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sūrayaś* \< *sūrayaḥ* \< *sūri*
+- *sūrayaś* ← *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
@@ -37,47 +37,47 @@ title = "Rig Veda 2.2.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śarmaṇi* \< *śarman*
+- *śarmaṇi* ← *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *vasvo* \< *vasvaḥ* \< *vasu*
+- *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *puruścandrasya* \< *puru*
+- *puruścandrasya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruścandrasya* \< *ścandrasya* \< *ścandra*
+- *puruścandrasya* ← *ścandrasya* ← *ścandra*
 - \[noun\], genitive, singular, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *bhūyasaḥ* \< *bhūyas*
+- *bhūyasaḥ* ← *bhūyas*
 - \[noun\], genitive, singular, masculine
 - “more(a); more(a); abounding in(p); stronger; bigger.”
 ------------------------------------------------------------------------
-- *prajāvataḥ* \< *prajāvat*
+- *prajāvataḥ* ← *prajāvat*
 - \[noun\], genitive, singular, masculine
 - “prolific.”
 ------------------------------------------------------------------------
-- *svapatyasya* \< *su*
+- *svapatyasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapatyasya* \< *apatyasya* \< *apatya*
+- *svapatyasya* ← *apatyasya* ← *apatya*
 - \[noun\], genitive, singular, masculine
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
-- *śagdhi* \< *śak*
+- *śagdhi* ← *śak*
 - \[verb\], singular, Aorist imperative
 - “can; invigorate.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

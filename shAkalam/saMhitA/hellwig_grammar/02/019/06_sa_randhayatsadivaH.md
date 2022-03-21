@@ -2,43 +2,43 @@
 title = "Rig Veda 2.19.6"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *randhayat* \< *randhay* \< *√radh*
+- *randhayat* ← *randhay* ← *√radh*
 - \[verb\], singular, Present injunctive
 - “subjugate; hand over.”
 ------------------------------------------------------------------------
-- *sadivaḥ* \< *sadivas*
+- *sadivaḥ* ← *sadivas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sārathaye* \< *sārathi*
+- *sārathaye* ← *sārathi*
 - \[noun\], dative, singular, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *aśuṣaṃ* \< *aśuṣam* \< *aśuṣa*
+- *aśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
 ------------------------------------------------------------------------
-- *kuyavaṃ* \< *kuyavam* \< *kuyava*
+- *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kutsāya* \< *kutsa*
+- *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *divodāsāya* \< *divodāsa*
+- *divodāsāya* ← *divodāsa*
 - \[noun\], dative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
@@ -46,28 +46,28 @@ title = "Rig Veda 2.19.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *navendraḥ* \< *nava* \< *navan*
+- *navendraḥ* ← *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *navendraḥ* \< *indraḥ* \< *indra*
+- *navendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *airacchambarasya* \< *airat* \< *īr*
+- *airacchambarasya* ← *airat* ← *īr*
 - \[verb\], singular, Imperfect
 - “go.”
 ------------------------------------------------------------------------
-- *airacchambarasya* \< *śambarasya* \< *śambara*
+- *airacchambarasya* ← *śambarasya* ← *śambara*
 - \[noun\], genitive, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------

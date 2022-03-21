@@ -2,10 +2,10 @@
 title = "Rig Veda 1.145.4"
 
 +++
--   *upasthāyaṃ* \< *upasthāyam*
+-   *upasthāyaṃ* ← *upasthāyam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -15,24 +15,24 @@ title = "Rig Veda 1.145.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samārata* \< *samṛch* \< *√ṛch*
+- *samārata* ← *samṛch* ← *√ṛch*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “collapse.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *jātas* \< *jātaḥ* \< *jan*
+- *jātas* ← *jātaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *tatsāra* \< *tsar*
+- *tatsāra* ← *tsar*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *yujyebhiḥ* \< *yujya*
+- *yujyebhiḥ* ← *yujya*
 - \[noun\], instrumental, plural, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
@@ -40,39 +40,39 @@ title = "Rig Veda 1.145.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śvāntam* \< *śvānta*
+- *śvāntam* ← *śvānta*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *mṛśate* \< *mṛś*
+- *mṛśate* ← *mṛś*
 - \[verb\], singular, Present indikative
 - “touch.”
 ------------------------------------------------------------------------
-- *nāndye* \< *nāndī*
+- *nāndye* ← *nāndī*
 - \[noun\], dative, singular, feminine
 - “nāndī \[word\]; nāndī; joy; pleasure; praise.”
 ------------------------------------------------------------------------
-- *mude* \< *mud*
+- *mude* ← *mud*
 - \[noun\], dative, singular, feminine
 - “joy; delight.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *gacchanty* \< *gacchanti* \< *gam*
+- *gacchanty* ← *gacchanti* ← *gam*
 - \[verb\], plural, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *uśatīr* \< *uśatīḥ* \< *vaś*
+- *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *apiṣṭhitam* \< *apiṣṭhā* \< *√sthā*
+- *apiṣṭhitam* ← *apiṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 1.22.13"
 
 +++
--   *mahī* \< *mahi*
+-   *mahī* ← *mahi*
 - \[noun\], nominative, singular, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -18,31 +18,31 @@ title = "Rig Veda 1.22.13"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *mimikṣatām* \< *mikṣ*
+- *mimikṣatām* ← *mikṣ*
 - \[verb\], dual, Perfect imperative
 - “season.”
 ------------------------------------------------------------------------
-- *pipṛtāṃ* \< *pipṛtām* \< *pṛ*
+- *pipṛtāṃ* ← *pipṛtām* ← *pṛ*
 - \[verb\], dual, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bharīmabhiḥ* \< *bharīman*
+- *bharīmabhiḥ* ← *bharīman*
 - \[noun\], instrumental, plural, masculine
 - “support.”
 ------------------------------------------------------------------------

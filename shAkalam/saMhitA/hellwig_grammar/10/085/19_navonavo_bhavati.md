@@ -2,59 +2,59 @@
 title = "Rig Veda 10.85.19"
 
 +++
--   *navo* \< *navaḥ* \< *nava*
+-   *navo* ← *navaḥ* ← *nava*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *navo* \< *navaḥ* \< *nava*
+- *navo* ← *navaḥ* ← *nava*
 - \[noun\], nominative, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *jāyamāno* \< *jāyamānaḥ* \< *jan*
+- *jāyamāno* ← *jāyamānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *'hnāṃ* \< *ahnām* \< *ahar*
+- *'hnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *ketur* \< *ketuḥ* \< *ketu*
+- *ketur* ← *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *uṣasām* \< *uṣas*
+- *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *agram* \< *agra*
+- *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *bhāgaṃ* \< *bhāgam* \< *bhāga*
+- *bhāgaṃ* ← *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *devebhyo* \< *devebhyaḥ* \< *deva*
+- *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -63,12 +63,12 @@ title = "Rig Veda 10.85.19"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dadhāty* \< *dadhāti* \< *dhā*
+- *dadhāty* ← *dadhāti* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *āyan* \< *e* \< *√i*
+- *āyan* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
@@ -76,19 +76,19 @@ title = "Rig Veda 10.85.19"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *candramās* \< *candramāḥ* \< *candramas*
+- *candramās* ← *candramāḥ* ← *candramas*
 - \[noun\], nominative, singular, masculine
 - “moon; Candra; candramas.”
 ------------------------------------------------------------------------
-- *tirate* \< *tṛ*
+- *tirate* ← *tṛ*
 - \[verb\], singular, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------

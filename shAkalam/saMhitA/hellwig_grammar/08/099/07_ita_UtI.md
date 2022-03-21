@@ -2,55 +2,55 @@
 title = "Rig Veda 8.99.7"
 
 +++
--   *ita* \< *itas*
+-   *ita* ← *itas*
 - \[adverb\]
 - “from here; therefore.”
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ajaram* \< *ajara*
+- *ajaram* ← *ajara*
 - \[noun\], accusative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *prahetāram* \< *prahetṛ*
+- *prahetāram* ← *prahetṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *aprahitam* \< *a*
+- *aprahitam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aprahitam* \< *prahitam* \< *prahi* \< *√hi*
+- *aprahitam* ← *prahitam* ← *prahi* ← *√hi*
 - \[verb noun\], accusative, singular
 - “send; hurl; shoot; supply.”
 ------------------------------------------------------------------------
-- *āśuṃ* \< *āśum* \< *āśu*
+- *āśuṃ* ← *āśum* ← *āśu*
 - \[noun\], accusative, singular, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *jetāraṃ* \< *jetāram* \< *jetṛ*
+- *jetāraṃ* ← *jetāram* ← *jetṛ*
 - \[noun\], accusative, singular, masculine
 - “curative; victorious.”
 ------------------------------------------------------------------------
-- *hetāraṃ* \< *hetāram* \< *hetṛ*
+- *hetāraṃ* ← *hetāram* ← *hetṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rathītamam* \< *rathītama*
+- *rathītamam* ← *rathītama*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *atūrtaṃ* \< *a*
+- *atūrtaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *atūrtaṃ* \< *tūrtam* \< *tṛ*
+- *atūrtaṃ* ← *tūrtam* ← *tṛ*
 - \[verb noun\], accusative, singular
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *tugryāvṛdham* \< *tugryāvṛdh*
+- *tugryāvṛdham* ← *tugryāvṛdh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

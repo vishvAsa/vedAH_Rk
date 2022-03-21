@@ -2,66 +2,66 @@
 title = "Rig Veda 10.94.7"
 
 +++
--   *daśāvanibhyo* \< *daśa* \< *daśan*
+-   *daśāvanibhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśāvanibhyo* \< *avanibhyaḥ* \< *avani*
+- *daśāvanibhyo* ← *avanibhyaḥ* ← *avani*
 - \[noun\], dative, plural, masculine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *daśakakṣyebhyo* \< *daśa* \< *daśan*
+- *daśakakṣyebhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśakakṣyebhyo* \< *kakṣyebhyaḥ* \< *kakṣyā*
+- *daśakakṣyebhyo* ← *kakṣyebhyaḥ* ← *kakṣyā*
 - \[noun\], dative, plural, masculine
 - “girdle; rampart; wall; enclosure; cinch.”
 ------------------------------------------------------------------------
-- *daśayoktrebhyo* \< *daśa* \< *daśan*
+- *daśayoktrebhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśayoktrebhyo* \< *yoktrebhyaḥ* \< *yoktra*
+- *daśayoktrebhyo* ← *yoktrebhyaḥ* ← *yoktra*
 - \[noun\], dative, plural, masculine
 ------------------------------------------------------------------------
-- *daśayojanebhyaḥ* \< *daśa* \< *daśan*
+- *daśayojanebhyaḥ* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśayojanebhyaḥ* \< *yojanebhyaḥ* \< *yojana*
+- *daśayojanebhyaḥ* ← *yojanebhyaḥ* ← *yojana*
 - \[noun\], dative, plural, masculine
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
-- *daśābhīśubhyo* \< *daśa* \< *daśan*
+- *daśābhīśubhyo* ← *daśa* ← *daśan*
 - \[noun\]
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśābhīśubhyo* \< *abhīśubhyaḥ* \< *abhīśu*
+- *daśābhīśubhyo* ← *abhīśubhyaḥ* ← *abhīśu*
 - \[noun\], dative, plural, masculine
 - “beam; rein.”
 ------------------------------------------------------------------------
-- *arcatājarebhyo* \< *arcata* \< *arc*
+- *arcatājarebhyo* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *arcatājarebhyo* \< *ajarebhyaḥ* \< *ajara*
+- *arcatājarebhyo* ← *ajarebhyaḥ* ← *ajara*
 - \[noun\], dative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *dhuro* \< *dhuraḥ* \< *dhur*
+- *dhuro* ← *dhuraḥ* ← *dhur*
 - \[noun\], accusative, plural, feminine
 - “yoke; dhur \[word\].”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *yuktā* \< *yuktāḥ* \< *yuj*
+- *yuktā* ← *yuktāḥ* ← *yuj*
 - \[verb noun\], accusative, plural
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -69,7 +69,7 @@ title = "Rig Veda 10.94.7"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *vahadbhyaḥ* \< *vah*
+- *vahadbhyaḥ* ← *vah*
 - \[verb noun\], dative, plural
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”

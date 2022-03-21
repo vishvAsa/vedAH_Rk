@@ -2,46 +2,46 @@
 title = "Rig Veda 10.139.3"
 
 +++
--   *rāyo* \< *rāyaḥ* \< *rai*
+-   *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *budhnaḥ* \< *budhna*
+- *budhnaḥ* ← *budhna*
 - \[noun\], nominative, singular, masculine
 - “bottom; bottom; base.”
 ------------------------------------------------------------------------
-- *saṃgamano* \< *saṃgamanaḥ* \< *saṃgamana*
+- *saṃgamano* ← *saṃgamanaḥ* ← *saṃgamana*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *rūpābhi* \< *rūpā* \< *rūpa*
+- *rūpābhi* ← *rūpā* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *rūpābhi* \< *abhi*
+- *rūpābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *caṣṭe* \< *cakṣ*
+- *caṣṭe* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *deva* \< *devaḥ* \< *deva*
+- *deva* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -50,19 +50,19 @@ title = "Rig Veda 10.139.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *satyadharmendro* \< *satya*
+- *satyadharmendro* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyadharmendro* \< *dharmā* \< *dharman*
+- *satyadharmendro* ← *dharmā* ← *dharman*
 - \[noun\], nominative, singular, masculine
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *satyadharmendro* \< *indraḥ* \< *indra*
+- *satyadharmendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -71,7 +71,7 @@ title = "Rig Veda 10.139.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

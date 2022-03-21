@@ -2,73 +2,73 @@
 title = "Rig Veda 10.98.7"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *devāpiḥ* \< *devāpi*
+- *devāpiḥ* ← *devāpi*
 - \[noun\], nominative, singular, masculine
 - “Devāpi.”
 ------------------------------------------------------------------------
-- *śantanave* \< *śaṃtanu*
+- *śantanave* ← *śaṃtanu*
 - \[noun\], dative, singular, masculine
 - “Śaṃtanu; Śaṃtanu.”
 ------------------------------------------------------------------------
-- *purohito* \< *purohitaḥ* \< *purohita*
+- *purohito* ← *purohitaḥ* ← *purohita*
 - \[noun\], nominative, singular, masculine
 - “Purohita; purohita \[word\].”
 ------------------------------------------------------------------------
-- *hotrāya* \< *hotra*
+- *hotrāya* ← *hotra*
 - \[noun\], dative, singular, neuter
 - “yajña; sacrifice.”
 ------------------------------------------------------------------------
-- *vṛtaḥ* \< *vṛ*
+- *vṛtaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *kṛpayann* \< *kṛpayan* \< *kṛpay* \< *√kṛp*
+- *kṛpayann* ← *kṛpayan* ← *kṛpay* ← *√kṛp*
 - \[verb noun\], nominative, singular
 - “miss.”
 ------------------------------------------------------------------------
-- *adīdhet* \< *dhī*
+- *adīdhet* ← *dhī*
 - \[verb\], singular, Imperfect
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
-- *devaśrutaṃ* \< *deva*
+- *devaśrutaṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaśrutaṃ* \< *śrutam* \< *śrut*
+- *devaśrutaṃ* ← *śrutam* ← *śrut*
 - \[noun\], accusative, singular, feminine
 - “listening.”
 ------------------------------------------------------------------------
-- *vṛṣṭivaniṃ* \< *vṛṣṭi*
+- *vṛṣṭivaniṃ* ← *vṛṣṭi*
 - \[noun\], feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *vṛṣṭivaniṃ* \< *vanim* \< *vani*
+- *vṛṣṭivaniṃ* ← *vanim* ← *vani*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *rarāṇo* \< *rarāṇaḥ* \< *rā*
+- *rarāṇo* ← *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ayacchat* \< *yam*
+- *ayacchat* ← *yam*
 - \[verb\], singular, Imperfect
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

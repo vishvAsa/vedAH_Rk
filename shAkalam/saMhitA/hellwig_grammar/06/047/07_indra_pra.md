@@ -11,19 +11,19 @@ title = "Rig Veda 6.47.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇaḥ* \< *naḥ* \< *mad*
+- *ṇaḥ* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *puraeteva* \< *puraetā* \< *puraetṛ*
+- *puraeteva* ← *puraetā* ← *puraetṛ*
 - \[noun\], nominative, singular, masculine
 - “guide; leader; harbinger.”
 ------------------------------------------------------------------------
-- *puraeteva* \< *iva*
+- *puraeteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *paśya* \< *paś*
+- *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -32,61 +32,61 @@ title = "Rig Veda 6.47.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *naya* \< *nī*
+- *naya* ← *nī*
 - \[verb\], singular, Present imperative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram*
+- *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
-- *vasyo* \< *vasyaḥ* \< *vasyas*
+- *vasyo* ← *vasyaḥ* ← *vasyas*
 - \[noun\], accusative, singular, neuter
 - “good fortune; well-being.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhava* \< *bhū*
+- *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *supāro* \< *su*
+- *supāro* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supāro* \< *pāraḥ* \< *pāra*
+- *supāro* ← *pāraḥ* ← *pāra*
 - \[noun\], nominative, singular, masculine
 - “pāra \[word\].”
 ------------------------------------------------------------------------
-- *atipārayo* \< *atipārayaḥ* \< *atipāraya*
+- *atipārayo* ← *atipārayaḥ* ← *atipāraya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhava* \< *bhū*
+- *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sunītir* \< *su*
+- *sunītir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sunītir* \< *nītiḥ* \< *nīti*
+- *sunītir* ← *nītiḥ* ← *nīti*
 - \[noun\], nominative, singular, masculine
 - “caution; good behavior; policy; politics.”
 ------------------------------------------------------------------------
@@ -94,11 +94,11 @@ title = "Rig Veda 6.47.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *vāmanītiḥ* \< *vāma*
+- *vāmanītiḥ* ← *vāma*
 - \[noun\]
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
-- *vāmanītiḥ* \< *nītiḥ* \< *nīti*
+- *vāmanītiḥ* ← *nītiḥ* ← *nīti*
 - \[noun\], nominative, singular, masculine
 - “caution; good behavior; policy; politics.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 4.18.5"
 
 +++
--   *avadyam* \< *avadya*
+-   *avadyam* ← *avadya*
 - \[noun\], accusative, singular, masculine
 - “blameworthy; avadya \[word\].”
 ------------------------------------------------------------------------
@@ -10,17 +10,17 @@ title = "Rig Veda 4.18.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *manyamānā* \< *man*
+- *manyamānā* ← *man*
 - \[verb noun\], nominative, singular
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *guhākar* \< *guhā*
+- *guhākar* ← *guhā*
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *guhākar* \< *akaḥ* \< *kṛ*
+- *guhākar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -31,39 +31,39 @@ title = "Rig Veda 4.18.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vīryeṇā* \< *vīryeṇa* \< *vīrya*
+- *vīryeṇā* ← *vīryeṇa* ← *vīrya*
 - \[noun\], instrumental, singular, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];
     virility; manfulness; jewel; force.”
 ------------------------------------------------------------------------
-- *vīryeṇā* \< *ā*
+- *vīryeṇā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nyṛṣṭam* \< *nyṛṣ* \< *√ṛṣ*
+- *nyṛṣṭam* ← *nyṛṣ* ← *√ṛṣ*
 - \[verb noun\], accusative, singular
 - “fill; stuff.”
 ------------------------------------------------------------------------
-- *athod* \< *atha*
+- *athod* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athod* \< *ud*
+- *athod* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *asthāt* \< *sthā*
+- *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -73,7 +73,7 @@ title = "Rig Veda 4.18.5"
 - \[adverb\]
 - “personally; spontaneously; svayam \[word\]; voluntarily.”
 ------------------------------------------------------------------------
-- *atkaṃ* \< *atkam* \< *atka*
+- *atkaṃ* ← *atkam* \< *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------

@@ -5,11 +5,11 @@ title = "Rig Veda 8.60.14"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -19,52 +19,52 @@ title = "Rig Veda 8.60.14"
 - \[noun\], vocative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *pratidhṛṣe* \< *pratidhṛṣ* \< *√dhṛṣ*
+- *pratidhṛṣe* ← *pratidhṛṣ* ← *√dhṛṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *jambhāso* \< *jambhāsaḥ* \< *jambha*
+- *jambhāso* ← *jambhāsaḥ* ← *jambha*
 - \[noun\], nominative, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vitiṣṭhase* \< *viṣṭhā* \< *√sthā*
+- *vitiṣṭhase* ← *viṣṭhā* ← *√sthā*
 - \[verb\], singular, Present indikative
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hotaḥ* \< *hotar* \< *hotṛ*
+- *hotaḥ* ← *hotar* ← *hotṛ*
 - \[noun\], vocative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *suhutaṃ* \< *su*
+- *suhutaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhutaṃ* \< *hutam* \< *hu*
+- *suhutaṃ* ← *hutam* ← *hu*
 - \[verb noun\], accusative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *haviṣ* \< *haviḥ* \< *havis*
+- *haviṣ* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -75,15 +75,15 @@ title = "Rig Veda 8.60.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vaṃsvā* \< *vaṃsva* \< *van*
+- *vaṃsvā* ← *vaṃsva* ← *van*
 - \[verb\], singular, Aorist imperative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vāryā* \< *vārya*
+- *vāryā* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
 ------------------------------------------------------------------------

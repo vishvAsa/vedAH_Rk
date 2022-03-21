@@ -2,82 +2,82 @@
 title = "Rig Veda 9.86.41"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *bhandanā* \< *bhandanāḥ* \< *bhandanā*
+- *bhandanā* ← *bhandanāḥ* ← *bhandanā*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *prajāvatīr* \< *prajāvatīḥ* \< *prajāvat*
+- *prajāvatīr* ← *prajāvatīḥ* ← *prajāvat*
 - \[noun\], accusative, plural, feminine
 - “prolific.”
 ------------------------------------------------------------------------
-- *viśvāyur* \< *viśvāyuḥ* \< *viśvāyu*
+- *viśvāyur* ← *viśvāyuḥ* ← *viśvāyu*
 - \[noun\], nominative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *viśvāḥ* \< *viśva*
+- *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *subharā* \< *subharāḥ* \< *subhara*
+- *subharā* ← *subharāḥ* ← *subhara*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *ahardivi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *prajāvad* \< *prajāvat*
+- *prajāvad* ← *prajāvat*
 - \[noun\], accusative, singular, neuter
 - “prolific.”
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *aśvapastyam* \< *aśva*
+- *aśvapastyam* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvapastyam* \< *pastyam* \< *pastya*
+- *aśvapastyam* ← *pastyam* ← *pastya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *pīta* \< *pītaḥ* \< *pā*
+- *pīta* ← *pītaḥ* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *indav* \< *indo* \< *indu*
+- *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yācatāt* \< *yāc*
+- *yācatāt* ← *yāc*
 - \[verb\], singular, Present imperative
 - “beg; ask; offer; ask.”
 ------------------------------------------------------------------------

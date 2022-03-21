@@ -2,27 +2,27 @@
 title = "Rig Veda 1.28.5"
 
 +++
--   *yacciddhi* \< *yat*
+-   *yacciddhi* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *cit*
+- *yacciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yacciddhi* \< *hi*
+- *yacciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *gṛha* \< *gṛhe* \< *gṛha*
+- *gṛha* ← *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 1.28.5"
 - \[noun\], vocative, singular, masculine
 - “mortar.”
 ------------------------------------------------------------------------
-- *yujyase* \< *yuj*
+- *yujyase* ← *yuj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -42,15 +42,15 @@ title = "Rig Veda 1.28.5"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *dyumattamaṃ* \< *dyumattamam* \< *dyumattama*
+- *dyumattamaṃ* ← *dyumattamam* ← *dyumattama*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vada* \< *vad*
+- *vada* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *jayatām* \< *ji*
+- *jayatām* ← *ji*
 - \[verb noun\], genitive, plural
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -59,7 +59,7 @@ title = "Rig Veda 1.28.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dundubhiḥ* \< *dundubhi*
+- *dundubhiḥ* ← *dundubhi*
 - \[noun\], nominative, singular, masculine
 - “dundubhi; war drum; Dundubhi; Vishnu.”
 ------------------------------------------------------------------------

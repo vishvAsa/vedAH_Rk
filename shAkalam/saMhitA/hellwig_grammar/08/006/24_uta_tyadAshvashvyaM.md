@@ -6,18 +6,18 @@ title = "Rig Veda 8.6.24"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyad* \< *tya*
+- *tyad* ← *tya*
 - \[noun\], accusative, singular, neuter
 - “that.”
 ------------------------------------------------------------------------
-- *āśvaśvyaṃ* \< *āśu*
+- *āśvaśvyaṃ* ← *āśu*
 - \[noun\]
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
-- *āśvaśvyaṃ* \< *aśvyam* \< *aśvya*
+- *āśvaśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 8.6.24"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *nāhuṣīṣv* \< *nāhuṣīṣu* \< *nāhuṣa*
+- *nāhuṣīṣv* ← *nāhuṣīṣu* ← *nāhuṣa*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *agre* \< *agra*
+- *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *pradīdayat* \< *pradīdī* \< *√dīdī*
+- *pradīdayat* ← *pradīdī* ← *√dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------

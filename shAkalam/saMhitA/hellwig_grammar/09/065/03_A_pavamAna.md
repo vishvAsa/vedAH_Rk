@@ -6,36 +6,36 @@ title = "Rig Veda 9.65.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *suṣṭutiṃ* \< *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutiṃ* ← *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *devebhyo* \< *devebhyaḥ* \< *deva*
+- *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *duvaḥ* \< *duvas*
+- *duvaḥ* ← *duvas*
 - \[noun\], accusative, singular, neuter
 - “worship.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *saṃyatam* \< *saṃyat*
+- *saṃyatam* ← *saṃyat*
 - \[noun\], accusative, singular, feminine
 - “continuous.”
 ------------------------------------------------------------------------

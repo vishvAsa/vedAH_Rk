@@ -2,13 +2,13 @@
 title = "Rig Veda 9.36.2"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vahniḥ* \< *vahni*
+- *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
@@ -18,20 +18,20 @@ title = "Rig Veda 9.36.2"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *devavīr* \< *deva*
+- *devavīr* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavīr* \< *vīḥ* \< *vī*
+- *devavīr* ← *vīḥ* ← *vī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *ati*
@@ -42,11 +42,11 @@ title = "Rig Veda 9.36.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kośam* \< *kośa*
+- *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *madhuścutam* \< *madhuścut*
+- *madhuścutam* ← *madhuścut*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 8.72.16"
 
 +++
--   *adhukṣat* \< *duh*
+-   *adhukṣat* ← *duh*
 - \[verb\], singular, sa aorist (Ind.)
 - “milk.”
 ------------------------------------------------------------------------
-- *pipyuṣīm* \< *pyā*
+- *pipyuṣīm* ← *pyā*
 - \[verb noun\], accusative, singular
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *ūrjaṃ* \< *ūrjam* \< *ūrj*
+- *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *saptapadīm* \< *saptapadī*
+- *saptapadīm* ← *saptapadī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *ariḥ* \< *ari*
+- *ariḥ* ← *ari*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------

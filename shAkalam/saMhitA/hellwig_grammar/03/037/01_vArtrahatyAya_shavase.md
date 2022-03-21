@@ -2,14 +2,14 @@
 title = "Rig Veda 3.37.1"
 
 +++
--   *vārtrahatyāya* \< *vārtrahatya*
+-   *vārtrahatyāya* ← *vārtrahatya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *pṛtanāṣāhyāya* \< *pṛtanāṣāhya*
+- *pṛtanāṣāhyāya* ← *pṛtanāṣāhya*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
 - *ca*
@@ -21,11 +21,11 @@ title = "Rig Veda 3.37.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vartayāmasi* \< *vartay* \< *√vṛt*
+- *vartayāmasi* ← *vartay* ← *√vṛt*
 - \[verb\], plural, Present indikative
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”

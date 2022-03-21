@@ -2,44 +2,44 @@
 title = "Rig Veda 8.74.13"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *huvāna* \< *huvānaḥ* \< *hvā*
+- *huvāna* ← *huvānaḥ* ← *hvā*
 - \[verb noun\], nominative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *ārkṣe* \< *ārkṣa*
+- *ārkṣe* ← *ārkṣa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *śrutarvaṇi* \< *śrutarvan*
+- *śrutarvaṇi* ← *śrutarvan*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *madacyuti* \< *madacyut*
+- *madacyuti* ← *madacyut*
 - \[noun\], locative, singular, masculine
 - “proud.”
 ------------------------------------------------------------------------
-- *śardhāṃsīva* \< *śardhāṃsi* \< *śardhas*
+- *śardhāṃsīva* ← *śardhāṃsi* ← *śardhas*
 - \[noun\], accusative, plural, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *śardhāṃsīva* \< *iva*
+- *śardhāṃsīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *stukāvinām* \< *stukāvin*
+- *stukāvinām* ← *stukāvin*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *mṛkṣā* \< *mṛj*
+- *mṛkṣā* ← *mṛj*
 - \[verb\], singular, Aorist conj./subj.
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *śīrṣā* \< *śīrṣa*
+- *śīrṣā* ← *śīrṣa*
 - \[noun\], accusative, plural, neuter
 - “head; battlefront; ear; front; śīrṣa \[word\]; tip; skull.”
 ------------------------------------------------------------------------
-- *caturṇām* \< *catur*
+- *caturṇām* ← *catur*
 - \[noun\], genitive, plural, masculine
 - “four; catur \[word\].”
 ------------------------------------------------------------------------

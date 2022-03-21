@@ -6,47 +6,47 @@ title = "Rig Veda 10.48.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *namī* \< *nami*
+- *namī* ← *nami*
 - \[noun\], nominative, singular, masculine
 - “Nami.”
 ------------------------------------------------------------------------
-- *sāpya* \< *sāpyaḥ* \< *sāpya*
+- *sāpya* ← *sāpyaḥ* ← *sāpya*
 - \[noun\], nominative, singular, masculine
 - “Nami.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *bhuje* \< *bhuj*
+- *bhuje* ← *bhuj*
 - \[verb noun\]
 - “eat; enjoy; consume; eat; love; burn; run down; enjoy; live on.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *eṣe* \< *eṣa*
+- *eṣe* ← *eṣa*
 - \[noun\], locative, singular, masculine
 - “quest.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *kṛṇuta* \< *kṛ*
+- *kṛṇuta* ← *kṛ*
 - \[verb\], singular, Present injunctive
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,11 +61,11 @@ title = "Rig Veda 10.48.9"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *didyuṃ* \< *didyum* \< *didyu*
+- *didyuṃ* ← *didyum* ← *didyu*
 - \[noun\], accusative, singular, masculine
 - “arrow; projectile.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------

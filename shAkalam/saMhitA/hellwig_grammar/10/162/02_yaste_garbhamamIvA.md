@@ -2,15 +2,15 @@
 title = "Rig Veda 10.162.2"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *garbham* \< *garbha*
+- *garbham* ← *garbha*
 - \[noun\], accusative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
@@ -20,32 +20,32 @@ title = "Rig Veda 10.162.2"
 - \[noun\], nominative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *durṇāmā* \< *durṇāman*
+- *durṇāmā* ← *durṇāman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āśaye* \< *āśī* \< *√śī*
+- *āśaye* ← *āśī* ← *√śī*
 - \[verb\], singular, Present indikative
 - “lie; stay.”
 ------------------------------------------------------------------------
-- *agniṣ* \< *agniḥ* \< *agni*
+- *agniṣ* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ṭam* \< *tad*
+- *ṭam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *brahmaṇā* \< *brahman*
+- *brahmaṇā* ← *brahman*
 - \[noun\], instrumental, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
@@ -54,15 +54,15 @@ title = "Rig Veda 10.162.2"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *niṣ* \< *niḥ*
+- *niṣ* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *kravyādam* \< *kravyād*
+- *kravyādam* ← *kravyād*
 - \[noun\], accusative, singular, masculine
 - “carnivore.”
 ------------------------------------------------------------------------
-- *anīnaśat* \< *naś*
+- *anīnaśat* ← *naś*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------

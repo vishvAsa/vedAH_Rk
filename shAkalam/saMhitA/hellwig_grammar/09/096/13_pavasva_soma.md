@@ -2,7 +2,7 @@
 title = "Rig Veda 9.96.13"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 9.96.13"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *madhumāṃ* \< *madhumat*
+- *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *ṛtāvāpo* \< *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvāpo* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ṛtāvāpo* \< *apaḥ* \< *ap*
+- *ṛtāvāpo* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vasāno* \< *vasānaḥ* \< *vas*
+- *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
@@ -30,43 +30,43 @@ title = "Rig Veda 9.96.13"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *sāno* \< *sānu*
+- *sāno* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *avye* \< *avya*
+- *avye* ← *avya*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *droṇāni* \< *droṇa*
+- *droṇāni* ← *droṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *ghṛtavānti* \< *ghṛtavat*
+- *ghṛtavānti* ← *ghṛtavat*
 - \[noun\], accusative, plural, neuter
 - “buttery.”
 ------------------------------------------------------------------------
-- *sīda* \< *sad*
+- *sīda* ← *sad*
 - \[verb\], singular, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *madintamo* \< *madintamaḥ* \< *madintama*
+- *madintamo* ← *madintamaḥ* ← *madintama*
 - \[noun\], nominative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
-- *matsara* \< *matsaraḥ* \< *matsara*
+- *matsara* ← *matsaraḥ* ← *matsara*
 - \[noun\], nominative, singular, masculine
 - “intoxicant; invigorating; hostile.”
 ------------------------------------------------------------------------
-- *indrapānaḥ* \< *indra*
+- *indrapānaḥ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrapānaḥ* \< *pānaḥ* \< *pāna*
+- *indrapānaḥ* ← *pānaḥ* ← *pāna*
 - \[noun\], nominative, singular, masculine
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”

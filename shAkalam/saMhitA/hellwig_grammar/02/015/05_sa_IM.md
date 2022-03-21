@@ -2,41 +2,41 @@
 title = "Rig Veda 2.15.5"
 
 +++
--   *sa* \< *saḥ* \< *tad*
+-   *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mahīṃ* \< *mahīm* \< *mah*
+- *mahīṃ* ← *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *dhunim* \< *dhunī*
+- *dhunim* ← *dhunī*
 - \[noun\], accusative, singular, feminine
 - “river.”
 ------------------------------------------------------------------------
-- *etor* \< *etoḥ* \< *i*
+- *etor* ← *etoḥ* ← *i*
 - \[verb noun\]
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *aramṇāt* \< *ram*
+- *aramṇāt* ← *ram*
 - \[verb\], singular, Imperfect
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asnātṝn* \< *asnātṛ*
+- *asnātṝn* ← *asnātṛ*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *apārayat* \< *pāray* \< *√pṛ*
+- *apārayat* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Imperfect
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
@@ -45,16 +45,16 @@ title = "Rig Veda 2.15.5"
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *utsnāya* \< *utsnā* \< *√snā*
+- *utsnāya* ← *utsnā* ← *√snā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *rayim* \< *rayi*
+- *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -66,34 +66,34 @@ title = "Rig Veda 2.15.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tasthuḥ* \< *sthā*
+- *tasthuḥ* ← *sthā*
 - \[verb\], plural, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mada* \< *made* \< *mada*
+- *mada* ← *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *indraś* \< *indraḥ* \< *indra*
+- *indraś* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

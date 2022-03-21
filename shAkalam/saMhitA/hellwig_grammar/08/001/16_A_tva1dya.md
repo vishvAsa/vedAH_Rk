@@ -6,7 +6,7 @@ title = "Rig Veda 8.1.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tv* \< *tu*
+- *tv* ← *tu*
 - \[adverb\]
 - “now; then; but; and; now; however; then; then; surely.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 8.1.16"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *sadhastutiṃ* \< *sadhastutim* \< *sadhastuti*
+- *sadhastutiṃ* ← *sadhastutim* ← *sadhastuti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vāvātuḥ* \< *vāvātṛ*
+- *vāvātuḥ* ← *vāvātṛ*
 - \[noun\], genitive, singular, masculine
 - “follower.”
 ------------------------------------------------------------------------
-- *sakhyur* \< *sakhyuḥ* \< *sakhi*
+- *sakhyur* ← *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -29,18 +29,18 @@ title = "Rig Veda 8.1.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *upastutir* \< *upastutiḥ* \< *upastuti*
+- *upastutir* ← *upastutiḥ* ← *upastuti*
 - \[noun\], nominative, singular, feminine
 - “praise; applause.”
 ------------------------------------------------------------------------
-- *maghonām* \< *maghavan*
+- *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
@@ -48,27 +48,27 @@ title = "Rig Veda 8.1.16"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tvāvatv* \< *tvā* \< *tvad*
+- *tvāvatv* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāvatv* \< *avatu* \< *av*
+- *tvāvatv* ← *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vaśmi* \< *vaś*
+- *vaśmi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------

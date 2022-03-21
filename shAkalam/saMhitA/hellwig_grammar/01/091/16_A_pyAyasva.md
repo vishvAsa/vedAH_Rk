@@ -6,7 +6,7 @@ title = "Rig Veda 1.91.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pyāyasva* \< *pyā*
+- *pyāyasva* ← *pyā*
 - \[verb\], singular, Present imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 1.91.16"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
@@ -30,21 +30,21 @@ title = "Rig Veda 1.91.16"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vṛṣṇyam* \< *vṛṣṇya*
+- *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], nominative, singular, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhavāḥ* \< *bhū*
+- *bhavā* ← *bhavāḥ* ← *bhū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vājasya* \< *vāja*
+- *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *saṃgathe* \< *saṃgatha*
+- *saṃgathe* ← *saṃgatha*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------

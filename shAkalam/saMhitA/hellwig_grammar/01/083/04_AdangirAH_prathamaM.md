@@ -2,64 +2,64 @@
 title = "Rig Veda 1.83.4"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *aṅgirāḥ* \< *aṅgiras*
+- *aṅgirāḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *dadhire* \< *dhā*
+- *dadhire* ← *dhā*
 - \[verb\], plural, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vaya* \< *vayaḥ* \< *vayas*
+- *vaya* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *iddhāgnayaḥ* \< *iddha* \< *indh*
+- *iddhāgnayaḥ* ← *iddha* ← *indh*
 - \[verb noun\]
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *iddhāgnayaḥ* \< *agnayaḥ* \< *agni*
+- *iddhāgnayaḥ* ← *agnayaḥ* ← *agni*
 - \[noun\], nominative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *śamyā* \< *śamī*
+- *śamyā* ← *śamī*
 - \[noun\], instrumental, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *su*
+- *sukṛtyayā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtyayā* \< *kṛtyayā* \< *kṛtyā*
+- *sukṛtyayā* ← *kṛtyayā* ← *kṛtyā*
 - \[noun\], instrumental, singular, feminine
 - “magic; spirit; kṛtyā; Kṛtyā; witchcraft; act.”
 ------------------------------------------------------------------------
-- *sarvam* \< *sarva*
+- *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *paṇeḥ* \< *paṇi*
+- *paṇeḥ* ← *paṇi*
 - \[noun\], genitive, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
@@ -67,19 +67,19 @@ title = "Rig Veda 1.83.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *avindanta* \< *vid*
+- *avindanta* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *bhojanam* \< *bhojana*
+- *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *aśvāvantaṃ* \< *aśvāvantam* \< *aśvāvat*
+- *aśvāvantaṃ* ← *aśvāvantam* ← *aśvāvat*
 - \[noun\], accusative, singular, masculine
 - “rich in horses.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
@@ -87,12 +87,12 @@ title = "Rig Veda 1.83.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paśuṃ* \< *paśum* \< *paśu*
+- *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

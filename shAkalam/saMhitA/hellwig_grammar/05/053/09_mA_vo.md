@@ -6,32 +6,32 @@ title = "Rig Veda 5.53.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *rasānitabhā* \< *rasā*
+- *rasānitabhā* ← *rasā*
 - \[noun\], nominative, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
-- *rasānitabhā* \< *anitabhā*
+- *rasānitabhā* ← *anitabhā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *kubhā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *krumur* \< *krumuḥ* \< *krumu*
+- *krumur* ← *krumuḥ* ← *krumu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 5.53.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *rīramat* \< *ram*
+- *rīramat* ← *ram*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@ title = "Rig Veda 5.53.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -55,36 +55,36 @@ title = "Rig Veda 5.53.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṭhāt* \< *sthāt* \< *sthā*
+- *ṣṭhāt* ← *sthāt* ← *sthā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *sarayuḥ* \< *sarayu*
+- *sarayuḥ* ← *sarayu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *purīṣiṇy* \< *purīṣiṇī* \< *purīṣin*
+- *purīṣiṇy* ← *purīṣiṇī* ← *purīṣin*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], nominative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------

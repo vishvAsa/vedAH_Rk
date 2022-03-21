@@ -2,48 +2,48 @@
 title = "Rig Veda 3.58.6"
 
 +++
--   *purāṇam* \< *purāṇa*
+-   *purāṇam* ← *purāṇa*
 - \[noun\], nominative, singular, neuter
 - “age-old; stale; old; old; traditional; aged.”
 ------------------------------------------------------------------------
-- *okaḥ* \< *oka*
+- *okaḥ* ← *oka*
 - \[noun\], nominative, singular, neuter
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *sakhyaṃ* \< *sakhyam* \< *sakhya*
+- *sakhyaṃ* ← *sakhyam* ← *sakhya*
 - \[noun\], nominative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *śivaṃ* \< *śivam* \< *śiva*
+- *śivaṃ* ← *śivam* ← *śiva*
 - \[noun\], nominative, singular, neuter
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *draviṇaṃ* \< *draviṇam* \< *draviṇa*
+- *draviṇaṃ* ← *draviṇam* ← *draviṇa*
 - \[noun\], nominative, singular, neuter
 - “wealth; property; money; jewel.”
 ------------------------------------------------------------------------
-- *jahnāvyām* \< *jahnāvī*
+- *jahnāvyām* ← *jahnāvī*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *kṛṇvānāḥ* \< *kṛ*
+- *kṛṇvānāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,20 +54,20 @@ title = "Rig Veda 3.58.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sakhyā* \< *sakhya*
+- *sakhyā* ← *sakhya*
 - \[noun\], accusative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *śivāni* \< *śiva*
+- *śivāni* ← *śiva*
 - \[noun\], accusative, plural, neuter
 - “auspicious; benevolent; benign; good-hearted; dear; śiva \[word\];
     holy; nice.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madema* \< *mad*
+- *madema* ← *mad*
 - \[verb\], plural, Present optative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -75,11 +75,11 @@ title = "Rig Veda 3.58.6"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *nū* \< *nu*
+- *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *samānāḥ* \< *samāna*
+- *samānāḥ* ← *samāna*
 - \[noun\], nominative, plural, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”

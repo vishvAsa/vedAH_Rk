@@ -2,7 +2,7 @@
 title = "Rig Veda 8.45.12"
 
 +++
--   *ūrdhvā* \< *ūrdhva*
+-   *ūrdhvā* ← *ūrdhva*
 - \[noun\], nominative, singular, feminine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
@@ -11,19 +11,19 @@ title = "Rig Veda 8.45.12"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *dive* \< *diva*
+- *dive* ← *diva*
 - \[noun\], locative, singular, neuter
 - “day; sky; Svarga.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -31,14 +31,14 @@ title = "Rig Veda 8.45.12"
 - \[noun\], nominative, singular, feminine
 - “liberality.”
 ------------------------------------------------------------------------
-- *śatā* \< *śata*
+- *śatā* ← *śata*
 - \[noun\], accusative, plural, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *jaritṛbhyo* \< *jaritṛbhyaḥ* \< *jaritṛ*
+- *jaritṛbhyo* ← *jaritṛbhyaḥ* ← *jaritṛ*
 - \[noun\], dative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *vimaṃhate* \< *vimah* \< *√mah*
+- *vimaṃhate* ← *vimah* ← *√mah*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

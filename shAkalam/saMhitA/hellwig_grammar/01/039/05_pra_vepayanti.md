@@ -6,10 +6,10 @@ title = "Rig Veda 1.39.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vepayanti* \< *vepay* \< *√vip*
+- *vepayanti* ← *vepay* ← *√vip*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *parvatān* \< *parvata*
+- *parvatān* ← *parvata*
 - \[noun\], accusative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -18,31 +18,31 @@ title = "Rig Veda 1.39.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *viñcanti* \< *vic*
+- *viñcanti* ← *vic*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *vanaspatīn* \< *vanaspati*
+- *vanaspatīn* ← *vanaspati*
 - \[noun\], accusative, plural, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
-- *pro* \< *pra*
+- *pro* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *pro* \< *u*
+- *pro* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ārata* \< *ṛch*
+- *ārata* ← *ṛch*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *durmadā* \< *durmadāḥ* \< *durmada*
+- *durmadā* ← *durmadāḥ* ← *durmada*
 - \[noun\], nominative, plural, masculine
 - “delirious; brainsick; fierce; crazy.”
 ------------------------------------------------------------------------
@@ -50,18 +50,18 @@ title = "Rig Veda 1.39.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *devāsaḥ* \< *deva*
+- *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sarvayā* \< *sarva*
+- *sarvayā* ← *sarva*
 - \[noun\], instrumental, singular, feminine
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *viśā* \< *viś*
+- *viśā* ← *viś*
 - \[noun\], instrumental, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

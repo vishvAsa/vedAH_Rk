@@ -2,35 +2,35 @@
 title = "Rig Veda 1.35.11"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *panthāḥ* \< *pathin*
+- *panthāḥ* ← *pathin*
 - \[noun\], nominative, plural
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *savitaḥ* \< *savitar* \< *savitṛ*
+- *savitaḥ* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *pūrvyāso* \< *pūrvyāsaḥ* \< *pūrvya*
+- *pūrvyāso* ← *pūrvyāsaḥ* ← *pūrvya*
 - \[noun\], nominative, plural, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *'reṇavaḥ* \< *areṇavaḥ* \< *areṇu*
+- *'reṇavaḥ* ← *areṇavaḥ* ← *areṇu*
 - \[noun\], nominative, plural, masculine
 - “clean.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *su*
+- *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *kṛtāḥ* \< *kṛ*
+- *sukṛtā* ← *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,17 +41,17 @@ title = "Rig Veda 1.35.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *antarikṣe* \< *antarikṣa*
+- *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *tebhir* \< *tebhiḥ* \< *tad*
+- *tebhir* ← *tebhiḥ* ← *tad*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -59,19 +59,19 @@ title = "Rig Veda 1.35.11"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *pathibhiḥ* \< *pathin*
+- *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *sugebhī* \< *su*
+- *sugebhī* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sugebhī* \< *gebhiḥ* \< *ga*
+- *sugebhī* ← *gebhiḥ* ← *ga*
 - \[noun\], instrumental, plural, masculine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣa* \< *rakṣ*
+- *rakṣā* ← *rakṣa* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ title = "Rig Veda 1.35.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -91,7 +91,7 @@ title = "Rig Veda 1.35.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *brūhi* \< *brū*
+- *brūhi* ← *brū*
 - \[verb\], singular, Present imperative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

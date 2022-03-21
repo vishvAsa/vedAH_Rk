@@ -2,11 +2,11 @@
 title = "Rig Veda 9.8.6"
 
 +++
--   *punānaḥ* \< *pū*
+-   *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *kalaśeṣv* \< *kalaśeṣu* \< *kalaśa*
+- *kalaśeṣv* ← *kalaśeṣu* ← *kalaśa*
 - \[noun\], locative, plural, masculine
 - “jar.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 9.8.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vastrāṇy* \< *vastrāṇi* \< *vastra*
+- *vastrāṇy* ← *vastrāṇi* ← *vastra*
 - \[noun\], accusative, plural, neuter
 - “fabric; clothing; dress; vastra \[word\].”
 ------------------------------------------------------------------------
-- *aruṣo* \< *aruṣaḥ* \< *aruṣa*
+- *aruṣo* ← *aruṣaḥ* ← *aruṣa*
 - \[noun\], nominative, singular, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *hariḥ* \< *hari*
+- *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
@@ -31,11 +31,11 @@ title = "Rig Veda 9.8.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *gavyāny* \< *gavyāni* \< *gavya*
+- *gavyāny* ← *gavyāni* ← *gavya*
 - \[noun\], accusative, plural, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *avyata* \< *vye*
+- *avyata* ← *vye*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “cover.”
 ------------------------------------------------------------------------

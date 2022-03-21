@@ -2,50 +2,50 @@
 title = "Rig Veda 9.82.3"
 
 +++
--   *parjanyaḥ* \< *parjanya*
+-   *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mahiṣasya* \< *mahiṣa*
+- *mahiṣasya* ← *mahiṣa*
 - \[noun\], genitive, singular, masculine
 - “Old World buffalo; Mahiṣa; Mahiṣa.”
 ------------------------------------------------------------------------
-- *parṇino* \< *parṇinaḥ* \< *parṇin*
+- *parṇino* ← *parṇinaḥ* ← *parṇin*
 - \[noun\], genitive, singular, masculine
 - “winged; plumed.”
 ------------------------------------------------------------------------
-- *nābhā* \< *nābhi*
+- *nābhā* ← *nābhi*
 - \[noun\], locative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *pṛthivyā* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyā* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *giriṣu* \< *giri*
+- *giriṣu* ← *giri*
 - \[noun\], locative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *svasāra* \< *svasāraḥ* \< *svasṛ*
+- *svasāra* ← *svasāraḥ* ← *svasṛ*
 - \[noun\], nominative, plural, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -53,35 +53,35 @@ title = "Rig Veda 9.82.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *utāsaran* \< *uta*
+- *utāsaran* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāsaran* \< *asaran* \< *sṛ*
+- *utāsaran* ← *asaran* ← *sṛ*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *grāvabhir* \< *grāvabhiḥ* \< *grāvan*
+- *grāvabhir* ← *grāvabhiḥ* ← *grāvan*
 - \[noun\], instrumental, plural, masculine
 - “stone; millstone; grindstone; mountain.”
 ------------------------------------------------------------------------
-- *nasate* \< *nas*
+- *nasate* ← *nas*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vīte* \< *vī*
+- *vīte* ← *vī*
 - \[verb noun\], locative, singular
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

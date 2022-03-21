@@ -2,7 +2,7 @@
 title = "Rig Veda 3.9.4"
 
 +++
--   *īyivāṃsam* \< *i*
+-   *īyivāṃsam* ← *i*
 - \[verb noun\], accusative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 3.9.4"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *sridhaḥ* \< *sridh*
+- *sridhaḥ* ← *sridh*
 - \[noun\], accusative, plural, feminine
 - “failure; damage.”
 ------------------------------------------------------------------------
-- *śaśvatīr* \< *śaśvatīḥ* \< *śaśvat*
+- *śaśvatīr* ← *śaśvatīḥ* ← *śaśvat*
 - \[noun\], accusative, plural, feminine
 - “all(a).”
 ------------------------------------------------------------------------
@@ -22,33 +22,33 @@ title = "Rig Veda 3.9.4"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *saścataḥ* \< *saścant*
+- *saścataḥ* ← *saścant*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *avindan* \< *vid*
+- *avindan* ← *vid*
 - \[verb\], plural, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *nicirāso* \< *nicirāsaḥ* \< *nicira*
+- *nicirāso* ← *nicirāsaḥ* ← *nicira*
 - \[noun\], nominative, plural, masculine
 - “attentive; argus-eyed.”
 ------------------------------------------------------------------------
-- *adruho* \< *adruhaḥ* \< *adruh*
+- *adruho* ← *adruhaḥ* ← *adruh*
 - \[noun\], nominative, plural, masculine
 - “friendly; benign.”
 ------------------------------------------------------------------------
-- *'psu* \< *apsu* \< *ap*
+- *'psu* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *siṃham* \< *siṃha*
+- *siṃham* ← *siṃha*
 - \[noun\], accusative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 3.9.4"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śritam* \< *śri*
+- *śritam* ← *śri*
 - \[verb noun\], accusative, singular
 - “situate; dwell; go; lurk; reach; rear; repose; cling to.”
 ------------------------------------------------------------------------

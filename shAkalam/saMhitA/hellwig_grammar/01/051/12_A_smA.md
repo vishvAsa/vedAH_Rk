@@ -6,40 +6,40 @@ title = "Rig Veda 1.51.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *smā* \< *sma*
+- *smā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vṛṣapāṇeṣu* \< *vṛṣa* \< *vṛṣan*
+- *vṛṣapāṇeṣu* ← *vṛṣa* ← *vṛṣan*
 - \[noun\], masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vṛṣapāṇeṣu* \< *pāṇeṣu* \< *pāna*
+- *vṛṣapāṇeṣu* ← *pāṇeṣu* ← *pāna*
 - \[noun\], locative, plural, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *tiṣṭhasi* \< *sthā*
+- *tiṣṭhasi* ← *sthā*
 - \[verb\], singular, Present indikative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *śāryātasya* \< *śāryāta*
+- *śāryātasya* ← *śāryāta*
 - \[noun\], genitive, singular, masculine
 - “śaryāti.”
 ------------------------------------------------------------------------
-- *prabhṛtā* \< *prabhṛtāḥ* \< *prabhṛ* \< *√bhṛ*
+- *prabhṛtā* ← *prabhṛtāḥ* ← *prabhṛ* ← *√bhṛ*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mandase* \< *mad*
+- *mandase* ← *mad*
 - \[verb\], singular, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
@@ -52,23 +52,23 @@ title = "Rig Veda 1.51.12"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *sutasomeṣu* \< *suta* \< *su*
+- *sutasomeṣu* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasomeṣu* \< *someṣu* \< *soma*
+- *sutasomeṣu* ← *someṣu* ← *soma*
 - \[noun\], locative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *cākano* \< *cākanaḥ* \< *kan*
+- *cākano* ← *cākanaḥ* ← *kan*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *'narvāṇaṃ* \< *anarvāṇam* \< *anarvan*
+- *'narvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 1.51.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rohase* \< *ruh*
+- *rohase* ← *ruh*
 - \[verb\], singular, Present indikative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

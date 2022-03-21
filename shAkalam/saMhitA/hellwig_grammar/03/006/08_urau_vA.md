@@ -2,7 +2,7 @@
 title = "Rig Veda 3.6.8"
 
 +++
--   *urau* \< *uru*
+-   *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
@@ -10,19 +10,19 @@ title = "Rig Veda 3.6.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *antarikṣe* \< *antarikṣa*
+- *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -30,25 +30,25 @@ title = "Rig Veda 3.6.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rocane* \< *rocana*
+- *rocane* ← *rocana*
 - \[noun\], locative, singular, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ūmā* \< *ūmāḥ* \< *ūma*
+- *ūmā* ← *ūmāḥ* ← *ūma*
 - \[noun\], nominative, plural, masculine
 - “assistant.”
 ------------------------------------------------------------------------
@@ -56,37 +56,37 @@ title = "Rig Veda 3.6.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *suhavāso* \< *su*
+- *suhavāso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavāso* \< *havāsaḥ* \< *hava*
+- *suhavāso* ← *havāsaḥ* ← *hava*
 - \[noun\], nominative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *yajatrā* \< *yajatrāḥ* \< *yajatra*
+- *yajatrā* ← *yajatrāḥ* ← *yajatra*
 - \[noun\], nominative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *āyemire* \< *āyam* \< *√yam*
+- *āyemire* ← *āyam* ← *√yam*
 - \[verb\], plural, Perfect indicative
 - “measure in length; measure in width; extend; spread; lengthen;
     unfold; broaden; measure; broaden.”
 ------------------------------------------------------------------------
-- *rathyo* \< *rathyaḥ* \< *rathī*
+- *rathyo* ← *rathyaḥ* ← *rathī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *aśvāḥ* \< *aśva*
+- *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

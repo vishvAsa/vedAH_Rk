@@ -2,20 +2,20 @@
 title = "Rig Veda 6.33.5"
 
 +++
--   *nūnaṃ* \< *nūnam*
+-   *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrāparāya* \< *indra*
+- *indrāparāya* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāparāya* \< *aparāya* \< *apara*
+- *indrāparāya* ← *aparāya* ← *apara*
 - \[noun\], dative, singular, masculine
 - “unsurpassable.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 6.33.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *syā* \< *syāḥ* \< *as*
+- *syā* ← *syāḥ* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *bhavā* \< *bhava* \< *bhū*
+- *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *mṛﾱīka* \< *mṛﾱīke* \< *mṛḍīka*
+- *mṛﾱīka* ← *mṛﾱīke* ← *mṛḍīka*
 - \[noun\], locative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 6.33.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
@@ -55,30 +55,30 @@ title = "Rig Veda 6.33.5"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *gṛṇanto* \< *gṛṇantaḥ* \< *gṛ*
+- *gṛṇanto* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *mahinasya* \< *mahina*
+- *mahinasya* ← *mahina*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *śarman*
 - \[noun\], locative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṣyāma* \< *syāma* \< *as*
+- *ṣyāma* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pārye* \< *pārya*
+- *pārye* ← *pārya*
 - \[noun\], locative, singular, masculine
 - “critical; decisive.”
 ------------------------------------------------------------------------
-- *goṣatamāḥ* \< *goṣatama*
+- *goṣatamāḥ* ← *goṣatama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

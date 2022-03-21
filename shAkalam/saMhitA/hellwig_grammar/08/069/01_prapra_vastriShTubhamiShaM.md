@@ -10,53 +10,53 @@ title = "Rig Veda 8.69.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vas* \< *vaḥ* \< *tvad*
+- *vas* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *triṣṭubham* \< *triṣṭubh*
+- *triṣṭubham* ← *triṣṭubh*
 - \[noun\], accusative, singular, feminine
 - “Triṣṭubh.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *mandadvīrāyendave* \< *mandat* \< *mand*
+- *mandadvīrāyendave* ← *mandat* ← *mand*
 - \[verb noun\]
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *mandadvīrāyendave* \< *vīrāya* \< *vīra*
+- *mandadvīrāyendave* ← *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *mandadvīrāyendave* \< *indave* \< *indu*
+- *mandadvīrāyendave* ← *indave* ← *indu*
 - \[noun\], dative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *medha*
+- *medhasātaye* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *sātaye* \< *sāti*
+- *medhasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *purandhyā* \< *puraṃdhi*
+- *purandhyā* ← *puraṃdhi*
 - \[noun\], instrumental, singular, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------
-- *vivāsati* \< *vivās* \< *√van*
+- *vivāsati* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

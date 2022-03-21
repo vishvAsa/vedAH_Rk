@@ -2,67 +2,67 @@
 title = "Rig Veda 1.180.7"
 
 +++
--   *vayaṃ* \< *vayam* \< *mad*
+-   *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *jaritāraḥ* \< *jaritṛ*
+- *jaritāraḥ* ← *jaritṛ*
 - \[noun\], nominative, plural, masculine
 - “singer.”
 ------------------------------------------------------------------------
-- *satyā* \< *satyāḥ* \< *satya*
+- *satyā* ← *satyāḥ* ← *satya*
 - \[noun\], nominative, plural, masculine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *vipanyāmahe* \< *vipan* \< *√pan*
+- *vipanyāmahe* ← *vipan* ← *√pan*
 - \[verb\], plural, Indikativ Pr￤s. Passiv
 ------------------------------------------------------------------------
 - *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paṇir* \< *paṇiḥ* \< *paṇi*
+- *paṇir* ← *paṇiḥ* ← *paṇi*
 - \[noun\], nominative, singular, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *hitāvān* \< *hitāvat*
+- *hitāvān* ← *hitāvat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmāśvināv* \< *sma*
+- *ṣmāśvināv* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṣmāśvināv* \< *aśvinau* \< *aśvin*
+- *ṣmāśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *anindyā* \< *anindya*
+- *anindyā* ← *anindya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *pātho* \< *pāthaḥ* \< *pā*
+- *pātho* ← *pāthaḥ* ← *pā*
 - \[verb\], dual, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -70,13 +70,13 @@ title = "Rig Veda 1.180.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *ṣmā* \< *sma*
+- *ṣmā* ← *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vṛṣaṇāv* \< *vṛṣaṇau* \< *vṛṣan*
+- *vṛṣaṇāv* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *antidevam* \< *antideva*
+- *antidevam* ← *antideva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,31 +2,31 @@
 title = "Rig Veda 7.56.8"
 
 +++
--   *śubhro* \< *śubhraḥ* \< *śubhra*
+-   *śubhro* ← *śubhraḥ* ← *śubhra*
 - \[noun\], nominative, singular, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śuṣmaḥ* \< *śuṣma*
+- *śuṣmaḥ* ← *śuṣma*
 - \[noun\], nominative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *krudhmī* \< *krudhmi*
+- *krudhmī* ← *krudhmi*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *manāṃsi* \< *manas*
+- *manāṃsi* ← *manas*
 - \[noun\], nominative, plural, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *dhunir* \< *dhuniḥ* \< *dhuni*
+- *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *munir* \< *muniḥ* \< *muni*
+- *munir* ← *muniḥ* ← *muni*
 - \[noun\], nominative, singular, masculine
 - “ascetic; seven; Sesbania grandiflora; Brahmin; muni; saint; Buddha;
     Ṛṣi.”
@@ -35,11 +35,11 @@ title = "Rig Veda 7.56.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śardhasya* \< *śardha*
+- *śardhasya* ← *śardha*
 - \[noun\], genitive, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *dhṛṣṇoḥ* \< *dhṛṣṇu*
+- *dhṛṣṇoḥ* ← *dhṛṣṇu*
 - \[noun\], genitive, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------

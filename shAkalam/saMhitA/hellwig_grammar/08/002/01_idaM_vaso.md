@@ -2,36 +2,36 @@
 title = "Rig Veda 8.2.1"
 
 +++
--   *idaṃ* \< *idam*
+-   *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *sutam* \< *su*
+- *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *andhaḥ* \< *andhas*
+- *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *pibā* \< *pā*
+- *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *supūrṇam* \< *su*
+- *supūrṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supūrṇam* \< *pūrṇam* \< *pṛ*
+- *supūrṇam* ← *pūrṇam* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *udaram* \< *udara*
+- *udaram* ← *udara*
 - \[noun\], accusative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
@@ -39,11 +39,11 @@ title = "Rig Veda 8.2.1"
 - *anābhayin*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *rarimā* \< *rarima* \< *rā*
+- *rarimā* ← *rarima* ← *rā*
 - \[verb\], plural, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

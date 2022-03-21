@@ -2,25 +2,25 @@
 title = "Rig Veda 3.30.11"
 
 +++
--   *eko* \< *ekaḥ* \< *eka*
+-   *eko* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *dve* \< *dvi*
+- *dve* ← *dvi*
 - \[noun\], accusative, dual, feminine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *vasumatī* \< *vasumat*
+- *vasumatī* ← *vasumat*
 - \[noun\], accusative, dual, feminine
 - “deluxe; affluent; rich.”
 ------------------------------------------------------------------------
-- *samīcī* \< *samyañc*
+- *samīcī* ← *samyañc*
 - \[noun\], accusative, dual, feminine
 - “conjugate; united.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -29,11 +29,11 @@ title = "Rig Veda 3.30.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *paprau* \< *prā*
+- *paprau* ← *prā*
 - \[verb\], singular, Perfect indicative
 - “fill; satisfy.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -41,15 +41,15 @@ title = "Rig Veda 3.30.11"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *utāntarikṣād* \< *uta*
+- *utāntarikṣād* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāntarikṣād* \< *antarikṣāt* \< *antarikṣa*
+- *utāntarikṣād* ← *antarikṣāt* ← *antarikṣa*
 - \[noun\], ablative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
@@ -57,22 +57,22 @@ title = "Rig Veda 3.30.11"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *samīka* \< *samīke* \< *samīka*
+- *samīka* ← *samīke* ← *samīka*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], genitive, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *rathīḥ* \< *rathī*
+- *rathīḥ* ← *rathī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sayujaḥ* \< *sayuj*
+- *sayujaḥ* ← *sayuj*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
 - *śūra*
@@ -80,7 +80,7 @@ title = "Rig Veda 3.30.11"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vājān* \< *vāja*
+- *vājān* ← *vāja*
 - \[noun\], accusative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

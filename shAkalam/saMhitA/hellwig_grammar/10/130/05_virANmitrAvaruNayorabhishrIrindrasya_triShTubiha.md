@@ -2,23 +2,23 @@
 title = "Rig Veda 10.130.5"
 
 +++
--   *virāṇ* \< *virāj*
+-   *virāṇ* ← *virāj*
 - \[noun\], nominative, singular, feminine
 - “Virāj; eminence.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇayor* \< *mitrāvaruṇayoḥ* \< *mitrāvaruṇa*
+- *mitrāvaruṇayor* ← *mitrāvaruṇayoḥ* ← *mitrāvaruṇa*
 - \[noun\], genitive, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *abhiśrīr* \< *abhiśrīḥ* \< *abhiśrī*
+- *abhiśrīr* ← *abhiśrīḥ* ← *abhiśrī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *triṣṭub* \< *triṣṭubh*
+- *triṣṭub* ← *triṣṭubh*
 - \[noun\], nominative, singular, feminine
 - “Triṣṭubh.”
 ------------------------------------------------------------------------
@@ -26,27 +26,27 @@ title = "Rig Veda 10.130.5"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *bhāgo* \< *bhāgaḥ* \< *bhāga*
+- *bhāgo* ← *bhāgaḥ* ← *bhāga*
 - \[noun\], nominative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *ahnaḥ* \< *ahar*
+- *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *viśvān* \< *viśva*
+- *viśvān* ← *viśva*
 - \[noun\], accusative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *devāñ* \< *devān* \< *deva*
+- *devāñ* ← *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *jagaty* \< *jagatī*
+- *jagaty* ← *jagatī*
 - \[noun\], nominative, singular, feminine
 - “Jagatī; Earth; floor; jagatī \[word\]; site; cow.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 10.130.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
@@ -62,16 +62,16 @@ title = "Rig Veda 10.130.5"
 - \[adverb\]
 - “therefore; thereby; there.”
 ------------------------------------------------------------------------
-- *cākﾱpra* \< *cākﾱpre* \< *kﾱp*
+- *cākﾱpra* ← *cākﾱpre* ← *kﾱp*
 - \[verb\], plural, Perfect indicative
 - “succeed; prepare; harmonize; arrange; cut; suit; befit;
     contribute.”
 ------------------------------------------------------------------------
-- *ṛṣayo* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *manuṣyāḥ* \< *manuṣya*
+- *manuṣyāḥ* ← *manuṣya*
 - \[noun\], nominative, plural, masculine
 - “human.”
 ------------------------------------------------------------------------

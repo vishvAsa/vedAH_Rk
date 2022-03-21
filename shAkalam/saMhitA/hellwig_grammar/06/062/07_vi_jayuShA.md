@@ -6,47 +6,47 @@ title = "Rig Veda 6.62.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *jayuṣā* \< *jayus*
+- *jayuṣā* ← *jayus*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *rathyā* \< *rathī*
+- *rathyā* ← *rathī*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Aorist inj. (proh.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *adriṃ* \< *adrim* \< *adri*
+- *adriṃ* ← *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *śrutaṃ* \< *śrutam* \< *śru*
+- *śrutaṃ* ← *śrutam* ← *śru*
 - \[verb\], dual, Aorist inj. (proh.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vadhrimatyāḥ* \< *vadhrimatī*
+- *vadhrimatyāḥ* ← *vadhrimatī*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *daśasyantā* \< *daśasy*
+- *daśasyantā* ← *daśasy*
 - \[verb noun\], nominative, dual
 ------------------------------------------------------------------------
-- *śayave* \< *śayu*
+- *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *pipyathur* \< *pipyathuḥ* \< *pyā*
+- *pipyathur* ← *pipyathuḥ* ← *pyā*
 - \[verb\], dual, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -55,13 +55,13 @@ title = "Rig Veda 6.62.7"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *cyavānā* \< *cyavāna*
+- *cyavānā* ← *cyavāna*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *bhuraṇyū* \< *bhuraṇyu*
+- *bhuraṇyū* ← *bhuraṇyu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------

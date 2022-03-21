@@ -2,19 +2,19 @@
 title = "Rig Veda 1.55.1"
 
 +++
--   *divaś* \< *divaḥ* \< *div*
+-   *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *varimā* \< *variman*
+- *varimā* ← *variman*
 - \[noun\], nominative, singular, masculine
 - “width; size.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 1.55.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *papratha* \< *paprathe* \< *prath*
+- *papratha* ← *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -35,7 +35,7 @@ title = "Rig Veda 1.55.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mahnā* \< *mahan*
+- *mahnā* ← *mahan*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
@@ -51,31 +51,31 @@ title = "Rig Veda 1.55.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *bhīmas* \< *bhīmaḥ* \< *bhīma*
+- *bhīmas* ← *bhīmaḥ* ← *bhīma*
 - \[noun\], nominative, singular, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
-- *tuviṣmāñ* \< *tuviṣmān* \< *tuviṣmat*
+- *tuviṣmāñ* ← *tuviṣmān* ← *tuviṣmat*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
-- *carṣaṇibhya* \< *carṣaṇibhyaḥ* \< *carṣaṇi*
+- *carṣaṇibhya* ← *carṣaṇibhyaḥ* ← *carṣaṇi*
 - \[noun\], dative, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *ātapaḥ* \< *ātapa*
+- *ātapaḥ* ← *ātapa*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śiśīte* \< *śā*
+- *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *tejase* \< *tij*
+- *tejase* ← *tij*
 - \[verb noun\]
 - “sharpen.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 1.55.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vaṃsagaḥ* \< *vaṃsaga*
+- *vaṃsagaḥ* ← *vaṃsaga*
 - \[noun\], nominative, singular, masculine
 - “bull.”
 ------------------------------------------------------------------------

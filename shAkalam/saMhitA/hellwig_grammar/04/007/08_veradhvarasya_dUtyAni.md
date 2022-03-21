@@ -2,60 +2,60 @@
 title = "Rig Veda 4.7.8"
 
 +++
--   *ver* \< *veḥ* \< *vī*
+-   *ver* ← *veḥ* ← *vī*
 - \[verb\], singular, Present injunctive
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *adhvarasya* \< *adhvara*
+- *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *dūtyāni* \< *dūtya*
+- *dūtyāni* ← *dūtya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *antā* \< *antar*
+- *antā* ← *antar*
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *saṃcikitvān* \< *saṃcit* \< *√cit*
+- *saṃcikitvān* ← *saṃcit* ← *√cit*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *dūta* \< *dūtaḥ* \< *dūta*
+- *dūta* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------
-- *pradiva* \< *pradivaḥ* \< *pradiv*
+- *pradiva* ← *pradivaḥ* ← *pradiv*
 - \[noun\], ablative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *urāṇo* \< *urāṇaḥ* \< *vṛ*
+- *urāṇo* ← *urāṇaḥ* ← *vṛ*
 - \[verb noun\], nominative, singular
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *viduṣṭaro* \< *viduṣṭaraḥ* \< *viduṣṭara*
+- *viduṣṭaro* ← *viduṣṭaraḥ* ← *viduṣṭara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ārodhanāni* \< *ārodhana*
+- *ārodhanāni* ← *ārodhana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------

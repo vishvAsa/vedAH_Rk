@@ -2,31 +2,31 @@
 title = "Rig Veda 8.39.7"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *saṃvasuḥ* \< *saṃvasu*
+- *saṃvasuḥ* ← *saṃvasu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vikṣu* \< *viś*
+- *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *yajñiyāsv* \< *yajñiyāsu* \< *yajñiya*
+- *yajñiyāsv* ← *yajñiyāsu* ← *yajñiya*
 - \[noun\], locative, plural, feminine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -34,17 +34,17 @@ title = "Rig Veda 8.39.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mudā* \< *mud*
+- *mudā* ← *mud*
 - \[noun\], instrumental, singular, feminine
 - “joy; delight.”
 ------------------------------------------------------------------------
-- *kāvyā* \< *kāvya*
+- *kāvyā* ← *kāvya*
 - \[noun\], accusative, plural, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
@@ -52,46 +52,46 @@ title = "Rig Veda 8.39.7"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhūmeva* \< *bhūma* \< *bhūman*
+- *bhūmeva* ← *bhūma* ← *bhūman*
 - \[noun\], nominative, singular, neuter
 - “Earth; floor.”
 ------------------------------------------------------------------------
-- *bhūmeva* \< *iva*
+- *bhūmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *puṣyati* \< *puṣ*
+- *puṣyati* ← *puṣ*
 - \[verb\], singular, Present indikative
 - “boom; grow; promote; foster.”
 ------------------------------------------------------------------------
-- *devo* \< *devaḥ* \< *deva*
+- *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *deveṣu* \< *deva*
+- *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yajñiyo* \< *yajñiyaḥ* \< *yajñiya*
+- *yajñiyo* ← *yajñiyaḥ* ← *yajñiya*
 - \[noun\], nominative, singular, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.86.23"
 
 +++
--   *parśur* \< *parśuḥ* \< *parśu*
+-   *parśur* ← *parśuḥ* ← *parśu*
 - \[noun\], nominative, singular, feminine
 - “Parśu.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 10.86.23"
 - \[noun\], nominative, singular, feminine
 - “woman.”
 ------------------------------------------------------------------------
-- *sākaṃ* \< *sākam*
+- *sākaṃ* ← *sākam*
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *sasūva* \< *su*
+- *sasūva* ← *su*
 - \[verb\], singular, Perfect indicative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *viṃśatim* \< *viṃśati*
+- *viṃśatim* ← *viṃśati*
 - \[noun\], accusative, singular, feminine
 - “twenty; twentieth; viṃśati \[word\].”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], nominative, singular, neuter
 - “happiness; bhadra; deodar; Bhadra; Bhadra; bhadra \[word\]; Bhadra;
     Bhadrāsana; prosperity; good fortune; benefit.”
@@ -38,41 +38,41 @@ title = "Rig Veda 10.86.23"
 - *bhala*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tyasyā* \< *tyasyāḥ* \< *tya*
+- *tyasyā* ← *tyasyāḥ* ← *tya*
 - \[noun\], genitive, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *abhūd* \< *abhūt* \< *bhū*
+- *abhūd* ← *abhūt* ← *bhū*
 - \[verb\], singular, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yasyā* \< *yasyāḥ* \< *yad*
+- *yasyā* ← *yasyāḥ* ← *yad*
 - \[noun\], genitive, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *udaram* \< *udara*
+- *udaram* ← *udara*
 - \[noun\], nominative, singular, neuter
 - “udara; cavity; abdomen; inside; stomach; belly; udara \[word\];
     garbha; abdominal disease; intestine; inside; uterus; vessel.”
 ------------------------------------------------------------------------
-- *āmayad* \< *\_* \< *√\_*
+- *āmayad* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *viśvasmād* \< *viśvasmāt* \< *viśva*
+- *viśvasmād* ← *viśvasmāt* ← *viśva*
 - \[noun\], ablative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *indra* \< *indraḥ* \< *indra*
+- *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *uttaraḥ* \< *uttara*
+- *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;

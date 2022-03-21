@@ -2,15 +2,15 @@
 title = "Rig Veda 9.61.17"
 
 +++
--   *pavamānasya* \< *pū*
+-   *pavamānasya* ← *pū*
 - \[verb noun\], genitive, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *raso* \< *rasaḥ* \< *rasa*
+- *raso* ← *rasaḥ* ← *rasa*
 - \[noun\], nominative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -18,17 +18,17 @@ title = "Rig Veda 9.61.17"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *mado* \< *madaḥ* \< *mada*
+- *mado* ← *madaḥ* ← *mada*
 - \[noun\], nominative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *rājann* \< *rājan*
+- *rājann* ← *rājan*
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *aducchunaḥ* \< *aducchuna*
+- *aducchunaḥ* ← *aducchuna*
 - \[noun\], nominative, singular, masculine
 - “propitious.”
 ------------------------------------------------------------------------
@@ -36,14 +36,14 @@ title = "Rig Veda 9.61.17"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *avyam* \< *avya*
+- *avyam* ← *avya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------

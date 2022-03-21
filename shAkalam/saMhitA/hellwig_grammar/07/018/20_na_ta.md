@@ -6,7 +6,7 @@ title = "Rig Veda 7.18.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 7.18.20"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sumatayo* \< *sumatayaḥ* \< *sumati*
+- *sumatayo* ← *sumatayaḥ* ← *sumati*
 - \[noun\], nominative, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
@@ -23,20 +23,20 @@ title = "Rig Veda 7.18.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *saṃcakṣe* \< *saṃcakṣ* \< *√cakṣ*
+- *saṃcakṣe* ← *saṃcakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *pūrvā* \< *pūrvāḥ* \< *pūrva*
+- *pūrvā* ← *pūrvāḥ* ← *pūrva*
 - \[noun\], nominative, plural, feminine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -44,45 +44,45 @@ title = "Rig Veda 7.18.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nūtnāḥ* \< *nūtna*
+- *nūtnāḥ* ← *nūtna*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *devakaṃ* \< *devakam* \< *devaka*
+- *devakaṃ* ← *devakam* ← *devaka*
 - \[noun\], accusative, singular, masculine
 - “Devaka.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *mānyamānaṃ* \< *mānyamānam* \< *mānay* \< *√man*
+- *mānyamānaṃ* ← *mānyamānam* ← *mānay* ← *√man*
 - \[verb noun\], accusative, singular
 - “honor; approve.”
 ------------------------------------------------------------------------
-- *jaghanthāva* \< *jaghantha* \< *han*
+- *jaghanthāva* ← *jaghantha* ← *han*
 - \[verb\], singular, Perfect indicative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *jaghanthāva* \< *ava*
+- *jaghanthāva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *śambaram* \< *śambara*
+- *śambaram* ← *śambara*
 - \[noun\], accusative, singular, masculine
 - “Śambara; Śambara.”
 ------------------------------------------------------------------------
-- *bhet* \< *bhid*
+- *bhet* ← *bhid*
 - \[verb\], singular, Aorist inj. (proh.)
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;

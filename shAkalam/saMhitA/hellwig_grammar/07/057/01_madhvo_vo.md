@@ -2,24 +2,24 @@
 title = "Rig Veda 7.57.1"
 
 +++
--   *madhvo* \< *madhvaḥ* \< *madhu*
+-   *madhvo* ← *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *mārutaṃ* \< *mārutam* \< *māruta*
+- *mārutaṃ* ← *mārutam* ← *māruta*
 - \[noun\], nominative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *yajatrāḥ* \< *yajatra*
+- *yajatrāḥ* ← *yajatra*
 - \[noun\], vocative, plural, masculine
 - “adorable.”
 ------------------------------------------------------------------------
@@ -27,23 +27,23 @@ title = "Rig Veda 7.57.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yajñeṣu* \< *yajña*
+- *yajñeṣu* ← *yajña*
 - \[noun\], locative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rejayanti* \< *rejay* \< *√rej*
+- *rejayanti* ← *rejay* ← *√rej*
 - \[verb\], plural, Present indikative
 - “shake.”
 ------------------------------------------------------------------------
@@ -51,32 +51,32 @@ title = "Rig Veda 7.57.1"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *urvī* \< *uru*
+- *urvī* ← *uru*
 - \[noun\], accusative, dual, feminine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *pinvanty* \< *pinvanti* \< *pinv*
+- *pinvanty* ← *pinvanti* ← *pinv*
 - \[verb\], plural, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *utsaṃ* \< *utsam* \< *utsa*
+- *utsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ayāsur* \< *ayāsuḥ* \< *yā*
+- *ayāsur* ← *ayāsuḥ* ← *yā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *ugrāḥ* \< *ugra*
+- *ugrāḥ* ← *ugra*
 - \[noun\], nominative, plural, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”

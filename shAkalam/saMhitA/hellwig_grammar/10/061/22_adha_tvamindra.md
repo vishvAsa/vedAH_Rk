@@ -6,7 +6,7 @@ title = "Rig Veda 10.61.22"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,37 +15,37 @@ title = "Rig Veda 10.61.22"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viddhy* \< *viddhi* \< *vid*
+- *viddhy* ← *viddhi* ← *vid*
 - \[verb\], singular, Present imperative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *nṛpate* \< *nṛpati*
+- *nṛpate* ← *nṛpati*
 - \[noun\], vocative, singular, masculine
 - “king.”
 ------------------------------------------------------------------------
-- *vajrabāhuḥ* \< *vajra*
+- *vajrabāhuḥ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajrabāhuḥ* \< *bāhuḥ* \< *bāhu*
+- *vajrabāhuḥ* ← *bāhuḥ* ← *bāhu*
 - \[noun\], nominative, singular, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣ*
+- *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -53,34 +53,34 @@ title = "Rig Veda 10.61.22"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “guru.”
 ------------------------------------------------------------------------
-- *anehasas* \< *anehasaḥ* \< *anehas*
+- *anehasas* ← *anehasaḥ* ← *anehas*
 - \[noun\], accusative, plural, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *harivo* \< *harivas* \< *harivat*
+- *harivo* ← *harivas* ← *harivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *abhiṣṭau* \< *abhiṣṭi*
+- *abhiṣṭau* ← *abhiṣṭi*
 - \[noun\], locative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------

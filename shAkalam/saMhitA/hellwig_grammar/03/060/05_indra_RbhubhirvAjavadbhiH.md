@@ -7,21 +7,21 @@ title = "Rig Veda 3.60.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ṛbhubhir* \< *ṛbhubhiḥ* \< *ṛbhu*
+- *ṛbhubhir* ← *ṛbhubhiḥ* ← *ṛbhu*
 - \[noun\], instrumental, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *vājavadbhiḥ* \< *vājavat*
+- *vājavadbhiḥ* ← *vājavat*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *samukṣitaṃ* \< *samukṣitam* \< *samukṣ* \< *√ukṣ*
+- *samukṣitaṃ* ← *samukṣitam* ← *samukṣ* ← *√ukṣ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *sutaṃ* \< *sutam* \< *su*
+- *sutaṃ* ← *sutam* ← *su*
 - \[verb noun\], accusative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -29,35 +29,35 @@ title = "Rig Veda 3.60.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṣasvā* \< *vṛṣ*
+- *vṛṣasvā* ← *vṛṣ*
 - \[verb\], singular, Present imperative
 - “shower; rain; effuse; shower; drench.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------
-- *dhiyeṣito* \< *dhiyā* \< *dhī*
+- *dhiyeṣito* ← *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhiyeṣito* \< *iṣitaḥ* \< *iṣay* \< *√iṣ*
+- *dhiyeṣito* ← *iṣitaḥ* ← *iṣay* ← *√iṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *saudhanvanebhiḥ* \< *saudhanvana*
+- *saudhanvanebhiḥ* ← *saudhanvana*
 - \[noun\], instrumental, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -65,11 +65,11 @@ title = "Rig Veda 3.60.5"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *matsvā* \< *mad*
+- *matsvā* ← *mad*
 - \[verb\], singular, Aorist imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *nṛbhiḥ* \< *nṛ*
+- *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

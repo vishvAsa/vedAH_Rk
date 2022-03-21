@@ -2,11 +2,11 @@
 title = "Rig Veda 9.40.1"
 
 +++
--   *punāno* \< *punānaḥ* \< *pū*
+-   *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *akramīd* \< *akramīt* \< *kram*
+- *akramīd* ← *akramīt* ← *kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “kram; step; go; continue; proceed; traverse; heat.”
 ------------------------------------------------------------------------
@@ -14,28 +14,28 @@ title = "Rig Veda 9.40.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *mṛdho* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *vicarṣaṇiḥ* \< *vicarṣaṇi*
+- *vicarṣaṇiḥ* ← *vicarṣaṇi*
 - \[noun\], nominative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *śumbhanti* \< *śubh*
+- *śumbhanti* ← *śubh*
 - \[verb\], plural, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *vipraṃ* \< *vipram* \< *vipra*
+- *vipraṃ* ← *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------

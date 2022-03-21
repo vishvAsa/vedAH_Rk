@@ -2,52 +2,52 @@
 title = "Rig Veda 10.63.16"
 
 +++
--   *svastir* \< *svastiḥ* \< *svasti*
+-   *svastir* ← *svastiḥ* ← *svasti*
 - \[noun\], nominative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *prapathe* \< *prapatha*
+- *prapathe* ← *prapatha*
 - \[noun\], locative, singular, masculine
 - “journey; way.”
 ------------------------------------------------------------------------
-- *śreṣṭhā* \< *śreṣṭha*
+- *śreṣṭhā* ← *śreṣṭha*
 - \[noun\], nominative, singular, feminine
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *rekṇasvaty* \< *rekṇasvatī* \< *rekṇasvat*
+- *rekṇasvaty* ← *rekṇasvatī* ← *rekṇasvat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāmam* \< *vāma*
+- *vāmam* ← *vāma*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -55,48 +55,48 @@ title = "Rig Veda 10.63.16"
 - \[adverb\]
 - “at home.”
 ------------------------------------------------------------------------
-- *so* \< *sā* \< *tad*
+- *so* ← *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *so* \< *u*
+- *so* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *araṇe* \< *araṇa*
+- *araṇe* ← *araṇa*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svāveśā* \< *su*
+- *svāveśā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāveśā* \< *āveśā* \< *āveśa*
+- *svāveśā* ← *āveśā* ← *āveśa*
 - \[noun\], nominative, singular, feminine
 - “possession; craze; entrance.”
 ------------------------------------------------------------------------
-- *bhavatu* \< *bhū*
+- *bhavatu* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *devagopā* \< *deva*
+- *devagopā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devagopā* \< *gopā* \< *gopa*
+- *devagopā* ← *gopā* ← *gopa*
 - \[noun\], nominative, singular, feminine
 - “cowboy; Gopa; defender.”
 ------------------------------------------------------------------------

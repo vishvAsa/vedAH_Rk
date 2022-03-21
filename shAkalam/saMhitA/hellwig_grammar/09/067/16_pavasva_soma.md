@@ -2,7 +2,7 @@
 title = "Rig Veda 9.67.16"
 
 +++
--   *pavasva* \< *pū*
+-   *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 9.67.16"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *mandayann* \< *mandayan* \< *manday* \< *√mad*
+- *mandayann* ← *mandayan* ← *manday* ← *√mad*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *madhumattamaḥ* \< *madhumattama*
+- *madhumattamaḥ* ← *madhumattama*
 - \[noun\], nominative, singular, masculine
 - “sweetest.”
 ------------------------------------------------------------------------

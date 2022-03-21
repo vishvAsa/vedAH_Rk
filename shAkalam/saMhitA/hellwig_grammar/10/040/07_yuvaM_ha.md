@@ -2,7 +2,7 @@
 title = "Rig Veda 10.40.7"
 
 +++
--   *yuvaṃ* \< *yuvam* \< *tvad*
+-   *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -10,42 +10,42 @@ title = "Rig Veda 10.40.7"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *bhujyuṃ* \< *bhujyum* \< *bhujyu*
+- *bhujyuṃ* ← *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vaśaṃ* \< *vaśam* \< *vaśa*
+- *vaśaṃ* ← *vaśam* ← *vaśa*
 - \[noun\], accusative, singular, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *śiñjāram* \< *śiñjāra*
+- *śiñjāram* ← *śiñjāra*
 - \[noun\], accusative, singular, masculine
 - “Śiñjāra.”
 ------------------------------------------------------------------------
-- *uśanām* \< *uśanā*
+- *uśanām* ← *uśanā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *upārathuḥ* \< *uparch* \< *√ṛch*
+- *upārathuḥ* ← *uparch* ← *√ṛch*
 - \[verb\], dual, Perfect indicative
 ------------------------------------------------------------------------
-- *yuvo* \< *yuvoḥ* \< *tvad*
+- *yuvo* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *rarāvā* \< *rarāvan*
+- *rarāvā* ← *rarāvan*
 - \[noun\], nominative, singular, masculine
 - “hostile.”
 ------------------------------------------------------------------------
@@ -53,27 +53,27 @@ title = "Rig Veda 10.40.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *āsate* \< *ās*
+- *āsate* ← *ās*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “sit; stay; sit down; dwell; lie; lie; exist.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 10.40.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cake* \< *kan*
+- *cake* ← *kan*
 - \[verb\], singular, Perfect indicative
 - “like; delight; desire.”
 ------------------------------------------------------------------------

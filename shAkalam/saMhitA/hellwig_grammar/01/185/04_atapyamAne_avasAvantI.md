@@ -2,19 +2,19 @@
 title = "Rig Veda 1.185.4"
 
 +++
--   *atapyamāne* \< *a*
+-   *atapyamāne* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *atapyamāne* \< *tapyamāne* \< *tap*
+- *atapyamāne* ← *tapyamāne* ← *tap*
 - \[verb noun\], accusative, dual
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *avasāvantī* \< *avasā* \< *avas*
+- *avasāvantī* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *avasāvantī* \< *avantī* \< *av*
+- *avasāvantī* ← *avantī* ← *av*
 - \[verb noun\], accusative, dual
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -22,46 +22,46 @@ title = "Rig Veda 1.185.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *ṣyāma* \< *syāma* \< *as*
+- *ṣyāma* ← *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *devaputre* \< *deva*
+- *devaputre* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaputre* \< *putre* \< *putra*
+- *devaputre* ← *putre* ← *putra*
 - \[noun\], accusative, dual, neuter
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ubhayebhir* \< *ubhayebhiḥ* \< *ubhaya*
+- *ubhayebhir* ← *ubhayebhiḥ* ← *ubhaya*
 - \[noun\], instrumental, plural, neuter
 - “both(a).”
 ------------------------------------------------------------------------
-- *ahnāṃ* \< *ahnām* \< *ahar*
+- *ahnāṃ* ← *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], vocative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rakṣatam* \< *rakṣ*
+- *rakṣatam* ← *rakṣ*
 - \[verb\], dual, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -69,11 +69,11 @@ title = "Rig Veda 1.185.4"
 - \[noun\], vocative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhvāt* \< *abhva*
+- *abhvāt* ← *abhva*
 - \[noun\], ablative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

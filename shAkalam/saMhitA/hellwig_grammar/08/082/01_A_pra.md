@@ -10,16 +10,16 @@ title = "Rig Veda 8.82.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *drava* \< *dru*
+- *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *parāvato* \< *parāvataḥ* \< *parāvat*
+- *parāvato* ← *parāvataḥ* ← *parāvat*
 - \[noun\], ablative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *'rvāvataś* \< *arvāvataḥ* \< *arvāvat*
+- *'rvāvataś* ← *arvāvataḥ* ← *arvāvat*
 - \[noun\], ablative, singular, feminine
 ------------------------------------------------------------------------
 - *ca*
@@ -30,7 +30,7 @@ title = "Rig Veda 8.82.1"
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -38,6 +38,6 @@ title = "Rig Veda 8.82.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *prabharmaṇi* \< *prabharman*
+- *prabharmaṇi* ← *prabharman*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------

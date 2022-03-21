@@ -2,28 +2,28 @@
 title = "Rig Veda 2.27.5"
 
 +++
--   *vidyām* \< *vid*
+-   *vidyām* ← *vid*
 - \[verb\], singular, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *avaso* \< *avasaḥ* \< *avas*
+- *avaso* ← *avasaḥ* ← *avas*
 - \[noun\], genitive, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -31,7 +31,7 @@ title = "Rig Veda 2.27.5"
 - \[noun\], vocative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *bhaya* \< *bhaye* \< *bhaya*
+- *bhaya* ← *bhaye* ← *bhaya*
 - \[noun\], locative, singular, neuter
 - “fear; danger; danger; bhaya \[word\]; distress; apprehension;
     alarm; apprehension.”
@@ -40,22 +40,22 @@ title = "Rig Veda 2.27.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[noun\], nominative, singular, feminine
 - “supreme spirit; cit \[word\]; soul.”
 ------------------------------------------------------------------------
 - *mayobhu*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *yuṣmākam* \< *tvad*
+- *yuṣmākam* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *praṇītau* \< *praṇīti*
+- *praṇītau* ← *praṇīti*
 - \[noun\], locative, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
@@ -63,18 +63,18 @@ title = "Rig Veda 2.27.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *śvabhreva* \< *śvabhrā* \< *śvabhra*
+- *śvabhreva* ← *śvabhrā* ← *śvabhra*
 - \[noun\], accusative, plural, neuter
 - “pit; chasm; hole.”
 ------------------------------------------------------------------------
-- *śvabhreva* \< *iva*
+- *śvabhreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *duritāni* \< *durita*
+- *duritāni* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
-- *vṛjyām* \< *vṛj*
+- *vṛjyām* ← *vṛj*
 - \[verb\], singular, Aorist optative
 ------------------------------------------------------------------------

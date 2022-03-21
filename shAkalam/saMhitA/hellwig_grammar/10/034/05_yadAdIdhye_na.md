@@ -2,7 +2,7 @@
 title = "Rig Veda 10.34.5"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 10.34.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dīdhye* \< *dhī*
+- *dīdhye* ← *dhī*
 - \[verb\], singular, Present indikative
 - “think; desire; chew over.”
 ------------------------------------------------------------------------
@@ -18,51 +18,51 @@ title = "Rig Veda 10.34.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *daviṣāṇy* \< *daviṣāṇi* \< *dīv*
+- *daviṣāṇy* ← *daviṣāṇi* ← *dīv*
 - \[verb\], singular, Aorist imperative
 - “gamble; play; Aṣṭādhyāyī 4.4.2.”
 ------------------------------------------------------------------------
-- *ebhiḥ* \< *idam*
+- *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *parāyadbhyo* \< *parāyadbhyaḥ* \< *pare* \< *√i*
+- *parāyadbhyo* ← *parāyadbhyaḥ* ← *pare* ← *√i*
 - \[verb noun\], ablative, plural
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *hīye* \< *hā*
+- *hīye* ← *hā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *sakhibhyaḥ* \< *sakhi*
+- *sakhibhyaḥ* ← *sakhi*
 - \[noun\], ablative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *nyuptāś* \< *nyuptāḥ* \< *nivap* \< *√vap*
+- *nyuptāś* ← *nyuptāḥ* ← *nivap* ← *√vap*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *babhravo* \< *babhravaḥ* \< *babhru*
+- *babhravo* ← *babhravaḥ* ← *babhru*
 - \[noun\], nominative, plural, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *akrataṃ* \< *kṛ*
+- *akrataṃ* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -73,26 +73,26 @@ title = "Rig Veda 10.34.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *emīd* \< *emi* \< *i*
+- *emīd* ← *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *emīd* \< *id*
+- *emīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *niṣkṛtaṃ* \< *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtaṃ* ← *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------
-- *jāriṇīva* \< *jāriṇī*
+- *jāriṇīva* ← *jāriṇī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *jāriṇīva* \< *iva*
+- *jāriṇīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------

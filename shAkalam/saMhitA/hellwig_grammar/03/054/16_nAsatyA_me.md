@@ -2,32 +2,32 @@
 title = "Rig Veda 3.54.16"
 
 +++
--   *nāsatyā* \< *nāsatya*
+-   *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *bandhupṛcchā* \< *bandhu*
+- *bandhupṛcchā* ← *bandhu*
 - \[noun\], masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *bandhupṛcchā* \< *pṛcchā*
+- *bandhupṛcchā* ← *pṛcchā*
 - \[noun\], nominative, dual, masculine
 - “question.”
 ------------------------------------------------------------------------
-- *sajātyam* \< *sajātya*
+- *sajātyam* ← *sajātya*
 - \[noun\], nominative, singular, neuter
 - “relatedness.”
 ------------------------------------------------------------------------
-- *aśvinoś* \< *aśvinoḥ* \< *aśvin*
+- *aśvinoś* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
@@ -35,12 +35,12 @@ title = "Rig Veda 3.54.16"
 - \[noun\], nominative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *nāma* \< *nāman*
+- *nāma* ← *nāman*
 - \[noun\], nominative, singular, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -48,40 +48,40 @@ title = "Rig Veda 3.54.16"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *stho* \< *sthaḥ* \< *as*
+- *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *rayidau* \< *rayi*
+- *rayidau* ← *rayi*
 - \[noun\], masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rayidau* \< *dau* \< *dā*
+- *rayidau* ← *dau* ← *dā*
 - \[noun\], nominative, dual, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayīṇāṃ* \< *rayīṇām* \< *rayi*
+- *rayīṇāṃ* ← *rayīṇām* ← *rayi*
 - \[noun\], genitive, plural, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *dātraṃ* \< *dātram* \< *dātra*
+- *dātraṃ* ← *dātram* ← *dātra*
 - \[noun\], accusative, singular, neuter
 - “sickle; gift; scythe.”
 ------------------------------------------------------------------------
-- *rakṣethe* \< *rakṣ*
+- *rakṣethe* ← *rakṣ*
 - \[verb\], dual, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *akavair* \< *akavaiḥ* \< *akava*
+- *akavair* ← *akavaiḥ* ← *akava*
 - \[noun\], instrumental, plural, masculine
 - “perfect.”
 ------------------------------------------------------------------------
-- *adabdhā* \< *adabdha*
+- *adabdhā* ← *adabdha*
 - \[noun\], nominative, dual, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------

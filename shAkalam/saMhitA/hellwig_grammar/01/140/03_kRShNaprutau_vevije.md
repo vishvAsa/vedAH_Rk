@@ -2,29 +2,29 @@
 title = "Rig Veda 1.140.3"
 
 +++
--   *kṛṣṇaprutau* \< *kṛṣṇa*
+-   *kṛṣṇaprutau* ← *kṛṣṇa*
 - \[noun\], neuter
 - “sauvīrāñjana; kṛṣṇalavaṇa; lead; kṛṣṇavarga; añjana; kācalavaṇa;
     sauvarcala; iron; pepper; darkness; black.”
 ------------------------------------------------------------------------
-- *kṛṣṇaprutau* \< *prutau* \< *prut*
+- *kṛṣṇaprutau* ← *prutau* ← *prut*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *vevije* \< *vevija*
+- *vevije* ← *vevija*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sakṣitā* \< *sakṣitau* \< *sakṣit*
+- *sakṣitā* ← *sakṣitau* ← *sakṣit*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
-- *tarete* \< *tṛ*
+- *tarete* ← *tṛ*
 - \[verb\], dual, Present indikative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
@@ -32,26 +32,26 @@ title = "Rig Veda 1.140.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *mātarā* \< *mātṛ*
+- *mātarā* ← *mātṛ*
 - \[noun\], nominative, dual, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *śiśum* \< *śiśu*
+- *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *prācājihvaṃ* \< *prācājihvam* \< *prācājihva*
+- *prācājihvaṃ* ← *prācājihvam* ← *prācājihva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhvasayantaṃ* \< *dhvasayantam* \< *dhvasay* \< *√dhvaṃs*
+- *dhvasayantaṃ* ← *dhvasayantam* ← *dhvasay* ← *√dhvaṃs*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *tṛṣucyutam* \< *tṛṣu*
+- *tṛṣucyutam* ← *tṛṣu*
 - \[noun\]
 - “dry.”
 ------------------------------------------------------------------------
-- *tṛṣucyutam* \< *cyutam* \< *cyut*
+- *tṛṣucyutam* ← *cyutam* ← *cyut*
 - \[noun\], accusative, singular, masculine
 - “shaking; dropping.”
 ------------------------------------------------------------------------
@@ -59,17 +59,17 @@ title = "Rig Veda 1.140.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sācyaṃ* \< *sācyam* \< *sācya*
+- *sācyaṃ* ← *sācyam* ← *sācya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kupayaṃ* \< *kupayam* \< *kupaya*
+- *kupayaṃ* ← *kupayam* ← *kupaya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vardhanam* \< *vardhana*
+- *vardhanam* ← *vardhana*
 - \[noun\], accusative, singular, masculine
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *pituḥ* \< *pitṛ*
+- *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”

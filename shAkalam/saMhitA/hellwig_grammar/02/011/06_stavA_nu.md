@@ -2,7 +2,7 @@
 title = "Rig Veda 2.11.6"
 
 +++
--   *stavā* \< *stu*
+-   *stavā* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 2.11.6"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -19,26 +19,26 @@ title = "Rig Veda 2.11.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvyā* \< *pūrvya*
+- *pūrvyā* ← *pūrvya*
 - \[noun\], accusative, plural, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *mahāny* \< *mahāni* \< *maha*
+- *mahāny* ← *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *stavāma* \< *stu*
+- *stavāma* ← *stu*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *nūtanā* \< *nūtana*
+- *nūtanā* ← *nūtana*
 - \[noun\], accusative, plural, neuter
 - “new; fresh; recent; contemporary; present(a); first.”
 ------------------------------------------------------------------------
-- *kṛtāni* \< *kṛ*
+- *kṛtāni* ← *kṛ*
 - \[verb noun\], accusative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -49,38 +49,38 @@ title = "Rig Veda 2.11.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *stavā* \< *stu*
+- *stavā* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *bāhvor* \< *bāhvoḥ* \< *bāhu*
+- *bāhvor* ← *bāhvoḥ* ← *bāhu*
 - \[noun\], locative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *uśantaṃ* \< *uśantam* \< *vaś*
+- *uśantaṃ* ← *uśantam* ← *vaś*
 - \[verb noun\], accusative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *stavā* \< *stu*
+- *stavā* ← *stu*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *ketū* \< *ketu*
+- *ketū* ← *ketu*
 - \[noun\], accusative, dual, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”

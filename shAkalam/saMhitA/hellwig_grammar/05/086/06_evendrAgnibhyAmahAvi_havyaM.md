@@ -2,35 +2,35 @@
 title = "Rig Veda 5.86.6"
 
 +++
--   *evendrāgnibhyām* \< *eva*
+-   *evendrāgnibhyām* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evendrāgnibhyām* \< *indra*
+- *evendrāgnibhyām* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *evendrāgnibhyām* \< *agnibhyām* \< *agni*
+- *evendrāgnibhyām* ← *agnibhyām* ← *agni*
 - \[noun\], dative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *ahāvi* \< *hu*
+- *ahāvi* ← *hu*
 - \[verb\], singular, Aorist passive
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *havyaṃ* \< *havyam* \< *havya*
+- *havyaṃ* ← *havyam* ← *havya*
 - \[noun\], nominative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *śūṣyaṃ* \< *śūṣyam* \< *śūṣya*
+- *śūṣyaṃ* ← *śūṣyam* ← *śūṣya*
 - \[noun\], nominative, singular, neuter
 - “encouraging.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], nominative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -38,55 +38,55 @@ title = "Rig Veda 5.86.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pūtam* \< *pū*
+- *pūtam* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *adribhiḥ* \< *adri*
+- *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sūriṣu* \< *sūri*
+- *sūriṣu* ← *sūri*
 - \[noun\], locative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *gṛṇatsu* \< *gṛ*
+- *gṛṇatsu* ← *gṛ*
 - \[verb noun\], locative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *didhṛtam* \< *dhṛ*
+- *didhṛtam* ← *dhṛ*
 - \[verb\], dual, Aorist imperative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *iṣaṃ* \< *iṣam* \< *iṣ*
+- *iṣaṃ* ← *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *gṛṇatsu* \< *gṛ*
+- *gṛṇatsu* ← *gṛ*
 - \[verb noun\], locative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *didhṛtam* \< *dhṛ*
+- *didhṛtam* ← *dhṛ*
 - \[verb\], dual, Aorist imperative
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”

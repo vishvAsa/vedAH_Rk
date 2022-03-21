@@ -2,29 +2,29 @@
 title = "Rig Veda 9.113.9"
 
 +++
--   *yatrānukāmaṃ* \< *yatra*
+-   *yatrānukāmaṃ* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yatrānukāmaṃ* \< *anukāmam* \< *anukāma*
+- *yatrānukāmaṃ* ← *anukāmam* ← *anukāma*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *caraṇaṃ* \< *caraṇam* \< *caraṇa*
+- *caraṇaṃ* ← *caraṇam* ← *caraṇa*
 - \[noun\], nominative, singular, neuter
 - “performance.”
 ------------------------------------------------------------------------
-- *trināke* \< *trināka*
+- *trināke* ← *trināka*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *tridive* \< *tridiva*
+- *tridive* ← *tridiva*
 - \[noun\], locative, singular, neuter
 - “Svarga; Tridiva.”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *lokā* \< *lokāḥ* \< *loka*
+- *lokā* ← *lokāḥ* ← *loka*
 - \[noun\], nominative, plural, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
@@ -33,7 +33,7 @@ title = "Rig Veda 9.113.9"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *jyotiṣmantas* \< *jyotiṣmantaḥ* \< *jyotiṣmat*
+- *jyotiṣmantas* ← *jyotiṣmantaḥ* ← *jyotiṣmat*
 - \[noun\], nominative, plural, masculine
 - “shining.”
 ------------------------------------------------------------------------
@@ -42,15 +42,15 @@ title = "Rig Veda 9.113.9"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *kṛdhi* \< *kṛ*
+- *kṛdhīndrāyendo* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,12 +61,12 @@ title = "Rig Veda 9.113.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indrāya* \< *indra*
+- *kṛdhīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indo* \< *indu*
+- *kṛdhīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -75,7 +75,7 @@ title = "Rig Veda 9.113.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.72.1"
 
 +++
--   *devānāṃ* \< *devānām* \< *deva*
+-   *devānāṃ* ← *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -11,11 +11,11 @@ title = "Rig Veda 10.72.1"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jānā* \< *jāna*
+- *jānā* ← *jāna*
 - \[noun\], accusative, plural, neuter
 - “birth.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 10.72.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vocāma* \< *vac*
+- *vocāma* ← *vac*
 - \[verb\], plural, Aorist conj./subj.
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -33,32 +33,32 @@ title = "Rig Veda 10.72.1"
 - *vipanyayā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *uktheṣu* \< *uktha*
+- *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *śasyamāneṣu* \< *śaṃs*
+- *śasyamāneṣu* ← *śaṃs*
 - \[verb noun\], locative, plural
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *paśyād* \< *paśyāt* \< *paś*
+- *paśyād* ← *paśyāt* ← *paś*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *uttare* \< *uttara*
+- *uttare* ← *uttara*
 - \[noun\], locative, singular, neuter
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *yuge* \< *yuga*
+- *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”

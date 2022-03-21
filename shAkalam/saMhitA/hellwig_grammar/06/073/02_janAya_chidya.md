@@ -2,20 +2,20 @@
 title = "Rig Veda 6.73.2"
 
 +++
--   *janāya* \< *jana*
+-   *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īvata* \< *īvate* \< *īvat*
+- *īvata* ← *īvate* ← *īvat*
 - \[noun\], dative, singular, masculine
 - “such(a).”
 ------------------------------------------------------------------------
@@ -23,25 +23,25 @@ title = "Rig Veda 6.73.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokam* \< *loka*
+- *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *devahūtau* \< *deva*
+- *devahūtau* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtau* \< *hūtau* \< *hūti*
+- *devahūtau* ← *hūtau* ← *hūti*
 - \[noun\], locative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -52,13 +52,13 @@ title = "Rig Veda 6.73.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ghnan* \< *han*
+- *ghnan* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
@@ -66,32 +66,32 @@ title = "Rig Veda 6.73.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *dardarīti* \< *dardar* \< *√dṛ*
+- *dardarīti* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present indikative
 - “cleave.”
 ------------------------------------------------------------------------
-- *jayañchatrūṃr* \< *jayan* \< *ji*
+- *jayañchatrūṃr* ← *jayan* ← *ji*
 - \[verb noun\], nominative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *jayañchatrūṃr* \< *śatrūn* \< *śatru*
+- *jayañchatrūṃr* ← *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *amitrān* \< *amitra*
+- *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *sāhan* \< *sah*
+- *sāhan* ← *sah*
 - \[verb noun\], nominative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------

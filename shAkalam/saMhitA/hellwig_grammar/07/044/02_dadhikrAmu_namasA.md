@@ -2,7 +2,7 @@
 title = "Rig Veda 7.44.2"
 
 +++
--   *dadhikrām* \< *dadhikrā*
+-   *dadhikrām* ← *dadhikrā*
 - \[noun\], accusative, singular, masculine
 - “Dadhikrā.”
 ------------------------------------------------------------------------
@@ -10,57 +10,57 @@ title = "Rig Veda 7.44.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *bodhayanta* \< *bodhayantaḥ* \< *bodhay* \< *√budh*
+- *bodhayanta* ← *bodhayantaḥ* ← *bodhay* ← *√budh*
 - \[verb noun\], nominative, plural
 - “awaken; ignite; advise; admonish; communicate.”
 ------------------------------------------------------------------------
-- *udīrāṇā* \< *udīrāṇāḥ* \< *udīr* \< *√īr*
+- *udīrāṇā* ← *udīrāṇāḥ* ← *udīr* ← *√īr*
 - \[verb noun\], nominative, plural
 - “originate.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *upaprayantaḥ* \< *upapre* \< *√i*
+- *upaprayantaḥ* ← *upapre* ← *√i*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *iﾱāṃ* \< *iﾱām* \< *iḍā*
+- *iﾱāṃ* ← *iﾱām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *devīm* \< *deva*
+- *devīm* ← *deva*
 - \[noun\], accusative, singular, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *barhiṣi* \< *barhis*
+- *barhiṣi* ← *barhis*
 - \[noun\], locative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *sādayanto* \< *sādayantaḥ* \< *sāday* \< *√sad*
+- *sādayanto* ← *sādayantaḥ* ← *sāday* ← *√sad*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *'śvinā* \< *aśvinā* \< *aśvin*
+- *'śvinā* ← *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *viprā* \< *vipra*
+- *viprā* ← *vipra*
 - \[noun\], accusative, dual, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *suhavā* \< *su*
+- *suhavā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhavā* \< *havā* \< *hava*
+- *suhavā* ← *havā* ← *hava*
 - \[noun\], accusative, dual, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *huvema* \< *hvā*
+- *huvema* ← *hvā*
 - \[verb\], plural, Present optative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------

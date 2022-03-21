@@ -2,50 +2,50 @@
 title = "Rig Veda 8.20.18"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *cārhanti* \< *ca*
+- *cārhanti* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cārhanti* \< *arhanti* \< *arh*
+- *cārhanti* ← *arhanti* ← *arh*
 - \[verb\], plural, Present indikative
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *sman* \< *smat*
+- *sman* ← *smat*
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣaś* \< *mīḍhuṣaḥ* \< *mīḍhvas*
+- *mīﾱhuṣaś* ← *mīḍhuṣaḥ* ← *mīḍhvas*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ataś* \< *atas*
+- *ataś* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 8.20.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -61,15 +61,15 @@ title = "Rig Veda 8.20.18"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vasyasā* \< *vasyas*
+- *vasyasā* ← *vasyas*
 - \[noun\], instrumental, singular, neuter
 - “better; rich.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *yuvāna* \< *yuvānaḥ* \< *yuvan*
+- *yuvāna* ← *yuvānaḥ* ← *yuvan*
 - \[noun\], vocative, plural, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
@@ -78,7 +78,7 @@ title = "Rig Veda 8.20.18"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavṛdhvam* \< *\_* \< *√\_*
+- *vavṛdhvam* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------

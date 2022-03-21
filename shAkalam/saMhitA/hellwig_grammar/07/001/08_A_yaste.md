@@ -6,25 +6,25 @@ title = "Rig Veda 7.1.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *idhate* \< *indh*
+- *idhate* ← *indh*
 - \[verb\], singular, Aorist conj./subj.
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], accusative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 7.1.8"
 - \[noun\], vocative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *dīdivaḥ* \< *dīdivas* \< *dīdī*
+- *dīdivaḥ* ← *dīdivas* ← *dīdī*
 - \[verb noun\], vocative, singular
 - “shine; glitter.”
 ------------------------------------------------------------------------
@@ -44,30 +44,30 @@ title = "Rig Veda 7.1.8"
 - \[noun\], vocative, singular, masculine
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ebhi* \< *ebhiḥ* \< *idam*
+- *ebhi* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stavathair* \< *stavathaiḥ* \< *stavatha*
+- *stavathair* ← *stavathaiḥ* ← *stavatha*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *syāḥ* \< *as*
+- *syāḥ* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

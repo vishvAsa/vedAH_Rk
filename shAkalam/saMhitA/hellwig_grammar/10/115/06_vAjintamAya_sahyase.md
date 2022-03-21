@@ -2,17 +2,17 @@
 title = "Rig Veda 10.115.6"
 
 +++
--   *vājintamāya* \< *vājintama*
+-   *vājintamāya* ← *vājintama*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sahyase* \< *sahyas*
+- *sahyase* ← *sahyas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *supitrya* \< *su*
+- *supitrya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supitrya* \< *pitrya*
+- *supitrya* ← *pitrya*
 - \[noun\], vocative, singular, masculine
 - “ancestral; paternal.”
 ------------------------------------------------------------------------
@@ -20,52 +20,52 @@ title = "Rig Veda 10.115.6"
 - \[noun\], accusative, singular, neuter
 - “dry.”
 ------------------------------------------------------------------------
-- *cyavāno* \< *cyavānaḥ* \< *cyavāna*
+- *cyavāno* ← *cyavānaḥ* ← *cyavāna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *jātavedase* \< *jātavedas*
+- *jātavedase* ← *jātavedas*
 - \[noun\], dative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *anudre* \< *anudra*
+- *anudre* ← *anudra*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhṛṣatā* \< *dhṛṣat*
+- *dhṛṣatā* ← *dhṛṣat*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *varaṃ* \< *varam* \< *vara*
+- *varaṃ* ← *varam* ← *vara*
 - \[noun\], accusative, singular, neuter
 - “best; excellent; better; choice; optimum; maximal.”
 ------------------------------------------------------------------------
-- *sate* \< *as*
+- *sate* ← *as*
 - \[verb noun\], dative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mahintamāya* \< *mahintama*
+- *mahintamāya* ← *mahintama*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *dhanvaned* \< *dhanvanā* \< *dhanvan*
+- *dhanvaned* ← *dhanvanā* ← *dhanvan*
 - \[noun\], instrumental, singular, neuter
 - “bow; desert; steppe; barren.”
 ------------------------------------------------------------------------
-- *dhanvaned* \< *id*
+- *dhanvaned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aviṣyate* \< *av*
+- *aviṣyate* ← *av*
 - \[verb noun\], dative, singular
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

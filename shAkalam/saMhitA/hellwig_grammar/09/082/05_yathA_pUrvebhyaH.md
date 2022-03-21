@@ -6,78 +6,78 @@ title = "Rig Veda 9.82.5"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *pūrvebhyaḥ* \< *pūrva*
+- *pūrvebhyaḥ* ← *pūrva*
 - \[noun\], dative, plural, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *śatasā* \< *śata*
+- *śatasā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatasā* \< *sāḥ* \< *sā*
+- *śatasā* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *amṛdhraḥ* \< *amṛdhra*
+- *amṛdhraḥ* ← *amṛdhra*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sahasra*
+- *sahasrasāḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasāḥ* \< *sāḥ* \< *sā*
+- *sahasrasāḥ* ← *sāḥ* ← *sā*
 - \[noun\], nominative, singular, masculine
 - “winning.”
 ------------------------------------------------------------------------
-- *paryayā* \< *paryayāḥ* \< *pariyā* \< *√yā*
+- *paryayā* ← *paryayāḥ* ← *pariyā* ← *√yā*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *indo* \< *indu*
+- *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *navyase* \< *navyas*
+- *navyase* ← *navyas*
 - \[noun\], dative, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vratam* \< *vrata*
+- *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *āpaḥ* \< *ap*
+- *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sacante* \< *sac*
+- *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

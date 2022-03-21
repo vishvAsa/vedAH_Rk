@@ -6,29 +6,29 @@ title = "Rig Veda 7.3.7"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *svāhāgnaye* \< *svāhā*
+- *svāhāgnaye* ← *svāhā*
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *svāhāgnaye* \< *agnaye* \< *agni*
+- *svāhāgnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, feminine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dāśema* \< *dāś*
+- *dāśema* ← *dāś*
 - \[verb\], plural, Present optative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *parīﾱābhir* \< *pari*
+- *parīﾱābhir* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *parīﾱābhir* \< *iḍābhiḥ* \< *iḍā*
+- *parīﾱābhir* ← *iḍābhiḥ* ← *iḍā*
 - \[noun\], instrumental, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------

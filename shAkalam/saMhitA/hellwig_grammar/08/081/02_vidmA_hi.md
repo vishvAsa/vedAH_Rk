@@ -2,7 +2,7 @@
 title = "Rig Veda 8.81.2"
 
 +++
--   *vidmā* \< *vidma* \< *vid*
+-   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -11,28 +11,28 @@ title = "Rig Veda 8.81.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tuvikūrmiṃ* \< *tuvikūrmim* \< *tuvikūrmi*
+- *tuvikūrmiṃ* ← *tuvikūrmim* ← *tuvikūrmi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tuvideṣṇaṃ* \< *tuvi*
+- *tuvideṣṇaṃ* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvideṣṇaṃ* \< *deṣṇam* \< *deṣṇa*
+- *tuvideṣṇaṃ* ← *deṣṇam* ← *deṣṇa*
 - \[noun\], accusative, singular, masculine
 - “gift; giving.”
 ------------------------------------------------------------------------
-- *tuvīmagham* \< *tuvīmagha*
+- *tuvīmagham* ← *tuvīmagha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tuvimātram* \< *tuvimātra*
+- *tuvimātram* ← *tuvimātra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *avobhiḥ* \< *avas*
+- *avobhiḥ* ← *avas*
 - \[noun\], instrumental, plural, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

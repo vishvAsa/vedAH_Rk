@@ -2,59 +2,59 @@
 title = "Rig Veda 6.32.1"
 
 +++
--   *apūrvyā* \< *apūrvya*
+-   *apūrvyā* ← *apūrvya*
 - \[noun\], accusative, plural, neuter
 - “incomparable.”
 ------------------------------------------------------------------------
-- *purutamāny* \< *purutamāni* \< *purutama*
+- *purutamāny* ← *purutamāni* ← *purutama*
 - \[noun\], accusative, plural, neuter
 - “most(a).”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vīrāya* \< *vīra*
+- *vīrāya* ← *vīra*
 - \[noun\], dative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *turāya* \< *tura*
+- *turāya* ← *tura*
 - \[noun\], dative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *virapśine* \< *virapśin*
+- *virapśine* ← *virapśin*
 - \[noun\], dative, singular, masculine
 - “exuberant; copious; ample.”
 ------------------------------------------------------------------------
-- *vajriṇe* \< *vajrin*
+- *vajriṇe* ← *vajrin*
 - \[noun\], dative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *śantamāni* \< *śaṃtama*
+- *śantamāni* ← *śaṃtama*
 - \[noun\], accusative, plural, neuter
 - “beneficent.”
 ------------------------------------------------------------------------
-- *vacāṃsy* \< *vacāṃsi* \< *vacas*
+- *vacāṃsy* ← *vacāṃsi* ← *vacas*
 - \[noun\], accusative, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *āsā* \< *ās*
+- *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *sthavirāya* \< *sthavira*
+- *sthavirāya* ← *sthavira*
 - \[noun\], dative, singular, masculine
 - “old; strong; hardy; firm; firm.”
 ------------------------------------------------------------------------
-- *takṣam* \< *takṣ*
+- *takṣam* ← *takṣ*
 - \[verb\], singular, Present injunctive
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------

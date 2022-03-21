@@ -2,42 +2,42 @@
 title = "Rig Veda 10.101.7"
 
 +++
--   *prīṇītāśvān* \< *prīṇīta* \< *prī*
+-   *prīṇītāśvān* ← *prīṇīta* ← *prī*
 - \[verb\], plural, Present imperative
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *prīṇītāśvān* \< *aśvān* \< *aśva*
+- *prīṇītāśvān* ← *aśvān* ← *aśva*
 - \[noun\], accusative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *hitaṃ* \< *hitam* \< *dhā*
+- *hitaṃ* ← *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *jayātha* \< *ji*
+- *jayātha* ← *ji*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *svastivāhaṃ* \< *svasti*
+- *svastivāhaṃ* ← *svasti*
 - \[noun\], neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
 ------------------------------------------------------------------------
-- *svastivāhaṃ* \< *vāham* \< *vāha*
+- *svastivāhaṃ* ← *vāham* ← *vāha*
 - \[noun\], accusative, singular, masculine
 - “transporting; flowing; removing.”
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -48,40 +48,40 @@ title = "Rig Veda 10.101.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *droṇāhāvam* \< *droṇa*
+- *droṇāhāvam* ← *droṇa*
 - \[noun\], masculine
 - “Droṇa; Droṇa; Droṇa; droṇa \[word\]; raven.”
 ------------------------------------------------------------------------
-- *droṇāhāvam* \< *āhāvam* \< *āhāva*
+- *droṇāhāvam* ← *āhāvam* ← *āhāva*
 - \[noun\], accusative, singular, masculine
 - “bucket; āhāva \[word\]; manger.”
 ------------------------------------------------------------------------
-- *avatam* \< *avata*
+- *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *aśmacakram* \< *aśma* \< *aśman*
+- *aśmacakram* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
 ------------------------------------------------------------------------
-- *aśmacakram* \< *cakram* \< *cakra*
+- *aśmacakram* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *aṃsatrakośaṃ* \< *aṃsatra*
+- *aṃsatrakośaṃ* ← *aṃsatra*
 - \[noun\], neuter
 ------------------------------------------------------------------------
-- *aṃsatrakośaṃ* \< *kośam* \< *kośa*
+- *aṃsatrakośaṃ* ← *kośam* ← *kośa*
 - \[noun\], accusative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *siñcatā* \< *sic*
+- *siñcatā* ← *sic*
 - \[verb\], plural, Present imperative
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *nṛpāṇam* \< *nṛpāṇa*
+- *nṛpāṇam* ← *nṛpāṇa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

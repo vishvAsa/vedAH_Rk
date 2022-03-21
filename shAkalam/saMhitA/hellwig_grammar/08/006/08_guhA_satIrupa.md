@@ -6,7 +6,7 @@ title = "Rig Veda 8.6.8"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *satīr* \< *satīḥ* \< *as*
+- *satīr* ← *satīḥ* ← *as*
 - \[verb noun\], nominative, plural
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -15,7 +15,7 @@ title = "Rig Veda 8.6.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *tmanā* \< *tman*
+- *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
@@ -23,27 +23,27 @@ title = "Rig Veda 8.6.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yacchocanta* \< *yat*
+- *yacchocanta* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yacchocanta* \< *śocanta* \< *śuc*
+- *yacchocanta* ← *śocanta* ← *śuc*
 - \[verb\], plural, Present injunctive
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *dhītayaḥ* \< *dhīti*
+- *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *kaṇvā* \< *kaṇvāḥ* \< *kaṇva*
+- *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], nominative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------

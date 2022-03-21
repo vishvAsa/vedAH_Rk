@@ -2,58 +2,58 @@
 title = "Rig Veda 9.69.10"
 
 +++
--   *indav* \< *indo* \< *indu*
+-   *indav* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bṛhate* \< *bṛhat*
+- *bṛhate* ← *bṛhat*
 - \[noun\], dative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *sumṛﾱīko* \< *su*
+- *sumṛﾱīko* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumṛﾱīko* \< *mṛﾱīkaḥ* \< *mṛḍīka*
+- *sumṛﾱīko* ← *mṛﾱīkaḥ* ← *mṛḍīka*
 - \[noun\], nominative, singular, masculine
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *anavadyo* \< *anavadyaḥ* \< *anavadya*
+- *anavadyo* ← *anavadyaḥ* ← *anavadya*
 - \[noun\], nominative, singular, masculine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *riśādāḥ* \< *riśādas*
+- *riśādāḥ* ← *riśādas*
 - \[noun\], nominative, singular, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *bharā* \< *\_* \< *√\_*
+- *bharā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *candrāṇi* \< *candra*
+- *candrāṇi* ← *candra*
 - \[noun\], accusative, plural, neuter
 - “aglitter(p); shining.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *vasūni* \< *vasu*
+- *vasūni* ← *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *devair* \< *devaiḥ* \< *deva*
+- *devair* ← *devaiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -62,11 +62,11 @@ title = "Rig Veda 9.69.10"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *prāvataṃ* \< *prāvatam* \< *prāv* \< *√av*
+- *prāvataṃ* ← *prāvatam* ← *prāv* ← *√av*
 - \[verb\], dual, Present imperative
 - “help; promote.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

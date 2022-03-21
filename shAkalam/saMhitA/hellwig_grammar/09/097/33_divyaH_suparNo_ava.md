@@ -2,20 +2,20 @@
 title = "Rig Veda 9.97.33"
 
 +++
--   *divyaḥ* \< *divya*
+-   *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *cakṣi* \< *cakṣ*
+- *cakṣi* ← *cakṣ*
 - \[verb\], singular, Present indikative
 - “watch; look.”
 ------------------------------------------------------------------------
@@ -23,15 +23,15 @@ title = "Rig Veda 9.97.33"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pinvan* \< *pinv*
+- *pinvan* ← *pinv*
 - \[verb noun\], nominative, singular
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *dhārāḥ* \< *dhārā*
+- *dhārāḥ* ← *dhārā*
 - \[noun\], accusative, plural, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *karmaṇā* \< *karman*
+- *karmaṇā* ← *karman*
 - \[noun\], instrumental, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -39,57 +39,57 @@ title = "Rig Veda 9.97.33"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *devavītau* \< *deva*
+- *devavītau* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītau* \< *vītau* \< *vīti*
+- *devavītau* ← *vītau* ← *vīti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *endo* \< *ā*
+- *endo* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endo* \< *indo* \< *indu*
+- *endo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *viśa* \< *viś*
+- *viśa* ← *viś*
 - \[verb\], singular, Present imperative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *kalaśaṃ* \< *kalaśam* \< *kalaśa*
+- *kalaśaṃ* ← *kalaśam* ← *kalaśa*
 - \[noun\], accusative, singular, neuter
 - “jar.”
 ------------------------------------------------------------------------
-- *somadhānaṃ* \< *soma*
+- *somadhānaṃ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somadhānaṃ* \< *dhānam* \< *dhāna*
+- *somadhānaṃ* ← *dhānam* ← *dhāna*
 - \[noun\], accusative, singular, neuter
 - “containing.”
 ------------------------------------------------------------------------
-- *krandann* \< *krandan* \< *krand*
+- *krandann* ← *krandan* ← *krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *ihi* \< *i*
+- *ihi* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *sūryasyopa* \< *sūryasya* \< *sūrya*
+- *sūryasyopa* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyopa* \< *upa*
+- *sūryasyopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *raśmim* \< *raśmi*
+- *raśmim* ← *raśmi*
 - \[noun\], accusative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 4.2.19"
 
 +++
--   *akarma* \< *kṛ*
+-   *akarma* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,46 +13,46 @@ title = "Rig Veda 4.2.19"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *svapaso* \< *su*
+- *svapaso* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapaso* \< *apasaḥ* \< *apas*
+- *svapaso* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, masculine
 - “work; deed.”
 ------------------------------------------------------------------------
-- *abhūma* \< *bhū*
+- *abhūma* ← *bhū*
 - \[verb\], plural, Root aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *avasrann* \< *avasran* \< *vas*
+- *avasrann* ← *avasran* ← *vas*
 - \[verb\], plural, Root aorist (Ind.)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], nominative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *vibhātīḥ* \< *vibhā* \< *√bhā*
+- *vibhātīḥ* ← *vibhā* ← *√bhā*
 - \[verb noun\], accusative, plural
 - “shine.”
 ------------------------------------------------------------------------
-- *anūnam* \< *anūna*
+- *anūnam* ← *anūna*
 - \[noun\], accusative, singular, masculine
 - “perfect; entire.”
 ------------------------------------------------------------------------
-- *agnim* \< *agni*
+- *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -62,20 +62,20 @@ title = "Rig Veda 4.2.19"
 - \[adverb\]
 - “multiply.”
 ------------------------------------------------------------------------
-- *suścandraṃ* \< *su*
+- *suścandraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suścandraṃ* \< *ścandram* \< *ścandra*
+- *suścandraṃ* ← *ścandram* ← *ścandra*
 - \[noun\], accusative, singular, masculine
 - “shining; glistening; brilliant.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *marmṛjataś* \< *marmṛjataḥ* \< *marmṛj* \< *√mṛj*
+- *marmṛjataś* ← *marmṛjataḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], genitive, singular
 - “groom; wash; rub.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 4.2.19"
 - \[noun\], accusative, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *cakṣuḥ* \< *cakṣus*
+- *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------

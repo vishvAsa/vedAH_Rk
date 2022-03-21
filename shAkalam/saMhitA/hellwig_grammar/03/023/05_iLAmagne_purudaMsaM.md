@@ -2,89 +2,89 @@
 title = "Rig Veda 3.23.5"
 
 +++
--   *iḍām* \< *iḍā*
+-   *iḍām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *purudaṃsaṃ* \< *purudaṃsam* \< *purudaṃsa*
+- *purudaṃsaṃ* ← *purudaṃsam* ← *purudaṃsa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *saniṃ* \< *sanim* \< *sani*
+- *saniṃ* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 - “gain.”
 ------------------------------------------------------------------------
-- *goḥ* \< *go*
+- *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *śaśvattamaṃ* \< *śaśvattamam* \< *śaśvattama*
+- *śaśvattamaṃ* ← *śaśvattamam* ← *śaśvattama*
 - \[noun\], accusative, singular, neuter
 - “frequent.”
 ------------------------------------------------------------------------
-- *havamānāya* \< *hvā*
+- *havamānāya* ← *hvā*
 - \[verb noun\], dative, singular
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sādha* \< *sādh*
+- *sādha* ← *sādh*
 - \[verb\], singular, Present imperative
 - “promote; succeed.”
 ------------------------------------------------------------------------
-- *syān* \< *syāt* \< *as*
+- *syān* ← *syāt* ← *as*
 - \[verb\], singular, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sūnus* \< *sūnuḥ* \< *sūnu*
+- *sūnus* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *tanayo* \< *tanayaḥ* \< *tanaya*
+- *tanayo* ← *tanayaḥ* ← *tanaya*
 - \[noun\], nominative, singular, masculine
 - “biological.”
 ------------------------------------------------------------------------
-- *vijāvāgne* \< *vijāvā* \< *vijāvan*
+- *vijāvāgne* ← *vijāvā* ← *vijāvan*
 - \[noun\], nominative, singular, masculine
 - “biological.”
 ------------------------------------------------------------------------
-- *vijāvāgne* \< *agne* \< *agni*
+- *vijāvāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *bhūtv* \< *bhūtu* \< *bhū*
+- *bhūtv* ← *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

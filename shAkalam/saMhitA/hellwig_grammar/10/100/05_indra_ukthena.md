@@ -2,36 +2,36 @@
 title = "Rig Veda 10.100.5"
 
 +++
--   *indra* \< *indraḥ* \< *indra*
+-   *indra* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *ukthena* \< *uktha*
+- *ukthena* ← *uktha*
 - \[noun\], instrumental, singular, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *parur* \< *paruḥ* \< *parus*
+- *parur* ← *paruḥ* ← *parus*
 - \[noun\], accusative, singular, neuter
 - “joint.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *pratarītāsy* \< *pratarītā* \< *pratarītṛ*
+- *pratarītāsy* ← *pratarītā* ← *pratarītṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pratarītāsy* \< *asi* \< *as*
+- *pratarītāsy* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

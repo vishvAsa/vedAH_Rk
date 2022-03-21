@@ -2,32 +2,32 @@
 title = "Rig Veda 7.28.3"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *praṇītīndra* \< *praṇītī* \< *praṇīti*
+- *praṇītīndra* ← *praṇītī* ← *praṇīti*
 - \[noun\], instrumental, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *praṇītīndra* \< *indra*
+- *praṇītīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *johuvānān* \< *johav* \< *√hvā*
+- *johuvānān* ← *johav* ← *√hvā*
 - \[verb noun\], accusative, plural
 - “appeal.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yan* \< *yat*
+- *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
@@ -35,24 +35,24 @@ title = "Rig Veda 7.28.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ninetha* \< *nī*
+- *ninetha* ← *nī*
 - \[verb\], singular, Perfect indicative
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *kṣatrāya* \< *kṣatra*
+- *kṣatrāya* ← *kṣatra*
 - \[noun\], dative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *śavase* \< *śavas*
+- *śavase* ← *śavas*
 - \[noun\], dative, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
@@ -60,17 +60,17 @@ title = "Rig Veda 7.28.3"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *jajñe* \< *jan*
+- *jajñe* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *'tūtujiṃ* \< *a*
+- *'tūtujiṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'tūtujiṃ* \< *tūtujim* \< *tūtuji*
+- *'tūtujiṃ* ← *tūtujim* ← *tūtuji*
 - \[noun\], accusative, singular, masculine
 - “exciting; avid; eager.”
 ------------------------------------------------------------------------
@@ -78,11 +78,11 @@ title = "Rig Veda 7.28.3"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *tūtujir* \< *tūtujiḥ* \< *tūtuji*
+- *tūtujir* ← *tūtujiḥ* ← *tūtuji*
 - \[noun\], nominative, singular, masculine
 - “exciting; avid; eager.”
 ------------------------------------------------------------------------
-- *aśiśnat* \< *śnath*
+- *aśiśnat* ← *śnath*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “pierce; kill.”
 ------------------------------------------------------------------------

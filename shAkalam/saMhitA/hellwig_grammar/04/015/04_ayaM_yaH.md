@@ -2,38 +2,38 @@
 title = "Rig Veda 4.15.4"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sṛñjaye* \< *sṛñjaya*
+- *sṛñjaye* ← *sṛñjaya*
 - \[noun\], locative, singular, masculine
 - “Sṛñjaya.”
 ------------------------------------------------------------------------
-- *puro* \< *puras*
+- *puro* ← *puras*
 - \[adverb\]
 - “ahead; puras \[word\]; easterly; eastward; east; earlier.”
 ------------------------------------------------------------------------
-- *daivavāte* \< *daivavāta*
+- *daivavāte* ← *daivavāta*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *samidhyate* \< *samindh* \< *√indh*
+- *samidhyate* ← *samindh* ← *√indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *dyumāṃ* \< *dyumat*
+- *dyumāṃ* ← *dyumat*
 - \[noun\], nominative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *amitradambhanaḥ* \< *amitra*
+- *amitradambhanaḥ* ← *amitra*
 - \[noun\], masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *amitradambhanaḥ* \< *dambhanaḥ* \< *dambhana*
+- *amitradambhanaḥ* ← *dambhanaḥ* ← *dambhana*
 - \[noun\], nominative, singular, masculine
 - “damaging.”
 ------------------------------------------------------------------------

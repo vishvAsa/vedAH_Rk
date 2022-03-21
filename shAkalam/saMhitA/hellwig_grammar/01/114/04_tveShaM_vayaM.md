@@ -2,30 +2,30 @@
 title = "Rig Veda 1.114.4"
 
 +++
--   *tveṣaṃ* \< *tveṣam* \< *tveṣa*
+-   *tveṣaṃ* ← *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rudraṃ* \< *rudram* \< *rudra*
+- *rudraṃ* ← *rudram* ← *rudra*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *yajñasādhaṃ* \< *yajñasādham* \< *yajñasādh*
+- *yajñasādhaṃ* ← *yajñasādham* ← *yajñasādh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vaṅkuṃ* \< *vaṅkum* \< *vaṅku*
+- *vaṅkuṃ* ← *vaṅkum* ← *vaṅku*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kavim* \< *kavi*
+- *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *avase* \< *avas*
+- *avase* ← *avas*
 - \[noun\], dative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
@@ -33,7 +33,7 @@ title = "Rig Veda 1.114.4"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *hvayāmahe* \< *hvā*
+- *hvayāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -41,23 +41,23 @@ title = "Rig Veda 1.114.4"
 - \[adverb\]
 - “far.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *heﾱo* \< *heﾱaḥ* \< *heḍas*
+- *heﾱo* ← *heﾱaḥ* ← *heḍas*
 - \[noun\], accusative, singular, neuter
 - “wrath.”
 ------------------------------------------------------------------------
-- *asyatu* \< *as*
+- *asyatu* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *sumatim* \< *sumati*
+- *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
@@ -65,19 +65,19 @@ title = "Rig Veda 1.114.4"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asyā* \< *asya* \< *idam*
+- *asyā* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyā* \< *ā*
+- *asyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṇīmahe* \< *vṛ*
+- *vṛṇīmahe* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------

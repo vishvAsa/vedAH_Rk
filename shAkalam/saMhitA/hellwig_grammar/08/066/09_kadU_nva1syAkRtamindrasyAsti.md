@@ -2,27 +2,27 @@
 title = "Rig Veda 8.66.9"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *asyākṛtam* \< *asya* \< *idam*
+- *asyākṛtam* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyākṛtam* \< *a*
+- *asyākṛtam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asyākṛtam* \< *kṛtam* \< *kṛ*
+- *asyākṛtam* ← *kṛtam* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -33,25 +33,25 @@ title = "Rig Veda 8.66.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *indrasyāsti* \< *indrasya* \< *indra*
+- *indrasyāsti* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrasyāsti* \< *asti* \< *as*
+- *indrasyāsti* ← *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pauṃsyam* \< *pauṃsya*
+- *pauṃsyam* ← *pauṃsya*
 - \[noun\], nominative, singular, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *keno* \< *kena* \< *ka*
+- *keno* ← *kena* ← *ka*
 - \[noun\], instrumental, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *keno* \< *u*
+- *keno* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -59,11 +59,11 @@ title = "Rig Veda 8.66.9"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *śromatena* \< *śromata*
+- *śromatena* ← *śromata*
 - \[noun\], instrumental, singular, neuter
 - “fame.”
 ------------------------------------------------------------------------
@@ -71,11 +71,11 @@ title = "Rig Veda 8.66.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śuśruve* \< *śru*
+- *śuśruve* ← *śru*
 - \[verb\], singular, Perfect indicative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *januṣaḥ* \< *janus*
+- *januṣaḥ* ← *janus*
 - \[noun\], ablative, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 8.66.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vṛtrahā* \< *vṛtrahan*
+- *vṛtrahā* ← *vṛtrahan*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------

@@ -2,60 +2,60 @@
 title = "Rig Veda 1.84.12"
 
 +++
--   *tā* \< *tāḥ* \< *tad*
+-   *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *sahaḥ* \< *sahas*
+- *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *saparyanti* \< *sapary*
+- *saparyanti* ← *sapary*
 - \[verb\], plural, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *pracetasaḥ* \< *pracetas*
+- *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, feminine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *vratāny* \< *vratāni* \< *vrata*
+- *vratāny* ← *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *saścire* \< *sac*
+- *saścire* ← *sac*
 - \[verb\], plural, Perfect indicative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *pūrvacittaye* \< *pūrva*
+- *pūrvacittaye* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvacittaye* \< *cittaye* \< *citti*
+- *pūrvacittaye* ← *cittaye* ← *citti*
 - \[noun\], dative, singular, feminine
 - “purpose.”
 ------------------------------------------------------------------------
-- *vasvīr* \< *vasvīḥ* \< *vasu*
+- *vasvīr* ← *vasvīḥ* ← *vasu*
 - \[noun\], nominative, plural, feminine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -63,12 +63,12 @@ title = "Rig Veda 1.84.12"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *sva*
+- *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *rājyam* \< *rājya*
+- *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------

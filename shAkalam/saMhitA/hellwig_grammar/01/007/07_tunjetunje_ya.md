@@ -2,33 +2,33 @@
 title = "Rig Veda 1.7.7"
 
 +++
--   *tuñje* \< *tuñja*
+-   *tuñje* ← *tuñja*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *tuñje* \< *tuñja*
+- *tuñje* ← *tuñja*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *uttare* \< *uttara*
+- *uttare* ← *uttara*
 - \[noun\], nominative, plural, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *stomā* \< *stomāḥ* \< *stoma*
+- *stomā* ← *stomāḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajriṇaḥ* \< *vajrin*
+- *vajriṇaḥ* ← *vajrin*
 - \[noun\], genitive, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
@@ -36,14 +36,14 @@ title = "Rig Veda 1.7.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vindhe* \< *vidh*
+- *vindhe* ← *vidh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *suṣṭutim* \< *suṣṭuti*
+- *suṣṭutim* ← *suṣṭuti*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------

@@ -2,59 +2,59 @@
 title = "Rig Veda 8.101.8"
 
 +++
--   *rātiṃ* \< *rātim* \< *rāti*
+-   *rātiṃ* ← *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *arakṣasaṃ* \< *arakṣasam* \< *arakṣas*
+- *arakṣasaṃ* ← *arakṣasam* ← *arakṣas*
 - \[noun\], accusative, singular, feminine
 - “harmless.”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yuvābhyāṃ* \< *yuvābhyām* \< *tvad*
+- *yuvābhyāṃ* ← *yuvābhyām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vājinīvasū* \< *vājinīvasu*
+- *vājinīvasū* ← *vājinīvasu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *prācīṃ* \< *prācīm* \< *prāñc*
+- *prācīṃ* ← *prācīm* ← *prāñc*
 - \[noun\], accusative, singular, feminine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *hotrām* \< *hotrā*
+- *hotrām* ← *hotrā*
 - \[noun\], accusative, singular, feminine
 - “hotrā \[word\]; Hautra.”
 ------------------------------------------------------------------------
-- *pratirantāv* \< *pratirantau* \< *pratṛ* \< *√tṛ*
+- *pratirantāv* ← *pratirantau* ← *pratṛ* ← *√tṛ*
 - \[verb noun\], nominative, dual
 - “traverse; prolong.”
 ------------------------------------------------------------------------
-- *itaṃ* \< *itam* \< *i*
+- *itaṃ* ← *itam* ← *i*
 - \[verb\], dual, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *gṛṇānā* \< *gṛ*
+- *gṛṇānā* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *jamadagninā* \< *jamadagni*
+- *jamadagninā* ← *jamadagni*
 - \[noun\], instrumental, singular, masculine
 - “Jamadagni.”
 ------------------------------------------------------------------------

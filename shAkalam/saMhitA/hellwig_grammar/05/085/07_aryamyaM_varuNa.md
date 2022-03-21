@@ -2,7 +2,7 @@
 title = "Rig Veda 5.85.7"
 
 +++
--   *aryamyaṃ* \< *aryamyam* \< *aryamya*
+-   *aryamyaṃ* ← *aryamyam* ← *aryamya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *varuṇa*
@@ -10,7 +10,7 @@ title = "Rig Veda 5.85.7"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *mitryaṃ* \< *mitryam* \< *mitrya*
+- *mitryaṃ* ← *mitryam* ← *mitrya*
 - \[noun\], accusative, singular, masculine
 - “friendly.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 5.85.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sakhāyaṃ* \< *sakhāyam* \< *sakhi*
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 5.85.7"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *bhrātaraṃ* \< *bhrātaram* \< *bhrātṛ*
+- *bhrātaraṃ* ← *bhrātaram* ← *bhrātṛ*
 - \[noun\], accusative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 5.85.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *veśaṃ* \< *veśam* \< *veśa*
+- *veśaṃ* ← *veśam* ← *veśa*
 - \[noun\], accusative, singular, masculine
 - “whorehouse; prostitute; neighbor; braid.”
 ------------------------------------------------------------------------
@@ -50,18 +50,18 @@ title = "Rig Veda 5.85.7"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *nityaṃ* \< *nityam* \< *nitya*
+- *nityaṃ* ← *nityam* ← *nitya*
 - \[noun\], accusative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *varuṇāraṇaṃ* \< *varuṇa*
+- *varuṇāraṇaṃ* ← *varuṇa*
 - \[noun\], masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *varuṇāraṇaṃ* \< *araṇam* \< *araṇa*
+- *varuṇāraṇaṃ* ← *araṇam* ← *araṇa*
 - \[noun\], accusative, singular, masculine
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
@@ -76,11 +76,11 @@ title = "Rig Veda 5.85.7"
 - *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āgaś* \< *āgaḥ* \< *āgas*
+- *āgaś* ← *āgaḥ* ← *āgas*
 - \[noun\], accusative, singular, neuter
 - “sin; evildoing; mistake.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -91,10 +91,10 @@ title = "Rig Veda 5.85.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śiśrathas* \< *śiśrathaḥ* \< *śrath*
+- *śiśrathas* ← *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

@@ -2,24 +2,24 @@
 title = "Rig Veda 8.19.13"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *havyadātibhir* \< *havya*
+- *havyadātibhir* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyadātibhir* \< *dātibhiḥ* \< *dāti*
+- *havyadātibhir* ← *dātibhiḥ* ← *dāti*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *namobhir* \< *namobhiḥ* \< *namas*
+- *namobhir* ← *namobhiḥ* ← *namas*
 - \[noun\], instrumental, plural, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
@@ -27,31 +27,31 @@ title = "Rig Veda 8.19.13"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *su*
+- *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *dakṣam* \< *dakṣa*
+- *sudakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *āvivāsati* \< *āvivās* \< *√van*
+- *āvivāsati* ← *āvivās* ← *√van*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *vājiraśociṣam* \< *vā*
+- *vājiraśociṣam* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vājiraśociṣam* \< *ajira*
+- *vājiraśociṣam* ← *ajira*
 - \[noun\]
 - “fast; agile; ajira \[word\].”
 ------------------------------------------------------------------------
-- *vājiraśociṣam* \< *śociṣam* \< *śocis*
+- *vājiraśociṣam* ← *śociṣam* ← *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------

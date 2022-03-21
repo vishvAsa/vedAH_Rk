@@ -2,19 +2,19 @@
 title = "Rig Veda 10.158.5"
 
 +++
--   *susaṃdṛśaṃ* \< *su*
+-   *susaṃdṛśaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃdṛśaṃ* \< *saṃdṛśam* \< *saṃdṛś*
+- *susaṃdṛśaṃ* ← *saṃdṛśam* ← *saṃdṛś*
 - \[noun\], accusative, singular, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 10.158.5"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *paśyema* \< *paś*
+- *paśyema* ← *paś*
 - \[verb\], plural, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -36,16 +36,16 @@ title = "Rig Veda 10.158.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paśyema* \< *paś*
+- *paśyema* ← *paś*
 - \[verb\], plural, Present optative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaḥ* \< *nṛ*
+- *nṛcakṣasaḥ* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣasaḥ* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣasaḥ* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------

@@ -6,18 +6,18 @@ title = "Rig Veda 5.71.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gantaṃ* \< *gantam* \< *gam*
+- *gantaṃ* ← *gantam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *riśādasā* \< *riśādas*
+- *riśādasā* ← *riśādas*
 - \[noun\], vocative, dual, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
@@ -34,19 +34,19 @@ title = "Rig Veda 5.71.1"
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
 ------------------------------------------------------------------------
-- *upemaṃ* \< *upa*
+- *upemaṃ* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *upemaṃ* \< *imam* \< *idam*
+- *upemaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cārum* \< *cāru*
+- *cārum* ← *cāru*
 - \[noun\], accusative, singular, masculine
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *adhvaram* \< *adhvara*
+- *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

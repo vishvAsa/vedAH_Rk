@@ -2,26 +2,26 @@
 title = "Rig Veda 8.21.13"
 
 +++
--   *abhrātṛvyo* \< *a*
+-   *abhrātṛvyo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *abhrātṛvyo* \< *bhrātṛvyaḥ* \< *bhrātṛvya*
+- *abhrātṛvyo* ← *bhrātṛvyaḥ* ← *bhrātṛvya*
 - \[noun\], nominative, singular, masculine
 - “rival.”
 ------------------------------------------------------------------------
 - *anā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *anāpir* \< *an*
+- *anāpir* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anāpir* \< *āpiḥ* \< *āpi*
+- *anāpir* ← *āpiḥ* ← *āpi*
 - \[noun\], nominative, singular, masculine
 - “friend.”
 ------------------------------------------------------------------------
@@ -30,35 +30,35 @@ title = "Rig Veda 8.21.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *januṣā* \< *janus*
+- *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *sanād* \< *sanāt*
+- *sanād* ← *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yudhed* \< *yudhā* \< *yudh*
+- *yudhed* ← *yudhā* ← *yudh*
 - \[noun\], instrumental, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------
-- *yudhed* \< *id*
+- *yudhed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *āpitvam* \< *āpi*
+- *āpitvam* ← *āpi*
 - \[noun\], masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *āpitvam* \< *tvam* \< *tva*
+- *āpitvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *icchase* \< *iṣ*
+- *icchase* ← *iṣ*
 - \[verb\], singular, Present indikative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

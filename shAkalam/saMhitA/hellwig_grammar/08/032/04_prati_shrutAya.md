@@ -6,26 +6,26 @@ title = "Rig Veda 8.32.4"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *śrutāya* \< *śru*
+- *śrutāya* ← *śru*
 - \[verb noun\], dative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dhṛṣat* \< *dhṛṣ*
+- *dhṛṣat* ← *dhṛṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *tūrṇāśaṃ* \< *tūrṇāśam* \< *tūrṇāśa*
+- *tūrṇāśaṃ* ← *tūrṇāśam* ← *tūrṇāśa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *girer* \< *gireḥ* \< *giri*
+- *girer* ← *gireḥ* ← *giri*
 - \[noun\], ablative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -33,19 +33,19 @@ title = "Rig Veda 8.32.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *suśipram* \< *su*
+- *suśipram* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśipram* \< *śipram* \< *śiprā*
+- *suśipram* ← *śipram* ← *śiprā*
 - \[noun\], accusative, singular, masculine
 - “lip; śiprā.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

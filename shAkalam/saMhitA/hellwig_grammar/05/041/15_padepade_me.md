@@ -2,25 +2,25 @@
 title = "Rig Veda 5.41.15"
 
 +++
--   *pade* \< *pada*
+-   *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *pade* \< *pada*
+- *pade* ← *pada*
 - \[noun\], locative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jarimā* \< *jariman*
+- *jarimā* ← *jariman*
 - \[noun\], nominative, singular, masculine
 - “old age.”
 ------------------------------------------------------------------------
@@ -28,12 +28,12 @@ title = "Rig Veda 5.41.15"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *varūtrī* \< *varūtṛ*
+- *varūtrī* ← *varūtṛ*
 - \[noun\], nominative, singular, feminine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
@@ -41,15 +41,15 @@ title = "Rig Veda 5.41.15"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *śakrā* \< *śakra*
+- *śakrā* ← *śakra*
 - \[noun\], nominative, singular, feminine
 - “mighty.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pāyubhiś* \< *pāyubhiḥ* \< *pāyu*
+- *pāyubhiś* ← *pāyubhiḥ* ← *pāyu*
 - \[noun\], instrumental, plural, masculine
 - “guard; pāyu \[word\]; Pāyu.”
 ------------------------------------------------------------------------
@@ -57,16 +57,16 @@ title = "Rig Veda 5.41.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *siṣaktu* \< *sac*
+- *siṣaktu* ← *sac*
 - \[verb\], singular, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -74,7 +74,7 @@ title = "Rig Veda 5.41.15"
 - \[noun\], nominative, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -82,22 +82,22 @@ title = "Rig Veda 5.41.15"
 - \[adverb\]
 - “simultaneously; jointly.”
 ------------------------------------------------------------------------
-- *sūribhir* \< *sūribhiḥ* \< *sūri*
+- *sūribhir* ← *sūribhiḥ* ← *sūri*
 - \[noun\], instrumental, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *ṛjuhasta* \< *ṛju*
+- *ṛjuhasta* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *ṛjuhasta* \< *hastaḥ* \< *hasta*
+- *ṛjuhasta* ← *hastaḥ* ← *hasta*
 - \[noun\], nominative, singular, feminine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *ṛjuvaniḥ* \< *ṛju*
+- *ṛjuvaniḥ* ← *ṛju*
 - \[noun\]
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *ṛjuvaniḥ* \< *vaniḥ* \< *vani*
+- *ṛjuvaniḥ* ← *vaniḥ* ← *vani*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

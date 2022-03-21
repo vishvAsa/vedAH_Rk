@@ -2,7 +2,7 @@
 title = "Rig Veda 8.24.24"
 
 +++
--   *vetthā* \< *vettha* \< *vid*
+-   *vetthā* ← *vettha* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -11,7 +11,7 @@ title = "Rig Veda 8.24.24"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *nirṛtīnāṃ* \< *nirṛtīnām* \< *nirṛti*
+- *nirṛtīnāṃ* ← *nirṛtīnām* ← *nirṛti*
 - \[noun\], genitive, plural, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
@@ -19,22 +19,22 @@ title = "Rig Veda 8.24.24"
 - \[noun\], vocative, singular, masculine
 - “Indra; Shiva.”
 ------------------------------------------------------------------------
-- *parivṛjam* \< *parivṛj*
+- *parivṛjam* ← *parivṛj*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *ahaḥ* \< *ahar*
+- *ahaḥ* ← *ahar*
 - \[noun\], accusative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *śundhyuḥ* \< *śundhyu*
+- *śundhyuḥ* ← *śundhyu*
 - \[noun\], nominative, singular, masculine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *paripadām* \< *paripad*
+- *paripadām* ← *paripad*
 - \[noun\], genitive, plural, feminine
 - “trap.”
 ------------------------------------------------------------------------

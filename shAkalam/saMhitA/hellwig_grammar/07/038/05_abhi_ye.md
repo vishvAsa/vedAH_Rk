@@ -6,67 +6,67 @@ title = "Rig Veda 7.38.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mitho* \< *mithas*
+- *mitho* ← *mithas*
 - \[adverb\]
 - “together; mutually; alternately.”
 ------------------------------------------------------------------------
-- *vanuṣaḥ* \< *vanus*
+- *vanuṣaḥ* ← *vanus*
 - \[noun\], nominative, plural, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *sapante* \< *sap*
+- *sapante* ← *sap*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *rātiṃ* \< *rātim* \< *rāti*
+- *rātiṃ* ← *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *rātiṣācaḥ* \< *rātiṣāc*
+- *rātiṣācaḥ* ← *rātiṣāc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *ahir* \< *ahiḥ* \< *ahi*
+- *ahir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnya* \< *budhnyaḥ* \< *budhnya*
+- *budhnya* ← *budhnyaḥ* ← *budhnya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śṛṇotu* \< *śru*
+- *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *varūtry* \< *varūtrī* \< *varūtṛ*
+- *varūtry* ← *varūtrī* ← *varūtṛ*
 - \[noun\], nominative, singular, feminine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
-- *ekadhenubhir* \< *ekadhenubhiḥ* \< *ekadhenu*
+- *ekadhenubhir* ← *ekadhenubhiḥ* ← *ekadhenu*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
 - *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *pātu* \< *pā*
+- *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------

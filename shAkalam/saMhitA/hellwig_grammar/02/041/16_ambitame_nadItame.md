@@ -2,21 +2,21 @@
 title = "Rig Veda 2.41.16"
 
 +++
--   *ambitame* \< *ambitamā*
+-   *ambitame* ← *ambitamā*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *nadītame* \< *nadītamā*
+- *nadītame* ← *nadītamā*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *devitame* \< *devitamā*
+- *devitame* ← *devitamā*
 - \[noun\], vocative, singular, feminine
 ------------------------------------------------------------------------
-- *sarasvati* \< *sarasvatī*
+- *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *apraśastā* \< *apraśastāḥ* \< *apraśasta*
+- *apraśastā* ← *apraśastāḥ* ← *apraśasta*
 - \[noun\], nominative, plural, masculine
 - “bad.”
 ------------------------------------------------------------------------
@@ -24,24 +24,24 @@ title = "Rig Veda 2.41.16"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *smasi* \< *as*
+- *smasi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *praśastim* \< *praśasti*
+- *praśastim* ← *praśasti*
 - \[noun\], accusative, singular, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------
-- *amba* \< *ambā*
+- *amba* ← *ambā*
 - \[noun\], vocative, singular
 - “mother; Devi; Ambā; ambā \[word\]; Ambā.”
 ------------------------------------------------------------------------
-- *nas* \< *mad*
+- *nas* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

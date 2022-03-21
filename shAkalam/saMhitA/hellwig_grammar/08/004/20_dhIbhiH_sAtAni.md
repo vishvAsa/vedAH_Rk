@@ -2,62 +2,62 @@
 title = "Rig Veda 8.4.20"
 
 +++
--   *dhībhiḥ* \< *dhī*
+-   *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *sātāni* \< *san*
+- *sātāni* ← *san*
 - \[verb noun\], accusative, plural
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *kāṇvasya* \< *kāṇva*
+- *kāṇvasya* ← *kāṇva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vājinaḥ* \< *vājin*
+- *vājinaḥ* ← *vājin*
 - \[noun\], genitive, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *priyamedhair* \< *priyamedhaiḥ* \< *priyamedha*
+- *priyamedhair* ← *priyamedhaiḥ* ← *priyamedha*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *abhidyubhiḥ* \< *abhidyu*
+- *abhidyubhiḥ* ← *abhidyu*
 - \[noun\], instrumental, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *ṣaṣṭiṃ* \< *ṣaṣṭim* \< *ṣaṣṭi*
+- *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *sahasrānu* \< *sahasrā* \< *sahasra*
+- *sahasrānu* ← *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrānu* \< *anu*
+- *sahasrānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *nirmajām* \< *nirmajā*
+- *nirmajām* ← *nirmajā*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *aje* \< *aj*
+- *aje* ← *aj*
 - \[verb\], singular, Present indikative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *yūthāni* \< *yūtha*
+- *yūthāni* ← *yūtha*
 - \[noun\], accusative, plural, neuter
 - “herd; troop; battalion.”
 ------------------------------------------------------------------------
-- *gavām* \< *go*
+- *gavām* ← *go*
 - \[noun\], genitive, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ṛṣiḥ* \< *ṛṣi*
+- *ṛṣiḥ* ← *ṛṣi*
 - \[noun\], nominative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------

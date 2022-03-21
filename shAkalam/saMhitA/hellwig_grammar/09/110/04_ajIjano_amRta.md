@@ -2,7 +2,7 @@
 title = "Rig Veda 9.110.4"
 
 +++
--   *ajījano* \< *ajījanaḥ* \< *jan*
+-   *ajījano* ← *ajījanaḥ* ← *jan*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -12,38 +12,38 @@ title = "Rig Veda 9.110.4"
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martyeṣv* \< *martyeṣu* \< *martya*
+- *martyeṣv* ← *martyeṣu* ← *martya*
 - \[noun\], locative, plural, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *āṃ* \< *ām* \< *āṃ*
+- *āṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dharmann* \< *dharman*
+- *dharmann* ← *dharman*
 - \[noun\], locative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, neuter
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *cāruṇaḥ* \< *cāru*
+- *cāruṇaḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *sadāsaro* \< *sadā*
+- *sadāsaro* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *sadāsaro* \< *saraḥ* \< *sara*
+- *sadāsaro* ← *saraḥ* ← *sara*
 - \[noun\], nominative, singular, masculine
 - “laxative; liquefying; liquid.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -51,6 +51,6 @@ title = "Rig Veda 9.110.4"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *saniṣyadat* \< *saniṣyad* \< *√syand*
+- *saniṣyadat* ← *saniṣyad* ← *√syand*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

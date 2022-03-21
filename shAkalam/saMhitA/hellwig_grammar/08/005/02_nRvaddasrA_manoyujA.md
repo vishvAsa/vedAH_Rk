@@ -2,44 +2,44 @@
 title = "Rig Veda 8.5.2"
 
 +++
--   *nṛvad* \< *nṛvat*
+-   *nṛvad* ← *nṛvat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasra*
+- *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *manoyujā* \< *manaḥ* \< *manas*
+- *manoyujā* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manoyujā* \< *yujā* \< *yuj*
+- *manoyujā* ← *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *pṛthupājasā* \< *pṛthu*
+- *pṛthupājasā* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthupājasā* \< *pājasā* \< *pājas*
+- *pṛthupājasā* ← *pājasā* ← *pājas*
 - \[noun\], instrumental, singular, masculine
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *sacethe* \< *sac*
+- *sacethe* ← *sac*
 - \[verb\], dual, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *aśvinoṣasam* \< *aśvinā* \< *aśvin*
+- *aśvinoṣasam* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvinoṣasam* \< *uṣasam* \< *uṣas*
+- *aśvinoṣasam* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------

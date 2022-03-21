@@ -2,57 +2,57 @@
 title = "Rig Veda 1.73.9"
 
 +++
--   *arvadbhir* \< *arvadbhiḥ* \< *arvant*
+-   *arvadbhir* ← *arvadbhiḥ* ← *arvant*
 - \[noun\], instrumental, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *arvato* \< *arvataḥ* \< *arvant*
+- *arvato* ← *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *nṛbhir* \< *nṛbhiḥ* \< *nṛ*
+- *nṛbhir* ← *nṛbhiḥ* ← *nṛ*
 - \[noun\], instrumental, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vīrair* \< *vīraiḥ* \< *vīra*
+- *vīrair* ← *vīraiḥ* ← *vīra*
 - \[noun\], instrumental, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vīrān* \< *vīra*
+- *vīrān* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *vanuyāmā* \< *van*
+- *vanuyāmā* ← *van*
 - \[verb\], plural, Present optative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *tvotāḥ* \< *tvota*
+- *tvotāḥ* ← *tvota*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *īśānāsaḥ* \< *īś*
+- *īśānāsaḥ* ← *īś*
 - \[verb noun\], nominative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *pitṛvittasya* \< *pitṛ*
+- *pitṛvittasya* ← *pitṛ*
 - \[noun\], masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *pitṛvittasya* \< *vittasya* \< *vid*
+- *pitṛvittasya* ← *vittasya* ← *vid*
 - \[verb noun\], genitive, singular
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *rāyo* \< *rāyaḥ* \< *rai*
+- *rāyo* ← *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -60,24 +60,24 @@ title = "Rig Veda 1.73.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sūrayaḥ* \< *sūri*
+- *sūrayaḥ* ← *sūri*
 - \[noun\], nominative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *śatahimā* \< *śata*
+- *śatahimā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatahimā* \< *himā* \< *hima*
+- *śatahimā* ← *himā* ← *hima*
 - \[noun\], accusative, plural, neuter
 - “snow; frost; hima \[word\]; winter; tin; silver; pearl;
     sauvīrāñjana; year; ague; Himalayas; coldness.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *aśyuḥ* \< *aś*
+- *aśyuḥ* ← *aś*
 - \[verb\], plural, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

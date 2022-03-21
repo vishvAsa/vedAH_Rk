@@ -2,28 +2,28 @@
 title = "Rig Veda 1.34.3"
 
 +++
--   *samāne* \< *samāna*
+-   *samāne* ← *samāna*
 - \[noun\], locative, singular, neuter
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *ahan* \< *ahar*
+- *ahan* ← *ahar*
 - \[noun\], locative, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *avadyagohanā* \< *avadya*
+- *avadyagohanā* ← *avadya*
 - \[noun\]
 - “blameworthy; avadya \[word\].”
 ------------------------------------------------------------------------
-- *avadyagohanā* \< *gohanā* \< *gohana*
+- *avadyagohanā* ← *gohanā* ← *gohana*
 - \[noun\], vocative, dual, masculine
 - “concealing.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
@@ -31,34 +31,34 @@ title = "Rig Veda 1.34.3"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *madhunā* \< *madhu*
+- *madhunā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *mimikṣatam* \< *mikṣ*
+- *mimikṣatam* ← *mikṣ*
 - \[verb\], dual, Perfect imperative
 - “season.”
 ------------------------------------------------------------------------
-- *trir* \< *tris*
+- *trir* ← *tris*
 - \[adverb\]
 - “thrice; tris \[word\].”
 ------------------------------------------------------------------------
-- *vājavatīr* \< *vājavatīḥ* \< *vājavat*
+- *vājavatīr* ← *vājavatīḥ* ← *vājavat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *iṣo* \< *iṣaḥ* \< *iṣ*
+- *iṣo* ← *iṣaḥ* ← *iṣ*
 - \[noun\], accusative, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -66,11 +66,11 @@ title = "Rig Veda 1.34.3"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *uṣasaś* \< *uṣasaḥ* \< *uṣas*
+- *uṣasaś* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -78,7 +78,7 @@ title = "Rig Veda 1.34.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *pinvatam* \< *pinv*
+- *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------

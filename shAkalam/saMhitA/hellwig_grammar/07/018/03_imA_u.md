@@ -2,7 +2,7 @@
 title = "Rig Veda 7.18.3"
 
 +++
--   *imā* \< *imāḥ* \< *idam*
+-   *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 7.18.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *paspṛdhānāso* \< *paspṛdhānāsaḥ* \< *spṛdh*
+- *paspṛdhānāso* ← *paspṛdhānāsaḥ* ← *spṛdh*
 - \[verb noun\], nominative, plural
 - “rival.”
 ------------------------------------------------------------------------
@@ -23,16 +23,16 @@ title = "Rig Veda 7.18.3"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *mandrā* \< *mandrāḥ* \< *mandra*
+- *mandrā* ← *mandrāḥ* ← *mandra*
 - \[noun\], nominative, plural, feminine
 - “pleasant; eloquent; dulcet.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *devayantīr* \< *devayantīḥ* \< *devay*
+- *devayantīr* ← *devayantīḥ* ← *devay*
 - \[verb noun\], nominative, plural
 - “solicit.”
 ------------------------------------------------------------------------
@@ -40,17 +40,17 @@ title = "Rig Veda 7.18.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sthuḥ* \< *sthā*
+- *sthuḥ* ← *sthā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *arvācī* \< *arvāñc*
+- *arvācī* ← *arvāñc*
 - \[noun\], nominative, singular, feminine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -58,24 +58,24 @@ title = "Rig Veda 7.18.3"
 - \[noun\], nominative, singular, feminine
 - “Terminalia chebula Retz.; path; Pathyā; way.”
 ------------------------------------------------------------------------
-- *rāya* \< *rāyaḥ* \< *rai*
+- *rāya* ← *rāyaḥ* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *etu* \< *i*
+- *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatāv* \< *sumatau* \< *sumati*
+- *sumatāv* ← *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------

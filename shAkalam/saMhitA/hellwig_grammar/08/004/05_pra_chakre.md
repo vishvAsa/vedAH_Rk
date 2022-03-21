@@ -6,7 +6,7 @@ title = "Rig Veda 8.4.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -17,32 +17,32 @@ title = "Rig Veda 8.4.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *babhañja* \< *bhañj*
+- *babhañja* ← *bhañj*
 - \[verb\], singular, Perfect indicative
 - “break; fracture; bend; shatter; destroy; overcome.”
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -51,10 +51,10 @@ title = "Rig Veda 8.4.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛtanāyavo* \< *pṛtanāyavaḥ* \< *pṛtanāyu*
+- *pṛtanāyavo* ← *pṛtanāyavaḥ* ← *pṛtanāyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yaho* \< *yahu*
+- *yaho* ← *yahu*
 - \[noun\], vocative, singular, masculine
 - “offspring.”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 8.4.5"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vṛkṣā* \< *vṛkṣāḥ* \< *vṛkṣa*
+- *vṛkṣā* ← *vṛkṣāḥ* ← *vṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 8.4.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yemire* \< *yam*
+- *yemire* ← *yam*
 - \[verb\], plural, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

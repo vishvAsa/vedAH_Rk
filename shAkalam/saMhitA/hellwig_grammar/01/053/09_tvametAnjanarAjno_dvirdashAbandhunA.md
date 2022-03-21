@@ -2,58 +2,58 @@
 title = "Rig Veda 1.53.9"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etāñ* \< *etān* \< *etad*
+- *etāñ* ← *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *janarājño* \< *jana*
+- *janarājño* ← *jana*
 - \[noun\], masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *janarājño* \< *rājñaḥ* \< *rājan*
+- *janarājño* ← *rājñaḥ* ← *rājan*
 - \[noun\], accusative, plural, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *dvir* \< *dvis*
+- *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
 ------------------------------------------------------------------------
-- *daśābandhunā* \< *daśa* \< *daśan*
+- *daśābandhunā* ← *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *daśābandhunā* \< *abandhunā* \< *abandhu*
+- *daśābandhunā* ← *abandhunā* ← *abandhu*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *suśravasopajagmuṣaḥ* \< *suśravasā* \< *suśravas*
+- *suśravasopajagmuṣaḥ* ← *suśravasā* ← *suśravas*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *suśravasopajagmuṣaḥ* \< *upajagmuṣaḥ* \< *upagam* \< *√gam*
+- *suśravasopajagmuṣaḥ* ← *upajagmuṣaḥ* ← *upagam* ← *√gam*
 - \[verb noun\], accusative, plural
 - “enter (a state); go; approach; meet; arrive; repair to.”
 ------------------------------------------------------------------------
-- *ṣaṣṭiṃ* \< *ṣaṣṭim* \< *ṣaṣṭi*
+- *ṣaṣṭiṃ* ← *ṣaṣṭim* ← *ṣaṣṭi*
 - \[noun\], accusative, singular, feminine
 - “sixty; sixtieth; ṣaṣṭi \[word\].”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *nava* \< *navan*
+- *nava* ← *navan*
 - \[noun\], accusative, singular, neuter
 - “nine.”
 ------------------------------------------------------------------------
-- *śruto* \< *śrutaḥ* \< *śru*
+- *śruto* ← *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
@@ -61,18 +61,18 @@ title = "Rig Veda 1.53.9"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *cakreṇa* \< *cakra*
+- *cakreṇa* ← *cakra*
 - \[noun\], instrumental, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *rathyā* \< *rathya*
+- *rathyā* ← *rathya*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *duṣpadāvṛṇak* \< *duṣpadā* \< *duṣpad*
+- *duṣpadāvṛṇak* ← *duṣpadā* ← *duṣpad*
 - \[noun\], instrumental, singular, masculine
 - “crippled.”
 ------------------------------------------------------------------------
-- *duṣpadāvṛṇak* \< *avṛṇak* \< *vṛj*
+- *duṣpadāvṛṇak* ← *avṛṇak* ← *vṛj*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

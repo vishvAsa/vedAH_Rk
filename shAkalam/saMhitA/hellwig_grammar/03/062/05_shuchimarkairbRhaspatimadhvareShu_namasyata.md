@@ -2,33 +2,33 @@
 title = "Rig Veda 3.62.5"
 
 +++
--   *śucim* \< *śuci*
+-   *śucim* ← *śuci*
 - \[noun\], accusative, singular, masculine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *adhvareṣu* \< *adhvara*
+- *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *namasyata* \< *namasy*
+- *namasyata* ← *namasy*
 - \[verb\], plural, Present imperative
 - “worship; respect.”
 ------------------------------------------------------------------------
-- *anāmy* \< *anāmi* \< *anāmin*
+- *anāmy* ← *anāmi* ← *anāmin*
 - \[noun\], accusative, singular, neuter
 - “inflexible.”
 ------------------------------------------------------------------------
-- *oja* \< *ojaḥ* \< *ojas*
+- *oja* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 3.62.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *cake* \< *kan*
+- *cake* ← *kan*
 - \[verb\], singular, Perfect indicative
 - “like; delight; desire.”
 ------------------------------------------------------------------------

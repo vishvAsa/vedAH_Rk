@@ -2,22 +2,22 @@
 title = "Rig Veda 9.101.16"
 
 +++
--   *avyo* \< *avyaḥ* \< *avya*
+-   *avyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vārebhiḥ* \< *vāra*
+- *vārebhiḥ* ← *vāra*
 - \[noun\], instrumental, plural, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *pavate* \< *pū*
+- *pavate* ← *pū*
 - \[verb\], singular, Present indikative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gavye* \< *gavya*
+- *gavye* ← *gavya*
 - \[noun\], locative, singular, masculine
 - “bovine.”
 ------------------------------------------------------------------------
@@ -25,36 +25,36 @@ title = "Rig Veda 9.101.16"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tvaci* \< *tvac*
+- *tvaci* ← *tvac*
 - \[noun\], locative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *kanikradad* \< *kanikradat* \< *kanikrad* \< *√krand*
+- *kanikradad* ← *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *harir* \< *hariḥ* \< *hari*
+- *harir* ← *hariḥ* ← *hari*
 - \[noun\], nominative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *indrasyābhy* \< *indrasya* \< *indra*
+- *indrasyābhy* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrasyābhy* \< *abhi*
+- *indrasyābhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *niṣkṛtam* \< *niṣkṛta*
+- *niṣkṛtam* ← *niṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “place; rendezvous.”
 ------------------------------------------------------------------------

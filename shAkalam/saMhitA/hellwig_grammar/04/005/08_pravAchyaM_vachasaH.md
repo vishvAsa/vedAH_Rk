@@ -2,24 +2,24 @@
 title = "Rig Veda 4.5.8"
 
 +++
--   *pravācyaṃ* \< *pravācyam* \< *pravac* \< *√vac*
+-   *pravācyaṃ* ← *pravācyam* ← *pravac* ← *√vac*
 - \[verb noun\], nominative, singular
 - “describe; name; enumerate; call; explain; teach; state; tell;
     impart; convey; address; proclaim.”
 ------------------------------------------------------------------------
-- *vacasaḥ* \< *vacas*
+- *vacasaḥ* ← *vacas*
 - \[noun\], genitive, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *kim* \< *ka*
+- *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 4.5.8"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *hitam* \< *dhā*
+- *hitam* ← *dhā*
 - \[verb noun\], accusative, singular
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -36,19 +36,19 @@ title = "Rig Veda 4.5.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *niṇig* \< *niṇik*
+- *niṇig* ← *niṇik*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vadanti* \< *vad*
+- *vadanti* ← *vad*
 - \[verb\], plural, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *usriyāṇām* \< *usriyā*
+- *usriyāṇām* ← *usriyā*
 - \[noun\], genitive, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ title = "Rig Veda 4.5.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vār* \< *\_* \< *√\_*
+- *vār* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -64,38 +64,38 @@ title = "Rig Veda 4.5.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vran* \< *vṛ*
+- *vran* ← *vṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *pāti* \< *pā*
+- *pāti* ← *pā*
 - \[verb\], singular, Present indikative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, neuter
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *rupo* \< *rupaḥ* \< *rup*
+- *rupo* ← *rupaḥ* ← *rup*
 - \[noun\], genitive, singular, feminine
 - “Earth.”
 ------------------------------------------------------------------------
-- *agram* \< *agra*
+- *agram* ← *agra*
 - \[noun\], accusative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *padaṃ* \< *padam* \< *pada*
+- *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *veḥ* \< *vi*
+- *veḥ* ← *vi*
 - \[noun\], genitive, singular, masculine
 - “vi; bird; vi.”
 ------------------------------------------------------------------------

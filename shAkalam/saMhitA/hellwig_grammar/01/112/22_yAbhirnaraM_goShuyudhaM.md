@@ -2,82 +2,82 @@
 title = "Rig Veda 1.112.22"
 
 +++
--   *yābhir* \< *yābhiḥ* \< *yad*
+-   *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *naraṃ* \< *naram* \< *nara*
+- *naraṃ* ← *naram* ← *nara*
 - \[noun\], accusative, singular, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
 ------------------------------------------------------------------------
-- *goṣuyudhaṃ* \< *goṣuyudham* \< *goṣuyudh*
+- *goṣuyudhaṃ* ← *goṣuyudham* ← *goṣuyudh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *nṛṣāhye* \< *nṛṣāhya*
+- *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *kṣetrasya* \< *kṣetra*
+- *kṣetrasya* ← *kṣetra*
 - \[noun\], genitive, singular, neuter
 - “field; location; habitat; country; area; earth; region; estate;
     body; kṣetra \[word\]; kṣetradoṣa; seat; reincarnation; uterus.”
 ------------------------------------------------------------------------
-- *sātā* \< *sāti*
+- *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *tanayasya* \< *tanaya*
+- *tanayasya* ← *tanaya*
 - \[noun\], genitive, singular, neuter
 - “child; descendants.”
 ------------------------------------------------------------------------
-- *jinvathaḥ* \< *jinv*
+- *jinvathaḥ* ← *jinv*
 - \[verb\], dual, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *yābhī* \< *yābhiḥ* \< *yad*
+- *yābhī* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rathāṃ* \< *ratha*
+- *rathāṃ* ← *ratha*
 - \[noun\], accusative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *avatho* \< *avathaḥ* \< *av*
+- *avatho* ← *avathaḥ* ← *av*
 - \[verb\], dual, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *arvatas* \< *arvataḥ* \< *arvant*
+- *arvatas* ← *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *tābhir* \< *tābhiḥ* \< *tad*
+- *tābhir* ← *tābhiḥ* ← *tad*
 - \[noun\], instrumental, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *ūtibhir* \< *ūtibhiḥ* \< *ūti*
+- *ūtibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *gatam* \< *gam*
+- *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

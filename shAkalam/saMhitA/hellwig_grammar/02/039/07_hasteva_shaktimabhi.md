@@ -2,15 +2,15 @@
 title = "Rig Veda 2.39.7"
 
 +++
--   *hasteva* \< *hastā* \< *hasta*
+-   *hasteva* ← *hastā* ← *hasta*
 - \[noun\], nominative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *hasteva* \< *iva*
+- *hasteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śaktim* \< *śakti*
+- *śaktim* ← *śakti*
 - \[noun\], accusative, singular, feminine
 - “spear; ability; Shakti; potency; power; capacity; śakti \[word\];
     potency; capability; reproduction.”
@@ -19,22 +19,22 @@ title = "Rig Veda 2.39.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *saṃdadī* \< *saṃdadi*
+- *saṃdadī* ← *saṃdadi*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṣāmeva* \< *kṣāmā* \< *kṣam*
+- *kṣāmeva* ← *kṣāmā* ← *kṣam*
 - \[noun\], nominative, dual, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *kṣāmeva* \< *iva*
+- *kṣāmeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -42,47 +42,47 @@ title = "Rig Veda 2.39.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajataṃ* \< *ajatam* \< *aj*
+- *ajataṃ* ← *ajatam* ← *aj*
 - \[verb\], dual, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *rajāṃsi* \< *rajas*
+- *rajāṃsi* ← *rajas*
 - \[noun\], accusative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], accusative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yuṣmayantīḥ* \< *yuṣmayat*
+- *yuṣmayantīḥ* ← *yuṣmayat*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *kṣṇotreṇeva* \< *kṣṇotreṇa* \< *kṣṇotra*
+- *kṣṇotreṇeva* ← *kṣṇotreṇa* ← *kṣṇotra*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *kṣṇotreṇeva* \< *iva*
+- *kṣṇotreṇeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svadhitiṃ* \< *svadhitim* \< *svadhiti*
+- *svadhitiṃ* ← *svadhitim* ← *svadhiti*
 - \[noun\], accusative, singular, feminine
 - “ax; knife.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *śiśītam* \< *śā*
+- *śiśītam* ← *śā*
 - \[verb\], dual, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------

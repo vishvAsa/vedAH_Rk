@@ -6,28 +6,28 @@ title = "Rig Veda 8.8.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *upaśruty* \< *upaśrutī* \< *upaśruti*
+- *upaśruty* ← *upaśrutī* ← *upaśruti*
 - \[noun\], dative, singular, feminine
 - “listening; divination.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
@@ -35,11 +35,11 @@ title = "Rig Veda 8.8.5"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *stomasya* \< *stoma*
+- *stomasya* ← *stoma*
 - \[noun\], genitive, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *vardhanā* \< *vardhana*
+- *vardhanā* ← *vardhana*
 - \[noun\], nominative, dual, masculine
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
@@ -47,16 +47,16 @@ title = "Rig Veda 8.8.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *kavī* \< *kavi*
+- *kavī* ← *kavi*
 - \[noun\], nominative, dual, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *dhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], nominative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

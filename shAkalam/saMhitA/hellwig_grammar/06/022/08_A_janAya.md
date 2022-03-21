@@ -6,33 +6,33 @@ title = "Rig Veda 6.22.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *janāya* \< *jana*
+- *janāya* ← *jana*
 - \[noun\], dative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *druhvaṇe* \< *druhvan*
+- *druhvaṇe* ← *druhvan*
 - \[noun\], dative, singular, masculine
 - “deceitful; evil.”
 ------------------------------------------------------------------------
-- *pārthivāni* \< *pārthiva*
+- *pārthivāni* ← *pārthiva*
 - \[noun\], accusative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *divyāni* \< *divya*
+- *divyāni* ← *divya*
 - \[noun\], accusative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *dīpayo* \< *dīpayaḥ* \< *dīpay* \< *√dīp*
+- *dīpayo* ← *dīpayaḥ* ← *dīpay* ← *√dīp*
 - \[verb\], singular, Present injunctive
 - “dīpay; ignite; explain; stimulate.”
 ------------------------------------------------------------------------
-- *'ntarikṣā* \< *antarikṣā* \< *antarikṣa*
+- *'ntarikṣā* ← *antarikṣā* ← *antarikṣa*
 - \[noun\], accusative, plural, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *tapā* \< *tapa* \< *tap*
+- *tapā* ← *tapa* ← *tap*
 - \[verb\], singular, Present imperative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
@@ -40,38 +40,38 @@ title = "Rig Veda 6.22.8"
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *tān* \< *tad*
+- *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *brahma* \< *brahman*
+- *brahmadviṣe* ← *brahma* ← *brahman*
 - \[noun\], neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *brahmadviṣe* \< *dviṣe* \< *dviṣ*
+- *brahmadviṣe* ← *dviṣe* ← *dviṣ*
 - \[noun\], dative, singular, masculine
 - “hostile; hating.”
 ------------------------------------------------------------------------
-- *śocaya* \< *śocay* \< *√śuc*
+- *śocaya* ← *śocay* ← *√śuc*
 - \[verb\], singular, Present imperative
 - “distress; afflict; burn.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *apaś* \< *apaḥ* \< *ap*
+- *apaś* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

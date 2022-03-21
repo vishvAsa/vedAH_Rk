@@ -2,7 +2,7 @@
 title = "Rig Veda 7.32.18"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -11,27 +11,27 @@ title = "Rig Veda 7.32.18"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yāvatas* \< *yāvataḥ* \< *yāvat*
+- *yāvatas* ← *yāvataḥ* ← *yāvat*
 - \[noun\], genitive, singular, neuter
 - “yāvat \[word\].”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *etāvad* \< *etāvat*
+- *etāvad* ← *etāvat*
 - \[noun\], accusative, singular, neuter
 - “such(a); such(a).”
 ------------------------------------------------------------------------
-- *aham* \< *mad*
+- *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *īśīya* \< *īś*
+- *īśīya* ← *īś*
 - \[verb\], singular, Present optative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *stotāram* \< *stotṛ*
+- *stotāram* ← *stotṛ*
 - \[noun\], accusative, singular, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -39,21 +39,21 @@ title = "Rig Veda 7.32.18"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *didhiṣeya* \< *didhiṣ* \< *√dhā*
+- *didhiṣeya* ← *didhiṣ* ← *√dhā*
 - \[verb\], singular, Present optative
 ------------------------------------------------------------------------
-- *radāvaso* \< *radāvasu*
+- *radāvaso* ← *radāvasu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāpatvāya* \< *pāpatva*
+- *pāpatvāya* ← *pāpatva*
 - \[noun\], dative, singular, neuter
 - “poverty; misery.”
 ------------------------------------------------------------------------
-- *rāsīya* \< *rā*
+- *rāsīya* ← *rā*
 - \[verb\], singular, Aorist optative
 - “give; impart.”
 ------------------------------------------------------------------------

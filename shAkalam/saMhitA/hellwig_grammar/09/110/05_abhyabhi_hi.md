@@ -2,11 +2,11 @@
 title = "Rig Veda 9.110.5"
 
 +++
--   *abhyabhi* \< *abhi*
+-   *abhyabhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *abhyabhi* \< *abhi*
+- *abhyabhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -14,14 +14,14 @@ title = "Rig Veda 9.110.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śravasā* \< *śravas*
+- *śravasā* ← *śravas*
 - \[noun\], instrumental, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *tatardithotsaṃ* \< *tatarditha* \< *tṛd*
+- *tatardithotsaṃ* ← *tatarditha* ← *tṛd*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *tatardithotsaṃ* \< *utsam* \< *utsa*
+- *tatardithotsaṃ* ← *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
@@ -29,25 +29,25 @@ title = "Rig Veda 9.110.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kaṃcij* \< *kaṃcid* \< *kaścit*
+- *kaṃcij* ← *kaṃcid* ← *kaścit*
 - \[noun\], accusative, singular, masculine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *janapānam* \< *jana*
+- *janapānam* ← *jana*
 - \[noun\], masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *janapānam* \< *pānam* \< *pāna*
+- *janapānam* ← *pānam* ← *pāna*
 - \[noun\], accusative, singular, neuter
 - “beverage; drinking; alcohol; drink; draft; drinking vessel; pāna
     \[word\]; vagina; well; cup; inhalation.”
 ------------------------------------------------------------------------
-- *akṣitam* \< *akṣita*
+- *akṣitam* ← *akṣita*
 - \[noun\], accusative, singular, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------
-- *śaryābhir* \< *śaryābhiḥ* \< *śaryā*
+- *śaryābhir* ← *śaryābhiḥ* ← *śaryā*
 - \[noun\], instrumental, plural, feminine
 - “arrow.”
 ------------------------------------------------------------------------
@@ -55,12 +55,12 @@ title = "Rig Veda 9.110.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bharamāṇo* \< *bharamāṇaḥ* \< *bhṛ*
+- *bharamāṇo* ← *bharamāṇaḥ* ← *bhṛ*
 - \[verb noun\], nominative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *gabhastyoḥ* \< *gabhasti*
+- *gabhastyoḥ* ← *gabhasti*
 - \[noun\], locative, dual, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------

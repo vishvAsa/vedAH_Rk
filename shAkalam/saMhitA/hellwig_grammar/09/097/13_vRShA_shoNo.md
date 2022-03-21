@@ -2,30 +2,30 @@
 title = "Rig Veda 9.97.13"
 
 +++
--   *vṛṣā* \< *vṛṣan*
+-   *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *śoṇo* \< *śoṇaḥ* \< *śoṇa*
+- *śoṇo* ← *śoṇaḥ* ← *śoṇa*
 - \[noun\], nominative, singular, masculine
 - “red; śoṇa \[word\]; red; purple.”
 ------------------------------------------------------------------------
-- *abhikanikradad* \< *abhikanikradat* \< *abhikanikrad* \< *√krand*
+- *abhikanikradad* ← *abhikanikradat* ← *abhikanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *nadayann* \< *nadayan* \< *naday* \< *√nad*
+- *nadayann* ← *nadayan* ← *naday* ← *√nad*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -33,20 +33,20 @@ title = "Rig Veda 9.97.13"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *indrasyeva* \< *indrasya* \< *indra*
+- *indrasyeva* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrasyeva* \< *iva*
+- *indrasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vagnur* \< *vagnuḥ* \< *vagnu*
+- *vagnur* ← *vagnuḥ* ← *vagnu*
 - \[noun\], nominative, singular, masculine
 - “cry.”
 ------------------------------------------------------------------------
@@ -54,32 +54,32 @@ title = "Rig Veda 9.97.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śṛṇva* \< *śṛṇve* \< *śru*
+- *śṛṇva* ← *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *ājau* \< *āji*
+- *ājau* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *pracetayann* \< *pracetayan* \< *pracetay* \< *√cit*
+- *pracetayann* ← *pracetayan* ← *pracetay* ← *√cit*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *arṣati* \< *ṛṣ*
+- *arṣati* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *emām* \< *ā*
+- *emām* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *emām* \< *imām* \< *idam*
+- *emām* ← *imām* ← *idam*
 - \[noun\], accusative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

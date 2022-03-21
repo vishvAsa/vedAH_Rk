@@ -2,41 +2,41 @@
 title = "Rig Veda 7.6.3"
 
 +++
--   *ny* \< *ni*
+-   *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *akratūn* \< *akratu*
+- *akratūn* ← *akratu*
 - \[noun\], accusative, plural, masculine
 - “powerless.”
 ------------------------------------------------------------------------
-- *grathino* \< *grathinaḥ* \< *grathin*
+- *grathino* ← *grathinaḥ* ← *grathin*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *mṛdhravācaḥ* \< *mṛdhravāc*
+- *mṛdhravācaḥ* ← *mṛdhravāc*
 - \[noun\], accusative, plural, masculine
 - “abusive.”
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇi*
+- *paṇīṃr* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *aśraddhāṃ* \< *aśraddha*
+- *aśraddhāṃ* ← *aśraddha*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *avṛdhāṃ* \< *a*
+- *avṛdhāṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *avṛdhāṃ* \< *vṛdhāṃ* \< *vṛdha*
+- *avṛdhāṃ* ← *vṛdhāṃ* ← *vṛdha*
 - \[noun\], accusative, plural, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *ayajñān* \< *a*
+- *ayajñān* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayajñān* \< *yajñān* \< *yajña*
+- *ayajñān* ← *yajñān* ← *yajña*
 - \[noun\], accusative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -48,33 +48,33 @@ title = "Rig Veda 7.6.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tān* \< *tad*
+- *tān* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyu*
+- *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vivāya* \< *vī*
+- *vivāya* ← *vī*
 - \[verb\], singular, Perfect indicative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *pūrvaś* \< *pūrvaḥ* \< *pūrva*
+- *pūrvaś* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *cakārāparāṃ* \< *cakāra* \< *kṛ*
+- *cakārāparāṃ* ← *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -85,16 +85,16 @@ title = "Rig Veda 7.6.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *cakārāparāṃ* \< *aparān* \< *apara*
+- *cakārāparāṃ* ← *aparān* ← *apara*
 - \[noun\], accusative, plural, masculine
 - “other; another(a); following; western; future; apara \[word\];
     elder; remaining; some(a); later(a); back(a).”
 ------------------------------------------------------------------------
-- *ayajyūn* \< *a*
+- *ayajyūn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayajyūn* \< *yajyūn* \< *yajyu*
+- *ayajyūn* ← *yajyūn* ← *yajyu*
 - \[noun\], accusative, plural, masculine
 - “worshiping.”
 ------------------------------------------------------------------------

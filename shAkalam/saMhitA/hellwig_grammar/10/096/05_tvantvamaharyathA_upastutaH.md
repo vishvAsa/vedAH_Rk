@@ -2,23 +2,23 @@
 title = "Rig Veda 10.96.5"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aharyathā* \< *aharyathāḥ* \< *hary*
+- *aharyathā* ← *aharyathāḥ* ← *hary*
 - \[verb\], singular, Imperfect
 - “delight.”
 ------------------------------------------------------------------------
-- *upastutaḥ* \< *upastu* \< *√stu*
+- *upastutaḥ* ← *upastu* ← *√stu*
 - \[verb noun\], nominative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *pūrvebhir* \< *pūrvebhiḥ* \< *pūrva*
+- *pūrvebhir* ← *pūrvebhiḥ* ← *pūrva*
 - \[noun\], instrumental, plural, masculine
 - “Brahma.”
 ------------------------------------------------------------------------
@@ -27,35 +27,35 @@ title = "Rig Veda 10.96.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *harikeśa* \< *hari*
+- *harikeśa* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *harikeśa* \< *keśa*
+- *harikeśa* ← *keśa*
 - \[noun\], vocative, singular, masculine
 - “mane; hair; keśa \[word\].”
 ------------------------------------------------------------------------
-- *yajvabhiḥ* \< *yajvan*
+- *yajvabhiḥ* ← *yajvan*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *haryasi* \< *hary*
+- *haryasi* ← *hary*
 - \[verb\], singular, Present indikative
 - “delight.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvam* \< *viśva*
+- *viśvam* ← *viśva*
 - \[noun\], nominative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------
@@ -63,21 +63,21 @@ title = "Rig Veda 10.96.5"
 - \[noun\], nominative, singular, neuter
 - “perfect; complete; entire.”
 ------------------------------------------------------------------------
-- *rādho* \< *rādhaḥ* \< *rādhas*
+- *rādho* ← *rādhaḥ* ← *rādhas*
 - \[noun\], nominative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *harijāta* \< *hari*
+- *harijāta* ← *hari*
 - \[noun\]
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *harijāta* \< *jāta* \< *jan*
+- *harijāta* ← *jāta* ← *jan*
 - \[verb noun\], vocative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *haryatam* \< *haryata*
+- *haryatam* ← *haryata*
 - \[noun\], nominative, singular, neuter
 - “desirable; delightful.”
 ------------------------------------------------------------------------

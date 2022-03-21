@@ -2,15 +2,15 @@
 title = "Rig Veda 7.75.4"
 
 +++
--   *eṣā* \< *etad*
+-   *eṣā* ← *etad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *yujānā* \< *yuj*
+- *yujānā* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -18,14 +18,14 @@ title = "Rig Veda 7.75.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *parākāt* \< *parāka*
+- *parākāt* ← *parāka*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, feminine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *kṣitīḥ* \< *kṣiti*
+- *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
@@ -34,36 +34,36 @@ title = "Rig Veda 7.75.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *abhipaśyantī* \< *abhipaś* \< *√paś*
+- *abhipaśyantī* ← *abhipaś* ← *√paś*
 - \[verb noun\], nominative, singular
 - “examine.”
 ------------------------------------------------------------------------
-- *vayunā* \< *vayuna*
+- *vayunā* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *janānāṃ* \< *janānām* \< *jana*
+- *janānāṃ* ← *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *duhitā* \< *duhitṛ*
+- *duhitā* ← *duhitṛ*
 - \[noun\], nominative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------

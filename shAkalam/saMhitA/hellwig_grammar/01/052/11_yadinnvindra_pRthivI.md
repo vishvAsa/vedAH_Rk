@@ -2,15 +2,15 @@
 title = "Rig Veda 1.52.11"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -23,37 +23,37 @@ title = "Rig Veda 1.52.11"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *daśabhujir* \< *daśabhujiḥ* \< *daśabhuji*
+- *daśabhujir* ← *daśabhujiḥ* ← *daśabhuji*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *ahāni* \< *ahar*
+- *ahāni* ← *ahar*
 - \[noun\], accusative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *tatananta* \< *tan*
+- *tatananta* ← *tan*
 - \[verb\], plural, Plusquamperfect
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *kṛṣṭayaḥ* \< *kṛṣṭi*
+- *kṛṣṭayaḥ* ← *kṛṣṭi*
 - \[noun\], nominative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *atrāha* \< *atrā* \< *atra*
+- *atrāha* ← *atrā* ← *atra*
 - \[adverb\]
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *atrāha* \< *ha*
+- *atrāha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -61,15 +61,15 @@ title = "Rig Veda 1.52.11"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *viśrutaṃ* \< *viśrutam* \< *viśru* \< *√śru*
+- *viśrutaṃ* ← *viśrutam* ← *viśru* ← *√śru*
 - \[verb noun\], nominative, singular
 - “laud; come to know; hear; listen.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], nominative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 1.52.11"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 1.52.11"
 - \[noun\], instrumental, singular, feminine
 - “power; might.”
 ------------------------------------------------------------------------
-- *bhuvat* \< *bhū*
+- *bhuvat* ← *bhū*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

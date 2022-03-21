@@ -2,7 +2,7 @@
 title = "Rig Veda 6.25.4"
 
 +++
--   *śūro* \< *śūraḥ* \< *śūra*
+-   *śūro* ← *śūraḥ* ← *śūra*
 - \[noun\], nominative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -11,30 +11,30 @@ title = "Rig Veda 6.25.4"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *śūraṃ* \< *śūram* \< *śūra*
+- *śūraṃ* ← *śūram* ← *śūra*
 - \[noun\], accusative, singular, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vanate* \< *van*
+- *vanate* ← *van*
 - \[verb\], singular, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *śarīrais* \< *śarīraiḥ* \< *śarīra*
+- *śarīrais* ← *śarīraiḥ* ← *śarīra*
 - \[noun\], instrumental, plural, neuter
 - “body; human body; body part; body; body; strength.”
 ------------------------------------------------------------------------
-- *tanūrucā* \< *tanūruc*
+- *tanūrucā* ← *tanūruc*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *taruṣi* \< *tarus*
+- *taruṣi* ← *tarus*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
 - *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *kṛṇvaite* \< *kṛ*
+- *kṛṇvaite* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,7 +45,7 @@ title = "Rig Veda 6.25.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *toke* \< *toka*
+- *toke* ← *toka*
 - \[noun\], locative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
@@ -53,20 +53,20 @@ title = "Rig Veda 6.25.4"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *goṣu* \< *go*
+- *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *tanaye* \< *tanaya*
+- *tanaye* ← *tanaya*
 - \[noun\], locative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -74,15 +74,15 @@ title = "Rig Veda 6.25.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *krandasī* \< *krandas*
+- *krandasī* ← *krandas*
 - \[noun\], nominative, dual, neuter
 - “army; war cry.”
 ------------------------------------------------------------------------
-- *urvarāsu* \< *urvarā*
+- *urvarāsu* ← *urvarā*
 - \[noun\], locative, plural, feminine
 - “field; Urvarā.”
 ------------------------------------------------------------------------
-- *bravaite* \< *brū*
+- *bravaite* ← *brū*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”

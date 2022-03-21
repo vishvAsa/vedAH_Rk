@@ -2,113 +2,113 @@
 title = "Rig Veda 1.128.8"
 
 +++
--   *agniṃ* \< *agnim* \< *agni*
+-   *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *hotāram* \< *hotṛ*
+- *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *īﾱate* \< *īḍate* \< *īḍ*
+- *īﾱate* ← *īḍate* ← *īḍ*
 - \[verb\], plural, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *vasudhitim* \< *vasu*
+- *vasudhitim* ← *vasu*
 - \[noun\], neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *vasudhitim* \< *dhitim* \< *dhiti*
+- *vasudhitim* ← *dhitim* ← *dhiti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *priyaṃ* \< *priyam* \< *priya*
+- *priyaṃ* ← *priyam* ← *priya*
 - \[noun\], accusative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *cetiṣṭham* \< *cetiṣṭha*
+- *cetiṣṭham* ← *cetiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “attentive.”
 ------------------------------------------------------------------------
-- *aratiṃ* \< *aratim* \< *arati*
+- *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *erire* \< *er* \< *√īr*
+- *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *havyavāhaṃ* \< *havya*
+- *havyavāhaṃ* ← *havya*
 - \[noun\], neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *havyavāhaṃ* \< *vāham* \< *vāha*
+- *havyavāhaṃ* ← *vāham* ← *vāha*
 - \[noun\], accusative, singular, masculine
 - “transporting; flowing; removing.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *erire* \< *er* \< *√īr*
+- *erire* ← *er* ← *√īr*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *viśvāyuṃ* \< *viśvāyum* \< *viśvāyu*
+- *viśvāyuṃ* ← *viśvāyum* ← *viśvāyu*
 - \[noun\], accusative, singular, masculine
 - “lifelong.”
 ------------------------------------------------------------------------
-- *viśvavedasaṃ* \< *viśva*
+- *viśvavedasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavedasaṃ* \< *vedasam* \< *vedas*
+- *viśvavedasaṃ* ← *vedasam* ← *vedas*
 - \[noun\], accusative, singular, masculine
 - “knowledge.”
 ------------------------------------------------------------------------
-- *hotāraṃ* \< *hotāram* \< *hotṛ*
+- *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *yajataṃ* \< *yajatam* \< *yajata*
+- *yajataṃ* ← *yajatam* ← *yajata*
 - \[noun\], accusative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *kavim* \< *kavi*
+- *kavim* ← *kavi*
 - \[noun\], accusative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *devāso* \< *devāsaḥ* \< *deva*
+- *devāso* ← *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *raṇvam* \< *raṇva*
+- *raṇvam* ← *raṇva*
 - \[noun\], accusative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vasūyavo* \< *vasūyavaḥ* \< *vasūyu*
+- *vasūyavo* ← *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *gīrbhī* \< *gīrbhiḥ* \< *gir*
+- *gīrbhī* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *raṇvaṃ* \< *raṇvam* \< *raṇva*
+- *raṇvaṃ* ← *raṇvam* ← *raṇva*
 - \[noun\], nominative, singular, neuter
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *vasūyavaḥ* \< *vasūyu*
+- *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

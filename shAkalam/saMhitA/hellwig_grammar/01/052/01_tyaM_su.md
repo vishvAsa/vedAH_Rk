@@ -2,7 +2,7 @@
 title = "Rig Veda 1.52.1"
 
 +++
--   *tyaṃ* \< *tyam* \< *tya*
+-   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -10,35 +10,35 @@ title = "Rig Veda 1.52.1"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *meṣam* \< *meṣa*
+- *meṣam* ← *meṣa*
 - \[noun\], accusative, singular, masculine
 - “sheep; ram; Naigameṣa.”
 ------------------------------------------------------------------------
-- *mahayā* \< *mahaya* \< *mahay* \< *√mah*
+- *mahayā* ← *mahaya* ← *mahay* ← *√mah*
 - \[verb\], singular, Present imperative
 - “glorify.”
 ------------------------------------------------------------------------
-- *svarvidaṃ* \< *svar*
+- *svarvidaṃ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidaṃ* \< *vidam* \< *vid*
+- *svarvidaṃ* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------
-- *śataṃ* \< *śatam* \< *śata*
+- *śataṃ* ← *śatam* ← *śata*
 - \[noun\], nominative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *subhvaḥ* \< *su*
+- *subhvaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subhvaḥ* \< *bhvaḥ* \< *bhū*
+- *subhvaḥ* ← *bhvaḥ* ← *bhū*
 - \[noun\], nominative, plural, feminine
 - “Earth; floor; earth; bhū; Earth; one; saurāṣṭrā; three; land; land;
     place; world; bhū \[word\]; soil; pṛthivī; being; bhūja; floor;
@@ -48,11 +48,11 @@ title = "Rig Veda 1.52.1"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *atyaṃ* \< *atyam* \< *atya*
+- *atyaṃ* ← *atyam* ← *atya*
 - \[noun\], accusative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -60,37 +60,37 @@ title = "Rig Veda 1.52.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *havanasyadaṃ* \< *havanasyadam* \< *havanasyad*
+- *havanasyadaṃ* ← *havanasyadam* ← *havanasyad*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ratham* \< *ratha*
+- *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *endraṃ* \< *ā*
+- *endraṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *endraṃ* \< *indram* \< *indra*
+- *endraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vavṛtyām* \< *vṛt*
+- *vavṛtyām* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------

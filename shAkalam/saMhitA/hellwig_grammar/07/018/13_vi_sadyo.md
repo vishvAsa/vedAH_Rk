@@ -6,77 +6,77 @@ title = "Rig Veda 7.18.13"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dṛṃhitāny* \< *dṛṃhitāni* \< *dṛṃhay* \< *√dṛh*
+- *dṛṃhitāny* ← *dṛṃhitāni* ← *dṛṃhay* ← *√dṛh*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *puraḥ* \< *pur*
+- *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *sahasā* \< *sahas*
+- *sahasā* ← *sahas*
 - \[noun\], instrumental, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *dardaḥ* \< *dardar* \< *√dṛ*
+- *dardaḥ* ← *dardar* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 - “cleave.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ānavasya* \< *ānava*
+- *ānavasya* ← *ānava*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *tṛtsave* \< *tṛtsu*
+- *tṛtsave* ← *tṛtsu*
 - \[noun\], dative, singular, masculine
 - “Tṛtsu.”
 ------------------------------------------------------------------------
-- *gayam* \< *gaya*
+- *gayam* ← *gaya*
 - \[noun\], accusative, singular, masculine
 - “house; Gaya; family; Gaya; property; Gaya; wealth; livestock.”
 ------------------------------------------------------------------------
-- *bhāg* \< *bhāk* \< *bhaj*
+- *bhāg* ← *bhāk* ← *bhaj*
 - \[verb\], singular, Aorist inj. (proh.)
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *jeṣma* \< *ji*
+- *jeṣma* ← *ji*
 - \[verb\], plural, Aorist inj. (proh.)
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *pūruṃ* \< *pūrum* \< *pūru*
+- *pūruṃ* ← *pūrum* ← *pūru*
 - \[noun\], accusative, singular, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *vidathe* \< *vidatha*
+- *vidathe* ← *vidatha*
 - \[noun\], locative, singular, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *mṛdhravācam* \< *mṛdhravāc*
+- *mṛdhravācam* ← *mṛdhravāc*
 - \[noun\], accusative, singular, masculine
 - “abusive.”
 ------------------------------------------------------------------------

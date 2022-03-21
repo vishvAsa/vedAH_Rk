@@ -2,28 +2,28 @@
 title = "Rig Veda 9.109.6"
 
 +++
--   *divo* \< *divaḥ* \< *div*
+-   *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *dhartāsi* \< *dhartā* \< *dhartṛ*
+- *dhartāsi* ← *dhartā* ← *dhartṛ*
 - \[noun\], nominative, singular, masculine
 - “supporter.”
 ------------------------------------------------------------------------
-- *dhartāsi* \< *asi* \< *as*
+- *dhartāsi* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *śukraḥ* \< *śukra*
+- *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *pīyūṣaḥ* \< *pīyūṣa*
+- *pīyūṣaḥ* ← *pīyūṣa*
 - \[noun\], nominative, singular, masculine
 - “amṛta; pīyūṣa; ambrosia.”
 ------------------------------------------------------------------------
-- *satye* \< *satya*
+- *satye* ← *satya*
 - \[noun\], locative, singular, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
@@ -31,11 +31,11 @@ title = "Rig Veda 9.109.6"
 - \[noun\], locative, singular, neuter
 - “receptacle; enclosure.”
 ------------------------------------------------------------------------
-- *vājī* \< *vājin*
+- *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------

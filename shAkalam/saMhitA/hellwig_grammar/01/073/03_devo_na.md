@@ -2,7 +2,7 @@
 title = "Rig Veda 1.73.3"
 
 +++
--   *devo* \< *devaḥ* \< *deva*
+-   *devo* ← *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -11,26 +11,26 @@ title = "Rig Veda 1.73.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *viśvadhāyā* \< *viśvadhāyāḥ* \< *viśvadhā*
+- *viśvadhāyā* ← *viśvadhāyāḥ* ← *viśvadhā*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *upakṣeti* \< *upakṣi* \< *√kṣi*
+- *upakṣeti* ← *upakṣi* ← *√kṣi*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *hitamitro* \< *hita*
+- *hitamitro* ← *hita*
 - \[noun\]
 - “beneficial; wholesome; good; suitable; good; appropriate; pleasant;
     Aṣṭādhyāyī 5.1.5; friendly; agreeable.”
 ------------------------------------------------------------------------
-- *hitamitro* \< *mitraḥ* \< *mitra*
+- *hitamitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -38,18 +38,18 @@ title = "Rig Veda 1.73.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rājā* \< *rājan*
+- *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *puraḥsadaḥ* \< *puraḥsad*
+- *puraḥsadaḥ* ← *puraḥsad*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *śarmasado* \< *śarma* \< *śarman*
+- *śarmasado* ← *śarma* ← *śarman*
 - \[noun\], neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *śarmasado* \< *sadaḥ* \< *sad*
+- *śarmasado* ← *sadaḥ* ← *sad*
 - \[noun\], nominative, plural, masculine
 - “seated.”
 ------------------------------------------------------------------------
@@ -57,25 +57,25 @@ title = "Rig Veda 1.73.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīrā* \< *vīrāḥ* \< *vīra*
+- *vīrā* ← *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *anavadyā* \< *anavadya*
+- *anavadyā* ← *anavadya*
 - \[noun\], nominative, singular, feminine
 - “blameless; faultless.”
 ------------------------------------------------------------------------
-- *patijuṣṭeva* \< *pati*
+- *patijuṣṭeva* ← *pati*
 - \[noun\], masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *patijuṣṭeva* \< *juṣṭā* \< *juṣ*
+- *patijuṣṭeva* ← *juṣṭā* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *patijuṣṭeva* \< *iva*
+- *patijuṣṭeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------

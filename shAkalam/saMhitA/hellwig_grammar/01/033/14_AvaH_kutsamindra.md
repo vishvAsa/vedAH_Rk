@@ -2,11 +2,11 @@
 title = "Rig Veda 1.33.14"
 
 +++
--   *āvaḥ* \< *av*
+-   *āvaḥ* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *kutsam* \< *kutsa*
+- *kutsam* ← *kutsa*
 - \[noun\], accusative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
@@ -15,63 +15,63 @@ title = "Rig Veda 1.33.14"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yasmiñcākan* \< *yasmin* \< *yad*
+- *yasmiñcākan* ← *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasmiñcākan* \< *cākan* \< *kan*
+- *yasmiñcākan* ← *cākan* ← *kan*
 - \[verb\], singular, Plusquamperfect
 - “like; delight; desire.”
 ------------------------------------------------------------------------
-- *prāvo* \< *prāvaḥ* \< *prāv* \< *√av*
+- *prāvo* ← *prāvaḥ* ← *prāv* ← *√av*
 - \[verb\], singular, Imperfect
 - “help; promote.”
 ------------------------------------------------------------------------
-- *yudhyantaṃ* \< *yudhyantam* \< *yudh*
+- *yudhyantaṃ* ← *yudhyantam* ← *yudh*
 - \[verb noun\], accusative, singular
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *daśadyum* \< *daśadyu*
+- *daśadyum* ← *daśadyu*
 - \[noun\], accusative, singular, masculine
 - “Daśadyu.”
 ------------------------------------------------------------------------
-- *śaphacyuto* \< *śapha*
+- *śaphacyuto* ← *śapha*
 - \[noun\], masculine
 - “one-eighth; śapha \[word\].”
 ------------------------------------------------------------------------
-- *śaphacyuto* \< *cyutaḥ* \< *cyu*
+- *śaphacyuto* ← *cyutaḥ* ← *cyu*
 - \[verb noun\], nominative, singular
 - “fall down; issue; shoot; ejaculate; deviate; banish; drop;
     dislodge; miss; deprive.”
 ------------------------------------------------------------------------
-- *reṇur* \< *reṇuḥ* \< *reṇu*
+- *reṇur* ← *reṇuḥ* ← *reṇu*
 - \[noun\], nominative, singular, masculine
 - “dust; pollen; powder.”
 ------------------------------------------------------------------------
-- *nakṣata* \< *nakṣ*
+- *nakṣata* ← *nakṣ*
 - \[verb\], singular, Present injunctive
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ucchvaitreyo* \< *ud*
+- *ucchvaitreyo* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ucchvaitreyo* \< *śvaitreyaḥ* \< *śvaitreya*
+- *ucchvaitreyo* ← *śvaitreyaḥ* ← *śvaitreya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *nṛṣāhyāya* \< *nṛṣāhya*
+- *nṛṣāhyāya* ← *nṛṣāhya*
 - \[noun\], dative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *tasthau* \< *sthā*
+- *tasthau* ← *sthā*
 - \[verb\], singular, Perfect indicative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;

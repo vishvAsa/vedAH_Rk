@@ -2,15 +2,15 @@
 title = "Rig Veda 4.16.12"
 
 +++
--   *kutsāya* \< *kutsa*
+-   *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *śuṣṇam* \< *śuṣṇa*
+- *śuṣṇam* ← *śuṣṇa*
 - \[noun\], accusative, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
-- *aśuṣaṃ* \< *aśuṣam* \< *aśuṣa*
+- *aśuṣaṃ* ← *aśuṣam* ← *aśuṣa*
 - \[noun\], accusative, singular, masculine
 - “edacious.”
 ------------------------------------------------------------------------
@@ -18,29 +18,29 @@ title = "Rig Veda 4.16.12"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *barhīḥ* \< *bṛṃh*
+- *barhīḥ* ← *bṛṃh*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *prapitve* \< *prapitva*
+- *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
-- *ahnaḥ* \< *ahar*
+- *ahnaḥ* ← *ahar*
 - \[noun\], genitive, singular, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *kuyavaṃ* \< *kuyavam* \< *kuyava*
+- *kuyavaṃ* ← *kuyavam* ← *kuyava*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
@@ -48,31 +48,31 @@ title = "Rig Veda 4.16.12"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mṛṇa* \< *mṛṇ*
+- *mṛṇa* ← *mṛṇ*
 - \[verb\], singular, Present imperative
 - “kill; crush.”
 ------------------------------------------------------------------------
-- *kutsyena* \< *kutsya*
+- *kutsyena* ← *kutsya*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sūraś* \< *sūraḥ* \< *svar*
+- *sūraś* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *vṛhatād* \< *vṛhatāt* \< *vṛh*
+- *vṛhatād* ← *vṛhatāt* ← *vṛh*
 - \[verb\], singular, Present imperative
 - “extract.”
 ------------------------------------------------------------------------
-- *abhīke* \< *abhīka*
+- *abhīke* ← *abhīka*
 - \[noun\], locative, singular, neuter
 - “battle; meeting.”
 ------------------------------------------------------------------------

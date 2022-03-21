@@ -2,7 +2,7 @@
 title = "Rig Veda 10.142.8"
 
 +++
--   *āyane* \< *āyana*
+-   *āyane* ← *āyana*
 - \[noun\], locative, singular, neuter
 - “arrival.”
 ------------------------------------------------------------------------

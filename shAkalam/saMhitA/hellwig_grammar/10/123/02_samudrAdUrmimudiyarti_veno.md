@@ -2,11 +2,11 @@
 title = "Rig Veda 10.123.2"
 
 +++
--   *samudrād* \< *samudrāt* \< *samudra*
+-   *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *ūrmim* \< *ūrmi*
+- *ūrmim* ← *ūrmi*
 - \[noun\], accusative, singular, masculine
 - “wave; billow.”
 ------------------------------------------------------------------------
@@ -14,43 +14,43 @@ title = "Rig Veda 10.123.2"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *veno* \< *venaḥ* \< *vena*
+- *veno* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
 ------------------------------------------------------------------------
-- *nabhojāḥ* \< *nabhaḥ* \< *nabhas*
+- *nabhojāḥ* ← *nabhaḥ* ← *nabhas*
 - \[noun\], neuter
 - “sky; cloud; ākāśa; air; abhra.”
 ------------------------------------------------------------------------
-- *nabhojāḥ* \< *jāḥ* \< *jā*
+- *nabhojāḥ* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, neuter
 - “born.”
 ------------------------------------------------------------------------
-- *pṛṣṭhaṃ* \< *pṛṣṭham* \< *pṛṣṭha*
+- *pṛṣṭhaṃ* ← *pṛṣṭham* ← *pṛṣṭha*
 - \[noun\], nominative, singular, neuter
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *haryatasya* \< *haryata*
+- *haryatasya* ← *haryata*
 - \[noun\], genitive, singular, masculine
 - “desirable; delightful.”
 ------------------------------------------------------------------------
-- *darśi* \< *dṛś*
+- *darśi* ← *dṛś*
 - \[verb\], singular, Aorist passive
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *sānāv* \< *sānau* \< *sānu*
+- *sānāv* ← *sānau* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
@@ -58,14 +58,14 @@ title = "Rig Veda 10.123.2"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *viṣṭapi* \< *viṣṭap*
+- *viṣṭapi* ← *viṣṭap*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *bhrāṭ* \< *bhrāj*
+- *bhrāṭ* ← *bhrāj*
 - \[noun\], nominative, singular, feminine
 - “light.”
 ------------------------------------------------------------------------
-- *samānaṃ* \< *samānam* \< *samāna*
+- *samānaṃ* ← *samānam* \< *samāna*
 - \[noun\], accusative, singular, masculine
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”

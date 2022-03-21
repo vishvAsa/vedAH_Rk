@@ -6,30 +6,30 @@ title = "Rig Veda 5.41.8"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *arce* \< *arc*
+- *arce* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *poṣyāvato* \< *poṣyāvataḥ* \< *poṣyāvat*
+- *poṣyāvato* ← *poṣyāvataḥ* ← *poṣyāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *vāstoṣpatiṃ* \< *vāstoṣpatim* \< *vāstoṣpati*
+- *vāstoṣpatiṃ* ← *vāstoṣpatim* ← *vāstoṣpati*
 - \[noun\], accusative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
 ------------------------------------------------------------------------
-- *tvaṣṭāraṃ* \< *tvaṣṭāram* \< *tvaṣṭṛ*
+- *tvaṣṭāraṃ* ← *tvaṣṭāram* ← *tvaṣṭṛ*
 - \[noun\], accusative, singular, masculine
 - “Tvaṣṭṛ; Viśvakarman; sun.”
 ------------------------------------------------------------------------
-- *rarāṇaḥ* \< *rā*
+- *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------

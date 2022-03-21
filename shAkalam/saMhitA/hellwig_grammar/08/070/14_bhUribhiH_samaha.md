@@ -2,7 +2,7 @@
 title = "Rig Veda 8.70.14"
 
 +++
--   *bhūribhiḥ* \< *bhūri*
+-   *bhūribhiḥ* ← *bhūri*
 - \[noun\], instrumental, plural, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 8.70.14"
 - \[adverb\]
 - “verily; somewhere; somehow.”
 ------------------------------------------------------------------------
-- *ṛṣibhir* \< *ṛṣibhiḥ* \< *ṛṣi*
+- *ṛṣibhir* ← *ṛṣibhiḥ* ← *ṛṣi*
 - \[noun\], instrumental, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *barhiṣmadbhi* \< *barhiṣmadbhiḥ* \< *barhiṣmat*
+- *barhiṣmadbhi* ← *barhiṣmadbhiḥ* ← *barhiṣmat*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *staviṣyase* \< *stu*
+- *staviṣyase* ← *stu*
 - \[verb\], singular, Future
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -29,31 +29,31 @@ title = "Rig Veda 8.70.14"
 - \[adverb\]
 - “thus; therefore.”
 ------------------------------------------------------------------------
-- *ekam* \< *eka*
+- *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *ekam* \< *eka*
+- *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *icchara* \< *id*
+- *icchara* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *icchara* \< *śara*
+- *icchara* ← *śara*
 - \[noun\], vocative, singular, masculine
 - “arrow; five; reed; śara \[word\]; munj; Śara; Śara.”
 ------------------------------------------------------------------------
-- *vatsān* \< *vatsa*
+- *vatsān* ← *vatsa*
 - \[noun\], accusative, plural, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *parādadaḥ* \< *parādā* \< *√dā*
+- *parādadaḥ* ← *parādā* ← *√dā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------

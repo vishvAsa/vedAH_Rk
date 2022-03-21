@@ -2,47 +2,47 @@
 title = "Rig Veda 1.55.7"
 
 +++
--   *dānāya* \< *dāna*
+-   *dānāya* ← *dāna*
 - \[noun\], dative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *somapāvann* \< *soma*
+- *somapāvann* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapāvann* \< *pāvan*
+- *somapāvann* ← *pāvan*
 - \[noun\], vocative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *astu* \< *as*
+- *astu* ← *as*
 - \[verb\], singular, Present imperative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'rvāñcā* \< *arvāñcā* \< *arvāñc*
+- *'rvāñcā* ← *arvāñcā* ← *arvāñc*
 - \[noun\], accusative, dual, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *vandanaśrud* \< *vandana*
+- *vandanaśrud* ← *vandana*
 - \[noun\], neuter
 - “worship; skin disease.”
 ------------------------------------------------------------------------
-- *vandanaśrud* \< *śrut*
+- *vandanaśrud* ← *śrut*
 - \[noun\], vocative, singular, masculine
 - “listening.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 1.55.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -61,14 +61,14 @@ title = "Rig Veda 1.55.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yamiṣṭhāsaḥ* \< *yamiṣṭha*
+- *yamiṣṭhāsaḥ* ← *yamiṣṭha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sārathayo* \< *sārathayaḥ* \< *sārathi*
+- *sārathayo* ← *sārathayaḥ* ← *sārathi*
 - \[noun\], nominative, plural, masculine
 - “charioteer; sārathi \[word\].”
 ------------------------------------------------------------------------
-- *ya* \< *ye* \< *yad*
+- *ya* ← *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 1.55.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -85,11 +85,11 @@ title = "Rig Veda 1.55.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ketā* \< *ketāḥ* \< *keta*
+- *ketā* ← *ketāḥ* ← *keta*
 - \[noun\], nominative, plural, masculine
 - “wish; will; purpose; expectation; house.”
 ------------------------------------------------------------------------
@@ -97,10 +97,10 @@ title = "Rig Veda 1.55.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dabhnuvanti* \< *dabh*
+- *dabhnuvanti* ← *dabh*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *bhūrṇayaḥ* \< *bhūrṇi*
+- *bhūrṇayaḥ* ← *bhūrṇi*
 - \[noun\], nominative, plural, masculine
 - “impatient; restless.”
 ------------------------------------------------------------------------

@@ -2,28 +2,28 @@
 title = "Rig Veda 10.10.14"
 
 +++
--   *anyam* \< *anya*
+-   *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *ū* \< *u*
+- *ū* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yamy* \< *yamī*
+- *yamy* ← *yamī*
 - \[noun\], nominative, singular, feminine
 - “Yamī.”
 ------------------------------------------------------------------------
-- *anya* \< *anyaḥ* \< *anya*
+- *anya* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
@@ -32,7 +32,7 @@ title = "Rig Veda 10.10.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -40,23 +40,23 @@ title = "Rig Veda 10.10.14"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣvajāte* \< *svajāte* \< *svaj*
+- *ṣvajāte* ← *svajāte* ← *svaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “embrace.”
 ------------------------------------------------------------------------
-- *libujeva* \< *libujā*
+- *libujeva* ← *libujā*
 - \[noun\], nominative, singular, feminine
 - “creeper.”
 ------------------------------------------------------------------------
-- *libujeva* \< *iva*
+- *libujeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vṛkṣam* \< *vṛkṣa*
+- *vṛkṣam* ← *vṛkṣa*
 - \[noun\], accusative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -66,21 +66,21 @@ title = "Rig Veda 10.10.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mana* \< *manaḥ* \< *manas*
+- *mana* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *icchā* \< *iṣ*
+- *icchā* ← *iṣ*
 - \[verb\], singular, Present imperative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -90,15 +90,15 @@ title = "Rig Veda 10.10.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tavādhā* \< *tava* \< *tvad*
+- *tavādhā* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavādhā* \< *adhā* \< *adha*
+- *tavādhā* ← *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *kṛṇuṣva* \< *kṛ*
+- *kṛṇuṣva* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -109,11 +109,11 @@ title = "Rig Veda 10.10.14"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *saṃvidaṃ* \< *saṃvidam* \< *saṃvid*
+- *saṃvidaṃ* ← *saṃvidam* ← *saṃvid*
 - \[noun\], accusative, singular, feminine
 - “agreement; cannabis; plan; rendezvous.”
 ------------------------------------------------------------------------
-- *subhadrām* \< *subhadra*
+- *subhadrām* ← *subhadra*
 - \[noun\], accusative, singular, feminine
 - “fortunate.”
 ------------------------------------------------------------------------

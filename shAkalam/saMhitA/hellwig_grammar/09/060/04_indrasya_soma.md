@@ -2,7 +2,7 @@
 title = "Rig Veda 9.60.4"
 
 +++
--   *indrasya* \< *indra*
+-   *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -11,7 +11,7 @@ title = "Rig Veda 9.60.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rādhase* \< *rādhas*
+- *rādhase* ← *rādhas*
 - \[noun\], dative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
@@ -19,19 +19,19 @@ title = "Rig Veda 9.60.4"
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *vicarṣaṇe* \< *vicarṣaṇi*
+- *vicarṣaṇe* ← *vicarṣaṇi*
 - \[noun\], vocative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *prajāvad* \< *prajāvat*
+- *prajāvad* ← *prajāvat*
 - \[noun\], accusative, singular, neuter
 - “prolific.”
 ------------------------------------------------------------------------
-- *reta* \< *retaḥ* \< *retas*
+- *reta* ← *retaḥ* ← *retas*
 - \[noun\], accusative, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 9.60.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

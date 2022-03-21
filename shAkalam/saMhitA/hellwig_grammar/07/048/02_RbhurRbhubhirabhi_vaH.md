@@ -2,11 +2,11 @@
 title = "Rig Veda 7.48.2"
 
 +++
--   *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+-   *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *ṛbhubhir* \< *ṛbhubhiḥ* \< *ṛbhu*
+- *ṛbhubhir* ← *ṛbhubhiḥ* ← *ṛbhu*
 - \[noun\], instrumental, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -14,60 +14,60 @@ title = "Rig Veda 7.48.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vibhvo* \< *vibhvaḥ* \< *vibhū*
+- *vibhvo* ← *vibhvaḥ* ← *vibhū*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vibhubhiḥ* \< *vibhu*
+- *vibhubhiḥ* ← *vibhu*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *śavāṃsi* \< *śavas*
+- *śavāṃsi* ← *śavas*
 - \[noun\], accusative, plural, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *vājo* \< *vājaḥ* \< *vāja*
+- *vājo* ← *vājaḥ* ← *vāja*
 - \[noun\], nominative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *avatu* \< *av*
+- *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *vājasātāv* \< *vājasātau* \< *vājasāti*
+- *vājasātāv* ← *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *taruṣema* \< *taruṣ* \< *√tṛ*
+- *taruṣema* ← *taruṣ* ← *√tṛ*
 - \[verb\], plural, Present optative
 - “overcome.”
 ------------------------------------------------------------------------
-- *vṛtram* \< *vṛtra*
+- *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------

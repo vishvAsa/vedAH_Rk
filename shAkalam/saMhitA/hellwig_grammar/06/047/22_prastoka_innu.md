@@ -2,10 +2,10 @@
 title = "Rig Veda 6.47.22"
 
 +++
--   *prastoka* \< *prastokaḥ* \< *prastoka*
+-   *prastoka* ← *prastokaḥ* ← *prastoka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -13,11 +13,11 @@ title = "Rig Veda 6.47.22"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *rādhasas* \< *rādhasaḥ* \< *rādhas*
+- *rādhasas* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -26,51 +26,51 @@ title = "Rig Veda 6.47.22"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *kośayīr* \< *kośayīḥ* \< *kośayī*
+- *kośayīr* ← *kośayīḥ* ← *kośayī*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *vājino* \< *vājinaḥ* \< *vājin*
+- *vājino* ← *vājinaḥ* ← *vājin*
 - \[noun\], accusative, plural, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *'dāt* \< *adāt* \< *dā*
+- *'dāt* ← *adāt* ← *dā*
 - \[verb\], singular, Root aorist (Ind.)
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *divodāsād* \< *divodāsāt* \< *divodāsa*
+- *divodāsād* ← *divodāsāt* ← *divodāsa*
 - \[noun\], ablative, singular, masculine
 - “Divodāsa.”
 ------------------------------------------------------------------------
-- *atithigvasya* \< *atithigva*
+- *atithigvasya* ← *atithigva*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *śāmbaraṃ* \< *śāmbaram* \< *śāmbara*
+- *śāmbaraṃ* ← *śāmbaram* ← *śāmbara*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *vasu*
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *agrabhīṣma* \< *grah*
+- *agrabhīṣma* ← *grah*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;

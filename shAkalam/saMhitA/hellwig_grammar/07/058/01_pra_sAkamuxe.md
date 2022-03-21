@@ -6,33 +6,33 @@ title = "Rig Veda 7.58.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sākamukṣe* \< *sākamukṣ*
+- *sākamukṣe* ← *sākamukṣ*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *arcatā* \< *arcata* \< *arc*
+- *arcatā* ← *arcata* ← *arc*
 - \[verb\], plural, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *gaṇāya* \< *gaṇa*
+- *gaṇāya* ← *gaṇa*
 - \[noun\], dative, singular, masculine
 - “group; varga; troop; troop; battalion; flock; herd; gaṇa \[word\];
     corporation; gaṇa; herd; sect; swarm; set; party; gaṇa; series;
     Ganesa; flight.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *daivyasya* \< *daivya*
+- *daivyasya* ← *daivya*
 - \[noun\], genitive, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *dhāmnas* \< *dhāmnaḥ* \< *dhāman*
+- *dhāmnas* ← *dhāmnaḥ* ← *dhāman*
 - \[noun\], genitive, singular, neuter
 - “domain; dwelling; law; appearance; light; race; agreement; color;
     location.”
 ------------------------------------------------------------------------
-- *tuviṣmān* \< *tuviṣmat*
+- *tuviṣmān* ← *tuviṣmat*
 - \[noun\], nominative, singular, masculine
 - “powerful.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 7.58.1"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *kṣodanti* \< *kṣud*
+- *kṣodanti* ← *kṣud*
 - \[verb\], plural, Present indikative
 - “pound.”
 ------------------------------------------------------------------------
@@ -48,22 +48,22 @@ title = "Rig Veda 7.58.1"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mahitvā* \< *mahitva*
+- *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *nakṣante* \< *nakṣ*
+- *nakṣante* ← *nakṣ*
 - \[verb\], plural, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *nākaṃ* \< *nākam* \< *nāka*
+- *nākaṃ* ← *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *nirṛter* \< *nirṛteḥ* \< *nirṛti*
+- *nirṛter* ← *nirṛteḥ* ← *nirṛti*
 - \[noun\], ablative, singular, feminine
 - “destruction; Nirṛti; adversity.”
 ------------------------------------------------------------------------
-- *avaṃśāt* \< *avaṃśa*
+- *avaṃśāt* ← *avaṃśa*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------

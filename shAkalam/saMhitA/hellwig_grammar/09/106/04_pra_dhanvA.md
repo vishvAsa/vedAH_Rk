@@ -6,7 +6,7 @@ title = "Rig Veda 9.106.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dhanvā* \< *dhanva* \< *dhanv*
+- *dhanvā* ← *dhanva* ← *dhanv*
 - \[verb\], singular, Present imperative
 - “run.”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 9.106.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jāgṛvir* \< *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indrāya* \< *indra*
+- *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indo* \< *indu*
+- *indrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -32,16 +32,16 @@ title = "Rig Veda 9.106.4"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”
 ------------------------------------------------------------------------
-- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
@@ -49,16 +49,16 @@ title = "Rig Veda 9.106.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bharā* \< *bhara* \< *bhṛ*
+- *bharā* ← *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *svarvidam* \< *svar*
+- *svarvidam* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidam* \< *vidam* \< *vid*
+- *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------

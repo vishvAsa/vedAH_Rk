@@ -2,45 +2,45 @@
 title = "Rig Veda 1.37.11"
 
 +++
--   *tyaṃ* \< *tyam* \< *tya*
+-   *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dīrgham* \< *dīrgha*
+- *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *pṛthum* \< *pṛthu*
+- *pṛthum* ← *pṛthu*
 - \[noun\], accusative, singular, masculine
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *miho* \< *mihaḥ* \< *mih*
+- *miho* ← *mihaḥ* ← *mih*
 - \[noun\], genitive, singular, feminine
 - “fog.”
 ------------------------------------------------------------------------
-- *napātam* \< *napāt*
+- *napātam* ← *napāt*
 - \[noun\], accusative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *amṛdhram* \< *amṛdhra*
+- *amṛdhram* ← *amṛdhra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cyāvayanti* \< *cyāvay* \< *√cyu*
+- *cyāvayanti* ← *cyāvay* ← *√cyu*
 - \[verb\], plural, Present indikative
 - “chase away; remove; move.”
 ------------------------------------------------------------------------
-- *yāmabhiḥ* \< *yāman*
+- *yāmabhiḥ* ← *yāman*
 - \[noun\], instrumental, plural, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------

@@ -2,30 +2,30 @@
 title = "Rig Veda 1.32.9"
 
 +++
--   *nīcāvayā* \< *nīcāvayāḥ* \< *nīcāvayas*
+-   *nīcāvayā* ← *nīcāvayāḥ* ← *nīcāvayas*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vṛtraputrendro* \< *vṛtra*
+- *vṛtraputrendro* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtraputrendro* \< *putrā* \< *putra*
+- *vṛtraputrendro* ← *putrā* ← *putra*
 - \[noun\], nominative, singular, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *vṛtraputrendro* \< *indraḥ* \< *indra*
+- *vṛtraputrendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -37,48 +37,48 @@ title = "Rig Veda 1.32.9"
 - \[noun\], accusative, singular, neuter
 - “weapon.”
 ------------------------------------------------------------------------
-- *jabhāra* \< *bhṛ*
+- *jabhāra* ← *bhṛ*
 - \[verb\], singular, Perfect indicative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *uttarā* \< *uttara*
+- *uttarā* ← *uttara*
 - \[noun\], nominative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *sūr* \< *sūḥ* \< *sū*
+- *sūr* ← *sūḥ* ← *sū*
 - \[noun\], nominative, singular, feminine
 - “sū; mother.”
 ------------------------------------------------------------------------
-- *adharaḥ* \< *adhara*
+- *adharaḥ* ← *adhara*
 - \[noun\], nominative, singular, masculine
 - “lower; adhara \[word\]; worse.”
 ------------------------------------------------------------------------
-- *putra* \< *putraḥ* \< *putra*
+- *putra* ← *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *dānuḥ* \< *dānu*
+- *dānuḥ* ← *dānu*
 - \[noun\], nominative, singular, feminine
 - “Dānu; dew; drop.”
 ------------------------------------------------------------------------
-- *śaye* \< *śī*
+- *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *sahavatsā* \< *saha*
+- *sahavatsā* ← *saha*
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *sahavatsā* \< *vatsā* \< *vatsa*
+- *sahavatsā* ← *vatsā* ← *vatsa*
 - \[noun\], nominative, singular, feminine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -87,7 +87,7 @@ title = "Rig Veda 1.32.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenuḥ* \< *dhenu*
+- *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------

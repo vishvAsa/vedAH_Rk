@@ -2,7 +2,7 @@
 title = "Rig Veda 3.36.8"
 
 +++
--   *hradā* \< *hradāḥ* \< *hrada*
+-   *hradā* ← *hradāḥ* ← *hrada*
 - \[noun\], nominative, plural, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
@@ -10,16 +10,16 @@ title = "Rig Veda 3.36.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kukṣayaḥ* \< *kukṣi*
+- *kukṣayaḥ* ← *kukṣi*
 - \[noun\], nominative, plural, masculine
 - “abdomen; uterus; belly; kukṣi \[word\]; Kukṣi; cavity; bay; side;
     fetus.”
 ------------------------------------------------------------------------
-- *somadhānāḥ* \< *soma*
+- *somadhānāḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somadhānāḥ* \< *dhānāḥ* \< *dhāna*
+- *somadhānāḥ* ← *dhānāḥ* ← *dhāna*
 - \[noun\], nominative, plural, masculine
 - “containing.”
 ------------------------------------------------------------------------
@@ -31,58 +31,58 @@ title = "Rig Veda 3.36.8"
 - \[adverb\]
 - “īkāra.”
 ------------------------------------------------------------------------
-- *vivyāca* \< *vyac*
+- *vivyāca* ← *vyac*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], accusative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], accusative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *āśa* \< *aś*
+- *āśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “eat; consume; chew; feed.”
 ------------------------------------------------------------------------
-- *vṛtraṃ* \< *vṛtram* \< *vṛtra*
+- *vṛtraṃ* ← *vṛtram* ← *vṛtra*
 - \[noun\], accusative, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *jaghanvāṃ* \< *han*
+- *jaghanvāṃ* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *avṛṇīta* \< *vṛ*
+- *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

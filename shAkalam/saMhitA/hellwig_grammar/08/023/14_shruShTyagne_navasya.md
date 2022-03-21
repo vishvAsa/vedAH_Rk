@@ -2,25 +2,25 @@
 title = "Rig Veda 8.23.14"
 
 +++
--   *śruṣṭy* \< *śruṣṭī* \< *śruṣṭi*
+-   *śruṣṭy* ← *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *navasya* \< *nava*
+- *navasya* ← *nava*
 - \[noun\], genitive, singular, masculine
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *stomasya* \< *stoma*
+- *stomasya* ← *stoma*
 - \[noun\], genitive, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
@@ -28,7 +28,7 @@ title = "Rig Veda 8.23.14"
 - \[noun\], vocative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *viśpate* \< *viśpati*
+- *viśpate* ← *viśpati*
 - \[noun\], vocative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
@@ -36,19 +36,19 @@ title = "Rig Veda 8.23.14"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *māyinas* \< *māyinaḥ* \< *māyin*
+- *māyinas* ← *māyinaḥ* ← *māyin*
 - \[noun\], accusative, plural, masculine
 - “artful; charming; crafty; deceptive.”
 ------------------------------------------------------------------------
-- *tapuṣā* \< *tapus*
+- *tapuṣā* ← *tapus*
 - \[noun\], instrumental, singular, neuter
 - “heat.”
 ------------------------------------------------------------------------
-- *rakṣaso* \< *rakṣasaḥ* \< *rakṣas*
+- *rakṣaso* ← *rakṣasaḥ* ← *rakṣas*
 - \[noun\], accusative, plural, masculine
 - “Rākṣasa.”
 ------------------------------------------------------------------------
-- *daha* \< *dah*
+- *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

@@ -2,26 +2,26 @@
 title = "Rig Veda 1.66.2"
 
 +++
--   *takvā* \< *takvan*
+-   *takvā* ← *takvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhūrṇir* \< *bhūrṇiḥ* \< *bhūrṇi*
+- *bhūrṇir* ← *bhūrṇiḥ* ← *bhūrṇi*
 - \[noun\], nominative, singular, masculine
 - “impatient; restless.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *siṣakti* \< *sac*
+- *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *payo* \< *payaḥ* \< *payas*
+- *payo* ← *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
@@ -29,16 +29,16 @@ title = "Rig Veda 1.66.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhenuḥ* \< *dhenu*
+- *dhenuḥ* ← *dhenu*
 - \[noun\], nominative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *śucir* \< *śuciḥ* \< *śuci*
+- *śucir* ← *śuciḥ* ← *śuci*
 - \[noun\], nominative, singular, feminine
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *vibhāvā* \< *vibhāvan*
+- *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, feminine
 - “illuminating; shining.”
 ------------------------------------------------------------------------

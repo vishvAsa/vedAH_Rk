@@ -6,11 +6,11 @@ title = "Rig Veda 1.50.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -19,28 +19,28 @@ title = "Rig Veda 1.50.7"
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *pṛthv* \< *pṛthū* \< *pṛthu*
+- *pṛthv* ← *pṛthū* ← *pṛthu*
 - \[noun\], accusative, plural, neuter
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *ahā* \< *aha*
+- *ahā* ← *aha*
 - \[noun\], accusative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *mimāno* \< *mimānaḥ* \< *mā*
+- *mimāno* ← *mimānaḥ* ← *mā*
 - \[verb noun\], nominative, singular
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
-- *aktubhiḥ* \< *aktu*
+- *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *paśyañ* \< *paśyan* \< *paś*
+- *paśyañ* ← *paśyan* ← *paś*
 - \[verb noun\], nominative, singular
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *janmāni* \< *janman*
+- *janmāni* ← *janman*
 - \[noun\], accusative, plural, neuter
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”

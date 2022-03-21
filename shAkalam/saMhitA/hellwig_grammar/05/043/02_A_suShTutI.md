@@ -6,20 +6,20 @@ title = "Rig Veda 5.43.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suṣṭutī* \< *suṣṭuti*
+- *suṣṭutī* ← *suṣṭuti*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *vartayadhyai* \< *vartay* \< *√vṛt*
+- *vartayadhyai* ← *vartay* ← *√vṛt*
 - \[verb noun\]
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], nominative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

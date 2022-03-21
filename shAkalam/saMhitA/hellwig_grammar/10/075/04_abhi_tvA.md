@@ -6,19 +6,19 @@ title = "Rig Veda 10.75.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sindho* \< *sindhu*
+- *sindho* ← *sindhu*
 - \[noun\], vocative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *śiśum* \< *śiśu*
+- *śiśum* ← *śiśu*
 - \[noun\], accusative, singular, masculine
 - “child; young; baby; śiśu \[word\]; Śiśu; male child; fetus.”
 ------------------------------------------------------------------------
-- *in* \< *id*
+- *in* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 10.75.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātaro* \< *mātaraḥ* \< *mātṛ*
+- *mātaro* ← *mātaraḥ* ← *mātṛ*
 - \[noun\], nominative, plural, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *vāśrā* \< *vāśrāḥ* \< *vāśra*
+- *vāśrā* ← *vāśrāḥ* ← *vāśra*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *arṣanti* \< *ṛṣ*
+- *arṣanti* ← *ṛṣ*
 - \[verb\], plural, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *payaseva* \< *payasā* \< *payas*
+- *payaseva* ← *payasā* \< *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------

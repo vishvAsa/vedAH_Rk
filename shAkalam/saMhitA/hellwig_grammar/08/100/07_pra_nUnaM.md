@@ -6,36 +6,36 @@ title = "Rig Veda 8.100.7"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nūnaṃ* \< *nūnam*
+- *nūnaṃ* ← *nūnam*
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *dhāvatā* \< *dhāvata* \< *dhāv*
+- *dhāvatā* ← *dhāvata* ← *dhāv*
 - \[verb\], plural, Present imperative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *pṛthaṅ* \< *pṛthak*
+- *pṛthaṅ* ← *pṛthak*
 - \[adverb\]
 - “individually; apart; each; by the piece; independently; pṛthak
     \[word\].”
 ------------------------------------------------------------------------
-- *neha* \< *na*
+- *neha* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *neha* \< *iha*
+- *neha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *avāvarīt* \< *vṛ*
+- *avāvarīt* ← *vṛ*
 - \[verb\], singular, Plusquamperfect
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -44,28 +44,28 @@ title = "Rig Veda 8.100.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīṃ* \< *sīm*
+- *ṣīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vṛtrasya* \< *vṛtra*
+- *vṛtrasya* ← *vṛtra*
 - \[noun\], genitive, singular, masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *marmaṇi* \< *marman*
+- *marmaṇi* ← *marman*
 - \[noun\], locative, singular, neuter
 - “marman; secret; secret; mystery; vulnerability.”
 ------------------------------------------------------------------------
-- *vajram* \< *vajra*
+- *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *apīpatat* \< *pat*
+- *apīpatat* ← *pat*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”

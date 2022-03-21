@@ -2,43 +2,43 @@
 title = "Rig Veda 3.26.5"
 
 +++
--   *agniśriyo* \< *agni*
+-   *agniśriyo* ← *agni*
 - \[noun\], masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *agniśriyo* \< *śriyaḥ* \< *śrī*
+- *agniśriyo* ← *śriyaḥ* ← *śrī*
 - \[noun\], nominative, plural, masculine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *viśvakṛṣṭaya* \< *viśvakṛṣṭayaḥ* \< *viśvakṛṣṭi*
+- *viśvakṛṣṭaya* ← *viśvakṛṣṭayaḥ* ← *viśvakṛṣṭi*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tveṣam* \< *tveṣa*
+- *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, neuter
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, neuter
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *ava* \< *avaḥ* \< *avas*
+- *ava* ← *avaḥ* ← *avas*
 - \[noun\], accusative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *īmahe* \< *i*
+- *īmahe* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

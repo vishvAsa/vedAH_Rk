@@ -2,41 +2,41 @@
 title = "Rig Veda 10.74.3"
 
 +++
--   *iyam* \< *idam*
+-   *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *amṛtānāṃ* \< *amṛtānām* \< *amṛta*
+- *amṛtānāṃ* ← *amṛtānām* ← *amṛta*
 - \[noun\], genitive, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *gīḥ* \< *gir*
+- *gīḥ* ← *gir*
 - \[noun\], nominative, singular
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *sarvatātā* \< *sarvatāti*
+- *sarvatātā* ← *sarvatāti*
 - \[noun\], locative, singular, feminine
 - “completeness; prosperity; sum.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kṛpaṇanta* \< *kṛpaṇ*
+- *kṛpaṇanta* ← *kṛpaṇ*
 - \[verb\], plural, Imperfect
 - “desire.”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* \< *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

@@ -2,15 +2,15 @@
 title = "Rig Veda 10.48.6"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *etāñchāśvasato* \< *etān* \< *etad*
+- *etāñchāśvasato* ← *etān* ← *etad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *etāñchāśvasato* \< *śāśvasataḥ* \< *śāśvas* \< *√śvas*
+- *etāñchāśvasato* ← *śāśvasataḥ* ← *śāśvas* \< *√śvas*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
 - *dvā* \< *dvi*

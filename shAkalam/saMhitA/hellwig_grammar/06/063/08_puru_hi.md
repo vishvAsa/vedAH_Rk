@@ -10,42 +10,42 @@ title = "Rig Veda 6.63.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *puru*
+- *purubhujā* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhujā* \< *bhujā* \< *bhuj*
+- *purubhujā* ← *bhujā* ← *bhuj*
 - \[noun\], vocative, dual, masculine
 - “eating; consuming.”
 ------------------------------------------------------------------------
-- *deṣṇaṃ* \< *deṣṇam* \< *deṣṇa*
+- *deṣṇaṃ* ← *deṣṇam* ← *deṣṇa*
 - \[noun\], nominative, singular, neuter
 - “gift; giving.”
 ------------------------------------------------------------------------
-- *dhenuṃ* \< *dhenum* \< *dhenu*
+- *dhenuṃ* ← *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iṣam* \< *iṣ*
+- *iṣam* ← *iṣ*
 - \[noun\], accusative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *pinvatam* \< *pinv*
+- *pinvatam* ← *pinv*
 - \[verb\], dual, Present imperative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *asakrām* \< *asakra*
+- *asakrām* ← *asakra*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *stutaś* \< *stutaḥ* \< *stut*
+- *stutaś* ← *stutaḥ* ← *stut*
 - \[noun\], nominative, plural, feminine
 - “stut \[word\].”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 6.63.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -61,7 +61,7 @@ title = "Rig Veda 6.63.8"
 - \[noun\], vocative, dual, masculine
 - “sweet; sweet.”
 ------------------------------------------------------------------------
-- *suṣṭutiś* \< *suṣṭutiḥ* \< *suṣṭuti*
+- *suṣṭutiś* ← *suṣṭutiḥ* ← *suṣṭuti*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 6.63.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rasāś* \< *rasāḥ* \< *rasa*
+- *rasāś* ← *rasāḥ* ← *rasa*
 - \[noun\], nominative, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -81,11 +81,11 @@ title = "Rig Veda 6.63.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -93,11 +93,11 @@ title = "Rig Veda 6.63.8"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rātim* \< *rāti*
+- *rātim* ← *rāti*
 - \[noun\], accusative, singular, feminine
 - “gift; bounty; favor.”
 ------------------------------------------------------------------------
-- *agman* \< *gam*
+- *agman* ← *gam*
 - \[verb\], plural, Root aorist (Ind.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

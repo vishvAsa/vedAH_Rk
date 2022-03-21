@@ -2,7 +2,7 @@
 title = "Rig Veda 9.69.1"
 
 +++
--   *iṣur* \< *iṣuḥ* \< *iṣu*
+-   *iṣur* ← *iṣuḥ* ← *iṣu*
 - \[noun\], nominative, singular, masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
@@ -18,17 +18,17 @@ title = "Rig Veda 9.69.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dhīyate* \< *dhā*
+- *dhīyate* ← *dhā*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *matir* \< *matiḥ* \< *mati*
+- *matir* ← *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *vatso* \< *vatsaḥ* \< *vatsa*
+- *vatso* ← *vatsaḥ* ← *vatsa*
 - \[noun\], nominative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
@@ -37,7 +37,7 @@ title = "Rig Veda 9.69.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *mātur* \< *mātuḥ* \< *mātṛ*
+- *mātur* ← *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -46,46 +46,46 @@ title = "Rig Veda 9.69.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sarjy* \< *sarji* \< *sṛj*
+- *sarjy* ← *sarji* ← *sṛj*
 - \[verb\], singular, Aorist passive
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *ūdhani* \< *ūdhas*
+- *ūdhani* ← *ūdhas*
 - \[noun\], locative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *urudhāreva* \< *uru*
+- *urudhāreva* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urudhāreva* \< *dhārā*
+- *urudhāreva* ← *dhārā*
 - \[noun\], nominative, singular, feminine
 - “blade; edge; acme; nostrils.”
 ------------------------------------------------------------------------
-- *urudhāreva* \< *iva*
+- *urudhāreva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *duhe* \< *duh*
+- *duhe* ← *duh*
 - \[verb\], singular, Present indikative
 - “milk.”
 ------------------------------------------------------------------------
-- *agra* \< *agre* \< *agra*
+- *agra* ← *agre* ← *agra*
 - \[noun\], locative, singular, neuter
 - “tip; beginning; peak; end; front; top; beginning; battlefront; agra
     \[word\]; acme; fingertip; top; best; optimum; climax; matter;
     glans.”
 ------------------------------------------------------------------------
-- *āyaty* \< *āyatī* \< *e* \< *√i*
+- *āyaty* ← *āyatī* ← *e* ← *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vrateṣv* \< *vrateṣu* \< *vrata*
+- *vrateṣv* ← *vrateṣu* ← *vrata*
 - \[noun\], locative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
@@ -95,11 +95,11 @@ title = "Rig Veda 9.69.1"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *soma* \< *somaḥ* \< *soma*
+- *soma* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *iṣyate* \< *iṣ*
+- *iṣyate* ← *iṣ*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

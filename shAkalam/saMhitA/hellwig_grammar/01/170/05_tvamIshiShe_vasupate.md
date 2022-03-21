@@ -2,45 +2,45 @@
 title = "Rig Veda 1.170.5"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *īśiṣe* \< *īś*
+- *īśiṣe* ← *īś*
 - \[verb\], singular, Present indikative
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vasupate* \< *vasu*
+- *vasupate* ← *vasu*
 - \[noun\], masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *vasupate* \< *pate* \< *pati*
+- *vasupate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāṇām* \< *mitra*
+- *mitrāṇām* ← *mitra*
 - \[noun\], genitive, plural, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrapate* \< *mitra*
+- *mitrapate* ← *mitra*
 - \[noun\], masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *mitrapate* \< *pate* \< *pati*
+- *mitrapate* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *dheṣṭhaḥ* \< *dheṣṭha*
+- *dheṣṭhaḥ* ← *dheṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -48,28 +48,28 @@ title = "Rig Veda 1.170.5"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *marudbhiḥ* \< *marut*
+- *marudbhiḥ* ← *marut*
 - \[noun\], instrumental, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[noun\], vocative, singular, masculine
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vadasvādha* \< *vadasva* \< *vad*
+- *vadasvādha* ← *vadasva* ← *vad*
 - \[verb\], singular, Present imperative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *vadasvādha* \< *adha*
+- *vadasvādha* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *prāśāna* \< *prāś* \< *√aś*
+- *prāśāna* ← *prāś* ← *√aś*
 - \[verb\], singular, Present imperative
 - “eat; consume.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 1.170.5"
 - \[adverb\]
 - “seasonably.”
 ------------------------------------------------------------------------
-- *havīṃṣi* \< *havis*
+- *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------

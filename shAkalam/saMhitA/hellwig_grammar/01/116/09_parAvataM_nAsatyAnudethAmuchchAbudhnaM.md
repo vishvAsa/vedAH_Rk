@@ -2,22 +2,22 @@
 title = "Rig Veda 1.116.9"
 
 +++
--   *parāvataṃ* \< *parāvatam* \< *parāvat*
+-   *parāvataṃ* ← *parāvatam* ← *parāvat*
 - \[noun\], accusative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *nāsatyānudethām* \< *nāsatyā* \< *nāsatya*
+- *nāsatyānudethām* ← *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *nāsatyānudethām* \< *anudethām* \< *nud*
+- *nāsatyānudethām* ← *anudethām* ← *nud*
 - \[verb\], dual, Imperfect
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *uccābudhnaṃ* \< *uccābudhnam* \< *uccābudhna*
+- *uccābudhnaṃ* ← *uccābudhnam* ← *uccābudhna*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *cakrathur* \< *cakrathuḥ* \< *kṛ*
+- *cakrathur* ← *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -28,18 +28,18 @@ title = "Rig Veda 1.116.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jihmabāram* \< *jihma*
+- *jihmabāram* ← *jihma*
 - \[noun\]
 - “crooked; oblique; crooked.”
 ------------------------------------------------------------------------
-- *jihmabāram* \< *bāram* \< *bāra*
+- *jihmabāram* ← *bāram* ← *bāra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kṣarann* \< *kṣaran* \< *kṣar*
+- *kṣarann* ← *kṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -47,22 +47,22 @@ title = "Rig Veda 1.116.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pāyanāya* \< *pāyana*
+- *pāyanāya* ← *pāyana*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *sahasrāya* \< *sahasra*
+- *sahasrāya* ← *sahasra*
 - \[noun\], dative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *tṛṣyate* \< *tṛṣ*
+- *tṛṣyate* ← *tṛṣ*
 - \[verb noun\], dative, singular
 - “thirst.”
 ------------------------------------------------------------------------
-- *gotamasya* \< *gotama*
+- *gotamasya* ← *gotama*
 - \[noun\], genitive, singular, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------

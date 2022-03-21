@@ -2,25 +2,25 @@
 title = "Rig Veda 1.36.20"
 
 +++
--   *tveṣāso* \< *tveṣāsaḥ* \< *tveṣa*
+-   *tveṣāso* ← *tveṣāsaḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *agner* \< *agneḥ* \< *agni*
+- *agner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *amavanto* \< *amavantaḥ* \< *amavat*
+- *amavanto* ← *amavantaḥ* ← *amavat*
 - \[noun\], nominative, plural, masculine
 - “impressive; strong.”
 ------------------------------------------------------------------------
-- *arcayo* \< *arcayaḥ* \< *arci*
+- *arcayo* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
-- *bhīmāso* \< *bhīmāsaḥ* \< *bhīma*
+- *bhīmāso* ← *bhīmāsaḥ* ← *bhīma*
 - \[noun\], nominative, plural, masculine
 - “awful; amazing; terrific; enormous; bhīma \[word\]; fearful.”
 ------------------------------------------------------------------------
@@ -28,11 +28,11 @@ title = "Rig Veda 1.36.20"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pratītaye* \< *pratīti*
+- *pratītaye* ← *pratīti*
 - \[noun\], dative, singular, feminine
 - “perception; sexual pleasure; belief; approach.”
 ------------------------------------------------------------------------
-- *rakṣasvinaḥ* \< *rakṣasvin*
+- *rakṣasvinaḥ* ← *rakṣasvin*
 - \[noun\], accusative, plural, masculine
 - “malevolent; demoniac; obsessed.”
 ------------------------------------------------------------------------
@@ -44,10 +44,10 @@ title = "Rig Veda 1.36.20"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yātumāvato* \< *yātumāvataḥ* \< *yātumāvat*
+- *yātumāvato* ← *yātumāvataḥ* ← *yātumāvat*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *viśvaṃ* \< *viśvam* \< *viśva*
+- *viśvaṃ* ← *viśvam* ← *viśva*
 - \[noun\], accusative, singular, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -56,11 +56,11 @@ title = "Rig Veda 1.36.20"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *atriṇaṃ* \< *atriṇam* \< *atrin*
+- *atriṇaṃ* ← *atriṇam* ← *atrin*
 - \[noun\], accusative, singular, masculine
 - “Atrin; eater.”
 ------------------------------------------------------------------------
-- *daha* \< *dah*
+- *daha* ← *dah*
 - \[verb\], singular, Present imperative
 - “burn; cauterize; heat; burn; burn; burn; roast; blaze; burn;
     distress; destroy.”

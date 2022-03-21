@@ -2,39 +2,39 @@
 title = "Rig Veda 3.23.2"
 
 +++
--   *amanthiṣṭām* \< *math*
+-   *amanthiṣṭām* ← *math*
 - \[verb\], dual, Athematic is aor. (Ind.)
 - “churn; knead; trample; full; stir; crush.”
 ------------------------------------------------------------------------
-- *bhāratā* \< *bhārata*
+- *bhāratā* ← *bhārata*
 - \[noun\], nominative, dual, masculine
 - “Bhārata; bhārata \[word\]; fire.”
 ------------------------------------------------------------------------
-- *revad* \< *revat*
+- *revad* ← *revat*
 - \[noun\], accusative, singular, neuter
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *devaśravā* \< *devaśravāḥ* \< *devaśravas*
+- *devaśravā* ← *devaśravāḥ* ← *devaśravas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *devavātaḥ* \< *devavāta*
+- *devavātaḥ* ← *devavāta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sudakṣam* \< *su*
+- *sudakṣam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudakṣam* \< *dakṣam* \< *dakṣa*
+- *sudakṣam* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “deft; right; intelligent; expert.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -44,38 +44,38 @@ title = "Rig Veda 3.23.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *paśya* \< *paś*
+- *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *bṛhatābhi* \< *bṛhatā* \< *bṛhat*
+- *bṛhatābhi* ← *bṛhatā* ← *bṛhat*
 - \[noun\], instrumental, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *bṛhatābhi* \< *abhi*
+- *bṛhatābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *rāyeṣāṃ* \< *rāyā* \< *rai*
+- *rāyeṣāṃ* ← *rāyā* ← *rai*
 - \[noun\], instrumental, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *rāyeṣāṃ* \< *iṣām* \< *iṣ*
+- *rāyeṣāṃ* ← *iṣām* ← *iṣ*
 - \[noun\], genitive, plural, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *netā* \< *nī*
+- *netā* ← *nī*
 - \[verb\], singular, periphrast. future
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
 ------------------------------------------------------------------------
-- *bhavatād* \< *bhavatāt* \< *bhū*
+- *bhavatād* ← *bhavatāt* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -86,7 +86,7 @@ title = "Rig Veda 3.23.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

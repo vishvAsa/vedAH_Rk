@@ -2,13 +2,13 @@
 title = "Rig Veda 1.54.11"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *śevṛdham* \< *śevṛdha*
+- *śevṛdham* ← *śevṛdha*
 - \[noun\], accusative, singular, neuter
 - “precious.”
 ------------------------------------------------------------------------
@@ -16,16 +16,16 @@ title = "Rig Veda 1.54.11"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dhā* \< *dhāḥ* \< *dhā*
+- *dhā* ← *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dyumnam* \< *dyumna*
+- *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -33,11 +33,11 @@ title = "Rig Veda 1.54.11"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *janāṣāḍ* \< *janāṣāh* \< *janāṣah*
+- *janāṣāḍ* ← *janāṣāh* ← *janāṣah*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *indra*
@@ -45,11 +45,11 @@ title = "Rig Veda 1.54.11"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tavyam* \< *tavya*
+- *tavyam* ← *tavya*
 - \[noun\], accusative, singular, neuter
 - “tavya; strong.”
 ------------------------------------------------------------------------
-- *rakṣā* \< *rakṣ*
+- *rakṣā* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -57,23 +57,23 @@ title = "Rig Veda 1.54.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghonaḥ* \< *maghavan*
+- *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
@@ -81,23 +81,23 @@ title = "Rig Veda 1.54.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *svapatyā* \< *su*
+- *svapatyā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapatyā* \< *apatyā* \< *apatya*
+- *svapatyā* ← *apatyā* ← *apatya*
 - \[noun\], accusative, plural, neuter
 - “child; offspring; patronymic; descendant.”
 ------------------------------------------------------------------------
-- *iṣe* \< *iṣ*
+- *iṣe* ← *iṣ*
 - \[noun\], dative, singular, feminine
 - “refreshment; enjoyment; stores.”
 ------------------------------------------------------------------------
-- *dhāḥ* \< *dhā*
+- *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

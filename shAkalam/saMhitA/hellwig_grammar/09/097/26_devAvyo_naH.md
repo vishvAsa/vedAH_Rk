@@ -2,54 +2,54 @@
 title = "Rig Veda 9.97.26"
 
 +++
--   *devāvyo* \< *devāvyaḥ* \< *devāvī*
+-   *devāvyo* ← *devāvyaḥ* ← *devāvī*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pariṣicyamānāḥ* \< *pariṣic* \< *√sic*
+- *pariṣicyamānāḥ* ← *pariṣic* ← *√sic*
 - \[verb noun\], nominative, plural
 - “sprinkle; effuse; rub.”
 ------------------------------------------------------------------------
-- *kṣayaṃ* \< *kṣayam* \< *kṣaya*
+- *kṣayaṃ* ← *kṣayam* ← *kṣaya*
 - \[noun\], accusative, singular, masculine
 - “dwelling; house; kṣaya \[word\]; home; family.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *su*
+- *suvīraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *vīram* \< *vīra*
+- *suvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *dhanvantu* \< *dhanv*
+- *dhanvantu* ← *dhanv*
 - \[verb\], plural, Present imperative
 - “run.”
 ------------------------------------------------------------------------
-- *somāḥ* \< *soma*
+- *somāḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *āyajyavaḥ* \< *āyajyu*
+- *āyajyavaḥ* ← *āyajyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *viśva*
+- *viśvavārā* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavārā* \< *vārāḥ* \< *vāra*
+- *viśvavārā* ← *vārāḥ* ← *vāra*
 - \[noun\], nominative, plural, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *hotāro* \< *hotāraḥ* \< *hotṛ*
+- *hotāro* ← *hotāraḥ* ← *hotṛ*
 - \[noun\], nominative, plural, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -57,9 +57,9 @@ title = "Rig Veda 9.97.26"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *diviyajo* \< *diviyajaḥ* \< *diviyaj*
+- *diviyajo* ← *diviyajaḥ* ← *diviyaj*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *mandratamāḥ* \< *mandratama*
+- *mandratamāḥ* ← *mandratama*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

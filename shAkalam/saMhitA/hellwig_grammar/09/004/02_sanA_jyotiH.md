@@ -2,16 +2,16 @@
 title = "Rig Veda 9.4.2"
 
 +++
--   *sanā* \< *sana* \< *san*
+-   *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *jyotiḥ* \< *jyotis*
+- *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *sanā* \< *sana* \< *san*
+- *sanā* ← *sana* ← *san*
 - \[verb\], singular, Aorist imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 9.4.2"
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -32,23 +32,23 @@ title = "Rig Veda 9.4.2"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *saubhagā* \< *saubhaga*
+- *saubhagā* ← *saubhaga*
 - \[noun\], accusative, plural, neuter
 - “well-being.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vasyasas* \< *vasyasaḥ* \< *vasyas*
+- *vasyasas* ← *vasyasaḥ* ← *vasyas*
 - \[noun\], accusative, plural, masculine
 - “better; rich.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

@@ -2,30 +2,30 @@
 title = "Rig Veda 1.97.7"
 
 +++
--   *dviṣo* \< *dviṣaḥ* \< *dviṣ*
+-   *dviṣo* ← *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvatomukhāti* \< *viśvatomukha*
+- *viśvatomukhāti* ← *viśvatomukha*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *viśvatomukhāti* \< *ati*
+- *viśvatomukhāti* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *nāveva* \< *nāvā* \< *nau*
+- *nāveva* ← *nāvā* ← *nau*
 - \[noun\], instrumental, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *nāveva* \< *iva*
+- *nāveva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *pāraya* \< *pāray* \< *√pṛ*
+- *pāraya* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present imperative
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
@@ -33,15 +33,15 @@ title = "Rig Veda 1.97.7"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śośucad* \< *śośucat* \< *śośuc* \< *√śuc*
+- *śośucad* ← *śośucat* ← *śośuc* ← *√śuc*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “blaze.”
 ------------------------------------------------------------------------
-- *agham* \< *agha*
+- *agham* ← *agha*
 - \[noun\], accusative, singular, neuter
 - “sin; evil; impurity; agha \[word\].”
 ------------------------------------------------------------------------

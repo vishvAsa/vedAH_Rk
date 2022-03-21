@@ -6,23 +6,23 @@ title = "Rig Veda 10.87.21"
 - \[adverb\]
 - “subsequently; westward; paścāt \[word\]; after; back.”
 ------------------------------------------------------------------------
-- *purastād* \< *purastāt*
+- *purastād* ← *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *adharād* \< *adharāt*
+- *adharād* ← *adharāt*
 - \[adverb\]
 - “below; south.”
 ------------------------------------------------------------------------
 - *udaktāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kaviḥ* \< *kavi*
+- *kaviḥ* ← *kavi*
 - \[noun\], nominative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *kāvyena* \< *kāvya*
+- *kāvyena* ← *kāvya*
 - \[noun\], instrumental, singular, neuter
 - “Uśanas; poem; Kāvya; wisdom.”
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ title = "Rig Veda 10.87.21"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
@@ -38,41 +38,41 @@ title = "Rig Veda 10.87.21"
 - \[noun\], vocative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *sakhe* \< *sakhi*
+- *sakhe* ← *sakhi*
 - \[noun\], vocative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sakhāyam* \< *sakhi*
+- *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *ajaro* \< *ajaraḥ* \< *ajara*
+- *ajaro* ← *ajaraḥ* ← *ajara*
 - \[noun\], nominative, singular, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *jarimṇe* \< *jariman*
+- *jarimṇe* ← *jariman*
 - \[noun\], dative, singular, masculine
 - “old age.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *martāṃ* \< *marta*
+- *martāṃ* ← *marta*
 - \[noun\], accusative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *amartyas* \< *amartyaḥ* \< *amartya*
+- *amartyas* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

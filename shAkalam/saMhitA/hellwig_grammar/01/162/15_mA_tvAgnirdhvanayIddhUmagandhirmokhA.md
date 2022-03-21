@@ -6,37 +6,37 @@ title = "Rig Veda 1.162.15"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvāgnir* \< *tvā* \< *tvad*
+- *tvāgnir* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāgnir* \< *agniḥ* \< *agni*
+- *tvāgnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *dhvanayīd* \< *dhvanayīt* \< *dhvanay* \< *√dhvan*
+- *dhvanayīd* ← *dhvanayīt* ← *dhvanay* ← *√dhvan*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *dhūmagandhir* \< *dhūma*
+- *dhūmagandhir* ← *dhūma*
 - \[noun\], masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *dhūmagandhir* \< *gandhiḥ* \< *gandhi*
+- *dhūmagandhir* ← *gandhiḥ* ← *gandhi*
 - \[noun\], nominative, singular, masculine
 - “redolent(p); odoriferous.”
 ------------------------------------------------------------------------
-- *mokhā* \< *mā*
+- *mokhā* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mokhā* \< *ukhā*
+- *mokhā* ← *ukhā*
 - \[noun\], nominative, singular, feminine
 - “kettle; ukhā \[word\].”
 ------------------------------------------------------------------------
-- *bhrājanty* \< *bhrājantī* \< *bhrāj*
+- *bhrājanty* ← *bhrājantī* ← *bhrāj*
 - \[verb noun\], nominative, singular
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
@@ -44,34 +44,34 @@ title = "Rig Veda 1.162.15"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vikta* \< *vij*
+- *vikta* ← *vij*
 - \[verb\], singular, Aorist inj. (proh.)
 - “flinch; bounce.”
 ------------------------------------------------------------------------
-- *jaghriḥ* \< *jaghri*
+- *jaghriḥ* ← *jaghri*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *iṣṭaṃ* \< *iṣṭam* \< *yaj*
+- *iṣṭaṃ* ← *iṣṭam* ← *yaj*
 - \[verb noun\], accusative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vītam* \< *vī*
+- *vītam* ← *vī*
 - \[verb noun\], accusative, singular
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *abhigūrtaṃ* \< *abhigūrtam* \< *abhigur* \< *√gur*
+- *abhigūrtaṃ* ← *abhigūrtam* ← *abhigur* ← *√gur*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *vaṣaṭkṛtaṃ* \< *vaṣaṭkṛtam* \< *vaṣaṭkṛ* \< *√kṛ*
+- *vaṣaṭkṛtaṃ* ← *vaṣaṭkṛtam* ← *vaṣaṭkṛ* ← *√kṛ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *devāsaḥ* \< *deva*
+- *devāsaḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -80,7 +80,7 @@ title = "Rig Veda 1.162.15"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *gṛbhṇanty* \< *gṛbhṇanti* \< *grah*
+- *gṛbhṇanty* ← *gṛbhṇanti* ← *grah*
 - \[verb\], plural, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -88,7 +88,7 @@ title = "Rig Veda 1.162.15"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *aśvam* \< *aśva*
+- *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

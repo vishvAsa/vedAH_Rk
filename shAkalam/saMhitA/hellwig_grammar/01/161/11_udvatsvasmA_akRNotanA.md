@@ -2,15 +2,15 @@
 title = "Rig Veda 1.161.11"
 
 +++
--   *udvatsv* \< *udvatsu* \< *udvat*
+-   *udvatsv* ← *udvatsu* ← *udvat*
 - \[noun\], locative, plural, feminine
 - “altitude.”
 ------------------------------------------------------------------------
-- *asmā* \< *asmai* \< *idam*
+- *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *akṛṇotanā* \< *akṛṇotana* \< *kṛ*
+- *akṛṇotanā* ← *akṛṇotana* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,67 +21,67 @@ title = "Rig Veda 1.161.11"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tṛṇaṃ* \< *tṛṇam* \< *tṛṇa*
+- *tṛṇaṃ* ← *tṛṇam* ← *tṛṇa*
 - \[noun\], accusative, singular, neuter
 - “grass; tṛṇa \[word\]; herb.”
 ------------------------------------------------------------------------
-- *nivatsv* \< *nivatsu* \< *nivat*
+- *nivatsv* ← *nivatsu* ← *nivat*
 - \[noun\], locative, plural, feminine
 - “depth.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *svapasyayā* \< *svapasyā*
+- *svapasyayā* ← *svapasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *agohyasya* \< *agohya*
+- *agohyasya* ← *agohya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asastanā* \< *asastana* \< *sas*
+- *asastanā* ← *asastana* ← *sas*
 - \[verb\], plural, Imperfect
 - “sleep.”
 ------------------------------------------------------------------------
-- *gṛhe* \< *gṛha*
+- *gṛhe* ← *gṛha*
 - \[noun\], locative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *adyedam* \< *adyā* \< *adya*
+- *adyedam* ← *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyedam* \< *idam*
+- *adyedam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *nānu* \< *na*
+- *nānu* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nānu* \< *anu*
+- *nānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *gacchatha* \< *gam*
+- *gacchatha* ← *gam*
 - \[verb\], plural, Present indikative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

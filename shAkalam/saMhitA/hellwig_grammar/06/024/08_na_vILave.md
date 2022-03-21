@@ -6,11 +6,11 @@ title = "Rig Veda 6.24.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vīﾱave* \< *vīḍu*
+- *vīﾱave* ← *vīḍu*
 - \[noun\], dative, singular, masculine
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *namate* \< *nam*
+- *namate* ← *nam*
 - \[verb\], singular, Present indikative
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 6.24.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sthirāya* \< *sthira*
+- *sthirāya* ← *sthira*
 - \[noun\], dative, singular, masculine
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
@@ -28,60 +28,60 @@ title = "Rig Veda 6.24.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śardhate* \< *śṛdh*
+- *śardhate* ← *śṛdh*
 - \[verb noun\], dative, singular
 ------------------------------------------------------------------------
-- *dasyujūtāya* \< *dasyu*
+- *dasyujūtāya* ← *dasyu*
 - \[noun\], masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *dasyujūtāya* \< *jūtāya* \< *jū*
+- *dasyujūtāya* ← *jūtāya* ← *jū*
 - \[verb noun\], dative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *stavān* \< *stavat*
+- *stavān* ← *stavat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ajrā* \< *ajrāḥ* \< *ajra*
+- *ajrā* ← *ajrāḥ* ← *ajra*
 - \[noun\], nominative, plural, masculine
 - “plain.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *girayaś* \< *girayaḥ* \< *giri*
+- *girayaś* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ṛṣvā* \< *ṛṣvāḥ* \< *ṛṣva*
+- *ṛṣvā* ← *ṛṣvāḥ* ← *ṛṣva*
 - \[noun\], nominative, plural, masculine
 - “distinguished; high; noble; enormous.”
 ------------------------------------------------------------------------
-- *gambhīre* \< *gambhīra*
+- *gambhīre* ← *gambhīra*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[noun\], nominative, singular, feminine
 - “supreme spirit; cit \[word\]; soul.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *gādham* \< *gādha*
+- *gādham* ← *gādha*
 - \[noun\], nominative, singular, neuter
 - “ford.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

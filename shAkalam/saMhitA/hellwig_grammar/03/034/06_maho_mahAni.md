@@ -2,27 +2,27 @@
 title = "Rig Veda 3.34.6"
 
 +++
--   *maho* \< *mahaḥ* \< *mah*
+-   *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *mahāni* \< *maha*
+- *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *panayanty* \< *panayanti* \< *panay* \< *√pan*
+- *panayanty* ← *panayanti* ← *panay* ← *√pan*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *asyendrasya* \< *asya* \< *idam*
+- *asyendrasya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyendrasya* \< *indrasya* \< *indra*
+- *asyendrasya* ← *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *karma* \< *karman*
+- *karma* ← *karman*
 - \[noun\], nominative, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -30,11 +30,11 @@ title = "Rig Veda 3.34.6"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *su*
+- *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *kṛtā* \< *kṛ*
+- *sukṛtā* ← *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -45,15 +45,15 @@ title = "Rig Veda 3.34.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *purūṇi* \< *puru*
+- *purūṇi* ← *puru*
 - \[noun\], nominative, plural, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *vṛjanena* \< *vṛjana*
+- *vṛjanena* ← *vṛjana*
 - \[noun\], instrumental, singular, neuter
 - “community; settlement.”
 ------------------------------------------------------------------------
-- *vṛjinān* \< *vṛjina*
+- *vṛjinān* ← *vṛjina*
 - \[noun\], accusative, plural, masculine
 - “deceitful; crooked; bent.”
 ------------------------------------------------------------------------
@@ -61,24 +61,24 @@ title = "Rig Veda 3.34.6"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *pipeṣa* \< *piṣ*
+- *pipeṣa* ← *piṣ*
 - \[verb\], singular, Perfect indicative
 - “grind; knead; paste; crush; press out.”
 ------------------------------------------------------------------------
-- *māyābhir* \< *māyābhiḥ* \< *māyā*
+- *māyābhir* ← *māyābhiḥ* ← *māyā*
 - \[noun\], instrumental, plural, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”
 ------------------------------------------------------------------------
-- *dasyūṃr* \< *dasyu*
+- *dasyūṃr* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *abhibhūtyojāḥ* \< *abhibhūti*
+- *abhibhūtyojāḥ* ← *abhibhūti*
 - \[noun\]
 - “superior; overpowering.”
 ------------------------------------------------------------------------
-- *abhibhūtyojāḥ* \< *ojāḥ* \< *ojas*
+- *abhibhūtyojāḥ* ← *ojāḥ* ← *ojas*
 - \[noun\], nominative, singular, masculine
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------

@@ -6,15 +6,15 @@ title = "Rig Veda 8.78.6"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *martyānām* \< *martya*
+- *martyānām* ← *martya*
 - \[noun\], genitive, plural, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *adabdho* \< *adabdhaḥ* \< *adabdha*
+- *adabdho* ← *adabdhaḥ* ← *adabdha*
 - \[noun\], nominative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
@@ -22,17 +22,17 @@ title = "Rig Veda 8.78.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *cikīṣate* \< *cikīṣ* \< *√ci*
+- *cikīṣate* ← *cikīṣ* ← *√ci*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *nidaś* \< *nidaḥ* \< *nid*
+- *nidaś* ← *nidaḥ* ← *nid*
 - \[noun\], ablative, singular, feminine
 - “derision; scoffer; contempt.”
 ------------------------------------------------------------------------
-- *cikīṣate* \< *cikīṣ* \< *√ci*
+- *cikīṣate* ← *cikīṣ* ← *√ci*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

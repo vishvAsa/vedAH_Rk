@@ -2,13 +2,13 @@
 title = "Rig Veda 8.25.21"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -17,7 +17,7 @@ title = "Rig Veda 8.25.21"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ubhe* \< *ubh*
+- *ubhe* ← *ubh*
 - \[noun\], accusative, dual, feminine
 - “both(a).”
 ------------------------------------------------------------------------
@@ -25,7 +25,7 @@ title = "Rig Veda 8.25.21"
 - \[adverb\]
 - “in the evening.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
@@ -33,28 +33,28 @@ title = "Rig Veda 8.25.21"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruve* \< *brū*
+- *bruve* ← *brū*
 - \[verb\], singular, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *bhojeṣv* \< *bhojeṣu* \< *bhoja*
+- *bhojeṣv* ← *bhojeṣu* ← *bhoja*
 - \[noun\], locative, plural, masculine
 - “big; hospitable.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *uc* \< *ud*
+- *uc* ← *ud*
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *carā* \< *cara* \< *car*
+- *carā* ← *cara* ← *car*
 - \[verb\], singular, Present imperative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;

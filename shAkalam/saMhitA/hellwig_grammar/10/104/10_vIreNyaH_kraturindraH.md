@@ -2,32 +2,32 @@
 title = "Rig Veda 10.104.10"
 
 +++
--   *vīreṇyaḥ* \< *vīreṇya*
+-   *vīreṇyaḥ* ← *vīreṇya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kratur* \< *kratuḥ* \< *kratu*
+- *kratur* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *suśastir* \< *su*
+- *suśastir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśastir* \< *śastiḥ* \< *śasti*
+- *suśastir* ← *śastiḥ* ← *śasti*
 - \[noun\], nominative, singular, masculine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *utāpi* \< *uta*
+- *utāpi* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utāpi* \< *api*
+- *utāpi* ← *api*
 - \[adverb\]
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
@@ -36,15 +36,15 @@ title = "Rig Veda 10.104.10"
 - \[noun\], nominative, singular, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *puruhūta*
+- *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *īṭṭe* \< *īḍ*
+- *īṭṭe* ← *īḍ*
 - \[verb\], singular, Present indikative
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *ārdayad* \< *ārdayat* \< *arday* \< *√ṛd*
+- *ārdayad* ← *ārdayat* ← *arday* ← *√ṛd*
 - \[verb\], singular, Imperfect
 - “afflict; afflict; affect; distress; torment; impel; grind; suffer.”
 ------------------------------------------------------------------------

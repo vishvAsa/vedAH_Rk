@@ -2,13 +2,13 @@
 title = "Rig Veda 10.45.8"
 
 +++
--   *dṛśāno* \< *dṛśānaḥ* \< *dṛś*
+-   *dṛśāno* ← *dṛśānaḥ* ← *dṛś*
 - \[verb noun\], nominative, singular
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *rukma* \< *rukmaḥ* \< *rukma*
+- *rukma* ← *rukmaḥ* ← *rukma*
 - \[noun\], nominative, singular, masculine
 - “adornment.”
 ------------------------------------------------------------------------
@@ -16,38 +16,38 @@ title = "Rig Veda 10.45.8"
 - \[adverb\]
 - “wide; widely.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *adyaud* \< *adyaut* \< *dyut*
+- *adyaud* ← *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *durmarṣam* \< *durmarṣa*
+- *durmarṣam* ← *durmarṣa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *āyuḥ* \< *āyus*
+- *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *śriye* \< *śrī*
+- *śriye* ← *śrī*
 - \[noun\], dative, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
     \[word\]; śrī; prosperity; auspiciousness.”
 ------------------------------------------------------------------------
-- *rucānaḥ* \< *ruc*
+- *rucānaḥ* ← *ruc*
 - \[verb noun\], nominative, singular
 - “please; shine.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- *amṛto* ← *amṛtaḥ* \< *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------

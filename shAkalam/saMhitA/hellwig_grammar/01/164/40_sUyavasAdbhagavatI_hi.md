@@ -2,15 +2,15 @@
 title = "Rig Veda 1.164.40"
 
 +++
--   *sūyavasād* \< *su*
+-   *sūyavasād* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sūyavasād* \< *yavasāt* \< *yavasa*
+- *sūyavasād* ← *yavasāt* ← *yavasa*
 - \[noun\], ablative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *bhagavatī* \< *bhagavat*
+- *bhagavatī* ← *bhagavat*
 - \[noun\], nominative, singular, feminine
 - “honorable; divine; fortunate; holy; adorable; happy; august;
     favored.”
@@ -19,7 +19,7 @@ title = "Rig Veda 1.164.40"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *bhūyā* \< *bhūyāḥ* \< *bhū*
+- *bhūyā* ← *bhūyāḥ* ← *bhū*
 - \[verb\], singular, Prekativ
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -30,29 +30,29 @@ title = "Rig Veda 1.164.40"
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhagavantaḥ* \< *bhagavat*
+- *bhagavantaḥ* ← *bhagavat*
 - \[noun\], nominative, plural, masculine
 - “honorable; divine; fortunate; holy; adorable; happy; august;
     favored.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *addhi* \< *ad*
+- *addhi* ← *ad*
 - \[verb\], singular, Present imperative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *tṛṇam* \< *tṛṇa*
+- *tṛṇam* ← *tṛṇa*
 - \[noun\], accusative, singular, neuter
 - “grass; tṛṇa \[word\]; herb.”
 ------------------------------------------------------------------------
-- *aghnye* \< *aghnyā*
+- *aghnye* ← *aghnyā*
 - \[noun\], vocative, singular, feminine
 - “cow.”
 ------------------------------------------------------------------------
@@ -60,20 +60,20 @@ title = "Rig Veda 1.164.40"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *śuddham* \< *śudh*
+- *śuddham* ← *śudh*
 - \[verb noun\], accusative, singular
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *udakam* \< *udaka*
+- *udakam* ← *udaka*
 - \[noun\], accusative, singular, neuter
 - “water; Udaka; juice; body of water; solution; udaka \[word\];
     decoction; udakaprameha; washing water; kaṣāya; tear; ablution.”
 ------------------------------------------------------------------------
-- *ācarantī* \< *ācar* \< *√car*
+- *ācarantī* ← *ācar* ← *√car*
 - \[verb noun\], nominative, singular
 - “perform; prowl; administer; make; frequent; treat; cause; approach;
     heed; treat; act; produce; behave; put on; do; undertake.”

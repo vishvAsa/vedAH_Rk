@@ -2,20 +2,20 @@
 title = "Rig Veda 5.77.1"
 
 +++
--   *prātaryāvāṇā* \< *prātar*
+-   *prātaryāvāṇā* ← *prātar*
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *prātaryāvāṇā* \< *yāvāṇā* \< *yāvan*
+- *prātaryāvāṇā* ← *yāvāṇā* ← *yāvan*
 - \[noun\], accusative, dual, masculine
 - “traveler.”
 ------------------------------------------------------------------------
-- *prathamā* \< *prathama*
+- *prathamā* ← *prathama*
 - \[noun\], accusative, dual, masculine
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *yajadhvam* \< *yaj*
+- *yajadhvam* ← *yaj*
 - \[verb\], plural, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 5.77.1"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *gṛdhrād* \< *gṛdhrāt* \< *gṛdhra*
+- *gṛdhrād* ← *gṛdhrāt* ← *gṛdhra*
 - \[noun\], ablative, singular, masculine
 - “vulture.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *a*
+- *araruṣaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *araruṣaḥ* \< *raruṣaḥ* \< *rā*
+- *araruṣaḥ* ← *raruṣaḥ* ← *rā*
 - \[verb noun\], ablative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
-- *pibātaḥ* \< *pā*
+- *pibātaḥ* ← *pā*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -47,15 +47,15 @@ title = "Rig Veda 5.77.1"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *dadhāte* \< *dhā*
+- *dadhāte* ← *dhā*
 - \[verb\], dual, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -64,16 +64,16 @@ title = "Rig Veda 5.77.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *śaṃsanti* \< *śaṃs*
+- *śaṃsanti* ← *śaṃs*
 - \[verb\], plural, Present indikative
 - “recommend; tell; praise; approve; communicate; recite; commend;
     bode; name; agree.”
 ------------------------------------------------------------------------
-- *kavayaḥ* \< *kavi*
+- *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *pūrvabhājaḥ* \< *pūrvabhāj*
+- *pūrvabhājaḥ* ← *pūrvabhāj*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------

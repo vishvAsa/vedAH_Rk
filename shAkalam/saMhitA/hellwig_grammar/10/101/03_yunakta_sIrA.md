@@ -2,7 +2,7 @@
 title = "Rig Veda 10.101.3"
 
 +++
--   *yunakta* \< *yuj*
+-   *yunakta* ← *yuj*
 - \[verb\], plural, Present imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,7 +10,7 @@ title = "Rig Veda 10.101.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *sīrā* \< *sīra*
+- *sīrā* ← *sīra*
 - \[noun\], accusative, plural, neuter
 - “sīra \[word\]; plow.”
 ------------------------------------------------------------------------
@@ -18,17 +18,17 @@ title = "Rig Veda 10.101.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yugā* \< *yuga*
+- *yugā* ← *yuga*
 - \[noun\], accusative, plural, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *tanudhvaṃ* \< *tanudhvam* \< *tan*
+- *tanudhvaṃ* ← *tanudhvam* ← *tan*
 - \[verb\], plural, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *kṛte* \< *kṛ*
+- *kṛte* ← *kṛ*
 - \[verb noun\], locative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,26 +39,26 @@ title = "Rig Veda 10.101.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, masculine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *vapateha* \< *vapata* \< *vap*
+- *vapateha* ← *vapata* ← *vap*
 - \[verb\], plural, Present imperative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------
-- *vapateha* \< *iha*
+- *vapateha* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *bījam* \< *bīja*
+- *bījam* ← *bīja*
 - \[noun\], accusative, singular, neuter
 - “bīja; seed; semen; bīja; beginning; menorrhea; bīja \[word\];
     footing; cause; origin; method; bead.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -67,40 +67,40 @@ title = "Rig Veda 10.101.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *śruṣṭiḥ* \< *śruṣṭi*
+- *śruṣṭiḥ* ← *śruṣṭi*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *sabharā* \< *sabharāḥ* \< *sabharas*
+- *sabharā* ← *sabharāḥ* ← *sabharas*
 - \[noun\], nominative, singular, feminine
 - “commensurate.”
 ------------------------------------------------------------------------
-- *asan* \< *asat* \< *as*
+- *asan* ← *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nedīya* \< *nedīyaḥ* \< *nedīyas*
+- *nedīya* ← *nedīyaḥ* ← *nedīyas*
 - \[noun\], nominative, singular, neuter
 - “nearer; nedīyas \[word\]; near.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sṛṇyaḥ* \< *sṛṇi*
+- *sṛṇyaḥ* ← *sṛṇi*
 - \[noun\], accusative, plural, feminine
 - “sickle.”
 ------------------------------------------------------------------------
-- *pakvam* \< *pakva*
+- *pakvam* ← *pakva*
 - \[noun\], nominative, singular, neuter
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”
 ------------------------------------------------------------------------
-- *eyāt* \< *e* \< *√i*
+- *eyāt* ← *e* ← *√i*
 - \[verb\], singular, Present optative
 - “come; travel.”
 ------------------------------------------------------------------------

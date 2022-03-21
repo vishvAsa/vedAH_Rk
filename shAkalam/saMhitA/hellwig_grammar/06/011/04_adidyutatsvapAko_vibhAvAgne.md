@@ -2,80 +2,80 @@
 title = "Rig Veda 6.11.4"
 
 +++
--   *adidyutat* \< *dyut*
+-   *adidyutat* ← *dyut*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------
-- *sv* \< *su*
+- *sv* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *apāko* \< *apākaḥ* \< *apāka*
+- *apāko* ← *apākaḥ* ← *apāka*
 - \[noun\], nominative, singular, masculine
 - “unfestering.”
 ------------------------------------------------------------------------
-- *vibhāvāgne* \< *vibhāvā* \< *vibhāvan*
+- *vibhāvāgne* ← *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *vibhāvāgne* \< *agne* \< *agni*
+- *vibhāvāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yajasva* \< *yaj*
+- *yajasva* ← *yaj*
 - \[verb\], singular, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *urūcī* \< *uruvyañc*
+- *urūcī* ← *uruvyañc*
 - \[noun\], accusative, dual, neuter
 - “extensive; wide.”
 ------------------------------------------------------------------------
-- *āyuṃ* \< *āyum* \< *āyu*
+- *āyuṃ* ← *āyum* ← *āyu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *rātahavyā* \< *rāta* \< *rā*
+- *rātahavyā* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavyā* \< *havyāḥ* \< *havya*
+- *rātahavyā* ← *havyāḥ* ← *havya*
 - \[noun\], nominative, plural, masculine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *añjanti* \< *añj*
+- *añjanti* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *suprayasam* \< *su*
+- *suprayasam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprayasam* \< *prayasam* \< *prayas*
+- *suprayasam* ← *prayasam* ← *prayas*
 - \[noun\], accusative, singular, masculine
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], nominative, plural, masculine
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *janāḥ* \< *jana*
+- *janāḥ* ← *jana*
 - \[noun\], nominative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

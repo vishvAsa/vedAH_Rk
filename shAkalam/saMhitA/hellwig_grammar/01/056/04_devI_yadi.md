@@ -2,7 +2,7 @@
 title = "Rig Veda 1.56.4"
 
 +++
--   *devī* \< *deva*
+-   *devī* ← *deva*
 - \[noun\], nominative, singular, feminine
 - “divine.”
 ------------------------------------------------------------------------
@@ -14,23 +14,23 @@ title = "Rig Veda 1.56.4"
 - \[noun\], nominative, singular, feminine
 - “strength; power.”
 ------------------------------------------------------------------------
-- *tvāvṛdhotaya* \< *tvāvṛdhā* \< *tvāvṛdha*
+- *tvāvṛdhotaya* ← *tvāvṛdhā* ← *tvāvṛdha*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tvāvṛdhotaya* \< *ūtaye* \< *ūti*
+- *tvāvṛdhotaya* ← *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *siṣakty* \< *siṣakti* \< *sac*
+- *siṣakty* ← *siṣakti* ← *sac*
 - \[verb\], singular, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *uṣasaṃ* \< *uṣasam* \< *uṣas*
+- *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
@@ -38,46 +38,46 @@ title = "Rig Veda 1.56.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhṛṣṇunā* \< *dhṛṣṇu*
+- *dhṛṣṇunā* ← *dhṛṣṇu*
 - \[noun\], instrumental, singular, neuter
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *bādhate* \< *bādh*
+- *bādhate* ← *bādh*
 - \[verb\], singular, Present indikative
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *tama* \< *tamaḥ* \< *tamas*
+- *tama* ← *tamaḥ* ← *tamas*
 - \[noun\], accusative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *reṇum* \< *reṇu*
+- *reṇum* ← *reṇu*
 - \[noun\], accusative, singular, masculine
 - “dust; pollen; powder.”
 ------------------------------------------------------------------------
-- *bṛhad* \< *bṛhat*
+- *bṛhad* ← *bṛhat*
 - \[noun\], accusative, singular, neuter
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *arhariṣvaṇiḥ* \< *arhariṣvaṇi*
+- *arhariṣvaṇiḥ* ← *arhariṣvaṇi*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

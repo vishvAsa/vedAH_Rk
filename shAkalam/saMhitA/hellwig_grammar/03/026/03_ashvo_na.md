@@ -2,7 +2,7 @@
 title = "Rig Veda 3.26.3"
 
 +++
--   *aśvo* \< *aśvaḥ* \< *aśva*
+-   *aśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 3.26.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *krandañ* \< *krandan* \< *krand*
+- *krandañ* ← *krandan* ← *krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *janibhiḥ* \< *jani*
+- *janibhiḥ* ← *jani*
 - \[noun\], instrumental, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -22,35 +22,35 @@ title = "Rig Veda 3.26.3"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhyate* \< *indh*
+- *idhyate* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *vaiśvānaraḥ* \< *vaiśvānara*
+- *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *kuśikebhir* \< *kuśikebhiḥ* \< *kuśika*
+- *kuśikebhir* ← *kuśikebhiḥ* ← *kuśika*
 - \[noun\], instrumental, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *yuge* \< *yuga*
+- *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *yuge* \< *yuga*
+- *yuge* ← *yuga*
 - \[noun\], locative, singular, neuter
 - “Yuga; yoke; couple; coevals; generation; lustrum; two; pair; yuga
     \[word\]; Yuga; race.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -6,19 +6,19 @@ title = "Rig Veda 7.62.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bāhavā* \< *bāhu*
+- *bāhavā* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *sisṛtaṃ* \< *sisṛtam* \< *sṛ*
+- *sisṛtaṃ* ← *sisṛtam* ← *sṛ*
 - \[verb\], dual, Present imperative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 7.62.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gavyūtim* \< *gavyūti*
+- *gavyūtim* ← *gavyūti*
 - \[noun\], accusative, singular, feminine
 - “pasture.”
 ------------------------------------------------------------------------
-- *ukṣataṃ* \< *ukṣatam* \< *ukṣ*
+- *ukṣataṃ* ← *ukṣatam* ← *ukṣ*
 - \[verb\], dual, Present imperative
 - “sprinkle; wet.”
 ------------------------------------------------------------------------
-- *ghṛtena* \< *ghṛta*
+- *ghṛtena* ← *ghṛta*
 - \[noun\], instrumental, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
@@ -46,40 +46,40 @@ title = "Rig Veda 7.62.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *śravayataṃ* \< *śravayatam* \< *śravay* \< *√śru*
+- *śravayataṃ* ← *śravayatam* ← *śravay* ← *√śru*
 - \[verb\], dual, Present imperative
 ------------------------------------------------------------------------
-- *yuvānā* \< *yuvan*
+- *yuvānā* ← *yuvan*
 - \[noun\], vocative, dual, masculine
 - “young person; yuvan \[word\]; taruṇabandha; yuvan; yuvan; young
     buck; young.”
 ------------------------------------------------------------------------
-- *śrutam* \< *śru*
+- *śrutam* ← *śru*
 - \[verb\], dual, Aorist inj. (proh.)
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *havemā* \< *havā* \< *hava*
+- *havemā* ← *havā* ← *hava*
 - \[noun\], accusative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *havemā* \< *imā* \< *idam*
+- *havemā* ← *imā* ← *idam*
 - \[noun\], accusative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

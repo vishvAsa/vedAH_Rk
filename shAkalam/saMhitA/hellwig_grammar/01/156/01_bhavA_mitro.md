@@ -2,14 +2,14 @@
 title = "Rig Veda 1.156.1"
 
 +++
--   *bhavā* \< *bhava* \< *bhū*
+-   *bhavā* ← *bhava* ← *bhū*
 - \[verb\], singular, Present imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
@@ -17,29 +17,29 @@ title = "Rig Veda 1.156.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śevyo* \< *śevyaḥ* \< *śevya*
+- *śevyo* ← *śevyaḥ* ← *śevya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *ghṛtāsutir* \< *ghṛta*
+- *ghṛtāsutir* ← *ghṛta*
 - \[noun\], neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------
-- *ghṛtāsutir* \< *āsutiḥ* \< *āsuti*
+- *ghṛtāsutir* ← *āsutiḥ* ← *āsuti*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vibhūtadyumna* \< *vibhūta* \< *vibhū* \< *√bhū*
+- *vibhūtadyumna* ← *vibhūta* ← *vibhū* ← *√bhū*
 - \[verb noun\]
 - “appear; expand; develop.”
 ------------------------------------------------------------------------
-- *vibhūtadyumna* \< *dyumnaḥ* \< *dyumna*
+- *vibhūtadyumna* ← *dyumnaḥ* ← *dyumna*
 - \[noun\], nominative, singular, masculine
 - “magnificence.”
 ------------------------------------------------------------------------
-- *evayā* \< *eva*
+- *evayā* ← *eva*
 - \[noun\]
 - “fast; rapid; agile.”
 ------------------------------------------------------------------------
-- *evayā* \< *yāḥ* \< *yā*
+- *evayā* ← *yāḥ* ← *yā*
 - \[noun\], nominative, singular, masculine
 - “going.”
 ------------------------------------------------------------------------
@@ -47,40 +47,40 @@ title = "Rig Veda 1.156.1"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *saprathāḥ* \< *saprathas*
+- *saprathāḥ* ← *saprathas*
 - \[noun\], nominative, singular, masculine
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viṣṇo* \< *viṣṇu*
+- *viṣṇo* ← *viṣṇu*
 - \[noun\], vocative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *viduṣā* \< *vid*
+- *viduṣā* ← *vid*
 - \[verb noun\], instrumental, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ardhya* \< *ṛdh*
+- *ardhya* ← *ṛdh*
 - \[verb noun\], vocative, singular
 - “boom; stick to.”
 ------------------------------------------------------------------------
-- *stomo* \< *stomaḥ* \< *stoma*
+- *stomo* ← *stomaḥ* ← *stoma*
 - \[noun\], nominative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *yajñaś* \< *yajñaḥ* \< *yajña*
+- *yajñaś* ← *yajñaḥ* ← *yajña*
 - \[noun\], nominative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -88,11 +88,11 @@ title = "Rig Veda 1.156.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rādhyo* \< *rādhyaḥ* \< *rādh*
+- *rādhyo* ← *rādhyaḥ* ← *rādh*
 - \[verb noun\], nominative, singular
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *haviṣmatā* \< *haviṣmat*
+- *haviṣmatā* ← *haviṣmat*
 - \[noun\], instrumental, singular, masculine
 - “sacrificing.”
 ------------------------------------------------------------------------

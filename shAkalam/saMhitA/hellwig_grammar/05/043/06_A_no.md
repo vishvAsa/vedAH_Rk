@@ -6,42 +6,42 @@ title = "Rig Veda 5.43.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahīm* \< *mah*
+- *mahīm* ← *mah*
 - \[noun\], accusative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *aramatiṃ* \< *aramatim* \< *aramati*
+- *aramatiṃ* ← *aramatim* ← *aramati*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *sajoṣā* \< *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣā* ← *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *gnāṃ* \< *gnām* \< *gnā*
+- *gnāṃ* ← *gnām* ← *gnā*
 - \[noun\], accusative, singular, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *devīṃ* \< *devīm* \< *deva*
+- *devīṃ* ← *devīm* ← *deva*
 - \[noun\], accusative, singular, feminine
 - “divine.”
 ------------------------------------------------------------------------
-- *namasā* \< *namas*
+- *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *rātahavyām* \< *rāta* \< *rā*
+- *rātahavyām* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavyām* \< *havyām* \< *havya*
+- *rātahavyām* ← *havyām* ← *havya*
 - \[noun\], accusative, singular, feminine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *madhor* \< *madhoḥ* \< *madhu*
+- *madhor* ← *madhoḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------

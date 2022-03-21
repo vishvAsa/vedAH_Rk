@@ -2,69 +2,69 @@
 title = "Rig Veda 1.58.7"
 
 +++
--   *hotāraṃ* \< *hotāram* \< *hotṛ*
+-   *hotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *juhvo* \< *juhvaḥ* \< *juhū*
+- *juhvo* ← *juhvaḥ* ← *juhū*
 - \[noun\], accusative, plural, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *yajiṣṭhaṃ* \< *yajiṣṭham* \< *yajiṣṭha*
+- *yajiṣṭhaṃ* ← *yajiṣṭham* ← *yajiṣṭha*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāghato* \< *vāghataḥ* \< *vāghant*
+- *vāghato* ← *vāghataḥ* ← *vāghant*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vṛṇate* \< *vṛ*
+- *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *adhvareṣu* \< *adhvara*
+- *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *viśveṣām* \< *viśva*
+- *viśveṣām* ← *viśva*
 - \[noun\], genitive, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *aratiṃ* \< *aratim* \< *arati*
+- *aratiṃ* ← *aratim* ← *arati*
 - \[noun\], accusative, singular, masculine
 - “charioteer.”
 ------------------------------------------------------------------------
-- *vasūnāṃ* \< *vasūnām* \< *vasu*
+- *vasūnāṃ* ← *vasūnām* ← *vasu*
 - \[noun\], genitive, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *saparyāmi* \< *sapary*
+- *saparyāmi* ← *sapary*
 - \[verb\], singular, Present indikative
 - “worship.”
 ------------------------------------------------------------------------
-- *prayasā* \< *prayas*
+- *prayasā* ← *prayas*
 - \[noun\], instrumental, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
-- *yāmi* \< *yā*
+- *yāmi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *ratnam* \< *ratna*
+- *ratnam* ← *ratna*
 - \[noun\], accusative, singular, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”

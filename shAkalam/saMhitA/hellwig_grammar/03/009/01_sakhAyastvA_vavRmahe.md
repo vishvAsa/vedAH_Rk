@@ -2,59 +2,59 @@
 title = "Rig Veda 3.9.1"
 
 +++
--   *sakhāyas* \< *sakhāyaḥ* \< *sakhi*
+-   *sakhāyas* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vavṛmahe* \< *vṛ*
+- *vavṛmahe* ← *vṛ*
 - \[verb\], plural, Perfect indicative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *martāsa* \< *martāsaḥ* \< *marta*
+- *martāsa* ← *martāsaḥ* ← *marta*
 - \[noun\], nominative, plural, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *napātaṃ* \< *napātam* \< *napāt*
+- *napātaṃ* ← *napātam* ← *napāt*
 - \[noun\], accusative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *subhagaṃ* \< *subhagam* \< *subhaga*
+- *subhagaṃ* ← *subhagam* ← *subhaga*
 - \[noun\], accusative, singular, masculine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *sudīditiṃ* \< *su*
+- *sudīditiṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudīditiṃ* \< *dīditim* \< *dīditi*
+- *sudīditiṃ* ← *dīditim* ← *dīditi*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *supratūrtim* \< *su*
+- *supratūrtim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratūrtim* \< *pratūrtim* \< *pratūrti*
+- *supratūrtim* ← *pratūrtim* ← *pratūrti*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *anehasam* \< *anehas*
+- *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------

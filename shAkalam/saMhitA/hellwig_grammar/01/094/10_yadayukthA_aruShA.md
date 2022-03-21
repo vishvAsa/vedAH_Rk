@@ -2,11 +2,11 @@
 title = "Rig Veda 1.94.10"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ayukthā* \< *ayukthāḥ* \< *yuj*
+- *ayukthā* ← *ayukthāḥ* ← *yuj*
 - \[verb\], singular, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -14,72 +14,72 @@ title = "Rig Veda 1.94.10"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *aruṣā* \< *aruṣa*
+- *aruṣā* ← *aruṣa*
 - \[noun\], accusative, dual, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *rohitā* \< *rohita*
+- *rohitā* ← *rohita*
 - \[noun\], accusative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *rathe* \< *ratha*
+- *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vātajūtā* \< *vāta*
+- *vātajūtā* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātajūtā* \< *jūtā* \< *jū*
+- *vātajūtā* ← *jūtā* ← *jū*
 - \[verb noun\], accusative, dual
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *vṛṣabhasyeva* \< *vṛṣabhasya* \< *vṛṣabha*
+- *vṛṣabhasyeva* ← *vṛṣabhasya* ← *vṛṣabha*
 - \[noun\], genitive, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *vṛṣabhasyeva* \< *iva*
+- *vṛṣabhasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ravaḥ* \< *rava*
+- *ravaḥ* ← *rava*
 - \[noun\], nominative, singular, masculine
 - “sound; howl; thunder; cry; talk; cry.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *invasi* \< *inv*
+- *invasi* ← *inv*
 - \[verb\], singular, Present indikative
 - “bring; drive.”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], accusative, plural, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *dhūmaketunāgne* \< *dhūma*
+- *dhūmaketunāgne* ← *dhūma*
 - \[noun\], masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *dhūmaketunāgne* \< *ketunā* \< *ketu*
+- *dhūmaketunāgne* ← *ketunā* ← *ketu*
 - \[noun\], instrumental, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *dhūmaketunāgne* \< *agne* \< *agni*
+- *dhūmaketunāgne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -87,15 +87,15 @@ title = "Rig Veda 1.94.10"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣāmā* \< *riṣ*
+- *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

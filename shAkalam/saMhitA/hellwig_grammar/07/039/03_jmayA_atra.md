@@ -2,10 +2,10 @@
 title = "Rig Veda 7.39.3"
 
 +++
--   *jmayā* \< *jma* \< *jman*
+-   *jmayā* ← *jma* ← *jman*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *jmayā* \< *yāḥ* \< *yā*
+- *jmayā* ← *yāḥ* ← *yā*
 - \[noun\], nominative, plural, masculine
 - “going.”
 ------------------------------------------------------------------------
@@ -14,31 +14,31 @@ title = "Rig Veda 7.39.3"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], nominative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *ranta* \< *ram*
+- *ranta* ← *ram*
 - \[verb\], singular, Root aorist (Ind.)
 - “delight; rejoice; love; frolic; desire; give; calm; break.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *urāv* \< *urau* \< *uru*
+- *urāv* ← *urau* ← *uru*
 - \[noun\], locative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *antarikṣe* \< *antarikṣa*
+- *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *marjayanta* \< *marjay* \< *√mṛj*
+- *marjayanta* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *śubhrāḥ* \< *śubhra*
+- *śubhrāḥ* ← *śubhra*
 - \[noun\], nominative, plural, masculine
 - “white; beautiful; attractive; śubhra \[word\]; light.”
 ------------------------------------------------------------------------
@@ -46,19 +46,19 @@ title = "Rig Veda 7.39.3"
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *patha* \< *pathaḥ* \< *pathin*
+- *patha* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *urujrayaḥ* \< *uru*
+- *urujrayaḥ* ← *uru*
 - \[noun\]
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *urujrayaḥ* \< *jrayaḥ* \< *jrayas*
+- *urujrayaḥ* ← *jrayaḥ* ← *jrayas*
 - \[noun\], accusative, singular, neuter
 - “expanse; area.”
 ------------------------------------------------------------------------
-- *kṛṇudhvaṃ* \< *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvaṃ* ← *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -69,26 +69,26 @@ title = "Rig Veda 7.39.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *śrotā* \< *śrota* \< *śru*
+- *śrotā* ← *śrota* ← *śru*
 - \[verb\], plural, Aorist imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *dūtasya* \< *dūta*
+- *dūtasya* ← *dūta*
 - \[noun\], genitive, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *jagmuṣo* \< *jagmuṣaḥ* \< *gam*
+- *jagmuṣo* ← *jagmuṣaḥ* ← *gam*
 - \[verb noun\], genitive, singular
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

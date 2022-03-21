@@ -6,33 +6,33 @@ title = "Rig Veda 5.81.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *savitas* \< *savitar* \< *savitṛ*
+- *savitas* ← *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *rocanota* \< *rocanā* \< *rocana*
+- *rocanota* ← *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *rocanota* \< *uta*
+- *rocanota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
@@ -40,21 +40,21 @@ title = "Rig Veda 5.81.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ucyasi* \< *uc*
+- *ucyasi* ← *uc*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
 - *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *rātrīm* \< *rātri*
+- *rātrīm* ← *rātri*
 - \[noun\], accusative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *ubhayataḥ* \< *ubhayatas*
+- *ubhayataḥ* ← *ubhayatas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *parīyasa* \< *parīyase* \< *parī* \< *√i*
+- *parīyasa* ← *parīyase* ← *parī* ← *√i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “circumambulate; wander; revolve; overwhelm.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 5.81.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *bhavasi* \< *bhū*
+- *bhavasi* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -78,7 +78,7 @@ title = "Rig Veda 5.81.4"
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *dharmabhiḥ* \< *dharman*
+- *dharmabhiḥ* ← *dharman*
 - \[noun\], instrumental, plural, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------

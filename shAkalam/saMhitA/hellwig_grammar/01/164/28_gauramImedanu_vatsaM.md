@@ -2,12 +2,12 @@
 title = "Rig Veda 1.164.28"
 
 +++
--   *gaur* \< *gauḥ* \< *go*
+-   *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *amīmed* \< *amīmet* \< *mā*
+- *amīmed* ← *amīmet* ← *mā*
 - \[verb\], singular, Plusquamperfect
 - “moo; howl.”
 ------------------------------------------------------------------------
@@ -15,22 +15,22 @@ title = "Rig Veda 1.164.28"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vatsam* \< *vatsa*
+- *vatsam* ← *vatsa*
 - \[noun\], accusative, singular, masculine
 - “calf; child; Vatsa; vatsa \[word\]; juvenile; Vatsa; Vatsa; Vatsa;
     son; male child.”
 ------------------------------------------------------------------------
-- *miṣantam* \< *miṣ*
+- *miṣantam* ← *miṣ*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *mūrdhānaṃ* \< *mūrdhānam* \< *mūrdhan*
+- *mūrdhānaṃ* ← *mūrdhānam* ← *mūrdhan*
 - \[noun\], accusative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *hiṅṅ* \< *hiṃ*
+- *hiṅṅ* ← *hiṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *akṛṇon* \< *akṛṇot* \< *kṛ*
+- *akṛṇon* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -41,7 +41,7 @@ title = "Rig Veda 1.164.28"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mātavā* \< *mātavai* \< *mā*
+- *mātavā* ← *mātavai* ← *mā*
 - \[verb noun\]
 - “moo; howl.”
 ------------------------------------------------------------------------
@@ -49,10 +49,10 @@ title = "Rig Veda 1.164.28"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sṛkvāṇaṃ* \< *sṛkvāṇam* \< *sṛkvan*
+- *sṛkvāṇaṃ* ← *sṛkvāṇam* ← *sṛkvan*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gharmam* \< *gharma*
+- *gharmam* ← *gharma*
 - \[noun\], accusative, singular, masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
@@ -61,23 +61,23 @@ title = "Rig Veda 1.164.28"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vāvaśānā* \< *vaś*
+- *vāvaśānā* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *mimāti* \< *mā*
+- *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
 ------------------------------------------------------------------------
-- *māyum* \< *māyu*
+- *māyum* ← *māyu*
 - \[noun\], accusative, singular, masculine
 - “moo; boom.”
 ------------------------------------------------------------------------
-- *payate* \< *pyā*
+- *payate* ← *pyā*
 - \[verb\], singular, Present indikative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *payobhiḥ* \< *payas*
+- *payobhiḥ* ← *payas*
 - \[noun\], instrumental, plural, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------

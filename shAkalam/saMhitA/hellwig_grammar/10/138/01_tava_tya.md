@@ -2,11 +2,11 @@
 title = "Rig Veda 10.138.1"
 
 +++
--   *tava* \< *tvad*
+-   *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tya* \< *tye* \< *tya*
+- *tya* ← *tye* ← *tya*
 - \[noun\], nominative, plural, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -15,66 +15,66 @@ title = "Rig Veda 10.138.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sakhyeṣu* \< *sakhya*
+- *sakhyeṣu* ← *sakhya*
 - \[noun\], locative, plural, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *vahnaya* \< *vahnayaḥ* \< *vahni*
+- *vahnaya* ← *vahnayaḥ* ← *vahni*
 - \[noun\], nominative, plural, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *ṛtam* \< *ṛta*
+- *ṛtam* ← *ṛta*
 - \[noun\], accusative, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *manvānā* \< *manvānāḥ* \< *man*
+- *manvānā* ← *manvānāḥ* ← *man*
 - \[verb noun\], nominative, plural
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;
     describe.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *adardirur* \< *adardiruḥ* \< *dardar* \< *√dṛ*
+- *adardirur* ← *adardiruḥ* ← *dardar* ← *√dṛ*
 - \[verb\], plural, Imperfect
 - “cleave.”
 ------------------------------------------------------------------------
-- *valam* \< *vala*
+- *valam* ← *vala*
 - \[noun\], accusative, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *daśasyann* \< *daśasyan* \< *daśasy*
+- *daśasyann* ← *daśasyan* ← *daśasy*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *riṇann* \< *riṇan* \< *ri*
+- *riṇann* ← *riṇan* ← *ri*
 - \[verb noun\], nominative, singular
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *kutsāya* \< *kutsa*
+- *kutsāya* ← *kutsa*
 - \[noun\], dative, singular, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *manmann* \< *manman*
+- *manmann* ← *manman*
 - \[noun\], locative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *ahyaś* \< *ahyaḥ* \< *hi*
+- *ahyaś* ← *ahyaḥ* ← *hi*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -82,6 +82,6 @@ title = "Rig Veda 10.138.1"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *daṃsayaḥ* \< *daṃsay* \< *√daṃs*
+- *daṃsayaḥ* ← *daṃsay* ← *√daṃs*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------

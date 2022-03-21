@@ -2,11 +2,11 @@
 title = "Rig Veda 1.61.7"
 
 +++
--   *asyed* \< *asya* \< *idam*
+-   *asyed* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyed* \< *id*
+- *asyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,72 +14,72 @@ title = "Rig Veda 1.61.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *mātuḥ* \< *mātṛ*
+- *mātuḥ* ← *mātṛ*
 - \[noun\], genitive, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *savaneṣu* \< *savana*
+- *savaneṣu* ← *savana*
 - \[noun\], locative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *pitum* \< *pitu*
+- *pitum* ← *pitu*
 - \[noun\], accusative, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *papivāñ* \< *papivān* \< *pā*
+- *papivāñ* ← *papivān* ← *pā*
 - \[verb noun\], nominative, singular
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *cārv* \< *cārū* \< *cāru*
+- *cārv* ← *cārū* ← *cāru*
 - \[noun\], accusative, plural, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *muṣāyad* \< *muṣāyat* \< *muṣāy* \< *√muṣ*
+- *muṣāyad* ← *muṣāyat* ← *muṣāy* ← *√muṣ*
 - \[verb\], singular, Present injunctive
 - “steal; rob.”
 ------------------------------------------------------------------------
-- *viṣṇuḥ* \< *viṣṇu*
+- *viṣṇuḥ* ← *viṣṇu*
 - \[noun\], nominative, singular, masculine
 - “Vishnu; Krishna; Viṣṇu; Om; Shiva.”
 ------------------------------------------------------------------------
-- *pacataṃ* \< *pacatam* \< *pacata*
+- *pacataṃ* ← *pacatam* ← *pacata*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *sahīyān* \< *sahīyas*
+- *sahīyān* ← *sahīyas*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *vidhyad* \< *vidhyat* \< *vyadh*
+- *vidhyad* ← *vidhyat* ← *vyadh*
 - \[verb\], singular, Imperfect
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 ------------------------------------------------------------------------
-- *varāhaṃ* \< *varāham* \< *varāha*
+- *varāhaṃ* ← *varāham* ← *varāha*
 - \[noun\], accusative, singular, masculine
 - “hog; wild boar; boar; Varaha; vārāhapuṭa; varāha \[word\]; Varāha;
     Varāha.”
 ------------------------------------------------------------------------
-- *tiro* \< *tiras*
+- *tiro* ← *tiras*
 - \[adverb\]
 - “tiras \[word\]; away; secretly.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *astā* \< *as*
+- *astā* ← *as*
 - \[verb\], singular, periphrast. future
 - “shoot; remove.”
 ------------------------------------------------------------------------

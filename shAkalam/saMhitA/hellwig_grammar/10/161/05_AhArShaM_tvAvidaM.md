@@ -2,20 +2,20 @@
 title = "Rig Veda 10.161.5"
 
 +++
--   *āhārṣaṃ* \< *āhārṣam* \< *āhṛ* \< *√hṛ*
+-   *āhārṣaṃ* ← *āhārṣam* ← *āhṛ* ← *√hṛ*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “extract; take; bring; take out; pick; sacrifice; collect; marry;
     take; fell; eat; contract; wear.”
 ------------------------------------------------------------------------
-- *tvāvidaṃ* \< *tvā* \< *tvad*
+- *tvāvidaṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvāvidaṃ* \< *avidam* \< *vid*
+- *tvāvidaṃ* ← *avidam* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@ title = "Rig Veda 10.161.5"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *āgāḥ* \< *āgā* \< *√gā*
+- *āgāḥ* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
@@ -32,39 +32,39 @@ title = "Rig Veda 10.161.5"
 - \[noun\], vocative, singular, masculine
 - “renewed.”
 ------------------------------------------------------------------------
-- *sarvāṅga* \< *sarva*
+- *sarvāṅga* ← *sarva*
 - \[noun\]
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *sarvāṅga* \< *aṅga*
+- *sarvāṅga* ← *aṅga*
 - \[noun\], vocative, singular, masculine
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;
     ingredient.”
 ------------------------------------------------------------------------
-- *sarvaṃ* \< *sarvam* \< *sarva*
+- *sarvaṃ* ← *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *cakṣuḥ* \< *cakṣus*
+- *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
-- *sarvam* \< *sarva*
+- *sarvam* ← *sarva*
 - \[noun\], accusative, singular, neuter
 - “all(a); whole; complete; sarva \[word\]; every(a); each(a); all;
     entire; sāṃnipātika; manifold; complete; all the(a); different;
     overall.”
 ------------------------------------------------------------------------
-- *āyuś* \< *āyuḥ* \< *āyus*
+- *āyuś* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
@@ -72,11 +72,11 @@ title = "Rig Veda 10.161.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *'vidam* \< *avidam* \< *vid*
+- *'vidam* ← *avidam* ← *vid*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

@@ -2,73 +2,73 @@
 title = "Rig Veda 10.128.7"
 
 +++
--   *dhātā* \< *dhātṛ*
+-   *dhātā* ← *dhātṛ*
 - \[noun\], nominative, singular, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
-- *dhātṝṇām* \< *dhātṛ*
+- *dhātṝṇām* ← *dhātṛ*
 - \[noun\], genitive, plural, masculine
 - “Brahma; Dhātṛ; creator; Dhātṛ.”
 ------------------------------------------------------------------------
-- *bhuvanasya* \< *bhuvana*
+- *bhuvanasya* ← *bhuvana*
 - \[noun\], genitive, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *yas* \< *yaḥ* \< *yad*
+- *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *patir* \< *patiḥ* \< *pati*
+- *patir* ← *patiḥ* ← *pati*
 - \[noun\], nominative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *trātāram* \< *trātṛ*
+- *trātāram* ← *trātṛ*
 - \[noun\], accusative, singular, masculine
 - “defender; savior.”
 ------------------------------------------------------------------------
-- *abhimātiṣāham* \< *abhimātiṣāh*
+- *abhimātiṣāham* ← *abhimātiṣāh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *aśvinobhā* \< *aśvinā* \< *aśvin*
+- *aśvinobhā* ← *aśvinā* ← *aśvin*
 - \[noun\], nominative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvinobhā* \< *ubhā* \< *ubh*
+- *aśvinobhā* ← *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *pāntu* \< *pā*
+- *pāntu* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *yajamānaṃ* \< *yajamānam* \< *yajamāna*
+- *yajamānaṃ* ← *yajamānam* ← *yajamāna*
 - \[noun\], accusative, singular, masculine
 - “Yajamāna.”
 ------------------------------------------------------------------------
-- *nyarthāt* \< *nyartha*
+- *nyarthāt* ← *nyartha*
 - \[noun\], ablative, singular, neuter
 - “failure.”
 ------------------------------------------------------------------------

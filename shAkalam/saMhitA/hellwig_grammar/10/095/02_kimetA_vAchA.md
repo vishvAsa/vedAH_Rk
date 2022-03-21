@@ -2,21 +2,21 @@
 title = "Rig Veda 10.95.2"
 
 +++
--   *kim* \< *ka*
+-   *kim* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *etā* \< *etad*
+- *etā* ← *etad*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *vācā* \< *vāc*
+- *vācā* ← *vāc*
 - \[noun\], instrumental, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *kṛṇavā* \< *kṛ*
+- *kṛṇavā* ← *kṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -27,30 +27,30 @@ title = "Rig Veda 10.95.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *tavāham* \< *tava* \< *tvad*
+- *tavāham* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavāham* \< *aham* \< *mad*
+- *tavāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prākramiṣam* \< *prakram* \< *√kram*
+- *prākramiṣam* ← *prakram* ← *√kram*
 - \[verb\], singular, Athematic is aor. (Ind.)
 - “go; begin; walk; travel.”
 ------------------------------------------------------------------------
-- *uṣasām* \< *uṣas*
+- *uṣasām* ← *uṣas*
 - \[noun\], genitive, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *agriyeva* \< *agriyā* \< *agriya*
+- *agriyeva* ← *agriyā* ← *agriya*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *agriyeva* \< *iva*
+- *agriyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *purūravaḥ* \< *purūravas*
+- *purūravaḥ* ← *purūravas*
 - \[noun\], vocative, singular, masculine
 - “Purūravas.”
 ------------------------------------------------------------------------
@@ -59,31 +59,31 @@ title = "Rig Veda 10.95.2"
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *astam* \< *asta*
+- *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *parehi* \< *pare* \< *√i*
+- *parehi* ← *pare* ← *√i*
 - \[verb\], singular, Present imperative
 - “travel; depart; go; die.”
 ------------------------------------------------------------------------
-- *durāpanā* \< *durāpana*
+- *durāpanā* ← *durāpana*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *vāta* \< *vātaḥ* \< *vāta*
+- *vāta* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *ivāham* \< *iva*
+- *ivāham* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāham* \< *aham* \< *mad*
+- *ivāham* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asmi* \< *as*
+- *asmi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

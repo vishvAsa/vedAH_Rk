@@ -2,18 +2,18 @@
 title = "Rig Veda 3.35.1"
 
 +++
--   *tiṣṭhā* \< *sthā*
+-   *tiṣṭhā* ← *sthā*
 - \[verb\], singular, Present imperative
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ratha* \< *rathe* \< *ratha*
+- *ratha* ← *rathe* ← *ratha*
 - \[noun\], locative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 3.35.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yujyamānā* \< *yuj*
+- *yujyamānā* ← *yuj*
 - \[verb noun\], accusative, dual
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -29,12 +29,12 @@ title = "Rig Veda 3.35.1"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vāyur* \< *vāyuḥ* \< *vāyu*
+- *vāyur* ← *vāyuḥ* ← *vāyu*
 - \[noun\], nominative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
@@ -43,31 +43,31 @@ title = "Rig Veda 3.35.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *pibāsy* \< *pibāsi* \< *pā*
+- *pibāsy* ← *pibāsi* ← *pā*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *andho* \< *andhaḥ* \< *andhas*
+- *andho* ← *andhaḥ* ← *andhas*
 - \[noun\], accusative, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *abhisṛṣṭo* \< *abhisṛṣṭaḥ* \< *abhisṛj* \< *√sṛj*
+- *abhisṛṣṭo* ← *abhisṛṣṭaḥ* ← *abhisṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
 - “start.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -80,15 +80,15 @@ title = "Rig Veda 3.35.1"
 - \[adverb\]
 - “hail.”
 ------------------------------------------------------------------------
-- *rarimā* \< *rā*
+- *rarimā* ← *rā*
 - \[verb\], plural, Perfect indicative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *madāya* \< *mada*
+- *madāya* ← *mada*
 - \[noun\], dative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;

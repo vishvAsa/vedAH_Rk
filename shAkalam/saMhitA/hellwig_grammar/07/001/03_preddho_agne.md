@@ -2,7 +2,7 @@
 title = "Rig Veda 7.1.3"
 
 +++
--   *preddho* \< *preddhaḥ* \< *prendh* \< *√indh*
+-   *preddho* ← *preddhaḥ* ← *prendh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle.”
 ------------------------------------------------------------------------

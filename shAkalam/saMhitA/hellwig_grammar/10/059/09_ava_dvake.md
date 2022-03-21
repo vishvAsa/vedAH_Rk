@@ -6,43 +6,43 @@ title = "Rig Veda 10.59.9"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dvake* \< *dvaka*
+- *dvake* ← *dvaka*
 - \[noun\], nominative, dual, neuter
 ------------------------------------------------------------------------
 - *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *trikā* \< *trika*
+- *trikā* ← *trika*
 - \[noun\], nominative, plural, neuter
 - “ternary.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *bheṣajā* \< *bheṣaja*
+- *bheṣajā* ← *bheṣaja*
 - \[noun\], nominative, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
-- *kṣamā* \< *kṣam*
+- *kṣamā* ← *kṣam*
 - \[noun\], instrumental, singular, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *cariṣṇv* \< *cariṣṇu*
+- *cariṣṇv* ← *cariṣṇu*
 - \[noun\], nominative, singular, neuter
 - “mobile; moving.”
 ------------------------------------------------------------------------
-- *ekakam* \< *ekaka*
+- *ekakam* ← *ekaka*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *bharatām* \< *bhṛ*
+- *bharatām* ← *bhṛ*
 - \[verb\], dual, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -51,55 +51,55 @@ title = "Rig Veda 10.59.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rapo* \< *rapaḥ* \< *rapas*
+- *rapo* ← *rapaḥ* ← *rapas*
 - \[noun\], nominative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], vocative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivi* \< *pṛthivī*
+- *pṛthivi* ← *pṛthivī*
 - \[noun\], vocative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *kṣamā* \< *kṣam*
+- *kṣamā* ← *kṣam*
 - \[noun\], instrumental, singular, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
-- *rapo* \< *rapaḥ* \< *rapas*
+- *rapo* ← *rapaḥ* ← *rapas*
 - \[noun\], nominative, singular, neuter
 - “injury; disease; infirmity; damage.”
 ------------------------------------------------------------------------
-- *mo* \< *mā*
+- *mo* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mo* \< *u*
+- *mo* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kiṃ* \< *kim* \< *ka*
+- *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *canāmamat* \< *cana*
+- *canāmamat* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāmamat* \< *amamat* \< *am*
+- *canāmamat* ← *amamat* ← *am*
 - \[verb\], singular, Aorist conj./subj.
 - “hurt.”
 ------------------------------------------------------------------------

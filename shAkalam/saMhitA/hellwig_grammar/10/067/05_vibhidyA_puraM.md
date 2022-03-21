@@ -2,29 +2,29 @@
 title = "Rig Veda 10.67.5"
 
 +++
--   *vibhidyā* \< *vibhid* \< *√bhid*
+-   *vibhidyā* ← *vibhid* ← *√bhid*
 - \[verb noun\]
 - “cleave; incise.”
 ------------------------------------------------------------------------
-- *puraṃ* \< *puram* \< *pura*
+- *puraṃ* ← *puram* ← *pura*
 - \[noun\], accusative, singular, neuter
 - “town; pura \[word\]; stronghold.”
 ------------------------------------------------------------------------
-- *śayathem* \< *śayathā* \< *śayatha*
+- *śayathem* ← *śayathā* ← *śayatha*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *śayathem* \< *īm* \< *īṃ*
+- *śayathem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *apācīṃ* \< *apācīm* \< *apāñc*
+- *apācīṃ* ← *apācīm* ← *apāñc*
 - \[noun\], accusative, singular, feminine
 - “backward; apāñc \[word\]; western.”
 ------------------------------------------------------------------------
-- *nis* \< *niḥ*
+- *nis* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *trīṇi* \< *tri*
+- *trīṇi* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -32,42 +32,42 @@ title = "Rig Veda 10.67.5"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *udadher* \< *udadheḥ* \< *udadhi*
+- *udadher* ← *udadheḥ* ← *udadhi*
 - \[noun\], ablative, singular, masculine
 - “ocean.”
 ------------------------------------------------------------------------
-- *akṛntat* \< *kṛt*
+- *akṛntat* ← *kṛt*
 - \[verb\], singular, Imperfect
 - “cut; cut; cut off; fell; cut.”
 ------------------------------------------------------------------------
-- *bṛhaspatir* \< *bṛhaspatiḥ* \< *bṛhaspati*
+- *bṛhaspatir* ← *bṛhaspatiḥ* ← *bṛhaspati*
 - \[noun\], nominative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *uṣasaṃ* \< *uṣasam* \< *uṣas*
+- *uṣasaṃ* ← *uṣasam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *arkaṃ* \< *arkam* \< *arka*
+- *arkaṃ* ← *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *viveda* \< *vid*
+- *viveda* ← *vid*
 - \[verb\], singular, Perfect indicative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *stanayann* \< *stanayan* \< *stanay* \< *√stan*
+- *stanayann* ← *stanayan* ← *stanay* ← *√stan*
 - \[verb noun\], nominative, singular
 - “thunder; thunder.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 10.67.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

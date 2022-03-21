@@ -2,44 +2,44 @@
 title = "Rig Veda 1.121.13"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *svar*
+- *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *harito* \< *haritaḥ* \< *harit*
+- *harito* ← *haritaḥ* ← *harit*
 - \[noun\], accusative, plural, feminine
 - “mare; quarter.”
 ------------------------------------------------------------------------
-- *rāmayo* \< *rāmayaḥ* \< *rāmay* \< *√ram*
+- *rāmayo* ← *rāmayaḥ* ← *rāmay* ← *√ram*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *bharac* \< *bharat* \< *bhṛ*
+- *bharac* ← *bharat* ← *bhṛ*
 - \[verb\], singular, Present injunctive
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *cakram* \< *cakra*
+- *cakram* ← *cakra*
 - \[noun\], accusative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *etaśo* \< *etaśaḥ* \< *etaśa*
+- *etaśo* ← *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *nāyam* \< *na*
+- *nāyam* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyam* \< *ayam* \< *idam*
+- *nāyam* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -48,19 +48,19 @@ title = "Rig Veda 1.121.13"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prāsya* \< *prās* \< *√as*
+- *prāsya* ← *prās* ← *√as*
 - \[verb noun\]
 - “throw.”
 ------------------------------------------------------------------------
-- *pāraṃ* \< *pāram* \< *pāra*
+- *pāraṃ* ← *pāram* ← *pāra*
 - \[noun\], accusative, singular, masculine
 - “shore; pāra \[word\]; end; excellence.”
 ------------------------------------------------------------------------
-- *navatiṃ* \< *navatim* \< *navati*
+- *navatiṃ* ← *navatim* ← *navati*
 - \[noun\], accusative, singular, feminine
 - “ninety; navati \[word\].”
 ------------------------------------------------------------------------
-- *nāvyānām* \< *nāvyā*
+- *nāvyānām* ← *nāvyā*
 - \[noun\], genitive, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
@@ -69,20 +69,20 @@ title = "Rig Veda 1.121.13"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *kartam* \< *karta*
+- *kartam* ← *karta*
 - \[noun\], accusative, singular, masculine
 - “pit.”
 ------------------------------------------------------------------------
-- *avartayo* \< *avartayaḥ* \< *vartay* \< *√vṛt*
+- *avartayo* ← *avartayaḥ* ← *vartay* ← *√vṛt*
 - \[verb\], singular, Imperfect
 - “pound; tell; exist; bring; spill; mix; survive; melt; roll;
     explain; perform; turn; chop; sustain; spend; roll up; produce.”
 ------------------------------------------------------------------------
-- *'yajyūn* \< *a*
+- *'yajyūn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'yajyūn* \< *yajyūn* \< *yajyu*
+- *'yajyūn* ← *yajyūn* ← *yajyu*
 - \[noun\], accusative, plural, masculine
 - “worshiping.”
 ------------------------------------------------------------------------

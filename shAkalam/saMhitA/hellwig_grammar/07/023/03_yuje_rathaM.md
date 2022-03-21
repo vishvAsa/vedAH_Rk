@@ -2,7 +2,7 @@
 title = "Rig Veda 7.23.3"
 
 +++
--   *yuje* \< *yuj*
+-   *yuje* ← *yuj*
 - \[verb noun\]
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,15 +10,15 @@ title = "Rig Veda 7.23.3"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *gaveṣaṇaṃ* \< *gaveṣaṇam* \< *gaveṣaṇa*
+- *gaveṣaṇaṃ* ← *gaveṣaṇam* ← *gaveṣaṇa*
 - \[noun\], accusative, singular, masculine
 - “marauding.”
 ------------------------------------------------------------------------
-- *haribhyām* \< *hari*
+- *haribhyām* ← *hari*
 - \[noun\], instrumental, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
@@ -27,17 +27,17 @@ title = "Rig Veda 7.23.3"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], nominative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *jujuṣāṇam* \< *juṣ*
+- *jujuṣāṇam* ← *juṣ*
 - \[verb noun\], accusative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *asthuḥ* \< *sthā*
+- *asthuḥ* ← *sthā*
 - \[verb\], plural, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
@@ -47,11 +47,11 @@ title = "Rig Veda 7.23.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bādhiṣṭa* \< *bādh*
+- *bādhiṣṭa* ← *bādh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
-- *sya* \< *tya*
+- *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
@@ -59,24 +59,24 @@ title = "Rig Veda 7.23.3"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *mahitvendro* \< *mahitvā* \< *mahitva*
+- *mahitvendro* ← *mahitvā* ← *mahitva*
 - \[noun\], instrumental, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *mahitvendro* \< *indraḥ* \< *indra*
+- *mahitvendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛtrāṇy* \< *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇy* ← *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *apratī* \< *aprati*
+- *apratī* ← *aprati*
 - \[noun\], accusative, plural, neuter
 - “irresistible.”
 ------------------------------------------------------------------------
-- *jaghanvān* \< *han*
+- *jaghanvān* ← *han*
 - \[verb noun\], nominative, singular
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

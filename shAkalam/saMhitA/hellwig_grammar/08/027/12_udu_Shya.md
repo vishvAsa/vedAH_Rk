@@ -10,38 +10,38 @@ title = "Rig Veda 8.27.12"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣya* \< *sya* \< *tya*
+- *ṣya* ← *sya* ← *tya*
 - \[noun\], nominative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *supraṇītayo* \< *su*
+- *supraṇītayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraṇītayo* \< *praṇītayaḥ* \< *praṇīti*
+- *supraṇītayo* ← *praṇītayaḥ* ← *praṇīti*
 - \[noun\], vocative, plural, masculine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *'sthād* \< *asthāt* \< *sthā*
+- *'sthād* ← *asthāt* ← *sthā*
 - \[verb\], singular, Root aorist (Ind.)
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ūrdhvo* \< *ūrdhvaḥ* \< *ūrdhva*
+- *ūrdhvo* ← *ūrdhvaḥ* ← *ūrdhva*
 - \[noun\], nominative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *vareṇyaḥ* \< *vareṇya*
+- *vareṇyaḥ* ← *vareṇya*
 - \[noun\], nominative, singular, masculine
 - “excellent; desirable.”
 ------------------------------------------------------------------------
@@ -49,23 +49,23 @@ title = "Rig Veda 8.27.12"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dvipādaś* \< *dvipādaḥ* \< *dvipād*
+- *dvipādaś* ← *dvipādaḥ* ← *dvipād*
 - \[noun\], nominative, plural, masculine
 - “biped; Vishnu.”
 ------------------------------------------------------------------------
-- *catuṣpādo* \< *catuṣpādaḥ* \< *catuṣpād*
+- *catuṣpādo* ← *catuṣpādaḥ* ← *catuṣpād*
 - \[noun\], nominative, plural, masculine
 - “quadruped.”
 ------------------------------------------------------------------------
-- *arthino* \< *arthinaḥ* \< *arthin*
+- *arthino* ← *arthinaḥ* ← *arthin*
 - \[noun\], nominative, plural, masculine
 - “desirous; active; suppliant; busy.”
 ------------------------------------------------------------------------
-- *'viśran* \< *aviśran* \< *viś*
+- *'viśran* ← *aviśran* ← *viś*
 - \[verb\], plural, Root aorist (Ind.)
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------
-- *patayiṣṇavaḥ* \< *patayiṣṇu*
+- *patayiṣṇavaḥ* ← *patayiṣṇu*
 - \[noun\], nominative, plural, masculine
 - “flying.”
 ------------------------------------------------------------------------

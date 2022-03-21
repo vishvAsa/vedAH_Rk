@@ -2,56 +2,56 @@
 title = "Rig Veda 6.15.10"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *supratīkaṃ* \< *su*
+- *supratīkaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratīkaṃ* \< *pratīkam* \< *pratīka*
+- *supratīkaṃ* ← *pratīkam* ← *pratīka*
 - \[noun\], accusative, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *sudṛśaṃ* \< *sudṛśam* \< *sudṛś*
+- *sudṛśaṃ* ← *sudṛśam* ← *sudṛś*
 - \[noun\], accusative, singular, masculine
 - “fine-looking.”
 ------------------------------------------------------------------------
-- *svañcam* \< *svañc*
+- *svañcam* ← *svañc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *avidvāṃso* \< *avidvāṃsaḥ* \< *avidvas*
+- *avidvāṃso* ← *avidvāṃsaḥ* ← *avidvas*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *viduṣṭaraṃ* \< *viduṣṭaram* \< *viduṣṭara*
+- *viduṣṭaraṃ* ← *viduṣṭaram* ← *viduṣṭara*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *sapema* \< *sap*
+- *sapema* ← *sap*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yakṣad* \< *yakṣat* \< *yaj*
+- *yakṣad* ← *yakṣat* ← *yaj*
 - \[verb\], singular, Aorist conj./subj.
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *vayunāni* \< *vayuna*
+- *vayunāni* ← *vayuna*
 - \[noun\], accusative, plural, neuter
 - “convention; custom; means.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -60,21 +60,21 @@ title = "Rig Veda 6.15.10"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *amṛteṣu* \< *amṛta*
+- *amṛteṣu* ← *amṛta*
 - \[noun\], locative, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *vocat* \< *vac*
+- *vocat* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;

@@ -6,15 +6,15 @@ title = "Rig Veda 7.88.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ruhāva* \< *ruh*
+- *ruhāva* ← *ruh*
 - \[verb\], dual, Aorist conj./subj.
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *varuṇaś* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇaś* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
@@ -23,7 +23,7 @@ title = "Rig Veda 7.88.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -35,16 +35,16 @@ title = "Rig Veda 7.88.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samudram* \< *samudra*
+- *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *īrayāva* \< *īray* \< *√īr*
+- *īrayāva* ← *īray* ← *√īr*
 - \[verb\], dual, Present imperative
 - “name; describe; propel; shoot; state; call; raise; expel; tell;
     enumerate.”
 ------------------------------------------------------------------------
-- *madhyam* \< *madhya*
+- *madhyam* ← *madhya*
 - \[noun\], accusative, singular, masculine
 - “intermediate; central; average; normal; middle; madhya \[word\].”
 ------------------------------------------------------------------------
@@ -52,19 +52,19 @@ title = "Rig Veda 7.88.3"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *snubhiś* \< *snubhiḥ* \< *snu*
+- *snubhiś* ← *snubhiḥ* ← *snu*
 - \[noun\], instrumental, plural, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *carāva* \< *car*
+- *carāva* ← *car*
 - \[verb\], dual, Present conjunctive (subjunctive)
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -74,18 +74,18 @@ title = "Rig Veda 7.88.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *preṅkha* \< *preṅkhe* \< *preṅkha*
+- *preṅkha* ← *preṅkhe* ← *preṅkha*
 - \[noun\], locative, singular, masculine
 - “swing.”
 ------------------------------------------------------------------------
-- *īṅkhayāvahai* \< *īṅkhay* \< *√īṅkh*
+- *īṅkhayāvahai* ← *īṅkhay* ← *√īṅkh*
 - \[verb\], dual, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *śubhe* \< *śubh*
+- *śubhe* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------

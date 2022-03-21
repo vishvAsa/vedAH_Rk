@@ -2,7 +2,7 @@
 title = "Rig Veda 5.21.2"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 5.21.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *mānuṣe* \< *mānuṣa*
+- *mānuṣe* ← *mānuṣa*
 - \[noun\], locative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *suprīta* \< *su*
+- *suprīta* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprīta* \< *prītaḥ* \< *prī*
+- *suprīta* ← *prītaḥ* ← *prī*
 - \[verb noun\], nominative, singular
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *idhyase* \< *indh*
+- *idhyase* ← *indh*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *srucas* \< *srucaḥ* \< *sruc*
+- *srucas* ← *srucaḥ* \< *sruc*
 - \[noun\], nominative, plural, feminine
 - “Sruc.”
 ------------------------------------------------------------------------

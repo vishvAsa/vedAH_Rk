@@ -2,42 +2,42 @@
 title = "Rig Veda 5.38.3"
 
 +++
--   *śuṣmāso* \< *śuṣmāsaḥ* \< *śuṣma*
+-   *śuṣmāso* ← *śuṣmāsaḥ* ← *śuṣma*
 - \[noun\], nominative, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adrivo* \< *adrivas* \< *adrivat*
+- *adrivo* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
 - *mehanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ketasāpaḥ* \< *ketasap*
+- *ketasāpaḥ* ← *ketasap*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ubhā* \< *ubh*
+- *ubhā* ← *ubh*
 - \[noun\], nominative, dual, masculine
 - “both(a).”
 ------------------------------------------------------------------------
-- *devāv* \< *devau* \< *deva*
+- *devāv* ← *devau* ← *deva*
 - \[noun\], nominative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *abhiṣṭaye* \< *abhiṣṭi*
+- *abhiṣṭaye* ← *abhiṣṭi*
 - \[noun\], dative, singular, feminine
 - “prevalence; protection.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 5.38.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *gmaś* \< *gmaḥ* \< *gam*
+- *gmaś* ← *gmaḥ* ← *gam*
 - \[noun\], genitive, singular
 - “gam.”
 ------------------------------------------------------------------------
@@ -53,7 +53,7 @@ title = "Rig Veda 5.38.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rājathaḥ* \< *rāj*
+- *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------

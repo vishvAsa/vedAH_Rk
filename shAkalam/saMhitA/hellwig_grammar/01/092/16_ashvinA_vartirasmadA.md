@@ -2,15 +2,15 @@
 title = "Rig Veda 1.92.16"
 
 +++
--   *aśvinā* \< *aśvin*
+-   *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vartir* \< *vartiḥ* \< *vartis*
+- *vartir* ← *vartiḥ* ← *vartis*
 - \[noun\], nominative, singular, neuter
 - “tour.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 1.92.16"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gomad* \< *gomat*
+- *gomad* ← *gomat*
 - \[noun\], nominative, singular, neuter
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *dasrā* \< *dasrāḥ* \< *dasra*
+- *dasrā* ← *dasrāḥ* ← *dasra*
 - \[noun\], vocative, plural, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 1.92.16"
 - \[noun\], nominative, singular, neuter
 - “possessing gold.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *samanasā* \< *samanas*
+- *samanasā* ← *samanas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 1.92.16"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yacchatam* \< *yam*
+- *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

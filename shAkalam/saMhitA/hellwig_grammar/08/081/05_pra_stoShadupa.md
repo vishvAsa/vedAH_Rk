@@ -6,7 +6,7 @@ title = "Rig Veda 8.81.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *stoṣad* \< *stoṣat* \< *stu*
+- *stoṣad* ← *stoṣat* ← *stu*
 - \[verb\], singular, Aorist conj./subj.
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 8.81.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *gāsiṣac* \< *gāsiṣat* \< *gā*
+- *gāsiṣac* ← *gāsiṣat* ← *gā*
 - \[verb\], singular, Aorist conj./subj.
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *chravat* \< *śravat* \< *śru*
+- *chravat* ← *śravat* ← *śru*
 - \[verb\], singular, Aorist conj./subj.
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *sāma* \< *sāman*
+- *sāma* ← *sāman*
 - \[noun\], accusative, singular, neuter
 - “Sāman; Sama-Veda; song; sāman \[word\]; hymn.”
 ------------------------------------------------------------------------
-- *gīyamānam* \< *gā*
+- *gīyamānam* ← *gā*
 - \[verb noun\], accusative, singular
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
@@ -34,10 +34,10 @@ title = "Rig Veda 8.81.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *jugurat* \< *gur*
+- *jugurat* ← *gur*
 - \[verb\], singular, Perfect conjunctive (subj.)
 ------------------------------------------------------------------------

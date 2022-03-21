@@ -6,25 +6,25 @@ title = "Rig Veda 10.22.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *gmantośanā* \< *gmantā* \< *gam*
+- *gmantośanā* ← *gmantā* ← *gam*
 - \[verb noun\], accusative, dual
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *gmantośanā* \< *uśanā*
+- *gmantośanā* ← *uśanā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *pṛcchate* \< *pracch*
+- *pṛcchate* ← *pracch*
 - \[verb\], singular, Present indikative
 - “ask; ask; ask; consult; interrogate.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *kadarthā* \< *kadarthāḥ* \< *kadartha*
+- *kadarthā* ← *kadarthāḥ* ← *kadartha*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *na* \< *naḥ* \< *mad*

@@ -6,11 +6,11 @@ title = "Rig Veda 7.104.23"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], nominative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -18,26 +18,26 @@ title = "Rig Veda 7.104.23"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *naḍ* \< *naṭ* \< *naś*
+- *naḍ* ← *naṭ* ← *naś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------
-- *yātumāvatām* \< *yātumāvat*
+- *yātumāvatām* ← *yātumāvat*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *apocchatu* \< *apavas* \< *√vas*
+- *apocchatu* ← *apavas* ← *√vas*
 - \[verb\], singular, Present imperative
 - “chase away.”
 ------------------------------------------------------------------------
-- *mithunā* \< *mithuna*
+- *mithunā* ← *mithuna*
 - \[noun\], accusative, dual, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, dual, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *kimīdinā* \< *kimīdin*
+- *kimīdinā* ← *kimīdin*
 - \[noun\], nominative, dual, masculine
 - “Kimīdin.”
 ------------------------------------------------------------------------
@@ -45,36 +45,36 @@ title = "Rig Veda 7.104.23"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pārthivāt* \< *pārthiva*
+- *pārthivāt* ← *pārthiva*
 - \[noun\], ablative, singular, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
-- *pātv* \< *pātu* \< *pā*
+- *pātv* ← *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *'ntarikṣaṃ* \< *antarikṣam* \< *antarikṣa*
+- *'ntarikṣaṃ* ← *antarikṣam* ← *antarikṣa*
 - \[noun\], nominative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *divyāt* \< *divya*
+- *divyāt* ← *divya*
 - \[noun\], ablative, singular, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *pātv* \< *pātu* \< *pā*
+- *pātv* ← *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

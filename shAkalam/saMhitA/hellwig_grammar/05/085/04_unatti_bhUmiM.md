@@ -2,16 +2,16 @@
 title = "Rig Veda 5.85.4"
 
 +++
--   *unatti* \< *und*
+-   *unatti* ← *und*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *bhūmim* \< *bhūmi*
+- *bhūmim* ← *bhūmi*
 - \[noun\], accusative, singular, feminine
 - “floor; earth; Earth; real property; region; pṛthivī; location;
     Earth; place; bhūja; floor; pit; bhūmi \[word\]; one; hole; shop;
     distance; country; space; land; territory; topographic point.”
 ------------------------------------------------------------------------
-- *pṛthivīm* \< *pṛthivī*
+- *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 5.85.4"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -27,24 +27,24 @@ title = "Rig Veda 5.85.4"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *dugdhaṃ* \< *dugdham* \< *duh*
+- *dugdhaṃ* ← *dugdham* ← *duh*
 - \[verb noun\], accusative, singular
 - “milk.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *vaṣṭy* \< *vaṣṭi* \< *vaś*
+- *vaṣṭy* ← *vaṣṭi* ← *vaś*
 - \[verb\], singular, Present indikative
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -52,28 +52,28 @@ title = "Rig Veda 5.85.4"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *abhreṇa* \< *abhra*
+- *abhreṇa* ← *abhra*
 - \[noun\], instrumental, singular, neuter
 - “abhra; cloud; sky; abhra \[word\]; cumulonimbus; mica; air;
     cloudiness.”
 ------------------------------------------------------------------------
-- *vasata* \< *vas*
+- *vasata* ← *vas*
 - \[verb\], plural, Present injunctive
 - “wear.”
 ------------------------------------------------------------------------
-- *parvatāsas* \< *parvatāsaḥ* \< *parvata*
+- *parvatāsas* ← *parvatāsaḥ* ← *parvata*
 - \[noun\], nominative, plural, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *taviṣīyantaḥ* \< *taviṣīy*
+- *taviṣīyantaḥ* ← *taviṣīy*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *śrathayanta* \< *śrathay* \< *√śrath*
+- *śrathayanta* ← *śrathay* ← *√śrath*
 - \[verb\], plural, Present injunctive
 - “relax.”
 ------------------------------------------------------------------------
-- *vīrāḥ* \< *vīra*
+- *vīrāḥ* ← *vīra*
 - \[noun\], nominative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------

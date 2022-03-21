@@ -2,7 +2,7 @@
 title = "Rig Veda 10.141.5"
 
 +++
--   *aryamaṇam* \< *aryaman*
+-   *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------

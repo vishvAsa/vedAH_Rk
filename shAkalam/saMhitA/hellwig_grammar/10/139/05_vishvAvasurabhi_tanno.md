@@ -2,7 +2,7 @@
 title = "Rig Veda 10.139.5"
 
 +++
--   *viśvāvasur* \< *viśvāvasuḥ* \< *viśvāvasu*
+-   *viśvāvasur* ← *viśvāvasuḥ* ← *viśvāvasu*
 - \[noun\], nominative, singular, masculine
 - “Viśvāvasu; Viśvāvasu; Viśvāvasu.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 10.139.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gṛṇātu* \< *gṛ*
+- *gṛṇātu* ← *gṛ*
 - \[verb\], singular, Present imperative
 - “praise.”
 ------------------------------------------------------------------------
-- *divyo* \< *divyaḥ* \< *divya*
+- *divyo* ← *divyaḥ* ← *divya*
 - \[noun\], nominative, singular, masculine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *gandharvo* \< *gandharvaḥ* \< *gandharva*
+- *gandharvo* ← *gandharvaḥ* ← *gandharva*
 - \[noun\], nominative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *vimānaḥ* \< *vimāna*
+- *vimānaḥ* ← *vimāna*
 - \[noun\], nominative, singular, masculine
 - “pervading.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 10.139.5"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghā* \< *gha*
+- *ghā* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *satyam* \< *satya*

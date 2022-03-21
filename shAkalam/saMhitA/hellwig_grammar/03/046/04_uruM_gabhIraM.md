@@ -2,64 +2,64 @@
 title = "Rig Veda 3.46.4"
 
 +++
--   *uruṃ* \< *urum* \< *uru*
+-   *uruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *gabhīraṃ* \< *gabhīram* \< *gabhīra*
+- *gabhīraṃ* ← *gabhīram* ← *gabhīra*
 - \[noun\], accusative, singular, masculine
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
 ------------------------------------------------------------------------
-- *januṣābhy* \< *januṣā* \< *janus*
+- *januṣābhy* ← *januṣā* ← *janus*
 - \[noun\], instrumental, singular, masculine
 - “birth.”
 ------------------------------------------------------------------------
-- *januṣābhy* \< *abhī* \< *abhi*
+- *januṣābhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *viśvavyacasam* \< *viśva*
+- *viśvavyacasam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvavyacasam* \< *vyacasam* \< *vyacas*
+- *viśvavyacasam* ← *vyacasam* ← *vyacas*
 - \[noun\], accusative, singular, masculine
 - “area; capacity.”
 ------------------------------------------------------------------------
-- *avatam* \< *avata*
+- *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *matīnām* \< *mati*
+- *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somāsaḥ* \< *soma*
+- *somāsaḥ* ← *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pradivi* \< *pradiv*
+- *pradivi* ← *pradiv*
 - \[noun\], locative, singular, masculine
 - “age-old; long.”
 ------------------------------------------------------------------------
-- *sutāsaḥ* \< *su*
+- *sutāsaḥ* ← *su*
 - \[verb noun\], nominative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *samudraṃ* \< *samudram* \< *samudra*
+- *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 3.46.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sravata* \< *sravataḥ* \< *sravat*
+- *sravata* ← *sravataḥ* ← *sravat*
 - \[noun\], nominative, plural, feminine
 - “river.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 3.46.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viśanti* \< *viś*
+- *viśanti* ← *viś*
 - \[verb\], plural, Present indikative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

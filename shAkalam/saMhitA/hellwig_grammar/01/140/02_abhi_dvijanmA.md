@@ -6,36 +6,36 @@ title = "Rig Veda 1.140.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dvijanmā* \< *dvi*
+- *dvijanmā* ← *dvi*
 - \[noun\]
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *dvijanmā* \< *janmā* \< *janman*
+- *dvijanmā* ← *janmā* ← *janman*
 - \[noun\], nominative, singular, masculine
 - “birth; reincarnation; lineage; origin; race; metempsychosis;
     parentage; descent; appearance; age; birthplace; beginning; being.”
 ------------------------------------------------------------------------
-- *trivṛd* \< *trivṛt*
+- *trivṛd* ← *trivṛt*
 - \[noun\], accusative, singular, neuter
 - “treble.”
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *ṛjyate* \< *ṛj*
+- *ṛjyate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *saṃvatsare* \< *saṃvatsara*
+- *saṃvatsare* ← *saṃvatsara*
 - \[noun\], locative, singular, masculine
 - “year; year; saṃvatsara \[word\].”
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *jagdham* \< *jakṣ*
+- *jagdham* ← *jakṣ*
 - \[verb noun\], nominative, singular
 - “eat; devour.”
 ------------------------------------------------------------------------
@@ -43,50 +43,50 @@ title = "Rig Veda 1.140.2"
 - \[adverb\]
 - “īkāra.”
 ------------------------------------------------------------------------
-- *punaḥ* \< *punar*
+- *punaḥ* ← *punar*
 - \[adverb\]
 - “again; further; now; over and over; subsequently; repeatedly;
     however; besides.”
 ------------------------------------------------------------------------
-- *anyasyāsā* \< *anyasya* \< *anya*
+- *anyasyāsā* ← *anyasya* ← *anya*
 - \[noun\], genitive, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *anyasyāsā* \< *āsā* \< *ās*
+- *anyasyāsā* ← *āsā* ← *ās*
 - \[noun\], instrumental, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *jenyo* \< *jenyaḥ* \< *jenya*
+- *jenyo* ← *jenyaḥ* ← *jenya*
 - \[noun\], nominative, singular, masculine
 - “noble.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *anyena* \< *anya*
+- *anyena* ← *anya*
 - \[noun\], instrumental, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *vanino* \< *vaninaḥ* \< *vanin*
+- *vanino* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *mṛṣṭa* \< *mṛj*
+- *mṛṣṭa* ← *mṛj*
 - \[verb\], singular, Present injunctive
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *vāraṇaḥ* \< *vāraṇa*
+- *vāraṇaḥ* ← *vāraṇa*
 - \[noun\], nominative, singular, masculine
 - “elephant; elephant hook.”
 ------------------------------------------------------------------------

@@ -2,50 +2,50 @@
 title = "Rig Veda 6.37.4"
 
 +++
--   *variṣṭho* \< *variṣṭhaḥ* \< *variṣṭha*
+-   *variṣṭho* ← *variṣṭhaḥ* ← *variṣṭha*
 - \[noun\], nominative, singular, masculine
 - “best; preferable.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dakṣiṇām* \< *dakṣiṇā*
+- *dakṣiṇām* ← *dakṣiṇā*
 - \[noun\], accusative, singular, feminine
 - “Dakṣiṇā; south; dakṣiṇā \[word\]; gift; South.”
 ------------------------------------------------------------------------
-- *iyartīndro* \< *iyarti* \< *ṛch*
+- *iyartīndro* ← *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *iyartīndro* \< *indraḥ* \< *indra*
+- *iyartīndro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *maghonāṃ* \< *maghonām* \< *maghavan*
+- *maghonāṃ* ← *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *tuvikūrmitamaḥ* \< *tuvikūrmitama*
+- *tuvikūrmitamaḥ* ← *tuvikūrmitama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vajrivaḥ* \< *vajrivas* \< *vajrivat*
+- *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pariyāsy* \< *pariyāsi* \< *pariyā* \< *√yā*
+- *pariyāsy* ← *pariyāsi* ← *pariyā* ← *√yā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *aṃho* \< *aṃhaḥ* \< *aṃhas*
+- *aṃho* ← *aṃhaḥ* ← *aṃhas*
 - \[noun\], accusative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *maghā* \< *magha*
+- *maghā* ← *magha*
 - \[noun\], accusative, plural, neuter
 - “gift; wealth; reward; wages; reward.”
 ------------------------------------------------------------------------
@@ -53,11 +53,11 @@ title = "Rig Veda 6.37.4"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *dayase* \< *day*
+- *dayase* ← *day*
 - \[verb\], singular, Present indikative
 - “share.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 6.37.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sūrīn* \< *sūri*
+- *sūrīn* ← *sūri*
 - \[noun\], accusative, plural, masculine
 - “patron.”
 ------------------------------------------------------------------------

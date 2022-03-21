@@ -2,7 +2,7 @@
 title = "Rig Veda 8.4.8"
 
 +++
--   *savyām* \< *savya*
+-   *savyām* ← *savya*
 - \[noun\], accusative, singular, feminine
 - “left; savya \[word\].”
 ------------------------------------------------------------------------
@@ -10,14 +10,14 @@ title = "Rig Veda 8.4.8"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *sphigyaṃ* \< *sphigyam* \< *sphigī*
+- *sphigyaṃ* ← *sphigyam* ← *sphigī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vāvase* \< *vas*
+- *vāvase* ← *vas*
 - \[verb\], singular, Perfect indicative
 - “wear.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -25,46 +25,46 @@ title = "Rig Veda 8.4.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dāno* \< *dānaḥ* \< *dāna*
+- *dāno* ← *dānaḥ* ← *dāna*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *roṣati* \< *ruṣ*
+- *roṣati* ← *ruṣ*
 - \[verb\], singular, Present indikative
 - “anger.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *saṃpṛktāḥ* \< *sampṛc* \< *√pṛc*
+- *saṃpṛktāḥ* ← *sampṛc* ← *√pṛc*
 - \[verb noun\], nominative, plural
 - “mix; connect.”
 ------------------------------------------------------------------------
-- *sāragheṇa* \< *sāragha*
+- *sāragheṇa* ← *sāragha*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *dhenavas* \< *dhenavaḥ* \< *dhenu*
+- *dhenavas* ← *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *tūyam* \< *tūya*
+- *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
-- *ehi* \< *e* \< *√i*
+- *ehi* ← *e* ← *√i*
 - \[verb\], singular, Present imperative
 - “come; travel.”
 ------------------------------------------------------------------------
-- *dravā* \< *drava* \< *dru*
+- *dravā* ← *drava* ← *dru*
 - \[verb\], singular, Present imperative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

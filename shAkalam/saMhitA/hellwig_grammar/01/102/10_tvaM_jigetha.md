@@ -2,11 +2,11 @@
 title = "Rig Veda 1.102.10"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *jigetha* \< *ji*
+- *jigetha* ← *ji*
 - \[verb\], singular, Perfect indicative
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
@@ -15,22 +15,22 @@ title = "Rig Veda 1.102.10"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dhanā* \< *dhana*
+- *dhanā* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *rurodhithārbheṣv* \< *rurodhitha* \< *rudh*
+- *rurodhithārbheṣv* ← *rurodhitha* ← *rudh*
 - \[verb\], singular, Perfect indicative
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
 ------------------------------------------------------------------------
-- *rurodhithārbheṣv* \< *arbheṣu* \< *arbha*
+- *rurodhithārbheṣv* ← *arbheṣu* ← *arbha*
 - \[noun\], locative, plural, masculine
 - “few; small; unimportant.”
 ------------------------------------------------------------------------
-- *ājā* \< *āji*
+- *ājā* ← *āji*
 - \[noun\], locative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
@@ -38,7 +38,7 @@ title = "Rig Veda 1.102.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *mahatsu* \< *mahat*
+- *mahatsu* ← *mahat*
 - \[noun\], locative, plural, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -48,32 +48,32 @@ title = "Rig Veda 1.102.10"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ugram* \< *ugra*
+- *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *śiśīmasy* \< *śiśīmasi* \< *śā*
+- *śiśīmasy* ← *śiśīmasi* ← *śā*
 - \[verb\], plural, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -82,11 +82,11 @@ title = "Rig Veda 1.102.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *havaneṣu* \< *havana*
+- *havaneṣu* ← *havana*
 - \[noun\], locative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *codaya* \< *coday* \< *√cud*
+- *codaya* ← *coday* ← *√cud*
 - \[verb\], singular, Present imperative
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------

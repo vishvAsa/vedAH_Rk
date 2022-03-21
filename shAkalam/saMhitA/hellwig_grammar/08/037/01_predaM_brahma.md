@@ -2,24 +2,24 @@
 title = "Rig Veda 8.37.1"
 
 +++
--   *predam* \< *pra*
+-   *predam* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *predam* \< *idam*
+- *predam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *vṛtratūryeṣv* \< *vṛtratūryeṣu* \< *vṛtratūrya*
+- *vṛtratūryeṣv* ← *vṛtratūryeṣu* ← *vṛtratūrya*
 - \[noun\], locative, plural, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *āvitha* \< *av*
+- *āvitha* ← *av*
 - \[verb\], singular, Perfect indicative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -27,11 +27,11 @@ title = "Rig Veda 8.37.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sunvataḥ* \< *su*
+- *sunvataḥ* ← *su*
 - \[verb noun\], accusative, plural
 - “press out; su.”
 ------------------------------------------------------------------------
-- *śacīpata* \< *śacīpate* \< *śacīpati*
+- *śacīpata* ← *śacīpate* ← *śacīpati*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -40,38 +40,38 @@ title = "Rig Veda 8.37.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+- *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *mādhyandinasya* \< *mādhyaṃdina*
+- *mādhyandinasya* ← *mādhyaṃdina*
 - \[noun\], genitive, singular, neuter
 - “midday.”
 ------------------------------------------------------------------------
-- *savanasya* \< *savana*
+- *savanasya* ← *savana*
 - \[noun\], genitive, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *vṛtrahann* \< *vṛtrahan*
+- *vṛtrahann* ← *vṛtrahan*
 - \[noun\], vocative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
 - *anedya*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *pibā* \< *pā*
+- *pibā* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vajrivaḥ* \< *vajrivas* \< *vajrivat*
+- *vajrivaḥ* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------

@@ -2,10 +2,10 @@
 title = "Rig Veda 5.56.3"
 
 +++
--   *mīﾱhuṣmatīva* \< *mīﾱhuṣmatī* \< *mīḍhuṣmat*
+-   *mīﾱhuṣmatīva* ← *mīﾱhuṣmatī* ← *mīḍhuṣmat*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *mīﾱhuṣmatīva* \< *iva*
+- *mīﾱhuṣmatīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -13,18 +13,18 @@ title = "Rig Veda 5.56.3"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *parāhatā* \< *parāhan* \< *√han*
+- *parāhatā* ← *parāhan* ← *√han*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *madanty* \< *madantī* \< *mad*
+- *madanty* ← *madantī* ← *mad*
 - \[verb noun\], nominative, singular
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *ety* \< *eti* \< *i*
+- *ety* ← *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -32,7 +32,7 @@ title = "Rig Veda 5.56.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ṛkṣo* \< *ṛkṣaḥ* \< *ṛkṣa*
+- *ṛkṣo* ← *ṛkṣaḥ* ← *ṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “bear; monkey; ṛkṣa; Ṛkṣa; Tree of Damocles.”
 ------------------------------------------------------------------------
@@ -40,27 +40,27 @@ title = "Rig Veda 5.56.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *śimīvāṃ* \< *śimīvat*
+- *śimīvāṃ* ← *śimīvat*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *amo* \< *amaḥ* \< *ama*
+- *amo* ← *amaḥ* ← *ama*
 - \[noun\], nominative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *dudhro* \< *dudhraḥ* \< *dudhra*
+- *dudhro* ← *dudhraḥ* ← *dudhra*
 - \[noun\], nominative, singular, masculine
 - “obstinate.”
 ------------------------------------------------------------------------
-- *gaur* \< *gauḥ* \< *go*
+- *gaur* ← *gauḥ* ← *go*
 - \[noun\], nominative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -69,7 +69,7 @@ title = "Rig Veda 5.56.3"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhīmayuḥ* \< *bhīmayu*
+- *bhīmayuḥ* ← *bhīmayu*
 - \[noun\], nominative, singular, masculine
 - “awful.”
 ------------------------------------------------------------------------

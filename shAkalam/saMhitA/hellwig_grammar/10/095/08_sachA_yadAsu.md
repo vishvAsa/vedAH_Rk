@@ -6,34 +6,34 @@ title = "Rig Veda 10.95.8"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *āsu* \< *idam*
+- *āsu* ← *idam*
 - \[noun\], locative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *jahatīṣv* \< *jahatīṣu* \< *hā*
+- *jahatīṣv* ← *jahatīṣu* ← *hā*
 - \[verb noun\], locative, plural
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *atkam* \< *atka*
+- *atkam* ← *atka*
 - \[noun\], accusative, singular, masculine
 - “garment.”
 ------------------------------------------------------------------------
-- *amānuṣīṣu* \< *amānuṣa*
+- *amānuṣīṣu* ← *amānuṣa*
 - \[noun\], locative, plural, feminine
 - “superhuman.”
 ------------------------------------------------------------------------
-- *mānuṣo* \< *mānuṣaḥ* \< *mānuṣa*
+- *mānuṣo* ← *mānuṣaḥ* ← *mānuṣa*
 - \[noun\], nominative, singular, masculine
 - “human.”
 ------------------------------------------------------------------------
-- *niṣeve* \< *niṣev* \< *√sev*
+- *niṣeve* ← *niṣev* ← *√sev*
 - \[verb\], singular, Present indikative
 - “consume; frequent; perform; eat; love; dwell; administer.”
 ------------------------------------------------------------------------
@@ -44,11 +44,11 @@ title = "Rig Veda 10.95.8"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mat* \< *mad*
+- *mat* ← *mad*
 - \[noun\], ablative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tarasantī* \< *\_* \< *√\_*
+- *tarasantī* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
@@ -56,32 +56,32 @@ title = "Rig Veda 10.95.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhujyus* \< *bhujyuḥ* \< *bhujyu*
+- *bhujyus* ← *bhujyuḥ* ← *bhujyu*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *tā* \< *tāḥ* \< *tad*
+- *tā* ← *tāḥ* ← *tad*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *atrasan* \< *tras*
+- *atrasan* ← *tras*
 - \[verb\], plural, Imperfect
 - “fear; tremble.”
 ------------------------------------------------------------------------
-- *rathaspṛśo* \< *ratha*
+- *rathaspṛśo* ← *ratha*
 - \[noun\], masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathaspṛśo* \< *spṛśaḥ* \< *spṛś*
+- *rathaspṛśo* ← *spṛśaḥ* ← *spṛś*
 - \[noun\], nominative, plural, masculine
 - “touching.”
 ------------------------------------------------------------------------
-- *nāśvāḥ* \< *nā* \< *na*
+- *nāśvāḥ* ← *nā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāśvāḥ* \< *aśvāḥ* \< *aśva*
+- *nāśvāḥ* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------

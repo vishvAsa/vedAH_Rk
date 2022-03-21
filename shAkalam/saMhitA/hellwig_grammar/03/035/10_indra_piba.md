@@ -7,11 +7,11 @@ title = "Rig Veda 3.35.10"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *piba* \< *pā*
+- *piba* ← *pā*
 - \[verb\], singular, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *svadhayā* \< *svadhā*
+- *svadhayā* ← *svadhā*
 - \[noun\], instrumental, singular, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
@@ -20,11 +20,11 @@ title = "Rig Veda 3.35.10"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sutasyāgner* \< *sutasya* \< *suta*
+- *sutasyāgner* ← *sutasya* ← *suta*
 - \[noun\], genitive, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sutasyāgner* \< *agneḥ* \< *agni*
+- *sutasyāgner* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -34,11 +34,11 @@ title = "Rig Veda 3.35.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Aorist imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *jihvayā* \< *jihvā*
+- *jihvayā* ← *jihvā*
 - \[noun\], instrumental, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 3.35.10"
 - \[noun\], vocative, singular, masculine
 - “adorable.”
 ------------------------------------------------------------------------
-- *adhvaryor* \< *adhvaryoḥ* \< *adhvaryu*
+- *adhvaryor* ← *adhvaryoḥ* ← *adhvaryu*
 - \[noun\], genitive, singular, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 3.35.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *prayataṃ* \< *prayatam* \< *pre* \< *√i*
+- *prayataṃ* ← *prayatam* ← *pre* ← *√i*
 - \[verb noun\], accusative, singular
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 3.35.10"
 - \[noun\], vocative, singular, masculine
 - “Indra; Terminalia arjuna (Roxb.) Wight et Arn.; ivory tree.”
 ------------------------------------------------------------------------
-- *hastāddhotur* \< *hastāt* \< *hasta*
+- *hastāddhotur* ← *hastāt* ← *hasta*
 - \[noun\], ablative, singular, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *hastāddhotur* \< *hotuḥ* \< *hotṛ*
+- *hastāddhotur* ← *hotuḥ* ← *hotṛ*
 - \[noun\], genitive, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
@@ -74,15 +74,15 @@ title = "Rig Veda 3.35.10"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *haviṣo* \< *haviṣaḥ* \< *havis*
+- *haviṣo* ← *haviṣaḥ* ← *havis*
 - \[noun\], genitive, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *juṣasva* \< *juṣ*
+- *juṣasva* ← *juṣ*
 - \[verb\], singular, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

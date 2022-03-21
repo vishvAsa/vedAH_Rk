@@ -2,15 +2,15 @@
 title = "Rig Veda 4.22.9"
 
 +++
--   *asme* \< *mad*
+-   *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *varṣiṣṭhā* \< *varṣiṣṭha*
+- *varṣiṣṭhā* ← *varṣiṣṭha*
 - \[noun\], accusative, plural, neuter
 - “highest.”
 ------------------------------------------------------------------------
-- *kṛṇuhi* \< *kṛ*
+- *kṛṇuhi* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,45 +21,45 @@ title = "Rig Veda 4.22.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jyeṣṭhā* \< *jyeṣṭha*
+- *jyeṣṭhā* ← *jyeṣṭha*
 - \[noun\], accusative, plural, neuter
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *nṛmṇāni* \< *nṛmṇa*
+- *nṛmṇāni* ← *nṛmṇa*
 - \[noun\], accusative, plural, neuter
 - “manhood; power.”
 ------------------------------------------------------------------------
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sahure* \< *sahuri*
+- *sahure* ← *sahuri*
 - \[noun\], vocative, singular, masculine
 - “victorious; mighty; strong.”
 ------------------------------------------------------------------------
-- *sahāṃsi* \< *sahas*
+- *sahāṃsi* ← *sahas*
 - \[noun\], accusative, plural, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *suhanāni* \< *su*
+- *suhanāni* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhanāni* \< *hanāni* \< *hana*
+- *suhanāni* ← *hanāni* ← *hana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *randhi* \< *radh*
+- *randhi* ← *radh*
 - \[verb\], singular, Aorist imperative
 - “subjugate.”
 ------------------------------------------------------------------------
-- *jahi* \< *han*
+- *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
@@ -69,11 +69,11 @@ title = "Rig Veda 4.22.9"
 - \[noun\], accusative, singular, neuter
 - “weapon.”
 ------------------------------------------------------------------------
-- *vanuṣo* \< *vanuṣaḥ* \< *vanus*
+- *vanuṣo* ← *vanuṣaḥ* ← *vanus*
 - \[noun\], genitive, singular, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *martyasya* \< *martya*
+- *martyasya* ← *martya*
 - \[noun\], genitive, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

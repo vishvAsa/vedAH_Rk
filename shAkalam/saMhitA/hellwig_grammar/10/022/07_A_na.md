@@ -6,7 +6,7 @@ title = "Rig Veda 10.22.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,14 +15,14 @@ title = "Rig Veda 10.22.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pṛkṣase* \< *pṛkṣ*
+- *pṛkṣase* ← *pṛkṣ*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *'smākam* \< *asmākam* \< *mad*
+- *'smākam* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *brahmodyatam* \< *brahma* \< *brahman*
+- *brahmodyatam* ← *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”

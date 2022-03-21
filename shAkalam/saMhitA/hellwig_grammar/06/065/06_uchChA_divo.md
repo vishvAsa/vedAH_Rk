@@ -2,83 +2,83 @@
 title = "Rig Veda 6.65.6"
 
 +++
--   *ucchā* \< *uccha* \< *vas*
+-   *ucchā* ← *uccha* ← *vas*
 - \[verb\], singular, Present imperative
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *duhitaḥ* \< *duhitar* \< *duhitṛ*
+- *duhitaḥ* ← *duhitar* ← *duhitṛ*
 - \[noun\], vocative, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *pratnavan* \< *pratna*
+- *pratnavan* ← *pratna*
 - \[noun\]
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *pratnavan* \< *vat*
+- *pratnavan* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bharadvājavad* \< *bharadvāja*
+- *bharadvājavad* ← *bharadvāja*
 - \[noun\], masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
-- *bharadvājavad* \< *vat*
+- *bharadvājavad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *vidhate* \< *vidh*
+- *vidhate* ← *vidh*
 - \[verb noun\], dative, singular
 - “worship; offer.”
 ------------------------------------------------------------------------
-- *maghoni* \< *maghavan*
+- *maghoni* ← *maghavan*
 - \[noun\], vocative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *su*
+- *suvīraṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvīraṃ* \< *vīram* \< *vīra*
+- *suvīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *gṛṇate* \< *gṛ*
+- *gṛṇate* ← *gṛ*
 - \[verb noun\], dative, singular
 - “praise.”
 ------------------------------------------------------------------------
-- *rirīhy* \< *rirīhi* \< *rā*
+- *rirīhy* ← *rirīhi* ← *rā*
 - \[verb\], singular, Present imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *urugāyam* \< *urugāya*
+- *urugāyam* ← *urugāya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
 - *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *śravo* \< *śravaḥ* \< *śravas*
+- *śravo* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

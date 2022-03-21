@@ -2,7 +2,7 @@
 title = "Rig Veda 1.55.6"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,42 +12,42 @@ title = "Rig Veda 1.55.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śravasyuḥ* \< *śravasyu*
+- *śravasyuḥ* ← *śravasyu*
 - \[noun\], nominative, singular, masculine
 - “celebrated.”
 ------------------------------------------------------------------------
-- *sadanāni* \< *sadana*
+- *sadanāni* ← *sadana*
 - \[noun\], accusative, plural, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *kṛtrimā* \< *kṛtrima*
+- *kṛtrimā* ← *kṛtrima*
 - \[noun\], accusative, plural, neuter
 - “factitious; artificial; fake.”
 ------------------------------------------------------------------------
-- *kṣmayā* \< *kṣmā*
+- *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
 ------------------------------------------------------------------------
-- *vṛdhāna* \< *vṛdhānaḥ* \< *vṛdh*
+- *vṛdhāna* ← *vṛdhānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *vināśayan* \< *vināśay* \< *√naś*
+- *vināśayan* ← *vināśay* ← *√naś*
 - \[verb noun\], nominative, singular
 - “cure; destroy; kill; remove.”
 ------------------------------------------------------------------------
-- *jyotīṃṣi* \< *jyotis*
+- *jyotīṃṣi* ← *jyotis*
 - \[noun\], accusative, plural, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *kṛṇvann* \< *kṛṇvan* \< *kṛ*
+- *kṛṇvann* ← *kṛṇvan* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -58,35 +58,35 @@ title = "Rig Veda 1.55.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *avṛkāṇi* \< *avṛka*
+- *avṛkāṇi* ← *avṛka*
 - \[noun\], accusative, plural, neuter
 - “protective; safe.”
 ------------------------------------------------------------------------
-- *yajyave* \< *yajyu*
+- *yajyave* ← *yajyu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *'va* \< *ava*
+- *'va* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *su*
+- *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *kratuḥ* \< *kratu*
+- *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *sartavā* \< *sartavai* \< *sṛ*
+- *sartavā* ← *sartavai* ← *sṛ*
 - \[verb noun\]
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *sṛjat* \< *sṛj*
+- *sṛjat* ← *sṛj*
 - \[verb\], singular, Imperfect
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”

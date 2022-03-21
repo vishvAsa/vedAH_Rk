@@ -6,20 +6,20 @@ title = "Rig Veda 5.83.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vātā* \< *vātāḥ* \< *vāta*
+- *vātā* ← *vātāḥ* ← *vāta*
 - \[noun\], nominative, plural, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vānti* \< *vā*
+- *vānti* ← *vā*
 - \[verb\], plural, Present indikative
 - “blow; blow; emit.”
 ------------------------------------------------------------------------
-- *patayanti* \< *patay* \< *√pat*
+- *patayanti* ← *patay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “fly.”
 ------------------------------------------------------------------------
-- *vidyuta* \< *vidyutaḥ* \< *vidyut*
+- *vidyuta* ← *vidyutaḥ* ← *vidyut*
 - \[noun\], nominative, plural, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
@@ -27,19 +27,19 @@ title = "Rig Veda 5.83.4"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *oṣadhīr* \< *oṣadhīḥ* \< *oṣadhī*
+- *oṣadhīr* ← *oṣadhīḥ* ← *oṣadhī*
 - \[noun\], nominative, plural, feminine
 - “herb; plant; drug; herb.”
 ------------------------------------------------------------------------
-- *jihate* \< *hā*
+- *jihate* ← *hā*
 - \[verb\], plural, Present indikative
 - “move over; yield; give way.”
 ------------------------------------------------------------------------
-- *pinvate* \< *pinv*
+- *pinvate* ← *pinv*
 - \[verb\], singular, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *svaḥ* \< *svar*
+- *svaḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -47,16 +47,16 @@ title = "Rig Veda 5.83.4"
 - \[noun\], nominative, singular, feminine
 - “Irā; drink; beverage.”
 ------------------------------------------------------------------------
-- *viśvasmai* \< *viśva*
+- *viśvasmai* ← *viśva*
 - \[noun\], dative, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanāya* \< *bhuvana*
+- *bhuvanāya* ← *bhuvana*
 - \[noun\], dative, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *jāyate* \< *jan*
+- *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -66,19 +66,19 @@ title = "Rig Veda 5.83.4"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *parjanyaḥ* \< *parjanya*
+- *parjanyaḥ* ← *parjanya*
 - \[noun\], nominative, singular, masculine
 - “cloud; Parjanya; Indra; nimbus.”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *retasāvati* \< *retasā* \< *retas*
+- *retasāvati* ← *retasā* ← *retas*
 - \[noun\], instrumental, singular, neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *retasāvati* \< *avati* \< *av*
+- *retasāvati* ← *avati* ← *av*
 - \[verb\], singular, Present indikative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

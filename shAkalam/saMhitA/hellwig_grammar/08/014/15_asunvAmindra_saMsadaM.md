@@ -2,7 +2,7 @@
 title = "Rig Veda 8.14.15"
 
 +++
--   *asunvām* \< *asunva*
+-   *asunvām* ← *asunva*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *indra*
@@ -10,38 +10,38 @@ title = "Rig Veda 8.14.15"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *saṃsadaṃ* \< *saṃsadam* \< *saṃsad*
+- *saṃsadaṃ* ← *saṃsadam* ← *saṃsad*
 - \[noun\], accusative, singular, feminine
 - “assembly; court; company.”
 ------------------------------------------------------------------------
-- *viṣūcīṃ* \< *viṣūcīm* \< *viṣvañc*
+- *viṣūcīṃ* ← *viṣūcīm* ← *viṣvañc*
 - \[noun\], accusative, singular, feminine
 - “dispersed; viṣvañc \[word\].”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *anāśayaḥ* \< *nāśay* \< *√naś*
+- *anāśayaḥ* ← *nāśay* ← *√naś*
 - \[verb\], singular, Imperfect
 - “cure; destroy; kill; remove; māray; obstruct; expiate; eliminate.”
 ------------------------------------------------------------------------
-- *somapā* \< *soma*
+- *somapā* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapā* \< *pāḥ* \< *pā*
+- *somapā* ← *pāḥ* ← *pā*
 - \[noun\], nominative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *uttaro* \< *uttaraḥ* \< *uttara*
+- *uttaro* ← *uttaraḥ* ← *uttara*
 - \[noun\], nominative, singular, masculine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *bhavan* \< *bhū*
+- *bhavan* ← *bhū*
 - \[verb noun\], nominative, singular
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

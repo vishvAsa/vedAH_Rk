@@ -2,45 +2,45 @@
 title = "Rig Veda 8.6.11"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pratnena* \< *pratna*
+- *pratnena* ← *pratna*
 - \[noun\], instrumental, singular, neuter
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *manmanā* \< *manman*
+- *manmanā* ← *manman*
 - \[noun\], instrumental, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *śumbhāmi* \< *śubh*
+- *śumbhāmi* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *kaṇvavat* \< *kaṇva*
+- *kaṇvavat* ← *kaṇva*
 - \[noun\], masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *kaṇvavat* \< *vat*
+- *kaṇvavat* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *yenendraḥ* \< *yena* \< *yad*
+- *yenendraḥ* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yenendraḥ* \< *indraḥ* \< *indra*
+- *yenendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śuṣmam* \< *śuṣma*
+- *śuṣmam* ← *śuṣma*
 - \[noun\], accusative, singular, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ title = "Rig Veda 8.6.11"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

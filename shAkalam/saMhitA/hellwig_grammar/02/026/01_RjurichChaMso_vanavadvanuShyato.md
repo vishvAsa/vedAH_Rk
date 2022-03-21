@@ -2,26 +2,26 @@
 title = "Rig Veda 2.26.1"
 
 +++
--   *ṛjur* \< *ṛjuḥ* \< *ṛju*
+-   *ṛjur* ← *ṛjuḥ* ← *ṛju*
 - \[noun\], nominative, singular, masculine
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *icchaṃso* \< *id*
+- *icchaṃso* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *icchaṃso* \< *śaṃsaḥ* \< *śaṃsa*
+- *icchaṃso* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
-- *vanavad* \< *vanavat* \< *van*
+- *vanavad* ← *vanavat* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *vanuṣyato* \< *vanuṣyataḥ* \< *vanuṣy*
+- *vanuṣyato* ← *vanuṣyataḥ* ← *vanuṣy*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *devayann* \< *devayan* \< *devay*
+- *devayann* ← *devayan* ← *devay*
 - \[verb noun\], nominative, singular
 - “solicit.”
 ------------------------------------------------------------------------
@@ -29,58 +29,58 @@ title = "Rig Veda 2.26.1"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *adevayantam* \< *a*
+- *adevayantam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevayantam* \< *devayantam* \< *devay*
+- *adevayantam* ← *devayantam* ← *devay*
 - \[verb noun\], accusative, singular
 - “solicit.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *asat* \< *as*
+- *asat* ← *as*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *suprāvīr* \< *su*
+- *suprāvīr* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprāvīr* \< *prāvīḥ* \< *prāvī*
+- *suprāvīr* ← *prāvīḥ* ← *prāvī*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vanavat* \< *van*
+- *vanavat* ← *van*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *duṣṭaraṃ* \< *duṣṭaram* \< *duṣṭara*
+- *duṣṭaraṃ* ← *duṣṭaram* ← *duṣṭara*
 - \[noun\], accusative, singular, masculine
 - “incomparable; irresistible; unbearable; unconquerable.”
 ------------------------------------------------------------------------
-- *yajved* \< *yajvā* \< *yajvan*
+- *yajved* ← *yajvā* ← *yajvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *yajved* \< *id*
+- *yajved* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *ayajyor* \< *a*
+- *ayajyor* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ayajyor* \< *yajyoḥ* \< *yajyu*
+- *ayajyor* ← *yajyoḥ* ← *yajyu*
 - \[noun\], genitive, singular, masculine
 - “worshiping.”
 ------------------------------------------------------------------------
@@ -88,12 +88,12 @@ title = "Rig Veda 2.26.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhajāti* \< *bhaj*
+- *bhajāti* ← *bhaj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *bhojanam* \< *bhojana*
+- *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------

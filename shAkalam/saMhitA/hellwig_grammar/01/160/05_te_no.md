@@ -2,21 +2,21 @@
 title = "Rig Veda 1.160.5"
 
 +++
--   *te* \< *tad*
+-   *te* ← *tad*
 - \[noun\], nominative, dual, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gṛṇāne* \< *gṛ*
+- *gṛṇāne* ← *gṛ*
 - \[verb noun\], nominative, dual
 - “praise.”
 ------------------------------------------------------------------------
-- *mahinī* \< *mahin*
+- *mahinī* ← *mahin*
 - \[noun\], nominative, dual, feminine
 - “mighty; great.”
 ------------------------------------------------------------------------
@@ -24,11 +24,11 @@ title = "Rig Veda 1.160.5"
 - \[noun\], accusative, singular, neuter
 - “great; firm.”
 ------------------------------------------------------------------------
-- *śravaḥ* \< *śravas*
+- *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 1.160.5"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *dhāsatho* \< *dhāsathaḥ* \< *dhā*
+- *dhāsatho* ← *dhāsathaḥ* ← *dhā*
 - \[verb\], dual, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -46,19 +46,19 @@ title = "Rig Veda 1.160.5"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *yenābhi* \< *yena* \< *yad*
+- *yenābhi* ← *yena* ← *yad*
 - \[noun\], instrumental, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yenābhi* \< *abhi*
+- *yenābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kṛṣṭīs* \< *kṛṣṭīḥ* \< *kṛṣṭi*
+- *kṛṣṭīs* ← *kṛṣṭīḥ* ← *kṛṣṭi*
 - \[noun\], accusative, plural, feminine
 - “people; citizenry.”
 ------------------------------------------------------------------------
-- *tatanāma* \< *tan*
+- *tatanāma* ← *tan*
 - \[verb\], plural, Perfect conjunctive (subj.)
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -66,14 +66,14 @@ title = "Rig Veda 1.160.5"
 - *viśvahā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *panāyyam* \< *panāyya*
+- *panāyyam* ← *panāyya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *ojo* \< *ojaḥ* \< *ojas*
+- *ojo* ← *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 1.160.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *invatam* \< *inv*
+- *invatam* ← *inv*
 - \[verb\], dual, Present imperative
 - “bring; drive.”
 ------------------------------------------------------------------------

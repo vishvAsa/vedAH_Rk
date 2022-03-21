@@ -6,7 +6,7 @@ title = "Rig Veda 10.100.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 10.100.7"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *cakṛma* \< *kṛ*
+- *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,47 +29,47 @@ title = "Rig Veda 10.100.7"
 - \[noun\], accusative, singular, neuter
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *duṣkṛtaṃ* \< *duṣkṛtam* \< *duṣkṛta*
+- *duṣkṛtaṃ* ← *duṣkṛtam* ← *duṣkṛta*
 - \[noun\], accusative, singular, neuter
 - “evil; misdemeanor; sin.”
 ------------------------------------------------------------------------
-- *nāviṣṭyaṃ* \< *na*
+- *nāviṣṭyaṃ* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāviṣṭyaṃ* \< *āviṣṭyam* \< *āviṣṭya*
+- *nāviṣṭyaṃ* ← *āviṣṭyam* ← *āviṣṭya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *devaheḍanam* \< *deva*
+- *devaheḍanam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaheḍanam* \< *heḍanam* \< *heḍana*
+- *devaheḍanam* ← *heḍanam* ← *heḍana*
 - \[noun\], accusative, singular, neuter
 - “anger.”
 ------------------------------------------------------------------------
 - *mākir*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *anṛtasya* \< *anṛta*
+- *anṛtasya* ← *anṛta*
 - \[noun\], genitive, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *varpasa* \< *varpasaḥ* \< *varpas*
+- *varpasa* ← *varpasaḥ* \< *varpas*
 - \[noun\], genitive, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------

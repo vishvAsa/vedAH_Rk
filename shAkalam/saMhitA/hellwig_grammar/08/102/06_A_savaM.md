@@ -6,11 +6,11 @@ title = "Rig Veda 8.102.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *savaṃ* \< *savam* \< *sava*
+- *savaṃ* ← *savam* ← *sava*
 - \[noun\], accusative, singular, masculine
 - “yajña; command; impulse; direction; momentum.”
 ------------------------------------------------------------------------
-- *savitur* \< *savituḥ* \< *savitṛ*
+- *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
@@ -18,33 +18,33 @@ title = "Rig Veda 8.102.6"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *bhagasyeva* \< *bhagasya* \< *bhaga*
+- *bhagasyeva* ← *bhagasya* ← *bhaga*
 - \[noun\], genitive, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *bhagasyeva* \< *iva*
+- *bhagasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bhujiṃ* \< *bhujim* \< *bhuji*
+- *bhujiṃ* ← *bhujim* ← *bhuji*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *samudravāsasam* \< *samudra*
+- *samudravāsasam* ← *samudra*
 - \[noun\], masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *samudravāsasam* \< *vāsasam* \< *vāsas*
+- *samudravāsasam* ← *vāsasam* ← *vāsas*
 - \[noun\], accusative, singular, masculine
 - “clothing; fabric; garment; feather; dress; envelope.”
 ------------------------------------------------------------------------

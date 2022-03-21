@@ -6,42 +6,42 @@ title = "Rig Veda 8.46.14"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vīram* \< *vīra*
+- *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *andhaso* \< *andhasaḥ* \< *andhas*
+- *andhaso* ← *andhasaḥ* ← *andhas*
 - \[noun\], genitive, singular, neuter
 - “Soma; drink; amṛta.”
 ------------------------------------------------------------------------
-- *madeṣu* \< *mada*
+- *madeṣu* ← *mada*
 - \[noun\], locative, plural, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *gāya* \< *gā*
+- *gāya* ← *gā*
 - \[verb\], singular, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *mahā* \< *mah*
+- *mahā* ← *mah*
 - \[noun\], instrumental, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *vicetasam* \< *vicetas*
+- *vicetasam* ← *vicetas*
 - \[noun\], accusative, singular, masculine
 - “wise; diligent.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -50,15 +50,15 @@ title = "Rig Veda 8.46.14"
 - \[adverb\]
 - “by name; indeed; however; indeed.”
 ------------------------------------------------------------------------
-- *śrutyaṃ* \< *śrutyam* \< *śrutya*
+- *śrutyaṃ* ← *śrutyam* ← *śrutya*
 - \[noun\], accusative, singular, masculine
 - “celebrated; glorious.”
 ------------------------------------------------------------------------
-- *śākinaṃ* \< *śākinam* \< *śākina*
+- *śākinaṃ* ← *śākinam* ← *śākina*
 - \[noun\], accusative, singular, masculine
 - “mighty; strong.”
 ------------------------------------------------------------------------
-- *vaco* \< *vacaḥ* \< *vacas*
+- *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], nominative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------

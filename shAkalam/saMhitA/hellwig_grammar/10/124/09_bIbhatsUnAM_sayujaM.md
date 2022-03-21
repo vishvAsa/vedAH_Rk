@@ -2,23 +2,23 @@
 title = "Rig Veda 10.124.9"
 
 +++
--   *bībhatsūnāṃ* \< *bībhatsūnām* \< *bībhatsu*
+-   *bībhatsūnāṃ* ← *bībhatsūnām* ← *bībhatsu*
 - \[noun\], genitive, plural, feminine
 - “coy; reserved.”
 ------------------------------------------------------------------------
-- *sayujaṃ* \< *sayujam* \< *sayuj*
+- *sayujaṃ* ← *sayujam* ← *sayuj*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *haṃsam* \< *haṃsa*
+- *haṃsam* ← *haṃsa*
 - \[noun\], accusative, singular, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

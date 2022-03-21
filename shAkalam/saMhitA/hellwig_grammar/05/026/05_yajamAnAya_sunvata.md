@@ -2,11 +2,11 @@
 title = "Rig Veda 5.26.5"
 
 +++
--   *yajamānāya* \< *yaj*
+-   *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sunvata* \< *sunvate* \< *su*
+- *sunvata* ← *sunvate* \< *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------

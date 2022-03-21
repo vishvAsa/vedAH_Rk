@@ -2,36 +2,36 @@
 title = "Rig Veda 3.2.11"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jinvate* \< *jinv*
+- *jinvate* ← *jinv*
 - \[verb\], singular, Present indikative
 - “enliven; animate.”
 ------------------------------------------------------------------------
-- *jaṭhareṣu* \< *jaṭhara*
+- *jaṭhareṣu* ← *jaṭhara*
 - \[noun\], locative, plural, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
-- *prajajñivān* \< *prajan* \< *√jan*
+- *prajajñivān* ← *prajan* ← *√jan*
 - \[verb noun\], nominative, singular
 - “become; originate; result; be born; give birth; beget; grow;
     issue.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *citreṣu* \< *citra*
+- *citreṣu* ← *citra*
 - \[noun\], locative, plural, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *nānadan* \< *nānad* \< *√nad*
+- *nānadan* ← *nānad* ← *√nad*
 - \[verb noun\], nominative, singular
 - “bellow.”
 ------------------------------------------------------------------------
@@ -39,23 +39,23 @@ title = "Rig Veda 3.2.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *siṃhaḥ* \< *siṃha*
+- *siṃhaḥ* ← *siṃha*
 - \[noun\], nominative, singular, masculine
 - “lion; hero; best; leader; siṃha \[word\].”
 ------------------------------------------------------------------------
-- *vaiśvānaraḥ* \< *vaiśvānara*
+- *vaiśvānaraḥ* ← *vaiśvānara*
 - \[noun\], nominative, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *pṛthupājā* \< *pṛthu*
+- *pṛthupājā* ← *pṛthu*
 - \[noun\]
 - “broad; wide; great; flat; pṛthu \[word\]; far.”
 ------------------------------------------------------------------------
-- *pṛthupājā* \< *pājāḥ* \< *pājas*
+- *pṛthupājā* ← *pājāḥ* ← *pājas*
 - \[noun\], nominative, singular, masculine
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *amartyo* \< *amartyaḥ* \< *amartya*
+- *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
@@ -63,12 +63,12 @@ title = "Rig Veda 3.2.11"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *ratnā* \< *ratna*
+- *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *dayamāno* \< *dayamānaḥ* \< *day*
+- *dayamāno* ← *dayamānaḥ* ← *day*
 - \[verb noun\], nominative, singular
 - “share.”
 ------------------------------------------------------------------------
@@ -76,7 +76,7 @@ title = "Rig Veda 3.2.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

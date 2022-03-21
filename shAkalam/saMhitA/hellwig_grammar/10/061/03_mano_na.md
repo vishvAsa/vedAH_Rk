@@ -2,7 +2,7 @@
 title = "Rig Veda 10.61.3"
 
 +++
--   *mano* \< *manaḥ* \< *manas*
+-   *mano* ← *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -11,30 +11,30 @@ title = "Rig Veda 10.61.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *havaneṣu* \< *havana*
+- *havaneṣu* ← *havana*
 - \[noun\], locative, plural, neuter
 - “invocation.”
 ------------------------------------------------------------------------
-- *tigmaṃ* \< *tigmam* \< *tigma*
+- *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *vipaḥ* \< *vip*
+- *vipaḥ* ← *vip*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *śacyā* \< *śacī*
+- *śacyā* ← *śacī*
 - \[noun\], instrumental, singular, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *vanutho* \< *vanuthaḥ* \< *van*
+- *vanutho* ← *vanuthaḥ* ← *van*
 - \[verb\], dual, Present indikative
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *dravantā* \< *dru*
+- *dravantā* ← *dru*
 - \[verb noun\], nominative, dual
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
@@ -43,34 +43,34 @@ title = "Rig Veda 10.61.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yaḥ* \< *yad*
+- *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *śaryābhis* \< *śaryābhiḥ* \< *śaryā*
+- *śaryābhis* ← *śaryābhiḥ* ← *śaryā*
 - \[noun\], instrumental, plural, feminine
 - “arrow.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇo* \< *tuvi*
+- *tuvinṛmṇo* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇo* \< *nṛmṇaḥ* \< *nṛmṇa*
+- *tuvinṛmṇo* ← *nṛmṇaḥ* ← *nṛmṇa*
 - \[noun\], nominative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *asyāśrīṇītādiśaṃ* \< *asya* \< *idam*
+- *asyāśrīṇītādiśaṃ* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asyāśrīṇītādiśaṃ* \< *āśrīṇīta* \< *āśrī* \< *√śrī*
+- *asyāśrīṇītādiśaṃ* ← *āśrīṇīta* ← *āśrī* ← *√śrī*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *asyāśrīṇītādiśaṃ* \< *ādiśam* \< *ādiś*
+- *asyāśrīṇītādiśaṃ* ← *ādiśam* ← *ādiś*
 - \[noun\], accusative, singular, feminine
 - “admonition.”
 ------------------------------------------------------------------------
-- *gabhastau* \< *gabhasti*
+- *gabhastau* ← *gabhasti*
 - \[noun\], locative, singular, masculine
 - “beam; hand; sun.”
 ------------------------------------------------------------------------

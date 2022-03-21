@@ -2,7 +2,7 @@
 title = "Rig Veda 9.15.8"
 
 +++
--   *etam* \< *etad*
+-   *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 9.15.8"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tyaṃ* \< *tyam* \< *tya*
+- *tyaṃ* ← *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *daśa* \< *daśan*
+- *daśa* ← *daśan*
 - \[noun\], nominative, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *kṣipo* \< *kṣipaḥ* \< *kṣip*
+- *kṣipo* ← *kṣipaḥ* ← *kṣip*
 - \[noun\], nominative, plural, feminine
 - “finger.”
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, plural, masculine
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *dhītayaḥ* \< *dhīti*
+- *dhītayaḥ* ← *dhīti*
 - \[noun\], nominative, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *svāyudham* \< *su*
+- *svāyudham* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svāyudham* \< *āyudham* \< *āyudha*
+- *svāyudham* ← *āyudham* ← *āyudha*
 - \[noun\], accusative, singular, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *madintamam* \< *madintama*
+- *madintamam* ← *madintama*
 - \[noun\], accusative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------

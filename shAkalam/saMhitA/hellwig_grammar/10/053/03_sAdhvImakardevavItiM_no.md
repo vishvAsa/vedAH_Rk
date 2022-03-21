@@ -2,12 +2,12 @@
 title = "Rig Veda 10.53.3"
 
 +++
--   *sādhvīm* \< *sādhu*
+-   *sādhvīm* ← *sādhu*
 - \[noun\], accusative, singular, feminine
 - “good; good; correct; correct; sādhu \[word\]; excellent;
     efficient.”
 ------------------------------------------------------------------------
-- *akar* \< *akaḥ* \< *kṛ*
+- *akar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -18,15 +18,15 @@ title = "Rig Veda 10.53.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *devavītiṃ* \< *deva*
+- *devavītiṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devavītiṃ* \< *vītim* \< *vīti*
+- *devavītiṃ* ← *vītim* ← *vīti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -34,50 +34,50 @@ title = "Rig Veda 10.53.3"
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *yajñasya* \< *yajña*
+- *yajñasya* ← *yajña*
 - \[noun\], genitive, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *jihvām* \< *jihvā*
+- *jihvām* ← *jihvā*
 - \[noun\], accusative, singular, feminine
 - “tongue; tongue; jihvā \[word\]; fire.”
 ------------------------------------------------------------------------
-- *avidāma* \< *vid*
+- *avidāma* ← *vid*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *guhyām* \< *guhya*
+- *guhyām* ← *guhya*
 - \[noun\], accusative, singular, feminine
 - “secret; concealed.”
 ------------------------------------------------------------------------
-- *sa* \< *saḥ* \< *tad*
+- *sa* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyus*
+- *āyur* ← *āyuḥ* ← *āyus*
 - \[noun\], accusative, singular, neuter
 - “life; longevity; āyus; life; āyus \[word\]; Āyus.”
 ------------------------------------------------------------------------
-- *āgāt* \< *āgā* \< *√gā*
+- *āgāt* ← *āgā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 - “come; arrive.”
 ------------------------------------------------------------------------
-- *surabhir* \< *surabhiḥ* \< *surabhi*
+- *surabhir* ← *surabhiḥ* ← *surabhi*
 - \[noun\], nominative, singular, masculine
 - “fragrant; perfumed; surabhi \[word\].”
 ------------------------------------------------------------------------
-- *vasāno* \< *vasānaḥ* \< *vas*
+- *vasāno* ← *vasānaḥ* ← *vas*
 - \[verb noun\], nominative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *bhadrām* \< *bhadra*
+- *bhadrām* ← *bhadra*
 - \[noun\], accusative, singular, feminine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *akar* \< *akaḥ* \< *kṛ*
+- *akar* ← *akaḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -88,16 +88,16 @@ title = "Rig Veda 10.53.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *devahūtiṃ* \< *deva*
+- *devahūtiṃ* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devahūtiṃ* \< *hūtim* \< *hūti*
+- *devahūtiṃ* ← *hūtim* ← *hūti*
 - \[noun\], accusative, singular, feminine
 - “invocation.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

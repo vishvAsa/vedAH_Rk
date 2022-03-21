@@ -2,12 +2,12 @@
 title = "Rig Veda 10.25.6"
 
 +++
--   *paśuṃ* \< *paśum* \< *paśu*
+-   *paśuṃ* ← *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -15,7 +15,7 @@ title = "Rig Veda 10.25.6"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rakṣasi* \< *rakṣ*
+- *rakṣasi* ← *rakṣ*
 - \[verb\], singular, Present indikative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
@@ -23,19 +23,19 @@ title = "Rig Veda 10.25.6"
 - \[adverb\]
 - “distributively.”
 ------------------------------------------------------------------------
-- *viṣṭhitaṃ* \< *viṣṭhitam* \< *viṣṭhā* \< *√sthā*
+- *viṣṭhitaṃ* ← *viṣṭhitam* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
-- *jagat* \< *jagant*
+- *jagat* ← *jagant*
 - \[noun\], accusative, singular, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *samākṛṇoṣi* \< *samākṛ* \< *√kṛ*
+- *samākṛṇoṣi* ← *samākṛ* ← *√kṛ*
 - \[verb\], singular, Present indikative
 - “gather; collect.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
@@ -43,29 +43,29 @@ title = "Rig Veda 10.25.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], dative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *saṃpaśyan* \< *saṃpaś* \< *√paś*
+- *saṃpaśyan* ← *saṃpaś* ← *√paś*
 - \[verb noun\], nominative, singular
 - “see; inspect; watch; detect; allow.”
 ------------------------------------------------------------------------
-- *bhuvanā* \< *bhuvana*
+- *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *vivakṣase* \< *vivakṣ* \< *√vac*
+- *vivakṣase* ← *vivakṣ* ← *√vac*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

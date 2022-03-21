@@ -2,27 +2,27 @@
 title = "Rig Veda 10.75.6"
 
 +++
--   *tṛṣṭāmayā* \< *tṛṣṭāmā*
+-   *tṛṣṭāmayā* ← *tṛṣṭāmā*
 - \[noun\], instrumental, singular, feminine
 - “Tṛṣṭāmā.”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam*
+- *prathamaṃ* ← *prathamam*
 - \[adverb\]
 - “first.”
 ------------------------------------------------------------------------
-- *yātave* \< *yā*
+- *yātave* ← *yā*
 - \[verb noun\]
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sajūḥ* \< *sajūs*
+- *sajūḥ* ← *sajūs*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *susartvā* \< *susartu*
+- *susartvā* ← *susartu*
 - \[noun\], instrumental, singular, feminine
 - “Susartu.”
 ------------------------------------------------------------------------
-- *rasayā* \< *rasā*
+- *rasayā* ← *rasā*
 - \[noun\], instrumental, singular, feminine
 - “Rasā; Earth; Earth.”
 ------------------------------------------------------------------------
@@ -30,45 +30,45 @@ title = "Rig Veda 10.75.6"
 - \[noun\], instrumental, singular, feminine
 - “Śvetyā.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], instrumental, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sindho* \< *sindhu*
+- *sindho* ← *sindhu*
 - \[noun\], vocative, singular, feminine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *kubhayā* \< *kubhā*
+- *kubhayā* ← *kubhā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *gomatīṃ* \< *gomatīm* \< *gomatī*
+- *gomatīṃ* ← *gomatīm* ← *gomatī*
 - \[noun\], accusative, singular, feminine
 - “Gomatī; Gomatī; Gomatī; gorocanā; Devi.”
 ------------------------------------------------------------------------
-- *krumum* \< *krumu*
+- *krumum* ← *krumu*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *mehatnvā* \< *mehatnū*
+- *mehatnvā* ← *mehatnū*
 - \[noun\], instrumental, singular, feminine
 - “Mehatnū.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *īyase* \< *ī* \< *√i*
+- *īyase* ← *ī* ← *√i*
 - \[verb\], singular, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

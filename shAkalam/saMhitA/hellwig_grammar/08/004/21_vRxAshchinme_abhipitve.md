@@ -2,43 +2,43 @@
 title = "Rig Veda 8.4.21"
 
 +++
--   *vṛkṣāś* \< *vṛkṣāḥ* \< *vṛkṣa*
+-   *vṛkṣāś* ← *vṛkṣāḥ* ← *vṛkṣa*
 - \[noun\], nominative, plural, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhipitve* \< *abhipitva*
+- *abhipitve* ← *abhipitva*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *arāraṇuḥ* \< *ran*
+- *arāraṇuḥ* ← *ran*
 - \[verb\], plural, Plusquamperfect
 - “rejoice.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *bhajanta* \< *bhaj*
+- *bhajanta* ← *bhaj*
 - \[verb\], plural, Present injunctive
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *mehanāśvam* \< *mehanā*
+- *mehanāśvam* ← *mehanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *mehanāśvam* \< *aśvam* \< *aśva*
+- *mehanāśvam* ← *aśvam* ← *aśva*
 - \[noun\], accusative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *bhajanta* \< *bhaj*
+- *bhajanta* ← *bhaj*
 - \[verb\], plural, Present injunctive
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”

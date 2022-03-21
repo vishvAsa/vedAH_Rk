@@ -6,29 +6,29 @@ title = "Rig Veda 7.60.9"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *vediṃ* \< *vedim* \< *vedi*
+- *vediṃ* ← *vedim* ← *vedi*
 - \[noun\], accusative, singular, feminine
 - “Vedi; pedestal.”
 ------------------------------------------------------------------------
-- *hotrābhir* \< *hotrābhiḥ* \< *hotrā*
+- *hotrābhir* ← *hotrābhiḥ* ← *hotrā*
 - \[noun\], instrumental, plural, feminine
 ------------------------------------------------------------------------
-- *yajeta* \< *yaj*
+- *yajeta* ← *yaj*
 - \[verb\], singular, Present optative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ripaḥ* \< *rip*
+- *ripaḥ* ← *rip*
 - \[noun\], accusative, plural, feminine
 - “deceiver.”
 ------------------------------------------------------------------------
-- *kāścid* \< *kaścit*
+- *kāścid* ← *kaścit*
 - \[noun\], accusative, plural, feminine
 - “any(a); some(a); some(a); some(a); some(a).”
 ------------------------------------------------------------------------
-- *varuṇadhrutaḥ* \< *varuṇadhrut*
+- *varuṇadhrutaḥ* ← *varuṇadhrut*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *saḥ* \< *tad*
+- *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -38,26 +38,26 @@ title = "Rig Veda 7.60.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *dveṣobhir* \< *dveṣobhiḥ* \< *dveṣas*
+- *dveṣobhir* ← *dveṣobhiḥ* ← *dveṣas*
 - \[noun\], instrumental, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *vṛṇaktūruṃ* \< *vṛṇaktu* \< *vṛj*
+- *vṛṇaktūruṃ* ← *vṛṇaktu* ← *vṛj*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *vṛṇaktūruṃ* \< *urum* \< *uru*
+- *vṛṇaktūruṃ* ← *urum* ← *uru*
 - \[noun\], accusative, singular, masculine
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *sudāse* \< *sudās*
+- *sudāse* ← *sudās*
 - \[noun\], dative, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣaṇau* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣaṇau* ← *vṛṣan*
 - \[noun\], nominative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 7.60.9"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *lokam* \< *loka*
+- *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”

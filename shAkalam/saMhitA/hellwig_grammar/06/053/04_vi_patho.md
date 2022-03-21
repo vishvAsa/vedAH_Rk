@@ -6,19 +6,19 @@ title = "Rig Veda 6.53.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vāja*
+- *vājasātaye* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *sātaye* \< *sāti*
+- *vājasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *cinuhi* \< *ci*
+- *cinuhi* ← *ci*
 - \[verb\], singular, Present imperative
 - “observe; detect; notice; heed; mind.”
 ------------------------------------------------------------------------
@@ -26,17 +26,17 @@ title = "Rig Veda 6.53.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *mṛdho* \< *mṛdhaḥ* \< *mṛdh*
+- *mṛdho* ← *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *jahi* \< *han*
+- *jahi* ← *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *sādhantām* \< *sādh*
+- *sādhantām* ← *sādh*
 - \[verb\], plural, Present imperative
 - “promote; succeed.”
 ------------------------------------------------------------------------
@@ -45,11 +45,11 @@ title = "Rig Veda 6.53.4"
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

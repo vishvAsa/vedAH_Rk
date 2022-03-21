@@ -2,42 +2,42 @@
 title = "Rig Veda 6.2.6"
 
 +++
--   *tveṣas* \< *tveṣaḥ* \< *tveṣa*
+-   *tveṣas* ← *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhūma* \< *dhūmaḥ* \< *dhūma*
+- *dhūma* ← *dhūmaḥ* ← *dhūma*
 - \[noun\], nominative, singular, masculine
 - “smoke; dhūmavedha; carbon black; dhūmana; mist; vapor;
     vaporization; dhūma \[word\]; incense.”
 ------------------------------------------------------------------------
-- *ṛṇvati* \< *ṛch*
+- *ṛṇvati* ← *ṛch*
 - \[verb\], plural, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *ṣañ* \< *san* \< *as*
+- *ṣañ* ← *san* ← *as*
 - \[verb noun\], nominative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *chukra* \< *śukraḥ* \< *śukra*
+- *chukra* ← *śukraḥ* ← *śukra*
 - \[noun\], nominative, singular, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *ātataḥ* \< *ātan* \< *√tan*
+- *ātataḥ* ← *ātan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; prolong; chant; inflate.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *svar*
+- *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -49,15 +49,15 @@ title = "Rig Veda 6.2.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *dyutā* \< *dyut*
+- *dyutā* ← *dyut*
 - \[noun\], instrumental, singular, feminine
 - “beam.”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṛpā* \< *kṛp*
+- *kṛpā* ← *kṛp*
 - \[noun\], instrumental, singular, feminine
 - “kṛp.”
 ------------------------------------------------------------------------
@@ -66,7 +66,7 @@ title = "Rig Veda 6.2.6"
 - “fire; Agni; sacrificial fire; digestion; Plumbago zeylanica;
     vahni.”
 ------------------------------------------------------------------------
-- *rocase* \< *ruc*
+- *rocase* ← *ruc*
 - \[verb\], singular, Present indikative
 - “please; shine.”
 ------------------------------------------------------------------------

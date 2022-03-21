@@ -2,50 +2,50 @@
 title = "Rig Veda 10.123.1"
 
 +++
--   *ayaṃ* \< *ayam* \< *idam*
+-   *ayaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *venaś* \< *venaḥ* \< *vena*
+- *venaś* ← *venaḥ* ← *vena*
 - \[noun\], nominative, singular, masculine
 - “Vena.”
 ------------------------------------------------------------------------
-- *codayat* \< *coday* \< *√cud*
+- *codayat* ← *coday* ← *√cud*
 - \[verb\], singular, Present injunctive
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------
-- *pṛśnigarbhā* \< *pṛśni*
+- *pṛśnigarbhā* ← *pṛśni*
 - \[noun\], feminine
 - “Pṛśni; beam.”
 ------------------------------------------------------------------------
-- *pṛśnigarbhā* \< *garbhāḥ* \< *garbha*
+- *pṛśnigarbhā* ← *garbhāḥ* ← *garbha*
 - \[noun\], accusative, plural, feminine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *jyotirjarāyū* \< *jyotiḥ* \< *jyotis*
+- *jyotirjarāyū* ← *jyotiḥ* ← *jyotis*
 - \[noun\], neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *jyotirjarāyū* \< *jarāyū* \< *jarāyu*
+- *jyotirjarāyū* ← *jarāyū* ← *jarāyu*
 - \[noun\], accusative, plural, feminine
 - “afterbirth; chorion; placenta.”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *vimāne* \< *vimāna*
+- *vimāne* ← *vimāna*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *imam* \< *idam*
+- *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *apāṃ* \< *apām* \< *ap*
+- *apāṃ* ← *apām* ← *ap*
 - \[noun\], genitive, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 10.93.15"
 
 +++
--   *adhīn* \< *adhi*
+-   *adhīn* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *adhīn* \< *id*
+- *adhīn* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -19,7 +19,7 @@ title = "Rig Veda 10.93.15"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *saptatiṃ* \< *saptatim* \< *saptati*
+- *saptatiṃ* ← *saptatim* ← *saptati*
 - \[noun\], accusative, singular, feminine
 - “seventy; saptati \[word\].”
 ------------------------------------------------------------------------
@@ -27,7 +27,7 @@ title = "Rig Veda 10.93.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
@@ -35,36 +35,36 @@ title = "Rig Veda 10.93.15"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *didiṣṭa* \< *diś*
+- *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *tānvaḥ* \< *tānva*
+- *tānvaḥ* ← *tānva*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *didiṣṭa* \< *diś*
+- *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *pārthyaḥ* \< *pārthya*
+- *pārthyaḥ* ← *pārthya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *sadyo* \< *sadyas*
+- *sadyo* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *didiṣṭa* \< *diś*
+- *didiṣṭa* ← *diś*
 - \[verb\], singular, Plusquamperfect
 - “describe; give; give; teach.”
 ------------------------------------------------------------------------
-- *māyavaḥ* \< *māyava*
+- *māyavaḥ* ← *māyava*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

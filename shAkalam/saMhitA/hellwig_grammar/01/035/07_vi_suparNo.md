@@ -6,76 +6,76 @@ title = "Rig Veda 1.35.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *suparṇo* \< *suparṇaḥ* \< *suparṇa*
+- *suparṇo* ← *suparṇaḥ* ← *suparṇa*
 - \[noun\], nominative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *antarikṣāṇy* \< *antarikṣāṇi* \< *antarikṣa*
+- *antarikṣāṇy* ← *antarikṣāṇi* ← *antarikṣa*
 - \[noun\], accusative, plural, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *gabhīravepā* \< *gabhīra*
+- *gabhīravepā* ← *gabhīra*
 - \[noun\]
 - “deep; profound; immeasurable; unfathomable; unfathomable;
     mysterious; deep; countless.”
 ------------------------------------------------------------------------
-- *gabhīravepā* \< *vepāḥ* \< *vepas*
+- *gabhīravepā* ← *vepāḥ* ← *vepas*
 - \[noun\], nominative, singular, masculine
 - “inspiration; shaking.”
 ------------------------------------------------------------------------
-- *asuraḥ* \< *asura*
+- *asuraḥ* ← *asura*
 - \[noun\], nominative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *sunīthaḥ* \< *su*
+- *sunīthaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sunīthaḥ* \< *nīthaḥ* \< *nītha*
+- *sunīthaḥ* ← *nīthaḥ* ← *nītha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kvedānīṃ* \< *kva*
+- *kvedānīṃ* ← *kva*
 - \[adverb\]
 - “wherein; how; kva \[word\].”
 ------------------------------------------------------------------------
-- *kvedānīṃ* \< *idānīm*
+- *kvedānīṃ* ← *idānīm*
 - \[adverb\]
 - “now.”
 ------------------------------------------------------------------------
-- *sūryaḥ* \< *sūrya*
+- *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *kaś* \< *kaḥ* \< *ka*
+- *kaś* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ciketa* \< *cit*
+- *ciketa* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *katamāṃ* \< *katamām* \< *katama*
+- *katamāṃ* ← *katamām* ← *katama*
 - \[noun\], accusative, singular, feminine
 - “katama \[word\]; who.”
 ------------------------------------------------------------------------
-- *dyāṃ* \< *dyām* \< *div*
+- *dyāṃ* ← *dyām* ← *div*
 - \[noun\], accusative, singular, feminine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *raśmir* \< *raśmiḥ* \< *raśmi*
+- *raśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *asyā* \< *idam*
+- *asyā* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tatāna* \< *tan*
+- *tatāna* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”

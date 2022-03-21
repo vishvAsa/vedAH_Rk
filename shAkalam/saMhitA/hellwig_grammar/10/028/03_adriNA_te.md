@@ -2,15 +2,15 @@
 title = "Rig Veda 10.28.3"
 
 +++
--   *adriṇā* \< *adri*
+-   *adriṇā* ← *adri*
 - \[noun\], instrumental, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mandina* \< *mandine* \< *mandin*
+- *mandina* ← *mandine* ← *mandin*
 - \[noun\], dative, singular, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
@@ -19,57 +19,57 @@ title = "Rig Veda 10.28.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *tūyān* \< *tūya*
+- *tūyān* ← *tūya*
 - \[noun\], accusative, plural, masculine
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
-- *sunvanti* \< *su*
+- *sunvanti* ← *su*
 - \[verb\], plural, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *somān* \< *soma*
+- *somān* ← *soma*
 - \[noun\], accusative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pibasi* \< *pā*
+- *pibasi* ← *pā*
 - \[verb\], singular, Present indikative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pacanti* \< *pac*
+- *pacanti* ← *pac*
 - \[verb\], plural, Present indikative
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛṣabhāṃ* \< *vṛṣabha*
+- *vṛṣabhāṃ* ← *vṛṣabha*
 - \[noun\], accusative, plural, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *atsi* \< *ad*
+- *atsi* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *teṣām* \< *tad*
+- *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pṛkṣeṇa* \< *pṛkṣa*
+- *pṛkṣeṇa* ← *pṛkṣa*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *yan* \< *i*
+- *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 10.28.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *hūyamānaḥ* \< *hu*
+- *hūyamānaḥ* ← *hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------

@@ -6,18 +6,18 @@ title = "Rig Veda 7.56.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *budhnyā* \< *budhnya*
+- *budhnyā* ← *budhnya*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *mahāṃsi* \< *mahas*
+- *mahāṃsi* ← *mahas*
 - \[noun\], nominative, plural, neuter
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
@@ -25,44 +25,44 @@ title = "Rig Veda 7.56.14"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *nāmāni* \< *nāman*
+- *nāmāni* ← *nāman*
 - \[noun\], accusative, plural, neuter
 - “name; appellation; nāman \[word\]; nāmakaraṇa; surname; noun;
     word.”
 ------------------------------------------------------------------------
-- *prayajyavas* \< *prayajyavaḥ* \< *prayajyu*
+- *prayajyavas* ← *prayajyavaḥ* ← *prayajyu*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *tiradhvam* \< *tṛ*
+- *tiradhvam* ← *tṛ*
 - \[verb\], plural, Present imperative
 - “traverse; overcome; float; rescue; reach; satisfy.”
 ------------------------------------------------------------------------
-- *sahasriyaṃ* \< *sahasriyam* \< *sahasriya*
+- *sahasriyaṃ* ← *sahasriyam* ← *sahasriya*
 - \[noun\], accusative, singular, masculine
 - “thousandfold.”
 ------------------------------------------------------------------------
-- *damyam* \< *damya*
+- *damyam* ← *damya*
 - \[noun\], accusative, singular, masculine
 - “household.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *etaṃ* \< *etam* \< *etad*
+- *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *gṛhamedhīyam* \< *gṛhamedhīya*
+- *gṛhamedhīyam* ← *gṛhamedhīya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *juṣadhvam* \< *juṣ*
+- *juṣadhvam* ← *juṣ*
 - \[verb\], plural, Present imperative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”

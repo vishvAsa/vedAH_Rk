@@ -2,81 +2,81 @@
 title = "Rig Veda 4.4.8"
 
 +++
--   *arcāmi* \< *arc*
+-   *arcāmi* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumatiṃ* \< *sumatim* \< *sumati*
+- *sumatiṃ* ← *sumatim* ← *sumati*
 - \[noun\], accusative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *ghoṣy* \< *ghoṣi* \< *ghuṣ*
+- *ghoṣy* ← *ghoṣi* ← *ghuṣ*
 - \[verb\], singular, Aorist passive
 ------------------------------------------------------------------------
 - *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
 - *vāvātā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *jaratām* \< *jṛ*
+- *jaratām* ← *jṛ*
 - \[verb\], singular, Present imperative
 - “sing.”
 ------------------------------------------------------------------------
-- *iyaṃ* \< *iyam* \< *idam*
+- *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *gīḥ* \< *gir*
+- *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *svaśvās* \< *su*
+- *svaśvās* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaśvās* \< *aśvāḥ* \< *aśva*
+- *svaśvās* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *surathā* \< *su*
+- *surathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surathā* \< *rathāḥ* \< *ratha*
+- *surathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *marjayemāsme* \< *marjayema* \< *marjay* \< *√mṛj*
+- *marjayemāsme* ← *marjayema* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present optative
 ------------------------------------------------------------------------
-- *marjayemāsme* \< *asme* \< *mad*
+- *marjayemāsme* ← *asme* ← *mad*
 - \[noun\], locative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *kṣatrāṇi* \< *kṣatra*
+- *kṣatrāṇi* ← *kṣatra*
 - \[noun\], accusative, plural, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
-- *dhārayer* \< *dhārayeḥ* \< *dhāray* \< *√dhṛ*
+- *dhārayer* ← *dhārayeḥ* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Present optative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
@@ -86,7 +86,7 @@ title = "Rig Veda 4.4.8"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *dyūn* \< *div*
+- *dyūn* ← *div*
 - \[noun\], accusative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------

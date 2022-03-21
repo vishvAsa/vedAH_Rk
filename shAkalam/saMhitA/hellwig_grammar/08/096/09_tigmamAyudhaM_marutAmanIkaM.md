@@ -2,27 +2,27 @@
 title = "Rig Veda 8.96.9"
 
 +++
--   *tigmam* \< *tigma*
+-   *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *āyudham* \< *āyudha*
+- *āyudham* ← *āyudha*
 - \[noun\], nominative, singular, neuter
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *anīkaṃ* \< *anīkam* \< *anīka*
+- *anīkaṃ* ← *anīkam* ← *anīka*
 - \[noun\], nominative, singular, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *kas* \< *kaḥ* \< *ka*
+- *kas* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -35,42 +35,42 @@ title = "Rig Veda 8.96.9"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vajraṃ* \< *vajram* \< *vajra*
+- *vajraṃ* ← *vajram* ← *vajra*
 - \[noun\], accusative, singular, masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *dadharṣa* \< *dhṛṣ*
+- *dadharṣa* ← *dhṛṣ*
 - \[verb\], singular, Perfect indicative
 - “dare; attack.”
 ------------------------------------------------------------------------
-- *anāyudhāso* \< *an*
+- *anāyudhāso* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anāyudhāso* \< *āyudhāsaḥ* \< *āyudha*
+- *anāyudhāso* ← *āyudhāsaḥ* ← *āyudha*
 - \[noun\], nominative, plural, masculine
 - “weapon; āyudha \[word\].”
 ------------------------------------------------------------------------
-- *asurā* \< *asurāḥ* \< *asura*
+- *asurā* ← *asurāḥ* ← *asura*
 - \[noun\], nominative, plural, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *adevāś* \< *a*
+- *adevāś* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adevāś* \< *devāḥ* \< *deva*
+- *adevāś* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *cakreṇa* \< *cakra*
+- *cakreṇa* ← *cakra*
 - \[noun\], instrumental, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *tāṃ* \< *tad*
+- *tāṃ* ← *tad*
 - \[noun\], accusative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -80,7 +80,7 @@ title = "Rig Veda 8.96.9"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vapa* \< *vap*
+- *vapa* ← *vap*
 - \[verb\], singular, Present imperative
 - “sow; bestrew; strew; scatter.”
 ------------------------------------------------------------------------

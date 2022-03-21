@@ -2,31 +2,31 @@
 title = "Rig Veda 5.59.5"
 
 +++
--   *aśvā* \< *aśvāḥ* \< *aśva*
+-   *aśvā* ← *aśvāḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ived* \< *iva*
+- *ived* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ived* \< *id*
+- *ived* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *aruṣāsaḥ* \< *aruṣa*
+- *aruṣāsaḥ* ← *aruṣa*
 - \[noun\], nominative, plural, masculine
 - “red; red.”
 ------------------------------------------------------------------------
-- *sabandhavaḥ* \< *sa*
+- *sabandhavaḥ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sabandhavaḥ* \< *bandhavaḥ* \< *bandhu*
+- *sabandhavaḥ* ← *bandhavaḥ* ← *bandhu*
 - \[noun\], nominative, plural, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *śūrā* \< *śūrāḥ* \< *śūra*
+- *śūrā* ← *śūrāḥ* ← *śūra*
 - \[noun\], nominative, plural, masculine
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
@@ -35,22 +35,22 @@ title = "Rig Veda 5.59.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *prayudhaḥ* \< *prayudh*
+- *prayudhaḥ* ← *prayudh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *prota* \< *pra*
+- *prota* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prota* \< *uta*
+- *prota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yuyudhuḥ* \< *yudh*
+- *yuyudhuḥ* ← *yudh*
 - \[verb\], plural, Perfect indicative
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *maryā* \< *maryāḥ* \< *marya*
+- *maryā* ← *maryāḥ* ← *marya*
 - \[noun\], nominative, plural, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -58,24 +58,24 @@ title = "Rig Veda 5.59.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *suvṛdho* \< *suvṛdhaḥ* \< *suvṛdh*
+- *suvṛdho* ← *suvṛdhaḥ* ← *suvṛdh*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vāvṛdhur* \< *vāvṛdhuḥ* \< *vṛdh*
+- *vāvṛdhur* ← *vāvṛdhuḥ* ← *vṛdh*
 - \[verb\], plural, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sūryasya* \< *sūrya*
+- *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *cakṣuḥ* \< *cakṣus*
+- *cakṣuḥ* ← *cakṣus*
 - \[noun\], accusative, singular, neuter
 - “eye; look; visual perception; cakṣus \[word\]; sight.”
 ------------------------------------------------------------------------
@@ -83,11 +83,11 @@ title = "Rig Veda 5.59.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *minanti* \< *mī*
+- *minanti* ← *mī*
 - \[verb\], plural, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *vṛṣṭibhiḥ* \< *vṛṣṭi*
+- *vṛṣṭibhiḥ* ← *vṛṣṭi*
 - \[noun\], instrumental, plural, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------

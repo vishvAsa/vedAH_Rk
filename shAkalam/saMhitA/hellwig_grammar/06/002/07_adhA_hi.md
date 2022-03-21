@@ -2,7 +2,7 @@
 title = "Rig Veda 6.2.7"
 
 +++
--   *adhā* \< *adha*
+-   *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
@@ -10,49 +10,49 @@ title = "Rig Veda 6.2.7"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vikṣv* \< *vikṣu* \< *viś*
+- *vikṣv* ← *vikṣu* ← *viś*
 - \[noun\], locative, plural
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *īḍyo* \< *īḍyaḥ* \< *īḍ*
+- *īḍyo* ← *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *'si* \< *asi* \< *as*
+- *'si* ← *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *priyo* \< *priyaḥ* \< *priya*
+- *priyo* ← *priyaḥ* ← *priya*
 - \[noun\], nominative, singular, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *atithiḥ* \< *atithi*
+- *atithiḥ* ← *atithi*
 - \[noun\], nominative, singular, masculine
 - “guest; atithi \[word\]; Atithi.”
 ------------------------------------------------------------------------
-- *raṇvaḥ* \< *raṇva*
+- *raṇvaḥ* ← *raṇva*
 - \[noun\], nominative, singular, masculine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *purīva* \< *puri* \< *pur*
+- *purīva* ← *puri* ← *pur*
 - \[noun\], locative, singular, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *purīva* \< *iva*
+- *purīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jūryaḥ* \< *jūryas* \< *jṛ*
+- *jūryaḥ* ← *jūryas* ← *jṛ*
 - \[verb noun\], vocative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
-- *sūnur* \< *sūnuḥ* \< *sūnu*
+- *sūnur* ← *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
@@ -60,6 +60,6 @@ title = "Rig Veda 6.2.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *trayayāyyaḥ* \< *trayayāyya*
+- *trayayāyyaḥ* ← *trayayāyya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

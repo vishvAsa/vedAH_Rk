@@ -6,61 +6,61 @@ title = "Rig Veda 9.113.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pavasva* \< *pū*
+- *pavasva* ← *pū*
 - \[verb\], singular, Present imperative
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *diśām* \< *diś*
+- *diśām* ← *diś*
 - \[noun\], genitive, plural, feminine
 - “quarter; direction; region; diś \[word\]; Aṣṭādhyāyī, 5.3.27;
     distant region; Diś; four; example; method; space.”
 ------------------------------------------------------------------------
-- *pata* \< *pate* \< *pati*
+- *pata* ← *pate* ← *pati*
 - \[noun\], vocative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *ārjīkāt* \< *ārjīka*
+- *ārjīkāt* ← *ārjīka*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
 - *soma*
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *mīḍhvaḥ* \< *mīḍhvas*
+- *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *ṛtavākena* \< *ṛta*
+- *ṛtavākena* ← *ṛta*
 - \[noun\]
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *ṛtavākena* \< *vākena* \< *vāka*
+- *ṛtavākena* ← *vākena* ← *vāka*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *satyena* \< *satya*
+- *satyena* ← *satya*
 - \[noun\], instrumental, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *śraddhayā* \< *śraddhā*
+- *śraddhayā* ← *śraddhā*
 - \[noun\], instrumental, singular, feminine
 - “faith; wish; śraddhā \[word\]; śraddhā; confidence; appetite.”
 ------------------------------------------------------------------------
-- *tapasā* \< *tapas*
+- *tapasā* ← *tapas*
 - \[noun\], instrumental, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *suta* \< *sutaḥ* \< *su*
+- *suta* ← *sutaḥ* ← *su*
 - \[verb noun\], nominative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indrāya* \< *indra*
+- *indrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāyendo* \< *indo* \< *indu*
+- *indrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -69,7 +69,7 @@ title = "Rig Veda 9.113.2"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

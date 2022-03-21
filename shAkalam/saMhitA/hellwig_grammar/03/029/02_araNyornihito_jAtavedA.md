@@ -2,7 +2,7 @@
 title = "Rig Veda 3.29.2"
 
 +++
--   *araṇyor* \< *araṇyoḥ* \< *araṇi*
+-   *araṇyor* ← *araṇyoḥ* \< *araṇi*
 - \[noun\], locative, dual, feminine
 - “Araṇi.”
 ------------------------------------------------------------------------

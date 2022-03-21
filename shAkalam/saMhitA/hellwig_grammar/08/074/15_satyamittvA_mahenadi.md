@@ -2,23 +2,23 @@
 title = "Rig Veda 8.74.15"
 
 +++
--   *satyam* \< *satya*
+-   *satyam* ← *satya*
 - \[noun\], accusative, singular, neuter
 - “truth; oath; satya \[word\]; promise.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahenadi* \< *\_* \< *√\_*
+- *mahenadi* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *paruṣṇy* \< *paruṣṇi* \< *paruṣṇī*
+- *paruṣṇy* ← *paruṣṇi* ← *paruṣṇī*
 - \[noun\], vocative, singular, feminine
 - “Paruṣṇī.”
 ------------------------------------------------------------------------
@@ -26,37 +26,37 @@ title = "Rig Veda 8.74.15"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *dediśam* \< *dediś* \< *√diś*
+- *dediśam* ← *dediś* ← *√diś*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *nem* \< *na*
+- *nem* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nem* \< *īm* \< *īṃ*
+- *nem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *aśvadātaraḥ* \< *aśva*
+- *aśvadātaraḥ* ← *aśva*
 - \[noun\], masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvadātaraḥ* \< *dātaraḥ* \< *dātara*
+- *aśvadātaraḥ* ← *dātaraḥ* ← *dātara*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śaviṣṭhād* \< *śaviṣṭhāt* \< *śaviṣṭha*
+- *śaviṣṭhād* ← *śaviṣṭhāt* ← *śaviṣṭha*
 - \[noun\], ablative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *martyaḥ* \< *martya*
+- *martyaḥ* ← *martya*
 - \[noun\], nominative, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------

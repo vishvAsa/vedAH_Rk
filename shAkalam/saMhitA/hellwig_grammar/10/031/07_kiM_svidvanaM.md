@@ -2,7 +2,7 @@
 title = "Rig Veda 10.31.7"
 
 +++
--   *kiṃ* \< *kim* \< *ka*
+-   *kiṃ* ← *kim* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 10.31.7"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *vanaṃ* \< *vanam* \< *vana*
+- *vanaṃ* ← *vanam* ← *vana*
 - \[noun\], nominative, singular, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *ka* \< *ke* \< *ka*
+- *ka* ← *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -22,22 +22,22 @@ title = "Rig Veda 10.31.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vṛkṣa* \< *vṛkṣaḥ* \< *vṛkṣa*
+- *vṛkṣa* ← *vṛkṣaḥ* ← *vṛkṣa*
 - \[noun\], nominative, singular, masculine
 - “tree; fruit tree.”
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *yato* \< *yatas*
+- *yato* ← *yatas*
 - \[adverb\]
 - “from which; whence; wherein.”
 ------------------------------------------------------------------------
@@ -45,35 +45,35 @@ title = "Rig Veda 10.31.7"
 - \[noun\], accusative, dual, feminine
 - “heaven and earth; dyāvāpṛthivī \[word\].”
 ------------------------------------------------------------------------
-- *niṣṭatakṣuḥ* \< *nistakṣ* \< *√takṣ*
+- *niṣṭatakṣuḥ* ← *nistakṣ* ← *√takṣ*
 - \[verb\], plural, Perfect indicative
 - “create; fashion; carve; shape.”
 ------------------------------------------------------------------------
-- *saṃtasthāne* \< *saṃsthā* \< *√sthā*
+- *saṃtasthāne* ← *saṃsthā* ← *√sthā*
 - \[verb noun\], accusative, dual
 - “situate; stay; stand; die; get stale; inhere; dwell; end; happen.”
 ------------------------------------------------------------------------
-- *ajare* \< *ajara*
+- *ajare* ← *ajara*
 - \[noun\], accusative, dual, feminine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *itaūtī* \< *itaūti*
+- *itaūtī* ← *itaūti*
 - \[noun\], accusative, dual, feminine
 - “helpful; abiding.”
 ------------------------------------------------------------------------
-- *ahāni* \< *ahar*
+- *ahāni* ← *ahar*
 - \[noun\], nominative, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], accusative, plural, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *jaranta* \< *jṛ*
+- *jaranta* ← *jṛ*
 - \[verb\], plural, Present injunctive
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------

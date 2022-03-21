@@ -2,36 +2,36 @@
 title = "Rig Veda 1.164.30"
 
 +++
--   *anacchaye* \< *anat* \< *an*
+-   *anacchaye* ← *anat* ← *an*
 - \[verb noun\], nominative, singular
 - “breathe.”
 ------------------------------------------------------------------------
-- *anacchaye* \< *śaye* \< *śī*
+- *anacchaye* ← *śaye* ← *śī*
 - \[verb\], singular, Present indikative
 - “lie; sleep.”
 ------------------------------------------------------------------------
-- *turagātu* \< *tura*
+- *turagātu* ← *tura*
 - \[noun\]
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *turagātu* \< *gātu*
+- *turagātu* ← *gātu*
 - \[noun\], nominative, singular, neuter
 - “path; way.”
 ------------------------------------------------------------------------
-- *jīvam* \< *jīva*
+- *jīvam* ← *jīva*
 - \[noun\], nominative, singular, neuter
 - “being; animal; life; jīva \[word\].”
 ------------------------------------------------------------------------
-- *ejad* \< *ejat* \< *ej*
+- *ejad* ← *ejat* ← *ej*
 - \[verb noun\], nominative, singular
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *dhruvam* \< *dhruva*
+- *dhruvam* ← *dhruva*
 - \[noun\], nominative, singular, neuter
 - “certain; fixed; permanent; changeless; firm; safe; resident;
     immovable; fixed; fixed; vital; faithful.”
 ------------------------------------------------------------------------
-- *madhya* \< *madhye* \< *madhya*
+- *madhya* ← *madhye* ← *madhya*
 - \[noun\], locative, singular, neuter
 - “midst; center; cavity; inside; middle; center; waist; group; pulp;
     torso; time interval; area; series; madhya \[word\]; Madhya; noon;
@@ -41,38 +41,38 @@ title = "Rig Veda 1.164.30"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pastyānām* \< *pastyā*
+- *pastyānām* ← *pastyā*
 - \[noun\], genitive, plural, feminine
 - “river; dwelling.”
 ------------------------------------------------------------------------
-- *jīvo* \< *jīvaḥ* \< *jīva*
+- *jīvo* ← *jīvaḥ* ← *jīva*
 - \[noun\], nominative, singular, masculine
 - “life; Jupiter; Brihaspati; jīv; person.”
 ------------------------------------------------------------------------
-- *mṛtasya* \< *mṛ*
+- *mṛtasya* ← *mṛ*
 - \[verb noun\], genitive, singular
 - “mṛ; die; disappear; go out.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *svadhābhir* \< *svadhābhiḥ* \< *svadhā*
+- *svadhābhir* ← *svadhābhiḥ* ← *svadhā*
 - \[noun\], instrumental, plural, feminine
 - “free will; offering; libation; nature; svadhā \[word\]; comfort;
     power.”
 ------------------------------------------------------------------------
-- *amartyo* \< *amartyaḥ* \< *amartya*
+- *amartyo* ← *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *martyenā* \< *martyena* \< *martya*
+- *martyenā* ← *martyena* ← *martya*
 - \[noun\], instrumental, singular, masculine
 - “mortal.”
 ------------------------------------------------------------------------
-- *sayoniḥ* \< *sayoni*
+- *sayoniḥ* ← *sayoni*
 - \[noun\], nominative, singular, masculine
 - “related.”
 ------------------------------------------------------------------------

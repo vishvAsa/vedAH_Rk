@@ -6,32 +6,32 @@ title = "Rig Veda 1.162.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *prāgāt* \< *pragā* \< *√gā*
+- *prāgāt* ← *pragā* ← *√gā*
 - \[verb\], singular, Root aorist (Ind.)
 ------------------------------------------------------------------------
-- *suman* \< *sumat*
+- *suman* ← *sumat*
 - \[adverb\]
 - “together.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'dhāyi* \< *adhāyi* \< *dhā*
+- *'dhāyi* ← *adhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *manma* \< *manman*
+- *manma* ← *manman*
 - \[noun\], nominative, singular, neuter
 - “hymn; idea; purpose.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *āśā* \< *āśāḥ* \< *āśā*
+- *āśā* ← *āśāḥ* ← *āśā*
 - \[noun\], accusative, plural, feminine
 - “quarter; region; geographical area; sky; space.”
 ------------------------------------------------------------------------
@@ -39,45 +39,45 @@ title = "Rig Veda 1.162.7"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhaḥ* \< *vīta* \< *vī*
+- *vītapṛṣṭhaḥ* ← *vīta* ← *vī*
 - \[verb noun\]
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *vītapṛṣṭhaḥ* \< *pṛṣṭhaḥ* \< *pṛṣṭha*
+- *vītapṛṣṭhaḥ* ← *pṛṣṭhaḥ* ← *pṛṣṭha*
 - \[noun\], nominative, singular, masculine
 - “back; top; top; surface; shell; peak; Pṛṣṭha; flat roof; pṛṣṭha
     \[word\]; back; roof.”
 ------------------------------------------------------------------------
-- *anv* \< *anu*
+- *anv* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *enaṃ* \< *enam* \< *enad*
+- *enaṃ* ← *enam* ← *enad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.).”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *ṛṣayo* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], nominative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *puṣṭe* \< *puṣṭa*
+- *puṣṭe* ← *puṣṭa*
 - \[noun\], locative, singular, neuter
 - “prosperity; property.”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *kṛ*
+- *cakṛmā* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -88,11 +88,11 @@ title = "Rig Veda 1.162.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *subandhum* \< *su*
+- *subandhum* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subandhum* \< *bandhum* \< *bandhu*
+- *subandhum* ← *bandhum* ← *bandhu*
 - \[noun\], accusative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------

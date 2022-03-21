@@ -2,11 +2,11 @@
 title = "Rig Veda 10.16.12"
 
 +++
--   *uśantas* \< *uśantaḥ* \< *vaś*
+-   *uśantas* ← *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -14,12 +14,12 @@ title = "Rig Veda 10.16.12"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *dhīmahy* \< *dhīmahi* \< *dhā*
+- *dhīmahy* ← *dhīmahi* ← *dhā*
 - \[verb\], plural, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *uśantaḥ* \< *vaś*
+- *uśantaḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -27,15 +27,15 @@ title = "Rig Veda 10.16.12"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *idhīmahi* \< *indh*
+- *idhīmahi* ← *indh*
 - \[verb\], plural, Present optative
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *uśann* \< *uśan* \< *vaś*
+- *uśann* ← *uśan* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *uśata* \< *uśataḥ* \< *vaś*
+- *uśata* ← *uśataḥ* ← *vaś*
 - \[verb noun\], accusative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
@@ -43,21 +43,21 @@ title = "Rig Veda 10.16.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *pitṝn* \< *pitṛ*
+- *pitṝn* ← *pitṛ*
 - \[noun\], accusative, plural, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *haviṣe* \< *havis*
+- *haviṣe* ← *havis*
 - \[noun\], dative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *attave* \< *ad*
+- *attave* ← *ad*
 - \[verb noun\]
 - “eat; devour.”
 ------------------------------------------------------------------------

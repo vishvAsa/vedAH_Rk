@@ -2,23 +2,23 @@
 title = "Rig Veda 1.47.10"
 
 +++
--   *ukthebhir* \< *ukthebhiḥ* \< *uktha*
+-   *ukthebhir* ← *ukthebhiḥ* ← *uktha*
 - \[noun\], instrumental, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *arvāg* \< *arvāk*
+- *arvāg* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *avase* \< *av*
+- *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *purūvasū* \< *purūvasu*
+- *purūvasū* ← *purūvasu*
 - \[noun\], accusative, dual, masculine
 - “rich.”
 ------------------------------------------------------------------------
-- *arkaiś* \< *arkaiḥ* \< *arka*
+- *arkaiś* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
@@ -31,7 +31,7 @@ title = "Rig Veda 1.47.10"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *hvayāmahe* \< *hvā*
+- *hvayāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
@@ -39,15 +39,15 @@ title = "Rig Veda 1.47.10"
 - \[adverb\]
 - “always; repeatedly; continually; wholly.”
 ------------------------------------------------------------------------
-- *kaṇvānāṃ* \< *kaṇvānām* \< *kaṇva*
+- *kaṇvānāṃ* ← *kaṇvānām* ← *kaṇva*
 - \[noun\], genitive, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
-- *sadasi* \< *sadas*
+- *sadasi* ← *sadas*
 - \[noun\], locative, singular, neuter
 - “mansion; assembly; seat; seat.”
 ------------------------------------------------------------------------
-- *priye* \< *priya*
+- *priye* ← *priya*
 - \[noun\], locative, singular, neuter
 - “pleasure; favor; pleasure; pleasure; wish; priya \[word\];
     kindness.”
@@ -56,19 +56,19 @@ title = "Rig Veda 1.47.10"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *kaṃ* \< *kam* \< *kaṃ*
+- *kaṃ* ← *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *papathur* \< *papathuḥ* \< *pā*
+- *papathur* ← *papathuḥ* ← *pā*
 - \[verb\], dual, Perfect indicative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

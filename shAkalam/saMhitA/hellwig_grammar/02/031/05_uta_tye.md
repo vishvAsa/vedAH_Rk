@@ -6,7 +6,7 @@ title = "Rig Veda 2.31.5"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tye* \< *tya*
+- *tye* ← *tya*
 - \[noun\], nominative, dual, feminine
 - “that.”
 ------------------------------------------------------------------------
@@ -14,65 +14,65 @@ title = "Rig Veda 2.31.5"
 - \[noun\], nominative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *subhage* \< *subhaga*
+- *subhage* ← *subhaga*
 - \[noun\], nominative, dual, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *mithūdṛśoṣāsānaktā* \< *mithūdṛśā* \< *mithūdṛś*
+- *mithūdṛśoṣāsānaktā* ← *mithūdṛśā* ← *mithūdṛś*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *mithūdṛśoṣāsānaktā* \< *uṣāsānaktā*
+- *mithūdṛśoṣāsānaktā* ← *uṣāsānaktā*
 - \[noun\], nominative, singular, feminine
 - “dawn; night.”
 ------------------------------------------------------------------------
-- *jagatām* \< *jagant*
+- *jagatām* ← *jagant*
 - \[noun\], genitive, plural, neuter
 - “universe; Earth; world; people; Jagatī; Loka; animal; being.”
 ------------------------------------------------------------------------
-- *apījuvā* \< *\_* \< *√\_*
+- *apījuvā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *stuṣe* \< *stu*
+- *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pṛthivi* \< *pṛthivī*
+- *pṛthivi* ← *pṛthivī*
 - \[noun\], vocative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *navyasā* \< *navyas*
+- *navyasā* ← *navyas*
 - \[noun\], instrumental, singular, feminine
 - “new.”
 ------------------------------------------------------------------------
-- *vaca* \< *\_* \< *√\_*
+- *vaca* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *sthātuś* \< *sthātuḥ* \< *sthātṛ*
+- *sthātuś* ← *sthātuḥ* ← *sthātṛ*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vayas* \< *vayaḥ* \< *vayas*
+- *vayas* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *trivayā* \< *trivayāḥ* \< *trivayas*
+- *trivayā* ← *trivayāḥ* ← *trivayas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *upastire* \< *upastir*
+- *upastire* ← *upastir*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------

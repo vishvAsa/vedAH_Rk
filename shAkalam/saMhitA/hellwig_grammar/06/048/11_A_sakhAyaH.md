@@ -6,18 +6,18 @@ title = "Rig Veda 6.48.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sakhāyaḥ* \< *sakhi*
+- *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sabardughāṃ* \< *sabardughām* \< *sabardugha*
+- *sabardughāṃ* ← *sabardughām* ← *sabardugha*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *ajadhvam* \< *aj*
+- *ajadhvam* ← *aj*
 - \[verb\], plural, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------
@@ -25,19 +25,19 @@ title = "Rig Veda 6.48.11"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *navyasā* \< *navyas*
+- *navyasā* ← *navyas*
 - \[noun\], instrumental, singular, neuter
 - “new.”
 ------------------------------------------------------------------------
-- *vacaḥ* \< *vacas*
+- *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *sṛjadhvam* \< *sṛj*
+- *sṛjadhvam* ← *sṛj*
 - \[verb\], plural, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *anapasphurām* \< *anapasphura*
+- *anapasphurām* ← *anapasphura*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------

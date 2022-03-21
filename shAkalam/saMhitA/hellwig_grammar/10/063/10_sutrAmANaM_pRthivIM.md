@@ -2,78 +2,78 @@
 title = "Rig Veda 10.63.10"
 
 +++
--   *sutrāmāṇam* \< *su*
+-   *sutrāmāṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sutrāmāṇam* \< *trāmāṇam* \< *trāman*
+- *sutrāmāṇam* ← *trāmāṇam* ← *trāman*
 - \[noun\], accusative, singular, feminine
 - “protection.”
 ------------------------------------------------------------------------
-- *pṛthivīṃ* \< *pṛthivīm* \< *pṛthivī*
+- *pṛthivīṃ* ← *pṛthivīm* ← *pṛthivī*
 - \[noun\], accusative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *anehasaṃ* \< *anehasam* \< *anehas*
+- *anehasaṃ* ← *anehasam* ← *anehas*
 - \[noun\], accusative, singular, masculine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *suśarmāṇam* \< *su*
+- *suśarmāṇam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśarmāṇam* \< *śarmāṇam* \< *śarman*
+- *suśarmāṇam* ← *śarmāṇam* ← *śarman*
 - \[noun\], accusative, singular, feminine
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *aditiṃ* \< *aditim* \< *aditi*
+- *aditiṃ* ← *aditim* ← *aditi*
 - \[noun\], accusative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *supraṇītim* \< *su*
+- *supraṇītim* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraṇītim* \< *praṇītim* \< *praṇīti*
+- *supraṇītim* ← *praṇītim* ← *praṇīti*
 - \[noun\], accusative, singular, feminine
 - “guidance; guidance.”
 ------------------------------------------------------------------------
-- *daivīṃ* \< *daivīm* \< *daiva*
+- *daivīṃ* ← *daivīm* ← *daiva*
 - \[noun\], accusative, singular, feminine
 - “divine; religious.”
 ------------------------------------------------------------------------
-- *nāvaṃ* \< *nāvam* \< *nau*
+- *nāvaṃ* ← *nāvam* ← *nau*
 - \[noun\], accusative, singular
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *svaritrām* \< *su*
+- *svaritrām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svaritrām* \< *aritrām* \< *aritra*
+- *svaritrām* ← *aritrām* ← *aritra*
 - \[noun\], accusative, singular, feminine
 - “oar.”
 ------------------------------------------------------------------------
-- *anāgasam* \< *anāgas*
+- *anāgasam* ← *anāgas*
 - \[noun\], accusative, singular, feminine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *asravantīm* \< *asravat*
+- *asravantīm* ← *asravat*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
 - *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *ruhemā* \< *ruhema* \< *ruh*
+- *ruhemā* ← *ruhema* ← *ruh*
 - \[verb\], plural, Aorist optative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *svastaye* \< *svasti*
+- *svastaye* ← *svasti*
 - \[noun\], dative, singular, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”

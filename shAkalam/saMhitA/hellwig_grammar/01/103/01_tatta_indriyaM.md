@@ -2,70 +2,70 @@
 title = "Rig Veda 1.103.1"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *indriyam* \< *indriya*
+- *indriyam* ← *indriya*
 - \[noun\], nominative, singular, neuter
 - “sense organ; Indriya; sense; power; semen; indriya \[word\]; mind;
     penis; manfulness; force.”
 ------------------------------------------------------------------------
-- *paramam* \< *parama*
+- *paramam* ← *parama*
 - \[noun\], nominative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *parācair* \< *parācais*
+- *parācair* ← *parācais*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *adhārayanta* \< *dhāray* \< *√dhṛ*
+- *adhārayanta* ← *dhāray* ← *√dhṛ*
 - \[verb\], plural, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *kavayaḥ* \< *kavi*
+- *kavayaḥ* ← *kavi*
 - \[noun\], nominative, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *puredam* \< *purā*
+- *puredam* ← *purā*
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *puredam* \< *idam*
+- *puredam* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kṣamedam* \< *kṣamā*
+- *kṣamedam* ← *kṣamā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṣamedam* \< *idam*
+- *kṣamedam* ← *idam*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *anyad* \< *anyat* \< *anya*
+- *anyad* ← *anyat* ← *anya*
 - \[noun\], nominative, singular, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -77,18 +77,18 @@ title = "Rig Veda 1.103.1"
 - \[adverb\]
 - “īkāra.”
 ------------------------------------------------------------------------
-- *pṛcyate* \< *pṛc*
+- *pṛcyate* ← *pṛc*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *samaneva* \< *samanā*
+- *samaneva* ← *samanā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *samaneva* \< *iva*
+- *samaneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ketuḥ* \< *ketu*
+- *ketuḥ* ← *ketu*
 - \[noun\], nominative, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”

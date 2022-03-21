@@ -2,19 +2,19 @@
 title = "Rig Veda 8.24.27"
 
 +++
--   *ya* \< *yaḥ* \< *yad*
+-   *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ṛkṣād* \< *ṛkṣāt* \< *ṛkṣa*
+- *ṛkṣād* ← *ṛkṣāt* ← *ṛkṣa*
 - \[noun\], ablative, singular, masculine
 - “bear; monkey; ṛkṣa; Ṛkṣa; Tree of Damocles.”
 ------------------------------------------------------------------------
-- *aṃhaso* \< *aṃhasaḥ* \< *aṃhas*
+- *aṃhaso* ← *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *mucad* \< *mucat* \< *muc*
+- *mucad* ← *mucat* ← *muc*
 - \[verb\], singular, Aorist inj. (proh.)
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -22,23 +22,23 @@ title = "Rig Veda 8.24.27"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vāryāt* \< *vā*
+- *vāryāt* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vāryāt* \< *āryāt* \< *ārya*
+- *vāryāt* ← *āryāt* ← *ārya*
 - \[noun\], ablative, singular, masculine
 - “Ārya; Ārya.”
 ------------------------------------------------------------------------
-- *saptasindhuṣu* \< *sapta* \< *saptan*
+- *saptasindhuṣu* ← *sapta* ← *saptan*
 - \[noun\]
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *saptasindhuṣu* \< *sindhuṣu* \< *sindhu*
+- *saptasindhuṣu* ← *sindhuṣu* ← *sindhu*
 - \[noun\], locative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -46,19 +46,19 @@ title = "Rig Veda 8.24.27"
 - \[noun\], accusative, singular, neuter
 - “weapon.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *tuvi*
+- *tuvinṛmṇa* ← *tuvi*
 - \[noun\]
 - “mighty; very; diverse; much(a); many.”
 ------------------------------------------------------------------------
-- *tuvinṛmṇa* \< *nṛmṇa*
+- *tuvinṛmṇa* ← *nṛmṇa*
 - \[noun\], vocative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *nīnamaḥ* \< *nam*
+- *nīnamaḥ* ← *nam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “bow; bend; condescend; worship; bend; lower.”
 ------------------------------------------------------------------------

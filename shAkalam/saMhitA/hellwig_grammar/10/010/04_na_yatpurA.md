@@ -6,7 +6,7 @@ title = "Rig Veda 10.10.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], accusative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 10.10.4"
 - \[adverb\]
 - “once; earlier; first; purā \[indecl.\].”
 ------------------------------------------------------------------------
-- *cakṛmā* \< *cakṛma* \< *kṛ*
+- *cakṛmā* ← *cakṛma* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,11 +25,11 @@ title = "Rig Veda 10.10.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kaddha* \< *kad* \< *ka*
+- *kaddha* ← *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *kaddha* \< *ha*
+- *kaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
@@ -37,32 +37,32 @@ title = "Rig Veda 10.10.4"
 - \[adverb\]
 - “now; surely; immediately; just.”
 ------------------------------------------------------------------------
-- *ṛtā* \< *ṛta*
+- *ṛtā* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *vadanto* \< *vadantaḥ* \< *vad*
+- *vadanto* ← *vadantaḥ* ← *vad*
 - \[verb noun\], nominative, plural
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *anṛtaṃ* \< *anṛtam* \< *anṛta*
+- *anṛtaṃ* ← *anṛtam* ← *anṛta*
 - \[noun\], accusative, singular, neuter
 - “falsehood; lying; lie; cheat.”
 ------------------------------------------------------------------------
-- *rapema* \< \< *rap*
+- *rapema* ← ← *rap*
 - \[verb\], plural, Present optative
 - “whisper.”
 ------------------------------------------------------------------------
-- *gandharvo* \< *gandharvaḥ* \< *gandharva*
+- *gandharvo* ← *gandharvaḥ* ← *gandharva*
 - \[noun\], nominative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, masculine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *apyā* \< *apya*
+- *apyā* ← *apya*
 - \[noun\], nominative, singular, feminine
 - “aquatic; aquatic.”
 ------------------------------------------------------------------------
@@ -74,22 +74,22 @@ title = "Rig Veda 10.10.4"
 - \[noun\], nominative, singular, feminine
 - “woman; puppet; daughter.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nābhiḥ* \< *nābhi*
+- *nābhiḥ* ← *nābhi*
 - \[noun\], nominative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *paramaṃ* \< *paramam* \< *parama*
+- *paramaṃ* ← *paramam* ← *parama*
 - \[noun\], nominative, singular, neuter
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
@@ -98,13 +98,13 @@ title = "Rig Veda 10.10.4"
 - \[noun\], nominative, singular, neuter
 - “consanguinity.”
 ------------------------------------------------------------------------
-- *tan* \< *tat* \< *tad*
+- *tan* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *nau* \< *mad*
+- *nau* ← *mad*
 - \[noun\], genitive, dual
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -6,16 +6,16 @@ title = "Rig Veda 4.1.2"
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *bhrātaraṃ* \< *bhrātaram* \< *bhrātṛ*
+- *bhrātaraṃ* ← *bhrātaram* ← *bhrātṛ*
 - \[noun\], accusative, singular, masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *varuṇam* \< *varuṇa*
+- *varuṇam* ← *varuṇa*
 - \[noun\], accusative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *agna* \< *agne* \< *agni*
+- *agna* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -25,13 +25,13 @@ title = "Rig Veda 4.1.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavṛtsva* \< *vṛt*
+- *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *devāṃ* \< *deva*
+- *devāṃ* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -40,51 +40,51 @@ title = "Rig Veda 4.1.2"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *sumatī* \< *sumati*
+- *sumatī* ← *sumati*
 - \[noun\], instrumental, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *yajñavanasaṃ* \< *yajña*
+- *yajñavanasaṃ* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñavanasaṃ* \< *vanasam* \< *vanas*
+- *yajñavanasaṃ* ← *vanasam* ← *vanas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *jyeṣṭhaṃ* \< *jyeṣṭham* \< *jyeṣṭha*
+- *jyeṣṭhaṃ* ← *jyeṣṭham* ← *jyeṣṭha*
 - \[noun\], accusative, singular, masculine
 - “firstborn; best; first; excellent; highest; jyeṣṭha \[word\].”
 ------------------------------------------------------------------------
-- *yajñavanasam* \< *yajña*
+- *yajñavanasam* ← *yajña*
 - \[noun\], masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñavanasam* \< *vanasam* \< *vanas*
+- *yajñavanasam* ← *vanasam* ← *vanas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛtāvānam* \< *ṛtāvan*
+- *ṛtāvānam* ← *ṛtāvan*
 - \[noun\], accusative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ādityaṃ* \< *ādityam* \< *āditya*
+- *ādityaṃ* ← *ādityam* ← *āditya*
 - \[noun\], accusative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛtaṃ* \< *carṣaṇī*
+- *carṣaṇīdhṛtaṃ* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛtaṃ* \< *dhṛtam* \< *dhṛt*
+- *carṣaṇīdhṛtaṃ* ← *dhṛtam* ← *dhṛt*
 - \[noun\], accusative, singular, masculine
 - “maintaining.”
 ------------------------------------------------------------------------
-- *rājānaṃ* \< *rājānam* \< *rājan*
+- *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛtam* \< *carṣaṇī*
+- *carṣaṇīdhṛtam* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛtam* \< *dhṛtam* \< *dhṛt*
+- *carṣaṇīdhṛtam* ← *dhṛtam* ← *dhṛt*
 - \[noun\], accusative, singular, masculine
 - “maintaining.”
 ------------------------------------------------------------------------

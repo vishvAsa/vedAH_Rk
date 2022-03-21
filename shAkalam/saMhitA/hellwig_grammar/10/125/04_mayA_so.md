@@ -2,17 +2,17 @@
 title = "Rig Veda 10.125.4"
 
 +++
--   *mayā* \< *mad*
+-   *mayā* ← *mad*
 - \[noun\], instrumental, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *so* \< *saḥ* \< *tad*
+- *so* ← *saḥ* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------

@@ -2,16 +2,16 @@
 title = "Rig Veda 6.74.1"
 
 +++
--   *somārudrā* \< *somārudra*
+-   *somārudrā* ← *somārudra*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
-- *dhārayethām* \< *dhāray* \< *√dhṛ*
+- *dhārayethām* ← *dhāray* ← *√dhṛ*
 - \[verb\], dual, Present imperative
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *asuryam* \< *asurya*
+- *asuryam* ← *asurya*
 - \[noun\], accusative, singular, neuter
 - “dignity.”
 ------------------------------------------------------------------------
@@ -19,67 +19,67 @@ title = "Rig Veda 6.74.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *iṣṭayo* \< *iṣṭayaḥ* \< *iṣṭi*
+- *iṣṭayo* ← *iṣṭayaḥ* ← *iṣṭi*
 - \[noun\], nominative, plural, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *'ram* \< *aram*
+- *'ram* ← *aram*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *aśnuvantu* \< *aś*
+- *aśnuvantu* ← *aś*
 - \[verb\], plural, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *dame* \< *dama*
+- *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], accusative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *ratnā* \< *ratna*
+- *ratnā* ← *ratna*
 - \[noun\], accusative, plural, neuter
 - “jewel; wealth; best; treasure; vajra; property; jewel; ruby;
     jewelry.”
 ------------------------------------------------------------------------
-- *dadhānā* \< *dhā*
+- *dadhānā* ← *dhā*
 - \[verb noun\], nominative, dual
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bhūtaṃ* \< *bhūtam* \< *bhū*
+- *bhūtaṃ* ← *bhūtam* ← *bhū*
 - \[verb\], dual, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *dvipade* \< *dvipad*
+- *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------

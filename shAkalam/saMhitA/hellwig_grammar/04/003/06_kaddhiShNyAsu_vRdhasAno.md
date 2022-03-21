@@ -2,75 +2,75 @@
 title = "Rig Veda 4.3.6"
 
 +++
--   *kad* \< *ka*
+-   *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *dhiṣṇyāsu* \< *dhiṣṇyā*
+- *dhiṣṇyāsu* ← *dhiṣṇyā*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *vṛdhasāno* \< *vṛdhasānaḥ* \< *vṛdh*
+- *vṛdhasāno* ← *vṛdhasānaḥ* ← *vṛdh*
 - \[verb noun\], nominative, singular
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vātāya* \< *vāta*
+- *vātāya* ← *vāta*
 - \[noun\], dative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *pratavase* \< *pratavas*
+- *pratavase* ← *pratavas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *śubhaṃye* \< *śubhaṃyā*
+- *śubhaṃye* ← *śubhaṃyā*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *parijmane* \< *parijman*
+- *parijmane* ← *parijman*
 - \[noun\], dative, singular, masculine
 - “encompassing(a).”
 ------------------------------------------------------------------------
-- *nāsatyāya* \< *nāsatya*
+- *nāsatyāya* ← *nāsatya*
 - \[noun\], dative, singular, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *kṣe* \< *kṣā*
+- *kṣe* ← *kṣā*
 - \[noun\], dative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *bravaḥ* \< *brū*
+- *bravaḥ* ← *brū*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], accusative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *nṛghne* \< *nṛ*
+- *nṛghne* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛghne* \< *ghne* \< *han*
+- *nṛghne* ← *ghne* ← *han*
 - \[noun\], dative, singular, masculine
 - “killing; curative; destroying; removing; māraka; stabbing.”
 ------------------------------------------------------------------------

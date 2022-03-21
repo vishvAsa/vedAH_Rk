@@ -2,26 +2,26 @@
 title = "Rig Veda 1.3.3"
 
 +++
--   *dasrā* \< *dasra*
+-   *dasrā* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *yuvākavaḥ* \< *yuvāku*
+- *yuvākavaḥ* ← *yuvāku*
 - \[noun\], nominative, plural, masculine
 - “your(a).”
 ------------------------------------------------------------------------
-- *sutā* \< *sutāḥ* \< *suta*
+- *sutā* ← *sutāḥ* ← *suta*
 - \[noun\], nominative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *vṛkta* \< *vṛj*
+- *vṛktabarhiṣaḥ* ← *vṛkta* ← *vṛj*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *vṛktabarhiṣaḥ* \< *barhiṣaḥ* \< *barhis*
+- *vṛktabarhiṣaḥ* ← *barhiṣaḥ* ← *barhis*
 - \[noun\], genitive, singular, masculine
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
@@ -29,12 +29,12 @@ title = "Rig Veda 1.3.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yātaṃ* \< *yātam* \< *yā*
+- *yātaṃ* ← *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *rudravartanī* \< *rudravartani*
+- *rudravartanī* ← *rudravartani*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------

@@ -6,20 +6,20 @@ title = "Rig Veda 8.88.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bṛhanto* \< *bṛhantaḥ* \< *bṛhat*
+- *bṛhanto* ← *bṛhantaḥ* ← *bṛhat*
 - \[noun\], nominative, plural, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *adrayo* \< *adrayaḥ* \< *adri*
+- *adrayo* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *varanta* \< *varante* \< *vṛ*
+- *varanta* ← *varante* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
@@ -29,33 +29,33 @@ title = "Rig Veda 8.88.3"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vīﾱavaḥ* \< *vīḍavaḥ* \< *vīḍu*
+- *vīﾱavaḥ* ← *vīḍavaḥ* ← *vīḍu*
 - \[noun\], nominative, plural, masculine
 - “hard; firm.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ditsasi* \< *dits* \< *√dā*
+- *ditsasi* ← *dits* ← *√dā*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *stuvate* \< *stu*
+- *stuvate* ← *stu*
 - \[verb noun\], dative, singular
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *māvate* \< *māvat*
+- *māvate* ← *māvat*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
 - *vasu*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *nakiṣ* \< *nakir*
+- *nakiṣ* ← *nakir*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *ṭad* \< *tat* \< *tad*
+- *ṭad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -65,11 +65,11 @@ title = "Rig Veda 8.88.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *mināti* \< *mī*
+- *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

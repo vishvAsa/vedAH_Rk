@@ -6,7 +6,7 @@ title = "Rig Veda 6.4.6"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sūryo* \< *sūryaḥ* \< *sūrya*
+- *sūryo* ← *sūryaḥ* ← *sūrya*
 - \[noun\], nominative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -15,27 +15,27 @@ title = "Rig Veda 6.4.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhānumadbhir* \< *bhānumadbhiḥ* \< *bhānumat*
+- *bhānumadbhir* ← *bhānumadbhiḥ* ← *bhānumat*
 - \[noun\], instrumental, plural, masculine
 - “beautiful.”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tatantha* \< *tan*
+- *tatantha* ← *tan*
 - \[verb\], singular, Perfect indicative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], accusative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
@@ -43,17 +43,17 @@ title = "Rig Veda 6.4.6"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *bhāsā* \< *bhās*
+- *bhāsā* ← *bhās*
 - \[noun\], instrumental, singular, feminine
 - “beam; radiance; bhās \[word\]; fire.”
 ------------------------------------------------------------------------
-- *citro* \< *citraḥ* \< *citra*
+- *citro* ← *citraḥ* ← *citra*
 - \[noun\], nominative, singular, masculine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *nayat* \< *nī*
+- *nayat* ← *nī*
 - \[verb\], singular, Imperfect
 - “bring; lead; spend; decant; enter (a state); remove; take out; take
     away; enforce; marry; carry; fill into; bring; learn; go out; add.”
@@ -62,24 +62,24 @@ title = "Rig Veda 6.4.6"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tamāṃsy* \< *tamāṃsi* \< *tamas*
+- *tamāṃsy* ← *tamāṃsi* ← *tamas*
 - \[noun\], accusative, plural, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *aktaḥ* \< *añj*
+- *aktaḥ* ← *añj*
 - \[verb noun\], nominative, singular
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *śociṣā* \< *śocis*
+- *śociṣā* ← *śocis*
 - \[noun\], instrumental, singular, neuter
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *patmann* \< *patman*
+- *patmann* ← *patman*
 - \[noun\], locative, singular, neuter
 - “flight.”
 ------------------------------------------------------------------------
-- *auśijo* \< *auśijaḥ* \< *auśija*
+- *auśijo* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
@@ -87,6 +87,6 @@ title = "Rig Veda 6.4.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dīyan* \< *dī*
+- *dīyan* ← *dī*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------

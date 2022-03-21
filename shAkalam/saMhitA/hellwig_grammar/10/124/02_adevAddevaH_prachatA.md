@@ -2,10 +2,10 @@
 title = "Rig Veda 10.124.2"
 
 +++
--   *adevād* \< *adevāt* \< *adeva*
+-   *adevād* ← *adevāt* ← *adeva*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -17,11 +17,11 @@ title = "Rig Veda 10.124.2"
 - \[adverb\]
 - “secretly.”
 ------------------------------------------------------------------------
-- *yan* \< *i*
+- *yan* ← *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *prapaśyamāno* \< *prapaśyamānaḥ* \< *prapaś* \< *√paś*
+- *prapaśyamāno* ← *prapaśyamānaḥ* ← *prapaś* \< *√paś*
 - \[verb noun\], nominative, singular
 - “see.”
 ------------------------------------------------------------------------

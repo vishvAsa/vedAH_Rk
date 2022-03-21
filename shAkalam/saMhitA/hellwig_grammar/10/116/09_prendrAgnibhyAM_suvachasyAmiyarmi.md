@@ -2,35 +2,35 @@
 title = "Rig Veda 10.116.9"
 
 +++
--   *prendrāgnibhyāṃ* \< *pra*
+-   *prendrāgnibhyāṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prendrāgnibhyāṃ* \< *indra*
+- *prendrāgnibhyāṃ* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *prendrāgnibhyāṃ* \< *agnibhyām* \< *agni*
+- *prendrāgnibhyāṃ* ← *agnibhyām* ← *agni*
 - \[noun\], dative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *suvacasyām* \< *su*
+- *suvacasyām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suvacasyām* \< *vacasyām* \< *vacasyā*
+- *suvacasyām* ← *vacasyām* ← *vacasyā*
 - \[noun\], accusative, singular, feminine
 - “eloquence.”
 ------------------------------------------------------------------------
-- *iyarmi* \< *ṛch*
+- *iyarmi* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *sindhāv* \< *sindhau* \< *sindhu*
+- *sindhāv* ← *sindhau* ← *sindhu*
 - \[noun\], locative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -38,20 +38,20 @@ title = "Rig Veda 10.116.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *prerayaṃ* \< *prerayam* \< *preray* \< *√īr*
+- *prerayaṃ* ← *prerayam* ← *preray* ← *√īr*
 - \[verb\], singular, Present injunctive
 - “propel; throw.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *ayā* \< *idam*
+- *ayā* ← *idam*
 - \[noun\], instrumental, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -63,35 +63,35 @@ title = "Rig Veda 10.116.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *caranti* \< *car*
+- *caranti* ← *car*
 - \[verb\], plural, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *devā* \< *devāḥ* \< *deva*
+- *devā* ← *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhanadā* \< *dhana*
+- *dhanadā* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanadā* \< *dāḥ* \< *dā*
+- *dhanadā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *udbhidaś* \< *udbhidaḥ* \< *udbhid*
+- *udbhidaś* ← *udbhidaḥ* ← *udbhid*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ca*

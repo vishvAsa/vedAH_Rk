@@ -2,30 +2,30 @@
 title = "Rig Veda 9.100.3"
 
 +++
--   *tvaṃ* \< *tvam* \< *tvad*
+-   *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhiyam* \< *dhī*
+- *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *manoyujaṃ* \< *manaḥ* \< *manas*
+- *manoyujaṃ* ← *manaḥ* ← *manas*
 - \[noun\], neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manoyujaṃ* \< *yujam* \< *yuj*
+- *manoyujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, feminine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *sṛjā* \< *sṛja* \< *sṛj*
+- *sṛjā* ← *sṛja* ← *sṛj*
 - \[verb\], singular, Present imperative
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------

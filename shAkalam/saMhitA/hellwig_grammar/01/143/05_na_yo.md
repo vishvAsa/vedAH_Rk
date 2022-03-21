@@ -6,15 +6,15 @@ title = "Rig Veda 1.143.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *varāya* \< *vara*
+- *varāya* ← *vara*
 - \[noun\], dative, singular, masculine
 - “vara \[word\].”
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -22,57 +22,57 @@ title = "Rig Veda 1.143.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *svanaḥ* \< *svana*
+- *svanaḥ* ← *svana*
 - \[noun\], nominative, singular, masculine
 - “noise; sound; svan.”
 ------------------------------------------------------------------------
-- *seneva* \< *senā*
+- *seneva* ← *senā*
 - \[noun\], nominative, singular, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *seneva* \< *iva*
+- *seneva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sṛṣṭā* \< *sṛj*
+- *sṛṣṭā* ← *sṛj*
 - \[verb noun\], nominative, singular
 - “create; shoot; discharge; free; cause; throw; emit; send; produce;
     use; be born; make.”
 ------------------------------------------------------------------------
-- *divyā* \< *divya*
+- *divyā* ← *divya*
 - \[noun\], nominative, singular, feminine
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *yathāśaniḥ* \< *yathā*
+- *yathāśaniḥ* ← *yathā*
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *yathāśaniḥ* \< *aśaniḥ* \< *aśani*
+- *yathāśaniḥ* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *jambhais* \< *jambhaiḥ* \< *jambha*
+- *jambhais* ← *jambhaiḥ* ← *jambha*
 - \[noun\], instrumental, plural, masculine
 - “Jambha; citron; jaw; tooth; molar; back tooth.”
 ------------------------------------------------------------------------
-- *tigitair* \< *tigitaiḥ* \< *tigita*
+- *tigitair* ← *tigitaiḥ* ← *tigita*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *atti* \< *ad*
+- *atti* ← *ad*
 - \[verb\], singular, Present indikative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *bharvati* \< *bharv*
+- *bharvati* ← *bharv*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yodho* \< *yodhaḥ* \< *yodha*
+- *yodho* ← *yodhaḥ* ← *yodha*
 - \[noun\], nominative, singular, masculine
 - “soldier.”
 ------------------------------------------------------------------------
@@ -80,24 +80,24 @@ title = "Rig Veda 1.143.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śatrūn* \< *śatru*
+- *śatrūn* ← *śatru*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

@@ -6,24 +6,24 @@ title = "Rig Veda 5.41.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vāyuṃ* \< *vāyum* \< *vāyu*
+- *vāyuṃ* ← *vāyum* ← *vāyu*
 - \[noun\], accusative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *rathayujaṃ* \< *ratha*
+- *rathayujaṃ* ← *ratha*
 - \[noun\], masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *rathayujaṃ* \< *yujam* \< *yuj*
+- *rathayujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
-- *kṛṇudhvam* \< *kṛ*
+- *kṛṇudhvam* ← *kṛ*
 - \[verb\], plural, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -38,30 +38,30 @@ title = "Rig Veda 5.41.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *devaṃ* \< *devam* \< *deva*
+- *devaṃ* ← *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *vipram* \< *vipra*
+- *vipram* ← *vipra*
 - \[noun\], accusative, singular, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *panitāram* \< *panitṛ*
+- *panitāram* ← *panitṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *arkaiḥ* \< *arka*
+- *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *iṣudhyava* \< *iṣudhyavaḥ* \< *iṣudhyu*
+- *iṣudhyava* ← *iṣudhyavaḥ* ← *iṣudhyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *ṛtasāpaḥ* \< *ṛtasāp*
+- *ṛtasāpaḥ* ← *ṛtasāp*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *purandhīr* \< *purandhīḥ* \< *puraṃdhi*
+- *purandhīr* ← *purandhīḥ* \< *puraṃdhi*
 - \[noun\], accusative, plural, feminine
 - “liberality; Puraṃdhi; munificence.”
 ------------------------------------------------------------------------

@@ -2,38 +2,38 @@
 title = "Rig Veda 1.118.3"
 
 +++
--   *pravadyāmanā* \< *pravat*
+-   *pravadyāmanā* ← *pravat*
 - \[noun\], feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *pravadyāmanā* \< *yāmanā* \< *yāman*
+- *pravadyāmanā* ← *yāmanā* ← *yāman*
 - \[noun\], instrumental, singular, masculine
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *suvṛtā* \< *suvṛt*
+- *suvṛtā* ← *suvṛt*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *rathena* \< *ratha*
+- *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dasrāv* \< *dasrau* \< *dasra*
+- *dasrāv* ← *dasrau* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *adreḥ* \< *adri*
+- *adreḥ* ← *adri*
 - \[noun\], genitive, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
@@ -45,33 +45,33 @@ title = "Rig Veda 1.118.3"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *praty* \< *prati*
+- *praty* ← *prati*
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *avartiṃ* \< *avartim* \< *avarti*
+- *avartiṃ* ← *avartim* ← *avarti*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *gamiṣṭhāhur* \< *gamiṣṭhā* \< *gamiṣṭha*
+- *gamiṣṭhāhur* ← *gamiṣṭhā* ← *gamiṣṭha*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *gamiṣṭhāhur* \< *āhuḥ* \< *ah*
+- *gamiṣṭhāhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *viprāso* \< *viprāsaḥ* \< *vipra*
+- *viprāso* ← *viprāsaḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *purājāḥ* \< *purājā*
+- *purājāḥ* ← *purājā*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------

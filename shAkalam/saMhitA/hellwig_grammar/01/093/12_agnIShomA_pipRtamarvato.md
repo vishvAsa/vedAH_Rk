@@ -2,19 +2,19 @@
 title = "Rig Veda 1.93.12"
 
 +++
--   *agnīṣomā* \< *agnīṣoma*
+-   *agnīṣomā* ← *agnīṣoma*
 - \[noun\], vocative, dual, masculine
 - “Soma; Agni; agnīṣoma \[word\].”
 ------------------------------------------------------------------------
-- *pipṛtam* \< *pṛ*
+- *pipṛtam* ← *pṛ*
 - \[verb\], dual, Present imperative
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *arvato* \< *arvataḥ* \< *arvant*
+- *arvato* ← *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -22,37 +22,37 @@ title = "Rig Veda 1.93.12"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *pyāyantām* \< *pyā*
+- *pyāyantām* ← *pyā*
 - \[verb\], plural, Present imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *usriyā* \< *usriyāḥ* \< *usriyā*
+- *usriyā* ← *usriyāḥ* ← *usriyā*
 - \[noun\], accusative, plural, feminine
 - “cow; dairy product.”
 ------------------------------------------------------------------------
-- *havyasūdaḥ* \< *havyasūd*
+- *havyasūdaḥ* ← *havyasūd*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *balāni* \< *bala*
+- *balāni* ← *bala*
 - \[noun\], accusative, plural, neuter
 - “strength; army; power; force; potency; vigor; Balarama; bala;
     violence; might; Shiva; bala \[word\]; myrrh; semen; reflex; bronze;
     influence; erection; potency; intensity.”
 ------------------------------------------------------------------------
-- *maghavatsu* \< *maghavan*
+- *maghavatsu* ← *maghavan*
 - \[noun\], locative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *dhattaṃ* \< *dhattam* \< *dhā*
+- *dhattaṃ* ← *dhattam* ← *dhā*
 - \[verb\], dual, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *kṛṇutaṃ* \< *kṛṇutam* \< *kṛ*
+- *kṛṇutaṃ* ← *kṛṇutam* ← *kṛ*
 - \[verb\], dual, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -63,14 +63,14 @@ title = "Rig Veda 1.93.12"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *adhvaraṃ* \< *adhvaram* \< *adhvara*
+- *adhvaraṃ* ← *adhvaram* ← *adhvara*
 - \[noun\], accusative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *śruṣṭimantam* \< *śruṣṭimat*
+- *śruṣṭimantam* ← *śruṣṭimat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

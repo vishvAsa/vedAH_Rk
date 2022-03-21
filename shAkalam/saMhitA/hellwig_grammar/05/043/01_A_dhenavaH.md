@@ -6,30 +6,30 @@ title = "Rig Veda 5.43.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dhenavaḥ* \< *dhenu*
+- *dhenavaḥ* ← *dhenu*
 - \[noun\], nominative, plural, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *payasā* \< *payas*
+- *payasā* ← *payas*
 - \[noun\], instrumental, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
-- *tūrṇyarthā* \< *tūrṇi*
+- *tūrṇyarthā* ← *tūrṇi*
 - \[noun\]
 - “agile.”
 ------------------------------------------------------------------------
-- *tūrṇyarthā* \< *arthāḥ* \< *artha*
+- *tūrṇyarthā* ← *arthāḥ* ← *artha*
 - \[noun\], nominative, plural, feminine
 - “for; meaning; purpose; sense; wealth; object of sense; matter; aim;
     money; message; object; artha \[word\]; wealth; function; content;
     topic; property; situation; reason; affair; concern; reason;
     enterprise; reason; cause; five; application; application.”
 ------------------------------------------------------------------------
-- *amardhantīr* \< *a*
+- *amardhantīr* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *amardhantīr* \< *mardhantīḥ* \< *mṛdh*
+- *amardhantīr* ← *mardhantīḥ* ← *mṛdh*
 - \[verb noun\], nominative, plural
 - “neglect.”
 ------------------------------------------------------------------------
@@ -37,27 +37,27 @@ title = "Rig Veda 5.43.1"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yantu* \< *i*
+- *yantu* ← *i*
 - \[verb\], plural, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], accusative, plural, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *rāye* \< *rai*
+- *rāye* ← *rai*
 - \[noun\], dative, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *bṛhatīḥ* \< *bṛhat*
+- *bṛhatīḥ* ← *bṛhat*
 - \[noun\], accusative, plural, feminine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”

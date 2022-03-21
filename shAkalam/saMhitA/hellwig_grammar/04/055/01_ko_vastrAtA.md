@@ -2,27 +2,27 @@
 title = "Rig Veda 4.55.1"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vas* \< *vaḥ* \< *tvad*
+- *vas* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *trātā* \< *trā*
+- *trātā* ← *trā*
 - \[verb\], singular, periphrast. future
 - “protect; help.”
 ------------------------------------------------------------------------
-- *vasavaḥ* \< *vasu*
+- *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *varūtā* \< *varūtṛ*
+- *varūtā* ← *varūtṛ*
 - \[noun\], nominative, singular, masculine
 - “varūtṛ \[word\].”
 ------------------------------------------------------------------------
@@ -30,19 +30,19 @@ title = "Rig Veda 4.55.1"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *adite* \< *aditi*
+- *adite* ← *aditi*
 - \[noun\], vocative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *trāsīthāṃ* \< *trāsīthām* \< *trā*
+- *trāsīthāṃ* ← *trāsīthām* ← *trā*
 - \[verb\], dual, Aorist optative
 - “protect; help.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sahīyaso* \< *sahīyasaḥ* \< *sahīyas*
+- *sahīyaso* ← *sahīyasaḥ* ← *sahīyas*
 - \[noun\], ablative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
@@ -55,32 +55,32 @@ title = "Rig Veda 4.55.1"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *martāt* \< *marta*
+- *martāt* ← *marta*
 - \[noun\], ablative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *'dhvare* \< *adhvare* \< *adhvara*
+- *'dhvare* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *varivo* \< *varivaḥ* \< *varivas*
+- *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *dhāti* \< *dhā*
+- *dhāti* ← *dhā*
 - \[verb\], singular, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], vocative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

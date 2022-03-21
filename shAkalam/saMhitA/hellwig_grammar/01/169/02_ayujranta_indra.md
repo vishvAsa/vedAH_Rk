@@ -2,7 +2,7 @@
 title = "Rig Veda 1.169.2"
 
 +++
--   *ayujran* \< *yuj*
+-   *ayujran* ← *yuj*
 - \[verb\], plural, Root aorist (Ind.)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -10,7 +10,7 @@ title = "Rig Veda 1.169.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -21,38 +21,38 @@ title = "Rig Veda 1.169.2"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvakṛṣṭīr* \< *viśvakṛṣṭīḥ* \< *viśvakṛṣṭi*
+- *viśvakṛṣṭīr* ← *viśvakṛṣṭīḥ* ← *viśvakṛṣṭi*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *vidānāso* \< *vidānāsaḥ* \< *vid*
+- *vidānāso* ← *vidānāsaḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *niṣṣidho* \< *niṣṣidhaḥ* \< *niṣṣidh*
+- *niṣṣidho* ← *niṣṣidhaḥ* ← *niṣṣidh*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
 - *martyatrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *pṛtsutir* \< *pṛtsutiḥ* \< *pṛtsuti*
+- *pṛtsutir* ← *pṛtsutiḥ* ← *pṛtsuti*
 - \[noun\], nominative, singular, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *hāsamānā* \< *hās*
+- *hāsamānā* ← *hās*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *svarmīﾱhasya* \< *svarmīḍha*
+- *svarmīﾱhasya* ← *svarmīḍha*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *pradhanasya* \< *pradhana*
+- *pradhanasya* ← *pradhana*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *sātau* \< *sāti*
+- *sātau* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------

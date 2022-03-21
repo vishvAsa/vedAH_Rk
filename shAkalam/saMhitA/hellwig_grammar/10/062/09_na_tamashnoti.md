@@ -6,13 +6,13 @@ title = "Rig Veda 10.62.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *aśnoti* \< *aś*
+- *aśnoti* ← *aś*
 - \[verb\], singular, Present indikative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 10.62.9"
 - \[noun\], nominative, singular, masculine
 - “some(a); any(a); some(a); any(a).”
 ------------------------------------------------------------------------
-- *diva* \< *divaḥ* \< *div*
+- *diva* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -28,15 +28,15 @@ title = "Rig Veda 10.62.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sānv* \< *sānū* \< *sānu*
+- *sānv* ← *sānū* ← *sānu*
 - \[noun\], accusative, plural, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *ārabham* \< *ārabh* \< *√rabh*
+- *ārabham* ← *ārabh* ← *√rabh*
 - \[verb noun\]
 - “begin; begin; undertake; do; take.”
 ------------------------------------------------------------------------
-- *sāvarṇyasya* \< *sāvarṇya*
+- *sāvarṇyasya* ← *sāvarṇya*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *dakṣiṇā*
@@ -47,7 +47,7 @@ title = "Rig Veda 10.62.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sindhur* \< *sindhuḥ* \< *sindhu*
+- *sindhur* ← *sindhuḥ* ← *sindhu*
 - \[noun\], nominative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
@@ -55,7 +55,7 @@ title = "Rig Veda 10.62.9"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *paprathe* \< *prath*
+- *paprathe* ← *prath*
 - \[verb\], singular, Perfect indicative
 - “be known; expand; expand; boom.”
 ------------------------------------------------------------------------

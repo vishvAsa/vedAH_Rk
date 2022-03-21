@@ -6,34 +6,34 @@ title = "Rig Veda 9.33.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *droṇāni* \< *droṇa*
+- *droṇāni* ← *droṇa*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *babhravaḥ* \< *babhru*
+- *babhravaḥ* ← *babhru*
 - \[noun\], nominative, plural, masculine
 - “tawny; brown.”
 ------------------------------------------------------------------------
-- *śukrā* \< *śukrāḥ* \< *śukra*
+- *śukrā* ← *śukrāḥ* ← *śukra*
 - \[noun\], nominative, plural, masculine
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhārayā* \< *dhārā*
+- *dhārayā* ← *dhārā*
 - \[noun\], instrumental, singular, feminine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *vājaṃ* \< *vājam* \< *vāja*
+- *vājaṃ* ← *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *gomantam* \< *gomat*
+- *gomantam* ← *gomat*
 - \[noun\], accusative, singular, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *akṣaran* \< *kṣar*
+- *akṣaran* ← *kṣar*
 - \[verb\], plural, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------

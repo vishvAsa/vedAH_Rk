@@ -2,33 +2,33 @@
 title = "Rig Veda 1.134.2"
 
 +++
--   *mandantu* \< *mad*
+-   *mandantu* ← *mad*
 - \[verb\], plural, Present imperative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mandino* \< *mandinaḥ* \< *mandin*
+- *mandino* ← *mandinaḥ* ← *mandin*
 - \[noun\], nominative, plural, masculine
 - “intoxicant; exhilarating.”
 ------------------------------------------------------------------------
-- *vāyav* \< *vāyo* \< *vāyu*
+- *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *indavo* \< *indavaḥ* \< *indu*
+- *indavo* ← *indavaḥ* ← *indu*
 - \[noun\], nominative, plural, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *'smat* \< *asmat* \< *mad*
+- *'smat* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *krāṇāsaḥ* \< *kṛ*
+- *krāṇāsaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -39,11 +39,11 @@ title = "Rig Veda 1.134.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *su*
+- *sukṛtā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtā* \< *kṛtāḥ* \< *kṛ*
+- *sukṛtā* ← *kṛtāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,16 +54,16 @@ title = "Rig Veda 1.134.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *abhidyavo* \< *abhidyavaḥ* \< *abhidyu*
+- *abhidyavo* ← *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *gobhiḥ* \< *go*
+- *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *krāṇā* \< *krāṇāḥ* \< *kṛ*
+- *krāṇā* ← *krāṇāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,19 +74,19 @@ title = "Rig Veda 1.134.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *abhidyavaḥ* \< *abhidyu*
+- *abhidyavaḥ* ← *abhidyu*
 - \[noun\], nominative, plural, masculine
 - “celestial; brilliant.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *krāṇā* \< *krāṇāḥ* \< *kṛ*
+- *krāṇā* ← *krāṇāḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -97,38 +97,38 @@ title = "Rig Veda 1.134.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *iradhyai* \< *rādh*
+- *iradhyai* ← *rādh*
 - \[verb noun\]
 - “thrive; boom; succeed.”
 ------------------------------------------------------------------------
-- *dakṣaṃ* \< *dakṣam* \< *dakṣa*
+- *dakṣaṃ* ← *dakṣam* ← *dakṣa*
 - \[noun\], accusative, singular, masculine
 - “Dakṣa; ability; cock; fitness; will; purpose; disposition; cock.”
 ------------------------------------------------------------------------
-- *sacanta* \< *sacante* \< *sac*
+- *sacanta* ← *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *sadhrīcīnā* \< *sadhrīcīnāḥ* \< *sadhrīcīna*
+- *sadhrīcīnā* ← *sadhrīcīnāḥ* ← *sadhrīcīna*
 - \[noun\], nominative, plural, feminine
 - “concentrated; joint.”
 ------------------------------------------------------------------------
-- *niyuto* \< *niyutaḥ* \< *niyut*
+- *niyuto* ← *niyutaḥ* ← *niyut*
 - \[noun\], accusative, plural, feminine
 - “gift; team.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *dhiya* \< *dhiyaḥ* \< *dhī*
+- *dhiya* ← *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
@@ -137,15 +137,15 @@ title = "Rig Veda 1.134.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bruvata* \< *bruvate* \< *brū*
+- *bruvata* ← *bruvate* ← *brū*
 - \[verb\], plural, Present indikative
 - “say; tell; describe; speak; state; answer; call; explain; address;
     proclaim; talk; talk; choose.”
 ------------------------------------------------------------------------
-- *īṃ* \< *īm* \< *īṃ*
+- *īṃ* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], nominative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

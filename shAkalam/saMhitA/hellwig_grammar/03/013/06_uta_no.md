@@ -6,56 +6,56 @@ title = "Rig Veda 3.13.6"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *brahmann* \< *brahman*
+- *brahmann* ← *brahman*
 - \[noun\], locative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *aviṣa* \< *aviṣaḥ* \< *av*
+- *aviṣa* ← *aviṣaḥ* ← *av*
 - \[verb\], singular, Aorist conj./subj.
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
-- *uktheṣu* \< *uktha*
+- *uktheṣu* ← *uktha*
 - \[noun\], locative, plural, neuter
 - “hymn; praise; uktha \[word\]; encomium.”
 ------------------------------------------------------------------------
-- *devahūtamaḥ* \< *devahūtama*
+- *devahūtamaḥ* ← *devahūtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śocā* \< *śuc*
+- *śocā* ← *śuc*
 - \[verb\], singular, Present imperative
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *marudvṛdho* \< *marut*
+- *marudvṛdho* ← *marut*
 - \[noun\], masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *marudvṛdho* \< *vṛdhaḥ* \< *vṛdha*
+- *marudvṛdho* ← *vṛdhaḥ* ← *vṛdha*
 - \[noun\], nominative, singular, masculine
 - “increasing; promotive.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sahasrasātamaḥ* \< *sahasra*
+- *sahasrasātamaḥ* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasrasātamaḥ* \< *sātamaḥ* \< *sātama*
+- *sahasrasātamaḥ* ← *sātamaḥ* ← *sātama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -6,13 +6,13 @@ title = "Rig Veda 8.47.7"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tigmaṃ* \< *tigmam* \< *tigma*
+- *tigmaṃ* ← *tigmam* ← *tigma*
 - \[noun\], nominative, singular, neuter
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
@@ -20,14 +20,14 @@ title = "Rig Veda 8.47.7"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tyajo* \< *tyajaḥ* \< *tyajas*
+- *tyajo* ← *tyajaḥ* ← *tyajas*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *drāsad* \< *drāsat* \< *drā*
+- *drāsad* ← *drāsat* ← *drā*
 - \[verb\], singular, Aorist conj./subj.
 - “run; run.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 8.47.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -46,7 +46,7 @@ title = "Rig Veda 8.47.7"
 - “heavy; guru; heavy; heavy; long; guru \[word\]; difficult;
     vehement; full; impressive; serious.”
 ------------------------------------------------------------------------
-- *yasmā* \< *yasmai* \< *yad*
+- *yasmā* ← *yasmai* ← *yad*
 - \[noun\], dative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -54,47 +54,47 @@ title = "Rig Veda 8.47.7"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *sapratha* \< *saprathaḥ* \< *saprathas*
+- *sapratha* ← *saprathaḥ* ← *saprathas*
 - \[noun\], accusative, singular, neuter
 - “extensive; wide; extended.”
 ------------------------------------------------------------------------
-- *ādityāso* \< *ādityāsaḥ* \< *āditya*
+- *ādityāso* ← *ādityāsaḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *arādhvam* \< *rā*
+- *arādhvam* ← *rā*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “give; impart.”
 ------------------------------------------------------------------------
-- *anehaso* \< *anehasaḥ* \< *anehas*
+- *anehaso* ← *anehasaḥ* ← *anehas*
 - \[noun\], nominative, plural, feminine
 - “faultless; anehas \[word\]; incomparable.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *suūtayo* \< *su*
+- *suūtayo* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suūtayo* \< *ūtayaḥ* \< *ūti*
+- *suūtayo* ← *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ūtayaḥ* \< *ūti*
+- *ūtayaḥ* ← *ūti*
 - \[noun\], nominative, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

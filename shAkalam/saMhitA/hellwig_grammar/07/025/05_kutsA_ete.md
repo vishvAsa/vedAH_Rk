@@ -2,48 +2,48 @@
 title = "Rig Veda 7.25.5"
 
 +++
--   *kutsā* \< *kutsāḥ* \< *kutsa*
+-   *kutsā* ← *kutsāḥ* ← *kutsa*
 - \[noun\], nominative, plural, masculine
 - “Kutsa; kutsa \[word\].”
 ------------------------------------------------------------------------
-- *ete* \< *etad*
+- *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *haryaśvāya* \< *haryaśva*
+- *haryaśvāya* ← *haryaśva*
 - \[noun\], dative, singular, masculine
 - “Indra; Haryaśva.”
 ------------------------------------------------------------------------
-- *śūṣam* \< *śūṣa*
+- *śūṣam* ← *śūṣa*
 - \[noun\], accusative, singular, masculine
 - “song; energy.”
 ------------------------------------------------------------------------
-- *indre* \< *indra*
+- *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *devajūtam* \< *deva*
+- *devajūtam* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devajūtam* \< *jūtam* \< *jū*
+- *devajūtam* ← *jūtam* ← *jū*
 - \[verb noun\], accusative, singular
 - “animate; encourage; impel; inspire.”
 ------------------------------------------------------------------------
-- *iyānāḥ* \< *ī* \< *√i*
+- *iyānāḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, plural
 - “beg; solicit.”
 ------------------------------------------------------------------------
 - *satrā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -54,11 +54,11 @@ title = "Rig Veda 7.25.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *suhanā* \< *su*
+- *suhanā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhanā* \< *hanā* \< *hana*
+- *suhanā* ← *hanā* ← *hana*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
 - *śūra*
@@ -66,23 +66,23 @@ title = "Rig Veda 7.25.5"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *vṛtrā* \< *vṛtra*
+- *vṛtrā* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tarutrāḥ* \< *tarutra*
+- *tarutrāḥ* ← *tarutra*
 - \[noun\], nominative, plural, masculine
 - “triumphant; conquering(a); superior.”
 ------------------------------------------------------------------------
-- *sanuyāma* \< *san*
+- *sanuyāma* ← *san*
 - \[verb\], plural, Present optative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

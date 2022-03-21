@@ -2,27 +2,27 @@
 title = "Rig Veda 10.100.8"
 
 +++
--   *apāmīvāṃ* \< *apa*
+-   *apāmīvāṃ* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāmīvāṃ* \< *amīvām* \< *amīvā*
+- *apāmīvāṃ* ← *amīvām* ← *amīvā*
 - \[noun\], accusative, singular, feminine
 - “disease; affliction.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *sāviṣan* \< *sāviṣat* \< *sū*
+- *sāviṣan* ← *sāviṣat* ← *sū*
 - \[verb\], singular, Aorist conj./subj.
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *nyag* \< *\_* \< *√\_*
+- *nyag* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *varīya* \< *varīyaḥ* \< *varīyas*
+- *varīya* ← *varīyaḥ* \< *varīyas*
 - \[noun\], accusative, singular, neuter
 - “broad; further.”
 ------------------------------------------------------------------------

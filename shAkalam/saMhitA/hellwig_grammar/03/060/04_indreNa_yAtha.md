@@ -2,45 +2,45 @@
 title = "Rig Veda 3.60.4"
 
 +++
--   *indreṇa* \< *indra*
+-   *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yātha* \< *yā*
+- *yātha* ← *yā*
 - \[verb\], plural, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *sa*
+- *sarathaṃ* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sarathaṃ* \< *ratham* \< *ratha*
+- *sarathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *sute* \< *suta*
+- *sute* ← *suta*
 - \[noun\], locative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *sacā*
+- *sacāṃ* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacāṃ* \< *am* \< *aṃ*
+- *sacāṃ* ← *am* ← *aṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *atho*
 - \[adverb\]
 - “now; but; furthermore.”
 ------------------------------------------------------------------------
-- *vaśānām* \< *vaśa*
+- *vaśānām* ← *vaśa*
 - \[noun\], genitive, plural, masculine
 - “control; dominion; influence; power; Vaśa; vaśa \[word\]; will;
     authority; control; wish; supervision.”
 ------------------------------------------------------------------------
-- *bhavathā* \< *bhū*
+- *bhavathā* ← *bhū*
 - \[verb\], plural, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -51,7 +51,7 @@ title = "Rig Veda 3.60.4"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *śriyā* \< *śrī*
+- *śriyā* ← *śrī*
 - \[noun\], instrumental, singular, feminine
 - “mister; Ms.; Lakshmi; good fortune; well-being; magnificence;
     glory; beauty; Aegle marmelos (Linn.) Correa; dignity; power; śrī
@@ -61,18 +61,18 @@ title = "Rig Veda 3.60.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pratimai* \< *pratimā* \< *√mā*
+- *pratimai* ← *pratimā* ← *√mā*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sukṛtāni* \< *su*
+- *sukṛtāni* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtāni* \< *kṛtāni* \< *kṛ*
+- *sukṛtāni* ← *kṛtāni* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -83,18 +83,18 @@ title = "Rig Veda 3.60.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vāghataḥ* \< *vāghant*
+- *vāghataḥ* ← *vāghant*
 - \[noun\], vocative, plural, masculine
 ------------------------------------------------------------------------
-- *saudhanvanā* \< *saudhanvanāḥ* \< *saudhanvana*
-- \[noun\], vocative, plural, masculine
-- “Ribhus.”
-------------------------------------------------------------------------
-- *ṛbhavo* \< *ṛbhavaḥ* \< *ṛbhu*
+- *saudhanvanā* ← *saudhanvanāḥ* ← *saudhanvana*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *vīryāṇi* \< *vīrya*
+- *ṛbhavo* ← *ṛbhavaḥ* ← *ṛbhu*
+- \[noun\], vocative, plural, masculine
+- “Ribhus.”
+------------------------------------------------------------------------
+- *vīryāṇi* ← *vīrya*
 - \[noun\], nominative, plural, neuter
 - “potency; vīrya; heroism; potency; strength; semen; power; deed;
     active agent; efficacy; vīryapāramitā; gold; vigor; vīrya \[word\];

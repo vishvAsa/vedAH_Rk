@@ -2,11 +2,11 @@
 title = "Rig Veda 4.31.4"
 
 +++
--   *abhī* \< *abhi*
+-   *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -14,13 +14,13 @@ title = "Rig Veda 4.31.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavṛtsva* \< *vṛt*
+- *vavṛtsva* ← *vṛt*
 - \[verb\], singular, Perfect imperative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *cakraṃ* \< *cakram* \< *cakra*
+- *cakraṃ* ← *cakram* ← *cakra*
 - \[noun\], nominative, singular, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
@@ -29,13 +29,13 @@ title = "Rig Veda 4.31.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vṛttam* \< *vṛt*
+- *vṛttam* ← *vṛt*
 - \[verb noun\], nominative, singular
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *arvataḥ* \< *arvant*
+- *arvataḥ* ← *arvant*
 - \[noun\], accusative, plural, masculine
 - “horse.”
 ------------------------------------------------------------------------

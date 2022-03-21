@@ -6,45 +6,45 @@ title = "Rig Veda 5.78.7"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *vātaḥ* \< *vāta*
+- *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *puṣkariṇīṃ* \< *puṣkariṇīm* \< *puṣkariṇī*
+- *puṣkariṇīṃ* ← *puṣkariṇīm* ← *puṣkariṇī*
 - \[noun\], accusative, singular, feminine
 - “female elephant; cotton rose; pond; pool.”
 ------------------------------------------------------------------------
-- *samiṅgayati* \< *samiṅgay* \< *√iṅg*
+- *samiṅgayati* ← *samiṅgay* ← *√iṅg*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *sarvataḥ* \< *sarvatas*
+- *sarvataḥ* ← *sarvatas*
 - \[adverb\]
 - “about; everywhere; from all sides; always; in every direction;
     thoroughly; anywhere.”
 ------------------------------------------------------------------------
-- *evā* \< *eva*
+- *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *garbha* \< *garbhaḥ* \< *garbha*
+- *garbha* ← *garbhaḥ* ← *garbha*
 - \[noun\], nominative, singular, masculine
 - “fetus; garbha; inside; cavity; embryo; uterus; child; pit;
     garbhadruti; filling; pregnancy; room; abdomen; fertilization;
     inside; hole; baby; calyx; midst.”
 ------------------------------------------------------------------------
-- *ejatu* \< *ej*
+- *ejatu* ← *ej*
 - \[verb\], singular, Present imperative
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------
-- *niraitu* \< *nire* \< *√i*
+- *niraitu* ← *nire* ← *√i*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *daśamāsyaḥ* \< *daśamāsya*
+- *daśamāsyaḥ* ← *daśamāsya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

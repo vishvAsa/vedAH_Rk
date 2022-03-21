@@ -2,7 +2,7 @@
 title = "Rig Veda 1.22.8"
 
 +++
--   *sakhāya* \< *sakhāyaḥ* \< *sakhi*
+-   *sakhāya* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], vocative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 1.22.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *ṣīdata* \< *sad*
+- *ṣīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *stomyo* \< *stomyaḥ* \< *stomya*
+- *stomyo* ← *stomyaḥ* ← *stomya*
 - \[noun\], nominative, singular, masculine
 - “applaudable.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 1.22.8"
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dātā* \< *dātṛ*
+- *dātā* ← *dātṛ*
 - \[noun\], nominative, singular, masculine
 - “giving; big.”
 ------------------------------------------------------------------------
-- *rādhāṃsi* \< *rādhas*
+- *rādhāṃsi* ← *rādhas*
 - \[noun\], accusative, plural, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *śumbhati* \< *śubh*
+- *śumbhati* ← *śubh*
 - \[verb\], singular, Present indikative
 - “look; shine; beautify.”
 ------------------------------------------------------------------------

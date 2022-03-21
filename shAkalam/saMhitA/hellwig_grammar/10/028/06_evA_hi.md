@@ -2,7 +2,7 @@
 title = "Rig Veda 10.28.6"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
@@ -11,50 +11,50 @@ title = "Rig Veda 10.28.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *māṃ* \< *mām* \< *mad*
+- *māṃ* ← *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tavasaṃ* \< *tavasam* \< *tavas*
+- *tavasaṃ* ← *tavasam* ← *tavas*
 - \[noun\], accusative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *vardhayanti* \< *vardhay* \< *√vṛdh*
+- *vardhayanti* ← *vardhay* ← *√vṛdh*
 - \[verb\], plural, Present indikative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *divaś* \< *divaḥ* \< *div*
+- *divaś* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *bṛhata* \< *bṛhataḥ* \< *bṛhat*
+- *bṛhata* ← *bṛhataḥ* ← *bṛhat*
 - \[noun\], genitive, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *uttarā* \< *uttara*
+- *uttarā* ← *uttara*
 - \[noun\], nominative, singular, feminine
 - “northern; following; upper; additional; better; more(a); last;
     concluding; superior; later(a); uttara \[word\]; prevailing; future;
     left; northerly; northerly; higher; second; dominant; excellent;
     chief(a).”
 ------------------------------------------------------------------------
-- *dhūḥ* \< *dhū*
+- *dhūḥ* ← *dhū*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *purū* \< *puru*
+- *purū* ← *puru*
 - \[noun\], accusative, dual, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sahasrā* \< *sahasra*
+- *sahasrā* ← *sahasra*
 - \[noun\], accusative, plural, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
@@ -62,7 +62,7 @@ title = "Rig Veda 10.28.6"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *śiśāmi* \< *śā*
+- *śiśāmi* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 10.28.6"
 - \[adverb\]
 - “together; jointly; simultaneously.”
 ------------------------------------------------------------------------
-- *aśatruṃ* \< *aśatrum* \< *aśatru*
+- *aśatruṃ* ← *aśatrum* ← *aśatru*
 - \[noun\], accusative, singular, masculine
 - “unopposed.”
 ------------------------------------------------------------------------
@@ -78,15 +78,15 @@ title = "Rig Veda 10.28.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *mā* \< *mad*
+- *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *janitā* \< *janitṛ*
+- *janitā* ← *janitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; janitṛ \[word\].”
 ------------------------------------------------------------------------
-- *jajāna* \< *jan*
+- *jajāna* ← *jan*
 - \[verb\], singular, Perfect indicative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;

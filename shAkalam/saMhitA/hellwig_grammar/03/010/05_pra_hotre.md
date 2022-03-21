@@ -6,25 +6,25 @@ title = "Rig Veda 3.10.5"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *hotre* \< *hotṛ*
+- *hotre* ← *hotṛ*
 - \[noun\], dative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *pūrvyaṃ* \< *pūrvyam* \< *pūrvya*
+- *pūrvyaṃ* ← *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, neuter
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *vaco* \< *vacaḥ* \< *vacas*
+- *vaco* ← *vacaḥ* ← *vacas*
 - \[noun\], accusative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *'gnaye* \< *agnaye* \< *agni*
+- *'gnaye* ← *agnaye* ← *agni*
 - \[noun\], dative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *bharatā* \< *bhṛ*
+- *bharatā* ← *bhṛ*
 - \[verb\], plural, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -34,15 +34,15 @@ title = "Rig Veda 3.10.5"
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *vipāṃ* \< *vipām* \< *vip*
+- *vipāṃ* ← *vipām* ← *vip*
 - \[noun\], genitive, plural, feminine
 ------------------------------------------------------------------------
-- *jyotīṃṣi* \< *jyotis*
+- *jyotīṃṣi* ← *jyotis*
 - \[noun\], accusative, plural, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *bibhrate* \< *bhṛ*
+- *bibhrate* ← *bhṛ*
 - \[verb noun\], dative, singular
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
@@ -51,7 +51,7 @@ title = "Rig Veda 3.10.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vedhase* \< *vedhas*
+- *vedhase* ← *vedhas*
 - \[noun\], dative, singular, masculine
 - “Brahma; creator; believer \[worshipper\]; Vishnu.”
 ------------------------------------------------------------------------

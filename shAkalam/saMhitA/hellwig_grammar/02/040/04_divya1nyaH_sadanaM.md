@@ -2,21 +2,21 @@
 title = "Rig Veda 2.40.4"
 
 +++
--   *divy* \< *divi* \< *div*
+-   *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *anyaḥ* \< *anya*
+- *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *sadanaṃ* \< *sadanam* \< *sadana*
+- *sadanaṃ* ← *sadanam* ← *sadana*
 - \[noun\], accusative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *cakra* \< *cakre* \< *kṛ*
+- *cakra* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -31,49 +31,49 @@ title = "Rig Veda 2.40.4"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *pṛthivyām* \< *pṛthivī*
+- *pṛthivyām* ← *pṛthivī*
 - \[noun\], locative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *anyo* \< *anyaḥ* \< *anya*
+- *anyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *antarikṣe* \< *antarikṣa*
+- *antarikṣe* ← *antarikṣa*
 - \[noun\], locative, singular, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *tāv* \< *tau* \< *tad*
+- *tāv* ← *tau* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *asmabhyam* \< *mad*
+- *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *puruvāram* \< *puru*
+- *puruvāram* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *puruvāram* \< *vāram* \< *vāra*
+- *puruvāram* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “treasure; choice.”
 ------------------------------------------------------------------------
-- *purukṣuṃ* \< *purukṣum* \< *purukṣu*
+- *purukṣuṃ* ← *purukṣum* ← *purukṣu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *rāyas* \< *rai*
+- *rāyas* ← *rai*
 - \[noun\], genitive, singular, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *poṣaṃ* \< *poṣam* \< *poṣa*
+- *poṣaṃ* ← *poṣam* ← *poṣa*
 - \[noun\], accusative, singular, masculine
 - “prosperity; poṣa \[word\].”
 ------------------------------------------------------------------------
@@ -81,16 +81,16 @@ title = "Rig Veda 2.40.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣyatāṃ* \< *syatām* \< *sā*
+- *ṣyatāṃ* ← *syatām* ← *sā*
 - \[verb\], dual, Present imperative
 - “tie.”
 ------------------------------------------------------------------------
-- *nābhim* \< *nābhi*
+- *nābhim* ← *nābhi*
 - \[noun\], accusative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

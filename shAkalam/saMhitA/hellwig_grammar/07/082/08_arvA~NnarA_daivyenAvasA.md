@@ -2,34 +2,34 @@
 title = "Rig Veda 7.82.8"
 
 +++
--   *arvāṅ* \< *arvāk*
+-   *arvāṅ* ← *arvāk*
 - \[adverb\]
 - “here.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *daivyenāvasā* \< *daivyena* \< *daivya*
+- *daivyenāvasā* ← *daivyena* ← *daivya*
 - \[noun\], instrumental, singular, neuter
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *daivyenāvasā* \< *avasā* \< *avas*
+- *daivyenāvasā* ← *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *gataṃ* \< *gatam* \< *gam*
+- *gataṃ* ← *gatam* ← *gam*
 - \[verb\], dual, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -37,16 +37,16 @@ title = "Rig Veda 7.82.8"
 - \[adverb\]
 - “if; in case.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jujoṣathaḥ* \< *juṣ*
+- *jujoṣathaḥ* ← *juṣ*
 - \[verb\], dual, Perfect conjunctive (subj.)
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 7.82.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *sakhyam* \< *sakhya*
+- *sakhyam* ← *sakhya*
 - \[noun\], accusative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -66,18 +66,18 @@ title = "Rig Veda 7.82.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yad* \< *yat* \< *yad*
+- *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āpyam* \< *āpya*
+- *āpyam* ← *āpya*
 - \[noun\], nominative, singular, neuter
 - “friendship.”
 ------------------------------------------------------------------------
-- *mārḍīkam* \< *mārḍīka*
+- *mārḍīkam* ← *mārḍīka*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
@@ -85,7 +85,7 @@ title = "Rig Veda 7.82.8"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yacchatam* \< *yam*
+- *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

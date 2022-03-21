@@ -6,52 +6,52 @@ title = "Rig Veda 4.24.8"
 - \[adverb\]
 - “once \[when\]; if.”
 ------------------------------------------------------------------------
-- *samaryaṃ* \< *samaryam* \< *samarya*
+- *samaryaṃ* ← *samaryam* ← *samarya*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *aced* \< *acet* \< *cit*
+- *aced* ← *acet* ← *cit*
 - \[verb\], singular, Root aorist (Ind.)
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *ṛghāvā* \< *ṛghāvan*
+- *ṛghāvā* ← *ṛghāvan*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dīrghaṃ* \< *dīrgham* \< *dīrgha*
+- *dīrghaṃ* ← *dīrgham* ← *dīrgha*
 - \[noun\], accusative, singular, masculine
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ājim* \< *āji*
+- *ājim* ← *āji*
 - \[noun\], accusative, singular, masculine
 - “battle; fight; contest; āji \[word\]; combat.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhī* \< *abhi*
+- *abhy* ← *abhī* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *aryaḥ* \< *ari*
+- *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *acikradad* \< *acikradat* \< *krand*
+- *acikradad* ← *acikradat* ← *krand*
 - \[verb\], singular, Redupl. Aorist (Ind.)
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *vṛṣaṇam* \< *vṛṣan*
+- *vṛṣaṇam* ← *vṛṣan*
 - \[noun\], accusative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *patny* \< *patnī*
+- *patny* ← *patnī*
 - \[noun\], nominative, singular, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
@@ -59,7 +59,7 @@ title = "Rig Veda 4.24.8"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *duroṇa* \< *duroṇe* \< *duroṇa*
+- *duroṇa* ← *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
@@ -67,14 +67,14 @@ title = "Rig Veda 4.24.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *niśitaṃ* \< *niśitam* \< *niśā* \< *√śā*
+- *niśitaṃ* ← *niśitam* ← *niśā* ← *√śā*
 - \[verb noun\], accusative, singular
 - “sharpen.”
 ------------------------------------------------------------------------
-- *somasudbhiḥ* \< *soma*
+- *somasudbhiḥ* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasudbhiḥ* \< *sudbhiḥ* \< *sut*
+- *somasudbhiḥ* ← *sudbhiḥ* ← *sut*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------

@@ -2,19 +2,19 @@
 title = "Rig Veda 1.122.13"
 
 +++
--   *mandāmahe* \< *mand*
+-   *mandāmahe* ← *mand*
 - \[verb\], plural, Present indikative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *daśatayasya* \< *daśataya*
+- *daśatayasya* ← *daśataya*
 - \[noun\], genitive, singular, masculine
 - “tenfold.”
 ------------------------------------------------------------------------
-- *dhāser* \< *dhāseḥ* \< *dhāsi*
+- *dhāser* ← *dhāseḥ* ← *dhāsi*
 - \[noun\], genitive, singular, masculine
 - “food.”
 ------------------------------------------------------------------------
-- *dvir* \< *dvis*
+- *dvir* ← *dvis*
 - \[adverb\]
 - “twice; dvis \[word\].”
 ------------------------------------------------------------------------
@@ -22,20 +22,20 @@ title = "Rig Veda 1.122.13"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *pañca* \< *pañcan*
+- *pañca* ← *pañcan*
 - \[noun\], accusative, plural, neuter
 - “five; fifth; pañcan \[word\].”
 ------------------------------------------------------------------------
-- *bibhrato* \< *bibhrataḥ* \< *bhṛ*
+- *bibhrato* ← *bibhrataḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *yanty* \< *yanti* \< *i*
+- *yanty* ← *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *annā* \< *anna*
+- *annā* ← *anna*
 - \[noun\], accusative, plural, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
@@ -43,40 +43,40 @@ title = "Rig Veda 1.122.13"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *iṣṭāśva* \< *iṣṭa* \< *iṣ*
+- *iṣṭāśva* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *iṣṭāśva* \< *aśvaḥ* \< *aśva*
+- *iṣṭāśva* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *iṣṭaraśmir* \< *iṣṭa* \< *iṣ*
+- *iṣṭaraśmir* ← *iṣṭa* ← *iṣ*
 - \[verb noun\]
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *iṣṭaraśmir* \< *raśmiḥ* \< *raśmi*
+- *iṣṭaraśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *eta* \< *ete* \< *etad*
+- *eta* ← *ete* ← *etad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *īśānāsas* \< *īśānāsaḥ* \< *īśāna*
+- *īśānāsas* ← *īśānāsaḥ* ← *īśāna*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Īśāna; ruler; Vishnu; īśvara; overlord.”
 ------------------------------------------------------------------------
-- *taruṣa* \< *\_* \< *√\_*
+- *taruṣa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *nṝn* \< *nṛ*
+- *nṝn* ← *nṛ*
 - \[noun\], accusative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------

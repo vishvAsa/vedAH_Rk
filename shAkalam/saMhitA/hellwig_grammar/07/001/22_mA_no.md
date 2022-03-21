@@ -6,37 +6,37 @@ title = "Rig Veda 7.1.22"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *durbhṛtaye* \< *durbhṛti*
+- *durbhṛtaye* ← *durbhṛti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *sacaiṣu* \< *sacā*
+- *sacaiṣu* ← *sacā*
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *sacaiṣu* \< *eṣu* \< *idam*
+- *sacaiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *deveddheṣv* \< *deva*
+- *deveddheṣv* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *deveddheṣv* \< *iddheṣu* \< *indh*
+- *deveddheṣv* ← *iddheṣu* ← *indh*
 - \[verb noun\], locative, plural
 - “kindle; ignite; set ablaze.”
 ------------------------------------------------------------------------
-- *agniṣu* \< *agni*
+- *agniṣu* ← *agni*
 - \[noun\], locative, plural, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -46,7 +46,7 @@ title = "Rig Veda 7.1.22"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vocaḥ* \< *vac*
+- *vocaḥ* ← *vac*
 - \[verb\], singular, Aorist inj. (proh.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
@@ -57,39 +57,39 @@ title = "Rig Veda 7.1.22"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *durmatayo* \< *durmatayaḥ* \< *durmati*
+- *durmatayo* ← *durmatayaḥ* ← *durmati*
 - \[noun\], nominative, plural, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *bhṛmāc* \< *bhṛmāt* \< *bhṛma*
+- *bhṛmāc* ← *bhṛmāt* ← *bhṛma*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *sūno* \< *sūnu*
+- *sūno* ← *sūnu*
 - \[noun\], vocative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------
-- *sahaso* \< *sahasaḥ* \< *sahas*
+- *sahaso* ← *sahasaḥ* ← *sahas*
 - \[noun\], genitive, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *naśanta* \< *naś*
+- *naśanta* ← *naś*
 - \[verb\], plural, Present injunctive
 - “reach; achieve; enter (a state); reach.”
 ------------------------------------------------------------------------

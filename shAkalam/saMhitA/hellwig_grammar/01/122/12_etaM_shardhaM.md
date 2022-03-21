@@ -2,73 +2,73 @@
 title = "Rig Veda 1.122.12"
 
 +++
--   *etaṃ* \< *etam* \< *etad*
+-   *etaṃ* ← *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *śardhaṃ* \< *śardham* \< *śardha*
+- *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *dhāma* \< *dhā*
+- *dhāma* ← *dhā*
 - \[verb\], plural, Aorist conj./subj.
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yasya* \< *yad*
+- *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sūrer* \< *sūreḥ* \< *sūri*
+- *sūrer* ← *sūreḥ* ← *sūri*
 - \[noun\], genitive, singular, masculine
 - “patron.”
 ------------------------------------------------------------------------
-- *ity* \< *iti*
+- *ity* ← *iti*
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *avocan* \< *vac*
+- *avocan* ← *vac*
 - \[verb\], plural, Thematic aorist (Ind.)
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *daśatayasya* \< *daśataya*
+- *daśatayasya* ← *daśataya*
 - \[noun\], genitive, singular, masculine
 - “tenfold.”
 ------------------------------------------------------------------------
-- *naṃśe* \< *naṃśa*
+- *naṃśe* ← *naṃśa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *dyumnāni* \< *dyumna*
+- *dyumnāni* ← *dyumna*
 - \[noun\], nominative, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *yeṣu* \< *yad*
+- *yeṣu* ← *yad*
 - \[noun\], locative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vasutātī* \< *vasutātiḥ* \< *vasutāti*
+- *vasutātī* ← *vasutātiḥ* ← *vasutāti*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rāran* \< *ran*
+- *rāran* ← *ran*
 - \[verb\], singular, Perfect injunctive
 - “rejoice.”
 ------------------------------------------------------------------------
-- *viśve* \< *viśva*
+- *viśve* ← *viśva*
 - \[noun\], nominative, plural, masculine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *sanvantu* \< *san*
+- *sanvantu* ← *san*
 - \[verb\], plural, Present imperative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *prabhṛtheṣu* \< *prabhṛtha*
+- *prabhṛtheṣu* ← *prabhṛtha*
 - \[noun\], locative, plural, masculine
 ------------------------------------------------------------------------
-- *vājam* \< *vāja*
+- *vājam* ← *vāja*
 - \[noun\], accusative, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------

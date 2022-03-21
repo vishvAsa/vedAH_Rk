@@ -2,7 +2,7 @@
 title = "Rig Veda 6.46.8"
 
 +++
--   *yad* \< *yat* \< *yad*
+-   *yad* ← *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -10,14 +10,14 @@ title = "Rig Veda 6.46.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *tṛkṣau* \< *tṛkṣi*
+- *tṛkṣau* ← *tṛkṣi*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *maghavan*
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *druhyāv* \< *druhyau* \< *druhyu*
+- *druhyāv* ← *druhyau* ← *druhyu*
 - \[noun\], locative, singular, masculine
 - “Druhyu.”
 ------------------------------------------------------------------------
@@ -25,20 +25,20 @@ title = "Rig Veda 6.46.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jane* \< *jana*
+- *jane* ← *jana*
 - \[noun\], locative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pūrau* \< *pūru*
+- *pūrau* ← *pūru*
 - \[noun\], locative, singular, masculine
 - “Pūru; Pūru.”
 ------------------------------------------------------------------------
-- *kac* \< *kad* \< *ka*
+- *kac* ← *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -46,40 +46,40 @@ title = "Rig Veda 6.46.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *vṛṣṇyam* \< *vṛṣṇya*
+- *vṛṣṇyam* ← *vṛṣṇya*
 - \[noun\], nominative, singular, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *rirīhi* \< *rā*
+- *rirīhi* ← *rā*
 - \[verb\], singular, Present imperative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *nṛṣāhye* \< *nṛṣāhya*
+- *nṛṣāhye* ← *nṛṣāhya*
 - \[noun\], locative, singular, neuter
 - “battle.”
 ------------------------------------------------------------------------
-- *'mitrān* \< *amitrān* \< *amitra*
+- *'mitrān* ← *amitrān* ← *amitra*
 - \[noun\], accusative, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *turvaṇe* \< *tur*
+- *turvaṇe* ← *tur*
 - \[verb noun\]
 ------------------------------------------------------------------------

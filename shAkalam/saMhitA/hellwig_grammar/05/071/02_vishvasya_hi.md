@@ -2,7 +2,7 @@
 title = "Rig Veda 5.71.2"
 
 +++
--   *viśvasya* \< *viśva*
+-   *viśvasya* ← *viśva*
 - \[noun\], genitive, singular, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -11,7 +11,7 @@ title = "Rig Veda 5.71.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pracetasā* \< *pracetas*
+- *pracetasā* ← *pracetas*
 - \[noun\], vocative, dual, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
@@ -24,19 +24,19 @@ title = "Rig Veda 5.71.2"
 - \[noun\], vocative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *rājathaḥ* \< *rāj*
+- *rājathaḥ* ← *rāj*
 - \[verb\], dual, Present indikative
 - “govern; shine; glitter; direct.”
 ------------------------------------------------------------------------
-- *īśānā* \< *īś*
+- *īśānā* ← *īś*
 - \[verb noun\], nominative, dual
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *pipyataṃ* \< *pipyatam* \< *pyā*
+- *pipyataṃ* ← *pipyatam* ← *pyā*
 - \[verb\], dual, Perfect imperative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *dhiyaḥ* \< *dhī*
+- *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”

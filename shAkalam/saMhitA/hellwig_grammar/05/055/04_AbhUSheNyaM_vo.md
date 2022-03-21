@@ -2,67 +2,67 @@
 title = "Rig Veda 5.55.4"
 
 +++
--   *ābhūṣeṇyaṃ* \< *ābhūṣeṇyam* \< *ābhūṣeṇya*
+-   *ābhūṣeṇyaṃ* ← *ābhūṣeṇyam* ← *ābhūṣeṇya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mahitvanaṃ* \< *mahitvanam* \< *mahitvana*
+- *mahitvanaṃ* ← *mahitvanam* ← *mahitvana*
 - \[noun\], nominative, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
-- *didṛkṣeṇyaṃ* \< *didṛkṣeṇyam* \< *didṛkṣeṇya*
+- *didṛkṣeṇyaṃ* ← *didṛkṣeṇyam* ← *didṛkṣeṇya*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *sūryasya* \< *sūrya*
+- *sūryasyeva* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyeva* \< *iva*
+- *sūryasyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *cakṣaṇam* \< *cakṣaṇa*
+- *cakṣaṇam* ← *cakṣaṇa*
 - \[noun\], nominative, singular, neuter
 - “appearance.”
 ------------------------------------------------------------------------
-- *uto* \< *uta*
+- *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *asmāṃ* \< *mad*
+- *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amṛtatve* \< *amṛta*
+- *amṛtatve* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatve* \< *tve* \< *tva*
+- *amṛtatve* ← *tve* ← *tva*
 - \[noun\], locative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *dadhātana* \< *dhā*
+- *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *śubhaṃ* \< *śubham* \< *śubh*
+- *śubhaṃ* ← *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *yātām* \< *yā*
+- *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -71,11 +71,11 @@ title = "Rig Veda 5.55.4"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *avṛtsata* \< *vṛdh*
+- *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

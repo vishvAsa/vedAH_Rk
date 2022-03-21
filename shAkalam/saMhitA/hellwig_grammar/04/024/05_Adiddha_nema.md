@@ -2,59 +2,59 @@
 title = "Rig Veda 4.24.5"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *iddha* \< *id*
+- *iddha* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddha* \< *ha*
+- *iddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *nema* \< *neme* \< *nema*
+- *nema* ← *neme* ← *nema*
 - \[noun\], nominative, plural, masculine
 - “one.”
 ------------------------------------------------------------------------
-- *indriyaṃ* \< *indriyam* \< *indriya*
+- *indriyaṃ* ← *indriyam* ← *indriya*
 - \[noun\], accusative, singular, neuter
 - “aindra.”
 ------------------------------------------------------------------------
-- *yajanta* \< *yajante* \< *yaj*
+- *yajanta* ← *yajante* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *paktiḥ* \< *pakti*
+- *paktiḥ* ← *pakti*
 - \[noun\], nominative, singular, feminine
 - “digestion; food.”
 ------------------------------------------------------------------------
-- *puroﾱāśaṃ* \< *puroﾱāśam* \< *puroḍāś*
+- *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *riricyāt* \< *ric*
+- *riricyāt* ← *ric*
 - \[verb\], singular, Perfect optative
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
@@ -62,35 +62,35 @@ title = "Rig Veda 4.24.5"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *papṛcyād* \< *papṛcyāt* \< *pṛc*
+- *papṛcyād* ← *papṛcyāt* ← *pṛc*
 - \[verb\], singular, Perfect optative
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *asuṣvīn* \< *a*
+- *asuṣvīn* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asuṣvīn* \< *suṣvīn* \< *suṣvi*
+- *asuṣvīn* ← *suṣvīn* ← *suṣvi*
 - \[noun\], accusative, plural, masculine
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *ij* \< *id*
+- *ij* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *jujoṣa* \< *juṣ*
+- *jujoṣa* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *vṛṣabhaṃ* \< *vṛṣabham* \< *vṛṣabha*
+- *vṛṣabhaṃ* ← *vṛṣabham* ← *vṛṣabha*
 - \[noun\], accusative, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *yajadhyai* \< *yaj*
+- *yajadhyai* ← *yaj*
 - \[verb noun\]
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------

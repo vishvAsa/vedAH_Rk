@@ -2,36 +2,36 @@
 title = "Rig Veda 10.61.18"
 
 +++
--   *tadbandhuḥ* \< *tad*
+-   *tadbandhuḥ* ← *tad*
 - \[noun\]
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tadbandhuḥ* \< *bandhuḥ* \< *bandhu*
+- *tadbandhuḥ* ← *bandhuḥ* ← *bandhu*
 - \[noun\], nominative, singular, masculine
 - “relative; bandhu \[word\]; association; friend; kin.”
 ------------------------------------------------------------------------
-- *sūrir* \< *sūriḥ* \< *sūri*
+- *sūrir* ← *sūriḥ* ← *sūri*
 - \[noun\], nominative, singular, masculine
 - “priest.”
 ------------------------------------------------------------------------
-- *divi* \< *div*
+- *divi* ← *div*
 - \[noun\], locative, singular
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhiyandhā* \< *\_* \< *√\_*
+- *dhiyandhā* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *nābhānediṣṭho* \< *nābhānediṣṭhaḥ* \< *nābhānediṣṭha*
+- *nābhānediṣṭho* ← *nābhānediṣṭhaḥ* ← *nābhānediṣṭha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *rapati* \< *rap*
+- *rapati* ← *rap*
 - \[verb\], singular, Present indikative
 - “whisper.”
 ------------------------------------------------------------------------
@@ -39,31 +39,31 @@ title = "Rig Veda 10.61.18"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *venan* \< *ven*
+- *venan* ← *ven*
 - \[verb noun\], nominative, singular
 - “circulate.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *nābhiḥ* \< *nābhi*
+- *nābhiḥ* ← *nābhi*
 - \[noun\], nominative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *paramāsya* \< *paramā* \< *parama*
+- *paramāsya* ← *paramā* ← *parama*
 - \[noun\], nominative, singular, feminine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *paramāsya* \< *asya* \< *idam*
+- *paramāsya* ← *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -71,14 +71,14 @@ title = "Rig Veda 10.61.18"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *ghāhaṃ* \< *gha*
+- *ghāhaṃ* ← *gha*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ghāhaṃ* \< *aham* \< *mad*
+- *ghāhaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -88,14 +88,14 @@ title = "Rig Veda 10.61.18"
 - \[adverb\]
 - “west; behind; paścā \[word\]; on all fours; subsequently.”
 ------------------------------------------------------------------------
-- *katithaś* \< *katithaḥ* \< *katitha*
+- *katithaś* ← *katithaḥ* ← *katitha*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *āsa* \< *as*
+- *āsa* ← *as*
 - \[verb\], singular, Perfect indicative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

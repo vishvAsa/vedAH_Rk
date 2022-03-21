@@ -2,29 +2,29 @@
 title = "Rig Veda 7.6.4"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *apācīne* \< *apācīna*
+- *apācīne* ← *apācīna*
 - \[noun\], locative, singular, neuter
 - “western.”
 ------------------------------------------------------------------------
-- *tamasi* \< *tamas*
+- *tamasi* ← *tamas*
 - \[noun\], locative, singular, neuter
 - “dark; darkness; Tamas; tamas \[word\]; faint; tamas; gloom;
     ignorance.”
 ------------------------------------------------------------------------
-- *madantīḥ* \< *mad*
+- *madantīḥ* ← *mad*
 - \[verb noun\], accusative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *prācīś* \< *prācīḥ* \< *prāñc*
+- *prācīś* ← *prācīḥ* ← *prāñc*
 - \[noun\], accusative, plural, feminine
 - “eastern; aforesaid(a); former(a); eastbound; easterly; anterior;
     forward; prāñc \[word\].”
 ------------------------------------------------------------------------
-- *cakāra* \< *kṛ*
+- *cakāra* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -35,50 +35,50 @@ title = "Rig Veda 7.6.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *nṛtamaḥ* \< *nṛtama*
+- *nṛtamaḥ* ← *nṛtama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śacībhiḥ* \< *śacī*
+- *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *īśānaṃ* \< *īśānam* \< *īś*
+- *īśānaṃ* ← *īśānam* ← *īś*
 - \[verb noun\], accusative, singular
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *vasvo* \< *vasvaḥ* \< *vasu*
+- *vasvo* ← *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *gṛṇīṣe* \< *gṛ*
+- *gṛṇīṣe* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *'nānataṃ* \< *an*
+- *'nānataṃ* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *'nānataṃ* \< *ānatam* \< *ānam* \< *√nam*
+- *'nānataṃ* ← *ānatam* ← *ānam* ← *√nam*
 - \[verb noun\], accusative, singular
 - “bend; bow; crouch; bend.”
 ------------------------------------------------------------------------
-- *damayantam* \< *damay* \< *√dam*
+- *damayantam* ← *damay* ← *√dam*
 - \[verb noun\], accusative, singular
 - “suppress.”
 ------------------------------------------------------------------------
-- *pṛtanyūn* \< *pṛtanyu*
+- *pṛtanyūn* ← *pṛtanyu*
 - \[noun\], accusative, plural, masculine
 - “enemy; attacker.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 1.37.8"
 
 +++
--   *yeṣām* \< *yad*
+-   *yeṣām* ← *yad*
 - \[noun\], genitive, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ajmeṣu* \< *ajma*
+- *ajmeṣu* ← *ajma*
 - \[noun\], locative, plural, masculine
 - “march.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.37.8"
 - \[noun\], nominative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *jujurvāṃ* \< *jṛ*
+- *jujurvāṃ* ← *jṛ*
 - \[verb noun\], nominative, singular
 - “jṛ; digest; age; cook; boil down; decay; decay; ripen.”
 ------------------------------------------------------------------------
@@ -22,19 +22,19 @@ title = "Rig Veda 1.37.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *viśpatiḥ* \< *viśpati*
+- *viśpatiḥ* ← *viśpati*
 - \[noun\], nominative, singular, masculine
 - “overlord; head.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *yāmeṣu* \< *yāma*
+- *yāmeṣu* ← *yāma*
 - \[noun\], locative, plural, masculine
 - “prahara; watch; travel; path.”
 ------------------------------------------------------------------------
-- *rejate* \< *rej*
+- *rejate* ← *rej*
 - \[verb\], singular, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------

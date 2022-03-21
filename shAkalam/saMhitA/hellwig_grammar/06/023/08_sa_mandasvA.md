@@ -2,17 +2,17 @@
 title = "Rig Veda 6.23.8"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mandasvā* \< *mandasva* \< *mand*
+- *mandasvā* ← *mandasva* ← *mand*
 - \[verb\], singular, Present imperative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *hy* \< *hi*
+- *hy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ title = "Rig Veda 6.23.8"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *joṣam* \< *joṣa*
+- *joṣam* ← *joṣa*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *ugra*
@@ -32,39 +32,39 @@ title = "Rig Veda 6.23.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *yajñāsa* \< *yajñāsaḥ* \< *yajña*
+- *yajñāsa* ← *yajñāsaḥ* ← *yajña*
 - \[noun\], nominative, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *ime* \< *idam*
+- *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *aśnuvantu* \< *aś*
+- *aśnuvantu* ← *aś*
 - \[verb\], plural, Present imperative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *preme* \< *pra*
+- *preme* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *preme* \< *ime* \< *idam*
+- *preme* ← *ime* ← *idam*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *havāsaḥ* \< *hava*
+- *havāsaḥ* ← *hava*
 - \[noun\], nominative, plural, masculine
 - “invocation.”
 ------------------------------------------------------------------------
-- *puruhūtam* \< *puruhūta*
+- *puruhūtam* ← *puruhūta*
 - \[noun\], accusative, singular, masculine
 - “Indra; Vishnu.”
 ------------------------------------------------------------------------
-- *asme* \< *mad*
+- *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -72,20 +72,20 @@ title = "Rig Veda 6.23.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tveyaṃ* \< *tvā* \< *tvad*
+- *tveyaṃ* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tveyaṃ* \< *iyam* \< *idam*
+- *tveyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dhīr* \< *dhīḥ* \< *dhī*
+- *dhīr* ← *dhīḥ* ← *dhī*
 - \[noun\], nominative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *avasa* \< *avase* \< *av*
+- *avasa* ← *avase* ← *av*
 - \[verb noun\]
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------
@@ -94,7 +94,7 @@ title = "Rig Veda 6.23.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yamyāḥ* \< *yam*
+- *yamyāḥ* ← *yam*
 - \[verb\], singular, Prekativ
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

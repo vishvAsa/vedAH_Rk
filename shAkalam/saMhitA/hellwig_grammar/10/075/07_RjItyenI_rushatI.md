@@ -2,7 +2,7 @@
 title = "Rig Veda 10.75.7"
 
 +++
--   *ṛjīty* \< *ṛjītī* \< *ṛjīti*
+-   *ṛjīty* ← *ṛjītī* \< *ṛjīti*
 - \[noun\], nominative, singular, feminine
 - “straight.”
 ------------------------------------------------------------------------

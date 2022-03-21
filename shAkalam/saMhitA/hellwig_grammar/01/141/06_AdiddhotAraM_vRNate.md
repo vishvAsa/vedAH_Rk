@@ -2,26 +2,26 @@
 title = "Rig Veda 1.141.6"
 
 +++
--   *ād* \< *āt*
+-   *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
-- *iddhotāraṃ* \< *id*
+- *iddhotāraṃ* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhotāraṃ* \< *hotāram* \< *hotṛ*
+- *iddhotāraṃ* ← *hotāram* ← *hotṛ*
 - \[noun\], accusative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *vṛṇate* \< *vṛ*
+- *vṛṇate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *diviṣṭiṣu* \< *diviṣṭi*
+- *diviṣṭiṣu* ← *diviṣṭi*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *bhagam* \< *bhaga*
+- *bhagam* ← *bhaga*
 - \[noun\], accusative, singular, neuter
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
@@ -30,14 +30,14 @@ title = "Rig Veda 1.141.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *papṛcānāsa* \< *papṛcānāsaḥ* \< *pṛc*
+- *papṛcānāsa* ← *papṛcānāsaḥ* ← *pṛc*
 - \[verb noun\], nominative, plural
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -46,33 +46,33 @@ title = "Rig Veda 1.141.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *majmanā* \< *majman*
+- *majmanā* ← *majman*
 - \[noun\], instrumental, singular, masculine
 - “size.”
 ------------------------------------------------------------------------
-- *puruṣṭuto* \< *puruṣṭutaḥ* \< *puruṣṭuta*
+- *puruṣṭuto* ← *puruṣṭutaḥ* ← *puruṣṭuta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *martaṃ* \< *martam* \< *marta*
+- *martaṃ* ← *martam* ← *marta*
 - \[noun\], accusative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *śaṃsaṃ* \< *śaṃsam* \< *śaṃsa*
+- *śaṃsaṃ* ← *śaṃsam* ← *śaṃsa*
 - \[noun\], accusative, singular, masculine
 - “praise; śaṃs; recitation.”
 ------------------------------------------------------------------------
 - *viśvadhā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *veti* \< *vī*
+- *veti* ← *vī*
 - \[verb\], singular, Present indikative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *dhāyase* \< *dhāyas*
+- *dhāyase* ← *dhāyas*
 - \[noun\], dative, singular, neuter
 ------------------------------------------------------------------------

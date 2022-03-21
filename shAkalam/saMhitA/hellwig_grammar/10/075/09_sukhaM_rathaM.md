@@ -2,7 +2,7 @@
 title = "Rig Veda 10.75.9"
 
 +++
--   *sukhaṃ* \< *sukham* \< *sukha*
+-   *sukhaṃ* ← *sukham* ← *sukha*
 - \[noun\], accusative, singular, masculine
 - “pleasant; easy; lukewarm; comfortable; sukha \[word\]; successful;
     easy; content(p).”

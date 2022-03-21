@@ -2,58 +2,58 @@
 title = "Rig Veda 3.30.16"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ghoṣaḥ* \< *ghoṣa*
+- *ghoṣaḥ* ← *ghoṣa*
 - \[noun\], nominative, singular, masculine
 - “sound; noise; cry; voice; ghoṣa \[word\]; station; Ghoṣa; post;
     twang.”
 ------------------------------------------------------------------------
-- *śṛṇve* \< *śru*
+- *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *'vamair* \< *avamaiḥ* \< *avama*
+- *'vamair* ← *avamaiḥ* ← *avama*
 - \[noun\], instrumental, plural, masculine
 - “avama \[word\]; bottom; last.”
 ------------------------------------------------------------------------
-- *amitrair* \< *amitraiḥ* \< *amitra*
+- *amitrair* ← *amitraiḥ* ← *amitra*
 - \[noun\], instrumental, plural, masculine
 - “enemy; foe.”
 ------------------------------------------------------------------------
-- *jahī* \< *hā*
+- *jahī* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *ny* \< *ni*
+- *ny* ← *ni*
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *eṣv* \< *eṣu* \< *idam*
+- *eṣv* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *aśaniṃ* \< *aśanim* \< *aśani*
+- *aśaniṃ* ← *aśanim* ← *aśani*
 - \[noun\], accusative, singular, feminine
 - “lightning; Vajra; vajra; thunderbolt.”
 ------------------------------------------------------------------------
-- *tapiṣṭhām* \< *tapiṣṭha*
+- *tapiṣṭhām* ← *tapiṣṭha*
 - \[noun\], accusative, singular, feminine
 - “burning; ablaze(p).”
 ------------------------------------------------------------------------
-- *vṛścem* \< *vṛśca* \< *vraśc*
+- *vṛścem* ← *vṛśca* ← *vraśc*
 - \[verb\], singular, Present imperative
 - “cleave; fell; cut off; hew.”
 ------------------------------------------------------------------------
-- *vṛścem* \< *īm* \< *īṃ*
+- *vṛścem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *adhastād* \< *adhastāt*
+- *adhastād* ← *adhastāt*
 - \[adverb\]
 - “below.”
 ------------------------------------------------------------------------
@@ -61,22 +61,22 @@ title = "Rig Veda 3.30.16"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rujā* \< *ruj*
+- *rujā* ← *ruj*
 - \[verb\], singular, Present imperative
 - “break; bend.”
 ------------------------------------------------------------------------
-- *sahasva* \< *sah*
+- *sahasva* ← *sah*
 - \[verb\], singular, Present imperative
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *jahi* \< *hā*
+- *jahi* ← *hā*
 - \[verb\], singular, Present imperative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *rakṣo* \< *rakṣaḥ* \< *rakṣas*
+- *rakṣo* ← *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 3.30.16"
 - \[noun\], vocative, singular, masculine
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *randhayasva* \< *randhay* \< *√radh*
+- *randhayasva* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
 ------------------------------------------------------------------------

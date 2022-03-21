@@ -2,15 +2,15 @@
 title = "Rig Veda 8.2.19"
 
 +++
--   *o* \< *ā*
+-   *o* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *o* \< *u*
+- *o* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *ṣu* \< *su*
+- *ṣu* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
@@ -18,12 +18,12 @@ title = "Rig Veda 8.2.19"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 8.2.19"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *hṛṇīthā* \< *hṛṇīthāḥ* \< *hṛ*
+- *hṛṇīthā* ← *hṛṇīthāḥ* ← *hṛ*
 - \[verb\], singular, Present injunctive
 - “anger.”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -53,11 +53,11 @@ title = "Rig Veda 8.2.19"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yuvajāniḥ* \< *yuva* \< *yuvan*
+- *yuvajāniḥ* ← *yuva* ← *yuvan*
 - \[noun\]
 - “young; youthful.”
 ------------------------------------------------------------------------
-- *yuvajāniḥ* \< *jāniḥ* \< *jānī*
+- *yuvajāniḥ* ← *jāniḥ* ← *jānī*
 - \[noun\], nominative, singular, masculine
 - “wife.”
 ------------------------------------------------------------------------

@@ -2,42 +2,42 @@
 title = "Rig Veda 5.25.9"
 
 +++
--   *evāṃ* \< *eva*
+-   *evāṃ* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *evāṃ* \< *ām* \< *āṃ*
+- *evāṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *agniṃ* \< *agnim* \< *agni*
+- *agniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vasūyavaḥ* \< *vasūyu*
+- *vasūyavaḥ* ← *vasūyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *sahasānaṃ* \< *sahasānam* \< *sah*
+- *sahasānaṃ* ← *sahasānam* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *vavandima* \< *vand*
+- *vavandima* ← *vand*
 - \[verb\], plural, Perfect indicative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -46,11 +46,11 @@ title = "Rig Veda 5.25.9"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dviṣaḥ* \< *dviṣ*
+- *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *parṣan* \< *parṣat* \< *pṛ*
+- *parṣan* ← *parṣat* \< *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------

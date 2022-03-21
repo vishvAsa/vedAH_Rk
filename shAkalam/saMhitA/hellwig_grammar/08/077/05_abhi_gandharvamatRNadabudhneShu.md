@@ -6,18 +6,18 @@ title = "Rig Veda 8.77.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gandharvam* \< *gandharva*
+- *gandharvam* ← *gandharva*
 - \[noun\], accusative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
 ------------------------------------------------------------------------
-- *atṛṇad* \< *atṛṇat* \< *tṛd*
+- *atṛṇad* ← *atṛṇat* ← *tṛd*
 - \[verb\], singular, Imperfect
 ------------------------------------------------------------------------
-- *abudhneṣu* \< *abudhna*
+- *abudhneṣu* ← *abudhna*
 - \[noun\], locative, plural, neuter
 - “bottomless.”
 ------------------------------------------------------------------------
-- *rajassv* \< *rajassu* \< *rajas*
+- *rajassv* ← *rajassu* ← *rajas*
 - \[noun\], locative, plural, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
@@ -26,12 +26,12 @@ title = "Rig Veda 8.77.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmabhya* \< *brahmabhyaḥ* \< *brahman*
+- *brahmabhya* ← *brahmabhyaḥ* ← *brahman*
 - \[noun\], ablative, plural, masculine
 - “Brahma; Brahmin; dhak; Brahman; brahman \[word\]; Brahman; Brahmin;
     Brahmapurāṇa; Vishnu; Brihaspati.”
@@ -40,7 +40,7 @@ title = "Rig Veda 8.77.5"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *vṛdhe* \< *vṛdh*
+- *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

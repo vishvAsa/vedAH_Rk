@@ -2,24 +2,24 @@
 title = "Rig Veda 10.48.2"
 
 +++
--   *aham* \< *mad*
+-   *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rodho* \< *rodhaḥ* \< *rodhas*
+- *rodho* ← *rodhaḥ* ← *rodhas*
 - \[noun\], nominative, singular, neuter
 - “shore; bank; slope; wall.”
 ------------------------------------------------------------------------
-- *vakṣo* \< *vakṣaḥ* \< *vakṣas*
+- *vakṣo* ← *vakṣaḥ* ← *vakṣas*
 - \[noun\], nominative, singular, neuter
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *atharvaṇas* \< *atharvaṇaḥ* \< *atharvan*
+- *atharvaṇas* ← *atharvaṇaḥ* ← *atharvan*
 - \[noun\], genitive, singular, masculine
 - “Atharvan; Atharvavedin.”
 ------------------------------------------------------------------------

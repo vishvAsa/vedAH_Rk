@@ -2,76 +2,76 @@
 title = "Rig Veda 10.56.3"
 
 +++
--   *vājy* \< *vājī* \< *vājin*
+-   *vājy* ← *vājī* ← *vājin*
 - \[noun\], nominative, singular, masculine
 - “horse; bird; seven; hero; achiever; aphrodisiac.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *vājinenā* \< *vājinena* \< *vājina*
+- *vājinenā* ← *vājinena* ← *vājina*
 - \[noun\], instrumental, singular, neuter
 - “race; emulation.”
 ------------------------------------------------------------------------
-- *suvenīḥ* \< *suvena*
+- *suvenīḥ* ← *suvena*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *suvita* \< *suvitaḥ* \< *suvita*
+- *suvita* ← *suvitaḥ* ← *suvita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *suvito* \< *suvitaḥ* \< *suvita*
+- *suvito* ← *suvitaḥ* ← *suvita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *divaṃ* \< *divam* \< *div*
+- *divaṃ* ← *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *gāḥ* \< *gā*
+- *gāḥ* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *suvito* \< *suvitaḥ* \< *suvita*
+- *suvito* ← *suvitaḥ* ← *suvita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dharma* \< *dharman*
+- *dharma* ← *dharman*
 - \[noun\], accusative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
-- *prathamānu* \< *prathamā* \< *prathama*
+- *prathamānu* ← *prathamā* ← *prathama*
 - \[noun\], accusative, plural, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *prathamānu* \< *anu*
+- *prathamānu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *satyā* \< *satya*
+- *satyā* ← *satya*
 - \[noun\], accusative, plural, neuter
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *suvito* \< *suvitaḥ* \< *suvita*
+- *suvito* ← *suvitaḥ* ← *suvita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *devān* \< *deva*
+- *devān* ← *deva*
 - \[noun\], accusative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *suvito* \< *suvitaḥ* \< *suvita*
+- *suvito* ← *suvitaḥ* ← *suvita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *'nu* \< *anu*
+- *'nu* ← *anu*
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *patma* \< *patman*
+- *patma* ← *patman*
 - \[noun\], accusative, singular, neuter
 - “flight.”
 ------------------------------------------------------------------------

@@ -6,28 +6,28 @@ title = "Rig Veda 1.78.1"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gotamā* \< *gotamāḥ* \< *gotama*
+- *gotamā* ← *gotamāḥ* ← *gotama*
 - \[noun\], nominative, plural, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *girā* \< *gir*
+- *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *jātavedo* \< *jātavedaḥ* \< *jātavedas*
+- *jātavedo* ← *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *vicarṣaṇe* \< *vicarṣaṇi*
+- *vicarṣaṇe* ← *vicarṣaṇi*
 - \[noun\], vocative, singular, masculine
 - “excellent.”
 ------------------------------------------------------------------------
-- *dyumnair* \< *dyumnaiḥ* \< *dyumna*
+- *dyumnair* ← *dyumnaiḥ* ← *dyumna*
 - \[noun\], instrumental, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 1.78.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇonumaḥ* \< *nonāv* \< *√nū*
+- *ṇonumaḥ* ← *nonāv* ← *√nū*
 - \[verb\], plural, Present indikative
 - “bellow.”
 ------------------------------------------------------------------------

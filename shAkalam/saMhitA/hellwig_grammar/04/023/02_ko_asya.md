@@ -2,22 +2,22 @@
 title = "Rig Veda 4.23.2"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vīraḥ* \< *vīra*
+- *vīraḥ* ← *vīra*
 - \[noun\], nominative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *sadhamādam* \< *sadhamād*
+- *sadhamādam* ← *sadhamād*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āpa* \< *āp*
+- *āpa* ← *āp*
 - \[verb\], singular, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
@@ -25,62 +25,62 @@ title = "Rig Veda 4.23.2"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ānaṃśa* \< *aś*
+- *ānaṃśa* ← *aś*
 - \[verb\], singular, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *sumatibhiḥ* \< *sumati*
+- *sumatibhiḥ* ← *sumati*
 - \[noun\], instrumental, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kad* \< *ka*
+- *kad* ← *ka*
 - \[noun\], nominative, singular, neuter
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], nominative, singular, neuter
 - “painting; citra \[word\]; decoration.”
 ------------------------------------------------------------------------
-- *cikite* \< *cit*
+- *cikite* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
 - *kad*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ūtī* \< *ūti*
+- *ūtī* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *vṛdhe* \< *vṛdh*
+- *vṛdhe* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *bhuvacchaśamānasya* \< *bhuvat* \< *bhū*
+- *bhuvacchaśamānasya* ← *bhuvat* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *bhuvacchaśamānasya* \< *śaśamānasya* \< *śam*
+- *bhuvacchaśamānasya* ← *śaśamānasya* ← *śam*
 - \[verb noun\], genitive, singular
 - “calm; go out; end; die; pacify; heal; labor; make peace; rest.”
 ------------------------------------------------------------------------
-- *yajyoḥ* \< *yajyu*
+- *yajyoḥ* ← *yajyu*
 - \[noun\], genitive, singular, masculine
 - “worshiping.”
 ------------------------------------------------------------------------

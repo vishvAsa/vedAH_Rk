@@ -2,7 +2,7 @@
 title = "Rig Veda 4.54.2"
 
 +++
--   *devebhyo* \< *devebhyaḥ* \< *deva*
+-   *devebhyo* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -11,40 +11,40 @@ title = "Rig Veda 4.54.2"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *prathamaṃ* \< *prathamam* \< *prathama*
+- *prathamaṃ* ← *prathamam* ← *prathama*
 - \[noun\], accusative, singular, neuter
 - “first; prathama \[word\]; third; young; chief(a); best;
     antecedent.”
 ------------------------------------------------------------------------
-- *yajñiyebhyo* \< *yajñiyebhyaḥ* \< *yajñiya*
+- *yajñiyebhyo* ← *yajñiyebhyaḥ* ← *yajñiya*
 - \[noun\], dative, plural, masculine
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
-- *'mṛtatvaṃ* \< *amṛta*
+- *'mṛtatvaṃ* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *'mṛtatvaṃ* \< *tvam* \< *tva*
+- *'mṛtatvaṃ* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *suvasi* \< *sū*
+- *suvasi* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
-- *bhāgam* \< *bhāga*
+- *bhāgam* ← *bhāga*
 - \[noun\], accusative, singular, masculine
 - “part; part; part; parcel; quarter; body part; location; region;
     allotment; part; numerator; division; application; function;
     outside; bhāga \[word\]; volume; helping.”
 ------------------------------------------------------------------------
-- *uttamam* \< *uttama*
+- *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -52,31 +52,31 @@ title = "Rig Veda 4.54.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *dāmānaṃ* \< *dāmānam* \< *dāman*
+- *dāmānaṃ* ← *dāmānam* ← *dāman*
 - \[noun\], accusative, singular, masculine
 - “wreath; dāman; dāman \[word\]; shackle; girdle; fetter.”
 ------------------------------------------------------------------------
-- *savitar* \< *savitṛ*
+- *savitar* ← *savitṛ*
 - \[noun\], vocative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ūrṇuṣe* \< *vṛ*
+- *ūrṇuṣe* ← *vṛ*
 - \[verb\], singular, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *'nūcīnā* \< *anūcīnā* \< *anūcīna*
+- *'nūcīnā* ← *anūcīnā* ← *anūcīna*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *jīvitā* \< *jīvita*
+- *jīvitā* ← *jīvita*
 - \[noun\], accusative, plural, neuter
 - “life; life; survival; support.”
 ------------------------------------------------------------------------
-- *mānuṣebhyaḥ* \< *mānuṣa*
+- *mānuṣebhyaḥ* ← *mānuṣa*
 - \[noun\], dative, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------

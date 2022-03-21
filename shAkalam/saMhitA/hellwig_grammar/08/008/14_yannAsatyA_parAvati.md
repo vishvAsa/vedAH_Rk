@@ -2,19 +2,19 @@
 title = "Rig Veda 8.8.14"
 
 +++
--   *yan* \< *yat*
+-   *yan* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *parāvati* \< *parāvat*
+- *parāvati* ← *parāvat*
 - \[noun\], locative, singular, feminine
 - “distance; distance; distance.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
@@ -22,42 +22,42 @@ title = "Rig Veda 8.8.14"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *stho* \< *sthaḥ* \< *as*
+- *stho* ← *sthaḥ* ← *as*
 - \[verb\], dual, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *adhy* \< *adhi*
+- *adhy* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *ambare* \< *ambara*
+- *ambare* ← *ambara*
 - \[noun\], locative, singular, neuter
 - “sky; clothing; fabric; abhra; garment; circumference.”
 ------------------------------------------------------------------------
-- *ataḥ* \< *atas*
+- *ataḥ* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *sahasranirṇijā* \< *sahasra*
+- *sahasranirṇijā* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasranirṇijā* \< *nirṇijā* \< *nirṇij*
+- *sahasranirṇijā* ← *nirṇijā* ← *nirṇij*
 - \[noun\], instrumental, singular, masculine
 - “attire; garment.”
 ------------------------------------------------------------------------
-- *rathenā* \< *rathena* \< *ratha*
+- *rathenā* ← *rathena* ← *ratha*
 - \[noun\], instrumental, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

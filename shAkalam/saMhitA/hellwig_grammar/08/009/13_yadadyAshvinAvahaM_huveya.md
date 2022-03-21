@@ -2,27 +2,27 @@
 title = "Rig Veda 8.9.13"
 
 +++
--   *yad* \< *yat*
+-   *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *adyāśvināv* \< *adya*
+- *adyāśvināv* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyāśvināv* \< *aśvinau* \< *aśvin*
+- *adyāśvināv* ← *aśvinau* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *ahaṃ* \< *aham* \< *mad*
+- *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *huveya* \< *hvā*
+- *huveya* ← *hvā*
 - \[verb\], singular, Present optative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vājasāti*
+- *vājasātaye* ← *vājasāti*
 - \[noun\], dative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
@@ -30,32 +30,32 @@ title = "Rig Veda 8.9.13"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *pṛtsu* \< *pṛt*
+- *pṛtsu* ← *pṛt*
 - \[noun\], locative, plural, feminine
 - “battle.”
 ------------------------------------------------------------------------
-- *turvaṇe* \< *tur*
+- *turvaṇe* ← *tur*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sahas* \< *sahaḥ* \< *sahas*
+- *sahas* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *tacchreṣṭham* \< *tat* \< *tad*
+- *tacchreṣṭham* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tacchreṣṭham* \< *śreṣṭham* \< *śreṣṭha*
+- *tacchreṣṭham* ← *śreṣṭham* ← *śreṣṭha*
 - \[noun\], nominative, singular, neuter
 - “best; better; chief(a); beautiful.”
 ------------------------------------------------------------------------
-- *aśvinor* \< *aśvinoḥ* \< *aśvin*
+- *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *avaḥ* \< *avas*
+- *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------

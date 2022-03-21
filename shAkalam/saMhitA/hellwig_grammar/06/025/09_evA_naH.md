@@ -2,16 +2,16 @@
 title = "Rig Veda 6.25.9"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *spṛdhaḥ* \< *spṛdh*
+- *spṛdhaḥ* ← *spṛdh*
 - \[noun\], accusative, plural, masculine
 - “rival; enemy.”
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ title = "Rig Veda 6.25.9"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *ajā* \< *aja* \< *aj*
+- *ajā* ← *aja* ← *aj*
 - \[verb\], singular, Present imperative
 - “drive; expel.”
 ------------------------------------------------------------------------
-- *samatsv* \< *samatsu* \< *samad*
+- *samatsv* ← *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------
@@ -32,36 +32,36 @@ title = "Rig Veda 6.25.9"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *rārandhi* \< *ran*
+- *rārandhi* ← *ran*
 - \[verb\], singular, Perfect imperative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *mithatīr* \< *mithatīḥ* \< *mith*
+- *mithatīr* ← *mithatīḥ* ← *mith*
 - \[verb noun\], accusative, plural
 - “oppose.”
 ------------------------------------------------------------------------
-- *adevīḥ* \< *adeva*
+- *adevīḥ* ← *adeva*
 - \[noun\], accusative, plural, feminine
 - “godless.”
 ------------------------------------------------------------------------
-- *vidyāma* \< *vid*
+- *vidyāma* ← *vid*
 - \[verb\], plural, Present optative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *avasā* \< *avas*
+- *avasā* ← *avas*
 - \[noun\], instrumental, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *gṛṇanto* \< *gṛṇantaḥ* \< *gṛ*
+- *gṛṇanto* ← *gṛṇantaḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
-- *bharadvājā* \< *bharadvājāḥ* \< *bharadvāja*
+- *bharadvājā* ← *bharadvājāḥ* ← *bharadvāja*
 - \[noun\], nominative, plural, masculine
 - “Bharadvāja; Droṇa; Bharadvāja; skylark.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 6.25.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

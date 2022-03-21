@@ -6,7 +6,7 @@ title = "Rig Veda 9.17.5"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *trī* \< *tri*
+- *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
@@ -14,11 +14,11 @@ title = "Rig Veda 9.17.5"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rocanā* \< *rocana*
+- *rocanā* ← *rocana*
 - \[noun\], accusative, plural, neuter
 - “light; celestial sphere.”
 ------------------------------------------------------------------------
-- *rohan* \< *ruh*
+- *rohan* ← *ruh*
 - \[verb noun\], nominative, singular
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
@@ -26,19 +26,19 @@ title = "Rig Veda 9.17.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *bhrājase* \< *bhrāj*
+- *bhrājase* ← *bhrāj*
 - \[verb\], singular, Present indikative
 - “shine; glitter; look.”
 ------------------------------------------------------------------------
-- *divam* \< *div*
+- *divam* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *iṣṇan* \< *iṣ*
+- *iṣṇan* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -47,7 +47,7 @@ title = "Rig Veda 9.17.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *codayaḥ* \< *coday* \< *√cud*
+- *codayaḥ* ← *coday* ← *√cud*
 - \[verb\], singular, Aorist inj. (proh.)
 - “impel; drive; incite; command; drive; arouse; propel.”
 ------------------------------------------------------------------------

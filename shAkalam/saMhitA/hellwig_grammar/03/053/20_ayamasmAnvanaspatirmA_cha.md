@@ -2,15 +2,15 @@
 title = "Rig Veda 3.53.20"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *asmān* \< *mad*
+- *asmān* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vanaspatir* \< *vanaspatiḥ* \< *vanaspati*
+- *vanaspatir* ← *vanaspatiḥ* ← *vanaspati*
 - \[noun\], nominative, singular, masculine
 - “tree; banyan; vanaspati \[word\]; vanaspativarga; vaṭādi.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 3.53.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *hā* \< *hāḥ* \< *hā*
+- *hā* ← *hāḥ* ← *hā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
@@ -37,11 +37,11 @@ title = "Rig Veda 3.53.20"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rīriṣat* \< *riṣ*
+- *rīriṣat* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *svasty* \< *svasti*
+- *svasty* ← *svasti*
 - \[noun\], accusative, singular, neuter
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -50,11 +50,11 @@ title = "Rig Veda 3.53.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gṛhebhya* \< *gṛhebhyaḥ* \< *gṛha*
+- *gṛhebhya* ← *gṛhebhyaḥ* ← *gṛha*
 - \[noun\], ablative, plural, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *āvasā* \< *āvas* \< *√vas*
+- *āvasā* ← *āvas* ← *√vas*
 - \[verb\], singular, Present imperative
 - “dwell.”
 ------------------------------------------------------------------------
@@ -62,6 +62,6 @@ title = "Rig Veda 3.53.20"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vimocanāt* \< *vimocana*
+- *vimocanāt* ← *vimocana*
 - \[noun\], ablative, singular, neuter
 ------------------------------------------------------------------------

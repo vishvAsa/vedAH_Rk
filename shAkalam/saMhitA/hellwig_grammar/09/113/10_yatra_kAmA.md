@@ -6,13 +6,13 @@ title = "Rig Veda 9.113.10"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *kāmā* \< *kāmāḥ* \< *kāma*
+- *kāmā* ← *kāmāḥ* ← *kāma*
 - \[noun\], nominative, plural, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;
     kāma \[word\]; sexual intercourse; thorn apple; wish.”
 ------------------------------------------------------------------------
-- *nikāmāś* \< *nikāmāḥ* \< *nikāma*
+- *nikāmāś* ← *nikāmāḥ* ← *nikāma*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
 - *ca*
@@ -23,11 +23,11 @@ title = "Rig Veda 9.113.10"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *bradhnasya* \< *bradhna*
+- *bradhnasya* ← *bradhna*
 - \[noun\], genitive, singular, masculine
 - “sun; horse.”
 ------------------------------------------------------------------------
-- *viṣṭapam* \< *viṣṭapa*
+- *viṣṭapam* ← *viṣṭapa*
 - \[noun\], nominative, singular, neuter
 - “surface.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 9.113.10"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *tṛptiś* \< *tṛptiḥ* \< *tṛpti*
+- *tṛptiś* ← *tṛptiḥ* ← *tṛpti*
 - \[noun\], nominative, singular, feminine
 - “repletion; gratification; disgust.”
 ------------------------------------------------------------------------
@@ -57,15 +57,15 @@ title = "Rig Veda 9.113.10"
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *kṛdhi* \< *kṛ*
+- *kṛdhīndrāyendo* ← *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -76,12 +76,12 @@ title = "Rig Veda 9.113.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indrāya* \< *indra*
+- *kṛdhīndrāyendo* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *kṛdhīndrāyendo* \< *indo* \< *indu*
+- *kṛdhīndrāyendo* ← *indo* ← *indu*
 - \[noun\], vocative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
@@ -90,7 +90,7 @@ title = "Rig Veda 9.113.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *srava* \< *sru*
+- *srava* ← *sru*
 - \[verb\], singular, Present imperative
 - “discharge; issue; run; filter; discharge; liquefy; ejaculate; fail;
     disappear; leak; fester.”

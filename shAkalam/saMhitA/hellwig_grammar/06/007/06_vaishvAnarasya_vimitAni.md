@@ -2,42 +2,42 @@
 title = "Rig Veda 6.7.6"
 
 +++
--   *vaiśvānarasya* \< *vaiśvānara*
+-   *vaiśvānarasya* ← *vaiśvānara*
 - \[noun\], genitive, singular, masculine
 - “Agni; fire; Vaiśvānara; Vaiśvānara; sacrificial fire; sun.”
 ------------------------------------------------------------------------
-- *vimitāni* \< *vimā* \< *√mā*
+- *vimitāni* ← *vimā* ← *√mā*
 - \[verb noun\], nominative, plural
 - “arrange; distribute; barter; measure; fixate.”
 ------------------------------------------------------------------------
-- *cakṣasā* \< *cakṣas*
+- *cakṣasā* ← *cakṣas*
 - \[noun\], instrumental, singular, neuter
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *sānūni* \< *sānu*
+- *sānūni* ← *sānu*
 - \[noun\], nominative, plural, neuter
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *amṛtasya* \< *amṛta*
+- *amṛtasya* ← *amṛta*
 - \[noun\], genitive, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *ketunā* \< *ketu*
+- *ketunā* ← *ketu*
 - \[noun\], instrumental, singular, masculine
 - “banner; ketu; sunbeam; enemy; sign; Premna spinosa Roxb.; comet;
     signal; signal; luminosity.”
 ------------------------------------------------------------------------
-- *tasyed* \< *tasya* \< *tad*
+- *tasyed* ← *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *tasyed* \< *id*
+- *tasyed* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -45,24 +45,24 @@ title = "Rig Veda 6.7.6"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanādhi* \< *bhuvanā* \< *bhuvana*
+- *bhuvanādhi* ← *bhuvanā* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanādhi* \< *adhi*
+- *bhuvanādhi* ← *adhi*
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *mūrdhani* \< *mūrdhan*
+- *mūrdhani* ← *mūrdhan*
 - \[noun\], locative, singular, masculine
 - “head; battlefront; peak; top; mūrdhan \[word\]; leader; top.”
 ------------------------------------------------------------------------
-- *vayā* \< *vayāḥ* \< *vayā*
+- *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
@@ -70,14 +70,14 @@ title = "Rig Veda 6.7.6"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ruruhuḥ* \< *ruh*
+- *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *sapta* \< *saptan*
+- *sapta* ← *saptan*
 - \[noun\], nominative, singular, neuter
 - “seven; seventh.”
 ------------------------------------------------------------------------
-- *visruhaḥ* \< *visruh*
+- *visruhaḥ* ← *visruh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------

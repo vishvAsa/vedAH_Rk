@@ -2,63 +2,63 @@
 title = "Rig Veda 1.123.10"
 
 +++
--   *kanyeva* \< *kanyā*
+-   *kanyeva* ← *kanyā*
 - \[noun\], nominative, singular, feminine
 - “girl; daughter; kanyā; virgin; Aloe perfoliata; Aloe Indica; female
     child; kanyā \[word\]; burn plant.”
 ------------------------------------------------------------------------
-- *kanyeva* \< *iva*
+- *kanyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śāśadānāṃ* \< *śāśadānā* \< *śad*
+- *śāśadānāṃ* ← *śāśadānā* ← *śad*
 - \[verb noun\], nominative, singular
 - “prevail.”
 ------------------------------------------------------------------------
-- *śāśadānāṃ* \< *ām* \< *āṃ*
+- *śāśadānāṃ* ← *ām* ← *āṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *eṣi* \< *i*
+- *eṣi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *devi* \< *devī*
+- *devi* ← *devī*
 - \[noun\], vocative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *devam* \< *deva*
+- *devam* ← *deva*
 - \[noun\], accusative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *iyakṣamāṇam* \< *iyakṣ* \< *√yaj*
+- *iyakṣamāṇam* ← *iyakṣ* ← *√yaj*
 - \[verb noun\], accusative, singular
 - “endeavor.”
 ------------------------------------------------------------------------
-- *saṃsmayamānā* \< *saṃsmi* \< *√smi*
+- *saṃsmayamānā* ← *saṃsmi* ← *√smi*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yuvatiḥ* \< *yuvati*
+- *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *purastād* \< *purastāt*
+- *purastād* ← *purastāt*
 - \[adverb\]
 - “ahead; eastward; earlier; above; above.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *vakṣāṃsi* \< *vakṣas*
+- *vakṣāṃsi* ← *vakṣas*
 - \[noun\], accusative, plural, neuter
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
-- *kṛṇuṣe* \< *kṛ*
+- *kṛṇuṣe* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -69,7 +69,7 @@ title = "Rig Veda 1.123.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vibhātī* \< *vibhā* \< *√bhā*
+- *vibhātī* ← *vibhā* ← *√bhā*
 - \[verb noun\], nominative, singular
 - “shine.”
 ------------------------------------------------------------------------

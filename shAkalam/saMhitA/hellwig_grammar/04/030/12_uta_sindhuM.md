@@ -6,14 +6,14 @@ title = "Rig Veda 4.30.12"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sindhuṃ* \< *sindhum* \< *sindhu*
+- *sindhuṃ* ← *sindhum* ← *sindhu*
 - \[noun\], accusative, singular, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *vibālyaṃ* \< *vibālyam* \< *vibālī*
+- *vibālyaṃ* ← *vibālyam* ← *vibālī*
 - \[noun\], accusative, singular, feminine
 ------------------------------------------------------------------------
-- *vitasthānām* \< *viṣṭhā* \< *√sthā*
+- *vitasthānām* ← *viṣṭhā* ← *√sthā*
 - \[verb noun\], accusative, singular
 - “stand; stay; resist.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 4.30.12"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *kṣami* \< *kṣam*
+- *kṣami* ← *kṣam*
 - \[noun\], locative, singular, feminine
 - “Earth; heaven and earth.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 4.30.12"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣṭhā* \< *as*
+- *ṣṭhā* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -39,7 +39,7 @@ title = "Rig Veda 4.30.12"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *māyayā* \< *māyā*
+- *māyayā* ← *māyā*
 - \[noun\], instrumental, singular, feminine
 - “magic trick; Māyā; deception; illusion; māyā \[word\]; disguise;
     trick.”

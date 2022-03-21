@@ -2,7 +2,7 @@
 title = "Rig Veda 4.23.8"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -10,64 +10,64 @@ title = "Rig Veda 4.23.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *śurudhaḥ* \< *śurudh*
+- *śurudhaḥ* ← *śurudh*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], nominative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *dhītir* \< *dhītiḥ* \< *dhīti*
+- *dhītir* ← *dhītiḥ* ← *dhīti*
 - \[noun\], nominative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *vṛjināni* \< *vṛjina*
+- *vṛjināni* ← *vṛjina*
 - \[noun\], accusative, plural, neuter
 - “sin.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *śloko* \< *ślokaḥ* \< *śloka*
+- *śloko* ← *ślokaḥ* ← *śloka*
 - \[noun\], nominative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *badhirā* \< *badhira*
+- *badhirā* ← *badhira*
 - \[noun\], accusative, dual, masculine
 - “deaf.”
 ------------------------------------------------------------------------
-- *tatarda* \< *tṛd*
+- *tatarda* ← *tṛd*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *karṇā* \< *karṇa*
+- *karṇā* ← *karṇa*
 - \[noun\], accusative, dual, masculine
 - “ear; Karṇa; karṇa \[word\]; auricle; fluke; diameter; lobule.”
 ------------------------------------------------------------------------
-- *budhānaḥ* \< *budh*
+- *budhānaḥ* ← *budh*
 - \[verb noun\], nominative, singular
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *śucamāna* \< *śucamānaḥ* \< *śuc*
+- *śucamāna* ← *śucamānaḥ* ← *śuc*
 - \[verb noun\], nominative, singular
 - “mourn; grieve; flame; glow; burn; repent.”
 ------------------------------------------------------------------------
-- *āyoḥ* \< *āyu*
+- *āyoḥ* ← *āyu*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------

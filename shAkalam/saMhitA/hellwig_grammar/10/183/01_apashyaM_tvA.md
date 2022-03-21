@@ -2,41 +2,41 @@
 title = "Rig Veda 10.183.1"
 
 +++
--   *apaśyaṃ* \< *apaśyam* \< *paś*
+-   *apaśyaṃ* ← *apaśyam* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *cekitānaṃ* \< *cekitānam* \< *cekit* \< *√cit*
+- *cekitānaṃ* ← *cekitānam* ← *cekit* ← *√cit*
 - \[verb noun\], accusative, singular
 - “chew over.”
 ------------------------------------------------------------------------
-- *tapaso* \< *tapasaḥ* \< *tapas*
+- *tapaso* ← *tapasaḥ* ← *tapas*
 - \[noun\], ablative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *jātaṃ* \< *jātam* \< *jan*
+- *jātaṃ* ← *jātam* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *tapaso* \< *tapasaḥ* \< *tapas*
+- *tapaso* ← *tapasaḥ* ← *tapas*
 - \[noun\], ablative, singular, neuter
 - “penance; heat; Tapoloka; tapas \[word\]; ardor; austerity; summer;
     heat.”
 ------------------------------------------------------------------------
-- *vibhūtam* \< *vibhū* \< *√bhū*
+- *vibhūtam* ← *vibhū* ← *√bhū*
 - \[verb noun\], accusative, singular
 - “appear; expand; develop.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 10.183.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *prajām* \< *prajā*
+- *prajām* ← *prajā*
 - \[noun\], accusative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
@@ -53,11 +53,11 @@ title = "Rig Veda 10.183.1"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *rarāṇaḥ* \< *rā*
+- *rarāṇaḥ* ← *rā*
 - \[verb noun\], nominative, singular
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -65,22 +65,22 @@ title = "Rig Veda 10.183.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jāyasva* \< *jan*
+- *jāyasva* ← *jan*
 - \[verb\], singular, Present imperative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *prajayā* \< *prajā*
+- *prajayā* ← *prajā*
 - \[noun\], instrumental, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *putrakāma* \< *putra*
+- *putrakāma* ← *putra*
 - \[noun\], masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *putrakāma* \< *kāma*
+- *putrakāma* ← *kāma*
 - \[noun\], vocative, singular, masculine
 - “wish; desire; sexual love; sexual desire; desire; Kama; sensuality;
     love; purpose; sexual arousal; pleasure; enjoyment; licentiousness;

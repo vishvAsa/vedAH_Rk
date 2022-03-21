@@ -2,15 +2,15 @@
 title = "Rig Veda 8.49.2"
 
 +++
--   *śatānīkeva* \< *śata*
+-   *śatānīkeva* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatānīkeva* \< *anīkā* \< *anīka*
+- *śatānīkeva* ← *anīkā* ← *anīka*
 - \[noun\], nominative, plural, neuter
 - “army; face; battalion; battlefront; point; appearance.”
 ------------------------------------------------------------------------
-- *śatānīkeva* \< *iva*
+- *śatānīkeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 8.49.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -26,21 +26,21 @@ title = "Rig Veda 8.49.2"
 - \[adverb\]
 - “boldly.”
 ------------------------------------------------------------------------
-- *hanti* \< *han*
+- *hanti* ← *han*
 - \[verb\], singular, Present indikative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *vṛtrāṇi* \< *vṛtra*
+- *vṛtrāṇi* ← *vṛtra*
 - \[noun\], accusative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *girer* \< *gireḥ* \< *giri*
+- *girer* ← *gireḥ* ← *giri*
 - \[noun\], genitive, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 8.49.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *rasā* \< *rasāḥ* \< *rasa*
+- *rasā* ← *rasāḥ* ← *rasa*
 - \[noun\], nominative, plural, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -60,23 +60,23 @@ title = "Rig Veda 8.49.2"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pinvire* \< *pyā*
+- *pinvire* ← *pyā*
 - \[verb\], plural, Present indikative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *datrāṇi* \< *dattra*
+- *datrāṇi* ← *dattra*
 - \[noun\], nominative, plural, neuter
 - “gift.”
 ------------------------------------------------------------------------
-- *purubhojasaḥ* \< *puru*
+- *purubhojasaḥ* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purubhojasaḥ* \< *bhojasaḥ* \< *bhojas*
+- *purubhojasaḥ* ← *bhojasaḥ* ← *bhojas*
 - \[noun\], genitive, singular, masculine
 - “advantage; utility; food.”
 ------------------------------------------------------------------------

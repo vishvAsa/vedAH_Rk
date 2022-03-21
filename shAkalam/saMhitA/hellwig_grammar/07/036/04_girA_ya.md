@@ -2,20 +2,20 @@
 title = "Rig Veda 7.36.4"
 
 +++
--   *girā* \< *gir*
+-   *girā* ← *gir*
 - \[noun\], instrumental, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *etā* \< *etad*
+- *etā* ← *etad*
 - \[noun\], accusative, dual, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *yunajaddharī* \< *yunajat* \< *yuj*
+- *yunajaddharī* ← *yunajat* ← *yuj*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -23,12 +23,12 @@ title = "Rig Veda 7.36.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *yunajaddharī* \< *harī* \< *hari*
+- *yunajaddharī* ← *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -37,16 +37,16 @@ title = "Rig Veda 7.36.4"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *priyā* \< *priya*
+- *priyā* ← *priya*
 - \[noun\], accusative, dual, masculine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *surathā* \< *su*
+- *surathā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *surathā* \< *rathā* \< *ratha*
+- *surathā* ← *rathā* ← *ratha*
 - \[noun\], accusative, dual, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -55,25 +55,25 @@ title = "Rig Veda 7.36.4"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *dhāyū* \< *dhāyu*
+- *dhāyū* ← *dhāyu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *manyuṃ* \< *manyum* \< *manyu*
+- *manyuṃ* ← *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *ririkṣato* \< *ririkṣataḥ* \< *ririkṣ* \< *√riṣ*
+- *ririkṣato* ← *ririkṣataḥ* ← *ririkṣ* ← *√riṣ*
 - \[verb noun\], genitive, singular
 ------------------------------------------------------------------------
-- *mināty* \< *mināti* \< *mī*
+- *mināty* ← *mināti* ← *mī*
 - \[verb\], singular, Present indikative
 - “transgress; damage.”
 ------------------------------------------------------------------------
@@ -81,15 +81,15 @@ title = "Rig Veda 7.36.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *sukratum* \< *sukratu*
+- *sukratum* ← *sukratu*
 - \[noun\], accusative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *aryamaṇaṃ* \< *aryamaṇam* \< *aryaman*
+- *aryamaṇaṃ* ← *aryamaṇam* ← *aryaman*
 - \[noun\], accusative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *vavṛtyām* \< *vṛt*
+- *vavṛtyām* ← *vṛt*
 - \[verb\], singular, Perfect optative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

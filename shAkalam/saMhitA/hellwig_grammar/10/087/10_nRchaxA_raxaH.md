@@ -2,15 +2,15 @@
 title = "Rig Veda 10.87.10"
 
 +++
--   *nṛcakṣā* \< *nṛ*
+-   *nṛcakṣā* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣā* \< *cakṣāḥ* \< *cakṣas*
+- *nṛcakṣā* ← *cakṣāḥ* ← *cakṣas*
 - \[noun\], nominative, singular, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
-- *rakṣaḥ* \< *rakṣas*
+- *rakṣaḥ* ← *rakṣas*
 - \[noun\], accusative, singular, neuter
 - “Rākṣasa; Rakṣas; rakṣas \[word\].”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 10.87.10"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *paśya* \< *paś*
+- *paśya* ← *paś*
 - \[verb\], singular, Present imperative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”

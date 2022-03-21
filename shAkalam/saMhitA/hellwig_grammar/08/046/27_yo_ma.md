@@ -2,19 +2,19 @@
 title = "Rig Veda 8.46.27"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
@@ -22,54 +22,54 @@ title = "Rig Veda 8.46.27"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tmanāmandac* \< *tmanā* \< *tman*
+- *tmanāmandac* ← *tmanā* ← *tman*
 - \[noun\], instrumental, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tmanāmandac* \< *amandat* \< *mad*
+- *tmanāmandac* ← *amandat* ← *mad*
 - \[verb\], singular, Imperfect
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *citraṃ* \< *citram* \< *citra*
+- *citraṃ* ← *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *dāvane* \< *dā*
+- *dāvane* ← *dā*
 - \[verb noun\]
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *araṭve* \< *araṭva*
+- *araṭve* ← *araṭva*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *akṣe* \< *akṣa*
+- *akṣe* ← *akṣa*
 - \[noun\], locative, singular, masculine
 - “Akṣa.”
 ------------------------------------------------------------------------
-- *nahuṣe* \< *nahuṣa*
+- *nahuṣe* ← *nahuṣa*
 - \[noun\], locative, singular, masculine
 - “Nahuṣa; Nahuṣa; Vishnu.”
 ------------------------------------------------------------------------
-- *sukṛtvani* \< *su*
+- *sukṛtvani* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukṛtvani* \< *kṛtvani* \< *kṛtvan*
+- *sukṛtvani* ← *kṛtvani* ← *kṛtvan*
 - \[noun\], locative, singular, masculine
 - “busy.”
 ------------------------------------------------------------------------
-- *sukṛttarāya* \< *sukṛttara*
+- *sukṛttarāya* ← *sukṛttara*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *su*
+- *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *kratuḥ* \< *kratu*
+- *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”

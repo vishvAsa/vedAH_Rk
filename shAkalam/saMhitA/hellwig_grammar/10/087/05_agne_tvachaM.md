@@ -2,39 +2,39 @@
 title = "Rig Veda 10.87.5"
 
 +++
--   *agne* \< *agni*
+-   *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tvacaṃ* \< *tvacam* \< *tvac*
+- *tvacaṃ* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *yātudhānasya* \< *yātudhāna*
+- *yātudhānasya* ← *yātudhāna*
 - \[noun\], genitive, singular, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *bhinddhi* \< *bhid*
+- *bhinddhi* ← *bhid*
 - \[verb\], singular, Present imperative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *hiṃsrāśanir* \< *hiṃsra*
+- *hiṃsrāśanir* ← *hiṃsra*
 - \[noun\]
 ------------------------------------------------------------------------
-- *hiṃsrāśanir* \< *aśaniḥ* \< *aśani*
+- *hiṃsrāśanir* ← *aśaniḥ* ← *aśani*
 - \[noun\], nominative, singular, masculine
 - “lightning; Vajra; vajra; thunderbolt.”
 ------------------------------------------------------------------------
-- *harasā* \< *haras*
+- *harasā* ← *haras*
 - \[noun\], instrumental, singular, neuter
 - “fire; fury; grip; capture.”
 ------------------------------------------------------------------------
-- *hantv* \< *hantu* \< *han*
+- *hantv* ← *hantu* \< *han*
 - \[verb\], singular, Present imperative
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;

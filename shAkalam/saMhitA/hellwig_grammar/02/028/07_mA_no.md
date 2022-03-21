@@ -6,11 +6,11 @@ title = "Rig Veda 2.28.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhair* \< *vadhaiḥ* \< *vadha*
+- *vadhair* ← *vadhaiḥ* ← *vadha*
 - \[noun\], instrumental, plural, masculine
 - “killing; weapon; māraṇa; execution; destruction; vadh-; Vadha;
     dysfunction; punishment; kick.”
@@ -20,23 +20,23 @@ title = "Rig Veda 2.28.7"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iṣṭāv* \< *iṣṭau* \< *iṣṭi*
+- *iṣṭāv* ← *iṣṭau* ← *iṣṭi*
 - \[noun\], locative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *enaḥ* \< *enas*
+- *enaḥ* ← *enas*
 - \[noun\], accusative, singular, neuter
 - “sin; calamity; blame.”
 ------------------------------------------------------------------------
-- *kṛṇvantam* \< *kṛ*
+- *kṛṇvantam* ← *kṛ*
 - \[verb noun\], accusative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,22 +51,22 @@ title = "Rig Veda 2.28.7"
 - \[noun\], vocative, singular, masculine
 - “Asura; lord; asura \[word\]; sulfur.”
 ------------------------------------------------------------------------
-- *bhrīṇanti* \< *bhrī*
+- *bhrīṇanti* ← *bhrī*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
 - *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *jyotiṣaḥ* \< *jyotis*
+- *jyotiṣaḥ* ← *jyotis*
 - \[noun\], ablative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *pravasathāni* \< *pravasatha*
+- *pravasathāni* ← *pravasatha*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *ganma* \< *gam*
+- *ganma* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -77,22 +77,22 @@ title = "Rig Veda 2.28.7"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣū* \< *su*
+- *ṣū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mṛdhaḥ* \< *mṛdh*
+- *mṛdhaḥ* ← *mṛdh*
 - \[noun\], accusative, plural, feminine
 - “enemy; adversary.”
 ------------------------------------------------------------------------
-- *śiśratho* \< *śiśrathaḥ* \< *śrath*
+- *śiśratho* ← *śiśrathaḥ* ← *śrath*
 - \[verb\], singular, Aorist inj. (proh.)
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

@@ -2,33 +2,33 @@
 title = "Rig Veda 6.59.8"
 
 +++
--   *indrāgnī* \< *indra*
+-   *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *tapanti* \< *tap*
+- *tapanti* ← *tap*
 - \[verb\], plural, Present indikative
 - “heat; burn; grieve; afflict; burn; afflict; trouble; boil.”
 ------------------------------------------------------------------------
-- *māghā* \< *mā* \< *mad*
+- *māghā* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *māghā* \< *aghāḥ* \< *agha*
+- *māghā* ← *aghāḥ* ← *agha*
 - \[noun\], nominative, plural, feminine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *aryo* \< *aryaḥ* \< *ari*
+- *aryo* ← *aryaḥ* ← *ari*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *arātayaḥ* \< *arāti*
+- *arātayaḥ* ← *arāti*
 - \[noun\], nominative, plural, feminine
 - “hostility; adversity; foe; envy; stinginess.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 6.59.8"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *dveṣāṃsy* \< *dveṣāṃsi* \< *dveṣas*
+- *dveṣāṃsy* ← *dveṣāṃsi* ← *dveṣas*
 - \[noun\], accusative, plural, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 6.59.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *kṛtaṃ* \< *kṛtam* \< *kṛ*
+- *kṛtaṃ* ← *kṛtam* ← *kṛ*
 - \[verb\], dual, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -55,11 +55,11 @@ title = "Rig Veda 6.59.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yuyutaṃ* \< *yuyutam* \< *yu*
+- *yuyutaṃ* ← *yuyutam* ← *yu*
 - \[verb\], dual, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *sūryād* \< *sūryāt* \< *sūrya*
+- *sūryād* ← *sūryāt* ← *sūrya*
 - \[noun\], ablative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”

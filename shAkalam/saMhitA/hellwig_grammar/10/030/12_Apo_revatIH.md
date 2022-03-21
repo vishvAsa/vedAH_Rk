@@ -2,15 +2,15 @@
 title = "Rig Veda 10.30.12"
 
 +++
--   *āpo* \< *āpaḥ* \< *ap*
+-   *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], vocative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *revatīḥ* \< *revat*
+- *revatīḥ* ← *revat*
 - \[noun\], vocative, plural, feminine
 - “abundant; rich; affluent; brilliant; brilliant.”
 ------------------------------------------------------------------------
-- *kṣayathā* \< *kṣi*
+- *kṣayathā* ← *kṣi*
 - \[verb\], plural, Present indikative
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 10.30.12"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vasvaḥ* \< *vasu*
+- *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *kratuṃ* \< *kratum* \< *kratu*
+- *kratuṃ* ← *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -31,12 +31,12 @@ title = "Rig Veda 10.30.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *bhadram* \< *bhadra*
+- *bhadram* ← *bhadra*
 - \[noun\], accusative, singular, masculine
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *bibhṛthāmṛtaṃ* \< *bibhṛtha* \< *bhṛ*
+- *bibhṛthāmṛtaṃ* ← *bibhṛtha* \< *bhṛ*
 - \[verb\], plural, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

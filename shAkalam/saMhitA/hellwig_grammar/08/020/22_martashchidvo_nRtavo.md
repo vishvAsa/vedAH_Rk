@@ -2,27 +2,27 @@
 title = "Rig Veda 8.20.22"
 
 +++
--   *martaś* \< *martaḥ* \< *marta*
+-   *martaś* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *nṛtavo* \< *nṛtavaḥ* \< *nṛtu*
+- *nṛtavo* ← *nṛtavaḥ* ← *nṛtu*
 - \[noun\], vocative, plural, masculine
 - “dancing.”
 ------------------------------------------------------------------------
-- *rukmavakṣasa* \< *rukma*
+- *rukmavakṣasa* ← *rukma*
 - \[noun\], neuter
 - “gold; svarṇamākṣika.”
 ------------------------------------------------------------------------
-- *rukmavakṣasa* \< *vakṣasaḥ* \< *vakṣas*
+- *rukmavakṣasa* ← *vakṣasaḥ* ← *vakṣas*
 - \[noun\], vocative, plural, masculine
 - “breast; breast; bosom; thorax.”
 ------------------------------------------------------------------------
@@ -30,15 +30,15 @@ title = "Rig Veda 8.20.22"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bhrātṛtvam* \< *bhrātṛ*
+- *bhrātṛtvam* ← *bhrātṛ*
 - \[noun\], masculine
 - “brother; bhrātṛ; relative.”
 ------------------------------------------------------------------------
-- *bhrātṛtvam* \< *tvam* \< *tva*
+- *bhrātṛtvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *āyati* \< *e* \< *√i*
+- *āyati* ← *e* ← *√i*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “come; travel.”
 ------------------------------------------------------------------------
@@ -46,15 +46,15 @@ title = "Rig Veda 8.20.22"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gāta* \< *gā*
+- *gāta* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -66,19 +66,19 @@ title = "Rig Veda 8.20.22"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *āpitvam* \< *āpi*
+- *āpitvam* ← *āpi*
 - \[noun\], masculine
 - “friend.”
 ------------------------------------------------------------------------
-- *āpitvam* \< *tvam* \< *tva*
+- *āpitvam* ← *tvam* ← *tva*
 - \[noun\], nominative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

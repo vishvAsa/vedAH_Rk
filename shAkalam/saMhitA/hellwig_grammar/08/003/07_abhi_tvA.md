@@ -6,17 +6,17 @@ title = "Rig Veda 8.3.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *pūrvapītaya* \< *pūrva*
+- *pūrvapītaya* ← *pūrva*
 - \[noun\]
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvapītaya* \< *pītaye* \< *pīti*
+- *pūrvapītaya* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
@@ -25,18 +25,18 @@ title = "Rig Veda 8.3.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *āyavaḥ* \< *āyu*
+- *āyavaḥ* ← *āyu*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *samīcīnāsa* \< *samīcīnāsaḥ* \< *samīcīna*
+- *samīcīnāsa* ← *samīcīnāsaḥ* ← *samīcīna*
 - \[noun\], nominative, plural, masculine
 - “combined; real.”
 ------------------------------------------------------------------------
-- *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], nominative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -44,19 +44,19 @@ title = "Rig Veda 8.3.7"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *asvaran* \< *svar*
+- *asvaran* ← *svar*
 - \[verb\], plural, Imperfect
 - “sing.”
 ------------------------------------------------------------------------
-- *rudrā* \< *rudrāḥ* \< *rudra*
+- *rudrā* ← *rudrāḥ* ← *rudra*
 - \[noun\], nominative, plural, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *gṛṇanta* \< *gṛ*
+- *gṛṇanta* ← *gṛ*
 - \[verb\], plural, Present injunctive
 - “praise.”
 ------------------------------------------------------------------------
-- *pūrvyam* \< *pūrvya*
+- *pūrvyam* ← *pūrvya*
 - \[noun\], accusative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------

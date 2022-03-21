@@ -2,36 +2,36 @@
 title = "Rig Veda 10.102.4"
 
 +++
--   *udno* \< *udnaḥ* \< *udan*
+-   *udno* ← *udnaḥ* ← *udan*
 - \[noun\], genitive, singular, neuter
 - “water; body of water.”
 ------------------------------------------------------------------------
-- *hradam* \< *hrada*
+- *hradam* ← *hrada*
 - \[noun\], accusative, singular, masculine
 - “lake; pool; hrada \[word\]; body of water; pool.”
 ------------------------------------------------------------------------
-- *apibaj* \< *apibat* \< *pā*
+- *apibaj* ← *apibat* ← *pā*
 - \[verb\], singular, Imperfect
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *jarhṛṣāṇaḥ* \< *jarhṛṣ* \< *√hṛṣ*
+- *jarhṛṣāṇaḥ* ← *jarhṛṣ* ← *√hṛṣ*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *kūṭaṃ* \< *kūṭam* \< *kūṭa*
+- *kūṭaṃ* ← *kūṭam* ← *kūṭa*
 - \[noun\], nominative, singular, neuter
 - “peak; fraud; trap.”
 ------------------------------------------------------------------------
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tṛṃhad* \< *tṛṃhat* \< *tṛh*
+- *tṛṃhad* ← *tṛṃhat* ← *tṛh*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *abhimātim* \< *abhimāti*
+- *abhimātim* ← *abhimāti*
 - \[noun\], accusative, singular, feminine
 - “aggression; hostility.”
 ------------------------------------------------------------------------
-- *eti* \< *i*
+- *eti* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -39,38 +39,38 @@ title = "Rig Veda 10.102.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *muṣkabhāraḥ* \< *muṣka*
+- *muṣkabhāraḥ* ← *muṣka*
 - \[noun\], masculine
 - “scrotum; testis; Schrebera swietenioides Roxb.; muṣka \[word\].”
 ------------------------------------------------------------------------
-- *muṣkabhāraḥ* \< *bhāraḥ* \< *bhāra*
+- *muṣkabhāraḥ* ← *bhāraḥ* ← *bhāra*
 - \[noun\], nominative, singular, masculine
 - “weight; load; difficulty; bhāra \[word\]; bhāra; quantity; trouble;
     specific gravity; cargo; effort; labor.”
 ------------------------------------------------------------------------
-- *śrava* \< *śravaḥ* \< *śravas*
+- *śrava* ← *śravaḥ* ← *śravas*
 - \[noun\], accusative, singular, neuter
 - “fame; glory; ear.”
 ------------------------------------------------------------------------
-- *icchamāno* \< *icchamānaḥ* \< *iṣ*
+- *icchamāno* ← *icchamānaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *'jiram* \< *ajiram* \< *ajira*
+- *'jiram* ← *ajiram* ← *ajira*
 - \[noun\], accusative, singular, neuter
 - “fast; agile; ajira \[word\].”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], accusative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *abharat* \< *bhṛ*
+- *abharat* ← *bhṛ*
 - \[verb\], singular, Imperfect
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *siṣāsan* \< *siṣās* \< *√san*
+- *siṣāsan* ← *siṣās* ← *√san*
 - \[verb noun\], nominative, singular
 - “win; gain.”
 ------------------------------------------------------------------------

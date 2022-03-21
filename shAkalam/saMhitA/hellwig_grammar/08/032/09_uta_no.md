@@ -6,15 +6,15 @@ title = "Rig Veda 8.32.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gomatas* \< *gomataḥ* \< *gomat*
+- *gomatas* ← *gomataḥ* ← *gomat*
 - \[noun\], accusative, plural, masculine
 - “rich in cattle; bovine.”
 ------------------------------------------------------------------------
-- *kṛdhi* \< *kṛ*
+- *kṛdhi* ← *kṛ*
 - \[verb\], singular, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,23 +25,23 @@ title = "Rig Veda 8.32.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *hiraṇyavato* \< *hiraṇyavataḥ* \< *hiraṇyavat*
+- *hiraṇyavato* ← *hiraṇyavataḥ* ← *hiraṇyavat*
 - \[noun\], accusative, plural, masculine
 - “possessing gold.”
 ------------------------------------------------------------------------
-- *aśvinaḥ* \< *aśvin*
+- *aśvinaḥ* ← *aśvin*
 - \[noun\], accusative, plural, masculine
 - “rich in horses; horsy.”
 ------------------------------------------------------------------------
-- *iﾱābhiḥ* \< *iḍā*
+- *iﾱābhiḥ* ← *iḍā*
 - \[noun\], instrumental, plural, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *rabhemahi* \< *rabh*
+- *rabhemahi* ← *rabh*
 - \[verb\], plural, Present optative
 - “clasp.”
 ------------------------------------------------------------------------

@@ -6,14 +6,14 @@ title = "Rig Veda 6.53.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rikha* \< *likh*
+- *rikha* ← *likh*
 - \[verb\], singular, Present imperative
 - “write; trace; describe; scarify; paint.”
 ------------------------------------------------------------------------
 - *kikirā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *kṛṇu* \< *kṛ*
+- *kṛṇu* ← *kṛ*
 - \[verb\], singular, Present imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -24,32 +24,32 @@ title = "Rig Veda 6.53.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *paṇīnāṃ* \< *paṇīnām* \< *paṇi*
+- *paṇīnāṃ* ← *paṇīnām* ← *paṇi*
 - \[noun\], genitive, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *hṛdayā* \< *hṛdaya*
+- *hṛdayā* ← *hṛdaya*
 - \[noun\], accusative, plural, neuter
 - “heart; heart; mind; hṛdaya \[word\]; science; thorax;
     Aṣṭāṅgahṛdayasaṃhitā; soul.”
 ------------------------------------------------------------------------
-- *kave* \< *kavi*
+- *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *athem* \< *athā* \< *atha*
+- *athem* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athem* \< *im* \< *iṃ*
+- *athem* ← *im* ← *iṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *asmabhyaṃ* \< *asmabhyam* \< *mad*
+- *asmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *randhaya* \< *randhay* \< *√radh*
+- *randhaya* ← *randhay* ← *√radh*
 - \[verb\], singular, Present imperative
 - “subjugate; hand over.”
 ------------------------------------------------------------------------

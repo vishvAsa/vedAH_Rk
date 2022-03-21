@@ -2,18 +2,18 @@
 title = "Rig Veda 6.59.9"
 
 +++
--   *indrāgnī* \< *indra*
+-   *indrāgnī* ← *indra*
 - \[noun\], masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrāgnī* \< *agnī* \< *agni*
+- *indrāgnī* ← *agnī* ← *agni*
 - \[noun\], vocative, dual, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *yuvor* \< *yuvoḥ* \< *tvad*
+- *yuvor* ← *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -26,12 +26,12 @@ title = "Rig Veda 6.59.9"
 - \[noun\], nominative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *divyāni* \< *divya*
+- *divyāni* ← *divya*
 - \[noun\], nominative, plural, neuter
 - “divine; celestial; divine; heavenly; divine; beautiful; rain;
     agreeable.”
 ------------------------------------------------------------------------
-- *pārthivā* \< *pārthiva*
+- *pārthivā* ← *pārthiva*
 - \[noun\], nominative, plural, neuter
 - “earthly; earthen; mundane; royal; tellurian; sublunar.”
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ title = "Rig Veda 6.59.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -51,23 +51,23 @@ title = "Rig Veda 6.59.9"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yacchataṃ* \< *yacchatam* \< *yam*
+- *yacchataṃ* ← *yacchatam* ← *yam*
 - \[verb\], dual, Present imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *viśvāyupoṣasam* \< *viśva*
+- *viśvāyupoṣasam* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvāyupoṣasam* \< *āyu*
+- *viśvāyupoṣasam* ← *āyu*
 - \[noun\], masculine
 - “life; life; age.”
 ------------------------------------------------------------------------
-- *viśvāyupoṣasam* \< *poṣasam* \< *poṣas*
+- *viśvāyupoṣasam* ← *poṣasam* ← *poṣas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------

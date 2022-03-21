@@ -2,7 +2,7 @@
 title = "Rig Veda 8.44.9"
 
 +++
--   *samidhāna* \< *samidhānaḥ* \< *samindh* \< *√indh*
+-   *samidhāna* ← *samidhānaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
@@ -14,36 +14,36 @@ title = "Rig Veda 8.44.9"
 - \[noun\], vocative, singular, masculine
 - “honest.”
 ------------------------------------------------------------------------
-- *śukraśoca* \< *śukra*
+- *śukraśoca* ← *śukra*
 - \[noun\]
 - “bright; clear; white; light; pure.”
 ------------------------------------------------------------------------
-- *śukraśoca* \< *śoce* \< *śoci*
+- *śukraśoca* ← *śoce* ← *śoci*
 - \[noun\], vocative, singular, masculine
 - “fire.”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihā* \< *ā*
+- *ihā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaha* \< *vah*
+- *vaha* ← *vah*
 - \[verb\], singular, Present imperative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *cikitvān* \< *cit*
+- *cikitvān* ← *cit*
 - \[verb noun\], nominative, singular
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
-- *daivyaṃ* \< *daivyam* \< *daivya*
+- *daivyaṃ* ← *daivyam* ← *daivya*
 - \[noun\], accusative, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *janam* \< *jana*
+- *janam* ← *jana*
 - \[noun\], accusative, singular, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”

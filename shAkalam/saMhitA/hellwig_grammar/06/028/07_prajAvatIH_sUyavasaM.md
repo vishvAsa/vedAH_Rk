@@ -2,38 +2,38 @@
 title = "Rig Veda 6.28.7"
 
 +++
--   *prajāvatīḥ* \< *prajāvat*
+-   *prajāvatīḥ* ← *prajāvat*
 - \[noun\], accusative, plural, feminine
 - “prolific.”
 ------------------------------------------------------------------------
-- *sūyavasaṃ* \< *su*
+- *sūyavasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sūyavasaṃ* \< *yavasam* \< *yavasa*
+- *sūyavasaṃ* ← *yavasam* ← *yavasa*
 - \[noun\], accusative, singular, neuter
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *riśantīḥ* \< *riś*
+- *riśantīḥ* ← *riś*
 - \[verb noun\], accusative, plural
 ------------------------------------------------------------------------
-- *śuddhā* \< *śuddhāḥ* \< *śudh*
+- *śuddhā* ← *śuddhāḥ* ← *śudh*
 - \[verb noun\], accusative, plural
 - “become pure; purify; wash; expiate; clean; cleanse.”
 ------------------------------------------------------------------------
-- *apaḥ* \< *ap*
+- *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *suprapāṇe* \< *su*
+- *suprapāṇe* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suprapāṇe* \< *prapāṇe* \< *prapāṇa*
+- *suprapāṇe* ← *prapāṇe* ← *prapāṇa*
 - \[noun\], locative, singular, neuter
 - “drink; drinking.”
 ------------------------------------------------------------------------
-- *pibantīḥ* \< *pā*
+- *pibantīḥ* ← *pā*
 - \[verb noun\], accusative, plural
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
@@ -41,27 +41,27 @@ title = "Rig Veda 6.28.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *stena* \< *stenaḥ* \< *stena*
+- *stena* ← *stenaḥ* ← *stena*
 - \[noun\], nominative, singular, masculine
 - “thief; stena \[word\].”
 ------------------------------------------------------------------------
-- *īśata* \< *īś*
+- *īśata* ← *īś*
 - \[verb\], singular, Present injunctive
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *māghaśaṃsaḥ* \< *mā*
+- *māghaśaṃsaḥ* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *māghaśaṃsaḥ* \< *agha*
+- *māghaśaṃsaḥ* ← *agha*
 - \[noun\]
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *māghaśaṃsaḥ* \< *śaṃsaḥ* \< *śaṃsa*
+- *māghaśaṃsaḥ* ← *śaṃsaḥ* ← *śaṃsa*
 - \[noun\], nominative, singular, masculine
 - “speaking.”
 ------------------------------------------------------------------------
@@ -69,18 +69,18 @@ title = "Rig Veda 6.28.7"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *hetī* \< *hetiḥ* \< *heti*
+- *hetī* ← *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vṛjyāḥ* \< *vṛj*
+- *vṛjyāḥ* ← *vṛj*
 - \[verb\], singular, Prekativ
 ------------------------------------------------------------------------

@@ -2,32 +2,32 @@
 title = "Rig Veda 3.51.2"
 
 +++
--   *śatakratum* \< *śatakratu*
+-   *śatakratum* ← *śatakratu*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *arṇavaṃ* \< *arṇavam* \< *arṇava*
+- *arṇavaṃ* ← *arṇavam* ← *arṇava*
 - \[noun\], accusative, singular, masculine
 - “ocean; sea; four.”
 ------------------------------------------------------------------------
-- *śākinaṃ* \< *śākinam* \< *śākina*
+- *śākinaṃ* ← *śākinam* ← *śākina*
 - \[noun\], accusative, singular, masculine
 - “mighty; strong.”
 ------------------------------------------------------------------------
-- *naraṃ* \< *naram* \< *nṛ*
+- *naraṃ* ← *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *giro* \< *giraḥ* \< *gir*
+- *giro* ← *giraḥ* ← *gir*
 - \[noun\], nominative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -36,51 +36,51 @@ title = "Rig Veda 3.51.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yanti* \< *i*
+- *yanti* ← *i*
 - \[verb\], plural, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *viśvataḥ* \< *viśvatas*
+- *viśvataḥ* ← *viśvatas*
 - \[adverb\]
 - “everywhere; around; about.”
 ------------------------------------------------------------------------
-- *vājasanim* \< *vāja*
+- *vājasanim* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasanim* \< *sanim* \< *sani*
+- *vājasanim* ← *sanim* ← *sani*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *pūrbhidaṃ* \< *pūḥ* \< *pur*
+- *pūrbhidaṃ* ← *pūḥ* ← *pur*
 - \[noun\], feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *pūrbhidaṃ* \< *bhidam* \< *bhid*
+- *pūrbhidaṃ* ← *bhidam* ← *bhid*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tūrṇim* \< *tūrṇi*
+- *tūrṇim* ← *tūrṇi*
 - \[noun\], accusative, singular, masculine
 - “agile.”
 ------------------------------------------------------------------------
-- *apturaṃ* \< *ap*
+- *apturaṃ* ← *ap*
 - \[noun\]
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *apturaṃ* \< *turam* \< *tura*
+- *apturaṃ* ← *turam* ← *tura*
 - \[noun\], accusative, singular, masculine
 - “powerful; noble; noble.”
 ------------------------------------------------------------------------
-- *dhāmasācam* \< *dhāmasāc*
+- *dhāmasācam* ← *dhāmasāc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *abhiṣācaṃ* \< *abhiṣācam* \< *abhiṣāc*
+- *abhiṣācaṃ* ← *abhiṣācam* ← *abhiṣāc*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *svarvidam* \< *svar*
+- *svarvidam* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidam* \< *vidam* \< *vid*
+- *svarvidam* ← *vidam* ← *vid*
 - \[noun\], accusative, singular, masculine
 - “finding.”
 ------------------------------------------------------------------------

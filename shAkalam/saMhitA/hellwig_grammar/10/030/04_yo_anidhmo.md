@@ -2,18 +2,18 @@
 title = "Rig Veda 10.30.4"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *anidhmo* \< *anidhmaḥ* \< *anidhma*
+- *anidhmo* ← *anidhmaḥ* ← *anidhma*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dīdayad* \< *dīdayat* \< *dīdī*
+- *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------

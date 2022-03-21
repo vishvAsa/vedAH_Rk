@@ -6,7 +6,7 @@ title = "Rig Veda 6.61.4"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *ṇo* \< *naḥ* \< *mad*
+- *ṇo* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -19,24 +19,24 @@ title = "Rig Veda 6.61.4"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājinīvatī* \< *vājinīvat*
+- *vājinīvatī* ← *vājinīvat*
 - \[noun\], nominative, singular, feminine
 - “rich; rich in horses.”
 ------------------------------------------------------------------------
-- *dhīnām* \< *dhī*
+- *dhīnām* ← *dhī*
 - \[noun\], genitive, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *avitry* \< *avitrī* \< *avitṛ*
+- *avitry* ← *avitrī* ← *avitṛ*
 - \[noun\], nominative, singular, feminine
 - “favorable.”
 ------------------------------------------------------------------------
-- *avatu* \< *av*
+- *avatu* ← *av*
 - \[verb\], singular, Present imperative
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

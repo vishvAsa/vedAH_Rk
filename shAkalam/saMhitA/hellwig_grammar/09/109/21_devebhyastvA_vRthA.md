@@ -2,12 +2,12 @@
 title = "Rig Veda 9.109.21"
 
 +++
--   *devebhyas* \< *devebhyaḥ* \< *deva*
+-   *devebhyas* ← *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -15,23 +15,23 @@ title = "Rig Veda 9.109.21"
 - \[adverb\]
 - “vainly; incorrectly; unnecessarily; at will.”
 ------------------------------------------------------------------------
-- *pājase* \< *pājas*
+- *pājase* ← *pājas*
 - \[noun\], dative, singular, neuter
 - “luminosity; look.”
 ------------------------------------------------------------------------
-- *'po* \< *apaḥ* \< *ap*
+- *'po* ← *apaḥ* ← *ap*
 - \[noun\], accusative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *vasānaṃ* \< *vasānam* \< *vas*
+- *vasānaṃ* ← *vasānam* ← *vas*
 - \[verb noun\], accusative, singular
 - “wear.”
 ------------------------------------------------------------------------
-- *harim* \< *hari*
+- *harim* ← *hari*
 - \[noun\], accusative, singular, masculine
 - “reddish brown; yellow; pale; yellow; aureate.”
 ------------------------------------------------------------------------
-- *mṛjanti* \< *mṛj*
+- *mṛjanti* ← *mṛj*
 - \[verb\], plural, Present indikative
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------

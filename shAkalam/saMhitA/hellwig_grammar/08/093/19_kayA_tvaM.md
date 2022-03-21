@@ -2,23 +2,23 @@
 title = "Rig Veda 8.93.19"
 
 +++
--   *kayā* \< *ka*
+-   *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvaṃ* \< *tvam* \< *tvad*
+- *tvaṃ* ← *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ūtyābhi* \< *ūtyā* \< *ūti*
+- *ūtyābhi* ← *ūtyā* ← *ūti*
 - \[noun\], instrumental, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
-- *ūtyābhi* \< *abhi*
+- *ūtyābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 8.93.19"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mandase* \< *mand*
+- *mandase* ← *mand*
 - \[verb\], singular, Present indikative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 8.93.19"
 - \[noun\], vocative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *kayā* \< *ka*
+- *kayā* ← *ka*
 - \[noun\], instrumental, singular, feminine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *stotṛbhya* \< *stotṛbhyaḥ* \< *stotṛ*
+- *stotṛbhya* ← *stotṛbhyaḥ* ← *stotṛ*
 - \[noun\], dative, plural, masculine
 - “laudatory; worshiping.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 8.93.19"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

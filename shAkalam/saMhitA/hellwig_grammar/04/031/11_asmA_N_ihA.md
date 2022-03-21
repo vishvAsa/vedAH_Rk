@@ -2,19 +2,19 @@
 title = "Rig Veda 4.31.11"
 
 +++
--   *asmāṃ* \< *mad*
+-   *asmāṃ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ihā* \< *iha*
+- *ihā* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *ihā* \< *ā*
+- *ihā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vṛṇīṣva* \< *vṛ*
+- *vṛṇīṣva* ← *vṛ*
 - \[verb\], singular, Present imperative
 - “choose; ask.”
 ------------------------------------------------------------------------

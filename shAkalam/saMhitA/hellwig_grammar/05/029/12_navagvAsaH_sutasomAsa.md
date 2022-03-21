@@ -2,15 +2,15 @@
 title = "Rig Veda 5.29.12"
 
 +++
--   *navagvāsaḥ* \< *navagva*
+-   *navagvāsaḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
 ------------------------------------------------------------------------
-- *sutasomāsa* \< *suta* \< *su*
+- *sutasomāsa* ← *suta* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sutasomāsa* \< *somāsaḥ* \< *soma*
+- *sutasomāsa* ← *somāsaḥ* \< *soma*
 - \[noun\], nominative, plural, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------

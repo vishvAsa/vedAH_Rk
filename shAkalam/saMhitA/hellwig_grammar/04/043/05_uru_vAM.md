@@ -6,11 +6,11 @@ title = "Rig Veda 4.43.5"
 - \[noun\], accusative, singular, neuter
 - “wide; broad; great; uru \[word\]; much(a); excellent.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *rathaḥ* \< *ratha*
+- *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -18,11 +18,11 @@ title = "Rig Veda 4.43.5"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *nakṣati* \< *nakṣ*
+- *nakṣati* ← *nakṣ*
 - \[verb\], singular, Present indikative
 - “reach; approach.”
 ------------------------------------------------------------------------
-- *dyām* \< *div*
+- *dyām* ← *div*
 - \[noun\], accusative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -34,7 +34,7 @@ title = "Rig Veda 4.43.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samudrād* \< *samudrāt* \< *samudra*
+- *samudrād* ← *samudrāt* ← *samudra*
 - \[noun\], ablative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -42,17 +42,17 @@ title = "Rig Veda 4.43.5"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vartate* \< *vṛt*
+- *vartate* ← *vṛt*
 - \[verb\], singular, Present indikative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
     account for; begin; do; inhere; revolve.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
@@ -64,11 +64,11 @@ title = "Rig Veda 4.43.5"
 - \[noun\], accusative, plural, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pruṣāyan* \< *pruṣāy* \< *√pruṣ*
+- *pruṣāyan* ← *pruṣāy* ← *√pruṣ*
 - \[verb\], plural, Present injunctive
 - “sprinkle.”
 ------------------------------------------------------------------------
@@ -76,21 +76,21 @@ title = "Rig Veda 4.43.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sīṃ* \< *sīm*
+- *sīṃ* ← *sīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pṛkṣo* \< *pṛkṣaḥ* \< *pṛkṣ*
+- *pṛkṣo* ← *pṛkṣaḥ* ← *pṛkṣ*
 - \[noun\], accusative, plural, feminine
 - “food; refreshment; power.”
 ------------------------------------------------------------------------
-- *bhurajanta* \< *bhuraj*
+- *bhurajanta* ← *bhuraj*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *pakvāḥ* \< *pakva*
+- *pakvāḥ* ← *pakva*
 - \[noun\], accusative, plural, feminine
 - “heated; pakva; ripe; cooked; festering; baked; developed; doomed;
     digested; pakva \[word\]; suppurative; gray; fruiting; done.”

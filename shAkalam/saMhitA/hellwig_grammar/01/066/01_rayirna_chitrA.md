@@ -2,7 +2,7 @@
 title = "Rig Veda 1.66.1"
 
 +++
--   *rayir* \< *rayiḥ* \< *rayi*
+-   *rayir* ← *rayiḥ* ← *rayi*
 - \[noun\], nominative, singular, feminine
 - “wealth; property.”
 ------------------------------------------------------------------------
@@ -10,13 +10,13 @@ title = "Rig Veda 1.66.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *citrā* \< *citra*
+- *citrā* ← *citra*
 - \[noun\], nominative, singular, feminine
 - “manifold; extraordinary; beautiful; divers(a); varicolored; bright;
     bright; bright; outstanding; agitated; aglitter(p); brilliant;
     painted; obvious; patched; bizarre.”
 ------------------------------------------------------------------------
-- *sūro* \< *sūraḥ* \< *svar*
+- *sūro* ← *sūraḥ* ← *svar*
 - \[adverb\]
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
@@ -24,23 +24,23 @@ title = "Rig Veda 1.66.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saṃdṛg* \< *saṃdṛś*
+- *saṃdṛg* ← *saṃdṛś*
 - \[noun\], nominative, singular, feminine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *āyur* \< *āyuḥ* \< *āyu*
+- *āyur* ← *āyuḥ* ← *āyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prāṇo* \< *prāṇaḥ* \< *prāṇa*
+- *prāṇo* ← *prāṇaḥ* ← *prāṇa*
 - \[noun\], nominative, singular, masculine
 - “life; prāṇa (coll.); breath; breath; prāṇa (indiv.); inhalation;
     Prāṇa; might; myrrh; energy; survival.”
 ------------------------------------------------------------------------
-- *nityo* \< *nityaḥ* \< *nitya*
+- *nityo* ← *nityaḥ* ← *nitya*
 - \[noun\], nominative, singular, masculine
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
@@ -50,7 +50,7 @@ title = "Rig Veda 1.66.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sūnuḥ* \< *sūnu*
+- *sūnuḥ* ← *sūnu*
 - \[noun\], nominative, singular, masculine
 - “son; offspring.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 8.69.14"
 
 +++
--   *atīd* \< *ati*
+-   *atīd* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *atīd* \< *id*
+- *atīd* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,20 +14,20 @@ title = "Rig Veda 8.69.14"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *śakra* \< *śakraḥ* \< *śakra*
+- *śakra* ← *śakraḥ* ← *śakra*
 - \[noun\], nominative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *ohata* \< *ohate* \< *ūh*
+- *ohata* ← *ohate* ← *ūh*
 - \[verb\], singular, Present indikative
 - “diagnose.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -36,35 +36,35 @@ title = "Rig Veda 8.69.14"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *dviṣaḥ* \< *dviṣ*
+- *dviṣaḥ* ← *dviṣ*
 - \[noun\], accusative, plural, feminine
 - “hate; dviṣ; hostility; hostility.”
 ------------------------------------------------------------------------
-- *bhinat* \< *bhid*
+- *bhinat* ← *bhid*
 - \[verb\], singular, Present injunctive
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
     transgress; break open; scratch; penetrate; sever; bribe; grind;
     betray; fester; strike.”
 ------------------------------------------------------------------------
-- *kanīna* \< *kanīnaḥ* \< *kanīna*
+- *kanīna* ← *kanīnaḥ* ← *kanīna*
 - \[noun\], nominative, singular, masculine
 - “young; kanīna \[word\].”
 ------------------------------------------------------------------------
-- *odanam* \< *odana*
+- *odanam* ← *odana*
 - \[noun\], accusative, singular, masculine
 - “boiled rice; porridge; odana \[word\]; soft diet.”
 ------------------------------------------------------------------------
-- *pacyamānam* \< *pac*
+- *pacyamānam* ← *pac*
 - \[verb noun\], accusative, singular
 - “heat; cook; digest; boil; ripen; fester; burn; boil; cauterize;
     fry; cook; suppurate; inflame.”
 ------------------------------------------------------------------------
-- *paro* \< *paras*
+- *paro* ← *paras*
 - \[adverb\]
 - “beyond; away; farther.”
 ------------------------------------------------------------------------
-- *girā* \< *giri*
+- *girā* ← *giri*
 - \[noun\], locative, singular, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------

@@ -6,41 +6,41 @@ title = "Rig Veda 10.43.1"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *ma* \< *me* \< *mad*
+- *ma* ← *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *matayaḥ* \< *mati*
+- *matayaḥ* ← *mati*
 - \[noun\], nominative, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *svar*
+- *svarvidaḥ* ← *svar*
 - \[noun\], neuter
 - “sun; sky; sunlight.”
 ------------------------------------------------------------------------
-- *svarvidaḥ* \< *vidaḥ* \< *vid*
+- *svarvidaḥ* ← *vidaḥ* ← *vid*
 - \[noun\], nominative, plural, feminine
 - “finding.”
 ------------------------------------------------------------------------
-- *sadhrīcīr* \< *sadhrīcīḥ* \< *sadhryañc*
+- *sadhrīcīr* ← *sadhrīcīḥ* ← *sadhryañc*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *viśvā* \< *viśvāḥ* \< *viśva*
+- *viśvā* ← *viśvāḥ* ← *viśva*
 - \[noun\], nominative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *uśatīr* \< *uśatīḥ* \< *vaś*
+- *uśatīr* ← *uśatīḥ* ← *vaś*
 - \[verb noun\], nominative, plural
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *anūṣata* \< *nū*
+- *anūṣata* ← *nū*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “praise; shout.”
 ------------------------------------------------------------------------
@@ -48,11 +48,11 @@ title = "Rig Veda 10.43.1"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṣvajante* \< *svajante* \< *svaj*
+- *ṣvajante* ← *svajante* ← *svaj*
 - \[verb\], plural, Present indikative
 - “embrace.”
 ------------------------------------------------------------------------
-- *janayo* \< *janayaḥ* \< *jani*
+- *janayo* ← *janayaḥ* ← *jani*
 - \[noun\], nominative, plural, feminine
 - “wife; jan; woman; jani \[word\]; birth.”
 ------------------------------------------------------------------------
@@ -60,12 +60,12 @@ title = "Rig Veda 10.43.1"
 - \[adverb\]
 - “equally; as; so that; like; how; yathā \[word\]; that; wherein.”
 ------------------------------------------------------------------------
-- *patim* \< *pati*
+- *patim* ← *pati*
 - \[noun\], accusative, singular, masculine
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *maryaṃ* \< *maryam* \< *marya*
+- *maryaṃ* ← *maryam* ← *marya*
 - \[noun\], accusative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -73,15 +73,15 @@ title = "Rig Veda 10.43.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śundhyum* \< *śundhyu*
+- *śundhyum* ← *śundhyu*
 - \[noun\], accusative, singular, masculine
 - “fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *maghavānam* \< *maghavan*
+- *maghavānam* ← *maghavan*
 - \[noun\], accusative, singular
 - “Indra; maghavan \[word\].”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

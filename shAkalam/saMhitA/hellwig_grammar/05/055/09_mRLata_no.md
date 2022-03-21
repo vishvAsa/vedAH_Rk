@@ -2,15 +2,15 @@
 title = "Rig Veda 5.55.9"
 
 +++
--   *mṛﾱata* \< *mṛḍ*
+-   *mṛﾱata* ← *mṛḍ*
 - \[verb\], plural, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
@@ -18,19 +18,19 @@ title = "Rig Veda 5.55.9"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *vadhiṣṭanāsmabhyaṃ* \< *vadhiṣṭana* \< *vadh*
+- *vadhiṣṭanāsmabhyaṃ* ← *vadhiṣṭana* ← *vadh*
 - \[verb\], plural, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *vadhiṣṭanāsmabhyaṃ* \< *asmabhyam* \< *mad*
+- *vadhiṣṭanāsmabhyaṃ* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *bahulaṃ* \< *bahulam* \< *bahula*
+- *bahulaṃ* ← *bahulam* ← *bahula*
 - \[noun\], accusative, singular, neuter
 - “frequent; endowed; much(a); many; abounding in(p); abundant; bahula
     \[word\]; accompanied; prevailing.”
@@ -39,7 +39,7 @@ title = "Rig Veda 5.55.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yantana* \< *yam*
+- *yantana* ← *yam*
 - \[verb\], plural, Aorist imperative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
@@ -47,23 +47,23 @@ title = "Rig Veda 5.55.9"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *stotrasya* \< *stotra*
+- *stotrasya* ← *stotra*
 - \[noun\], genitive, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *sakhyasya* \< *sakhya*
+- *sakhyasya* ← *sakhya*
 - \[noun\], genitive, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
-- *gātana* \< *gā*
+- *gātana* ← *gā*
 - \[verb\], plural, Aorist imperative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *śubhaṃ* \< *śubham* \< *śubh*
+- *śubhaṃ* ← *śubham* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *yātām* \< *yā*
+- *yātām* ← *yā*
 - \[verb noun\], genitive, plural
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -72,11 +72,11 @@ title = "Rig Veda 5.55.9"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *rathā* \< *rathāḥ* \< *ratha*
+- *rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *avṛtsata* \< *vṛdh*
+- *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

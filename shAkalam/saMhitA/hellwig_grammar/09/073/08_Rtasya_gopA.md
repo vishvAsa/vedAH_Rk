@@ -2,11 +2,11 @@
 title = "Rig Veda 9.73.8"
 
 +++
--   *ṛtasya* \< *ṛta*
+-   *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *gopā* \< *gopāḥ* \< *gopā*
+- *gopā* ← *gopāḥ* ← *gopā*
 - \[noun\], nominative, singular, masculine
 - “herder; defender.”
 ------------------------------------------------------------------------
@@ -14,28 +14,28 @@ title = "Rig Veda 9.73.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dabhāya* \< *dabh*
+- *dabhāya* ← *dabh*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *sukratus* \< *sukratuḥ* \< *sukratu*
+- *sukratus* ← *sukratuḥ* ← *sukratu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *trī* \< *tri*
+- *trī* ← *tri*
 - \[noun\], accusative, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *ṣa* \< *sa* \< *tad*
+- *ṣa* ← *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pavitrā* \< *pavitra*
+- *pavitrā* ← *pavitra*
 - \[noun\], accusative, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *hṛdy* \< *hṛdi* \< *hṛd*
+- *hṛdy* ← *hṛdi* ← *hṛd*
 - \[noun\], accusative, plural, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
@@ -47,57 +47,57 @@ title = "Rig Veda 9.73.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], accusative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *bhuvanā* \< *bhuvana*
+- *bhuvanābhi* ← *bhuvanā* ← *bhuvana*
 - \[noun\], accusative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *bhuvanābhi* \< *abhi*
+- *bhuvanābhi* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *paśyaty* \< *paśyati* \< *paś*
+- *paśyaty* ← *paśyati* ← *paś*
 - \[verb\], singular, Present indikative
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
 ------------------------------------------------------------------------
-- *avājuṣṭān* \< *ava*
+- *avājuṣṭān* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *avājuṣṭān* \< *ajuṣṭān* \< *ajuṣṭa*
+- *avājuṣṭān* ← *ajuṣṭān* ← *ajuṣṭa*
 - \[noun\], accusative, plural, masculine
 - “unpleasant.”
 ------------------------------------------------------------------------
-- *vidhyati* \< *vyadh*
+- *vidhyati* ← *vyadh*
 - \[verb\], singular, Present indikative
 - “pierce; vedhay; pierce; transfix; bleed; pierce; cut off; injure.”
 ------------------------------------------------------------------------
-- *karte* \< *karta*
+- *karte* ← *karta*
 - \[noun\], locative, singular, masculine
 - “pit.”
 ------------------------------------------------------------------------
-- *avratān* \< *avrata*
+- *avratān* ← *avrata*
 - \[noun\], accusative, plural, masculine
 - “disobedient; evil.”
 ------------------------------------------------------------------------

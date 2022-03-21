@@ -2,45 +2,45 @@
 title = "Rig Veda 10.44.8"
 
 +++
--   *girīṃr* \< *girīn* \< *giri*
+-   *girīṃr* ← *girīn* ← *giri*
 - \[noun\], accusative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *ajrān* \< *ajra*
+- *ajrān* ← *ajra*
 - \[noun\], accusative, plural, masculine
 - “plain.”
 ------------------------------------------------------------------------
-- *rejamānāṃ* \< *rej*
+- *rejamānāṃ* ← *rej*
 - \[verb noun\], accusative, plural
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *adhārayad* \< *adhārayat* \< *dhāray* \< *√dhṛ*
+- *adhārayad* ← *adhārayat* ← *dhāray* ← *√dhṛ*
 - \[verb\], singular, Imperfect
 - “keep; sustain; put; hold; wear; hold; carry; keep alive; suppress;
     preserve; remember; stow; stop; have; fill into; endure; support;
     understand; fixate; govern; restrain.”
 ------------------------------------------------------------------------
-- *dyauḥ* \< *div*
+- *dyauḥ* ← *div*
 - \[noun\], nominative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *krandad* \< *krandat* \< *krand*
+- *krandad* ← *krandat* ← *krand*
 - \[verb\], singular, Present injunctive
 - “roar; neigh; cry; howl; shout.”
 ------------------------------------------------------------------------
-- *antarikṣāṇi* \< *antarikṣa*
+- *antarikṣāṇi* ← *antarikṣa*
 - \[noun\], accusative, plural, neuter
 - “sky; atmosphere; air; abhra.”
 ------------------------------------------------------------------------
-- *kopayat* \< *kopay* \< *√kup*
+- *kopayat* ← *kopay* ← *√kup*
 - \[verb\], singular, Present injunctive
 - “kopay.”
 ------------------------------------------------------------------------
-- *samīcīne* \< *samīcīna*
+- *samīcīne* ← *samīcīna*
 - \[noun\], accusative, dual, feminine
 - “combined; real.”
 ------------------------------------------------------------------------
-- *dhiṣaṇe* \< *dhiṣaṇā*
+- *dhiṣaṇe* ← *dhiṣaṇā*
 - \[noun\], accusative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
@@ -48,18 +48,18 @@ title = "Rig Veda 10.44.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ṣkabhāyati* \< *skabhāyati* \< *skabhāy* \< *√skambh*
+- *ṣkabhāyati* ← *skabhāyati* ← *skabhāy* ← *√skambh*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *vṛṣṇaḥ* \< *vṛṣan*
+- *vṛṣṇaḥ* ← *vṛṣan*
 - \[noun\], genitive, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *pītvā* \< *pā*
+- *pītvā* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *mada* \< *made* \< *mada*
+- *mada* ← *made* \< *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;

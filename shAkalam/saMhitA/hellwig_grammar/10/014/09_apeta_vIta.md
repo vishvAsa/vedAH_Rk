@@ -2,11 +2,11 @@
 title = "Rig Veda 10.14.9"
 
 +++
--   *apeta* \< *ape* \< *√i*
+-   *apeta* ← *ape* ← *√i*
 - \[verb\], plural, Present imperative
 - “disappear; leave; deviate; want; dislodge.”
 ------------------------------------------------------------------------
-- *vīta* \< *vī* \< *√i*
+- *vīta* ← *vī* ← *√i*
 - \[verb\], plural, Present imperative
 - “disappear; differ; elapse.”
 ------------------------------------------------------------------------
@@ -18,34 +18,34 @@ title = "Rig Veda 10.14.9"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sarpatāto* \< *sarpata* \< *sṛp*
+- *sarpatāto* ← *sarpata* ← *sṛp*
 - \[verb\], plural, Present imperative
 - “crawl; spread; wander.”
 ------------------------------------------------------------------------
-- *sarpatāto* \< *atas*
+- *sarpatāto* ← *atas*
 - \[adverb\]
 - “now; therefore; then; from there; hence; consequently; then; hence;
     henceforth.”
 ------------------------------------------------------------------------
-- *'smā* \< *asmai* \< *idam*
+- *'smā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *etam* \< *etad*
+- *etam* ← *etad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *lokam* \< *loka*
+- *lokam* ← *loka*
 - \[noun\], accusative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *akran* \< *kṛ*
+- *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,38 +56,38 @@ title = "Rig Veda 10.14.9"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ahobhir* \< *ahobhiḥ* \< *ahar*
+- *ahobhir* ← *ahobhiḥ* ← *ahar*
 - \[noun\], instrumental, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *adbhir* \< *adbhiḥ* \< *ap*
+- *adbhir* ← *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *aktubhir* \< *aktubhiḥ* \< *aktu*
+- *aktubhir* ← *aktubhiḥ* ← *aktu*
 - \[noun\], instrumental, plural, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
-- *vyaktaṃ* \< *vyaktam* \< *vyañj* \< *√añj*
+- *vyaktaṃ* ← *vyaktam* ← *vyañj* ← *√añj*
 - \[verb noun\], accusative, singular
 - “decorate; fan; anoint.”
 ------------------------------------------------------------------------
-- *yamo* \< *yamaḥ* \< *yama*
+- *yamo* ← *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *dadāty* \< *dadāti* \< *dā*
+- *dadāty* ← *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *avasānam* \< *avasāna*
+- *avasānam* ← *avasāna*
 - \[noun\], accusative, singular, neuter
 - “termination; Avasāna; end; end; residence.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 1.140.12"
 
 +++
--   *rathāya* \< *ratha*
+-   *rathāya* ← *ratha*
 - \[noun\], dative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *nāvam* \< *nau*
+- *nāvam* ← *nau*
 - \[noun\], accusative, singular, feminine
 - “ship; boat; nau \[word\].”
 ------------------------------------------------------------------------
@@ -14,43 +14,43 @@ title = "Rig Veda 1.140.12"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gṛhāya* \< *gṛha*
+- *gṛhāya* ← *gṛha*
 - \[noun\], dative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *nityāritrām* \< *nitya*
+- *nityāritrām* ← *nitya*
 - \[noun\]
 - “continuous; own(a); changeless; everlasting; continual; devoted(p);
     permanent; obligatory; continuing; indispensable; native; addicted;
     connatural; necessary; durable; ageless; invariable; biological.”
 ------------------------------------------------------------------------
-- *nityāritrām* \< *aritrām* \< *aritra*
+- *nityāritrām* ← *aritrām* ← *aritra*
 - \[noun\], accusative, singular, feminine
 - “oar.”
 ------------------------------------------------------------------------
-- *padvatīṃ* \< *padvatīm* \< *padvat*
+- *padvatīṃ* ← *padvatīm* ← *padvat*
 - \[noun\], accusative, singular, feminine
 - “footed.”
 ------------------------------------------------------------------------
-- *rāsy* \< *rāsi* \< *rā*
+- *rāsy* ← *rāsi* ← *rā*
 - \[verb\], singular, Present indikative
 - “give; impart.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *asmākaṃ* \< *asmākam* \< *mad*
+- *asmākaṃ* ← *asmākam* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vīrāṃ* \< *vīra*
+- *vīrāṃ* ← *vīra*
 - \[noun\], accusative, plural, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
@@ -58,15 +58,15 @@ title = "Rig Veda 1.140.12"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *maghono* \< *maghonaḥ* \< *maghavan*
+- *maghono* ← *maghonaḥ* ← *maghavan*
 - \[noun\], accusative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *janāṃś* \< *janān* \< *jana*
+- *janāṃś* ← *janān* ← *jana*
 - \[noun\], accusative, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -75,19 +75,19 @@ title = "Rig Veda 1.140.12"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pārayāccharma* \< *pārayāt* \< *pāray* \< *√pṛ*
+- *pārayāccharma* ← *pārayāt* ← *pāray* ← *√pṛ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “rescue; keep alive; satisfy; save; resist; endure.”
 ------------------------------------------------------------------------
-- *pārayāccharma* \< *śarma* \< *śarman*
+- *pārayāccharma* ← *śarma* ← *śarman*
 - \[noun\], nominative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yā* \< *yad*
+- *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

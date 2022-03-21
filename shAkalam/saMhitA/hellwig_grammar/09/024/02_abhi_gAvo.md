@@ -6,16 +6,16 @@ title = "Rig Veda 9.24.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *adhanviṣur* \< *adhanviṣuḥ* \< *dhanv*
+- *adhanviṣur* ← *adhanviṣuḥ* ← *dhanv*
 - \[verb\], plural, Athematic is aor. (Ind.)
 - “run.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -23,24 +23,24 @@ title = "Rig Veda 9.24.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *pravatā* \< *pravat*
+- *pravatā* ← *pravat*
 - \[noun\], instrumental, singular, feminine
 - “slope; river.”
 ------------------------------------------------------------------------
-- *yatīḥ* \< *i*
+- *yatīḥ* ← *i*
 - \[verb noun\], nominative, plural
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *punānā* \< *punānāḥ* \< *pū*
+- *punānā* ← *punānāḥ* ← *pū*
 - \[verb noun\], nominative, plural
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *āśata* \< *aś*
+- *āśata* ← *aś*
 - \[verb\], plural, Root aorist (Ind.)
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

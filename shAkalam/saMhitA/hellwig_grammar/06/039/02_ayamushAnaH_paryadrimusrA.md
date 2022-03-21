@@ -2,43 +2,43 @@
 title = "Rig Veda 6.39.2"
 
 +++
--   *ayam* \< *idam*
+-   *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *uśānaḥ* \< *vaś*
+- *uśānaḥ* ← *vaś*
 - \[verb noun\], nominative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *adrim* \< *adri*
+- *adrim* ← *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *usrā* \< *usrāḥ* \< *usrā*
+- *usrā* ← *usrāḥ* ← *usrā*
 - \[noun\], accusative, plural, feminine
 - “cow; dawn.”
 ------------------------------------------------------------------------
-- *ṛtadhītibhir* \< *ṛta*
+- *ṛtadhītibhir* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtadhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- *ṛtadhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, masculine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *ṛtayug* \< *ṛta*
+- *ṛtayug* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtayug* \< *yuj*
+- *ṛtayug* ← *yuj*
 - \[noun\], nominative, singular, masculine
 - “amalgamated; harnessed.”
 ------------------------------------------------------------------------
-- *yujānaḥ* \< *yuj*
+- *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -46,15 +46,15 @@ title = "Rig Veda 6.39.2"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *rujad* \< *rujat* \< *ruj*
+- *rujad* ← *rujat* ← *ruj*
 - \[verb\], singular, Present injunctive
 - “break; bend.”
 ------------------------------------------------------------------------
-- *arugṇaṃ* \< *a*
+- *arugṇaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *arugṇaṃ* \< *rugṇam* \< *ruj*
+- *arugṇaṃ* ← *rugṇam* ← *ruj*
 - \[verb noun\], accusative, singular
 - “break; bend.”
 ------------------------------------------------------------------------
@@ -62,19 +62,19 @@ title = "Rig Veda 6.39.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *valasya* \< *vala*
+- *valasya* ← *vala*
 - \[noun\], genitive, singular, masculine
 - “Vala; vala; cave.”
 ------------------------------------------------------------------------
-- *sānum* \< *sānu*
+- *sānum* ← *sānu*
 - \[noun\], accusative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *paṇīṃr* \< *paṇīn* \< *paṇi*
+- *paṇīṃr* ← *paṇīn* ← *paṇi*
 - \[noun\], accusative, plural, masculine
 - “niggard; paṇ.”
 ------------------------------------------------------------------------
-- *vacobhir* \< *vacobhiḥ* \< *vacas*
+- *vacobhir* ← *vacobhiḥ* ← *vacas*
 - \[noun\], instrumental, plural, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
@@ -82,11 +82,11 @@ title = "Rig Veda 6.39.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yodhad* \< *yodhat* \< *yudh*
+- *yodhad* ← *yodhat* ← *yudh*
 - \[verb\], singular, Aorist conj./subj.
 - “fight; overcome.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”

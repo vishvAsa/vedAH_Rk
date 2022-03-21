@@ -6,40 +6,40 @@ title = "Rig Veda 4.34.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *yātopa* \< *yātā* \< *yā*
+- *yātopa* ← *yātā* ← *yā*
 - \[verb\], singular, periphrast. future
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *yātopa* \< *upa*
+- *yātopa* ← *upa*
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛbhukṣā* \< *ṛbhukṣāḥ* \< *ṛbhukṣan*
+- *ṛbhukṣā* ← *ṛbhukṣāḥ* ← *ṛbhukṣan*
 - \[noun\], nominative, singular
 - “Indra.”
 ------------------------------------------------------------------------
-- *maho* \< *mahaḥ* \< *mah*
+- *maho* ← *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *draviṇaso* \< *draviṇasaḥ* \< *draviṇas*
+- *draviṇaso* ← *draviṇasaḥ* ← *draviṇas*
 - \[noun\], genitive, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
-- *gṛṇānāḥ* \< *gṛ*
+- *gṛṇānāḥ* ← *gṛ*
 - \[verb noun\], nominative, plural
 - “praise.”
 ------------------------------------------------------------------------
@@ -47,35 +47,35 @@ title = "Rig Veda 4.34.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], accusative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pītayo* \< *pītayaḥ* \< *pīti*
+- *pītayo* ← *pītayaḥ* ← *pīti*
 - \[noun\], nominative, plural, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *'bhipitve* \< *abhipitve* \< *abhipitva*
+- *'bhipitve* ← *abhipitve* ← *abhipitva*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *ahnām* \< *ahar*
+- *ahnām* ← *ahar*
 - \[noun\], genitive, plural, neuter
 - “day; day; ahar \[word\]; day; day.”
 ------------------------------------------------------------------------
-- *imā* \< *imāḥ* \< *idam*
+- *imā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *astaṃ* \< *astam* \< *asta*
+- *astaṃ* ← *astam* ← *asta*
 - \[noun\], accusative, singular, neuter
 - “home.”
 ------------------------------------------------------------------------
-- *navasva* \< *nava*
+- *navasva* ← *nava*
 - \[noun\]
 - “new; fresh; young; matutinal; recent; nava \[word\]; modern;
     fresh.”
 ------------------------------------------------------------------------
-- *navasva* \< *svaḥ* \< *sū*
+- *navasva* ← *svaḥ* ← *sū*
 - \[noun\], nominative, plural, feminine
 - “sū; mother.”
 ------------------------------------------------------------------------
@@ -83,7 +83,7 @@ title = "Rig Veda 4.34.5"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *gman* \< *gam*
+- *gman* ← *gam*
 - \[verb\], plural, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

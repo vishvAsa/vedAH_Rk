@@ -2,18 +2,18 @@
 title = "Rig Veda 1.116.22"
 
 +++
--   *śarasya* \< *śara*
+-   *śarasya* ← *śara*
 - \[noun\], genitive, singular, masculine
 - “arrow; five; reed; śara \[word\]; munj; Śara; Śara.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ārcatkasyāvatād* \< *ārcatkasya* \< *ārcatka*
+- *ārcatkasyāvatād* ← *ārcatkasya* ← *ārcatka*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *ārcatkasyāvatād* \< *avatāt* \< *avata*
+- *ārcatkasyāvatād* ← *avatāt* ← *avata*
 - \[noun\], ablative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ title = "Rig Veda 1.116.22"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *nīcād* \< *nīcāt* \< *nīca*
+- *nīcād* ← *nīcāt* ← *nīca*
 - \[noun\], ablative, singular, masculine
 - “short; mean; less; humble; base; low; despicable.”
 ------------------------------------------------------------------------
@@ -29,7 +29,7 @@ title = "Rig Veda 1.116.22"
 - \[adverb\]
 - “above.”
 ------------------------------------------------------------------------
-- *cakrathuḥ* \< *kṛ*
+- *cakrathuḥ* ← *kṛ*
 - \[verb\], dual, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,42 +40,42 @@ title = "Rig Veda 1.116.22"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *pātave* \< *pā*
+- *pātave* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *vāḥ* \< *vār*
+- *vāḥ* ← *vār*
 - \[noun\], accusative, singular, neuter
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *śayave* \< *śayu*
+- *śayave* ← *śayu*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], nominative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *śacībhir* \< *śacībhiḥ* \< *śacī*
+- *śacībhir* ← *śacībhiḥ* ← *śacī*
 - \[noun\], instrumental, plural, feminine
 - “Śacī; power; dexterity; ability; aid.”
 ------------------------------------------------------------------------
-- *jasuraye* \< *jasuri*
+- *jasuraye* ← *jasuri*
 - \[noun\], dative, singular, masculine
 - “starved.”
 ------------------------------------------------------------------------
-- *staryam* \< *starī*
+- *staryam* ← *starī*
 - \[noun\], accusative, singular, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
-- *pipyathur* \< *pipyathuḥ* \< *pyā*
+- *pipyathur* ← *pipyathuḥ* ← *pyā*
 - \[verb\], dual, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”

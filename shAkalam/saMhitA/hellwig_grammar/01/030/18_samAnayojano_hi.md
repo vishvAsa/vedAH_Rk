@@ -2,12 +2,12 @@
 title = "Rig Veda 1.30.18"
 
 +++
--   *samānayojano* \< *samāna*
+-   *samānayojano* ← *samāna*
 - \[noun\]
 - “like; identical; common; like; alike(p); same; samāna \[word\];
     akin(p); comparable; identical; mutual; equal.”
 ------------------------------------------------------------------------
-- *samānayojano* \< *yojanaḥ* \< *yojana*
+- *samānayojano* ← *yojanaḥ* ← *yojana*
 - \[noun\], nominative, singular, masculine
 - “yojana; use; yojana \[word\]; team.”
 ------------------------------------------------------------------------
@@ -15,31 +15,31 @@ title = "Rig Veda 1.30.18"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *dasrāv* \< *dasrau* \< *dasra*
+- *dasrāv* ← *dasrau* ← *dasra*
 - \[noun\], vocative, dual, masculine
 - “Asvins.”
 ------------------------------------------------------------------------
-- *amartyaḥ* \< *amartya*
+- *amartyaḥ* ← *amartya*
 - \[noun\], nominative, singular, masculine
 - “immortal.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *aśvineyate* \< *aśvinā* \< *aśvin*
+- *aśvineyate* ← *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *aśvineyate* \< *īyate* \< *i*
+- *aśvineyate* ← *īyate* ← *i*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

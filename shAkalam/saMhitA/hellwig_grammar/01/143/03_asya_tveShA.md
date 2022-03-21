@@ -2,63 +2,63 @@
 title = "Rig Veda 1.143.3"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tveṣā* \< *tveṣāḥ* \< *tveṣa*
+- *tveṣā* ← *tveṣāḥ* ← *tveṣa*
 - \[noun\], nominative, plural, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *ajarā* \< *ajarāḥ* \< *ajara*
+- *ajarā* ← *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *bhānavaḥ* \< *bhānu*
+- *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *susaṃdṛśaḥ* \< *su*
+- *susaṃdṛśaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *susaṃdṛśaḥ* \< *saṃdṛśaḥ* \< *saṃdṛś*
+- *susaṃdṛśaḥ* ← *saṃdṛśaḥ* ← *saṃdṛś*
 - \[noun\], nominative, plural, masculine
 - “appearance; view; view.”
 ------------------------------------------------------------------------
-- *supratīkasya* \< *su*
+- *supratīkasya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supratīkasya* \< *pratīkasya* \< *pratīka*
+- *supratīkasya* ← *pratīkasya* ← *pratīka*
 - \[noun\], genitive, singular, masculine
 - “face; surface.”
 ------------------------------------------------------------------------
-- *sudyutaḥ* \< *su*
+- *sudyutaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudyutaḥ* \< *dyutaḥ* \< *dyut*
+- *sudyutaḥ* ← *dyutaḥ* ← *dyut*
 - \[noun\], nominative, plural, masculine
 - “beam.”
 ------------------------------------------------------------------------
-- *bhātvakṣaso* \< *bhā*
+- *bhātvakṣaso* ← *bhā*
 - \[noun\], feminine
 - “light; bhā.”
 ------------------------------------------------------------------------
-- *bhātvakṣaso* \< *tvakṣasaḥ* \< *tvakṣas*
+- *bhātvakṣaso* ← *tvakṣasaḥ* ← *tvakṣas*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *aty* \< *ati*
+- *aty* ← *ati*
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *aktur* \< *aktuḥ* \< *aktu*
+- *aktur* ← *aktuḥ* ← *aktu*
 - \[noun\], nominative, singular, masculine
 - “night; dark; beam.”
 ------------------------------------------------------------------------
@@ -66,29 +66,29 @@ title = "Rig Veda 1.143.3"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sindhavo* \< *sindhavaḥ* \< *sindhu*
+- *sindhavo* ← *sindhavaḥ* ← *sindhu*
 - \[noun\], nominative, plural, masculine
 - “river; Indus; sindhu \[word\].”
 ------------------------------------------------------------------------
-- *'gne* \< *agneḥ* \< *agni*
+- *'gne* ← *agneḥ* ← *agni*
 - \[noun\], genitive, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *rejante* \< *rej*
+- *rejante* ← *rej*
 - \[verb\], plural, Present indikative
 - “tremor; flicker.”
 ------------------------------------------------------------------------
-- *asasanto* \< *a*
+- *asasanto* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *asasanto* \< *sasantaḥ* \< *sas*
+- *asasanto* ← *sasantaḥ* ← *sas*
 - \[verb noun\], nominative, plural
 - “sleep.”
 ------------------------------------------------------------------------
-- *ajarāḥ* \< *ajara*
+- *ajarāḥ* ← *ajara*
 - \[noun\], nominative, plural, masculine
 - “undecaying; ageless.”
 ------------------------------------------------------------------------

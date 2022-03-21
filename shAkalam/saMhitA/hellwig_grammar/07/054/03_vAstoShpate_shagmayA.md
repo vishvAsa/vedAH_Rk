@@ -2,39 +2,39 @@
 title = "Rig Veda 7.54.3"
 
 +++
--   *vāstoṣpate* \< *vāstoṣpati*
+-   *vāstoṣpate* ← *vāstoṣpati*
 - \[noun\], vocative, singular, masculine
 - “Vāstoṣpati; Indra; vāstoṣpati \[word\].”
 ------------------------------------------------------------------------
-- *śagmayā* \< *śagma*
+- *śagmayā* ← *śagma*
 - \[noun\], instrumental, singular, feminine
 - “powerful; reliable; competent.”
 ------------------------------------------------------------------------
-- *saṃsadā* \< *saṃsad*
+- *saṃsadā* ← *saṃsad*
 - \[noun\], instrumental, singular, feminine
 - “assembly; court; company.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sakṣīmahi* \< *sac*
+- *sakṣīmahi* ← *sac*
 - \[verb\], plural, Aorist optative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *raṇvayā* \< *raṇva*
+- *raṇvayā* ← *raṇva*
 - \[noun\], instrumental, singular, feminine
 - “agreeable; happy; delightful; gay.”
 ------------------------------------------------------------------------
-- *gātumatyā* \< *gātumat*
+- *gātumatyā* ← *gātumat*
 - \[noun\], instrumental, singular, feminine
 - “promotive.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *kṣema* \< *kṣeme* \< *kṣema*
+- *kṣema* ← *kṣeme* ← *kṣema*
 - \[noun\], locative, singular, neuter
 - “ease; happiness; peace; tranquillity; kṣema \[word\]; respite;
     rest.”
@@ -43,7 +43,7 @@ title = "Rig Veda 7.54.3"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *yoge* \< *yoga*
+- *yoge* ← *yoga*
 - \[noun\], locative, singular, masculine
 - “method; application; yoga; remedy; mix; treatment; mixture;
     procedure; contact; use; yogin; connection; application; union;
@@ -52,23 +52,23 @@ title = "Rig Veda 7.54.3"
     yoke; yoga \[word\]; art; combination; assortment; confluence;
     constellation; relationship; connection; agent; means.”
 ------------------------------------------------------------------------
-- *varaṃ* \< *varam* \< *vara*
+- *varaṃ* ← *varam* ← *vara*
 - \[noun\], accusative, singular, masculine
 - “gift; favor; wish; privilege; varac; wages.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *pāta* \< *pā*
+- *pāta* ← *pā*
 - \[verb\], plural, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *svastibhiḥ* \< *svasti*
+- *svastibhiḥ* ← *svasti*
 - \[noun\], instrumental, plural, feminine
 - “prosperity; well-being; fortune; benediction; svasti \[word\];
     well; luck.”
@@ -77,7 +77,7 @@ title = "Rig Veda 7.54.3"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------

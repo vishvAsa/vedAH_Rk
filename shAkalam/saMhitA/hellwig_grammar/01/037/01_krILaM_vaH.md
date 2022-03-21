@@ -2,29 +2,29 @@
 title = "Rig Veda 1.37.1"
 
 +++
--   *krīḍaṃ* \< *krīḍam* \< *krīḍa*
+-   *krīḍaṃ* ← *krīḍam* ← *krīḍa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
-- *mārutam* \< *māruta*
+- *mārutam* ← *māruta*
 - \[noun\], accusative, singular, neuter
 - “Marut(a).”
 ------------------------------------------------------------------------
-- *anarvāṇaṃ* \< *anarvāṇam* \< *anarvan*
+- *anarvāṇaṃ* ← *anarvāṇam* ← *anarvan*
 - \[noun\], accusative, singular, masculine
 - “unchallenged; unrivaled.”
 ------------------------------------------------------------------------
-- *ratheśubham* \< *ratheśubh*
+- *ratheśubham* ← *ratheśubh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *kaṇvā* \< *kaṇvāḥ* \< *kaṇva*
+- *kaṇvā* ← *kaṇvāḥ* ← *kaṇva*
 - \[noun\], vocative, plural, masculine
 - “Kaṇva; Kaṇva; kaṇva \[word\].”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 1.37.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------

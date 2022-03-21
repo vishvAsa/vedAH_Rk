@@ -2,54 +2,54 @@
 title = "Rig Veda 10.55.7"
 
 +++
--   *aibhir* \< *ā*
+-   *aibhir* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aibhir* \< *ebhiḥ* \< *idam*
+- *aibhir* ← *ebhiḥ* ← *idam*
 - \[noun\], instrumental, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *dade* \< *dā*
+- *dade* ← *dā*
 - \[verb\], singular, Perfect indicative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vṛṣṇyā* \< *vṛṣṇya*
+- *vṛṣṇyā* ← *vṛṣṇya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; virility.”
 ------------------------------------------------------------------------
-- *pauṃsyāni* \< *pauṃsya*
+- *pauṃsyāni* ← *pauṃsya*
 - \[noun\], accusative, plural, neuter
 - “manfulness; deed; army; strength.”
 ------------------------------------------------------------------------
-- *yebhir* \< *yebhiḥ* \< *yad*
+- *yebhir* ← *yebhiḥ* ← *yad*
 - \[noun\], instrumental, plural, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *aukṣad* \< *aukṣat* \< *vakṣ*
+- *aukṣad* ← *aukṣat* ← *vakṣ*
 - \[verb\], singular, Imperfect
 - “grow; grow.”
 ------------------------------------------------------------------------
-- *vṛtrahatyāya* \< *vṛtra*
+- *vṛtrahatyāya* ← *vṛtra*
 - \[noun\], masculine
 - “Vṛtra; vṛtra \[word\].”
 ------------------------------------------------------------------------
-- *vṛtrahatyāya* \< *hatyāya* \< *hatya*
+- *vṛtrahatyāya* ← *hatyāya* ← *hatya*
 - \[noun\], dative, singular, neuter
 - “killing.”
 ------------------------------------------------------------------------
-- *vajrī* \< *vajrin*
+- *vajrī* ← *vajrin*
 - \[noun\], nominative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *karmaṇaḥ* \< *karman*
+- *karmaṇaḥ* ← *karman*
 - \[noun\], genitive, singular, neuter
 - “action; saṃskāra; ritual; procedure; karman; treatment; object;
     function; production; job; operation; karman \[word\]; act; job;
@@ -57,7 +57,7 @@ title = "Rig Veda 10.55.7"
     cooking; occupation; profession; construction; duty; method; natural
     process; duty; therapy.”
 ------------------------------------------------------------------------
-- *kriyamāṇasya* \< *kṛ*
+- *kriyamāṇasya* ← *kṛ*
 - \[verb noun\], genitive, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -68,7 +68,7 @@ title = "Rig Veda 10.55.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *mahna* \< *mahnaḥ* \< *mahan*
+- *mahna* ← *mahnaḥ* ← *mahan*
 - \[noun\], ablative, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
@@ -79,13 +79,13 @@ title = "Rig Veda 10.55.7"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *ajāyanta* \< *jan*
+- *ajāyanta* ← *jan*
 - \[verb\], plural, Imperfect
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *devāḥ* \< *deva*
+- *devāḥ* ← *deva*
 - \[noun\], nominative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”

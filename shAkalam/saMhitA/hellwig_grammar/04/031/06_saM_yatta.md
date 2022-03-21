@@ -2,7 +2,7 @@
 title = "Rig Veda 4.31.6"
 
 +++
--   *saṃ* \< *sam*
+-   *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 4.31.6"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tvad*
+- *ta* ← *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -19,20 +19,20 @@ title = "Rig Veda 4.31.6"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *manyavaḥ* \< *manyu*
+- *manyavaḥ* ← *manyu*
 - \[noun\], nominative, plural, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *cakrāṇi* \< *cakra*
+- *cakrāṇi* ← *cakra*
 - \[noun\], nominative, plural, neuter
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *dadhanvire* \< *dhanv*
+- *dadhanvire* ← *dhanv*
 - \[verb\], plural, Perfect indicative
 - “run.”
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ title = "Rig Veda 4.31.6"
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *tve* \< *tvad*
+- *tve* ← *tvad*
 - \[noun\], locative, singular
 - “you.”
 ------------------------------------------------------------------------

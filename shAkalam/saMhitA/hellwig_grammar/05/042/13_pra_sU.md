@@ -6,74 +6,74 @@ title = "Rig Veda 5.42.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *sū* \< *su*
+- *sū* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *suśaraṇāya* \< *su*
+- *suśaraṇāya* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśaraṇāya* \< *śaraṇāya* \< *śaraṇa*
+- *suśaraṇāya* ← *śaraṇāya* ← *śaraṇa*
 - \[noun\], dative, singular, masculine
 - “refuge; safety; shelter; house; protection.”
 ------------------------------------------------------------------------
-- *medhāṃ* \< *medhām* \< *medhā*
+- *medhāṃ* ← *medhām* ← *medhā*
 - \[noun\], accusative, singular, feminine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *giram* \< *gir*
+- *giram* ← *gir*
 - \[noun\], accusative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *bhare* \< *bhṛ*
+- *bhare* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *navyasīṃ* \< *navyasīm* \< *navyas*
+- *navyasīṃ* ← *navyasīm* ← *navyas*
 - \[noun\], accusative, singular, feminine
 - “new.”
 ------------------------------------------------------------------------
-- *jāyamānām* \< *jan*
+- *jāyamānām* ← *jan*
 - \[verb noun\], accusative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *āhanā* \< *āhanāḥ* \< *āhanas*
+- *āhanā* ← *āhanāḥ* ← *āhanas*
 - \[noun\], nominative, singular, masculine
 - “aroused; intoxicant.”
 ------------------------------------------------------------------------
-- *duhitur* \< *duhituḥ* \< *duhitṛ*
+- *duhitur* ← *duhituḥ* ← *duhitṛ*
 - \[noun\], genitive, singular, feminine
 - “daughter; duhitṛ \[word\].”
 ------------------------------------------------------------------------
-- *vakṣaṇāsu* \< *vakṣaṇā*
+- *vakṣaṇāsu* ← *vakṣaṇā*
 - \[noun\], locative, plural, feminine
 - “abdomen; udder; inside.”
 ------------------------------------------------------------------------
-- *rūpā* \< *rūpa*
+- *rūpā* ← *rūpa*
 - \[noun\], accusative, plural, neuter
 - “form; appearance; beauty; look; shape; shape; symptom; feature;
     nature; guise; rūpa \[word\]; one; appearance; likeness; color;
     kind; vowel; type; disguise; aspect; form; derivative; omen;
     vision.”
 ------------------------------------------------------------------------
-- *mināno* \< *minānaḥ* \< *mī*
+- *mināno* ← *minānaḥ* ← *mī*
 - \[verb noun\], nominative, singular
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *akṛṇod* \< *akṛṇot* \< *kṛ*
+- *akṛṇod* ← *akṛṇot* ← *kṛ*
 - \[verb\], singular, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -84,11 +84,11 @@ title = "Rig Veda 5.42.13"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *idaṃ* \< *idam*
+- *idaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

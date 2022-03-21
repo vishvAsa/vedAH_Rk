@@ -6,16 +6,16 @@ title = "Rig Veda 7.92.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yābhir* \< *yābhiḥ* \< *yad*
+- *yābhir* ← *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yāsi* \< *yā*
+- *yāsi* ← *yā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *dāśvāṃsam* \< *dāś*
+- *dāśvāṃsam* ← *dāś*
 - \[verb noun\], accusative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
@@ -23,20 +23,20 @@ title = "Rig Veda 7.92.3"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *niyudbhir* \< *niyudbhiḥ* \< *niyut*
+- *niyudbhir* ← *niyudbhiḥ* ← *niyut*
 - \[noun\], instrumental, plural
 - “gift; team.”
 ------------------------------------------------------------------------
-- *vāyav* \< *vāyo* \< *vāyu*
+- *vāyav* ← *vāyo* ← *vāyu*
 - \[noun\], vocative, singular, masculine
 - “wind; Vayu; vāta; prāṇa (coll.); air; air; fart; breath; northwest;
     draft; vāyu \[word\]; Vāyu; Marut.”
 ------------------------------------------------------------------------
-- *iṣṭaye* \< *iṣṭi*
+- *iṣṭaye* ← *iṣṭi*
 - \[noun\], dative, singular, feminine
 - “seeking.”
 ------------------------------------------------------------------------
-- *duroṇe* \< *duroṇa*
+- *duroṇe* ← *duroṇa*
 - \[noun\], locative, singular, neuter
 - “home; dwelling.”
 ------------------------------------------------------------------------
@@ -44,23 +44,23 @@ title = "Rig Veda 7.92.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *rayiṃ* \< *rayim* \< *rayi*
+- *rayiṃ* ← *rayim* ← *rayi*
 - \[noun\], accusative, singular, masculine
 - “wealth; property.”
 ------------------------------------------------------------------------
-- *subhojasaṃ* \< *su*
+- *subhojasaṃ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *subhojasaṃ* \< *bhojasam* \< *bhojas*
+- *subhojasaṃ* ← *bhojasam* ← *bhojas*
 - \[noun\], accusative, singular, masculine
 - “advantage; utility; food.”
 ------------------------------------------------------------------------
-- *yuvasva* \< *yu*
+- *yuvasva* ← *yu*
 - \[verb\], singular, Present imperative
 - “unite.”
 ------------------------------------------------------------------------
@@ -68,15 +68,15 @@ title = "Rig Veda 7.92.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *vīraṃ* \< *vīram* \< *vīra*
+- *vīraṃ* ← *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *gavyam* \< *gavya*
+- *gavyam* ← *gavya*
 - \[noun\], accusative, singular, neuter
 - “bovine.”
 ------------------------------------------------------------------------
-- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], accusative, singular, neuter
 - “equine.”
 ------------------------------------------------------------------------
@@ -84,7 +84,7 @@ title = "Rig Veda 7.92.3"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *rādhaḥ* \< *rādhas*
+- *rādhaḥ* ← *rādhas*
 - \[noun\], accusative, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

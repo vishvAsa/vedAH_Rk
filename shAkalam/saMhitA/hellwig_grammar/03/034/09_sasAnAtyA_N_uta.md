@@ -2,11 +2,11 @@
 title = "Rig Veda 3.34.9"
 
 +++
--   *sasānātyāṃ* \< *sasāna* \< *san*
+-   *sasānātyāṃ* ← *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *sasānātyāṃ* \< *atyāṃ* \< *atya*
+- *sasānātyāṃ* ← *atyāṃ* ← *atya*
 - \[noun\], accusative, plural, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -14,33 +14,33 @@ title = "Rig Veda 3.34.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *sūryaṃ* \< *sūryam* \< *sūrya*
+- *sūryaṃ* ← *sūryam* ← *sūrya*
 - \[noun\], accusative, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sasānendraḥ* \< *sasāna* \< *san*
+- *sasānendraḥ* ← *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *sasānendraḥ* \< *indraḥ* \< *indra*
+- *sasānendraḥ* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sasāna* \< *san*
+- *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *purubhojasaṃ* \< *purubhojasam* \< *purubhojas*
+- *purubhojasaṃ* ← *purubhojasam* ← *purubhojas*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *hiraṇyayam* \< *hiraṇyaya*
+- *hiraṇyayam* ← *hiraṇyaya*
 - \[noun\], accusative, singular, masculine
 - “gold; aureate; hiraṇyaya \[word\].”
 ------------------------------------------------------------------------
@@ -48,39 +48,39 @@ title = "Rig Veda 3.34.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *bhogaṃ* \< *bhogam* \< *bhoga*
+- *bhogaṃ* ← *bhogam* ← *bhoga*
 - \[noun\], accusative, singular, masculine
 - “enjoyment; use; bhoga \[word\]; property; sexual intercourse;
     possession.”
 ------------------------------------------------------------------------
-- *sasāna* \< *san*
+- *sasāna* ← *san*
 - \[verb\], singular, Perfect indicative
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *hatvī* \< *han*
+- *hatvī* ← *han*
 - \[verb noun\]
 - “kill; cure; māray; remove; destroy; hit; injure; damage; destroy;
     paralyze; hurt; forge; beat; cut off; stop; overwhelm; kick; hunt;
     affect; strike; hammer; love; obstruct; shoot.”
 ------------------------------------------------------------------------
-- *dasyūn* \< *dasyu*
+- *dasyūn* ← *dasyu*
 - \[noun\], accusative, plural, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *prāryaṃ* \< *pra*
+- *prāryaṃ* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prāryaṃ* \< *āryam* \< *ārya*
+- *prāryaṃ* ← *āryam* ← *ārya*
 - \[noun\], accusative, singular, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *varṇam* \< *varṇa*
+- *varṇam* ← *varṇa*
 - \[noun\], accusative, singular, masculine
 - “color; caste; complexion; vowel; varṇa \[word\]; vowel; syllable;
     appearance; Karat; people; beauty; varṇa; gold; color; complexion.”
 ------------------------------------------------------------------------
-- *āvat* \< *av*
+- *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

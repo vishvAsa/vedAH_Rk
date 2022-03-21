@@ -2,16 +2,16 @@
 title = "Rig Veda 1.94.4"
 
 +++
--   *bharāmedhmaṃ* \< *bharāma* \< *bhṛ*
+-   *bharāmedhmaṃ* ← *bharāma* ← *bhṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *bharāmedhmaṃ* \< *idhmam* \< *idhma*
+- *bharāmedhmaṃ* ← *idhmam* ← *idhma*
 - \[noun\], accusative, singular, neuter
 - “fuel.”
 ------------------------------------------------------------------------
-- *kṛṇavāmā* \< *kṛ*
+- *kṛṇavāmā* ← *kṛ*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -22,54 +22,54 @@ title = "Rig Veda 1.94.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *havīṃṣi* \< *havis*
+- *havīṃṣi* ← *havis*
 - \[noun\], accusative, plural, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *citayantaḥ* \< *citay* \< *√cit*
+- *citayantaḥ* ← *citay* ← *√cit*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
-- *parvaṇā* \< *parvan*
+- *parvaṇā* ← *parvan*
 - \[noun\], instrumental, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *parvaṇā* \< *parvan*
+- *parvaṇā* ← *parvan*
 - \[noun\], instrumental, singular, neuter
 - “joint; knot; festival; day; articulation; knot.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jīvātave* \< *jīvātu*
+- *jīvātave* ← *jīvātu*
 - \[noun\], dative, singular, feminine
 - “life.”
 ------------------------------------------------------------------------
-- *prataraṃ* \< *prataram*
+- *prataraṃ* ← *prataram*
 - \[adverb\]
 - “farther.”
 ------------------------------------------------------------------------
-- *sādhayā* \< *sādhay* \< *√sādh*
+- *sādhayā* ← *sādhay* ← *√sādh*
 - \[verb\], singular, Present imperative
 - “prepare; cure; prepare; perform; produce; compound; treat; treat;
     overpower; achieve; use; cover; prove; prove; process.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *'gne* \< *agne* \< *agni*
+- *'gne* ← *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhya*
+- *sakhye* ← *sakhya*
 - \[noun\], locative, singular, neuter
 - “friendship; aid; company.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 1.94.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *riṣāmā* \< *riṣ*
+- *riṣāmā* ← *riṣ*
 - \[verb\], plural, Aorist conj./subj.
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------

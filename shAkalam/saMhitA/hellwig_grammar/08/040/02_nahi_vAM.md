@@ -5,19 +5,19 @@ title = "Rig Veda 8.40.2"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vavrayāmahe* \< *\_* \< *√\_*
+- *vavrayāmahe* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *'thendram* \< *atha*
+- *'thendram* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *'thendram* \< *indram* \< *indra*
+- *'thendram* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -26,29 +26,29 @@ title = "Rig Veda 8.40.2"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *śaviṣṭhaṃ* \< *śaviṣṭham* \< *śaviṣṭha*
+- *śaviṣṭhaṃ* ← *śaviṣṭham* ← *śaviṣṭha*
 - \[noun\], accusative, singular, masculine
 - “mighty.”
 ------------------------------------------------------------------------
-- *nṛṇāṃ* \< *nṛṇām* \< *nṛ*
+- *nṛṇāṃ* ← *nṛṇām* ← *nṛ*
 - \[noun\], genitive, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *naram* \< *nṛ*
+- *naram* ← *nṛ*
 - \[noun\], accusative, singular, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -56,11 +56,11 @@ title = "Rig Veda 8.40.2"
 - \[adverb\]
 - “sometimes; ever; once.”
 ------------------------------------------------------------------------
-- *arvatā* \< *arvant*
+- *arvatā* ← *arvant*
 - \[noun\], instrumental, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------
-- *gamad* \< *gamat* \< *gam*
+- *gamad* ← *gamat* ← *gam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -71,15 +71,15 @@ title = "Rig Veda 8.40.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *vāja*
+- *vājasātaye* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasātaye* \< *sātaye* \< *sāti*
+- *vājasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *gamad* \< *gamat* \< *gam*
+- *gamad* ← *gamat* ← *gam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
@@ -90,23 +90,23 @@ title = "Rig Veda 8.40.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *medha*
+- *medhasātaye* ← *medha*
 - \[noun\], masculine
 - “yajña; juice.”
 ------------------------------------------------------------------------
-- *medhasātaye* \< *sātaye* \< *sāti*
+- *medhasātaye* ← *sātaye* ← *sāti*
 - \[noun\], dative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *nabhantām* \< *nabh*
+- *nabhantām* ← *nabh*
 - \[verb\], plural, Present imperative
 - “burst.”
 ------------------------------------------------------------------------
-- *anyake* \< *anyaka*
+- *anyake* ← *anyaka*
 - \[noun\], nominative, plural, masculine
 - “other; another(a).”
 ------------------------------------------------------------------------
-- *same* \< *sama*
+- *same* ← *sama*
 - \[noun\], nominative, plural, masculine
 - “like; like; alike(p); level; symmetrical; balanced; average; same;
     regular; impartial; imperturbable; even; sama \[word\]; every(a);

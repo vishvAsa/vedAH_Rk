@@ -2,7 +2,7 @@
 title = "Rig Veda 1.84.10"
 
 +++
--   *svādor* \< *svādoḥ* \< *svādu*
+-   *svādor* ← *svādoḥ* ← *svādu*
 - \[noun\], genitive, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
@@ -10,51 +10,51 @@ title = "Rig Veda 1.84.10"
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *viṣūvato* \< *viṣūvataḥ* \< *viṣūvat*
+- *viṣūvato* ← *viṣūvataḥ* ← *viṣūvat*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *pibanti* \< *pā*
+- *pibanti* ← *pā*
 - \[verb\], plural, Present indikative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *gauryaḥ* \< *gaurī*
+- *gauryaḥ* ← *gaurī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; gorocanā; turmeric; gaurī; gaurīpāṣāṇa; abhra; Gaurī.”
 ------------------------------------------------------------------------
-- *yā* \< *yāḥ* \< *yad*
+- *yā* ← *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *indreṇa* \< *indra*
+- *indreṇa* ← *indra*
 - \[noun\], instrumental, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sayāvarīr* \< *sa*
+- *sayāvarīr* ← *sa*
 - \[adverb\]
 - “with; little; together.”
 ------------------------------------------------------------------------
-- *sayāvarīr* \< *yāvarīḥ* \< *yāvan*
+- *sayāvarīr* ← *yāvarīḥ* ← *yāvan*
 - \[noun\], nominative, plural, feminine
 - “traveler.”
 ------------------------------------------------------------------------
-- *vṛṣṇā* \< *vṛṣan*
+- *vṛṣṇā* ← *vṛṣan*
 - \[noun\], instrumental, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *madanti* \< *mad*
+- *madanti* ← *mad*
 - \[verb\], plural, Present indikative
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *śobhase* \< *śubh*
+- *śobhase* ← *śubh*
 - \[verb noun\]
 - “look; shine; beautify.”
 ------------------------------------------------------------------------
-- *vasvīr* \< *vasvīḥ* \< *vasu*
+- *vasvīr* ← *vasvīḥ* ← *vasu*
 - \[noun\], nominative, plural, feminine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -62,12 +62,12 @@ title = "Rig Veda 1.84.10"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *sva*
+- *svarājyam* ← *sva*
 - \[noun\]
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *svarājyam* \< *rājyam* \< *rājya*
+- *svarājyam* ← *rājyam* ← *rājya*
 - \[noun\], accusative, singular, neuter
 - “kingdom; kingship; sovereignty; rājya \[word\].”
 ------------------------------------------------------------------------

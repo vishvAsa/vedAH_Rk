@@ -2,11 +2,11 @@
 title = "Rig Veda 10.40.1"
 
 +++
--   *rathaṃ* \< *ratham* \< *ratha*
+-   *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *yāntaṃ* \< *yāntam* \< *yā*
+- *yāntaṃ* ← *yāntam* ← *yā*
 - \[verb noun\], accusative, singular
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
@@ -15,7 +15,7 @@ title = "Rig Veda 10.40.1"
 - \[adverb\]
 - “wherein.”
 ------------------------------------------------------------------------
-- *ko* \< *kaḥ* \< *ka*
+- *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
@@ -23,11 +23,11 @@ title = "Rig Veda 10.40.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *narā* \< *nara*
+- *narā* ← *nara*
 - \[noun\], vocative, dual, masculine
 - “man; man; Nara; person; people; Nara; Puruṣa; nara \[word\];
     servant; hero.”
@@ -36,52 +36,52 @@ title = "Rig Veda 10.40.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dyumantaṃ* \< *dyumantam* \< *dyumat*
+- *dyumantaṃ* ← *dyumantam* ← *dyumat*
 - \[noun\], accusative, singular, masculine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *suvitāya* \< *suvita*
+- *suvitāya* ← *suvita*
 - \[noun\], dative, singular, neuter
 - “prosperity; well-being.”
 ------------------------------------------------------------------------
-- *bhūṣati* \< *bhūṣ*
+- *bhūṣati* ← *bhūṣ*
 - \[verb\], singular, Present indikative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *prātaryāvāṇaṃ* \< *prātaryāvāṇam* \< *prātaryāvan*
+- *prātaryāvāṇaṃ* ← *prātaryāvāṇam* ← *prātaryāvan*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vibhvaṃ* \< *vibhvam* \< *vibhu*
+- *vibhvaṃ* ← *vibhvam* ← *vibhu*
 - \[noun\], accusative, singular, masculine
 - “mighty; abundant; big.”
 ------------------------------------------------------------------------
-- *viśe* \< *viś*
+- *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *viśe* \< *viś*
+- *viśe* ← *viś*
 - \[noun\], dative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *vastor* \< *vastoḥ* \< *vastu*
+- *vastor* ← *vastoḥ* ← *vastu*
 - \[noun\], genitive, singular, feminine
 - “dawn.”
 ------------------------------------------------------------------------
-- *vahamānaṃ* \< *vahamānam* \< *vah*
+- *vahamānaṃ* ← *vahamānam* ← *vah*
 - \[verb noun\], accusative, singular
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *śami* \< *śamī*
+- *śami* ← *śamī*
 - \[noun\], instrumental, singular, feminine
 - “Prosopis spicigera Linn.; śamī \[word\]; Acacia sundra; attempt;
     labor.”

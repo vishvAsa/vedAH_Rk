@@ -5,36 +5,36 @@ title = "Rig Veda 6.54.7"
 -   *mākir*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *neśan* \< *neśat* \< *naś*
+- *neśan* ← *neśat* ← *naś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “disappear; vanish; gasify; fail; perish; lose; bhasmībhū.”
 ------------------------------------------------------------------------
-- *mākīṃ* \< *mākīm*
+- *mākīṃ* ← *mākīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *riṣan* \< *riṣat* \< *riṣ*
+- *riṣan* ← *riṣat* ← *riṣ*
 - \[verb\], singular, Present injunctive
 - “suffer; harm.”
 ------------------------------------------------------------------------
-- *mākīṃ* \< *mākīm*
+- *mākīṃ* ← *mākīm*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *śāri* \< *śṛ*
+- *śāri* ← *śṛ*
 - \[verb\], singular, Aorist passive
 - “fall off; break; disintegrate; crush; break; fracture.”
 ------------------------------------------------------------------------
-- *kevaṭe* \< *kevaṭa*
+- *kevaṭe* ← *kevaṭa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *athāriṣṭābhir* \< *athā* \< *atha*
+- *athāriṣṭābhir* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *athāriṣṭābhir* \< *ariṣṭābhiḥ* \< *ariṣṭa*
+- *athāriṣṭābhir* ← *ariṣṭābhiḥ* ← *ariṣṭa*
 - \[noun\], instrumental, plural, feminine
 - “safe; unharmed.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 6.54.7"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *gahi* \< *gam*
+- *gahi* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

@@ -6,60 +6,60 @@ title = "Rig Veda 10.77.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vahadhve* \< *vah*
+- *vahadhve* ← *vah*
 - \[verb\], plural, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *parākād* \< *parākāt* \< *parāka*
+- *parākād* ← *parākāt* ← *parāka*
 - \[noun\], ablative, singular, masculine
 - “parāka.”
 ------------------------------------------------------------------------
-- *yūyam* \< *tvad*
+- *yūyam* ← *tvad*
 - \[noun\], nominative, plural
 - “you.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *saṃvaraṇasya* \< *saṃvaraṇa*
+- *saṃvaraṇasya* ← *saṃvaraṇa*
 - \[noun\], genitive, singular, neuter
 - “concealment.”
 ------------------------------------------------------------------------
-- *vasvaḥ* \< *vasu*
+- *vasvaḥ* ← *vasu*
 - \[noun\], genitive, singular, neuter
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *vidānāso* \< *vidānāsaḥ* \< *vid*
+- *vidānāso* ← *vidānāsaḥ* ← *vid*
 - \[verb noun\], nominative, plural
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *rādhyasyārāc* \< *rādhyasya* \< *rādhya*
+- *rādhyasyārāc* ← *rādhyasya* ← *rādhya*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *rādhyasyārāc* \< *ārāt*
+- *rādhyasyārāc* ← *ārāt*
 - \[adverb\]
 - “far; ārāt \[word\].”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *dveṣaḥ* \< *dveṣas*
+- *dveṣaḥ* ← *dveṣas*
 - \[noun\], accusative, singular, neuter
 - “hostility; enemy.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 10.77.6"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *yuyota* \< *yu*
+- *yuyota* ← *yu*
 - \[verb\], plural, Present imperative
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------

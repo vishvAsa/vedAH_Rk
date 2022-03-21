@@ -2,23 +2,23 @@
 title = "Rig Veda 6.20.3"
 
 +++
--   *tūrvann* \< *tūrvan* \< *tūrv*
+-   *tūrvann* ← *tūrvan* ← *tūrv*
 - \[verb noun\], nominative, singular
 - “overpower.”
 ------------------------------------------------------------------------
-- *ojīyān* \< *ojīyas*
+- *ojīyān* ← *ojīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *tavasas* \< *tavasaḥ* \< *tavas*
+- *tavasas* ← *tavasaḥ* ← *tavas*
 - \[noun\], ablative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *tavīyān* \< *tavīyas*
+- *tavīyān* ← *tavīyas*
 - \[noun\], nominative, singular, masculine
 - “stronger.”
 ------------------------------------------------------------------------
-- *kṛtabrahmendro* \< *kṛta* \< *kṛ*
+- *kṛtabrahmendro* ← *kṛta* ← *kṛ*
 - \[verb noun\]
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,45 +29,45 @@ title = "Rig Veda 6.20.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *kṛtabrahmendro* \< *brahmā* \< *brahman*
+- *kṛtabrahmendro* ← *brahmā* ← *brahman*
 - \[noun\], nominative, singular, masculine
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kṛtabrahmendro* \< *indraḥ* \< *indra*
+- *kṛtabrahmendro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vṛddhamahāḥ* \< *vṛddha* \< *vṛdh*
+- *vṛddhamahāḥ* ← *vṛddha* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *vṛddhamahāḥ* \< *mahāḥ* \< *mahas*
+- *vṛddhamahāḥ* ← *mahāḥ* ← *mahas*
 - \[noun\], nominative, singular, masculine
 - “greatness; festival; glory; reward; gladness.”
 ------------------------------------------------------------------------
-- *rājābhavan* \< *rājā* \< *rājan*
+- *rājābhavan* ← *rājā* ← *rājan*
 - \[noun\], nominative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *rājābhavan* \< *abhavat* \< *bhū*
+- *rājābhavan* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *madhunaḥ* \< *madhu*
+- *madhunaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *somyasya* \< *somya*
+- *somyasya* ← *somya*
 - \[noun\], genitive, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------
-- *viśvāsāṃ* \< *viśvāsām* \< *viśva*
+- *viśvāsāṃ* ← *viśvāsām* ← *viśva*
 - \[noun\], genitive, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
@@ -76,14 +76,14 @@ title = "Rig Veda 6.20.3"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *purāṃ* \< *purām* \< *pur*
+- *purāṃ* ← *purām* ← *pur*
 - \[noun\], genitive, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *dartnum* \< *dartnu*
+- *dartnum* ← *dartnu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *āvat* \< *av*
+- *āvat* ← *av*
 - \[verb\], singular, Imperfect
 - “support; help; prefer; prefer; like.”
 ------------------------------------------------------------------------

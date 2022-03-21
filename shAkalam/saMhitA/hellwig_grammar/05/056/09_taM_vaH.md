@@ -2,28 +2,28 @@
 title = "Rig Veda 5.56.9"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vaḥ* \< *tvad*
+- *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *śardhaṃ* \< *śardham* \< *śardha*
+- *śardhaṃ* ← *śardham* ← *śardha*
 - \[noun\], accusative, singular, masculine
 - “troop.”
 ------------------------------------------------------------------------
-- *ratheśubhaṃ* \< *ratheśubham* \< *ratheśubh*
+- *ratheśubhaṃ* ← *ratheśubham* ← *ratheśubh*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tveṣam* \< *tveṣa*
+- *tveṣam* ← *tveṣa*
 - \[noun\], accusative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *panasyum* \< *panasyu*
+- *panasyum* ← *panasyu*
 - \[noun\], accusative, singular, masculine
 - “brilliant.”
 ------------------------------------------------------------------------
@@ -31,30 +31,30 @@ title = "Rig Veda 5.56.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *huve* \< *hvā*
+- *huve* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sujātā* \< *su*
+- *sujātā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujātā* \< *jātā* \< *jan*
+- *sujātā* ← *jātā* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *subhagā* \< *subhaga*
+- *subhagā* ← *subhaga*
 - \[noun\], nominative, singular, feminine
 - “beautiful; auspicious; beloved; fine-looking; fortunate; subhaga
     \[word\]; charming; pleasing; lucky.”
 ------------------------------------------------------------------------
-- *mahīyate* \< *mahīy*
+- *mahīyate* ← *mahīy*
 - \[verb\], singular, Present indikative
 - “rejoice; revel.”
 ------------------------------------------------------------------------
@@ -62,11 +62,11 @@ title = "Rig Veda 5.56.9"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *marutsu* \< *marut*
+- *marutsu* ← *marut*
 - \[noun\], locative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *mīﾱhuṣī* \< *mīḍhuṣī* \< *mīḍhvas*
+- *mīﾱhuṣī* ← *mīḍhuṣī* ← *mīḍhvas*
 - \[noun\], nominative, singular, feminine
 - “big.”
 ------------------------------------------------------------------------

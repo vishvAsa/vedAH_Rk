@@ -2,38 +2,38 @@
 title = "Rig Veda 1.85.10"
 
 +++
--   *ūrdhvaṃ* \< *ūrdhvam* \< *ūrdhva*
+-   *ūrdhvaṃ* ← *ūrdhvam* ← *ūrdhva*
 - \[noun\], accusative, singular, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *nunudre* \< *nud*
+- *nunudre* ← *nud*
 - \[verb\], plural, Perfect indicative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
-- *'vataṃ* \< *avatam* \< *avata*
+- *'vataṃ* ← *avatam* ← *avata*
 - \[noun\], accusative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *ta* \< *te* \< *tad*
+- *ta* ← *te* ← *tad*
 - \[noun\], nominative, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *dādṛhāṇaṃ* \< *dādṛhāṇam* \< *dṛh*
+- *dādṛhāṇaṃ* ← *dādṛhāṇam* ← *dṛh*
 - \[verb noun\], nominative, singular
 - “fixate; strengthen.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *bibhidur* \< *bibhiduḥ* \< *bhid*
+- *bibhidur* ← *bibhiduḥ* ← *bhid*
 - \[verb\], plural, Perfect indicative
 - “break; incise; burst; divide; cut; cleave; destroy; cure; disturb;
     lance; break; distinguish; disclose; pierce; tear; separate;
@@ -44,41 +44,41 @@ title = "Rig Veda 1.85.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *parvatam* \< *parvata*
+- *parvatam* ← *parvata*
 - \[noun\], accusative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
 ------------------------------------------------------------------------
-- *dhamanto* \< *dhamantaḥ* \< *dham*
+- *dhamanto* ← *dhamantaḥ* ← *dham*
 - \[verb noun\], nominative, plural
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *vāṇam* \< *vāṇa*
+- *vāṇam* ← *vāṇa*
 - \[noun\], accusative, singular, masculine
 - “music.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *sudānavo* \< *sudānavaḥ* \< *sudānu*
+- *sudānavo* ← *sudānavaḥ* ← *sudānu*
 - \[noun\], nominative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *raṇyāni* \< *raṇya*
+- *raṇyāni* ← *raṇya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *cakrire* \< *kṛ*
+- *cakrire* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

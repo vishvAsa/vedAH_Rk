@@ -2,39 +2,39 @@
 title = "Rig Veda 6.46.1"
 
 +++
--   *tvām* \< *tvad*
+-   *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *havāmahe* \< *hvā*
+- *havāmahe* ← *hvā*
 - \[verb\], plural, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *sātā* \< *sāti*
+- *sātā* ← *sāti*
 - \[noun\], locative, singular, feminine
 - “victory; acquisition; contest.”
 ------------------------------------------------------------------------
-- *vājasya* \< *vāja*
+- *vājasya* ← *vāja*
 - \[noun\], genitive, singular, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *kāravaḥ* \< *kāru*
+- *kāravaḥ* ← *kāru*
 - \[noun\], nominative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
-- *tvāṃ* \< *tvām* \< *tvad*
+- *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *vṛtreṣv* \< *vṛtreṣu* \< *vṛtra*
+- *vṛtreṣv* ← *vṛtreṣu* ← *vṛtra*
 - \[noun\], locative, plural, neuter
 - “enemy.”
 ------------------------------------------------------------------------
@@ -43,23 +43,23 @@ title = "Rig Veda 6.46.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *satpatiṃ* \< *satpatim* \< *satpati*
+- *satpatiṃ* ← *satpatim* ← *satpati*
 - \[noun\], accusative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
-- *naras* \< *naraḥ* \< *nṛ*
+- *naras* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *tvāṃ* \< *tvām* \< *tvad*
+- *tvāṃ* ← *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kāṣṭhāsv* \< *kāṣṭhāsu* \< *kāṣṭhā*
+- *kāṣṭhāsv* ← *kāṣṭhāsu* ← *kāṣṭhā*
 - \[noun\], locative, plural, feminine
 - “kāṣṭhā; quarter; body of water.”
 ------------------------------------------------------------------------
-- *arvataḥ* \< *arvant*
+- *arvataḥ* ← *arvant*
 - \[noun\], genitive, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------

@@ -6,11 +6,11 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mahāntam* \< *mahat*
+- *mahāntam* ← *mahat*
 - \[noun\], accusative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -24,11 +24,11 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *arbhakam* \< *arbhaka*
+- *arbhakam* ← *arbhaka*
 - \[noun\], accusative, singular, masculine
 - “humble; weak.”
 ------------------------------------------------------------------------
@@ -36,11 +36,11 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ukṣantam* \< *vakṣ*
+- *ukṣantam* ← *vakṣ*
 - \[verb noun\], accusative, singular
 - “grow; grow.”
 ------------------------------------------------------------------------
@@ -52,11 +52,11 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ukṣitam* \< *vakṣ*
+- *ukṣitam* ← *vakṣ*
 - \[verb noun\], accusative, singular
 - “grow; grow.”
 ------------------------------------------------------------------------
@@ -64,28 +64,28 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhīḥ* \< *vadh*
+- *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------
-- *pitaram* \< *pitṛ*
+- *pitaram* ← *pitṛ*
 - \[noun\], accusative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *mota* \< *mā*
+- *mota* ← *mā*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mota* \< *uta*
+- *mota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *mātaram* \< *mātṛ*
+- *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
@@ -94,16 +94,16 @@ title = "Rig Veda 1.114.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *priyās* \< *priyāḥ* \< *priya*
+- *priyās* ← *priyāḥ* ← *priya*
 - \[noun\], accusative, plural, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* ← *tanū*
 - \[noun\], accusative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -111,7 +111,7 @@ title = "Rig Veda 1.114.7"
 - \[noun\], vocative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *rīriṣaḥ* \< *riṣ*
+- *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------

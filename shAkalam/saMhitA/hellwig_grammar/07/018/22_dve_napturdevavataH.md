@@ -2,82 +2,82 @@
 title = "Rig Veda 7.18.22"
 
 +++
--   *dve* \< *dvi*
+-   *dve* ← *dvi*
 - \[noun\], accusative, dual, neuter
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *naptur* \< *naptuḥ* \< *naptṛ*
+- *naptur* ← *naptuḥ* ← *naptṛ*
 - \[noun\], genitive, singular, masculine
 - “grandson; nephew; naptṛ \[word\].”
 ------------------------------------------------------------------------
-- *devavataḥ* \< *devavant*
+- *devavataḥ* ← *devavant*
 - \[noun\], genitive, singular, masculine
 - “Devavant.”
 ------------------------------------------------------------------------
-- *śate* \< *śata*
+- *śate* ← *śata*
 - \[noun\], accusative, dual, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *dvā* \< *dvi*
+- *dvā* ← *dvi*
 - \[noun\], accusative, dual, masculine
 - “two; dvi \[word\]; second.”
 ------------------------------------------------------------------------
-- *rathā* \< *ratha*
+- *rathā* ← *ratha*
 - \[noun\], accusative, dual, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *vadhūmantā* \< *vadhūmat*
+- *vadhūmantā* ← *vadhūmat*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *sudāsaḥ* \< *sudās*
+- *sudāsaḥ* ← *sudās*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *arhann* \< *arhan* \< *arh*
+- *arhann* ← *arhan* ← *arh*
 - \[verb noun\], nominative, singular
 - “should; may; rate; can; can; equal; necessitate.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *paijavanasya* \< *paijavana*
+- *paijavanasya* ← *paijavana*
 - \[noun\], genitive, singular, masculine
 - “Sudās.”
 ------------------------------------------------------------------------
-- *dānaṃ* \< *dānam* \< *dāna*
+- *dānaṃ* ← *dānam* ← *dāna*
 - \[noun\], accusative, singular, neuter
 - “giving; gift; bribery; performance; addition; yajña; fueling;
     teaching.”
 ------------------------------------------------------------------------
-- *hoteva* \< *hotā* \< *hotṛ*
+- *hoteva* ← *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *hoteva* \< *iva*
+- *hoteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sadma* \< *sadman*
+- *sadma* ← *sadman*
 - \[noun\], accusative, singular, neuter
 - “seat; house; stable; dwelling.”
 ------------------------------------------------------------------------
-- *pary* \< *pari*
+- *pary* ← *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *emi* \< *i*
+- *emi* ← *i*
 - \[verb\], singular, Present indikative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *rebhan* \< *ribh*
+- *rebhan* ← *ribh*
 - \[verb noun\], nominative, singular
 - “moo; murmur; praise.”
 ------------------------------------------------------------------------

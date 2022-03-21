@@ -2,20 +2,20 @@
 title = "Rig Veda 3.3.9"
 
 +++
--   *vibhāvā* \< *vibhāvan*
+-   *vibhāvā* ← *vibhāvan*
 - \[noun\], nominative, singular, masculine
 - “illuminating; shining.”
 ------------------------------------------------------------------------
-- *devaḥ* \< *deva*
+- *devaḥ* ← *deva*
 - \[noun\], nominative, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *suraṇaḥ* \< *su*
+- *suraṇaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suraṇaḥ* \< *raṇaḥ* \< *raṇa*
+- *suraṇaḥ* ← *raṇaḥ* ← *raṇa*
 - \[noun\], nominative, singular, masculine
 - “battle; fight; pleasure; joy; war; combat.”
 ------------------------------------------------------------------------
@@ -23,55 +23,55 @@ title = "Rig Veda 3.3.9"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kṣitīr* \< *kṣitīḥ* \< *kṣiti*
+- *kṣitīr* ← *kṣitīḥ* ← *kṣiti*
 - \[noun\], accusative, plural, feminine
 - “floor; Earth; earth; pṛthivī; people; dwelling; battlefield; Earth;
     estate; colony; house.”
 ------------------------------------------------------------------------
-- *agnir* \< *agniḥ* \< *agni*
+- *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *babhūva* \< *bhū*
+- *babhūva* ← *bhū*
 - \[verb\], singular, Perfect indicative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *sumadrathaḥ* \< *sumat*
+- *sumadrathaḥ* ← *sumat*
 - \[adverb\]
 - “together.”
 ------------------------------------------------------------------------
-- *sumadrathaḥ* \< *rathaḥ* \< *ratha*
+- *sumadrathaḥ* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vratāni* \< *vrata*
+- *vratāni* ← *vrata*
 - \[noun\], accusative, plural, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *bhūripoṣiṇo* \< *bhūri*
+- *bhūripoṣiṇo* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūripoṣiṇo* \< *poṣiṇaḥ* \< *poṣin*
+- *bhūripoṣiṇo* ← *poṣiṇaḥ* ← *poṣin*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -79,11 +79,11 @@ title = "Rig Veda 3.3.9"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *bhūṣema* \< *bhūṣ*
+- *bhūṣema* ← *bhūṣ*
 - \[verb\], plural, Present optative
 - “endeavor; attend; strive.”
 ------------------------------------------------------------------------
-- *dama* \< *dame* \< *dama*
+- *dama* ← *dame* ← *dama*
 - \[noun\], locative, singular, masculine
 - “dwelling; home.”
 ------------------------------------------------------------------------
@@ -91,7 +91,7 @@ title = "Rig Veda 3.3.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *suvṛktibhiḥ* \< *suvṛkti*
+- *suvṛktibhiḥ* ← *suvṛkti*
 - \[noun\], instrumental, plural, feminine
 - “praise.”
 ------------------------------------------------------------------------

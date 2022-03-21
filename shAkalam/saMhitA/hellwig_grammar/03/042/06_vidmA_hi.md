@@ -2,7 +2,7 @@
 title = "Rig Veda 3.42.6"
 
 +++
--   *vidmā* \< *vidma* \< *vid*
+-   *vidmā* ← *vidma* ← *vid*
 - \[verb\], plural, Perfect indicative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -11,39 +11,39 @@ title = "Rig Veda 3.42.6"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhanañjayaṃ* \< *dhanañjayam* \< *dhanaṃjaya*
+- *dhanañjayaṃ* ← *dhanañjayam* ← *dhanaṃjaya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vājeṣu* \< *vāja*
+- *vājeṣu* ← *vāja*
 - \[noun\], locative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *dadhṛṣaṃ* \< *dadhṛṣam* \< *dadhṛṣ*
+- *dadhṛṣaṃ* ← *dadhṛṣam* ← *dadhṛṣ*
 - \[noun\], accusative, singular, masculine
 - “audacious; dadhṛṣ \[word\].”
 ------------------------------------------------------------------------
-- *kave* \< *kavi*
+- *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *adhā* \< *adha*
+- *adhā* ← *adha*
 - \[adverb\]
 - “then; and; therefore; now.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sumnam* \< *sumna*
+- *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *īmahe* \< *ī* \< *√i*
+- *īmahe* ← *ī* ← *√i*
 - \[verb\], plural, Present indikative
 - “beg; solicit.”
 ------------------------------------------------------------------------

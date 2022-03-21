@@ -2,31 +2,31 @@
 title = "Rig Veda 10.140.3"
 
 +++
--   *ūrjo* \< *ūrjaḥ* \< *ūrj*
+-   *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *napāj* \< *napāt*
+- *napāj* ← *napāt*
 - \[noun\], nominative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *jātavedaḥ* \< *jātavedas*
+- *jātavedaḥ* ← *jātavedas*
 - \[noun\], vocative, singular, masculine
 - “Agni; fire.”
 ------------------------------------------------------------------------
-- *suśastibhir* \< *su*
+- *suśastibhir* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśastibhir* \< *śastibhiḥ* \< *śasti*
+- *suśastibhir* ← *śastibhiḥ* ← *śasti*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *mandasva* \< *mand*
+- *mandasva* ← *mand*
 - \[verb\], singular, Present imperative
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
-- *dhītibhir* \< *dhītibhiḥ* \< *dhīti*
+- *dhītibhir* ← *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------

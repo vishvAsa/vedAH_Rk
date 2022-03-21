@@ -2,41 +2,41 @@
 title = "Rig Veda 8.77.7"
 
 +++
--   *śatabradhna* \< *śata*
+-   *śatabradhna* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatabradhna* \< *bradhnaḥ* \< *bradhna*
+- *śatabradhna* ← *bradhnaḥ* ← *bradhna*
 - \[noun\], nominative, singular, masculine
 - “sun; horse.”
 ------------------------------------------------------------------------
-- *iṣus* \< *iṣuḥ* \< *iṣu*
+- *iṣus* ← *iṣuḥ* ← *iṣu*
 - \[noun\], nominative, singular, masculine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sahasraparṇa* \< *sahasra*
+- *sahasraparṇa* ← *sahasra*
 - \[noun\], neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *sahasraparṇa* \< *parṇaḥ* \< *parṇa*
+- *sahasraparṇa* ← *parṇaḥ* ← *parṇa*
 - \[noun\], nominative, singular, masculine
 - “leaf; feather; parṇa \[word\]; leaf; wing.”
 ------------------------------------------------------------------------
-- *eka* \< *ekaḥ* \< *eka*
+- *eka* ← *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 8.77.7"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *cakṛṣe* \< *kṛ*
+- *cakṛṣe* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -56,7 +56,7 @@ title = "Rig Veda 8.77.7"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *yujam* \< *yuj*
+- *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------

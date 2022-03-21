@@ -2,7 +2,7 @@
 title = "Rig Veda 5.62.2"
 
 +++
--   *tat* \< *tad*
+-   *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,15 +12,15 @@ title = "Rig Veda 5.62.2"
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇā* \< *mitrāvaruṇāḥ* \< *mitrāvaruṇa*
+- *mitrāvaruṇā* ← *mitrāvaruṇāḥ* ← *mitrāvaruṇa*
 - \[noun\], vocative, plural, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *mahitvam* \< *mahitva*
+- *mahitvam* ← *mahitva*
 - \[noun\], nominative, singular, neuter
 - “greatness.”
 ------------------------------------------------------------------------
@@ -28,34 +28,34 @@ title = "Rig Veda 5.62.2"
 - \[noun\], instrumental, singular, feminine
 - “foreleg.”
 ------------------------------------------------------------------------
-- *tasthuṣīr* \< *tasthuṣīḥ* \< *sthā*
+- *tasthuṣīr* ← *tasthuṣīḥ* ← *sthā*
 - \[verb noun\], nominative, plural
 - “stay; stand; situate; exist; \[in\]; resist; endure; put; soak; be;
     stop; adhere; get stale; concentrate; grow; trust; wake; consociate;
     last; dwell; lie; stand; stop.”
 ------------------------------------------------------------------------
-- *ahabhir* \< *ahabhiḥ* \< *aha*
+- *ahabhir* ← *ahabhiḥ* ← *aha*
 - \[noun\], instrumental, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *duduhre* \< *duh*
+- *duduhre* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *viśvāḥ* \< *viśva*
+- *viśvāḥ* ← *viśva*
 - \[noun\], accusative, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *pinvathaḥ* \< *pinv*
+- *pinvathaḥ* ← *pinv*
 - \[verb\], dual, Present indikative
 - “swell; swell; overflow; abound.”
 ------------------------------------------------------------------------
-- *svasarasya* \< *svasara*
+- *svasarasya* ← *svasara*
 - \[noun\], genitive, singular, neuter
 - “pasture; stall.”
 ------------------------------------------------------------------------
-- *dhenā* \< *dhenāḥ* \< *dhenā*
+- *dhenā* ← *dhenāḥ* ← *dhenā*
 - \[noun\], accusative, plural, feminine
 - “river; lip; voice.”
 ------------------------------------------------------------------------
@@ -63,17 +63,17 @@ title = "Rig Veda 5.62.2"
 - \[adverb\]
 - “subsequently; behind; along; towards; because.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ekaḥ* \< *eka*
+- *ekaḥ* ← *eka*
 - \[noun\], nominative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
     consistent; any(a); undifferentiated; disjunct.”
 ------------------------------------------------------------------------
-- *pavir* \< *paviḥ* \< *pavi*
+- *pavir* ← *paviḥ* ← *pavi*
 - \[noun\], nominative, singular, masculine
 - “vajra; tire; rim.”
 ------------------------------------------------------------------------
@@ -81,7 +81,7 @@ title = "Rig Veda 5.62.2"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vavarta* \< *vṛt*
+- *vavarta* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

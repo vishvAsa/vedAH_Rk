@@ -6,56 +6,56 @@ title = "Rig Veda 8.50.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vīram* \< *vīra*
+- *vīram* ← *vīra*
 - \[noun\], accusative, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *ugraṃ* \< *ugram* \< *ugra*
+- *ugraṃ* ← *ugram* ← *ugra*
 - \[noun\], accusative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *viviciṃ* \< *vivicim* \< *vivici*
+- *viviciṃ* ← *vivicim* ← *vivici*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *dhanaspṛtaṃ* \< *dhana*
+- *dhanaspṛtaṃ* ← *dhana*
 - \[noun\], neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *dhanaspṛtaṃ* \< *spṛtam* \< *spṛt*
+- *dhanaspṛtaṃ* ← *spṛtam* ← *spṛt*
 - \[noun\], accusative, singular, masculine
 - “victorious; protecting.”
 ------------------------------------------------------------------------
-- *vibhūtiṃ* \< *vibhūtim* \< *vibhūti*
+- *vibhūtiṃ* ← *vibhūtim* ← *vibhūti*
 - \[noun\], accusative, singular, masculine
 - “plentiful.”
 ------------------------------------------------------------------------
-- *rādhaso* \< *rādhasaḥ* \< *rādhas*
+- *rādhaso* ← *rādhasaḥ* ← *rādhas*
 - \[noun\], genitive, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *mahaḥ* \< *mah*
+- *mahaḥ* ← *mah*
 - \[noun\], genitive, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *udrīva* \< *udrī* \< *udrin*
+- *udrīva* ← *udrī* ← *udrin*
 - \[noun\], nominative, singular, masculine
 - “filled with water.”
 ------------------------------------------------------------------------
-- *udrīva* \< *iva*
+- *udrīva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vajrinn* \< *vajrin*
+- *vajrinn* ← *vajrin*
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *avato* \< *avataḥ* \< *avata*
+- *avato* ← *avataḥ* ← *avata*
 - \[noun\], nominative, singular, masculine
 - “well.”
 ------------------------------------------------------------------------
-- *vasutvanā* \< *vasutvana*
+- *vasutvanā* ← *vasutvana*
 - \[noun\], instrumental, singular, neuter
 - “wealth.”
 ------------------------------------------------------------------------
@@ -63,11 +63,11 @@ title = "Rig Veda 8.50.6"
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *pīpetha* \< *pyā*
+- *pīpetha* ← *pyā*
 - \[verb\], singular, Perfect indicative
 - “swell; abound; swell.”
 ------------------------------------------------------------------------
-- *dāśuṣe* \< *dāś*
+- *dāśuṣe* ← *dāś*
 - \[verb noun\], dative, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------

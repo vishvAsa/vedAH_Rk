@@ -6,37 +6,37 @@ title = "Rig Veda 9.14.6"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *śritī* \< *śriti*
+- *śritī* ← *śriti*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
 - *tiraścatā*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *gavyā* \< *gavya*
+- *gavyā* ← *gavya*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *jigāty* \< *jigāti* \< *gā*
+- *jigāty* ← *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *aṇvyā* \< *aṇu*
+- *aṇvyā* ← *aṇu*
 - \[noun\], instrumental, singular, feminine
 - “small; fine; subtle; thin.”
 ------------------------------------------------------------------------
-- *vagnum* \< *vagnu*
+- *vagnum* ← *vagnu*
 - \[noun\], accusative, singular, masculine
 - “cry.”
 ------------------------------------------------------------------------
-- *iyarti* \< *ṛch*
+- *iyarti* ← *ṛch*
 - \[verb\], singular, Present indikative
 - “enter (a state); travel; shoot; send; hit; originate; get; raise;
     begin; harm.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

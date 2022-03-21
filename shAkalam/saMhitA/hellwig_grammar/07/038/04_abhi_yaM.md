@@ -6,36 +6,36 @@ title = "Rig Veda 7.38.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devy* \< *devī*
+- *devy* ← *devī*
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *aditir* \< *aditiḥ* \< *aditi*
+- *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *gṛṇāti* \< *gṛ*
+- *gṛṇāti* ← *gṛ*
 - \[verb\], singular, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
-- *savaṃ* \< *savam* \< *sava*
+- *savaṃ* ← *savam* ← *sava*
 - \[noun\], accusative, singular, masculine
 - “yajña; command; impulse; direction; momentum.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *savitur* \< *savituḥ* \< *savitṛ*
+- *savitur* ← *savituḥ* ← *savitṛ*
 - \[noun\], genitive, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *juṣāṇā* \< *juṣ*
+- *juṣāṇā* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -44,16 +44,16 @@ title = "Rig Veda 7.38.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *samrājo* \< *samrājaḥ* \< *samrāj*
+- *samrājo* ← *samrājaḥ* ← *samrāj*
 - \[noun\], nominative, plural, masculine
 - “sovereign; ruler.”
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *gṛṇanty* \< *gṛṇanti* \< *gṛ*
+- *gṛṇanty* ← *gṛṇanti* ← *gṛ*
 - \[verb\], plural, Present indikative
 - “praise.”
 ------------------------------------------------------------------------
@@ -61,15 +61,15 @@ title = "Rig Veda 7.38.4"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *mitrāso* \< *mitrāsaḥ* \< *mitra*
+- *mitrāso* ← *mitrāsaḥ* ← *mitra*
 - \[noun\], nominative, plural, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *aryamā* \< *aryaman*
+- *aryamā* ← *aryaman*
 - \[noun\], nominative, singular, masculine
 - “Aryaman; aryaman \[word\]; sun.”
 ------------------------------------------------------------------------
-- *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------

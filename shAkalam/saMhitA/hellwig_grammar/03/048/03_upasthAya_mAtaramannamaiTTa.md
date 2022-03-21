@@ -2,29 +2,29 @@
 title = "Rig Veda 3.48.3"
 
 +++
--   *upasthāya* \< *upasthā* \< *√sthā*
+-   *upasthāya* ← *upasthā* ← *√sthā*
 - \[verb noun\]
 - “approach; approach; worship; serve; originate; enter (a state);
     entertain; arise; stand; happen; become.”
 ------------------------------------------------------------------------
-- *mātaram* \< *mātṛ*
+- *mātaram* ← *mātṛ*
 - \[noun\], accusative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *annam* \< *anna*
+- *annam* ← *anna*
 - \[noun\], accusative, singular, neuter
 - “food; foodstuff; grain; anna \[word\]; eating; boiled rice; meal.”
 ------------------------------------------------------------------------
-- *aiṭṭa* \< *\_* \< *√\_*
+- *aiṭṭa* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *tigmam* \< *tigma*
+- *tigmam* ← *tigma*
 - \[noun\], accusative, singular, masculine
 - “sharp; pointed; fiery.”
 ------------------------------------------------------------------------
-- *apaśyad* \< *apaśyat* \< *paś*
+- *apaśyad* ← *apaśyat* ← *paś*
 - \[verb\], singular, Imperfect
 - “see; view; watch; meet; observe; think of; look; examine; behold;
     visit; understand.”
@@ -33,37 +33,37 @@ title = "Rig Veda 3.48.3"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *ūdhaḥ* \< *ūdhas*
+- *ūdhaḥ* ← *ūdhas*
 - \[noun\], accusative, singular, neuter
 - “udder; ūdhas \[word\]; night.”
 ------------------------------------------------------------------------
-- *prayāvayann* \< *prayāvayan* \< *prayāvay* \< *√yu*
+- *prayāvayann* ← *prayāvayan* ← *prayāvay* ← *√yu*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *acarad* \< *acarat* \< *car*
+- *acarad* ← *acarat* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
     heed; process; administer.”
 ------------------------------------------------------------------------
-- *gṛtso* \< *gṛtsaḥ* \< *gṛtsa*
+- *gṛtso* ← *gṛtsaḥ* ← *gṛtsa*
 - \[noun\], nominative, singular, masculine
 - “apt; deft.”
 ------------------------------------------------------------------------
-- *anyān* \< *anya*
+- *anyān* ← *anya*
 - \[noun\], accusative, plural, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *mahāni* \< *maha*
+- *mahāni* ← *maha*
 - \[noun\], accusative, plural, neuter
 - “great; abundant.”
 ------------------------------------------------------------------------
-- *cakre* \< *kṛ*
+- *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -74,10 +74,10 @@ title = "Rig Veda 3.48.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *purudhapratīkaḥ* \< *purudha* \< *purudhā*
+- *purudhapratīkaḥ* ← *purudha* ← *purudhā*
 - \[adverb\]
 - “multiply.”
 ------------------------------------------------------------------------
-- *purudhapratīkaḥ* \< *pratīkaḥ* \< *pratīka*
+- *purudhapratīkaḥ* ← *pratīkaḥ* ← *pratīka*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

@@ -6,36 +6,36 @@ title = "Rig Veda 10.105.1"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *vaso* \< *vasu*
+- *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
-- *stotraṃ* \< *stotram* \< *stotra*
+- *stotraṃ* ← *stotram* ← *stotra*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *haryata* \< *haryate* \< *hary*
+- *haryata* ← *haryate* ← *hary*
 - \[verb noun\], dative, singular
 - “delight.”
 ------------------------------------------------------------------------
-- *āva* \< *ava*
+- *āva* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
 - *śmaśā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *rudhad* \< *rudhat* \< *rudh*
+- *rudhad* ← *rudhat* ← *rudh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “fill into; close; insert; put; enclose; obstruct; seal; besiege;
     cover; blockade; stop; lock in; plug; withhold; extinguish;
     connect.”
 ------------------------------------------------------------------------
-- *vāḥ* \< *vār*
+- *vāḥ* ← *vār*
 - \[noun\], accusative, singular
 - “water; juice; jala.”
 ------------------------------------------------------------------------
-- *dīrghaṃ* \< *dīrgham* \< *dīrgha*
+- *dīrghaṃ* ← *dīrgham* \< *dīrgha*
 - \[noun\], accusative, singular, neuter
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------

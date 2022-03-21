@@ -6,42 +6,42 @@ title = "Rig Veda 1.114.6"
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *pitre* \< *pitṛ*
+- *pitre* ← *pitṛ*
 - \[noun\], dative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *marutām* \< *marut*
+- *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *ucyate* \< *vac*
+- *ucyate* ← *vac*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “say; describe; name; tell; address; enumerate; call; state; teach;
     explain; say; declare; speak; define; declare; order; address;
     recommend; answer; deem; recite; approve; proclaim; indicate;
     determine; mention; designate.”
 ------------------------------------------------------------------------
-- *vacaḥ* \< *vacas*
+- *vacaḥ* ← *vacas*
 - \[noun\], nominative, singular, neuter
 - “statement; command; speech; words; advice; word; voice.”
 ------------------------------------------------------------------------
-- *svādoḥ* \< *svādu*
+- *svādoḥ* ← *svādu*
 - \[noun\], ablative, singular, neuter
 - “Madhura; sweet; sweet; dainty; agreeable.”
 ------------------------------------------------------------------------
-- *svādīyo* \< *svādīyaḥ* \< *svādīyas*
+- *svādīyo* ← *svādīyaḥ* ← *svādīyas*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *rudrāya* \< *rudra*
+- *rudrāya* ← *rudra*
 - \[noun\], dative, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vardhanam* \< *vardhana*
+- *vardhanam* ← *vardhana*
 - \[noun\], accusative, singular, neuter
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *rāsvā* \< *rā*
+- *rāsvā* ← *rā*
 - \[verb\], singular, Aorist imperative
 - “give; impart.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 1.114.6"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -57,27 +57,27 @@ title = "Rig Veda 1.114.6"
 - \[noun\], vocative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *martabhojanaṃ* \< *marta*
+- *martabhojanaṃ* ← *marta*
 - \[noun\], masculine
 - “man.”
 ------------------------------------------------------------------------
-- *martabhojanaṃ* \< *bhojanam* \< *bhojana*
+- *martabhojanaṃ* ← *bhojanam* ← *bhojana*
 - \[noun\], accusative, singular, neuter
 - “food; eating; foodstuff; meal; property; sevana; enjoyment.”
 ------------------------------------------------------------------------
-- *tmane* \< *tman*
+- *tmane* ← *tman*
 - \[noun\], dative, singular, masculine
 - “self.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayāya* \< *tanaya*
+- *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *mṛﾱa* \< *mṛḍ*
+- *mṛﾱa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

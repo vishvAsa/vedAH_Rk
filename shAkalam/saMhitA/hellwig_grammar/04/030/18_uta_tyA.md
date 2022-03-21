@@ -6,19 +6,19 @@ title = "Rig Veda 4.30.18"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *sadya* \< *sadyas*
+- *sadya* ← *sadyas*
 - \[adverb\]
 - “immediately; just; daily; sadyas \[word\].”
 ------------------------------------------------------------------------
-- *āryā* \< *ārya*
+- *āryā* ← *ārya*
 - \[noun\], accusative, dual, masculine
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *sarayor* \< *sarayoḥ* \< *sarayu*
+- *sarayor* ← *sarayoḥ* ← *sarayu*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
 - *indra*
@@ -26,17 +26,17 @@ title = "Rig Veda 4.30.18"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pārataḥ* \< *pāratas*
+- *pārataḥ* ← *pāratas*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *arṇācitrarathāvadhīḥ* \< *arṇā*
+- *arṇācitrarathāvadhīḥ* ← *arṇā*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *arṇācitrarathāvadhīḥ* \< *citrarathā* \< *citraratha*
+- *arṇācitrarathāvadhīḥ* ← *citrarathā* ← *citraratha*
 - \[noun\], accusative, dual, masculine
 - “Citraratha.”
 ------------------------------------------------------------------------
-- *arṇācitrarathāvadhīḥ* \< *vadhīḥ* \< *vadh*
+- *arṇācitrarathāvadhīḥ* ← *vadhīḥ* ← *vadh*
 - \[verb\], singular, Aorist inj. (proh.)
 - “kill; assail; kick; māray; destroy; beat.”
 ------------------------------------------------------------------------

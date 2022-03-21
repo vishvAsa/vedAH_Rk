@@ -2,53 +2,53 @@
 title = "Rig Veda 10.4.6"
 
 +++
--   *tanūtyajeva* \< *tanūtyajā* \< *tanūtyaj*
+-   *tanūtyajeva* ← *tanūtyajā* ← *tanūtyaj*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tanūtyajeva* \< *iva*
+- *tanūtyajeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *taskarā* \< *taskara*
+- *taskarā* ← *taskara*
 - \[noun\], nominative, dual, masculine
 - “thief; mugger.”
 ------------------------------------------------------------------------
-- *vanargū* \< *vanargu*
+- *vanargū* ← *vanargu*
 - \[noun\], nominative, dual, masculine
 - “barbarian.”
 ------------------------------------------------------------------------
-- *raśanābhir* \< *raśanābhiḥ* \< *raśanā*
+- *raśanābhir* ← *raśanābhiḥ* ← *raśanā*
 - \[noun\], instrumental, plural, feminine
 - “rein; bridle; girdle; cord.”
 ------------------------------------------------------------------------
-- *daśabhir* \< *daśabhiḥ* \< *daśan*
+- *daśabhir* ← *daśabhiḥ* ← *daśan*
 - \[noun\], instrumental, plural, feminine
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *abhy* \< *abhi*
+- *abhy* ← *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *adhītām* \< *dhā*
+- *adhītām* ← *dhā*
 - \[verb\], dual, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *iyaṃ* \< *iyam* \< *idam*
+- *iyaṃ* ← *iyam* ← *idam*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *navyasī* \< *navīyas*
+- *navyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@ title = "Rig Veda 10.4.6"
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *yukṣvā* \< *yuj*
+- *yukṣvā* ← *yuj*
 - \[verb\], singular, Aorist imperative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -65,7 +65,7 @@ title = "Rig Veda 10.4.6"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *rathaṃ* \< *ratham* \< *ratha*
+- *rathaṃ* ← *ratham* ← *ratha*
 - \[noun\], accusative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
@@ -73,11 +73,11 @@ title = "Rig Veda 10.4.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śucayadbhir* \< *śucayadbhiḥ* \< *śocay* \< *√śuc*
+- *śucayadbhir* ← *śucayadbhiḥ* ← *śocay* ← *√śuc*
 - \[verb noun\], instrumental, plural
 - “distress; afflict; burn.”
 ------------------------------------------------------------------------
-- *aṅgaiḥ* \< *aṅga*
+- *aṅgaiḥ* ← *aṅga*
 - \[noun\], instrumental, plural, neuter
 - “body part; body; part; limb; extremity; Vedāṅga; section; root;
     army unit; aṅga \[word\]; subsection; aṅgamantra; part; body;

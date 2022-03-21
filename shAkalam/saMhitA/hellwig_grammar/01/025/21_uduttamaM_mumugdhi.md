@@ -6,13 +6,13 @@ title = "Rig Veda 1.25.21"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *uttamam* \< *uttama*
+- *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
     finest.”
 ------------------------------------------------------------------------
-- *mumugdhi* \< *muc*
+- *mumugdhi* ← *muc*
 - \[verb\], singular, Perfect imperative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -20,7 +20,7 @@ title = "Rig Veda 1.25.21"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -28,27 +28,27 @@ title = "Rig Veda 1.25.21"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pāśam* \< *pāśa*
+- *pāśam* ← *pāśa*
 - \[noun\], accusative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *madhyamaṃ* \< *madhyamam* \< *madhyama*
+- *madhyamaṃ* ← *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *cṛta* \< *cṛt*
+- *cṛta* ← *cṛt*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *avādhamāni* \< *ava*
+- *avādhamāni* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *avādhamāni* \< *adhamāni* \< *adhama*
+- *avādhamāni* ← *adhamāni* ← *adhama*
 - \[noun\], accusative, plural, neuter
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 10.139.4"
 
 +++
--   *viśvāvasuṃ* \< *viśvāvasum* \< *viśvāvasu*
+-   *viśvāvasuṃ* ← *viśvāvasum* ← *viśvāvasu*
 - \[noun\], accusative, singular, masculine
 - “Viśvāvasu; Viśvāvasu; Viśvāvasu.”
 ------------------------------------------------------------------------
@@ -10,39 +10,39 @@ title = "Rig Veda 10.139.4"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *gandharvam* \< *gandharva*
+- *gandharvam* ← *gandharva*
 - \[noun\], accusative, singular, masculine
 - “Gandharva; castor-oil plant; horse; Gandharva; Indian cuckoo.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, neuter
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *dadṛśuṣīs* \< *dadṛśuṣīḥ* \< *dṛś*
+- *dadṛśuṣīs* ← *dadṛśuṣīḥ* ← *dṛś*
 - \[verb noun\], accusative, plural
 - “see; observe; view; visit; look; learn; meet; read; teach; examine;
     watch; see; notice; perceive; diagnose; travel to; show; detect;
     know; know; understand; understand; follow.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *ṛtenā* \< *ṛta*
+- *ṛtenā* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *āyan* \< *i*
+- *āyan* ← *i*
 - \[verb\], plural, Imperfect
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad

@@ -6,35 +6,35 @@ title = "Rig Veda 5.40.7"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *imaṃ* \< *imam* \< *idam*
+- *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *tava* \< *tvad*
+- *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *santam* \< *as*
+- *santam* ← *as*
 - \[verb noun\], accusative, singular
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *atra* \< *atre* \< *atri*
+- *atra* ← *atre* ← *atri*
 - \[noun\], vocative, singular, masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
 - *irasyā*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *drugdho* \< *drugdhaḥ* \< *druh*
+- *drugdho* ← *drugdhaḥ* ← *druh*
 - \[verb noun\], nominative, singular
 - “stew; rival; hurt.”
 ------------------------------------------------------------------------
-- *bhiyasā* \< *bhiyas*
+- *bhiyasā* ← *bhiyas*
 - \[noun\], instrumental, singular, masculine
 - “fear.”
 ------------------------------------------------------------------------
@@ -42,42 +42,42 @@ title = "Rig Veda 5.40.7"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *gārīt* \< *gṛ*
+- *gārīt* ← *gṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “devour; swallow; surround.”
 ------------------------------------------------------------------------
-- *tvam* \< *tvad*
+- *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mitro* \< *mitraḥ* \< *mitra*
+- *mitro* ← *mitraḥ* ← *mitra*
 - \[noun\], nominative, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *satyarādhās* \< *satya*
+- *satyarādhās* ← *satya*
 - \[noun\]
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------
-- *satyarādhās* \< *rādhāḥ* \< *rādhas*
+- *satyarādhās* ← *rādhāḥ* ← *rādhas*
 - \[noun\], nominative, singular, masculine
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------
-- *tau* \< *tad*
+- *tau* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mehāvataṃ* \< *mā* \< *mad*
+- *mehāvataṃ* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *mehāvataṃ* \< *iha*
+- *mehāvataṃ* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------

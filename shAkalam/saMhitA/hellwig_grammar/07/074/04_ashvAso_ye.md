@@ -2,15 +2,15 @@
 title = "Rig Veda 7.74.4"
 
 +++
--   *aśvāso* \< *aśvāsaḥ* \< *aśva*
+-   *aśvāso* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
@@ -18,52 +18,52 @@ title = "Rig Veda 7.74.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dāśuṣo* \< *dāśuṣaḥ* \< *dāś*
+- *dāśuṣo* ← *dāśuṣaḥ* ← *dāś*
 - \[verb noun\], genitive, singular
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *gṛhaṃ* \< *gṛham* \< *gṛha*
+- *gṛhaṃ* ← *gṛham* ← *gṛha*
 - \[noun\], accusative, singular, neuter
 - “house; palace; temple; home; place; family; family; stable.”
 ------------------------------------------------------------------------
-- *yuvāṃ* \< *yuvām* \< *tvad*
+- *yuvāṃ* ← *yuvām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dīyanti* \< *dī*
+- *dīyanti* ← *dī*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *bibhrataḥ* \< *bhṛ*
+- *bibhrataḥ* ← *bhṛ*
 - \[verb noun\], nominative, plural
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *makṣūyubhir* \< *makṣūyubhiḥ* \< *makṣūyu*
+- *makṣūyubhir* ← *makṣūyubhiḥ* ← *makṣūyu*
 - \[noun\], instrumental, plural, masculine
 - “rapid.”
 ------------------------------------------------------------------------
-- *narā* \< *nṛ*
+- *narā* ← *nṛ*
 - \[noun\], vocative, dual, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *hayebhir* \< *hayebhiḥ* \< *haya*
+- *hayebhir* ← *hayebhiḥ* ← *haya*
 - \[noun\], instrumental, plural, masculine
 - “horse; Haya.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *devā* \< *deva*
+- *devā* ← *deva*
 - \[noun\], vocative, dual, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *yātam* \< *yā*
+- *yātam* ← *yā*
 - \[verb\], dual, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *asmayū* \< *asmayu*
+- *asmayū* ← *asmayu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------

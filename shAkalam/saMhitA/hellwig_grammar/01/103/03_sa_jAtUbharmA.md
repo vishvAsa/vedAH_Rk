@@ -2,32 +2,32 @@
 title = "Rig Veda 1.103.3"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *jātūbharmā* \< *jātūbharman*
+- *jātūbharmā* ← *jātūbharman*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śraddadhāna* \< *śraddadhānaḥ* \< *śraddhā* \< *√dhā*
+- *śraddadhāna* ← *śraddadhānaḥ* ← *śraddhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “believe; assent; trust.”
 ------------------------------------------------------------------------
-- *ojaḥ* \< *ojas*
+- *ojaḥ* ← *ojas*
 - \[noun\], accusative, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *vibhindann* \< *vibhindan* \< *vibhid* \< *√bhid*
+- *vibhindann* ← *vibhindan* ← *vibhid* ← *√bhid*
 - \[verb noun\], nominative, singular
 - “cleave; incise.”
 ------------------------------------------------------------------------
-- *acarad* \< *acarat* \< *car*
+- *acarad* ← *acarat* ← *car*
 - \[verb\], singular, Imperfect
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -37,11 +37,11 @@ title = "Rig Veda 1.103.3"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *dāsīḥ* \< *dāsa*
+- *dāsīḥ* ← *dāsa*
 - \[noun\], accusative, plural, feminine
 - “dāsa(a).”
 ------------------------------------------------------------------------
-- *vidvān* \< *vid*
+- *vidvān* ← *vid*
 - \[verb noun\], nominative, singular
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
@@ -50,31 +50,31 @@ title = "Rig Veda 1.103.3"
 - \[noun\], vocative, singular, masculine
 - “Indra; vajra; Euphorbia neriifolia L.; abhra; Buddha.”
 ------------------------------------------------------------------------
-- *dasyave* \< *dasyu*
+- *dasyave* ← *dasyu*
 - \[noun\], dative, singular, masculine
 - “savage; outcast; mugger.”
 ------------------------------------------------------------------------
-- *hetim* \< *heti*
+- *hetim* ← *heti*
 - \[noun\], accusative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *asyāryaṃ* \< *asya* \< *as*
+- *asyāryaṃ* ← *asya* ← *as*
 - \[verb\], singular, Present imperative
 - “shoot; remove.”
 ------------------------------------------------------------------------
-- *asyāryaṃ* \< *āryam* \< *ārya*
+- *asyāryaṃ* ← *āryam* ← *ārya*
 - \[noun\], accusative, singular, neuter
 - “noble; noble; Indo-European; ārya \[word\]; honorable; noble.”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *vardhayā* \< *vardhay* \< *√vṛdh*
+- *vardhayā* ← *vardhay* ← *√vṛdh*
 - \[verb\], singular, Present imperative
 - “increase; strengthen; promote; rear; add; greet; laud.”
 ------------------------------------------------------------------------
-- *dyumnam* \< *dyumna*
+- *dyumnam* ← *dyumna*
 - \[noun\], accusative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------

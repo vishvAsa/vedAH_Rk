@@ -2,36 +2,36 @@
 title = "Rig Veda 10.75.5"
 
 +++
--   *imam* \< *idam*
+-   *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *gaṅge* \< *gaṅgā*
+- *gaṅge* ← *gaṅgā*
 - \[noun\], vocative, singular, feminine
 - “Ganges.”
 ------------------------------------------------------------------------
-- *yamune* \< *yamunā*
+- *yamune* ← *yamunā*
 - \[noun\], vocative, singular, feminine
 - “Yamunā.”
 ------------------------------------------------------------------------
-- *sarasvati* \< *sarasvatī*
+- *sarasvati* ← *sarasvatī*
 - \[noun\], vocative, singular, feminine
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *śutudri* \< *śutudrī*
+- *śutudri* ← *śutudrī*
 - \[noun\], vocative, singular, feminine
 - “Sutlej/Śatadru.”
 ------------------------------------------------------------------------
-- *stomaṃ* \< *stomam* \< *stoma*
+- *stomaṃ* ← *stomam* ← *stoma*
 - \[noun\], accusative, singular, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *sacatā* \< *sacata* \< *sac*
+- *sacatā* ← *sacata* ← *sac*
 - \[verb\], plural, Present imperative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------

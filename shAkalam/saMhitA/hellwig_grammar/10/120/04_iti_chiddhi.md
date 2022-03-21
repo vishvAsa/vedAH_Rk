@@ -6,57 +6,57 @@ title = "Rig Veda 10.120.4"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *ciddhi* \< *cit*
+- *ciddhi* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *ciddhi* \< *hi*
+- *ciddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dhanā* \< *dhana*
+- *dhanā* ← *dhana*
 - \[noun\], accusative, plural, neuter
 - “wealth; property; money; treasure; prize; dhana \[word\]; valuable;
     dhan; capital; fight.”
 ------------------------------------------------------------------------
-- *jayantam* \< *ji*
+- *jayantam* ← *ji*
 - \[verb noun\], accusative, singular
 - “overcome; cure; win; conquer; control; win; succeed; remove; beat;
     govern; surpass; suppress.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *anumadanti* \< *anumad* \< *√mad*
+- *anumadanti* ← *anumad* ← *√mad*
 - \[verb\], plural, Present indikative
 - “praise; cheer; applaud.”
 ------------------------------------------------------------------------
-- *viprāḥ* \< *vipra*
+- *viprāḥ* ← *vipra*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *ojīyo* \< *ojīyaḥ* \< *ojīyas*
+- *ojīyo* ← *ojīyaḥ* ← *ojīyas*
 - \[noun\], accusative, singular, neuter
 - “stronger.”
 ------------------------------------------------------------------------
-- *dhṛṣṇo* \< *dhṛṣṇu*
+- *dhṛṣṇo* ← *dhṛṣṇu*
 - \[noun\], vocative, singular, masculine
 - “brave; ferocious; strong.”
 ------------------------------------------------------------------------
-- *sthiram* \< *sthira*
+- *sthiram* ← *sthira*
 - \[noun\], accusative, singular, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
@@ -66,7 +66,7 @@ title = "Rig Veda 10.120.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *tanuṣva* \< *tan*
+- *tanuṣva* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
@@ -75,18 +75,18 @@ title = "Rig Veda 10.120.4"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *dabhan* \< *dabh*
+- *dabhan* ← *dabh*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------
-- *yātudhānā* \< *yātudhānāḥ* \< *yātudhāna*
+- *yātudhānā* ← *yātudhānāḥ* ← *yātudhāna*
 - \[noun\], nominative, plural, masculine
 - “sorcerer; Rākṣasa; Yātudhāna; rākṣasavaktravant.”
 ------------------------------------------------------------------------
-- *durevāḥ* \< *dureva*
+- *durevāḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------

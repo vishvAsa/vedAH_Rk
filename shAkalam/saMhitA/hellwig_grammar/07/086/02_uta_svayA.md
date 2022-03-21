@@ -6,25 +6,25 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *svayā* \< *sva*
+- *svayā* ← *sva*
 - \[noun\], instrumental, singular, feminine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *tanvā* \< *tanū*
+- *tanvā* ← *tanū*
 - \[noun\], instrumental, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *vade* \< *vad*
+- *vade* ← *vad*
 - \[verb\], singular, Present indikative
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
 ------------------------------------------------------------------------
-- *tat* \< *tad*
+- *tat* ← *tad*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -34,7 +34,7 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *nv* \< *nu*
+- *nv* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -42,12 +42,12 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “inside; in; antar \[word\]; midmost; between; among.”
 ------------------------------------------------------------------------
-- *varuṇe* \< *varuṇa*
+- *varuṇe* ← *varuṇa*
 - \[noun\], locative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *bhuvāni* \< *bhū*
+- *bhuvāni* ← *bhū*
 - \[verb\], singular, Aorist conj./subj.
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -58,23 +58,23 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “why; ka \[pronoun\]; if; how.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *havyam* \< *havya*
+- *havyam* ← *havya*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *ahṛṇāno* \< *a*
+- *ahṛṇāno* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ahṛṇāno* \< *hṛṇānaḥ* \< *hṛ*
+- *ahṛṇāno* ← *hṛṇānaḥ* ← *hṛ*
 - \[verb noun\], nominative, singular
 - “anger.”
 ------------------------------------------------------------------------
-- *juṣeta* \< *juṣ*
+- *juṣeta* ← *juṣ*
 - \[verb\], singular, Present optative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
@@ -83,11 +83,11 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “when; kadā \[word\].”
 ------------------------------------------------------------------------
-- *mṛﾱīkaṃ* \< *mṛﾱīkam* \< *mṛḍīka*
+- *mṛﾱīkaṃ* ← *mṛﾱīkam* ← *mṛḍīka*
 - \[noun\], accusative, singular, neuter
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *sumanā* \< *sumanāḥ* \< *sumanas*
+- *sumanā* ← *sumanāḥ* ← *sumanas*
 - \[noun\], nominative, singular, masculine
 - “benevolent; cheerful; happy; satisfied.”
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ title = "Rig Veda 7.86.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *khyam* \< *khyā*
+- *khyam* ← *khyā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------

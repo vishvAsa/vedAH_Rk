@@ -2,46 +2,46 @@
 title = "Rig Veda 8.1.29"
 
 +++
--   *mama* \< *mad*
+-   *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *sūra* \< *sūre* \< *sūra*
+- *sūra* ← *sūre* ← *sūra*
 - \[noun\], locative, singular, masculine
 - “sun.”
 ------------------------------------------------------------------------
-- *udite* \< *udi* \< *√i*
+- *udite* ← *udi* ← *√i*
 - \[verb noun\], locative, singular
 - “rise; originate; rise; increase.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *madhyandine* \< *madhyaṃdina*
+- *madhyandine* ← *madhyaṃdina*
 - \[noun\], locative, singular, masculine
 - “noon; Pentapetes phoenicea Linn..”
 ------------------------------------------------------------------------
-- *divaḥ* \< *div*
+- *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *mama* \< *mad*
+- *mama* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *prapitve* \< *prapitva*
+- *prapitve* ← *prapitva*
 - \[noun\], locative, singular, neuter
 - “beginning.”
 ------------------------------------------------------------------------
-- *apiśarvare* \< *apiśarvara*
+- *apiśarvare* ← *apiśarvara*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------
-- *vasav* \< *vaso* \< *vasu*
+- *vasav* ← *vaso* ← *vasu*
 - \[noun\], vocative, singular, masculine
 - “good; good; benign; vasu \[word\].”
 ------------------------------------------------------------------------
@@ -49,11 +49,11 @@ title = "Rig Veda 8.1.29"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *stomāso* \< *stomāsaḥ* \< *stoma*
+- *stomāso* ← *stomāsaḥ* ← *stoma*
 - \[noun\], nominative, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *avṛtsata* \< *vṛdh*
+- *avṛtsata* ← *vṛdh*
 - \[verb\], plural, Athematic s aor. (Ind.)
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

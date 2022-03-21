@@ -2,11 +2,11 @@
 title = "Rig Veda 2.35.8"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *apsv* \< *apsu* \< *ap*
+- *apsv* ← *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -14,19 +14,19 @@ title = "Rig Veda 2.35.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *śucinā* \< *śuci*
+- *śucinā* ← *śuci*
 - \[noun\], instrumental, singular, masculine
 - “Asarh; śuci; Jeth; fire; Agni; gleam.”
 ------------------------------------------------------------------------
-- *daivyena* \< *daivya*
+- *daivyena* ← *daivya*
 - \[noun\], instrumental, singular, masculine
 - “divine; divine; celestial.”
 ------------------------------------------------------------------------
-- *ṛtāvājasra* \< *ṛtāvā* \< *ṛtāvan*
+- *ṛtāvājasra* ← *ṛtāvā* ← *ṛtāvan*
 - \[noun\], nominative, singular, masculine
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *ṛtāvājasra* \< *ajasraḥ* \< *ajasra*
+- *ṛtāvājasra* ← *ajasraḥ* ← *ajasra*
 - \[noun\], nominative, singular, masculine
 - “ceaseless; ageless; incessant.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 2.35.8"
 - \[adverb\]
 - “wide; widely.”
 ------------------------------------------------------------------------
-- *vibhāti* \< *vibhā* \< *√bhā*
+- *vibhāti* ← *vibhā* ← *√bhā*
 - \[verb\], singular, Present indikative
 - “shine.”
 ------------------------------------------------------------------------
-- *vayā* \< *vayāḥ* \< *vayā*
+- *vayā* ← *vayāḥ* ← *vayā*
 - \[noun\], nominative, plural, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
@@ -46,16 +46,16 @@ title = "Rig Veda 2.35.8"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *anyā* \< *anya*
+- *anyā* ← *anya*
 - \[noun\], nominative, plural, neuter
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *bhuvanāny* \< *bhuvanāni* \< *bhuvana*
+- *bhuvanāny* ← *bhuvanāni* ← *bhuvana*
 - \[noun\], nominative, plural, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -63,13 +63,13 @@ title = "Rig Veda 2.35.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *jāyante* \< *jan*
+- *jāyante* ← *jan*
 - \[verb\], plural, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *vīrudhaś* \< *vīrudhaḥ* \< *vīrudh*
+- *vīrudhaś* ← *vīrudhaḥ* ← *vīrudh*
 - \[noun\], nominative, plural, feminine
 - “plant; shrub.”
 ------------------------------------------------------------------------
@@ -77,7 +77,7 @@ title = "Rig Veda 2.35.8"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *prajābhiḥ* \< *prajā*
+- *prajābhiḥ* ← *prajā*
 - \[noun\], instrumental, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”

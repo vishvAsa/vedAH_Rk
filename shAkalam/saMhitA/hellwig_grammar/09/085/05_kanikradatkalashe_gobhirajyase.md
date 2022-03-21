@@ -2,28 +2,28 @@
 title = "Rig Veda 9.85.5"
 
 +++
--   *kanikradat* \< *kanikrad* \< *√krand*
+-   *kanikradat* ← *kanikrad* ← *√krand*
 - \[verb noun\], nominative, singular
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *kalaśe* \< *kalaśa*
+- *kalaśe* ← *kalaśa*
 - \[noun\], locative, singular, masculine
 - “jar.”
 ------------------------------------------------------------------------
-- *gobhir* \< *gobhiḥ* \< *go*
+- *gobhir* ← *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ajyase* \< *añj*
+- *ajyase* ← *añj*
 - \[verb\], singular, Indikativ Pr￤s. Passiv
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *avyayaṃ* \< *avyayam* \< *avyaya*
+- *avyayaṃ* ← *avyayam* ← *avyaya*
 - \[noun\], accusative, singular, masculine
 - “sheep.”
 ------------------------------------------------------------------------
@@ -31,19 +31,19 @@ title = "Rig Veda 9.85.5"
 - \[adverb\]
 - “near.”
 ------------------------------------------------------------------------
-- *vāram* \< *vāra*
+- *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
-- *arṣasi* \< *ṛṣ*
+- *arṣasi* ← *ṛṣ*
 - \[verb\], singular, Present indikative
 - “run.”
 ------------------------------------------------------------------------
-- *marmṛjyamāno* \< *marmṛjyamānaḥ* \< *marmṛj* \< *√mṛj*
+- *marmṛjyamāno* ← *marmṛjyamānaḥ* ← *marmṛj* ← *√mṛj*
 - \[verb noun\], nominative, singular
 - “groom; wash; rub.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -51,11 +51,11 @@ title = "Rig Veda 9.85.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sānasir* \< *sānasiḥ* \< *sānasi*
+- *sānasir* ← *sānasiḥ* ← *sānasi*
 - \[noun\], nominative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *indrasya* \< *indra*
+- *indrasya* ← *indra*
 - \[noun\], genitive, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -64,7 +64,7 @@ title = "Rig Veda 9.85.5"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *jaṭhare* \< *jaṭhara*
+- *jaṭhare* ← *jaṭhara*
 - \[noun\], locative, singular, neuter
 - “abdomen; udara; Jaṭhara; edema; garbha; inside; stomach; belly.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 9.85.5"
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *akṣaraḥ* \< *kṣar*
+- *akṣaraḥ* ← *kṣar*
 - \[verb\], singular, Imperfect
 - “run; melt.”
 ------------------------------------------------------------------------

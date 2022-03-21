@@ -2,23 +2,23 @@
 title = "Rig Veda 10.129.5"
 
 +++
--   *tiraścīno* \< *tiraścīnaḥ* \< *tiraścīna*
+-   *tiraścīno* ← *tiraścīnaḥ* ← *tiraścīna*
 - \[noun\], nominative, singular, masculine
 - “horizontal; cross(a).”
 ------------------------------------------------------------------------
-- *vitato* \< *vitataḥ* \< *vitan* \< *√tan*
+- *vitato* ← *vitataḥ* ← *vitan* ← *√tan*
 - \[verb noun\], nominative, singular
 - “expand; perform; scatter; prolong; increase.”
 ------------------------------------------------------------------------
-- *raśmir* \< *raśmiḥ* \< *raśmi*
+- *raśmir* ← *raśmiḥ* ← *raśmi*
 - \[noun\], nominative, singular, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *adhaḥ* \< *adhas*
+- *adhaḥ* ← *adhas*
 - \[adverb\]
 - “below; down; adhas \[word\].”
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ title = "Rig Veda 10.129.5"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *āsīd* \< *āsīt* \< *as*
+- *āsīd* ← *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -39,29 +39,29 @@ title = "Rig Veda 10.129.5"
 - \[adverb\]
 - “svid \[word\].”
 ------------------------------------------------------------------------
-- *āsīt* \< *as*
+- *āsīt* ← *as*
 - \[verb\], singular, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *retodhā* \< *retaḥ* \< *retas*
+- *retodhā* ← *retaḥ* ← *retas*
 - \[noun\], neuter
 - “semen; sperm.”
 ------------------------------------------------------------------------
-- *retodhā* \< *dhāḥ* \< *dhā*
+- *retodhā* ← *dhāḥ* ← *dhā*
 - \[noun\], nominative, plural, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *āsan* \< *as*
+- *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *mahimāna* \< *mahimānaḥ* \< *mahiman*
+- *mahimāna* ← *mahimānaḥ* ← *mahiman*
 - \[noun\], nominative, plural, masculine
 - “greatness; power; mahiman.”
 ------------------------------------------------------------------------
-- *āsan* \< *as*
+- *āsan* ← *as*
 - \[verb\], plural, Imperfect
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -75,7 +75,7 @@ title = "Rig Veda 10.129.5"
 - \[adverb\]
 - “below.”
 ------------------------------------------------------------------------
-- *prayatiḥ* \< *prayati*
+- *prayatiḥ* ← *prayati*
 - \[noun\], nominative, singular, feminine
 - “offering.”
 ------------------------------------------------------------------------

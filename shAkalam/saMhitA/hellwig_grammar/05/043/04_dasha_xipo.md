@@ -2,15 +2,15 @@
 title = "Rig Veda 5.43.4"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], nominative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *kṣipo* \< *kṣipaḥ* \< *kṣip*
+- *kṣipo* ← *kṣipaḥ* ← *kṣip*
 - \[noun\], nominative, plural, feminine
 - “finger.”
 ------------------------------------------------------------------------
-- *yuñjate* \< *yuj*
+- *yuñjate* ← *yuj*
 - \[verb\], plural, Present indikative
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -18,11 +18,11 @@ title = "Rig Veda 5.43.4"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *bāhū* \< *bāhu*
+- *bāhū* ← *bāhu*
 - \[noun\], nominative, dual, masculine
 - “arm; bāhu \[word\]; elbow; forefoot.”
 ------------------------------------------------------------------------
-- *adriṃ* \< *adrim* \< *adri*
+- *adriṃ* ← *adrim* \< *adri*
 - \[noun\], accusative, singular, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------

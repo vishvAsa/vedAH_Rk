@@ -2,23 +2,23 @@
 title = "Rig Veda 8.59.1"
 
 +++
--   *imāni* \< *idam*
+-   *imāni* ← *idam*
 - \[noun\], nominative, plural, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *bhāgadheyāni* \< *bhāgadheya*
+- *bhāgadheyāni* ← *bhāgadheya*
 - \[noun\], nominative, plural, neuter
 - “parcel; bhāgadheya \[word\]; Destiny; destiny.”
 ------------------------------------------------------------------------
-- *sisrata* \< *sisrate* \< *sṛ*
+- *sisrata* ← *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *indrāvaruṇā* \< *indrāvaruṇa*
+- *indrāvaruṇā* ← *indrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Indra.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 8.59.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mahe* \< *mah*
+- *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *suteṣu* \< *suta*
+- *suteṣu* ← *suta*
 - \[noun\], locative, plural, masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *yajñe* \< *yajña*
+- *yajñe* ← *yajña*
 - \[noun\], locative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -50,11 +50,11 @@ title = "Rig Veda 8.59.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *savanā* \< *savana*
+- *savanā* ← *savana*
 - \[noun\], accusative, plural, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
-- *bhuraṇyatho* \< *bhuraṇyathaḥ* \< *bhuraṇy*
+- *bhuraṇyatho* ← *bhuraṇyathaḥ* ← *bhuraṇy*
 - \[verb\], dual, Present indikative
 - “be active.”
 ------------------------------------------------------------------------
@@ -62,15 +62,15 @@ title = "Rig Veda 8.59.1"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sunvate* \< *su*
+- *sunvate* ← *su*
 - \[verb noun\], dative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
-- *yajamānāya* \< *yaj*
+- *yajamānāya* ← *yaj*
 - \[verb noun\], dative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *śikṣathaḥ* \< *śikṣ*
+- *śikṣathaḥ* ← *śikṣ*
 - \[verb\], dual, Present indikative
 - “help; give.”
 ------------------------------------------------------------------------

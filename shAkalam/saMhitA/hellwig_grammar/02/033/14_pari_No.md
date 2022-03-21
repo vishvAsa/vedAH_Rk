@@ -6,38 +6,38 @@ title = "Rig Veda 2.33.14"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *ṇo* \< *naḥ* \< *mad*
+- *ṇo* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hetī* \< *hetiḥ* \< *heti*
+- *hetī* ← *hetiḥ* ← *heti*
 - \[noun\], nominative, singular, feminine
 - “projectile; heti \[word\].”
 ------------------------------------------------------------------------
-- *rudrasya* \< *rudra*
+- *rudrasya* ← *rudra*
 - \[noun\], genitive, singular, masculine
 - “Shiva; Rudra; eleven; rudra \[word\]; eleventh.”
 ------------------------------------------------------------------------
-- *vṛjyāḥ* \< *vṛj*
+- *vṛjyāḥ* ← *vṛj*
 - \[verb\], singular, Prekativ
 ------------------------------------------------------------------------
 - *pari*
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *tveṣasya* \< *tveṣa*
+- *tveṣasya* ← *tveṣa*
 - \[noun\], genitive, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *durmatir* \< *durmatiḥ* \< *durmati*
+- *durmatir* ← *durmatiḥ* ← *durmati*
 - \[noun\], nominative, singular, feminine
 - “hate; envy.”
 ------------------------------------------------------------------------
-- *mahī* \< *mah*
+- *mahī* ← *mah*
 - \[noun\], nominative, singular, feminine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *gāt* \< *gā*
+- *gāt* ← *gā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
@@ -45,34 +45,34 @@ title = "Rig Veda 2.33.14"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *sthirā* \< *sthira*
+- *sthirā* ← *sthira*
 - \[noun\], accusative, plural, neuter
 - “firm; hard; lasting; calm; stable; immovable; firm; strong; sthira
     \[word\]; vegetable; potent; steadfast; durable; firm; trustworthy;
     trustworthy; diligent.”
 ------------------------------------------------------------------------
-- *maghavadbhyas* \< *maghavadbhyaḥ* \< *maghavan*
+- *maghavadbhyas* ← *maghavadbhyaḥ* ← *maghavan*
 - \[noun\], dative, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *tanuṣva* \< *tan*
+- *tanuṣva* ← *tan*
 - \[verb\], singular, Present imperative
 - “expand; perform; cause; increase; write; spread; produce; spread;
     speak; propagate.”
 ------------------------------------------------------------------------
-- *mīḍhvas* \< *mīḍhvaḥ* \< *mīḍhvas*
+- *mīḍhvas* ← *mīḍhvaḥ* ← *mīḍhvas*
 - \[noun\], vocative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayāya* \< *tanaya*
+- *tanayāya* ← *tanaya*
 - \[noun\], dative, singular, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *mṛḍa* \< *mṛḍ*
+- *mṛḍa* ← *mṛḍ*
 - \[verb\], singular, Present imperative
 - “pardon.”
 ------------------------------------------------------------------------

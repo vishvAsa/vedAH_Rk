@@ -2,54 +2,54 @@
 title = "Rig Veda 10.13.4"
 
 +++
--   *devebhyaḥ* \< *deva*
+-   *devebhyaḥ* ← *deva*
 - \[noun\], dative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *avṛṇīta* \< *vṛ*
+- *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *mṛtyum* \< *mṛtyu*
+- *mṛtyum* ← *mṛtyu*
 - \[noun\], accusative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *prajāyai* \< *prajā*
+- *prajāyai* ← *prajā*
 - \[noun\], dative, singular, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *kam* \< *kaṃ*
+- *kam* ← *kaṃ*
 - \[adverb\]
 - “kaṃ \[word\].”
 ------------------------------------------------------------------------
-- *amṛtaṃ* \< *amṛtam* \< *amṛta*
+- *amṛtaṃ* ← *amṛtam* ← *amṛta*
 - \[noun\], accusative, singular, neuter
 - “amṛta; immortality; vatsanābha; ambrosia; mercury; medicine;
     vighasa; calcium hydroxide.”
 ------------------------------------------------------------------------
-- *nāvṛṇīta* \< *na*
+- *nāvṛṇīta* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāvṛṇīta* \< *avṛṇīta* \< *vṛ*
+- *nāvṛṇīta* ← *avṛṇīta* ← *vṛ*
 - \[verb\], singular, Imperfect
 - “choose; ask.”
 ------------------------------------------------------------------------
-- *bṛhaspatiṃ* \< *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatiṃ* ← *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *akṛṇvata* \< *kṛ*
+- *akṛṇvata* ← *kṛ*
 - \[verb\], plural, Imperfect
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -60,24 +60,24 @@ title = "Rig Veda 10.13.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ṛṣim* \< *ṛṣi*
+- *ṛṣim* ← *ṛṣi*
 - \[noun\], accusative, singular, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *priyāṃ* \< *priyām* \< *priya*
+- *priyāṃ* ← *priyām* ← *priya*
 - \[noun\], accusative, singular, feminine
 - “beloved; pleasant; dear; fond(p); wanted; priya \[word\]; favorite;
     good; liked; suitable; proper.”
 ------------------------------------------------------------------------
-- *yamas* \< *yamaḥ* \< *yama*
+- *yamas* ← *yamaḥ* ← *yama*
 - \[noun\], nominative, singular, masculine
 - “Yama; yama; twin; yam; Yama; two; bridle; yama \[word\]; Asvins.”
 ------------------------------------------------------------------------
-- *tanvam* \< *tanū*
+- *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *prārirecīt* \< *praric* \< *√ric*
+- *prārirecīt* ← *praric* ← *√ric*
 - \[verb\], singular, Plusquamperfect
 - “propagate.”
 ------------------------------------------------------------------------

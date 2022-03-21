@@ -6,7 +6,7 @@ title = "Rig Veda 10.33.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *devānām* \< *deva*
+- *devānām* ← *deva*
 - \[noun\], genitive, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -15,16 +15,16 @@ title = "Rig Veda 10.33.9"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *vrataṃ* \< *vratam* \< *vrata*
+- *vrataṃ* ← *vratam* ← *vrata*
 - \[noun\], accusative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *śatātmā* \< *śata*
+- *śatātmā* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatātmā* \< *ātmā* \< *ātman*
+- *śatātmā* ← *ātmā* ← *ātman*
 - \[noun\], nominative, singular, masculine
 - “self; nature; Ātman; mind; soul; self; body; character; ātman
     \[word\]; person; life; peculiarity.”
@@ -33,7 +33,7 @@ title = "Rig Veda 10.33.9"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *jīvati* \< *jīv*
+- *jīvati* ← *jīv*
 - \[verb\], singular, Present indikative
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------
@@ -42,7 +42,7 @@ title = "Rig Veda 10.33.9"
 - “and; thus; besides; very well; so; then; in that manner; now;
     therefore; however; so.”
 ------------------------------------------------------------------------
-- *yujā* \< *yuj*
+- *yujā* ← *yuj*
 - \[noun\], instrumental, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 10.33.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vāvṛte* \< *vṛt*
+- *vāvṛte* ← *vṛt*
 - \[verb\], singular, Perfect indicative
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

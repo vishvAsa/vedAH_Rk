@@ -2,11 +2,11 @@
 title = "Rig Veda 9.11.6"
 
 +++
--   *namased* \< *namasā* \< *namas*
+-   *namased* ← *namasā* ← *namas*
 - \[noun\], instrumental, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *namased* \< *id*
+- *namased* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -14,16 +14,16 @@ title = "Rig Veda 9.11.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *sīdata* \< *sad*
+- *sīdata* ← *sad*
 - \[verb\], plural, Present imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *dadhned* \< *dadhnā* \< *dadhi*
+- *dadhned* ← *dadhnā* ← *dadhi*
 - \[noun\], instrumental, singular, neuter
 - “sour milk; curd; dadhi \[word\].”
 ------------------------------------------------------------------------
-- *dadhned* \< *id*
+- *dadhned* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
@@ -31,21 +31,21 @@ title = "Rig Veda 9.11.6"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *śrīṇītana* \< *śrī*
+- *śrīṇītana* ← *śrī*
 - \[verb\], plural, Present imperative
 - “cook; boil; heat; cook; mix.”
 ------------------------------------------------------------------------
-- *indum* \< *indu*
+- *indum* ← *indu*
 - \[noun\], accusative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *indre* \< *indra*
+- *indre* ← *indra*
 - \[noun\], locative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *dadhātana* \< *dhā*
+- *dadhātana* ← *dhā*
 - \[verb\], plural, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

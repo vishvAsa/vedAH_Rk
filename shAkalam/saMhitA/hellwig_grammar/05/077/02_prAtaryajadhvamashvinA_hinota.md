@@ -6,15 +6,15 @@ title = "Rig Veda 5.77.2"
 - \[adverb\]
 - “at dawn; early.”
 ------------------------------------------------------------------------
-- *yajadhvam* \< *yaj*
+- *yajadhvam* ← *yaj*
 - \[verb\], plural, Present imperative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], accusative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *hinota* \< *hi*
+- *hinota* ← *hi*
 - \[verb\], plural, Present imperative
 - “impel; send; spur; stimulate; urge.”
 ------------------------------------------------------------------------
@@ -22,47 +22,47 @@ title = "Rig Veda 5.77.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sāyam* \< *sāya*
+- *sāyam* ← *sāya*
 - \[noun\], accusative, singular, neuter
 - “evening; sāya \[word\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *devayā* \< *deva*
+- *devayā* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devayā* \< *yāḥ* \< *yā*
+- *devayā* ← *yāḥ* ← *yā*
 - \[noun\], nominative, singular, neuter
 - “going.”
 ------------------------------------------------------------------------
-- *ajuṣṭam* \< *a*
+- *ajuṣṭam* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *ajuṣṭam* \< *juṣṭam* \< *juṣ*
+- *ajuṣṭam* ← *juṣṭam* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *utānyo* \< *uta*
+- *utānyo* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *utānyo* \< *anyaḥ* \< *anya*
+- *utānyo* ← *anyaḥ* ← *anya*
 - \[noun\], nominative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajate* \< *yaj*
+- *yajate* ← *yaj*
 - \[verb\], singular, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
@@ -70,30 +70,30 @@ title = "Rig Veda 5.77.2"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cāvaḥ* \< *ca*
+- *cāvaḥ* ← *ca*
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *cāvaḥ* \< *āvaḥ* \< *vas*
+- *cāvaḥ* ← *āvaḥ* ← *vas*
 - \[verb\], singular, Root aorist (Ind.)
 - “dawn; shine.”
 ------------------------------------------------------------------------
-- *pūrvaḥ* \< *pūrva*
+- *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *pūrvo* \< *pūrvaḥ* \< *pūrva*
+- *pūrvo* ← *pūrvaḥ* ← *pūrva*
 - \[noun\], nominative, singular, masculine
 - “aforesaid(a); antecedent; previous(a); first; eastern; former(a);
     pūrva \[word\]; age-old; anterior; bygone; fore(a); predictive;
     firstborn; easterly; instrumental.”
 ------------------------------------------------------------------------
-- *yajamāno* \< *yajamānaḥ* \< *yaj*
+- *yajamāno* ← *yajamānaḥ* ← *yaj*
 - \[verb noun\], nominative, singular
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *vanīyān* \< *vanīyas*
+- *vanīyān* ← *vanīyas*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------

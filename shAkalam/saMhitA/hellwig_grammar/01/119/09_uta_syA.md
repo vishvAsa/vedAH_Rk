@@ -6,52 +6,52 @@ title = "Rig Veda 1.119.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *syā* \< *tya*
+- *syā* ← *tya*
 - \[noun\], nominative, singular, feminine
 - “that.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *madhuman* \< *madhumat*
+- *madhuman* ← *madhumat*
 - \[noun\], accusative, singular, neuter
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
-- *makṣikārapan* \< *makṣikā*
+- *makṣikārapan* ← *makṣikā*
 - \[noun\], nominative, singular, feminine
 - “fly.”
 ------------------------------------------------------------------------
-- *makṣikārapan* \< *arapat* \< *rap*
+- *makṣikārapan* ← *arapat* ← *rap*
 - \[verb\], singular, Imperfect
 - “whisper.”
 ------------------------------------------------------------------------
-- *made* \< *mada*
+- *made* ← *mada*
 - \[noun\], locative, singular, masculine
 - “drunkenness; mada; estrus; excitement; sexual arousal; alcohol;
     musth; mad; mada; ecstasy; pride; drink; joy; arrogance;
     vivification.”
 ------------------------------------------------------------------------
-- *somasyauśijo* \< *somasya* \< *soma*
+- *somasyauśijo* ← *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somasyauśijo* \< *auśijaḥ* \< *auśija*
+- *somasyauśijo* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *huvanyati* \< *huvany*
+- *huvanyati* ← *huvany*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------
-- *yuvaṃ* \< *yuvam* \< *tvad*
+- *yuvaṃ* ← *yuvam* ← *tvad*
 - \[noun\], nominative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *dadhīco* \< *dadhīcaḥ* \< *dadhyac*
+- *dadhīco* ← *dadhīcaḥ* ← *dadhyac*
 - \[noun\], genitive, singular, masculine
 - “Dadhyac.”
 ------------------------------------------------------------------------
-- *mana* \< *manaḥ* \< *manas*
+- *mana* ← *manaḥ* ← *manas*
 - \[noun\], accusative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -60,15 +60,15 @@ title = "Rig Veda 1.119.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vivāsatho* \< *vivāsathaḥ* \< *vivās* \< *√van*
+- *vivāsatho* ← *vivāsathaḥ* ← *vivās* ← *√van*
 - \[verb\], dual, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------
-- *'thā* \< *athā* \< *atha*
+- *'thā* ← *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *śiraḥ* \< *śiras*
+- *śiraḥ* ← *śiras*
 - \[noun\], nominative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
@@ -76,15 +76,15 @@ title = "Rig Veda 1.119.9"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *aśvyaṃ* \< *aśvyam* \< *aśvya*
+- *aśvyaṃ* ← *aśvyam* ← *aśvya*
 - \[noun\], nominative, singular, neuter
 - “equine.”
 ------------------------------------------------------------------------
-- *vadat* \< *vad*
+- *vadat* ← *vad*
 - \[verb\], singular, Present injunctive
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”

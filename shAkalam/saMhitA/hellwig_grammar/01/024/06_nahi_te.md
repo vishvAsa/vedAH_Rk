@@ -5,11 +5,11 @@ title = "Rig Veda 1.24.6"
 -   *nahi*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kṣatraṃ* \< *kṣatram* \< *kṣatra*
+- *kṣatraṃ* ← *kṣatram* ← *kṣatra*
 - \[noun\], accusative, singular, neuter
 - “Kshatriya; dominion; Kshatriya; kṣatra \[word\]; power.”
 ------------------------------------------------------------------------
@@ -17,7 +17,7 @@ title = "Rig Veda 1.24.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saho* \< *sahaḥ* \< *sahas*
+- *saho* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
@@ -25,48 +25,48 @@ title = "Rig Veda 1.24.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *manyuṃ* \< *manyum* \< *manyu*
+- *manyuṃ* ← *manyum* ← *manyu*
 - \[noun\], accusative, singular, feminine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *vayaś* \< *vayaḥ* \< *vayas*
+- *vayaś* ← *vayaḥ* ← *vayas*
 - \[noun\], accusative, singular, neuter
 - “age; vigor; old age; strength; vayas \[word\]; aging; power; youth;
     food.”
 ------------------------------------------------------------------------
-- *canāmī* \< *cana*
+- *canāmī* ← *cana*
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *canāmī* \< *amī* \< *adas*
+- *canāmī* ← *amī* ← *adas*
 - \[noun\], nominative, plural, masculine
 - “that; John Doe; yonder; from here.”
 ------------------------------------------------------------------------
-- *patayanta* \< *patayantaḥ* \< *patay* \< *√pat*
+- *patayanta* ← *patayantaḥ* ← *patay* ← *√pat*
 - \[verb noun\], nominative, plural
 - “fly.”
 ------------------------------------------------------------------------
-- *āpuḥ* \< *āp*
+- *āpuḥ* ← *āp*
 - \[verb\], plural, Perfect indicative
 - “enter (a state); get; reach; obtain; equal.”
 ------------------------------------------------------------------------
-- *nemā* \< *na*
+- *nemā* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nemā* \< *imāḥ* \< *idam*
+- *nemā* ← *imāḥ* ← *idam*
 - \[noun\], nominative, plural, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *āpo* \< *āpaḥ* \< *ap*
+- *āpo* ← *āpaḥ* ← *ap*
 - \[noun\], nominative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *animiṣaṃ* \< *animiṣam* \< *animiṣa*
+- *animiṣaṃ* ← *animiṣam* ← *animiṣa*
 - \[noun\], accusative, singular, neuter
 - “agaze.”
 ------------------------------------------------------------------------
-- *carantīr* \< *carantīḥ* \< *car*
+- *carantīr* ← *carantīḥ* ← *car*
 - \[verb noun\], nominative, plural
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -76,20 +76,20 @@ title = "Rig Veda 1.24.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vātasya* \< *vāta*
+- *vātasya* ← *vāta*
 - \[noun\], genitive, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *praminanty* \< *praminanti* \< *pramī* \< *√mī*
+- *praminanty* ← *praminanti* ← *pramī* ← *√mī*
 - \[verb\], plural, Present indikative
 - “destroy.”
 ------------------------------------------------------------------------
-- *abhvam* \< *abhva*
+- *abhvam* ← *abhva*
 - \[noun\], accusative, singular, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------

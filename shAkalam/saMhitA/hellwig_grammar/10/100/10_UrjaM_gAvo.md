@@ -2,50 +2,50 @@
 title = "Rig Veda 10.100.10"
 
 +++
--   *ūrjaṃ* \< *ūrjam* \< *ūrj*
+-   *ūrjaṃ* ← *ūrjam* ← *ūrj*
 - \[noun\], accusative, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], vocative, plural
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *yavase* \< *yavasa*
+- *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *pīvo* \< *pīvaḥ* \< *pīvas*
+- *pīvo* ← *pīvaḥ* ← *pīvas*
 - \[noun\], accusative, singular, neuter
 - “fat.”
 ------------------------------------------------------------------------
-- *attana* \< *ad*
+- *attana* ← *ad*
 - \[verb\], plural, Present imperative
 - “eat; devour.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yāḥ* \< *yad*
+- *yāḥ* ← *yad*
 - \[noun\], nominative, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *sadane* \< *sadana*
+- *sadane* ← *sadana*
 - \[noun\], locative, singular, neuter
 - “seat; weakness; inertness; dwelling; exhaustion; numbness; home;
     residence; seat; inanition; location.”
 ------------------------------------------------------------------------
-- *kośe* \< *kośa*
+- *kośe* ← *kośa*
 - \[noun\], locative, singular, masculine
 - “treasury; sheath; Kośa; scrotum; bud; vessel; kośa \[word\];
     treasure; calyx; container; bucket; box.”
 ------------------------------------------------------------------------
-- *aṅgdhve* \< *añj*
+- *aṅgdhve* ← *añj*
 - \[verb\], plural, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *tanūr* \< *tanūḥ* \< *tanū*
+- *tanūr* ← *tanūḥ* ← *tanū*
 - \[noun\], nominative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -54,7 +54,7 @@ title = "Rig Veda 10.100.10"
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *tanvo* \< *tanvaḥ* \< *tanū*
+- *tanvo* ← *tanvaḥ* \< *tanū*
 - \[noun\], genitive, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------

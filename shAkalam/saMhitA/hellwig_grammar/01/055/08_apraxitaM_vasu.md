@@ -2,11 +2,11 @@
 title = "Rig Veda 1.55.8"
 
 +++
--   *aprakṣitaṃ* \< *a*
+-   *aprakṣitaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aprakṣitaṃ* \< *prakṣitam* \< *prakṣi* \< *√kṣi*
+- *aprakṣitaṃ* ← *prakṣitam* ← *prakṣi* ← *√kṣi*
 - \[verb noun\], accusative, singular
 - “run down; emaciate; exhaust.”
 ------------------------------------------------------------------------
@@ -14,46 +14,46 @@ title = "Rig Veda 1.55.8"
 - \[noun\], accusative, singular, neuter
 - “wealth; property; gold; vasu \[word\]; ruby; treasure; jewel.”
 ------------------------------------------------------------------------
-- *bibharṣi* \< *bhṛ*
+- *bibharṣi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *hastayor* \< *hastayoḥ* \< *hasta*
+- *hastayor* ← *hastayoḥ* ← *hasta*
 - \[noun\], locative, dual, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *aṣāḍhaṃ* \< *a*
+- *aṣāḍhaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *aṣāḍhaṃ* \< *ṣāḍham* \< *sah*
+- *aṣāḍhaṃ* ← *ṣāḍham* ← *sah*
 - \[verb noun\], accusative, singular
 - “endure; overcome; habituate.”
 ------------------------------------------------------------------------
-- *sahas* \< *sahaḥ* \< *sahas*
+- *sahas* ← *sahaḥ* ← *sahas*
 - \[noun\], accusative, singular, neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *tanvi* \< *tanū*
+- *tanvi* ← *tanū*
 - \[noun\], locative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *śruto* \< *śrutaḥ* \< *śru*
+- *śruto* ← *śrutaḥ* ← *śru*
 - \[verb noun\], nominative, singular
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *dadhe* \< *dhā*
+- *dadhe* ← *dhā*
 - \[verb\], singular, Perfect indicative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *āvṛtāso* \< *āvṛtāsaḥ* \< *āvṛ* \< *√vṛ*
+- *āvṛtāso* ← *āvṛtāsaḥ* ← *āvṛ* ← *√vṛ*
 - \[verb noun\], nominative, plural
 - “envelop; accompany; surround; obstruct; cover; close; surround;
     endow; overwhelm; mix; coat.”
 ------------------------------------------------------------------------
-- *'vatāso* \< *avatāsaḥ* \< *avata*
+- *'vatāso* ← *avatāsaḥ* ← *avata*
 - \[noun\], nominative, plural, masculine
 - “well.”
 ------------------------------------------------------------------------
@@ -61,19 +61,19 @@ title = "Rig Veda 1.55.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *kartṛbhis* \< *kartṛbhiḥ* \< *kartṛ*
+- *kartṛbhis* ← *kartṛbhiḥ* ← *kartṛ*
 - \[noun\], instrumental, plural, masculine
 - “causing; making; doing; active.”
 ------------------------------------------------------------------------
-- *tanūṣu* \< *tanū*
+- *tanūṣu* ← *tanū*
 - \[noun\], locative, plural, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kratava* \< *kratavaḥ* \< *kratu*
+- *kratava* ← *kratavaḥ* ← *kratu*
 - \[noun\], nominative, plural, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -83,7 +83,7 @@ title = "Rig Veda 1.55.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *bhūrayaḥ* \< *bhūri*
+- *bhūrayaḥ* ← *bhūri*
 - \[noun\], nominative, plural, masculine
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------

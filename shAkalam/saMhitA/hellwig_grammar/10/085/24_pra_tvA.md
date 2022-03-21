@@ -6,11 +6,11 @@ title = "Rig Veda 10.85.24"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *muñcāmi* \< *muc*
+- *muñcāmi* ← *muc*
 - \[verb\], singular, Present indikative
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -18,24 +18,24 @@ title = "Rig Veda 10.85.24"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *varuṇasya* \< *varuṇa*
+- *varuṇasya* ← *varuṇa*
 - \[noun\], genitive, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *pāśād* \< *pāśāt* \< *pāśa*
+- *pāśād* ← *pāśāt* ← *pāśa*
 - \[noun\], ablative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *yena* \< *yad*
+- *yena* ← *yad*
 - \[noun\], instrumental, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *tvābadhnāt* \< *tvā* \< *tvad*
+- *tvābadhnāt* ← *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tvābadhnāt* \< *abadhnāt* \< *bandh*
+- *tvābadhnāt* ← *abadhnāt* ← *bandh*
 - \[verb\], singular, Imperfect
 - “bandh; tie; envelop; close; dress; wrap; bind; constipate; fixate;
     shape; paralyze; construct; bandage; compress; beset; oblige; strap;
@@ -43,42 +43,42 @@ title = "Rig Veda 10.85.24"
     obstruct; write; restrain; bind; persecute; enclose; ligature; fill
     into; fasten.”
 ------------------------------------------------------------------------
-- *savitā* \< *savitṛ*
+- *savitā* ← *savitṛ*
 - \[noun\], nominative, singular, masculine
 - “Savitar; sun; Surya; Savitṛ.”
 ------------------------------------------------------------------------
-- *suśevaḥ* \< *su*
+- *suśevaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suśevaḥ* \< *śevaḥ* \< *śeva*
+- *suśevaḥ* ← *śevaḥ* ← *śeva*
 - \[noun\], nominative, singular, masculine
 - “friendly; favorable; dear.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *yonau* \< *yoni*
+- *yonau* ← *yoni*
 - \[noun\], locative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *sukṛtasya* \< *sukṛta*
+- *sukṛtasya* ← *sukṛta*
 - \[noun\], genitive, singular, neuter
 - “merit; virtue; auspiciousness.”
 ------------------------------------------------------------------------
-- *loke* \< *loka*
+- *loke* ← *loka*
 - \[noun\], locative, singular, masculine
 - “Loka; Earth; world; vernacular; people; room; world; Earth; loka
     \[word\]; space; Loka; topographic point; region; common sense.”
 ------------------------------------------------------------------------
-- *'riṣṭāṃ* \< *ariṣṭām* \< *ariṣṭa*
+- *'riṣṭāṃ* ← *ariṣṭām* ← *ariṣṭa*
 - \[noun\], accusative, singular, feminine
 - “safe; unharmed.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -86,12 +86,12 @@ title = "Rig Veda 10.85.24"
 - \[adverb\]
 - “together; together; with; jointly; together; saha \[word\]; along.”
 ------------------------------------------------------------------------
-- *patyā* \< *pati*
+- *patyā* ← *pati*
 - \[noun\], instrumental, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *dadhāmi* \< *dhā*
+- *dadhāmi* ← *dhā*
 - \[verb\], singular, Present indikative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”

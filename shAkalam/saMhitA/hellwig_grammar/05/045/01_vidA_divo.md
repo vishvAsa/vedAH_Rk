@@ -2,7 +2,7 @@
 title = "Rig Veda 5.45.1"
 
 +++
--   *vidā* \< *vidāḥ* \< *vid*
+-   *vidā* ← *vidāḥ* \< *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------

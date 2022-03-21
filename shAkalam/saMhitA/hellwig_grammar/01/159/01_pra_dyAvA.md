@@ -6,11 +6,11 @@ title = "Rig Veda 1.159.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], accusative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *yajñaiḥ* \< *yajña*
+- *yajñaiḥ* ← *yajña*
 - \[noun\], instrumental, plural, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -18,64 +18,64 @@ title = "Rig Veda 1.159.1"
 - \[noun\], accusative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhā* \< *ṛtāvṛdh*
+- *ṛtāvṛdhā* ← *ṛtāvṛdh*
 - \[noun\], accusative, dual, feminine
 - “sincere.”
 ------------------------------------------------------------------------
-- *mahī* \< *mahi*
+- *mahī* ← *mahi*
 - \[noun\], accusative, dual, feminine
 - “great; firm.”
 ------------------------------------------------------------------------
-- *stuṣe* \< *stu*
+- *stuṣe* ← *stu*
 - \[verb\], singular, Present indikative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
-- *vidatheṣu* \< *vidatha*
+- *vidatheṣu* ← *vidatha*
 - \[noun\], locative, plural, neuter
 - “meeting; wisdom; council.”
 ------------------------------------------------------------------------
-- *pracetasā* \< *pracetas*
+- *pracetasā* ← *pracetas*
 - \[noun\], accusative, dual, feminine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, dual, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *devaputre* \< *deva*
+- *devaputre* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devaputre* \< *putre* \< *putra*
+- *devaputre* ← *putre* ← *putra*
 - \[noun\], nominative, dual, feminine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *sudaṃsasetthā* \< *su*
+- *sudaṃsasetthā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sudaṃsasetthā* \< *daṃsasā* \< *daṃsas*
+- *sudaṃsasetthā* ← *daṃsasā* ← *daṃsas*
 - \[noun\], nominative, dual, feminine
 ------------------------------------------------------------------------
-- *sudaṃsasetthā* \< *itthā*
+- *sudaṃsasetthā* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *dhiyā* \< *dhī*
+- *dhiyā* ← *dhī*
 - \[noun\], instrumental, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *vāryāṇi* \< *vārya*
+- *vāryāṇi* ← *vārya*
 - \[noun\], accusative, plural, neuter
 - “wealth.”
 ------------------------------------------------------------------------
-- *prabhūṣataḥ* \< *prabhūṣ* \< *√bhūṣ*
+- *prabhūṣataḥ* ← *prabhūṣ* ← *√bhūṣ*
 - \[verb\], dual, Present indikative
 ------------------------------------------------------------------------

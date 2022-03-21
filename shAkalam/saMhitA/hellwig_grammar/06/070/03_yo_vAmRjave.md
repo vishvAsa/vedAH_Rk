@@ -2,19 +2,19 @@
 title = "Rig Veda 6.70.3"
 
 +++
--   *yo* \< *yaḥ* \< *yad*
+-   *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], dative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ṛjave* \< *ṛju*
+- *ṛjave* ← *ṛju*
 - \[noun\], dative, singular, neuter
 - “honest; straight; straight; ṛju \[word\]; sincere; erect; upright.”
 ------------------------------------------------------------------------
-- *kramaṇāya* \< *kramaṇa*
+- *kramaṇāya* ← *kramaṇa*
 - \[noun\], dative, singular, neuter
 - “kram; behavior; step.”
 ------------------------------------------------------------------------
@@ -22,25 +22,25 @@ title = "Rig Veda 6.70.3"
 - \[noun\], vocative, dual, feminine
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *marto* \< *martaḥ* \< *marta*
+- *marto* ← *martaḥ* ← *marta*
 - \[noun\], nominative, singular, masculine
 - “man.”
 ------------------------------------------------------------------------
-- *dadāśa* \< *dāś*
+- *dadāśa* ← *dāś*
 - \[verb\], singular, Perfect indicative
 - “sacrifice; give.”
 ------------------------------------------------------------------------
-- *dhiṣaṇe* \< *dhiṣaṇā*
+- *dhiṣaṇe* ← *dhiṣaṇā*
 - \[noun\], vocative, dual, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sādhati* \< *sādh*
+- *sādhati* ← *sādh*
 - \[verb\], singular, Present indikative
 - “promote; succeed.”
 ------------------------------------------------------------------------
@@ -48,18 +48,18 @@ title = "Rig Veda 6.70.3"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prajābhir* \< *prajābhiḥ* \< *prajā*
+- *prajābhir* ← *prajābhiḥ* ← *prajā*
 - \[noun\], instrumental, plural, feminine
 - “people; offspring; being; national; man; prajā \[word\]; creature;
     child; descendants; population; race; animal.”
 ------------------------------------------------------------------------
-- *jāyate* \< *jan*
+- *jāyate* ← *jan*
 - \[verb\], singular, Present indikative
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *dharmaṇas* \< *dharmaṇaḥ* \< *dharman*
+- *dharmaṇas* ← *dharmaṇaḥ* ← *dharman*
 - \[noun\], ablative, singular, neuter
 - “regulation; Dharma; law; property.”
 ------------------------------------------------------------------------
@@ -67,18 +67,18 @@ title = "Rig Veda 6.70.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *yuvoḥ* \< *tvad*
+- *yuvoḥ* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *siktā* \< *sic*
+- *siktā* ← *sic*
 - \[verb noun\], nominative, plural
 - “submerge; sprinkle; pour; wet; decant; impregnate.”
 ------------------------------------------------------------------------
-- *viṣurūpāṇi* \< *viṣurūpa*
+- *viṣurūpāṇi* ← *viṣurūpa*
 - \[noun\], nominative, plural, neuter
 - “different; manifold.”
 ------------------------------------------------------------------------
-- *savratā* \< *savrata*
+- *savratā* ← *savrata*
 - \[noun\], nominative, plural, neuter
 ------------------------------------------------------------------------

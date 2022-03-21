@@ -2,49 +2,49 @@
 title = "Rig Veda 8.35.2"
 
 +++
--   *viśvābhir* \< *viśvābhiḥ* \< *viśva*
+-   *viśvābhir* ← *viśvābhiḥ* ← *viśva*
 - \[noun\], instrumental, plural, feminine
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *dhībhir* \< *dhībhiḥ* \< *dhī*
+- *dhībhir* ← *dhībhiḥ* ← *dhī*
 - \[noun\], instrumental, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *bhuvanena* \< *bhuvana*
+- *bhuvanena* ← *bhuvana*
 - \[noun\], instrumental, singular, neuter
 - “Earth; being; world; bhuvana \[word\].”
 ------------------------------------------------------------------------
-- *vājinā* \< *vājin*
+- *vājinā* ← *vājin*
 - \[noun\], nominative, dual, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *pṛthivyādribhiḥ* \< *pṛthivyā* \< *pṛthivī*
+- *pṛthivyādribhiḥ* ← *pṛthivyā* ← *pṛthivī*
 - \[noun\], instrumental, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *pṛthivyādribhiḥ* \< *adribhiḥ* \< *adri*
+- *pṛthivyādribhiḥ* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *sacābhuvā* \< *sacābhū*
+- *sacābhuvā* ← *sacābhū*
 - \[noun\], nominative, dual, masculine
 - “ally.”
 ------------------------------------------------------------------------
-- *sajoṣasā* \< *sajoṣasau* \< *sajoṣas*
+- *sajoṣasā* ← *sajoṣasau* ← *sajoṣas*
 - \[noun\], nominative, dual, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *uṣasā* \< *uṣas*
+- *uṣasā* ← *uṣas*
 - \[noun\], instrumental, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *sūryeṇa* \< *sūrya*
+- *sūryeṇa* ← *sūrya*
 - \[noun\], instrumental, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
@@ -53,15 +53,15 @@ title = "Rig Veda 8.35.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *pibatam* \< *pā*
+- *pibatam* ← *pā*
 - \[verb\], dual, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------

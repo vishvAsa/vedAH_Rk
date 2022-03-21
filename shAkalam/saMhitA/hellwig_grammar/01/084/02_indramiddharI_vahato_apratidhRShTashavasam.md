@@ -2,33 +2,33 @@
 title = "Rig Veda 1.84.2"
 
 +++
--   *indram* \< *indra*
+-   *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *iddharī* \< *id*
+- *iddharī* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddharī* \< *harī* \< *hari*
+- *iddharī* ← *harī* ← *hari*
 - \[noun\], nominative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *vahato* \< *vahataḥ* \< *vah*
+- *vahato* ← *vahataḥ* ← *vah*
 - \[verb\], dual, Present indikative
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *'pratidhṛṣṭaśavasam* \< *apratidhṛṣṭa*
+- *'pratidhṛṣṭaśavasam* ← *apratidhṛṣṭa*
 - \[noun\]
 ------------------------------------------------------------------------
-- *'pratidhṛṣṭaśavasam* \< *śavasam* \< *śavas*
+- *'pratidhṛṣṭaśavasam* ← *śavasam* ← *śavas*
 - \[noun\], accusative, singular, masculine
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *ṛṣīṇāṃ* \< *ṛṣīṇām* \< *ṛṣi*
+- *ṛṣīṇāṃ* ← *ṛṣīṇām* ← *ṛṣi*
 - \[noun\], genitive, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
@@ -36,7 +36,7 @@ title = "Rig Veda 1.84.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *stutīr* \< *stutīḥ* \< *stuti*
+- *stutīr* ← *stutīḥ* ← *stuti*
 - \[noun\], accusative, plural, feminine
 - “praise; encomium; praise.”
 ------------------------------------------------------------------------
@@ -44,7 +44,7 @@ title = "Rig Veda 1.84.2"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *yajñaṃ* \< *yajñam* \< *yajña*
+- *yajñaṃ* ← *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ title = "Rig Veda 1.84.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *mānuṣāṇām* \< *mānuṣa*
+- *mānuṣāṇām* ← *mānuṣa*
 - \[noun\], genitive, plural, masculine
 - “man; man.”
 ------------------------------------------------------------------------

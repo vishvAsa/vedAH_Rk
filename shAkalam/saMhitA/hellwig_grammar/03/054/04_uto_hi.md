@@ -2,11 +2,11 @@
 title = "Rig Veda 3.54.4"
 
 +++
--   *uto* \< *uta*
+-   *uto* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *uto* \< *u*
+- *uto* ← *u*
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
@@ -14,55 +14,55 @@ title = "Rig Veda 3.54.4"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *pūrvyā* \< *pūrvyāḥ* \< *pūrvya*
+- *pūrvyā* ← *pūrvyāḥ* ← *pūrvya*
 - \[noun\], nominative, plural, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *āvividra* \< *āvividre* \< *āvid* \< *√vid*
+- *āvividra* ← *āvividre* ← *āvid* ← *√vid*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *ṛtāvarī* \< *ṛtāvan*
+- *ṛtāvarī* ← *ṛtāvan*
 - \[noun\], vocative, dual, neuter
 - “law-abiding; faithful; righteous.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *satyavācaḥ* \< *satyavāc*
+- *satyavācaḥ* ← *satyavāc*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *naraś* \< *naraḥ* \< *nṛ*
+- *naraś* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *samithe* \< *samitha*
+- *samithe* ← *samitha*
 - \[noun\], locative, singular, masculine
 - “battle; conflict.”
 ------------------------------------------------------------------------
-- *śūrasātau* \< *śūrasāti*
+- *śūrasātau* ← *śūrasāti*
 - \[noun\], locative, singular, feminine
 ------------------------------------------------------------------------
-- *vavandire* \< *vand*
+- *vavandire* ← *vand*
 - \[verb\], plural, Perfect indicative
 - “worship; laud.”
 ------------------------------------------------------------------------
-- *pṛthivi* \< *pṛthivī*
+- *pṛthivi* ← *pṛthivī*
 - \[noun\], vocative, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *vevidānāḥ* \< *vevid* \< *√vid*
+- *vevidānāḥ* ← *vevid* ← *√vid*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------

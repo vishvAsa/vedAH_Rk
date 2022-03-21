@@ -6,36 +6,36 @@ title = "Rig Veda 3.40.7"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *dyumnāni* \< *dyumna*
+- *dyumnāni* ← *dyumna*
 - \[noun\], nominative, plural, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *vanina* \< *vaninaḥ* \< *vanin*
+- *vanina* ← *vaninaḥ* ← *vanin*
 - \[noun\], genitive, singular, masculine
 - “tree.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *sacante* \< *sac*
+- *sacante* ← *sac*
 - \[verb\], plural, Present indikative
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *akṣitā* \< *akṣita*
+- *akṣitā* ← *akṣita*
 - \[noun\], nominative, plural, neuter
 - “undecaying; uninjured.”
 ------------------------------------------------------------------------
-- *pītvī* \< *pā*
+- *pītvī* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *somasya* \< *soma*
+- *somasya* ← *soma*
 - \[noun\], genitive, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *vāvṛdhe* \< *vṛdh*
+- *vāvṛdhe* ← *vṛdh*
 - \[verb\], singular, Perfect indicative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”

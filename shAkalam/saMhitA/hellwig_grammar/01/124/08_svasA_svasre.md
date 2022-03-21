@@ -2,68 +2,68 @@
 title = "Rig Veda 1.124.8"
 
 +++
--   *svasā* \< *svasṛ*
+-   *svasā* ← *svasṛ*
 - \[noun\], nominative, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *svasre* \< *svasṛ*
+- *svasre* ← *svasṛ*
 - \[noun\], dative, singular, feminine
 - “sister; svasṛ \[word\].”
 ------------------------------------------------------------------------
-- *jyāyasyai* \< *jyāyas*
+- *jyāyasyai* ← *jyāyas*
 - \[noun\], dative, singular, feminine
 - “better; elder; greater; bigger.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;
     birth; kind; caste; kinship; bed.”
 ------------------------------------------------------------------------
-- *āraig* \< *āraik* \< *ric*
+- *āraig* ← *āraik* ← *ric*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “empty; liberate; concede; surrender; purge.”
 ------------------------------------------------------------------------
-- *apaity* \< *apaiti* \< *ape* \< *√i*
+- *apaity* ← *apaiti* ← *ape* ← *√i*
 - \[verb\], singular, Present indikative
 - “disappear; leave; deviate; want; dislodge.”
 ------------------------------------------------------------------------
-- *asyāḥ* \< *idam*
+- *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *praticakṣyeva* \< *praticakṣya* \< *praticakṣ* \< *√cakṣ*
+- *praticakṣyeva* ← *praticakṣya* ← *praticakṣ* ← *√cakṣ*
 - \[verb noun\]
 ------------------------------------------------------------------------
-- *praticakṣyeva* \< *iva*
+- *praticakṣyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vyucchantī* \< *vivas* \< *√vas*
+- *vyucchantī* ← *vivas* ← *√vas*
 - \[verb noun\], accusative, dual
 - “dawn.”
 ------------------------------------------------------------------------
-- *raśmibhiḥ* \< *raśmi*
+- *raśmibhiḥ* ← *raśmi*
 - \[noun\], instrumental, plural, masculine
 - “beam; rein; sunbeam; shininess; cord.”
 ------------------------------------------------------------------------
-- *sūryasyāñjy* \< *sūryasya* \< *sūrya*
+- *sūryasyāñjy* ← *sūryasya* ← *sūrya*
 - \[noun\], genitive, singular, masculine
 - “sun; Surya; sūrya \[word\]; right nostril; twelve; Calotropis
     gigantea Beng.; sūryakānta; sunlight; best.”
 ------------------------------------------------------------------------
-- *sūryasyāñjy* \< *añji*
+- *sūryasyāñjy* ← *añji*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *aṅkte* \< *añj*
+- *aṅkte* ← *añj*
 - \[verb\], singular, Present indikative
 - “smear; anoint; mix; color.”
 ------------------------------------------------------------------------
-- *samanagā* \< *samana*
+- *samanagā* ← *samana*
 - \[noun\], neuter
 - “marriage; conflict.”
 ------------------------------------------------------------------------
-- *samanagā* \< *gā* \< *ga*
+- *samanagā* ← *gā* ← *ga*
 - \[noun\], nominative, singular, feminine
 - “located; moving; flowing; passable; ga \[word\]; accordant.”
 ------------------------------------------------------------------------
@@ -71,6 +71,6 @@ title = "Rig Veda 1.124.8"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *vrāḥ* \< *vrā*
+- *vrāḥ* ← *vrā*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------

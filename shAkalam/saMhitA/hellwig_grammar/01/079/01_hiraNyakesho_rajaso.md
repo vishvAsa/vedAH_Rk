@@ -2,32 +2,32 @@
 title = "Rig Veda 1.79.1"
 
 +++
--   *hiraṇyakeśo* \< *hiraṇya*
+-   *hiraṇyakeśo* ← *hiraṇya*
 - \[noun\]
 - “aureate; gold.”
 ------------------------------------------------------------------------
-- *hiraṇyakeśo* \< *keśaḥ* \< *keśa*
+- *hiraṇyakeśo* ← *keśaḥ* ← *keśa*
 - \[noun\], nominative, singular, masculine
 - “mane; hair; keśa \[word\].”
 ------------------------------------------------------------------------
-- *rajaso* \< *rajasaḥ* \< *rajas*
+- *rajaso* ← *rajasaḥ* ← *rajas*
 - \[noun\], genitive, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *visāre* \< *visāra*
+- *visāre* ← *visāra*
 - \[noun\], locative, singular, masculine
 - “fish.”
 ------------------------------------------------------------------------
-- *'hir* \< *ahiḥ* \< *ahi*
+- *'hir* ← *ahiḥ* ← *ahi*
 - \[noun\], nominative, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *dhunir* \< *dhuniḥ* \< *dhuni*
+- *dhunir* ← *dhuniḥ* ← *dhuni*
 - \[noun\], nominative, singular, masculine
 - “deafening; boisterous; noisy.”
 ------------------------------------------------------------------------
-- *vāta* \< *vātaḥ* \< *vāta*
+- *vāta* ← *vātaḥ* ← *vāta*
 - \[noun\], nominative, singular, masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
@@ -36,30 +36,30 @@ title = "Rig Veda 1.79.1"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhrajīmān* \< *dhrajīmat*
+- *dhrajīmān* ← *dhrajīmat*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *śucibhrājā* \< *śuci*
+- *śucibhrājā* ← *śuci*
 - \[noun\]
 - “clean; clean; pure; bright; clear; honest; śuci \[word\]; clear;
     impeccant.”
 ------------------------------------------------------------------------
-- *śucibhrājā* \< *bhrājāḥ* \< *bhrājas*
+- *śucibhrājā* ← *bhrājāḥ* ← *bhrājas*
 - \[noun\], nominative, singular, masculine
 - “glare.”
 ------------------------------------------------------------------------
-- *uṣaso* \< *uṣasaḥ* \< *uṣas*
+- *uṣaso* ← *uṣasaḥ* ← *uṣas*
 - \[noun\], genitive, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *navedā* \< *navedāḥ* \< *navedas*
+- *navedā* ← *navedāḥ* ← *navedas*
 - \[noun\], nominative, singular, masculine
 - “cognizant; navedas \[word\].”
 ------------------------------------------------------------------------
-- *yaśasvatīr* \< *yaśasvatīḥ* \< *yaśasvat*
+- *yaśasvatīr* ← *yaśasvatīḥ* ← *yaśasvat*
 - \[noun\], nominative, plural, feminine
 ------------------------------------------------------------------------
-- *apasyuvo* \< *apasyuvaḥ* \< *apasyu*
+- *apasyuvo* ← *apasyuvaḥ* ← *apasyu*
 - \[noun\], nominative, plural, feminine
 - “active.”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 1.79.1"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *satyāḥ* \< *satya*
+- *satyāḥ* ← *satya*
 - \[noun\], nominative, plural, feminine
 - “true; real; real; faithful; good.”
 ------------------------------------------------------------------------

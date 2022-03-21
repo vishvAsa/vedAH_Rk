@@ -2,22 +2,22 @@
 title = "Rig Veda 4.50.2"
 
 +++
--   *dhunetayaḥ* \< *dhuneti*
+-   *dhunetayaḥ* ← *dhuneti*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *supraketam* \< *su*
+- *supraketam* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *supraketam* \< *praketam* \< *praketa*
+- *supraketam* ← *praketam* ← *praketa*
 - \[noun\], accusative, singular, neuter
 - “sight; knowledge; appearance.”
 ------------------------------------------------------------------------
-- *madanto* \< *madantaḥ* \< *mad*
+- *madanto* ← *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
@@ -25,46 +25,46 @@ title = "Rig Veda 4.50.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tatasre* \< *taṃs*
+- *tatasre* ← *taṃs*
 - \[verb\], plural, Perfect indicative
 ------------------------------------------------------------------------
-- *pṛṣantaṃ* \< *pṛṣantam* \< *pṛṣat*
+- *pṛṣantaṃ* ← *pṛṣantam* ← *pṛṣat*
 - \[noun\], accusative, singular, masculine
 - “motley; patched.”
 ------------------------------------------------------------------------
-- *sṛpram* \< *sṛpra*
+- *sṛpram* ← *sṛpra*
 - \[noun\], accusative, singular, masculine
 - “glossy; greasy.”
 ------------------------------------------------------------------------
-- *adabdham* \< *adabdha*
+- *adabdham* ← *adabdha*
 - \[noun\], accusative, singular, masculine
 - “unfailing; unimpaired.”
 ------------------------------------------------------------------------
-- *ūrvam* \< *ūrva*
+- *ūrvam* ← *ūrva*
 - \[noun\], accusative, singular, masculine
 - “pen; Aurva; ocean.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *rakṣatād* \< *rakṣatāt* \< *rakṣ*
+- *rakṣatād* ← *rakṣatāt* ← *rakṣ*
 - \[verb\], singular, Present imperative
 - “protect; guard; keep; stow; govern; guard; spare; accumulate.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yonim* \< *yoni*
+- *yonim* ← *yoni*
 - \[noun\], accusative, singular, feminine
 - “vagina; vulva; uterus; beginning; origin; reincarnation;
     birthplace; family; production; cause; race; grain; raw material;

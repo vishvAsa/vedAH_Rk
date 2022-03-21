@@ -2,64 +2,64 @@
 title = "Rig Veda 10.99.11"
 
 +++
--   *asya* \< *idam*
+-   *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *stomebhir* \< *stomebhiḥ* \< *stoma*
+- *stomebhir* ← *stomebhiḥ* ← *stoma*
 - \[noun\], instrumental, plural, masculine
 - “hymn; Stoma; stoma \[word\].”
 ------------------------------------------------------------------------
-- *auśija* \< *auśijaḥ* \< *auśija*
+- *auśija* ← *auśijaḥ* ← *auśija*
 - \[noun\], nominative, singular, masculine
 - “Kakṣīvant.”
 ------------------------------------------------------------------------
-- *ṛjiśvā* \< *ṛjiśvan*
+- *ṛjiśvā* ← *ṛjiśvan*
 - \[noun\], nominative, singular, masculine
 - “Ṛjiśvan.”
 ------------------------------------------------------------------------
-- *vrajaṃ* \< *vrajam* \< *vraja*
+- *vrajaṃ* ← *vrajam* ← *vraja*
 - \[noun\], accusative, singular, masculine
 - “cow pen; Vraja; battalion; Vraja; Vraja; vraja \[word\]; vraj;
     herd; flock; group.”
 ------------------------------------------------------------------------
-- *darayad* \< *darayat* \< *daray* \< *√dṛ*
+- *darayad* ← *darayat* ← *daray* ← *√dṛ*
 - \[verb\], singular, Present injunctive
 ------------------------------------------------------------------------
-- *vṛṣabheṇa* \< *vṛṣabha*
+- *vṛṣabheṇa* ← *vṛṣabha*
 - \[noun\], instrumental, singular, masculine
 - “bull; Vṛṣabha; Vṛṣabha; best.”
 ------------------------------------------------------------------------
-- *piproḥ* \< *pipru*
+- *piproḥ* ← *pipru*
 - \[noun\], genitive, singular, masculine
 - “Pipru.”
 ------------------------------------------------------------------------
-- *sutvā* \< *su*
+- *sutvā* ← *su*
 - \[verb noun\]
 - “press out; su.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yajato* \< *yajataḥ* \< *yajata*
+- *yajato* ← *yajataḥ* ← *yajata*
 - \[noun\], nominative, singular, masculine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *dīdayad* \< *dīdayat* \< *dīdī*
+- *dīdayad* ← *dīdayat* ← *dīdī*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “shine; glitter.”
 ------------------------------------------------------------------------
-- *gīḥ* \< *gir*
+- *gīḥ* ← *gir*
 - \[noun\], nominative, singular, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *pura* \< *puraḥ* \< *pur*
+- *pura* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *iyāno* \< *iyānaḥ* \< *ī* \< *√i*
+- *iyāno* ← *iyānaḥ* ← *ī* ← *√i*
 - \[verb noun\], nominative, singular
 - “beg; solicit.”
 ------------------------------------------------------------------------
@@ -67,11 +67,11 @@ title = "Rig Veda 10.99.11"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *varpasā* \< *varpas*
+- *varpasā* ← *varpas*
 - \[noun\], instrumental, singular, neuter
 - “form; look; disguise.”
 ------------------------------------------------------------------------
-- *bhūt* \< *bhū*
+- *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;

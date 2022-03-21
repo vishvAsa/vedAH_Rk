@@ -2,7 +2,7 @@
 title = "Rig Veda 7.102.3"
 
 +++
--   *tasmā* \< *tasmai* \< *tad*
+-   *tasmā* ← *tasmai* ← *tad*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
@@ -12,35 +12,35 @@ title = "Rig Veda 7.102.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *āsye* \< *āsya*
+- *āsye* ← *āsya*
 - \[noun\], locative, singular, neuter
 - “mouth; mouth; aperture; face; mukha; jaw; point.”
 ------------------------------------------------------------------------
-- *havir* \< *haviḥ* \< *havis*
+- *havir* ← *haviḥ* ← *havis*
 - \[noun\], accusative, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *juhotā* \< *juhota* \< *hu*
+- *juhotā* ← *juhota* ← *hu*
 - \[verb\], plural, Present imperative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *madhumattamam* \< *madhumattama*
+- *madhumattamam* ← *madhumattama*
 - \[noun\], accusative, singular, neuter
 - “sweetest.”
 ------------------------------------------------------------------------
-- *iﾱāṃ* \< *iﾱām* \< *iḍā*
+- *iﾱāṃ* ← *iﾱām* ← *iḍā*
 - \[noun\], accusative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *saṃyataṃ* \< *saṃyatam* \< *saṃyat*
+- *saṃyataṃ* ← *saṃyatam* ← *saṃyat*
 - \[noun\], accusative, singular, feminine
 - “continuous.”
 ------------------------------------------------------------------------
-- *karat* \< *kṛ*
+- *karat* ← *kṛ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;

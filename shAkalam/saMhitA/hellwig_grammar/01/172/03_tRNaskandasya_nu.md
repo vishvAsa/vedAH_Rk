@@ -2,14 +2,14 @@
 title = "Rig Veda 1.172.3"
 
 +++
--   *tṛṇaskandasya* \< *tṛṇaskanda*
+-   *tṛṇaskandasya* ← *tṛṇaskanda*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
 - *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *viśaḥ* \< *viś*
+- *viśaḥ* ← *viś*
 - \[noun\], accusative, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
@@ -17,23 +17,23 @@ title = "Rig Veda 1.172.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *vṛṅkta* \< *vṛj*
+- *vṛṅkta* ← *vṛj*
 - \[verb\], plural, Present imperative
 ------------------------------------------------------------------------
-- *sudānavaḥ* \< *sudānu*
+- *sudānavaḥ* ← *sudānu*
 - \[noun\], vocative, plural, masculine
 - “big; lavish.”
 ------------------------------------------------------------------------
-- *ūrdhvān* \< *ūrdhva*
+- *ūrdhvān* ← *ūrdhva*
 - \[noun\], accusative, plural, masculine
 - “upper; up(a); upper; upward; erect; more(a); raised; ūrdhva
     \[word\]; acclivitous; overturned; loud; eminent; high.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *karta* \< *kṛ*
+- *karta* ← *kṛ*
 - \[verb\], plural, Aorist imperative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -44,7 +44,7 @@ title = "Rig Veda 1.172.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *jīvase* \< *jīv*
+- *jīvase* ← *jīv*
 - \[verb noun\]
 - “survive; be; exist; live on; dwell.”
 ------------------------------------------------------------------------

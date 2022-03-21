@@ -6,20 +6,20 @@ title = "Rig Veda 5.43.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *bṛhataḥ* \< *bṛhat*
+- *bṛhataḥ* ← *bṛhat*
 - \[noun\], ablative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *parvatād* \< *parvatāt* \< *parvata*
+- *parvatād* ← *parvatāt* ← *parvata*
 - \[noun\], ablative, singular, masculine
 - “mountain; Parvata; parvata \[word\]; Parvata; Parvata; rock;
     height.”
@@ -33,22 +33,22 @@ title = "Rig Veda 5.43.11"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *yajatā* \< *yajata*
+- *yajatā* ← *yajata*
 - \[noun\], nominative, singular, feminine
 - “holy; august; sacrificial.”
 ------------------------------------------------------------------------
-- *gantu* \< *gam*
+- *gantu* ← *gam*
 - \[verb\], singular, Aorist imperative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;
     get; come; die; drain; spread; transform; happen; discharge; ride;
     to be located; run; detect; refer; go; shall; drive.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *havaṃ* \< *havam* \< *hava*
+- *havaṃ* ← *havam* ← *hava*
 - \[noun\], accusative, singular, masculine
 - “invocation.”
 ------------------------------------------------------------------------
@@ -56,19 +56,19 @@ title = "Rig Veda 5.43.11"
 - \[noun\], nominative, singular, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *jujuṣāṇā* \< *juṣ*
+- *jujuṣāṇā* ← *juṣ*
 - \[verb noun\], nominative, singular
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *ghṛtācī* \< *ghṛtāñc*
+- *ghṛtācī* ← *ghṛtāñc*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śagmāṃ* \< *śagmām* \< *śagma*
+- *śagmāṃ* ← *śagmām* ← *śagma*
 - \[noun\], accusative, singular, feminine
 - “powerful; reliable; competent.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------

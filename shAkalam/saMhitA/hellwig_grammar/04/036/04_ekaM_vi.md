@@ -2,7 +2,7 @@
 title = "Rig Veda 4.36.4"
 
 +++
--   *ekaṃ* \< *ekam* \< *eka*
+-   *ekaṃ* ← *ekam* ← *eka*
 - \[noun\], accusative, singular, masculine
 - “one; single(a); alone(p); some(a); single(a); eka \[word\];
     alone(p); excellent; each(a); some(a); one; same; alone(p); some(a);
@@ -12,7 +12,7 @@ title = "Rig Veda 4.36.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cakra* \< *kṛ*
+- *cakra* ← *kṛ*
 - \[verb\], plural, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -23,78 +23,78 @@ title = "Rig Veda 4.36.4"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *camasaṃ* \< *camasam* \< *camasa*
+- *camasaṃ* ← *camasam* ← *camasa*
 - \[noun\], accusative, singular, masculine
 - “camasa; beaker; cake.”
 ------------------------------------------------------------------------
-- *caturvayaṃ* \< *caturvayam* \< *caturvaya*
+- *caturvayaṃ* ← *caturvayam* ← *caturvaya*
 - \[noun\], accusative, singular, masculine
 - “quadruple.”
 ------------------------------------------------------------------------
-- *niś* \< *niḥ*
+- *niś* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *carmaṇo* \< *carmaṇaḥ* \< *carman*
+- *carmaṇo* ← *carmaṇaḥ* ← *carman*
 - \[noun\], ablative, singular, neuter
 - “leather; hide; shield; skin; carman \[word\]; carman; hide.”
 ------------------------------------------------------------------------
-- *gām* \< *go*
+- *gām* ← *go*
 - \[noun\], accusative, singular, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ariṇīta* \< *ri*
+- *ariṇīta* ← *ri*
 - \[verb\], plural, Imperfect
 - “free; liberate; run; let go of.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *deveṣv* \< *deveṣu* \< *deva*
+- *deveṣv* ← *deveṣu* ← *deva*
 - \[noun\], locative, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *amṛta*
+- *amṛtatvam* ← *amṛta*
 - \[noun\]
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *amṛtatvam* \< *tvam* \< *tva*
+- *amṛtatvam* ← *tvam* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “state; quality; cause; reason.”
 ------------------------------------------------------------------------
-- *ānaśa* \< *aś*
+- *ānaśa* ← *aś*
 - \[verb\], plural, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------
-- *śruṣṭī* \< *śruṣṭi*
+- *śruṣṭī* ← *śruṣṭi*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *vājā* \< *vājāḥ* \< *vāja*
+- *vājā* ← *vājāḥ* ← *vāja*
 - \[noun\], vocative, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *ṛbhavas* \< *ṛbhavaḥ* \< *ṛbhu*
+- *ṛbhavas* ← *ṛbhavaḥ* ← *ṛbhu*
 - \[noun\], vocative, plural, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *va* \< *vaḥ* \< *tvad*
+- *va* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *ukthyam* \< *ukthya*
+- *ukthyam* ← *ukthya*
 - \[noun\], nominative, singular, neuter
 - “applaudable.”
 ------------------------------------------------------------------------

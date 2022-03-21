@@ -2,51 +2,51 @@
 title = "Rig Veda 8.18.6"
 
 +++
--   *aditir* \< *aditiḥ* \< *aditi*
+-   *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *divā* \< *div*
+- *divā* ← *div*
 - \[noun\], instrumental, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *paśum* \< *paśu*
+- *paśum* ← *paśu*
 - \[noun\], accusative, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *aditir* \< *aditiḥ* \< *aditi*
+- *aditir* ← *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *naktam* \< *nakta*
+- *naktam* ← *nakta*
 - \[noun\], accusative, singular, neuter
 - “night; night.”
 ------------------------------------------------------------------------
-- *advayāḥ* \< *advayas*
+- *advayāḥ* ← *advayas*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *aditiḥ* \< *aditi*
+- *aditiḥ* ← *aditi*
 - \[noun\], nominative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *pātv* \< *pātu* \< *pā*
+- *pātv* ← *pātu* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *aṃhasaḥ* \< *aṃhas*
+- *aṃhasaḥ* ← *aṃhas*
 - \[noun\], ablative, singular, neuter
 - “trouble; sin.”
 ------------------------------------------------------------------------
-- *sadāvṛdhā* \< *sadā*
+- *sadāvṛdhā* ← *sadā*
 - \[adverb\]
 - “always; continually; always; perpetually.”
 ------------------------------------------------------------------------
-- *sadāvṛdhā* \< *vṛdhā* \< *vṛdha*
+- *sadāvṛdhā* ← *vṛdhā* ← *vṛdha*
 - \[noun\], nominative, singular, feminine
 - “increasing; promotive.”
 ------------------------------------------------------------------------

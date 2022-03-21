@@ -6,61 +6,61 @@ title = "Rig Veda 7.68.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tyam* \< *tya*
+- *tyam* ← *tya*
 - \[noun\], accusative, singular, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *bhujyum* \< *bhujyu*
+- *bhujyum* ← *bhujyu*
 - \[noun\], accusative, singular, masculine
 - “Bhujyu.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *sakhāyo* \< *sakhāyaḥ* \< *sakhi*
+- *sakhāyo* ← *sakhāyaḥ* ← *sakhi*
 - \[noun\], nominative, plural, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *madhye* \< *madhya*
+- *madhye* ← *madhya*
 - \[noun\], locative, singular, masculine
 - “intermediate; central; average; normal; middle; madhya \[word\].”
 ------------------------------------------------------------------------
-- *jahur* \< *jahuḥ* \< *hā*
+- *jahur* ← *jahuḥ* ← *hā*
 - \[verb\], plural, Perfect indicative
 - “abandon; decrease; want; kill; deteriorate; get rid of; exclude;
     lose; avoid; remove; leave; abandon; neglect; leave; discard;
     apostatize; discontinue; weaken; abandon; assail; subtract;
     foreswear; pour away; withdraw; depart; reduce.”
 ------------------------------------------------------------------------
-- *durevāsaḥ* \< *dureva*
+- *durevāsaḥ* ← *dureva*
 - \[noun\], nominative, plural, masculine
 - “malevolent; bad; crabbed.”
 ------------------------------------------------------------------------
-- *samudre* \< *samudra*
+- *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *nir* \< *niḥ*
+- *nir* ← *niḥ*
 - \[adverb\]
 - “niḥ; away; out; without.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *parṣad* \< *parṣat* \< *pṛ*
+- *parṣad* ← *parṣat* ← *pṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “protect; promote; rescue; help.”
 ------------------------------------------------------------------------
-- *arāvā* \< *arāvan*
+- *arāvā* ← *arāvan*
 - \[noun\], nominative, singular, masculine
 - “begrudging; hostile; stingy.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yuvākuḥ* \< *yuvāku*
+- *yuvākuḥ* ← *yuvāku*
 - \[noun\], nominative, singular, masculine
 - “your(a).”
 ------------------------------------------------------------------------

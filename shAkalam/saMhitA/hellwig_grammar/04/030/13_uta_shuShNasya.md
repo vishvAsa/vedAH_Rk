@@ -6,7 +6,7 @@ title = "Rig Veda 4.30.13"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *śuṣṇasya* \< *śuṣṇa*
+- *śuṣṇasya* ← *śuṣṇa*
 - \[noun\], genitive, singular, masculine
 - “Śuṣṇa.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 4.30.13"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *mṛkṣo* \< *mṛkṣaḥ* \< *mṛś*
+- *mṛkṣo* ← *mṛkṣaḥ* ← *mṛś*
 - \[verb\], singular, Aorist inj. (proh.)
 - “touch.”
 ------------------------------------------------------------------------
@@ -26,23 +26,23 @@ title = "Rig Veda 4.30.13"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *vedanam* \< *vedana*
+- *vedanam* ← *vedana*
 - \[noun\], accusative, singular, neuter
 - “property; marriage; obtainment.”
 ------------------------------------------------------------------------
-- *puro* \< *puraḥ* \< *pur*
+- *puro* ← *puraḥ* ← *pur*
 - \[noun\], accusative, plural, feminine
 - “fortress; pur \[word\]; town; purā \[indecl.\]; mahant.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *saṃpiṇak* \< *sampiṣ* \< *√piṣ*
+- *saṃpiṇak* ← *sampiṣ* ← *√piṣ*
 - \[verb\], singular, Present injunctive
 - “grind; knead; jam.”
 ------------------------------------------------------------------------

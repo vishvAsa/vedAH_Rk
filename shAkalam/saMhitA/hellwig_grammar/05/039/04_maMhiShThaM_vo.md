@@ -2,27 +2,27 @@
 title = "Rig Veda 5.39.4"
 
 +++
--   *maṃhiṣṭhaṃ* \< *maṃhiṣṭham* \< *maṃhiṣṭha*
+-   *maṃhiṣṭhaṃ* ← *maṃhiṣṭham* ← *maṃhiṣṭha*
 - \[noun\], accusative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *maghonāṃ* \< *maghonām* \< *maghavan*
+- *maghonāṃ* ← *maghonām* ← *maghavan*
 - \[noun\], genitive, plural, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *rājānaṃ* \< *rājānam* \< *rājan*
+- *rājānaṃ* ← *rājānam* ← *rājan*
 - \[noun\], accusative, singular, masculine
 - “king; Kshatriya; rājan \[word\]; best; rājāvarta; Yakṣa.”
 ------------------------------------------------------------------------
-- *carṣaṇīnām* \< *carṣaṇi*
+- *carṣaṇīnām* ← *carṣaṇi*
 - \[noun\], genitive, plural, feminine
 - “people.”
 ------------------------------------------------------------------------
-- *indram* \< *indra*
+- *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
@@ -31,20 +31,20 @@ title = "Rig Veda 5.39.4"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *praśastaye* \< *praśasti*
+- *praśastaye* ← *praśasti*
 - \[noun\], dative, singular, feminine
 - “announcement; praise; respect.”
 ------------------------------------------------------------------------
-- *pūrvībhir* \< *pūrvībhiḥ* \< *puru*
+- *pūrvībhir* ← *pūrvībhiḥ* ← *puru*
 - \[noun\], instrumental, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *jujuṣe* \< *juṣ*
+- *jujuṣe* ← *juṣ*
 - \[verb\], singular, Perfect indicative
 - “enjoy; endow; possess; frequent; accompany; induce; consume;
     approve; affect; attend; befit; blend; contract.”
 ------------------------------------------------------------------------
-- *giraḥ* \< *gir*
+- *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”

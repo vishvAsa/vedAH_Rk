@@ -2,20 +2,20 @@
 title = "Rig Veda 10.98.3"
 
 +++
--   *asme* \< *mad*
+-   *asme* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dyumatīṃ* \< *dyumatīm* \< *dyumat*
+- *dyumatīṃ* ← *dyumatīm* ← *dyumat*
 - \[noun\], accusative, singular, feminine
 - “bright; brilliant; brilliant; loud.”
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
@@ -25,43 +25,43 @@ title = "Rig Veda 10.98.3"
 - \[noun\], locative, singular, neuter
 - “mouth.”
 ------------------------------------------------------------------------
-- *bṛhaspate* \< *bṛhaspati*
+- *bṛhaspate* ← *bṛhaspati*
 - \[noun\], vocative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *anamīvām* \< *anamīva*
+- *anamīvām* ← *anamīva*
 - \[noun\], accusative, singular, feminine
 - “healthy; comfortable; beneficial.”
 ------------------------------------------------------------------------
-- *iṣirām* \< *iṣira*
+- *iṣirām* ← *iṣira*
 - \[noun\], accusative, singular, feminine
 - “vigorous; bracing; quick.”
 ------------------------------------------------------------------------
-- *yayā* \< *yad*
+- *yayā* ← *yad*
 - \[noun\], instrumental, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛṣṭiṃ* \< *vṛṣṭim* \< *vṛṣṭi*
+- *vṛṣṭiṃ* ← *vṛṣṭim* ← *vṛṣṭi*
 - \[noun\], accusative, singular, feminine
 - “rain; shower; rainy season.”
 ------------------------------------------------------------------------
-- *śantanave* \< *śaṃtanu*
+- *śantanave* ← *śaṃtanu*
 - \[noun\], dative, singular, masculine
 - “Śaṃtanu; Śaṃtanu.”
 ------------------------------------------------------------------------
-- *vanāva* \< *van*
+- *vanāva* ← *van*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *divo* \< *divaḥ* \< *div*
+- *divo* ← *divaḥ* ← *div*
 - \[noun\], genitive, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *drapso* \< *drapsaḥ* \< *drapsa*
+- *drapso* ← *drapsaḥ* ← *drapsa*
 - \[noun\], nominative, singular, masculine
 - “drop; banner.”
 ------------------------------------------------------------------------
-- *madhumāṃ* \< *madhumat*
+- *madhumāṃ* ← *madhumat*
 - \[noun\], nominative, singular, masculine
 - “sweet; honeyed; sweet; pleasant.”
 ------------------------------------------------------------------------
@@ -69,7 +69,7 @@ title = "Rig Veda 10.98.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *viveśa* \< *viś*
+- *viveśa* ← *viś*
 - \[verb\], singular, Perfect indicative
 - “enter; penetrate; settle; settle.”
 ------------------------------------------------------------------------

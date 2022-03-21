@@ -6,19 +6,19 @@ title = "Rig Veda 1.91.13"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *rārandhi* \< *ran*
+- *rārandhi* ← *ran*
 - \[verb\], singular, Perfect imperative
 - “rejoice.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *hṛdi* \< *hṛd*
+- *hṛdi* ← *hṛd*
 - \[noun\], locative, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *gāvo* \< *gāvaḥ* \< *go*
+- *gāvo* ← *gāvaḥ* ← *go*
 - \[noun\], nominative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -27,7 +27,7 @@ title = "Rig Veda 1.91.13"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *yavaseṣv* \< *yavaseṣu* \< *yavasa*
+- *yavaseṣv* ← *yavaseṣu* ← *yavasa*
 - \[noun\], locative, plural, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
@@ -35,7 +35,7 @@ title = "Rig Veda 1.91.13"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *marya* \< *maryaḥ* \< *marya*
+- *marya* ← *maryaḥ* ← *marya*
 - \[noun\], nominative, singular, masculine
 - “young buck; boyfriend.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 1.91.13"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *sva* \< *sve* \< *sva*
+- *sva* ← *sve* ← *sva*
 - \[noun\], locative, singular, neuter
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *okye* \< *okya*
+- *okye* ← *okya*
 - \[noun\], locative, singular, neuter
 ------------------------------------------------------------------------

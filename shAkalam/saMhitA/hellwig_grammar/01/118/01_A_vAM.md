@@ -6,82 +6,82 @@ title = "Rig Veda 1.118.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *śyenapatvā* \< *śyena*
+- *śyenapatvā* ← *śyena*
 - \[noun\], masculine
 - “hawk; bird of prey; falcon; Śyena; eagle; śyena \[word\]; Śyena.”
 ------------------------------------------------------------------------
-- *śyenapatvā* \< *patvā* \< *patvan*
+- *śyenapatvā* ← *patvā* ← *patvan*
 - \[noun\], nominative, singular, masculine
 - “flight.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkaḥ* \< *su*
+- *sumṛﾱīkaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumṛﾱīkaḥ* \< *mṛﾱīkaḥ* \< *mṛḍīka*
+- *sumṛﾱīkaḥ* ← *mṛﾱīkaḥ* ← *mṛḍīka*
 - \[noun\], nominative, singular, masculine
 - “compassion; favor.”
 ------------------------------------------------------------------------
-- *svavāṃ* \< *svavat*
+- *svavāṃ* ← *svavat*
 - \[noun\], nominative, singular, masculine
 - “helpful.”
 ------------------------------------------------------------------------
-- *yātv* \< *yātu* \< *yā*
+- *yātv* ← *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *arvāṅ* \< *arvāñc*
+- *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *martyasya* \< *martya*
+- *martyasya* ← *martya*
 - \[noun\], genitive, singular, masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *manaso* \< *manasaḥ* \< *manas*
+- *manaso* ← *manasaḥ* ← *manas*
 - \[noun\], ablative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *javīyān* \< *javīyas*
+- *javīyān* ← *javīyas*
 - \[noun\], nominative, singular, masculine
 - “fast.”
 ------------------------------------------------------------------------
-- *trivandhuro* \< *tri*
+- *trivandhuro* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivandhuro* \< *vandhuraḥ* \< *vandhura*
+- *trivandhuro* ← *vandhuraḥ* ← *vandhura*
 - \[noun\], nominative, singular, masculine
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *vṛṣaṇā* \< *vṛṣan*
+- *vṛṣaṇā* ← *vṛṣan*
 - \[noun\], vocative, dual, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------
-- *vātaraṃhāḥ* \< *vāta*
+- *vātaraṃhāḥ* ← *vāta*
 - \[noun\], masculine
 - “vāta; wind; fart; Vayu; air; draft; vāta \[word\]; Vāta;
     rheumatism; Marut.”
 ------------------------------------------------------------------------
-- *vātaraṃhāḥ* \< *raṃhāḥ* \< *raṃhas*
+- *vātaraṃhāḥ* ← *raṃhāḥ* ← *raṃhas*
 - \[noun\], nominative, singular, masculine
 - “speed.”
 ------------------------------------------------------------------------

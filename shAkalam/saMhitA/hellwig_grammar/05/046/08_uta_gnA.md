@@ -6,35 +6,35 @@ title = "Rig Veda 5.46.8"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *gnā* \< *gnāḥ* \< *gnā*
+- *gnā* ← *gnāḥ* ← *gnā*
 - \[noun\], nominative, plural, feminine
 - “goddess.”
 ------------------------------------------------------------------------
-- *vyantu* \< *vī*
+- *vyantu* ← *vī*
 - \[verb\], plural, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *devapatnīr* \< *deva*
+- *devapatnīr* ← *deva*
 - \[noun\], masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *devapatnīr* \< *patnīḥ* \< *patnī*
+- *devapatnīr* ← *patnīḥ* ← *patnī*
 - \[noun\], nominative, plural, feminine
 - “wife; mistress; queen.”
 ------------------------------------------------------------------------
-- *indrāṇy* \< *indrāṇī*
+- *indrāṇy* ← *indrāṇī*
 - \[noun\], nominative, singular, feminine
 - “Śacī; nirguṇḍī.”
 ------------------------------------------------------------------------
-- *agnāyy* \< *agnāyī*
+- *agnāyy* ← *agnāyī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
 - *aśvinī*
 - \[noun\], nominative, singular, feminine
 - “Aśvinī; Aśvinī.”
 ------------------------------------------------------------------------
-- *rāṭ* \< *rāj*
+- *rāṭ* ← *rāj*
 - \[noun\], nominative, singular, masculine
 - “king; best; rāj; rāj \[word\].”
 ------------------------------------------------------------------------
@@ -42,26 +42,26 @@ title = "Rig Veda 5.46.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
 - *varuṇānī*
 - \[noun\], nominative, singular, feminine
 ------------------------------------------------------------------------
-- *śṛṇotu* \< *śru*
+- *śṛṇotu* ← *śru*
 - \[verb\], singular, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *vyantu* \< *vī*
+- *vyantu* ← *vī*
 - \[verb\], plural, Present imperative
 - “approach; ask; desire; go; drive.”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* \< *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

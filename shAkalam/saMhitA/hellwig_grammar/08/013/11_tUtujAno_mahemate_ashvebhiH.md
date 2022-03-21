@@ -2,18 +2,18 @@
 title = "Rig Veda 8.13.11"
 
 +++
--   *tūtujāno* \< *tūtujānaḥ* \< *tuj*
+-   *tūtujāno* ← *tūtujānaḥ* ← *tuj*
 - \[verb noun\], nominative, singular
 - “draw.”
 ------------------------------------------------------------------------
-- *mahemate* \< *mahemati*
+- *mahemate* ← *mahemati*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *'śvebhiḥ* \< *aśvebhiḥ* \< *aśva*
+- *'śvebhiḥ* ← *aśvebhiḥ* ← *aśva*
 - \[noun\], instrumental, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *pruṣitapsubhiḥ* \< *pruṣitapsu*
+- *pruṣitapsubhiḥ* ← *pruṣitapsu*
 - \[noun\], instrumental, plural, masculine
 - “motley.”
 ------------------------------------------------------------------------
@@ -21,16 +21,16 @@ title = "Rig Veda 8.13.11"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yāhi* \< *yā*
+- *yāhi* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *āśubhiḥ* \< *āśu*
+- *āśubhiḥ* ← *āśu*
 - \[noun\], instrumental, plural, masculine
 - “quick; fast; immediate; agile.”
 ------------------------------------------------------------------------
@@ -38,15 +38,15 @@ title = "Rig Veda 8.13.11"
 - \[noun\], nominative, singular, neuter
 - “luck; well-being; fortune.”
 ------------------------------------------------------------------------
-- *iddhi* \< *id*
+- *iddhi* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *iddhi* \< *hi*
+- *iddhi* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

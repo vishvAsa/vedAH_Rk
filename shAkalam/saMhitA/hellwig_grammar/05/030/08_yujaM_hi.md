@@ -2,7 +2,7 @@
 title = "Rig Veda 5.30.8"
 
 +++
--   *yujaṃ* \< *yujam* \< *yuj*
+-   *yujaṃ* ← *yujam* ← *yuj*
 - \[noun\], accusative, singular, masculine
 - “ally; friend; pair; two; companion.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 5.30.8"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *mām* \< *mad*
+- *mām* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *akṛthā* \< *akṛthāḥ* \< *kṛ*
+- *akṛthā* ← *akṛthāḥ* ← *kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -25,7 +25,7 @@ title = "Rig Veda 5.30.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ād* \< *āt*
+- *ād* ← *āt*
 - \[adverb\]
 - “then.”
 ------------------------------------------------------------------------
@@ -38,22 +38,22 @@ title = "Rig Veda 5.30.8"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śiro* \< *śiraḥ* \< *śiras*
+- *śiro* ← *śiraḥ* ← *śiras*
 - \[noun\], accusative, singular, neuter
 - “head; top; peak; battlefront; śiras \[word\]; beginning; skull.”
 ------------------------------------------------------------------------
-- *dāsasya* \< *dāsa*
+- *dāsasya* ← *dāsa*
 - \[noun\], genitive, singular, masculine
 - “slave; Dāsa; servant; savage; Shudra.”
 ------------------------------------------------------------------------
-- *namucer* \< *namuceḥ* \< *namuci*
+- *namucer* ← *namuceḥ* ← *namuci*
 - \[noun\], genitive, singular, masculine
 - “Namuci; namuci \[word\].”
 ------------------------------------------------------------------------
-- *mathāyan* \< *mathāy* \< *√math*
+- *mathāyan* ← *mathāy* ← *√math*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *aśmānaṃ* \< *aśmānam* \< *aśman*
+- *aśmānaṃ* ← *aśmānam* ← *aśman*
 - \[noun\], accusative, singular, masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”
@@ -62,11 +62,11 @@ title = "Rig Veda 5.30.8"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *svaryaṃ* \< *svaryam* \< *svarya*
+- *svaryaṃ* ← *svaryam* ← *svarya*
 - \[noun\], accusative, singular, masculine
 - “good for the voice.”
 ------------------------------------------------------------------------
-- *vartamānam* \< *vṛt*
+- *vartamānam* ← *vṛt*
 - \[verb noun\], accusative, singular
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;
@@ -76,19 +76,19 @@ title = "Rig Veda 5.30.8"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *cakriyeva* \< *cakriyā* \< *cakriya*
+- *cakriyeva* ← *cakriyā* ← *cakriya*
 - \[noun\], accusative, plural, neuter
 - “traveling.”
 ------------------------------------------------------------------------
-- *cakriyeva* \< *iva*
+- *cakriyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], nominative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *marudbhyaḥ* \< *marut*
+- *marudbhyaḥ* ← *marut*
 - \[noun\], dative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------

@@ -2,65 +2,65 @@
 title = "Rig Veda 10.12.4"
 
 +++
--   *arcāmi* \< *arc*
+-   *arcāmi* ← *arc*
 - \[verb\], singular, Present indikative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *vāṃ* \< *vām* \< *tvad*
+- *vāṃ* ← *vām* ← *tvad*
 - \[noun\], genitive, dual
 - “you.”
 ------------------------------------------------------------------------
-- *vardhāyāpo* \< *vardhāya* \< *vardha*
+- *vardhāyāpo* ← *vardhāya* ← *vardha*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *vardhāyāpo* \< *apaḥ* \< *apas*
+- *vardhāyāpo* ← *apaḥ* ← *apas*
 - \[noun\], accusative, singular, neuter
 - “work; deed.”
 ------------------------------------------------------------------------
-- *ghṛtasnū* \< *ghṛtasnu*
+- *ghṛtasnū* ← *ghṛtasnu*
 - \[noun\], vocative, dual, masculine
 ------------------------------------------------------------------------
 - *dyāvābhūmī*
 - \[noun\], nominative, singular, feminine
 - “heaven and earth.”
 ------------------------------------------------------------------------
-- *śṛṇutaṃ* \< *śṛṇutam* \< *śru*
+- *śṛṇutaṃ* ← *śṛṇutam* ← *śru*
 - \[verb\], dual, Present imperative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ahā* \< *aha*
+- *ahā* ← *aha*
 - \[noun\], nominative, plural, neuter
 - “day; aha \[word\]; day.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dyāvo* \< *dyāvaḥ* \< *div*
+- *dyāvo* ← *dyāvaḥ* ← *div*
 - \[noun\], nominative, plural, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *'sunītim* \< *asunītim* \< *asunīti*
+- *'sunītim* ← *asunītim* ← *asunīti*
 - \[noun\], accusative, singular, feminine
 - “afterworld.”
 ------------------------------------------------------------------------
-- *ayan* \< *i*
+- *ayan* ← *i*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
-- *madhvā* \< *madhu*
+- *madhvā* ← *madhu*
 - \[noun\], instrumental, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -69,12 +69,12 @@ title = "Rig Veda 10.12.4"
 - “now; there; then; then; there; here; here; in the following;
     alternatively; now.”
 ------------------------------------------------------------------------
-- *pitarā* \< *pitṛ*
+- *pitarā* ← *pitṛ*
 - \[noun\], nominative, dual, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *śiśītām* \< *śā*
+- *śiśītām* ← *śā*
 - \[verb\], dual, Present imperative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------

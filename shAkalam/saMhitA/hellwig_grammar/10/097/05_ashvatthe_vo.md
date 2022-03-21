@@ -2,30 +2,30 @@
 title = "Rig Veda 10.97.5"
 
 +++
--   *aśvatthe* \< *aśvattha*
+-   *aśvatthe* ← *aśvattha*
 - \[noun\], locative, singular, masculine
 - “pipal; aśvattha \[word\].”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *niṣadanam* \< *niṣadana*
+- *niṣadanam* ← *niṣadana*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *parṇe* \< *parṇa*
+- *parṇe* ← *parṇa*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *vasatiṣ* \< *vasatiḥ* \< *vasati*
+- *vasatiṣ* ← *vasatiḥ* ← *vasati*
 - \[noun\], nominative, singular, feminine
 - “residency; dwelling; nest; stay; vasati \[word\]; vas; mansion;
     sojourn.”
 ------------------------------------------------------------------------
-- *kṛtā* \< *kṛ*
+- *kṛtā* ← *kṛ*
 - \[verb noun\], nominative, singular
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -36,24 +36,24 @@ title = "Rig Veda 10.97.5"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *gobhāja* \< *go*
+- *gobhāja* ← *go*
 - \[noun\]
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *gobhāja* \< *bhājaḥ* \< *bhāj*
+- *gobhāja* ← *bhājaḥ* ← *bhāj*
 - \[noun\], nominative, plural, feminine
 - “enjoying; consisting of.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *kilāsatha* \< *kila*
+- *kilāsatha* ← *kila*
 - \[adverb\]
 - “assuredly; indeed; kila \[indecl.\].”
 ------------------------------------------------------------------------
-- *kilāsatha* \< *asatha* \< *as*
+- *kilāsatha* ← *asatha* ← *as*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
@@ -62,11 +62,11 @@ title = "Rig Veda 10.97.5"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *sanavatha* \< *san*
+- *sanavatha* ← *san*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “win; get; gain.”
 ------------------------------------------------------------------------
-- *pūruṣam* \< *pūruṣa*
+- *pūruṣam* ← *pūruṣa*
 - \[noun\], accusative, singular, masculine
 - “man; man; Puruṣa.”
 ------------------------------------------------------------------------

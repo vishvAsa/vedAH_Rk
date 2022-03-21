@@ -2,28 +2,28 @@
 title = "Rig Veda 9.64.19"
 
 +++
--   *mimāti* \< *mā*
+-   *mimāti* ← *mā*
 - \[verb\], singular, Present indikative
 - “moo; howl.”
 ------------------------------------------------------------------------
-- *vahnir* \< *vahniḥ* \< *vahni*
+- *vahnir* ← *vahniḥ* ← *vahni*
 - \[noun\], nominative, singular, masculine
 - “fire; digestion; Plumbago zeylanica; Agni; vahni; draft horse;
     three; sacrificial fire; Vahni; gold; southeast; citron; charioteer;
     leader.”
 ------------------------------------------------------------------------
-- *etaśaḥ* \< *etaśa*
+- *etaśaḥ* ← *etaśa*
 - \[noun\], nominative, singular, masculine
 - “Etaśa; horse.”
 ------------------------------------------------------------------------
-- *padaṃ* \< *padam* \< *pada*
+- *padaṃ* ← *padam* ← *pada*
 - \[noun\], accusative, singular, neuter
 - “word; location; foot; footprint; pada \[word\]; verse; footstep;
     metrical foot; situation; dwelling; state; step; mark; position;
     trace; construction; animal foot; way; moment; social station;
     topographic point; path; residence; site; topic.”
 ------------------------------------------------------------------------
-- *yujāna* \< *yujānaḥ* \< *yuj*
+- *yujāna* ← *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -31,7 +31,7 @@ title = "Rig Veda 9.64.19"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *ṛkvabhiḥ* \< *ṛkvan*
+- *ṛkvabhiḥ* ← *ṛkvan*
 - \[noun\], instrumental, plural, masculine
 - “singing.”
 ------------------------------------------------------------------------
@@ -43,11 +43,11 @@ title = "Rig Veda 9.64.19"
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *samudra* \< *samudre* \< *samudra*
+- *samudra* ← *samudre* ← *samudra*
 - \[noun\], locative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
-- *āhitaḥ* \< *ādhā* \< *√dhā*
+- *āhitaḥ* ← *ādhā* ← *√dhā*
 - \[verb noun\], nominative, singular
 - “put; conceive; ignite; keep; effect; fuel; lend; cover; direct.”
 ------------------------------------------------------------------------

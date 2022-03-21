@@ -2,37 +2,37 @@
 title = "Rig Veda 1.2.8"
 
 +++
--   *ṛtena* \< *ṛta*
+-   *ṛtena* ← *ṛta*
 - \[noun\], instrumental, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *mitrāvaruṇāv* \< *mitrāvaruṇau* \< *mitrāvaruṇa*
+- *mitrāvaruṇāv* ← *mitrāvaruṇau* ← *mitrāvaruṇa*
 - \[noun\], vocative, dual, masculine
 - “Varuna; Mitra.”
 ------------------------------------------------------------------------
-- *ṛtāvṛdhāv* \< *ṛtāvṛdhau* \< *ṛtāvṛdh*
+- *ṛtāvṛdhāv* ← *ṛtāvṛdhau* ← *ṛtāvṛdh*
 - \[noun\], vocative, dual, masculine
 - “sincere.”
 ------------------------------------------------------------------------
-- *ṛtaspṛśā* \< *ṛta*
+- *ṛtaspṛśā* ← *ṛta*
 - \[noun\], neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *ṛtaspṛśā* \< *spṛśā* \< *spṛś*
+- *ṛtaspṛśā* ← *spṛśā* ← *spṛś*
 - \[noun\], vocative, dual, masculine
 - “touching.”
 ------------------------------------------------------------------------
-- *kratum* \< *kratu*
+- *kratum* ← *kratu*
 - \[noun\], accusative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *bṛhantam* \< *bṛhat*
+- *bṛhantam* ← *bṛhat*
 - \[noun\], accusative, singular, masculine
 - “large; great; loud; high; much(a); exalted; abundant; intensive;
     strong; huge.”
 ------------------------------------------------------------------------
-- *āśāthe* \< *aś*
+- *āśāthe* ← *aś*
 - \[verb\], dual, Perfect indicative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

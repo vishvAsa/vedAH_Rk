@@ -2,38 +2,38 @@
 title = "Rig Veda 10.163.4"
 
 +++
--   *ūrubhyāṃ* \< *ūrubhyām* \< *ūru*
+-   *ūrubhyāṃ* ← *ūrubhyām* ← *ūru*
 - \[noun\], ablative, dual, masculine
 - “thigh; ūru \[word\]; ūru; shank.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *aṣṭhīvadbhyām* \< *aṣṭhīvant*
+- *aṣṭhīvadbhyām* ← *aṣṭhīvant*
 - \[noun\], ablative, dual, masculine
 - “knee; aṣṭhīvant \[word\].”
 ------------------------------------------------------------------------
-- *pārṣṇibhyām* \< *pārṣṇi*
+- *pārṣṇibhyām* ← *pārṣṇi*
 - \[noun\], ablative, dual, masculine
 - “heel; rear.”
 ------------------------------------------------------------------------
-- *prapadābhyām* \< *prapada*
+- *prapadābhyām* ← *prapada*
 - \[noun\], ablative, dual, neuter
 - “tiptoe.”
 ------------------------------------------------------------------------
-- *yakṣmaṃ* \< *yakṣmam* \< *yakṣma*
+- *yakṣmaṃ* ← *yakṣmam* ← *yakṣma*
 - \[noun\], accusative, singular, masculine
 - “tuberculosis; disease; pulmonary tuberculosis.”
 ------------------------------------------------------------------------
-- *śroṇibhyām* \< *śroṇi*
+- *śroṇibhyām* ← *śroṇi*
 - \[noun\], ablative, dual, masculine
 - “hip; pelvis; buttocks.”
 ------------------------------------------------------------------------
-- *bhāsadād* \< *bhāsadāt* \< *bhāsada*
+- *bhāsadād* ← *bhāsadāt* ← *bhāsada*
 - \[noun\], ablative, singular, masculine
 ------------------------------------------------------------------------
-- *bhaṃsaso* \< *bhaṃsasaḥ* \< *bhaṃsas*
+- *bhaṃsaso* ← *bhaṃsasaḥ* ← *bhaṃsas*
 - \[noun\], ablative, singular, neuter
 - “loins.”
 ------------------------------------------------------------------------
@@ -41,11 +41,11 @@ title = "Rig Veda 10.163.4"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *vṛhāmi* \< *vṛh*
+- *vṛhāmi* ← *vṛh*
 - \[verb\], singular, Present indikative
 - “extract.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------

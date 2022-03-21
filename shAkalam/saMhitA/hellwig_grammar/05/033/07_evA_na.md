@@ -2,21 +2,21 @@
 title = "Rig Veda 5.33.7"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *indrotibhir* \< *indra*
+- *indrotibhir* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *indrotibhir* \< *ūtibhiḥ* \< *ūti*
+- *indrotibhir* ← *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -24,11 +24,11 @@ title = "Rig Veda 5.33.7"
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *pāhi* \< *pā*
+- *pāhi* ← *pā*
 - \[verb\], singular, Present imperative
 - “protect; govern.”
 ------------------------------------------------------------------------
-- *gṛṇataḥ* \< *gṛ*
+- *gṛṇataḥ* ← *gṛ*
 - \[verb noun\], accusative, plural
 - “praise.”
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ title = "Rig Veda 5.33.7"
 - “hero; cock; śūra; Śūra; Vatica robusta; Plumbago zeylanica;
     warrior; hero; attacker; lentil; wild boar; lion; dog.”
 ------------------------------------------------------------------------
-- *kārūn* \< *kāru*
+- *kārūn* ← *kāru*
 - \[noun\], accusative, plural, masculine
 - “poet; singer.”
 ------------------------------------------------------------------------
@@ -45,33 +45,33 @@ title = "Rig Veda 5.33.7"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *tvacaṃ* \< *tvacam* \< *tvac*
+- *tvacaṃ* ← *tvacam* ← *tvac*
 - \[noun\], accusative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *dadato* \< *dadataḥ* \< *dā*
+- *dadato* ← *dadataḥ* ← *dā*
 - \[verb noun\], accusative, plural
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *vājasātau* \< *vājasāti*
+- *vājasātau* ← *vājasāti*
 - \[noun\], locative, singular, feminine
 - “victory; battle.”
 ------------------------------------------------------------------------
-- *piprīhi* \< *prī*
+- *piprīhi* ← *prī*
 - \[verb\], singular, Perfect imperative
 - “delight; gladden; satisfy; nutrify; comfort.”
 ------------------------------------------------------------------------
-- *madhvaḥ* \< *madhu*
+- *madhvaḥ* ← *madhu*
 - \[noun\], genitive, singular, neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *suṣutasya* \< *suṣuta*
+- *suṣutasya* ← *suṣuta*
 - \[noun\], genitive, singular, neuter
 ------------------------------------------------------------------------
-- *cāroḥ* \< *cāru*
+- *cāroḥ* ← *cāru*
 - \[noun\], genitive, singular, neuter
 - “pleasant; beautiful; beloved; agreeable; cāru \[word\].”
 ------------------------------------------------------------------------

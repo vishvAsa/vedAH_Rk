@@ -2,22 +2,22 @@
 title = "Rig Veda 3.59.6"
 
 +++
--   *mitrasya* \< *mitra*
+-   *mitrasya* ← *mitra*
 - \[noun\], genitive, singular, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛto* \< *carṣaṇī*
+- *carṣaṇīdhṛto* ← *carṣaṇī*
 - \[noun\], feminine
 ------------------------------------------------------------------------
-- *carṣaṇīdhṛto* \< *dhṛtaḥ* \< *dhṛt*
+- *carṣaṇīdhṛto* ← *dhṛtaḥ* ← *dhṛt*
 - \[noun\], genitive, singular, masculine
 - “maintaining.”
 ------------------------------------------------------------------------
-- *'vo* \< *avaḥ* \< *avas*
+- *'vo* ← *avaḥ* ← *avas*
 - \[noun\], nominative, singular, neuter
 - “aid; favor; protection.”
 ------------------------------------------------------------------------
-- *devasya* \< *deva*
+- *devasya* ← *deva*
 - \[noun\], genitive, singular, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
@@ -26,10 +26,10 @@ title = "Rig Veda 3.59.6"
 - \[noun\], nominative, singular, neuter
 - “victorious.”
 ------------------------------------------------------------------------
-- *dyumnaṃ* \< *dyumnam* \< *dyumna*
+- *dyumnaṃ* ← *dyumnam* ← *dyumna*
 - \[noun\], nominative, singular, neuter
 - “magnificence.”
 ------------------------------------------------------------------------
-- *citraśravastamam* \< *citraśravastama*
+- *citraśravastamam* ← *citraśravastama*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------

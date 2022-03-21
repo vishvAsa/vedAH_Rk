@@ -2,43 +2,43 @@
 title = "Rig Veda 10.99.4"
 
 +++
--   *sa* \< *tad*
+-   *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yahvyo* \< *yahvyaḥ* \< *yahu*
+- *yahvyo* ← *yahvyaḥ* ← *yahu*
 - \[noun\], accusative, plural, feminine
 ------------------------------------------------------------------------
-- *'vanīr* \< *avanīḥ* \< *avani*
+- *'vanīr* ← *avanīḥ* ← *avani*
 - \[noun\], accusative, plural, feminine
 - “river; earth; floor; path; bed; course.”
 ------------------------------------------------------------------------
-- *goṣv* \< *goṣu* \< *go*
+- *goṣv* ← *goṣu* ← *go*
 - \[noun\], locative, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *arvā* \< *arvan*
+- *arvā* ← *arvan*
 - \[noun\], nominative, singular, masculine
 - “horse; arvan \[word\]; racehorse.”
 ------------------------------------------------------------------------
-- *juhoti* \< *hu*
+- *juhoti* ← *hu*
 - \[verb\], singular, Present indikative
 - “sacrifice; offer; pour; worship.”
 ------------------------------------------------------------------------
-- *pradhanyāsu* \< *pradhanya*
+- *pradhanyāsu* ← *pradhanya*
 - \[noun\], locative, plural, feminine
 ------------------------------------------------------------------------
-- *sasriḥ* \< *sasri*
+- *sasriḥ* ← *sasri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *apādo* \< *a*
+- *apādo* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *apādo* \< *pādaḥ* \< *pād*
+- *apādo* ← *pādaḥ* ← *pād*
 - \[noun\], nominative, plural, masculine
 - “pād \[word\]; foot.”
 ------------------------------------------------------------------------
@@ -46,31 +46,31 @@ title = "Rig Veda 10.99.4"
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *yujyāso* \< *yujyāsaḥ* \< *yujya*
+- *yujyāso* ← *yujyāsaḥ* ← *yujya*
 - \[noun\], nominative, plural, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *'rathā* \< *a*
+- *'rathā* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *'rathā* \< *rathāḥ* \< *ratha*
+- *'rathā* ← *rathāḥ* ← *ratha*
 - \[noun\], nominative, plural, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *droṇyaśvāsa* \< *droṇī*
+- *droṇyaśvāsa* ← *droṇī*
 - \[noun\], feminine
 - “basin; tub; valley; vessel.”
 ------------------------------------------------------------------------
-- *droṇyaśvāsa* \< *aśvāsaḥ* \< *aśva*
+- *droṇyaśvāsa* ← *aśvāsaḥ* ← *aśva*
 - \[noun\], nominative, plural, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *īrate* \< *īr*
+- *īrate* ← *īr*
 - \[verb\], plural, Present indikative
 - “go.”
 ------------------------------------------------------------------------
-- *ghṛtaṃ* \< *ghṛtam* \< *ghṛta*
+- *ghṛtaṃ* ← *ghṛtam* ← *ghṛta*
 - \[noun\], accusative, singular, neuter
 - “ghee; fat.”
 ------------------------------------------------------------------------

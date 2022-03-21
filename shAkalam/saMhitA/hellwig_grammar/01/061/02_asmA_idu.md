@@ -2,7 +2,7 @@
 title = "Rig Veda 1.61.2"
 
 +++
--   *asmā* \< *asmai* \< *idam*
+-   *asmā* ← *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
@@ -14,7 +14,7 @@ title = "Rig Veda 1.61.2"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *praya* \< *prayaḥ* \< *prayas*
+- *praya* ← *prayaḥ* ← *prayas*
 - \[noun\], accusative, singular, neuter
 - “food; dainty; enjoyment.”
 ------------------------------------------------------------------------
@@ -26,20 +26,20 @@ title = "Rig Veda 1.61.2"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *yaṃsi* \< *yam*
+- *yaṃsi* ← *yam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *bharāmy* \< *bharāmi* \< *bhṛ*
+- *bharāmy* ← *bharāmi* ← *bhṛ*
 - \[verb\], singular, Present indikative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”
 ------------------------------------------------------------------------
-- *āṅgūṣam* \< *āṅgūṣa*
+- *āṅgūṣam* ← *āṅgūṣa*
 - \[noun\], accusative, singular, neuter
 - “hymn.”
 ------------------------------------------------------------------------
-- *bādhe* \< *bādh*
+- *bādhe* ← *bādh*
 - \[verb noun\]
 - “afflict; annoy; chase away; tease; grieve; irritate.”
 ------------------------------------------------------------------------
@@ -47,16 +47,16 @@ title = "Rig Veda 1.61.2"
 - \[noun\], instrumental, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *manasā* \< *manas*
+- *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
@@ -66,20 +66,20 @@ title = "Rig Veda 1.61.2"
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *pratnāya* \< *pratna*
+- *pratnāya* ← *pratna*
 - \[noun\], dative, singular, masculine
 - “age-old; pratna \[word\].”
 ------------------------------------------------------------------------
-- *patye* \< *pati*
+- *patye* ← *pati*
 - \[noun\], dative, singular
 - “husband; overlord; king; deity; īśvara; ruler; pati \[word\];
     commanding officer; leader; owner; mayor; lord.”
 ------------------------------------------------------------------------
-- *dhiyo* \< *dhiyaḥ* \< *dhī*
+- *dhiyo* ← *dhiyaḥ* ← *dhī*
 - \[noun\], accusative, plural, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *marjayanta* \< *marjay* \< *√mṛj*
+- *marjayanta* ← *marjay* ← *√mṛj*
 - \[verb\], plural, Present injunctive
 ------------------------------------------------------------------------

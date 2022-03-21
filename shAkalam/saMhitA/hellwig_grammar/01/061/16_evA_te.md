@@ -2,37 +2,37 @@
 title = "Rig Veda 1.61.16"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hāriyojanā* \< *hāriyojana*
+- *hāriyojanā* ← *hāriyojana*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *suvṛktīndra* \< *suvṛktī* \< *suvṛkti*
+- *suvṛktīndra* ← *suvṛktī* ← *suvṛkti*
 - \[noun\], instrumental, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *suvṛktīndra* \< *indra*
+- *suvṛktīndra* ← *indra*
 - \[noun\], vocative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *brahmāṇi* \< *brahman*
+- *brahmāṇi* ← *brahman*
 - \[noun\], accusative, plural, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *gotamāso* \< *gotamāsaḥ* \< *gotama*
+- *gotamāso* ← *gotamāsaḥ* ← *gotama*
 - \[noun\], nominative, plural, masculine
 - “Gotama; gotama \[word\].”
 ------------------------------------------------------------------------
-- *akran* \< *kṛ*
+- *akran* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -43,29 +43,29 @@ title = "Rig Veda 1.61.16"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *aiṣu* \< *ā*
+- *aiṣu* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *aiṣu* \< *eṣu* \< *idam*
+- *aiṣu* ← *eṣu* ← *idam*
 - \[noun\], locative, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *viśvapeśasaṃ* \< *viśva*
+- *viśvapeśasaṃ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvapeśasaṃ* \< *peśasam* \< *peśas*
+- *viśvapeśasaṃ* ← *peśasam* ← *peśas*
 - \[noun\], accusative, singular, feminine
 - “decoration; shape.”
 ------------------------------------------------------------------------
-- *dhiyaṃ* \< *dhiyam* \< *dhī*
+- *dhiyaṃ* ← *dhiyam* ← *dhī*
 - \[noun\], accusative, singular, feminine
 - “intelligence; prayer; mind; insight; idea; hymn; purpose; art;
     knowledge.”
 ------------------------------------------------------------------------
-- *dhāḥ* \< *dhā*
+- *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
@@ -78,11 +78,11 @@ title = "Rig Veda 1.61.16"
 - \[adverb\]
 - “promptly; soon; quickly.”
 ------------------------------------------------------------------------
-- *dhiyāvasur* \< *dhiyāvasuḥ* \< *dhiyāvasu*
+- *dhiyāvasur* ← *dhiyāvasuḥ* ← *dhiyāvasu*
 - \[noun\], nominative, singular, masculine
 - “wise.”
 ------------------------------------------------------------------------
-- *jagamyāt* \< *gam*
+- *jagamyāt* ← *gam*
 - \[verb\], singular, Perfect optative
 - “go; situate; enter (a state); travel; disappear; \[in\]; elapse;
     leave; reach; vanish; love; walk; approach; issue; hop on; gasify;

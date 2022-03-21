@@ -2,11 +2,11 @@
 title = "Rig Veda 9.62.2"
 
 +++
--   *vighnanto* \< *vighnantaḥ* \< *vihan* \< *√han*
+-   *vighnanto* ← *vighnantaḥ* ← *vihan* ← *√han*
 - \[verb noun\], nominative, plural
 - “obstruct; cancel out; restrict.”
 ------------------------------------------------------------------------
-- *duritā* \< *durita*
+- *duritā* ← *durita*
 - \[noun\], accusative, plural, neuter
 - “danger; sin; difficulty; difficulty; evil.”
 ------------------------------------------------------------------------
@@ -14,22 +14,22 @@ title = "Rig Veda 9.62.2"
 - \[noun\], accusative, singular, neuter
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *sugā* \< *suga*
+- *sugā* ← *suga*
 - \[noun\], accusative, plural, neuter
 ------------------------------------------------------------------------
-- *tokāya* \< *toka*
+- *tokāya* ← *toka*
 - \[noun\], dative, singular, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *vājinaḥ* \< *vājin*
+- *vājinaḥ* ← *vājin*
 - \[noun\], nominative, plural, masculine
 - “victorious; triumphant; strong; gainful.”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
-- *kṛṇvanto* \< *kṛṇvantaḥ* \< *kṛ*
+- *kṛṇvanto* ← *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -40,7 +40,7 @@ title = "Rig Veda 9.62.2"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *arvate* \< *arvant*
+- *arvate* ← *arvant*
 - \[noun\], dative, singular, masculine
 - “horse.”
 ------------------------------------------------------------------------

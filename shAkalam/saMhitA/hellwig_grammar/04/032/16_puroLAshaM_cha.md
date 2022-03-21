@@ -2,7 +2,7 @@
 title = "Rig Veda 4.32.16"
 
 +++
--   *puroﾱāśaṃ* \< *puroﾱāśam* \< *puroḍāś*
+-   *puroﾱāśaṃ* ← *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 4.32.16"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ghaso* \< *ghasaḥ* \< *ghas*
+- *ghaso* ← *ghasaḥ* ← *ghas*
 - \[verb\], singular, Aorist conj./subj.
 - “eat.”
 ------------------------------------------------------------------------
-- *joṣayāse* \< *joṣay* \< *√juṣ*
+- *joṣayāse* ← *joṣay* ← *√juṣ*
 - \[verb\], singular, Present conjunctive (subjunctive)
 ------------------------------------------------------------------------
-- *giraś* \< *giraḥ* \< *gir*
+- *giraś* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -30,18 +30,18 @@ title = "Rig Veda 4.32.16"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *vadhūyur* \< *vadhūyuḥ* \< *vadhūyu*
+- *vadhūyur* ← *vadhūyuḥ* ← *vadhūyu*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
 - *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *yoṣaṇām* \< *yoṣaṇā*
+- *yoṣaṇām* ← *yoṣaṇā*
 - \[noun\], accusative, singular, feminine
 - “girl; wife.”
 ------------------------------------------------------------------------

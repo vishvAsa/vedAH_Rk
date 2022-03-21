@@ -6,66 +6,66 @@ title = "Rig Veda 9.97.37"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *jāgṛvir* \< *jāgṛviḥ* \< *jāgṛvi*
+- *jāgṛvir* ← *jāgṛviḥ* ← *jāgṛvi*
 - \[noun\], nominative, singular, masculine
 - “attentive; argus-eyed; light.”
 ------------------------------------------------------------------------
-- *vipra* \< *vipraḥ* \< *vipra*
+- *vipra* ← *vipraḥ* ← *vipra*
 - \[noun\], nominative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *ṛtā* \< *ṛta*
+- *ṛtā* ← *ṛta*
 - \[noun\], accusative, plural, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
-- *matīnāṃ* \< *matīnām* \< *mati*
+- *matīnāṃ* ← *matīnām* ← *mati*
 - \[noun\], genitive, plural, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
 ------------------------------------------------------------------------
-- *somaḥ* \< *soma*
+- *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *punāno* \< *punānaḥ* \< *pū*
+- *punāno* ← *punānaḥ* ← *pū*
 - \[verb noun\], nominative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *asadac* \< *asadat* \< *sad*
+- *asadac* ← *asadat* ← *sad*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *camūṣu* \< *camū*
+- *camūṣu* ← *camū*
 - \[noun\], locative, plural, feminine
 - “army; camū; Camū.”
 ------------------------------------------------------------------------
-- *sapanti* \< *sap*
+- *sapanti* ← *sap*
 - \[verb\], plural, Present indikative
 ------------------------------------------------------------------------
-- *yam* \< *yad*
+- *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *mithunāso* \< *mithunāsaḥ* \< *mithuna*
+- *mithunāso* ← *mithunāsaḥ* ← *mithuna*
 - \[noun\], nominative, plural, masculine
 - “twin; couple; couple; coupling; sexual intercourse; Gemini.”
 ------------------------------------------------------------------------
-- *nikāmā* \< *nikāmāḥ* \< *nikāma*
+- *nikāmā* ← *nikāmāḥ* ← *nikāma*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *adhvaryavo* \< *adhvaryavaḥ* \< *adhvaryu*
+- *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], nominative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *rathirāsaḥ* \< *rathira*
+- *rathirāsaḥ* ← *rathira*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *suhastāḥ* \< *su*
+- *suhastāḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *suhastāḥ* \< *hastāḥ* \< *hasta*
+- *suhastāḥ* ← *hastāḥ* ← *hasta*
 - \[noun\], nominative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------

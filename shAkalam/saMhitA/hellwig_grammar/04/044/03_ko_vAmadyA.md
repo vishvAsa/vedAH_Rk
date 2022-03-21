@@ -2,23 +2,23 @@
 title = "Rig Veda 4.44.3"
 
 +++
--   *ko* \< *kaḥ* \< *ka*
+-   *ko* ← *kaḥ* ← *ka*
 - \[noun\], nominative, singular, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------
-- *vām* \< *tvad*
+- *vām* ← *tvad*
 - \[noun\], accusative, dual
 - “you.”
 ------------------------------------------------------------------------
-- *adyā* \< *adya*
+- *adyā* ← *adya*
 - \[adverb\]
 - “now; today; then; nowadays; adya \[word\].”
 ------------------------------------------------------------------------
-- *adyā* \< *ā*
+- *adyā* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *karate* \< *kṛ*
+- *karate* ← *kṛ*
 - \[verb\], singular, Aorist conj./subj.
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -29,15 +29,15 @@ title = "Rig Veda 4.44.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *rātahavya* \< *rāta* \< *rā*
+- *rātahavya* ← *rāta* ← *rā*
 - \[verb noun\]
 - “give; impart.”
 ------------------------------------------------------------------------
-- *rātahavya* \< *havyaḥ* \< *havya*
+- *rātahavya* ← *havyaḥ* ← *havya*
 - \[noun\], nominative, singular, masculine
 - “Havya; offering; havya \[word\].”
 ------------------------------------------------------------------------
-- *ūtaye* \< *ūti*
+- *ūtaye* ← *ūti*
 - \[noun\], dative, singular, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------
@@ -45,24 +45,24 @@ title = "Rig Veda 4.44.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *sutapeyāya* \< *suta*
+- *sutapeyāya* ← *suta*
 - \[noun\], masculine
 - “Soma.”
 ------------------------------------------------------------------------
-- *sutapeyāya* \< *peyāya* \< *peya*
+- *sutapeyāya* ← *peyāya* ← *peya*
 - \[noun\], dative, singular, neuter
 - “beverage.”
 ------------------------------------------------------------------------
-- *vārkaiḥ* \< *vā*
+- *vārkaiḥ* ← *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vārkaiḥ* \< *arkaiḥ* \< *arka*
+- *vārkaiḥ* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *ṛtasya* \< *ṛta*
+- *ṛtasya* ← *ṛta*
 - \[noun\], genitive, singular, neuter
 - “truth; order; fixed order; ṛta \[word\]; law; custom; custom.”
 ------------------------------------------------------------------------
@@ -70,27 +70,27 @@ title = "Rig Veda 4.44.3"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *vanuṣe* \< *vanus*
+- *vanuṣe* ← *vanus*
 - \[noun\], dative, singular, masculine
 - “unfriendly; competing(a).”
 ------------------------------------------------------------------------
-- *pūrvyāya* \< *pūrvya*
+- *pūrvyāya* ← *pūrvya*
 - \[noun\], dative, singular, masculine
 - “first; precedent; age-old; excellent; former(a).”
 ------------------------------------------------------------------------
-- *namo* \< *namaḥ* \< *namas*
+- *namo* ← *namaḥ* ← *namas*
 - \[noun\], accusative, singular, neuter
 - “adoration; court; namas \[word\]; bow; salute.”
 ------------------------------------------------------------------------
-- *yemāno* \< *yemānaḥ* \< *yam*
+- *yemāno* ← *yemānaḥ* ← *yam*
 - \[verb noun\], nominative, singular
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *aśvinā* \< *aśvin*
+- *aśvinā* ← *aśvin*
 - \[noun\], vocative, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *vavartat* \< *vṛt*
+- *vavartat* ← *vṛt*
 - \[verb\], singular, Perfect conjunctive (subj.)
 - “behave; happen; exist; return; dwell; die; roll; continue; act;
     exist; feed on; issue; move; travel; proceed; turn; situate; drive;

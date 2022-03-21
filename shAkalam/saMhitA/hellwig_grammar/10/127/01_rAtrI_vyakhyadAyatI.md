@@ -2,19 +2,19 @@
 title = "Rig Veda 10.127.1"
 
 +++
--   *rātrī* \< *rātri*
+-   *rātrī* ← *rātri*
 - \[noun\], nominative, singular, feminine
 - “night; night; rātri \[word\]; turmeric; Rātri; day; night.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *akhyad* \< *akhyat* \< *khyā*
+- *akhyad* ← *akhyat* ← *khyā*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “name; describe; call; enumerate; watch; know.”
 ------------------------------------------------------------------------
-- *āyatī* \< *e* \< *√i*
+- *āyatī* ← *e* \< *√i*
 - \[verb noun\], nominative, singular
 - “come; travel.”
 ------------------------------------------------------------------------

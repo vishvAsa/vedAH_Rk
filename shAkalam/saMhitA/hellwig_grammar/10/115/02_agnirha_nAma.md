@@ -2,7 +2,7 @@
 title = "Rig Veda 10.115.2"
 
 +++
--   *agnir* \< *agniḥ* \< *agni*
+-   *agnir* ← *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
@@ -16,58 +16,58 @@ title = "Rig Veda 10.115.2"
 - \[adverb\]
 - “by name; indeed; however; indeed.”
 ------------------------------------------------------------------------
-- *dhāyi* \< *dhā*
+- *dhāyi* ← *dhā*
 - \[verb\], singular, Aorist passive
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *dann* \< *\_* \< *√\_*
+- *dann* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *apastamaḥ* \< *apastama*
+- *apastamaḥ* ← *apastama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vanā* \< *vana*
+- *vanā* ← *vana*
 - \[noun\], accusative, plural, neuter
 - “forest; wood; tree; grove; vana \[word\]; forest; brush.”
 ------------------------------------------------------------------------
-- *yuvate* \< *yu*
+- *yuvate* ← *yu*
 - \[verb\], singular, Present indikative
 - “unite.”
 ------------------------------------------------------------------------
-- *bhasmanā* \< *bhasman*
+- *bhasmanā* ← *bhasman*
 - \[noun\], instrumental, singular, masculine
 - “blowy.”
 ------------------------------------------------------------------------
-- *datā* \< *dat*
+- *datā* ← *dat*
 - \[noun\], instrumental, singular, masculine
 - “tooth; dat \[word\].”
 ------------------------------------------------------------------------
-- *abhipramurā* \< *abhipramur*
+- *abhipramurā* ← *abhipramur*
 - \[noun\], instrumental, singular, feminine
 ------------------------------------------------------------------------
-- *juhvā* \< *juhū*
+- *juhvā* ← *juhū*
 - \[noun\], instrumental, singular, feminine
 - “tongue; fire; ladle.”
 ------------------------------------------------------------------------
-- *svadhvara* \< *su*
+- *svadhvara* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svadhvara* \< *adhvaraḥ* \< *adhvara*
+- *svadhvara* ← *adhvaraḥ* ← *adhvara*
 - \[noun\], nominative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *ino* \< *inaḥ* \< *ina*
+- *ino* ← *inaḥ* ← *ina*
 - \[noun\], nominative, singular, masculine
 - “mighty; powerful.”
 ------------------------------------------------------------------------
@@ -75,14 +75,14 @@ title = "Rig Veda 10.115.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prothamāno* \< *prothamānaḥ* \< *pruth*
+- *prothamāno* ← *prothamānaḥ* ← *pruth*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *yavase* \< *yavasa*
+- *yavase* ← *yavasa*
 - \[noun\], locative, singular, masculine
 - “eatage; pasture; fodder.”
 ------------------------------------------------------------------------
-- *vṛṣā* \< *vṛṣan*
+- *vṛṣā* ← *vṛṣan*
 - \[noun\], nominative, singular, masculine
 - “bull; Indra; stallion; Vṛṣan; man.”
 ------------------------------------------------------------------------

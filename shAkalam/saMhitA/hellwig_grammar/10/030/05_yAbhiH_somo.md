@@ -2,19 +2,19 @@
 title = "Rig Veda 10.30.5"
 
 +++
--   *yābhiḥ* \< *yad*
+-   *yābhiḥ* ← *yad*
 - \[noun\], instrumental, plural, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *somo* \< *somaḥ* \< *soma*
+- *somo* ← *somaḥ* ← *soma*
 - \[noun\], nominative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *modate* \< *mud*
+- *modate* ← *mud*
 - \[verb\], singular, Present indikative
 - “rejoice; delight; revel.”
 ------------------------------------------------------------------------
-- *harṣate* \< *hṛṣ*
+- *harṣate* ← *hṛṣ*
 - \[verb\], singular, Present indikative
 - “rejoice; bristle; thrill.”
 ------------------------------------------------------------------------
@@ -22,7 +22,7 @@ title = "Rig Veda 10.30.5"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *kalyāṇībhir* \< *kalyāṇībhiḥ* \< *kalyāṇa*
+- *kalyāṇībhir* ← *kalyāṇībhiḥ* ← *kalyāṇa*
 - \[noun\], instrumental, plural, feminine
 - “beautiful; good; auspicious; pleasant; dear; beautiful.”
 ------------------------------------------------------------------------

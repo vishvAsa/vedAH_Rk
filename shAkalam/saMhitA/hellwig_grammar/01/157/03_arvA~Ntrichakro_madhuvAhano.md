@@ -2,77 +2,77 @@
 title = "Rig Veda 1.157.3"
 
 +++
--   *arvāṅ* \< *arvāñc*
+-   *arvāṅ* ← *arvāñc*
 - \[noun\], nominative, singular, masculine
 - “approaching; facing; less.”
 ------------------------------------------------------------------------
-- *tricakro* \< *tri*
+- *tricakro* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *tricakro* \< *cakraḥ* \< *cakra*
+- *tricakro* ← *cakraḥ* ← *cakra*
 - \[noun\], nominative, singular, masculine
 - “wheel; Cakra; discus; army; cakra; oil mill; cakrikā; cakra;
     group.”
 ------------------------------------------------------------------------
-- *madhuvāhano* \< *madhu*
+- *madhuvāhano* ← *madhu*
 - \[noun\], neuter
 - “honey; alcohol; sweet; nectar; madhu \[word\].”
 ------------------------------------------------------------------------
-- *madhuvāhano* \< *vāhanaḥ* \< *vāhana*
+- *madhuvāhano* ← *vāhanaḥ* ← *vāhana*
 - \[noun\], nominative, singular, masculine
 - “bringing; carrying.”
 ------------------------------------------------------------------------
-- *ratho* \< *rathaḥ* \< *ratha*
+- *ratho* ← *rathaḥ* ← *ratha*
 - \[noun\], nominative, singular, masculine
 - “chariot; warrior; ratha \[word\]; Dalbergia oojeinensis; rattan.”
 ------------------------------------------------------------------------
-- *jīrāśvo* \< *jīra*
+- *jīrāśvo* ← *jīra*
 - \[noun\]
 - “agile; quick; fast.”
 ------------------------------------------------------------------------
-- *jīrāśvo* \< *aśvaḥ* \< *aśva*
+- *jīrāśvo* ← *aśvaḥ* ← *aśva*
 - \[noun\], nominative, singular, masculine
 - “horse; aśva \[word\]; Aśva; stallion.”
 ------------------------------------------------------------------------
-- *aśvinor* \< *aśvinoḥ* \< *aśvin*
+- *aśvinor* ← *aśvinoḥ* ← *aśvin*
 - \[noun\], genitive, dual, masculine
 - “Asvins; two.”
 ------------------------------------------------------------------------
-- *yātu* \< *yā*
+- *yātu* ← *yā*
 - \[verb\], singular, Present imperative
 - “go; enter (a state); travel; disappear; reach; come; campaign;
     elapse; arrive; drive; reach; leave; run; depart; ride.”
 ------------------------------------------------------------------------
-- *suṣṭutaḥ* \< *suṣṭuta*
+- *suṣṭutaḥ* ← *suṣṭuta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *trivandhuro* \< *tri*
+- *trivandhuro* ← *tri*
 - \[noun\]
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *trivandhuro* \< *vandhuraḥ* \< *vandhura*
+- *trivandhuro* ← *vandhuraḥ* ← *vandhura*
 - \[noun\], nominative, singular, masculine
 - “seat; seat.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *viśvasaubhagaḥ* \< *viśva*
+- *viśvasaubhagaḥ* ← *viśva*
 - \[noun\]
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *viśvasaubhagaḥ* \< *saubhagaḥ* \< *saubhaga*
+- *viśvasaubhagaḥ* ← *saubhagaḥ* ← *saubhaga*
 - \[noun\], nominative, singular, masculine
 - “well-being.”
 ------------------------------------------------------------------------
-- *śaṃ* \< *śam*
+- *śaṃ* ← *śam*
 - \[adverb\]
 - “śam \[word\].”
 ------------------------------------------------------------------------
-- *na* \< *naḥ* \< *mad*
+- *na* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -80,16 +80,16 @@ title = "Rig Veda 1.157.3"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣad* \< *vakṣat* \< *vah*
+- *vakṣad* ← *vakṣat* ← *vah*
 - \[verb\], singular, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *dvipade* \< *dvipad*
+- *dvipade* ← *dvipad*
 - \[noun\], dative, singular, masculine
 - “biped.”
 ------------------------------------------------------------------------
-- *catuṣpade* \< *catuṣpada*
+- *catuṣpade* ← *catuṣpada*
 - \[noun\], dative, singular, masculine
 - “quadrupedal.”
 ------------------------------------------------------------------------

@@ -2,50 +2,50 @@
 title = "Rig Veda 8.46.18"
 
 +++
--   *ye* \< *yad*
+-   *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *pātayante* \< *pātay* \< *√pat*
+- *pātayante* ← *pātay* ← *√pat*
 - \[verb\], plural, Present indikative
 - “pātay; kill; make fall; destroy; lower; put on; cut off; use; make
     fly; drip; divide; give; pour; prick.”
 ------------------------------------------------------------------------
-- *ajmabhir* \< *ajmabhiḥ* \< *ajman*
+- *ajmabhir* ← *ajmabhiḥ* ← *ajman*
 - \[noun\], instrumental, plural, neuter
 - “drive.”
 ------------------------------------------------------------------------
-- *girīṇāṃ* \< *girīṇām* \< *giri*
+- *girīṇāṃ* ← *girīṇām* ← *giri*
 - \[noun\], genitive, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *snubhir* \< *snubhiḥ* \< *snu*
+- *snubhir* ← *snubhiḥ* ← *snu*
 - \[noun\], instrumental, plural, masculine
 - “back.”
 ------------------------------------------------------------------------
-- *eṣām* \< *idam*
+- *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
-- *mahiṣvaṇīnāṃ* \< *mahiṣvaṇīnām* \< *mahiṣvaṇi*
+- *mahiṣvaṇīnāṃ* ← *mahiṣvaṇīnām* ← *mahiṣvaṇi*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *sumnaṃ* \< *sumnam* \< *sumna*
+- *sumnaṃ* ← *sumnam* ← *sumna*
 - \[noun\], accusative, singular, neuter
 - “favor; benevolence; sumna \[word\]; entreaty; favor.”
 ------------------------------------------------------------------------
-- *tuviṣvaṇīnām* \< *tuviṣvaṇi*
+- *tuviṣvaṇīnām* ← *tuviṣvaṇi*
 - \[noun\], genitive, plural, masculine
 ------------------------------------------------------------------------
-- *prādhvare* \< *pra*
+- *prādhvare* ← *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *prādhvare* \< *adhvare* \< *adhvara*
+- *prādhvare* ← *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------

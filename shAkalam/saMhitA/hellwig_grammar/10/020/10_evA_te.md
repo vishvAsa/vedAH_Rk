@@ -2,47 +2,47 @@
 title = "Rig Veda 10.20.10"
 
 +++
--   *evā* \< *eva*
+-   *evā* ← *eva*
 - \[adverb\]
 - “indeed; merely; thus; even; surely; same; eva \[word\];
     successively; immediately; in truth.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *agne* \< *agni*
+- *agne* ← *agni*
 - \[noun\], vocative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *vimado* \< *vimadaḥ* \< *vimada*
+- *vimado* ← *vimadaḥ* ← *vimada*
 - \[noun\], nominative, singular, masculine
 - “Vimada.”
 ------------------------------------------------------------------------
-- *manīṣām* \< *manīṣā*
+- *manīṣām* ← *manīṣā*
 - \[noun\], accusative, singular, feminine
 - “hymn; inspiration; idea; thinking; wish; consideration;
     intelligence.”
 ------------------------------------------------------------------------
-- *ūrjo* \< *ūrjaḥ* \< *ūrj*
+- *ūrjo* ← *ūrjaḥ* ← *ūrj*
 - \[noun\], genitive, singular, feminine
 - “strength; refreshment; vigor; food; strengthening.”
 ------------------------------------------------------------------------
-- *napād* \< *napāt*
+- *napād* ← *napāt*
 - \[noun\], vocative, singular, masculine
 - “grandson; nephew; napāt \[word\].”
 ------------------------------------------------------------------------
-- *amṛtebhiḥ* \< *amṛta*
+- *amṛtebhiḥ* ← *amṛta*
 - \[noun\], instrumental, plural, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
-- *sajoṣāḥ* \< *sajoṣas*
+- *sajoṣāḥ* ← *sajoṣas*
 - \[noun\], nominative, singular, masculine
 - “consentaneous; combined; associated; united.”
 ------------------------------------------------------------------------
-- *gira* \< *giraḥ* \< *gir*
+- *gira* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
@@ -51,16 +51,16 @@ title = "Rig Veda 10.20.10"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vakṣat* \< *vah*
+- *vakṣat* ← *vah*
 - \[verb\], singular, Aorist conj./subj.
 - “transport; bring; marry; run; drive; vāhay; drive; run; pull;
     nirvāpay; blow; transport; discharge; assume; remove.”
 ------------------------------------------------------------------------
-- *sumatīr* \< *sumatīḥ* \< *sumati*
+- *sumatīr* ← *sumatīḥ* ← *sumati*
 - \[noun\], accusative, plural, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *iyāna* \< *iyānaḥ* \< *i*
+- *iyāna* ← *iyānaḥ* \< *i*
 - \[verb noun\], nominative, singular
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------

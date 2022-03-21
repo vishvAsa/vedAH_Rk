@@ -2,22 +2,22 @@
 title = "Rig Veda 5.1.1"
 
 +++
--   *abodhy* \< *abodhi* \< *budh*
+-   *abodhy* ← *abodhi* ← *budh*
 - \[verb\], singular, Aorist passive
 - “understand; notice; wake up; observe; detect; attend to; awaken;
     attend.”
 ------------------------------------------------------------------------
-- *agniḥ* \< *agni*
+- *agniḥ* ← *agni*
 - \[noun\], nominative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;
     jāraṇa; pyre; fireplace; heating.”
 ------------------------------------------------------------------------
-- *samidhā* \< *samidh*
+- *samidhā* ← *samidh*
 - \[noun\], instrumental, singular, feminine
 - “firewood; kindling; fuel; fire.”
 ------------------------------------------------------------------------
-- *janānām* \< *jana*
+- *janānām* ← *jana*
 - \[noun\], genitive, plural, masculine
 - “people; national; man; relative; jan; Janaloka; person; jana
     \[word\]; man; attendant; Jana; foreigner; inhabitant; group.”
@@ -26,23 +26,23 @@ title = "Rig Veda 5.1.1"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *dhenum* \< *dhenu*
+- *dhenum* ← *dhenu*
 - \[noun\], accusative, singular, feminine
 - “cow; dhenu \[word\]; milk.”
 ------------------------------------------------------------------------
-- *ivāyatīm* \< *iva*
+- *ivāyatīm* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivāyatīm* \< *āyatīm* \< *e* \< *√i*
+- *ivāyatīm* ← *āyatīm* ← *e* ← *√i*
 - \[verb noun\], accusative, singular
 - “come; travel.”
 ------------------------------------------------------------------------
-- *uṣāsam* \< *uṣas*
+- *uṣāsam* ← *uṣas*
 - \[noun\], accusative, singular, feminine
 - “Ushas; dawn; uṣas \[word\]; morning.”
 ------------------------------------------------------------------------
-- *yahvā* \< *yahvāḥ* \< *yahva*
+- *yahvā* ← *yahvāḥ* ← *yahva*
 - \[noun\], nominative, plural, masculine
 - “youngest; youthful; active.”
 ------------------------------------------------------------------------
@@ -54,31 +54,31 @@ title = "Rig Veda 5.1.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *vayām* \< *vayā*
+- *vayām* ← *vayā*
 - \[noun\], accusative, singular, feminine
 - “branch; branchlet.”
 ------------------------------------------------------------------------
-- *ujjihānāḥ* \< *ujjhā* \< *√hā*
+- *ujjihānāḥ* ← *ujjhā* ← *√hā*
 - \[verb noun\], nominative, plural
 ------------------------------------------------------------------------
 - *pra*
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *bhānavaḥ* \< *bhānu*
+- *bhānavaḥ* ← *bhānu*
 - \[noun\], nominative, plural, masculine
 - “sun; Surya; Calotropis gigantea Beng.; sunbeam; beam; luminosity;
     copper; light; twelve; appearance; Bhānu; flare.”
 ------------------------------------------------------------------------
-- *sisrate* \< *sṛ*
+- *sisrate* ← *sṛ*
 - \[verb\], plural, Present indikative
 - “sṛ; liquefy; run; spread; stretch out.”
 ------------------------------------------------------------------------
-- *nākam* \< *nāka*
+- *nākam* ← *nāka*
 - \[noun\], accusative, singular, masculine
 - “sky; celestial sphere; Svarga; nāka \[word\].”
 ------------------------------------------------------------------------
-- *accha* \< *acchā*
+- *accha* ← *acchā*
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------

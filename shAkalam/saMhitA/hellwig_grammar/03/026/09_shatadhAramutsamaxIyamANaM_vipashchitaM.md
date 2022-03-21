@@ -2,23 +2,23 @@
 title = "Rig Veda 3.26.9"
 
 +++
--   *śatadhāram* \< *śata*
+-   *śatadhāram* ← *śata*
 - \[noun\], neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------
-- *śatadhāram* \< *dhāram* \< *dhārā*
+- *śatadhāram* ← *dhāram* ← *dhārā*
 - \[noun\], accusative, singular, masculine
 - “flush; flow; current; spring; fountain.”
 ------------------------------------------------------------------------
-- *utsam* \< *utsa*
+- *utsam* ← *utsa*
 - \[noun\], accusative, singular, masculine
 - “spring; fountain; utsa \[word\]; well.”
 ------------------------------------------------------------------------
-- *akṣīyamāṇaṃ* \< *a*
+- *akṣīyamāṇaṃ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *akṣīyamāṇaṃ* \< *kṣīyamāṇam* \< *kṣi*
+- *akṣīyamāṇaṃ* ← *kṣīyamāṇam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “decrease; emaciate; vanish; kill; wane; destroy; run down; elapse;
     lose; lose; gasify; decline; decay; corrupt.”

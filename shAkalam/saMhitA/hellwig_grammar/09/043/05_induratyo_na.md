@@ -2,12 +2,12 @@
 title = "Rig Veda 9.43.5"
 
 +++
--   *indur* \< *induḥ* \< *indu*
+-   *indur* ← *induḥ* ← *indu*
 - \[noun\], nominative, singular, masculine
 - “moon; Soma; drop; anusvāra; one; Candra; silver; camphor; point;
     juice.”
 ------------------------------------------------------------------------
-- *atyo* \< *atyaḥ* \< *atya*
+- *atyo* ← *atyaḥ* ← *atya*
 - \[noun\], nominative, singular, masculine
 - “horse; steed.”
 ------------------------------------------------------------------------
@@ -15,18 +15,18 @@ title = "Rig Veda 9.43.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *vājasṛt* \< *vāja*
+- *vājasṛt* ← *vāja*
 - \[noun\], masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *vājasṛt* \< *sṛt*
+- *vājasṛt* ← *sṛt*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *kanikranti* \< *kanikrad* \< *√krand*
+- *kanikranti* ← *kanikrad* ← *√krand*
 - \[verb\], singular, Present indikative
 - “roar; neigh.”
 ------------------------------------------------------------------------
-- *pavitra* \< *pavitre* \< *pavitra*
+- *pavitra* ← *pavitre* ← *pavitra*
 - \[noun\], locative, singular, neuter
 - “strainer.”
 ------------------------------------------------------------------------
@@ -34,11 +34,11 @@ title = "Rig Veda 9.43.5"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *akṣār* \< *kṣar*
+- *akṣār* ← *kṣar*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “run; melt.”
 ------------------------------------------------------------------------
@@ -46,7 +46,7 @@ title = "Rig Veda 9.43.5"
 - \[adverb\]
 - “very; excessively; beyond; excessively.”
 ------------------------------------------------------------------------
-- *devayuḥ* \< *devayu*
+- *devayuḥ* ← *devayu*
 - \[noun\], nominative, singular, masculine
 - “devout; devoted.”
 ------------------------------------------------------------------------

@@ -2,11 +2,11 @@
 title = "Rig Veda 10.21.1"
 
 +++
--   *āgniṃ* \< *ā*
+-   *āgniṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *āgniṃ* \< *agnim* \< *agni*
+- *āgniṃ* ← *agnim* ← *agni*
 - \[noun\], accusative, singular, masculine
 - “fire; Agni; sacrificial fire; digestion; cautery; Plumbago
     zeylanica; fire; vahni; agni \[word\]; agnikarman; gold; three;

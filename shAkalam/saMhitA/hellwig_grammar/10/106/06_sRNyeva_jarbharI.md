@@ -2,66 +2,66 @@
 title = "Rig Veda 10.106.6"
 
 +++
--   *sṛṇyeva* \< *sṛṇyā* \< *sṛṇya*
+-   *sṛṇyeva* ← *sṛṇyā* ← *sṛṇya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *sṛṇyeva* \< *iva*
+- *sṛṇyeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jarbharī* \< *jarbhari*
+- *jarbharī* ← *jarbhari*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *turpharītū* \< *\_* \< *√\_*
+- *turpharītū* ← *\_* ← *√\_*
 - \[?\]
 - “\_”
 ------------------------------------------------------------------------
-- *naitośeva* \< *naitośā* \< *naitośa*
+- *naitośeva* ← *naitośā* ← *naitośa*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *naitośeva* \< *iva*
+- *naitośeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *turpharī* \< *turphari*
+- *turpharī* ← *turphari*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *parpharīkā* \< *parpharīka*
+- *parpharīkā* ← *parpharīka*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *udanyajeva* \< *udanya*
+- *udanyajeva* ← *udanya*
 - \[noun\]
 ------------------------------------------------------------------------
-- *udanyajeva* \< *jā* \< *ja*
+- *udanyajeva* ← *jā* ← *ja*
 - \[noun\], nominative, dual, masculine
 - “produced; caused; born; located; growing; descended from;
     consisting of; ja \[word\]; living; written; flourishing.”
 ------------------------------------------------------------------------
-- *udanyajeva* \< *iva*
+- *udanyajeva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *jemanā* \< *jeman*
+- *jemanā* ← *jeman*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *maderū* \< *maderu*
+- *maderū* ← *maderu*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *tā* \< *tad*
+- *tā* ← *tad*
 - \[noun\], nominative, dual, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], genitive, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *jarāyv* \< *jarāyū* \< *jarāyu*
+- *jarāyv* ← *jarāyū* ← *jarāyu*
 - \[noun\], accusative, plural, neuter
 - “afterbirth; chorion; placenta.”
 ------------------------------------------------------------------------
-- *ajaram* \< *ajara*
+- *ajaram* ← *ajara*
 - \[noun\], accusative, singular, neuter
 - “undecaying; ageless.”
 ------------------------------------------------------------------------

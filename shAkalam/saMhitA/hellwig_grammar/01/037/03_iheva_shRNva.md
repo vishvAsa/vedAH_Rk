@@ -2,35 +2,35 @@
 title = "Rig Veda 1.37.3"
 
 +++
--   *iheva* \< *iha*
+-   *iheva* ← *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *iheva* \< *iva*
+- *iheva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *śṛṇva* \< *śṛṇve* \< *śru*
+- *śṛṇva* ← *śṛṇve* ← *śru*
 - \[verb\], singular, Present indikative
 - “listen; come to know; hear; hear; listen; study; heed; learn.”
 ------------------------------------------------------------------------
-- *eṣāṃ* \< *eṣām* \< *idam*
+- *eṣāṃ* ← *eṣām* ← *idam*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *kaśā* \< *kaśāḥ* \< *kaśā*
+- *kaśā* ← *kaśāḥ* ← *kaśā*
 - \[noun\], nominative, plural, feminine
 - “whip.”
 ------------------------------------------------------------------------
-- *hasteṣu* \< *hasta*
+- *hasteṣu* ← *hasta*
 - \[noun\], locative, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *vadān* \< *vad*
+- *vadān* ← *vad*
 - \[verb\], plural, Present conjunctive (subjunctive)
 - “describe; teach; speak; tell; say; call; name; enumerate; declare;
     diagnose; address; say; pronounce; express; instruct; order.”
@@ -39,14 +39,14 @@ title = "Rig Veda 1.37.3"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *yāmañ* \< *yāman*
+- *yāmañ* ← *yāman*
 - \[noun\], locative, singular, neuter
 - “expedition; path; expedition; arrival.”
 ------------------------------------------------------------------------
-- *citram* \< *citra*
+- *citram* ← *citra*
 - \[noun\], accusative, singular, neuter
 - “painting; citra \[word\]; decoration.”
 ------------------------------------------------------------------------
-- *ṛñjate* \< *ṛj*
+- *ṛñjate* ← *ṛj*
 - \[verb\], singular, Present indikative
 ------------------------------------------------------------------------

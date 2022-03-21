@@ -2,7 +2,7 @@
 title = "Rig Veda 8.1.5"
 
 +++
--   *mahe* \< *mah*
+-   *mahe* ← *mah*
 - \[noun\], dative, singular, neuter
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
@@ -10,11 +10,11 @@ title = "Rig Veda 8.1.5"
 - \[adverb\]
 - “not even; cana \[word\].”
 ------------------------------------------------------------------------
-- *tvām* \< *tvad*
+- *tvām* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *adrivaḥ* \< *adrivas* \< *adrivat*
+- *adrivaḥ* ← *adrivas* ← *adrivat*
 - \[noun\], vocative, singular, masculine
 - “rocky; petrous.”
 ------------------------------------------------------------------------
@@ -22,11 +22,11 @@ title = "Rig Veda 8.1.5"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śulkāya* \< *śulka*
+- *śulkāya* ← *śulka*
 - \[noun\], dative, singular, neuter
 - “dowry; tax; money; customs; price; mucus.”
 ------------------------------------------------------------------------
-- *deyām* \< *dā*
+- *deyām* ← *dā*
 - \[verb\], singular, Aorist optative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
@@ -37,26 +37,26 @@ title = "Rig Veda 8.1.5"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sahasrāya* \< *sahasra*
+- *sahasrāya* ← *sahasra*
 - \[noun\], dative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *nāyutāya* \< *na*
+- *nāyutāya* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nāyutāya* \< *ayutāya* \< *ayuta*
+- *nāyutāya* ← *ayutāya* ← *ayuta*
 - \[noun\], dative, singular, neuter
 - “ayuta.”
 ------------------------------------------------------------------------
-- *vajrivo* \< *vajrivas* \< *vajrivat*
+- *vajrivo* ← *vajrivas* ← *vajrivat*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
 - *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *śatāya* \< *śata*
+- *śatāya* ← *śata*
 - \[noun\], dative, singular, neuter
 - “hundred; one-hundredth; śata \[word\].”
 ------------------------------------------------------------------------

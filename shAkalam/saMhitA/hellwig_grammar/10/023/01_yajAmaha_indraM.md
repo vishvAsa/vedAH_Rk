@@ -2,34 +2,34 @@
 title = "Rig Veda 10.23.1"
 
 +++
--   *yajāmaha* \< *yajāmahe* \< *yaj*
+-   *yajāmaha* ← *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *indraṃ* \< *indram* \< *indra*
+- *indraṃ* ← *indram* ← *indra*
 - \[noun\], accusative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *vajradakṣiṇaṃ* \< *vajra*
+- *vajradakṣiṇaṃ* ← *vajra*
 - \[noun\], masculine
 - “vajra; Vajra; vajra; vajra; lightning; abhra; vajramūṣā; diamond;
     vajra \[word\]; vajrakapāṭa; vajra; vaikrānta.”
 ------------------------------------------------------------------------
-- *vajradakṣiṇaṃ* \< *dakṣiṇam* \< *dakṣiṇa*
+- *vajradakṣiṇaṃ* ← *dakṣiṇam* ← *dakṣiṇa*
 - \[noun\], accusative, singular, masculine
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
 ------------------------------------------------------------------------
-- *harīṇāṃ* \< *harīṇām* \< *hari*
+- *harīṇāṃ* ← *harīṇām* ← *hari*
 - \[noun\], genitive, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *rathyaṃ* \< *rathyam* \< *rathya*
+- *rathyaṃ* ← *rathyam* ← *rathya*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *vivratānām* \< *vivrata*
+- *vivratānām* ← *vivrata*
 - \[noun\], genitive, plural, masculine
 - “refractory; loath.”
 ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ title = "Rig Veda 10.23.1"
 - \[noun\], accusative, singular, neuter
 - “beard.”
 ------------------------------------------------------------------------
-- *dodhuvad* \< *dodhuvat* \< *dodhu* \< *√dhū*
+- *dodhuvad* ← *dodhuvat* ← *dodhu* ← *√dhū*
 - \[verb noun\], nominative, singular
 - “shake.”
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ title = "Rig Veda 10.23.1"
 - \[adverb\]
 - “erectly.”
 ------------------------------------------------------------------------
-- *bhūd* \< *bhūt* \< *bhū*
+- *bhūd* ← *bhūt* ← *bhū*
 - \[verb\], singular, Aorist inj. (proh.)
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
@@ -60,11 +60,11 @@ title = "Rig Veda 10.23.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *senābhir* \< *senābhiḥ* \< *senā*
+- *senābhir* ← *senābhiḥ* ← *senā*
 - \[noun\], instrumental, plural, feminine
 - “army; senā \[word\]; armament.”
 ------------------------------------------------------------------------
-- *dayamāno* \< *dayamānaḥ* \< *day*
+- *dayamāno* ← *dayamānaḥ* ← *day*
 - \[verb noun\], nominative, singular
 - “share.”
 ------------------------------------------------------------------------
@@ -72,7 +72,7 @@ title = "Rig Veda 10.23.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rādhasā* \< *rādhas*
+- *rādhasā* ← *rādhas*
 - \[noun\], instrumental, singular, neuter
 - “gift; munificence; liberality; bounty.”
 ------------------------------------------------------------------------

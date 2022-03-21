@@ -6,51 +6,51 @@ title = "Rig Veda 8.103.9"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vaṃsate* \< *van*
+- *vaṃsate* ← *van*
 - \[verb\], singular, Aorist conj./subj.
 - “obtain; gain; desire; get; like; love; overcome.”
 ------------------------------------------------------------------------
-- *maghavā* \< *maghavan*
+- *maghavā* ← *maghavan*
 - \[noun\], nominative, singular, masculine
 - “big.”
 ------------------------------------------------------------------------
-- *vīravad* \< *vīravat*
+- *vīravad* ← *vīravat*
 - \[noun\], accusative, singular, neuter
 - “rich in men.”
 ------------------------------------------------------------------------
-- *yaśaḥ* \< *yaśas*
+- *yaśaḥ* ← *yaśas*
 - \[noun\], accusative, singular, neuter
 - “fame; Yaśas.”
 ------------------------------------------------------------------------
-- *samiddho* \< *samiddhaḥ* \< *samindh* \< *√indh*
+- *samiddho* ← *samiddhaḥ* ← *samindh* ← *√indh*
 - \[verb noun\], nominative, singular
 - “kindle; blaze.”
 ------------------------------------------------------------------------
-- *dyumny* \< *dyumnī* \< *dyumnin*
+- *dyumny* ← *dyumnī* ← *dyumnin*
 - \[noun\], nominative, singular, masculine
 - “powerful; imperial.”
 ------------------------------------------------------------------------
-- *āhutaḥ* \< *āhu* \< *√hu*
+- *āhutaḥ* ← *āhu* ← *√hu*
 - \[verb noun\], nominative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *kuvin* \< *kuvid*
+- *kuvin* ← *kuvid*
 - \[adverb\]
 - “surely; indeed.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *asya* \< *idam*
+- *asya* ← *idam*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *sumatir* \< *sumatiḥ* \< *sumati*
+- *sumatir* ← *sumatiḥ* ← *sumati*
 - \[noun\], nominative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *navīyasy* \< *navīyasī* \< *navīyas*
+- *navīyasy* ← *navīyasī* ← *navīyas*
 - \[noun\], nominative, singular, feminine
 - “new; fresh; up-to-the-minute.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 8.103.9"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *vājebhir* \< *vājebhiḥ* \< *vāja*
+- *vājebhir* ← *vājebhiḥ* ← *vāja*
 - \[noun\], instrumental, plural, masculine
 - “prize; Vāja; reward; reward; Ribhus; vigor; strength; contest.”
 ------------------------------------------------------------------------
-- *āgamat* \< *āgam* \< *√gam*
+- *āgamat* ← *āgam* ← *√gam*
 - \[verb\], singular, Aorist inj. (proh.)
 - “come; arrive; return; enter (a state); approach; travel; enter;
     inherit; hand down; achieve; reach; appear; happen.”

@@ -2,42 +2,42 @@
 title = "Rig Veda 8.45.15"
 
 +++
--   *yas* \< *yaḥ* \< *yad*
+-   *yas* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *revāṃ* \< *revām* \< *revā*
+- *revāṃ* ← *revām* ← *revā*
 - \[noun\], accusative, singular, feminine
 - “Narmadā.”
 ------------------------------------------------------------------------
-- *adāśuriḥ* \< *a*
+- *adāśuriḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *adāśuriḥ* \< *dāśuriḥ* \< *dāśuri*
+- *adāśuriḥ* ← *dāśuriḥ* ← *dāśuri*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *pramamarṣa* \< *pramṛṣ* \< *√mṛṣ*
+- *pramamarṣa* ← *pramṛṣ* ← *√mṛṣ*
 - \[verb\], singular, Perfect indicative
 ------------------------------------------------------------------------
-- *maghattaye* \< *maghatti*
+- *maghattaye* ← *maghatti*
 - \[noun\], dative, singular, feminine
 ------------------------------------------------------------------------
-- *tasya* \< *tad*
+- *tasya* ← *tad*
 - \[noun\], genitive, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *veda* \< *vedaḥ* \< *vedas*
+- *veda* ← *vedaḥ* ← *vedas*
 - \[noun\], accusative, singular, neuter
 - “property.”
 ------------------------------------------------------------------------
@@ -45,7 +45,7 @@ title = "Rig Veda 8.45.15"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *bhara* \< *bhṛ*
+- *bhara* ← *bhṛ*
 - \[verb\], singular, Present imperative
 - “bring; hold; fill; support; wear; possess; carry; nourish; keep;
     hire; have; satiate; follow; bear.”

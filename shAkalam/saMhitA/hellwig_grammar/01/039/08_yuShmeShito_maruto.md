@@ -2,18 +2,18 @@
 title = "Rig Veda 1.39.8"
 
 +++
--   *yuṣmeṣito* \< *yuṣmeṣitaḥ* \< *yuṣmeṣita*
+-   *yuṣmeṣito* ← *yuṣmeṣitaḥ* ← *yuṣmeṣita*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *maruto* \< *marutaḥ* \< *marut*
+- *maruto* ← *marutaḥ* ← *marut*
 - \[noun\], vocative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *martyeṣita* \< *martya*
+- *martyeṣita* ← *martya*
 - \[noun\], masculine
 - “man; people; martya \[word\]; Earth.”
 ------------------------------------------------------------------------
-- *martyeṣita* \< *iṣitaḥ* \< *iṣ*
+- *martyeṣita* ← *iṣitaḥ* ← *iṣ*
 - \[verb noun\], nominative, singular
 - “send.”
 ------------------------------------------------------------------------
@@ -21,19 +21,19 @@ title = "Rig Veda 1.39.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *abhva* \< *abhvaḥ* \< *abhva*
+- *abhva* ← *abhvaḥ* ← *abhva*
 - \[noun\], nominative, singular, masculine
 - “awful.”
 ------------------------------------------------------------------------
-- *īṣate* \< *iṣ*
+- *īṣate* ← *iṣ*
 - \[verb\], dual, Perfect indicative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
@@ -42,25 +42,25 @@ title = "Rig Veda 1.39.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *taṃ* \< *tam* \< *tad*
+- *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *yuyota* \< *yu*
+- *yuyota* ← *yu*
 - \[verb\], plural, Present injunctive
 - “keep away; separate; ward off.”
 ------------------------------------------------------------------------
-- *śavasā* \< *śavas*
+- *śavasā* ← *śavas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; superiority.”
 ------------------------------------------------------------------------
-- *vy* \< *vi*
+- *vy* ← *vi*
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *ojasā* \< *ojas*
+- *ojasā* ← *ojas*
 - \[noun\], instrumental, singular, neuter
 - “strength; power; ojas; ojas \[word\]; potency; might.”
 ------------------------------------------------------------------------
@@ -68,11 +68,11 @@ title = "Rig Veda 1.39.8"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *yuṣmākābhir* \< *yuṣmākābhiḥ* \< *yuṣmāka*
+- *yuṣmākābhir* ← *yuṣmākābhiḥ* ← *yuṣmāka*
 - \[noun\], instrumental, plural, feminine
 - “your(a); yuṣmāka \[word\].”
 ------------------------------------------------------------------------
-- *ūtibhiḥ* \< *ūti*
+- *ūtibhiḥ* ← *ūti*
 - \[noun\], instrumental, plural, feminine
 - “aid; favor; ūti \[word\].”
 ------------------------------------------------------------------------

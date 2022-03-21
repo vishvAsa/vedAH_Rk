@@ -6,20 +6,20 @@ title = "Rig Veda 10.127.8"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], dative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *gā* \< *gāḥ* \< *go*
+- *gā* ← *gāḥ* ← *go*
 - \[noun\], accusative, plural, feminine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *ivākaraṃ* \< *iva*
+- *ivākaraṃ* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *ivākaraṃ* \< *akaram* \< *kṛ*
+- *ivākaraṃ* ← *akaram* ← *kṛ*
 - \[verb\], singular, Thematic aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -30,7 +30,7 @@ title = "Rig Veda 10.127.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *vṛṇīṣva* \< *vṛ*
+- *vṛṇīṣva* ← *vṛ*
 - \[verb\], singular, Present imperative
 - “choose; ask.”
 ------------------------------------------------------------------------

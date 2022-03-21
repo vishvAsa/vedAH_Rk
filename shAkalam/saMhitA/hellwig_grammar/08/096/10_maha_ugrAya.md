@@ -2,63 +2,63 @@
 title = "Rig Veda 8.96.10"
 
 +++
--   *maha* \< *mahe* \< *mah*
+-   *maha* ← *mahe* ← *mah*
 - \[noun\], dative, singular, masculine
 - “great; great; distinguished; much(a); adult; long; high.”
 ------------------------------------------------------------------------
-- *ugrāya* \< *ugra*
+- *ugrāya* ← *ugra*
 - \[noun\], dative, singular, masculine
 - “powerful; awful; dangerous; intense; mighty; potent; colicky;
     atrocious.”
 ------------------------------------------------------------------------
-- *tavase* \< *tavas*
+- *tavase* ← *tavas*
 - \[noun\], dative, singular, masculine
 - “strong; energetic.”
 ------------------------------------------------------------------------
-- *suvṛktim* \< *suvṛkti*
+- *suvṛktim* ← *suvṛkti*
 - \[noun\], accusative, singular, feminine
 - “praise.”
 ------------------------------------------------------------------------
-- *preraya* \< *preray* \< *√īr*
+- *preraya* ← *preray* ← *√īr*
 - \[verb\], singular, Present imperative
 - “propel; throw.”
 ------------------------------------------------------------------------
-- *śivatamāya* \< *śivatama*
+- *śivatamāya* ← *śivatama*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *paśvaḥ* \< *paśu*
+- *paśvaḥ* ← *paśu*
 - \[noun\], genitive, singular, masculine
 - “domestic animal; sacrificial animal; animal; cattle; Paśu; stupid;
     Paśu; herd; goat.”
 ------------------------------------------------------------------------
-- *girvāhase* \< *gir*
+- *girvāhase* ← *gir*
 - \[noun\], feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *girvāhase* \< *vāhase* \< *vāhas*
+- *girvāhase* ← *vāhase* ← *vāhas*
 - \[noun\], dative, singular, masculine
 ------------------------------------------------------------------------
-- *gira* \< *giraḥ* \< *gir*
+- *gira* ← *giraḥ* ← *gir*
 - \[noun\], accusative, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pūrvīr* \< *pūrvīḥ* \< *puru*
+- *pūrvīr* ← *pūrvīḥ* ← *puru*
 - \[noun\], accusative, plural, feminine
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *dhehi* \< *dhā*
+- *dhehi* ← *dhā*
 - \[verb\], singular, Present imperative
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *tanve* \< *tanū*
+- *tanve* ← *tanū*
 - \[noun\], dative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
@@ -70,7 +70,7 @@ title = "Rig Veda 8.96.10"
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *vedat* \< *vid*
+- *vedat* ← *vid*
 - \[verb\], singular, Present conjunctive (subjunctive)
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”

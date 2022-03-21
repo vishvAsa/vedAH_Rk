@@ -2,7 +2,7 @@
 title = "Rig Veda 3.53.10"
 
 +++
--   *haṃsā* \< *haṃsāḥ* \< *haṃsa*
+-   *haṃsā* ← *haṃsāḥ* ← *haṃsa*
 - \[noun\], nominative, plural, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
@@ -10,7 +10,7 @@ title = "Rig Veda 3.53.10"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *kṛṇutha* \< *kṛ*
+- *kṛṇutha* ← *kṛ*
 - \[verb\], plural, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -21,28 +21,28 @@ title = "Rig Veda 3.53.10"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *ślokam* \< *śloka*
+- *ślokam* ← *śloka*
 - \[noun\], accusative, singular, masculine
 - “Śloka; fame; hymn; śloka \[word\]; praise; glory; verse.”
 ------------------------------------------------------------------------
-- *adribhir* \< *adribhiḥ* \< *adri*
+- *adribhir* ← *adribhiḥ* ← *adri*
 - \[noun\], instrumental, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *madanto* \< *madantaḥ* \< *mad*
+- *madanto* ← *madantaḥ* ← *mad*
 - \[verb noun\], nominative, plural
 - “rut; intoxicate; delight; revel; rejoice; drink; ramp; exult.”
 ------------------------------------------------------------------------
-- *gīrbhir* \< *gīrbhiḥ* \< *gir*
+- *gīrbhir* ← *gīrbhiḥ* ← *gir*
 - \[noun\], instrumental, plural, feminine
 - “hymn; praise; voice; words; invocation; command; statement; cry;
     language.”
 ------------------------------------------------------------------------
-- *adhvare* \< *adhvara*
+- *adhvare* ← *adhvara*
 - \[noun\], locative, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *sute* \< *su*
+- *sute* ← *su*
 - \[verb noun\], locative, singular
 - “press out; su.”
 ------------------------------------------------------------------------
@@ -50,24 +50,24 @@ title = "Rig Veda 3.53.10"
 - \[adverb\]
 - “jointly.”
 ------------------------------------------------------------------------
-- *devebhir* \< *devebhiḥ* \< *deva*
+- *devebhir* ← *devebhiḥ* ← *deva*
 - \[noun\], instrumental, plural, masculine
 - “Deva; Hindu deity; king; deity; Indra; deva \[word\]; God; Jina;
     Viśvedevās; mercury; natural phenomenon; gambling.”
 ------------------------------------------------------------------------
-- *viprā* \< *viprāḥ* \< *vipra*
+- *viprā* ← *viprāḥ* ← *vipra*
 - \[noun\], vocative, plural, masculine
 - “eloquent; stimulated; divine.”
 ------------------------------------------------------------------------
-- *ṛṣayo* \< *ṛṣayaḥ* \< *ṛṣi*
+- *ṛṣayo* ← *ṛṣayaḥ* ← *ṛṣi*
 - \[noun\], vocative, plural, masculine
 - “Ṛṣi; spiritual teacher; ascetic; Mantra.”
 ------------------------------------------------------------------------
-- *nṛcakṣaso* \< *nṛ*
+- *nṛcakṣaso* ← *nṛ*
 - \[noun\], masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *nṛcakṣaso* \< *cakṣasaḥ* \< *cakṣas*
+- *nṛcakṣaso* ← *cakṣasaḥ* ← *cakṣas*
 - \[noun\], nominative, plural, masculine
 - “eye; look; radiance.”
 ------------------------------------------------------------------------
@@ -75,15 +75,15 @@ title = "Rig Veda 3.53.10"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pibadhvaṃ* \< *pibadhvam* \< *pā*
+- *pibadhvaṃ* ← *pibadhvam* ← *pā*
 - \[verb\], plural, Present imperative
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *kuśikāḥ* \< *kuśika*
+- *kuśikāḥ* ← *kuśika*
 - \[noun\], vocative, plural, masculine
 - “Kuśika; Vatica robusta.”
 ------------------------------------------------------------------------
-- *somyam* \< *somya*
+- *somyam* ← *somya*
 - \[noun\], accusative, singular, neuter
 - “saumya.”
 ------------------------------------------------------------------------

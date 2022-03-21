@@ -2,15 +2,15 @@
 title = "Rig Veda 1.65.9"
 
 +++
--   *śvasity* \< *śvasiti* \< *śvas*
+-   *śvasity* ← *śvasiti* ← *śvas*
 - \[verb\], singular, Present indikative
 - “hiss; pant; sigh; breathe; blow.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *haṃso* \< *haṃsaḥ* \< *haṃsa*
+- *haṃso* ← *haṃsaḥ* ← *haṃsa*
 - \[noun\], nominative, singular, masculine
 - “goose; Vishnu; sun.”
 ------------------------------------------------------------------------
@@ -18,25 +18,25 @@ title = "Rig Veda 1.65.9"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sīdan* \< *sad*
+- *sīdan* ← *sad*
 - \[verb noun\], nominative, singular
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”
 ------------------------------------------------------------------------
-- *kratvā* \< *kratu*
+- *kratvā* ← *kratu*
 - \[noun\], instrumental, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
 ------------------------------------------------------------------------
-- *cetiṣṭho* \< *cetiṣṭhaḥ* \< *cetiṣṭha*
+- *cetiṣṭho* ← *cetiṣṭhaḥ* ← *cetiṣṭha*
 - \[noun\], nominative, singular, masculine
 - “attentive.”
 ------------------------------------------------------------------------
-- *viśām* \< *viś*
+- *viśām* ← *viś*
 - \[noun\], genitive, plural, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------
-- *uṣarbhut* \< *uṣarbudh*
+- *uṣarbhut* ← *uṣarbudh*
 - \[noun\], nominative, singular, masculine
 - “early rising.”
 ------------------------------------------------------------------------

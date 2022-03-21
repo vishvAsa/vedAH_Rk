@@ -2,22 +2,22 @@
 title = "Rig Veda 4.55.6"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
-- *rodasī* \< *rodas*
+- *rodasī* ← *rodas*
 - \[noun\], vocative, dual, neuter
 - “heaven and earth; Earth.”
 ------------------------------------------------------------------------
-- *ahinā* \< *ahi*
+- *ahinā* ← *ahi*
 - \[noun\], instrumental, singular, masculine
 - “snake; lead; nāga; Nāga; ahi \[word\]; Vṛtra.”
 ------------------------------------------------------------------------
-- *budhnyena* \< *budhnya*
+- *budhnyena* ← *budhnya*
 - \[noun\], instrumental, singular, masculine
 ------------------------------------------------------------------------
-- *stuvīta* \< *stu*
+- *stuvīta* ← *stu*
 - \[verb\], singular, Present optative
 - “laud; praise; declare; stu.”
 ------------------------------------------------------------------------
@@ -25,16 +25,16 @@ title = "Rig Veda 4.55.6"
 - \[noun\], vocative, dual, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *apyebhir* \< *apyebhiḥ* \< *apya*
+- *apyebhir* ← *apyebhiḥ* ← *apya*
 - \[noun\], instrumental, plural, masculine
 - “aquatic; aquatic.”
 ------------------------------------------------------------------------
-- *iṣṭaiḥ* \< *iṣ*
+- *iṣṭaiḥ* ← *iṣ*
 - \[verb noun\], instrumental, plural
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”
 ------------------------------------------------------------------------
-- *samudraṃ* \< *samudram* \< *samudra*
+- *samudraṃ* ← *samudram* ← *samudra*
 - \[noun\], accusative, singular, masculine
 - “ocean; Samudra; sea; samudra \[word\]; four.”
 ------------------------------------------------------------------------
@@ -42,24 +42,24 @@ title = "Rig Veda 4.55.6"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *saṃcaraṇe* \< *saṃcaraṇa*
+- *saṃcaraṇe* ← *saṃcaraṇa*
 - \[noun\], locative, singular, neuter
 - “movement; motion.”
 ------------------------------------------------------------------------
-- *saniṣyavo* \< *saniṣyavaḥ* \< *saniṣyu*
+- *saniṣyavo* ← *saniṣyavaḥ* ← *saniṣyu*
 - \[noun\], nominative, plural, masculine
 - “eager; plundering.”
 ------------------------------------------------------------------------
-- *gharmasvaraso* \< *gharma*
+- *gharmasvaraso* ← *gharma*
 - \[noun\], masculine
 - “sunlight; heat; summer; Gharma; Gharma; boiler; perspiration;
     caldron.”
 ------------------------------------------------------------------------
-- *gharmasvaraso* \< *svarasaḥ* \< *svaras*
+- *gharmasvaraso* ← *svarasaḥ* ← *svaras*
 - \[noun\], accusative, plural, feminine
 - “sound.”
 ------------------------------------------------------------------------
-- *nadyo* \< *nadyaḥ* \< *nadī*
+- *nadyo* ← *nadyaḥ* ← *nadī*
 - \[noun\], accusative, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
@@ -67,7 +67,7 @@ title = "Rig Veda 4.55.6"
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *vran* \< *vṛ*
+- *vran* ← *vṛ*
 - \[verb\], plural, Aorist inj. (proh.)
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”

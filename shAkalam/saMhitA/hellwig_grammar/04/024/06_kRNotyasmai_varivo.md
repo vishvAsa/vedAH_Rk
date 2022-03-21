@@ -2,7 +2,7 @@
 title = "Rig Veda 4.24.6"
 
 +++
--   *kṛṇoty* \< *kṛṇoti* \< *kṛ*
+-   *kṛṇoty* ← *kṛṇoti* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -13,70 +13,70 @@ title = "Rig Veda 4.24.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *asmai* \< *idam*
+- *asmai* ← *idam*
 - \[noun\], dative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *varivo* \< *varivaḥ* \< *varivas*
+- *varivo* ← *varivaḥ* ← *varivas*
 - \[noun\], accusative, singular, neuter
 - “room; varivas \[word\]; space; escape.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *itthendrāya* \< *itthā*
+- *itthendrāya* ← *itthā*
 - \[adverb\]
 - “thus; here.”
 ------------------------------------------------------------------------
-- *itthendrāya* \< *indrāya* \< *indra*
+- *itthendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *somam* \< *soma*
+- *somam* ← *soma*
 - \[noun\], accusative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *uśate* \< *vaś*
+- *uśate* ← *vaś*
 - \[verb noun\], dative, singular
 - “desire; agree; call; care; like; love.”
 ------------------------------------------------------------------------
-- *sunoti* \< *su*
+- *sunoti* ← *su*
 - \[verb\], singular, Present indikative
 - “press out; su.”
 ------------------------------------------------------------------------
-- *sadhrīcīnena* \< *sadhrīcīna*
+- *sadhrīcīnena* ← *sadhrīcīna*
 - \[noun\], instrumental, singular, neuter
 - “concentrated; joint.”
 ------------------------------------------------------------------------
-- *manasāvivenan* \< *manasā* \< *manas*
+- *manasāvivenan* ← *manasā* ← *manas*
 - \[noun\], instrumental, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”
 ------------------------------------------------------------------------
-- *manasāvivenan* \< *a*
+- *manasāvivenan* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *manasāvivenan* \< *vivenan* \< *viven* \< *√ven*
+- *manasāvivenan* ← *vivenan* ← *viven* ← *√ven*
 - \[verb noun\], nominative, singular
 ------------------------------------------------------------------------
-- *tam* \< *tad*
+- *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *it* \< *id*
+- *it* ← *id*
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *sakhāyaṃ* \< *sakhāyam* \< *sakhi*
+- *sakhāyaṃ* ← *sakhāyam* ← *sakhi*
 - \[noun\], accusative, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *kṛṇute* \< *kṛ*
+- *kṛṇute* ← *kṛ*
 - \[verb\], singular, Present indikative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -87,7 +87,7 @@ title = "Rig Veda 4.24.6"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *samatsu* \< *samad*
+- *samatsu* ← *samad*
 - \[noun\], locative, plural, masculine
 - “conflict; strife.”
 ------------------------------------------------------------------------

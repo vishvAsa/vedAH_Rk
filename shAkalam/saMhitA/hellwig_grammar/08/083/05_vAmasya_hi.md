@@ -2,7 +2,7 @@
 title = "Rig Veda 8.83.5"
 
 +++
--   *vāmasya* \< *vāma*
+-   *vāmasya* ← *vāma*
 - \[noun\], genitive, singular, neuter
 - “agreeable; vāma \[word\]; beautiful.”
 ------------------------------------------------------------------------
@@ -10,34 +10,34 @@ title = "Rig Veda 8.83.5"
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *pracetasa* \< *pracetasaḥ* \< *pracetas*
+- *pracetasa* ← *pracetasaḥ* ← *pracetas*
 - \[noun\], nominative, plural, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *īśānāso* \< *īśānāsaḥ* \< *īś*
+- *īśānāso* ← *īśānāsaḥ* ← *īś*
 - \[verb noun\], nominative, plural
 - “govern; command; master; dominate; can; reign; control; own.”
 ------------------------------------------------------------------------
-- *riśādasaḥ* \< *riśādas*
+- *riśādasaḥ* ← *riśādas*
 - \[noun\], nominative, plural, masculine
 - “superior; superior; proud.”
 ------------------------------------------------------------------------
-- *nem* \< *na*
+- *nem* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nem* \< *īm* \< *īṃ*
+- *nem* ← *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *aghasya* \< *agha*
+- *aghasya* ← *agha*
 - \[noun\], genitive, singular, masculine
 - “bad; dangerous; ill; iniquitous; bad.”
 ------------------------------------------------------------------------
-- *yat* \< *yad*
+- *yat* ← *yad*
 - \[noun\], nominative, singular, neuter
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

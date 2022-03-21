@@ -2,7 +2,7 @@
 title = "Rig Veda 7.101.3"
 
 +++
--   *starīr* \< *starīḥ* \< *starī*
+-   *starīr* ← *starīḥ* ← *starī*
 - \[noun\], nominative, singular, feminine
 - “barren cow.”
 ------------------------------------------------------------------------
@@ -10,18 +10,18 @@ title = "Rig Veda 7.101.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tva*
+- *tvad* ← *tvat* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *bhavati* \< *bhū*
+- *bhavati* ← *bhū*
 - \[verb\], singular, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *sūta* \< *sūte* \< *sū*
+- *sūta* ← *sūte* ← *sū*
 - \[verb\], singular, Present indikative
 - “give birth; urge; bestow; cause.”
 ------------------------------------------------------------------------
@@ -29,18 +29,18 @@ title = "Rig Veda 7.101.3"
 - \[adverb\]
 - “ukāra; besides; now; indeed; u.”
 ------------------------------------------------------------------------
-- *tvad* \< *tvat* \< *tva*
+- *tvad* ← *tvat* ← *tva*
 - \[noun\], accusative, singular, neuter
 - “many a(a); one.”
 ------------------------------------------------------------------------
-- *yathāvaśaṃ* \< *yathāvaśam*
+- *yathāvaśaṃ* ← *yathāvaśam*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *tanvaṃ* \< *tanvam* \< *tanū*
+- *tanvaṃ* ← *tanvam* ← *tanū*
 - \[noun\], accusative, singular, feminine
 - “body; self; own(a); person; form.”
 ------------------------------------------------------------------------
-- *cakra* \< *cakre* \< *kṛ*
+- *cakra* ← *cakre* ← *kṛ*
 - \[verb\], singular, Perfect indicative
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -51,16 +51,16 @@ title = "Rig Veda 7.101.3"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *eṣaḥ* \< *etad*
+- *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *pituḥ* \< *pitṛ*
+- *pituḥ* ← *pitṛ*
 - \[noun\], genitive, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *payaḥ* \< *payas*
+- *payaḥ* ← *payas*
 - \[noun\], accusative, singular, neuter
 - “milk; milky juice; water; fluid; juice; payas \[word\]; drink.”
 ------------------------------------------------------------------------
@@ -68,7 +68,7 @@ title = "Rig Veda 7.101.3"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *gṛbhṇāti* \< *grah*
+- *gṛbhṇāti* ← *grah*
 - \[verb\], singular, Present indikative
 - “take; grasp; take out; extract; perceive; pick; assume; include;
     accept; understand; use; learn; possess; keep; choose; accept;
@@ -76,34 +76,34 @@ title = "Rig Veda 7.101.3"
     into; capture; eclipse; get; collect; hand down; marry; heed;
     touch.”
 ------------------------------------------------------------------------
-- *mātā* \< *mātṛ*
+- *mātā* ← *mātṛ*
 - \[noun\], nominative, singular, feminine
 - “mother; mātṛkā; mātṛ \[word\]; parent; Salvinia cucullata Roxb.;
     Citrullus colocynthis Schrad.; cow.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *pitā* \< *pitṛ*
+- *pitā* ← *pitṛ*
 - \[noun\], nominative, singular, masculine
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *vardhate* \< *vṛdh*
+- *vardhate* ← *vṛdh*
 - \[verb\], singular, Present indikative
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *tena* \< *tad*
+- *tena* ← *tad*
 - \[noun\], instrumental, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *putraḥ* \< *putra*
+- *putraḥ* ← *putra*
 - \[noun\], nominative, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------

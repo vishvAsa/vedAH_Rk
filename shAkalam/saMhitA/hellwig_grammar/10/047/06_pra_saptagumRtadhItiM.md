@@ -6,30 +6,30 @@ title = "Rig Veda 10.47.6"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *saptagum* \< *saptagu*
+- *saptagum* ← *saptagu*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *ṛtadhītiṃ* \< *ṛta*
+- *ṛtadhītiṃ* ← *ṛta*
 - \[noun\]
 - “timely; honest.”
 ------------------------------------------------------------------------
-- *ṛtadhītiṃ* \< *dhītim* \< *dhīti*
+- *ṛtadhītiṃ* ← *dhītim* ← *dhīti*
 - \[noun\], accusative, singular, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------
-- *sumedhām* \< *su*
+- *sumedhām* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sumedhām* \< *medhām* \< *medhā*
+- *sumedhām* ← *medhām* ← *medhā*
 - \[noun\], accusative, singular, masculine
 - “intelligence; medhā \[word\]; Medhā.”
 ------------------------------------------------------------------------
-- *bṛhaspatim* \< *bṛhaspati*
+- *bṛhaspatim* ← *bṛhaspati*
 - \[noun\], accusative, singular, masculine
 - “Brihaspati; Jupiter; Bṛhaspati.”
 ------------------------------------------------------------------------
-- *matir* \< *matiḥ* \< *mati*
+- *matir* ← *matiḥ* ← *mati*
 - \[noun\], nominative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”
@@ -38,11 +38,11 @@ title = "Rig Veda 10.47.6"
 - \[adverb\]
 - “towards; accha \[prefix\].”
 ------------------------------------------------------------------------
-- *jigāti* \< *gā*
+- *jigāti* ← *gā*
 - \[verb\], singular, Present indikative
 - “go; enter (a state); arrive.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------

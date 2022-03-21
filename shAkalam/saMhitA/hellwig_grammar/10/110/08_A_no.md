@@ -6,11 +6,11 @@ title = "Rig Veda 10.110.8"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *yajñam* \< *yajña*
+- *yajñam* ← *yajña*
 - \[noun\], accusative, singular, masculine
 - “yajña; religious ceremony; Vishnu; yajña \[word\]; Yajña; Shiva.”
 ------------------------------------------------------------------------
@@ -19,11 +19,11 @@ title = "Rig Veda 10.110.8"
 - “statement; language; voice; bhāratī; Sarasvatī; voice; speech;
     word; voice.”
 ------------------------------------------------------------------------
-- *tūyam* \< *tūya*
+- *tūyam* ← *tūya*
 - \[noun\], accusative, singular, neuter
 - “quick; fast; potent.”
 ------------------------------------------------------------------------
-- *etv* \< *etu* \< *i*
+- *etv* ← *etu* ← *i*
 - \[verb\], singular, Present imperative
 - “go; travel; enter (a state); return; walk; continue; reach; ask.”
 ------------------------------------------------------------------------
@@ -31,38 +31,38 @@ title = "Rig Veda 10.110.8"
 - \[noun\], nominative, singular, feminine
 - “refreshment; iḍā \[word\]; comfort; cow.”
 ------------------------------------------------------------------------
-- *manuṣvad* \< *manuṣvat*
+- *manuṣvad* ← *manuṣvat*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *iha*
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *cetayantī* \< *cetay* \< *√cit*
+- *cetayantī* ← *cetay* ← *√cit*
 - \[verb noun\], nominative, singular
 - “blaze; notice.”
 ------------------------------------------------------------------------
-- *tisro* \< *tisraḥ* \< *tri*
+- *tisro* ← *tisraḥ* ← *tri*
 - \[noun\], nominative, plural, feminine
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *devīr* \< *devīḥ* \< *devī*
+- *devīr* ← *devīḥ* ← *devī*
 - \[noun\], nominative, plural, feminine
 - “Parvati; queen; goddess; Devi.”
 ------------------------------------------------------------------------
-- *barhir* \< *barhiḥ* \< *barhis*
+- *barhir* ← *barhiḥ* ← *barhis*
 - \[noun\], accusative, singular, neuter
 - “Barhis; barhis \[word\].”
 ------------------------------------------------------------------------
-- *edaṃ* \< *ā*
+- *edaṃ* ← *ā*
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *edaṃ* \< *idam*
+- *edaṃ* ← *idam*
 - \[noun\], accusative, singular, neuter
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *syonaṃ* \< *syonam* \< *syona*
+- *syonaṃ* ← *syonam* ← *syona*
 - \[noun\], accusative, singular, neuter
 - “benevolent; agreeable; pleasant; agreeable.”
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ title = "Rig Veda 10.110.8"
 - “Sarasvati; Sarasvatī; language; voice; speech; eloquence; balloon
     vine; river.”
 ------------------------------------------------------------------------
-- *svapasaḥ* \< *su*
+- *svapasaḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *svapasaḥ* \< *apasaḥ* \< *apas*
+- *svapasaḥ* ← *apasaḥ* ← *apas*
 - \[noun\], nominative, plural, feminine
 - “work; deed.”
 ------------------------------------------------------------------------
-- *sadantu* \< *sad*
+- *sadantu* ← *sad*
 - \[verb\], plural, Aorist imperative
 - “sit down; break down; slow; sink; crumble; fracture; perish; ride;
     stop; besiege; tire.”

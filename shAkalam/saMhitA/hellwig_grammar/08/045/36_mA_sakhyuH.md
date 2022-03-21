@@ -6,11 +6,11 @@ title = "Rig Veda 8.45.36"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *sakhyuḥ* \< *sakhi*
+- *sakhyuḥ* ← *sakhi*
 - \[noun\], genitive, singular, masculine
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *śūnam* \< *śūna*
+- *śūnam* ← *śūna*
 - \[noun\], nominative, singular, neuter
 - “lack; absence.”
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ title = "Rig Veda 8.45.36"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *vide* \< *vid*
+- *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
@@ -26,28 +26,28 @@ title = "Rig Veda 8.45.36"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *putrasya* \< *putra*
+- *putrasya* ← *putra*
 - \[noun\], genitive, singular, masculine
 - “son; putra \[word\]; male child; Putra; Bodhisattva.”
 ------------------------------------------------------------------------
-- *prabhūvaso* \< *prabhūvasu*
+- *prabhūvaso* ← *prabhūvasu*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *āvṛtvad* \< *āvṛtvat*
+- *āvṛtvad* ← *āvṛtvat*
 - \[noun\], nominative, singular, neuter
 ------------------------------------------------------------------------
-- *bhūtu* \< *bhū*
+- *bhūtu* ← *bhū*
 - \[verb\], singular, Aorist imperative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *manaḥ* \< *manas*
+- *manaḥ* ← *manas*
 - \[noun\], nominative, singular, neuter
 - “mind; Manas; purpose; idea; attention; heart; decision; manas
     \[word\]; manas \[indecl.\]; spirit; temper; intelligence.”

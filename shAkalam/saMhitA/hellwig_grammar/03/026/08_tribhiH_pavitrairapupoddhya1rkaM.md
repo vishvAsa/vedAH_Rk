@@ -2,32 +2,32 @@
 title = "Rig Veda 3.26.8"
 
 +++
--   *tribhiḥ* \< *tri*
+-   *tribhiḥ* ← *tri*
 - \[noun\], instrumental, plural, neuter
 - “three; tri/tisṛ \[word\].”
 ------------------------------------------------------------------------
-- *pavitrair* \< *pavitraiḥ* \< *pavitra*
+- *pavitrair* ← *pavitraiḥ* ← *pavitra*
 - \[noun\], instrumental, plural, neuter
 - “strainer.”
 ------------------------------------------------------------------------
-- *apupoddhy* \< *apupot* \< *pū*
+- *apupoddhy* ← *apupot* ← *pū*
 - \[verb\], singular, Plusquamperfect
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *apupoddhy* \< *hi*
+- *apupoddhy* ← *hi*
 - \[adverb\]
 - “because; indeed; for; therefore; hi \[word\].”
 ------------------------------------------------------------------------
-- *arkaṃ* \< *arkam* \< *arka*
+- *arkaṃ* ← *arkam* ← *arka*
 - \[noun\], accusative, singular, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *hṛdā* \< *hṛd*
+- *hṛdā* ← *hṛd*
 - \[noun\], instrumental, singular, neuter
 - “heart; heart; mind; breast; hṛd \[word\].”
 ------------------------------------------------------------------------
-- *matiṃ* \< *matim* \< *mati*
+- *matiṃ* ← *matim* ← *mati*
 - \[noun\], accusative, singular, feminine
 - “intelligence; decision; mind; hymn; purpose; idea; opinion; belief;
     desire; wish; conviction; plan; devotion.”

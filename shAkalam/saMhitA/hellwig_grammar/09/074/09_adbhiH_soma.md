@@ -2,7 +2,7 @@
 title = "Rig Veda 9.74.9"
 
 +++
--   *adbhiḥ* \< *ap*
+-   *adbhiḥ* ← *ap*
 - \[noun\], instrumental, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 9.74.9"
 - \[noun\], vocative, singular, masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *papṛcānasya* \< *pṛc*
+- *papṛcānasya* ← *pṛc*
 - \[verb noun\], genitive, singular
 - “mix; unite.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *raso* \< *rasaḥ* \< *rasa*
+- *raso* ← *rasaḥ* ← *rasa*
 - \[noun\], nominative, singular, masculine
 - “mercury; juice; medicine; rasa; alchemy; liquid; Rasa; mahārasa;
     taste; broth; elixir; resin; rasa; essence; six; water; soup; liquid
@@ -26,10 +26,10 @@ title = "Rig Veda 9.74.9"
     purpose; delight; solution; milk; beverage; alcohol; sap; nectar;
     Rasātala.”
 ------------------------------------------------------------------------
-- *'vyo* \< *avyaḥ* \< *avya*
+- *'vyo* ← *avyaḥ* ← *avya*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *vāraṃ* \< *vāram* \< *vāra*
+- *vāraṃ* ← *vāram* ← *vāra*
 - \[noun\], accusative, singular, masculine
 - “strainer.”
 ------------------------------------------------------------------------
@@ -37,25 +37,25 @@ title = "Rig Veda 9.74.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *dhāvati* \< *dhāv*
+- *dhāvati* ← *dhāv*
 - \[verb\], singular, Present indikative
 - “run; run; wash.”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *mṛjyamānaḥ* \< *mṛj*
+- *mṛjyamānaḥ* ← *mṛj*
 - \[verb noun\], nominative, singular
 - “purify; polish; rub; remove.”
 ------------------------------------------------------------------------
-- *kavibhir* \< *kavibhiḥ* \< *kavi*
+- *kavibhir* ← *kavibhiḥ* ← *kavi*
 - \[noun\], instrumental, plural, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
@@ -64,20 +64,20 @@ title = "Rig Veda 9.74.9"
 - \[noun\], vocative, singular, masculine
 - “exhilarating; intoxicant.”
 ------------------------------------------------------------------------
-- *svadasvendrāya* \< *svadasva* \< *svad*
+- *svadasvendrāya* ← *svadasva* ← *svad*
 - \[verb\], singular, Present imperative
 - “sweeten.”
 ------------------------------------------------------------------------
-- *svadasvendrāya* \< *indrāya* \< *indra*
+- *svadasvendrāya* ← *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pavamāna* \< *pū*
+- *pavamāna* ← *pū*
 - \[verb noun\], vocative, singular
 - “purify; filter; blow; purify; purge; sift.”
 ------------------------------------------------------------------------
-- *pītaye* \< *pā*
+- *pītaye* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------

@@ -2,28 +2,28 @@
 title = "Rig Veda 7.59.12"
 
 +++
--   *tryambakaṃ* \< *tryambakam* \< *tryambaka*
+-   *tryambakaṃ* ← *tryambakam* ← *tryambaka*
 - \[noun\], accusative, singular, masculine
 - “Shiva; Tryambaka.”
 ------------------------------------------------------------------------
-- *yajāmahe* \< *yaj*
+- *yajāmahe* ← *yaj*
 - \[verb\], plural, Present indikative
 - “sacrifice; worship; worship.”
 ------------------------------------------------------------------------
-- *sugandhim* \< *sugandhi*
+- *sugandhim* ← *sugandhi*
 - \[noun\], accusative, singular, masculine
 - “fragrant.”
 ------------------------------------------------------------------------
-- *puṣṭivardhanam* \< *puṣṭi*
+- *puṣṭivardhanam* ← *puṣṭi*
 - \[noun\], feminine
 - “prosperity; growth; increase; puṣṭi; luxury; wealth; comfort;
     increase; corpulence.”
 ------------------------------------------------------------------------
-- *puṣṭivardhanam* \< *vardhanam* \< *vardhana*
+- *puṣṭivardhanam* ← *vardhanam* ← *vardhana*
 - \[noun\], accusative, singular, masculine
 - “increasing; fortifying; promotive; prolonging.”
 ------------------------------------------------------------------------
-- *urvārukam* \< *urvāruka*
+- *urvārukam* ← *urvāruka*
 - \[noun\], accusative, singular, masculine
 - “pumpkin.”
 ------------------------------------------------------------------------
@@ -31,18 +31,18 @@ title = "Rig Veda 7.59.12"
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *bandhanān* \< *bandhanāt* \< *bandhana*
+- *bandhanān* ← *bandhanāt* ← *bandhana*
 - \[noun\], ablative, singular, neuter
 - “bandhana; dressing; saṃdhilepa; attachment; fetter; paralysis;
     enclosure; imprisonment; cord; spell; fastening; tying; shutting;
     joining; tendon; binding; stalk; hardening; bondage; captivity;
     constipation; kapha; bandhana; ligament.”
 ------------------------------------------------------------------------
-- *mṛtyor* \< *mṛtyoḥ* \< *mṛtyu*
+- *mṛtyor* ← *mṛtyoḥ* ← *mṛtyu*
 - \[noun\], ablative, singular, masculine
 - “death; Yama; māraṇa; Mṛtyu.”
 ------------------------------------------------------------------------
-- *mukṣīya* \< *muc*
+- *mukṣīya* ← *muc*
 - \[verb\], singular, Aorist conj./subj.
 - “liberate; emit; get rid of; shoot; release; put; tousle; secrete;
     fill into; shoot; spill; lose; ejaculate; exclude; free; remove;
@@ -50,11 +50,11 @@ title = "Rig Veda 7.59.12"
     open; abandon; discard; precipitate; reject; lay; unleash; exhale;
     discharge.”
 ------------------------------------------------------------------------
-- *māmṛtāt* \< *mā* \< *mad*
+- *māmṛtāt* ← *mā* ← *mad*
 - \[noun\], accusative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *māmṛtāt* \< *amṛtāt* \< *amṛta*
+- *māmṛtāt* ← *amṛtāt* ← *amṛta*
 - \[noun\], ablative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------

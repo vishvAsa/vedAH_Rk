@@ -2,27 +2,27 @@
 title = "Rig Veda 6.3.8"
 
 +++
--   *dhāyobhir* \< *dhāyobhiḥ* \< *dhāyas*
+-   *dhāyobhir* ← *dhāyobhiḥ* ← *dhāyas*
 - \[noun\], instrumental, plural, neuter
 ------------------------------------------------------------------------
 - *vā*
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yujyebhir* \< *yujyebhiḥ* \< *yujya*
+- *yujyebhir* ← *yujyebhiḥ* ← *yujya*
 - \[noun\], instrumental, plural, masculine
 - “adequate to(p); appropriate; united; allied.”
 ------------------------------------------------------------------------
-- *arkair* \< *arkaiḥ* \< *arka*
+- *arkair* ← *arkaiḥ* ← *arka*
 - \[noun\], instrumental, plural, masculine
 - “Calotropis gigantea Beng.; sun; copper; Surya; hymn; twelve; fire;
     beam.”
 ------------------------------------------------------------------------
-- *vidyun* \< *vidyut*
+- *vidyun* ← *vidyut*
 - \[noun\], nominative, singular, feminine
 - “lightning; Vidyut; thunderbolt.”
 ------------------------------------------------------------------------
@@ -30,20 +30,20 @@ title = "Rig Veda 6.3.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *davidyot* \< *davidyut* \< *√dyut*
+- *davidyot* ← *davidyut* ← *√dyut*
 - \[verb\], singular, Imperfect
 - “flash.”
 ------------------------------------------------------------------------
-- *svebhiḥ* \< *sva*
+- *svebhiḥ* ← *sva*
 - \[noun\], instrumental, plural, masculine
 - “own(a); respective(a); akin(p); sva \[word\]; individual;
     present(a); independent.”
 ------------------------------------------------------------------------
-- *śuṣmaiḥ* \< *śuṣma*
+- *śuṣmaiḥ* ← *śuṣma*
 - \[noun\], instrumental, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *śardho* \< *śardhaḥ* \< *śardhas*
+- *śardho* ← *śardhaḥ* ← *śardhas*
 - \[noun\], accusative, singular, neuter
 - “troop.”
 ------------------------------------------------------------------------
@@ -51,19 +51,19 @@ title = "Rig Veda 6.3.8"
 - \[adverb\]
 - “or; optionally; either.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *marutāṃ* \< *marutām* \< *marut*
+- *marutāṃ* ← *marutām* ← *marut*
 - \[noun\], genitive, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *tatakṣa* \< *takṣ*
+- *tatakṣa* ← *takṣ*
 - \[verb\], singular, Perfect indicative
 - “produce; shape; fashion; chisel; invent.”
 ------------------------------------------------------------------------
-- *ṛbhur* \< *ṛbhuḥ* \< *ṛbhu*
+- *ṛbhur* ← *ṛbhuḥ* ← *ṛbhu*
 - \[noun\], nominative, singular, masculine
 - “Ribhus.”
 ------------------------------------------------------------------------
@@ -71,15 +71,15 @@ title = "Rig Veda 6.3.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tveṣo* \< *tveṣaḥ* \< *tveṣa*
+- *tveṣo* ← *tveṣaḥ* ← *tveṣa*
 - \[noun\], nominative, singular, masculine
 - “awful; brilliant; aglitter(p); bright.”
 ------------------------------------------------------------------------
-- *rabhasāno* \< *rabhasānaḥ* \< *rabhasāna*
+- *rabhasāno* ← *rabhasānaḥ* ← *rabhasāna*
 - \[noun\], nominative, singular, masculine
 - “shining.”
 ------------------------------------------------------------------------
-- *adyaut* \< *dyut*
+- *adyaut* ← *dyut*
 - \[verb\], singular, Athematic s aor. (Ind.)
 - “shine; inflame.”
 ------------------------------------------------------------------------

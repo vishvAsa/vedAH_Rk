@@ -2,31 +2,31 @@
 title = "Rig Veda 10.139.6"
 
 +++
--   *sasnim* \< *sasni*
+-   *sasnim* ← *sasni*
 - \[noun\], accusative, singular, masculine
 - “victorious.”
 ------------------------------------------------------------------------
-- *avindac* \< *avindat* \< *vid*
+- *avindac* ← *avindat* ← *vid*
 - \[verb\], singular, Imperfect
 - “find; detect; marry; get; think.”
 ------------------------------------------------------------------------
-- *caraṇe* \< *caraṇa*
+- *caraṇe* ← *caraṇa*
 - \[noun\], locative, singular, neuter
 - “foot; Vedic school; caraṇa; one-fourth; wheel; performance.”
 ------------------------------------------------------------------------
-- *nadīnām* \< *nadī*
+- *nadīnām* ← *nadī*
 - \[noun\], genitive, plural, feminine
 - “river; nadī; nadī \[word\]; Premna spinosa Roxb..”
 ------------------------------------------------------------------------
-- *apāvṛṇod* \< *apāvṛṇot* \< *apāvṛ* \< *√vṛ*
+- *apāvṛṇod* ← *apāvṛṇot* ← *apāvṛ* ← *√vṛ*
 - \[verb\], singular, Imperfect
 - “open; gape.”
 ------------------------------------------------------------------------
-- *duro* \< *duraḥ* \< *dvār*
+- *duro* ← *duraḥ* ← *dvār*
 - \[noun\], accusative, plural
 - “door; means.”
 ------------------------------------------------------------------------
-- *aśmavrajānām* \< *aśma* \< *aśman*
+- *aśmavrajānām* ← *aśma* ← *aśman*
 - \[noun\], masculine
 - “stone; aśmarī; rock; aśman \[word\]; adri; mineral; piṇḍatālaka;
     mountain.”

@@ -2,36 +2,36 @@
 title = "Rig Veda 4.14.5"
 
 +++
--   *anāyato* \< *an*
+-   *anāyato* ← *an*
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *anāyato* \< *āyataḥ* \< *āyam* \< *√yam*
+- *anāyato* ← *āyataḥ* ← *āyam* ← *√yam*
 - \[verb noun\], nominative, singular
 - “measure in length; measure in width; extend; spread; lengthen;
     unfold; broaden; measure; broaden.”
 ------------------------------------------------------------------------
-- *anibaddhaḥ* \< *a*
+- *anibaddhaḥ* ← *a*
 - \[adverb\]
 - “not; akāra; a \[taddhita\]; a \[word\]; a; a.”
 ------------------------------------------------------------------------
-- *anibaddhaḥ* \< *nibaddhaḥ* \< *nibandh* \< *√bandh*
+- *anibaddhaḥ* ← *nibaddhaḥ* ← *nibandh* ← *√bandh*
 - \[verb noun\], nominative, singular
 - “bandh; connect; tie; bind; write; codify; paralyze; bandage; bind;
     wrap; fixate.”
 ------------------------------------------------------------------------
-- *kathāyaṃ* \< *kathā*
+- *kathāyaṃ* ← *kathā*
 - \[adverb\]
 - “how.”
 ------------------------------------------------------------------------
-- *kathāyaṃ* \< *ayam* \< *idam*
+- *kathāyaṃ* ← *ayam* ← *idam*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *nyaṅṅ* \< *nyaṅ* \< *nyāñc*
+- *nyaṅṅ* ← *nyaṅ* ← *nyāñc*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *uttāno* \< *uttānaḥ* \< *uttāna*
+- *uttāno* ← *uttānaḥ* \< *uttāna*
 - \[noun\], nominative, singular, masculine
 - “supine; upward; upright; skin-deep; raised; shallow.”
 ------------------------------------------------------------------------

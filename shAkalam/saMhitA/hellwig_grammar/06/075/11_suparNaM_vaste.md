@@ -2,53 +2,53 @@
 title = "Rig Veda 6.75.11"
 
 +++
--   *suparṇaṃ* \< *suparṇam* \< *suparṇa*
+-   *suparṇaṃ* ← *suparṇam* ← *suparṇa*
 - \[noun\], accusative, singular, masculine
 - “Garuda; Suparṇa; bird of prey; Suparṇa; suparṇa; Suparṇa; eagle.”
 ------------------------------------------------------------------------
-- *vaste* \< *vas*
+- *vaste* ← *vas*
 - \[verb\], singular, Present indikative
 - “wear.”
 ------------------------------------------------------------------------
-- *mṛgo* \< *mṛgaḥ* \< *mṛga*
+- *mṛgo* ← *mṛgaḥ* ← *mṛga*
 - \[noun\], nominative, singular, masculine
 - “game; deer; animal; antelope; mṛga \[word\]; Mṛgaśiras.”
 ------------------------------------------------------------------------
-- *asyā* \< *asyāḥ* \< *idam*
+- *asyā* ← *asyāḥ* ← *idam*
 - \[noun\], genitive, singular, feminine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *danto* \< *dantaḥ* \< *danta*
+- *danto* ← *dantaḥ* ← *danta*
 - \[noun\], nominative, singular, masculine
 - “tooth; tusk; ivory; danta \[word\]; peak; tooth.”
 ------------------------------------------------------------------------
-- *gobhiḥ* \< *go*
+- *gobhiḥ* ← *go*
 - \[noun\], instrumental, plural, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *saṃnaddhā* \< *saṃnah* \< *√nah*
+- *saṃnaddhā* ← *saṃnah* ← *√nah*
 - \[verb noun\], nominative, singular
 - “arm; bind; prepare.”
 ------------------------------------------------------------------------
-- *patati* \< *pat*
+- *patati* ← *pat*
 - \[verb\], singular, Present indikative
 - “fall down; drop; fly; issue; fall; fall; decay; hang down; banish;
     throw; lodge; disappear.”
 ------------------------------------------------------------------------
-- *prasūtā* \< *prasū* \< *√sū*
+- *prasūtā* ← *prasū* ← *√sū*
 - \[verb noun\], nominative, singular
 - “give birth; be born; originate; impel; propel; grow.”
 ------------------------------------------------------------------------
-- *yatrā* \< *yatra*
+- *yatrā* ← *yatra*
 - \[adverb\]
 - “wherein; once \[when\].”
 ------------------------------------------------------------------------
-- *naraḥ* \< *nṛ*
+- *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *saṃ* \< *sam*
+- *saṃ* ← *sam*
 - \[adverb\]
 - “sam; together; together; saṃ.”
 ------------------------------------------------------------------------
@@ -64,29 +64,29 @@ title = "Rig Veda 6.75.11"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *dravanti* \< *dru*
+- *dravanti* ← *dru*
 - \[verb\], plural, Present indikative
 - “liquefy; melt; melt; flee; run; run; vanish; run; rush; dissolve;
     dissolve.”
 ------------------------------------------------------------------------
-- *tatrāsmabhyam* \< *tatra*
+- *tatrāsmabhyam* ← *tatra*
 - \[adverb\]
 - “there; now; then; then; there; in that place; then; locative;
     respectively; there; tatra \[word\]; inside; therefore.”
 ------------------------------------------------------------------------
-- *tatrāsmabhyam* \< *asmabhyam* \< *mad*
+- *tatrāsmabhyam* ← *asmabhyam* ← *mad*
 - \[noun\], dative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *iṣavaḥ* \< *iṣu*
+- *iṣavaḥ* ← *iṣu*
 - \[noun\], nominative, plural, feminine
 - “arrow; iṣu \[word\]; iṣ; five; munj.”
 ------------------------------------------------------------------------
-- *śarma* \< *śarman*
+- *śarma* ← *śarman*
 - \[noun\], accusative, singular, neuter
 - “protection; protective covering; refuge; joy.”
 ------------------------------------------------------------------------
-- *yaṃsan* \< *yam*
+- *yaṃsan* ← *yam*
 - \[verb\], plural, Aorist conj./subj.
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------

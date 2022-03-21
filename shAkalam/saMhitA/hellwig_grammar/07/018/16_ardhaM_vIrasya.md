@@ -2,33 +2,33 @@
 title = "Rig Veda 7.18.16"
 
 +++
--   *ardhaṃ* \< *ardham* \< *ardha*
+-   *ardhaṃ* ← *ardham* ← *ardha*
 - \[noun\], accusative, singular, neuter
 - “one-half; ardha \[word\].”
 ------------------------------------------------------------------------
-- *vīrasya* \< *vīra*
+- *vīrasya* ← *vīra*
 - \[noun\], genitive, singular, masculine
 - “hero; man; Vīra; vīra; vīra \[word\]; Vīra.”
 ------------------------------------------------------------------------
-- *śṛtapām* \< *śṛta*
+- *śṛtapām* ← *śṛta*
 - \[noun\], neuter
 - “kvātha.”
 ------------------------------------------------------------------------
-- *śṛtapām* \< *pām* \< *pā*
+- *śṛtapām* ← *pām* ← *pā*
 - \[noun\], accusative, singular, masculine
 - “drinking.”
 ------------------------------------------------------------------------
-- *anindram* \< *anindra*
+- *anindram* ← *anindra*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
 - *parā*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *śardhantaṃ* \< *śardhantam* \< *śṛdh*
+- *śardhantaṃ* ← *śardhantam* ← *śṛdh*
 - \[verb noun\], accusative, singular
 ------------------------------------------------------------------------
-- *nunude* \< *nud*
+- *nunude* ← *nud*
 - \[verb\], singular, Perfect indicative
 - “push; propel; expel; push; move.”
 ------------------------------------------------------------------------
@@ -36,40 +36,40 @@ title = "Rig Veda 7.18.16"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *kṣām* \< *kṣā*
+- *kṣām* ← *kṣā*
 - \[noun\], accusative, singular, feminine
 - “Earth; Earth.”
 ------------------------------------------------------------------------
-- *indro* \< *indraḥ* \< *indra*
+- *indro* ← *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *manyum* \< *manyu*
+- *manyum* ← *manyu*
 - \[noun\], accusative, singular, masculine
 - “anger; fury; rage; wrath.”
 ------------------------------------------------------------------------
-- *manyumyo* \< *manyumyaḥ* \< *manyumī*
+- *manyumyo* ← *manyumyaḥ* ← *manyumī*
 - \[noun\], genitive, singular, masculine
 ------------------------------------------------------------------------
-- *mimāya* \< *mī*
+- *mimāya* ← *mī*
 - \[verb\], singular, Perfect indicative
 - “transgress; damage.”
 ------------------------------------------------------------------------
-- *bheje* \< *bhaj*
+- *bheje* ← *bhaj*
 - \[verb\], singular, Perfect indicative
 - “eat; enjoy; enter (a state); worship; love; flee; possess; fall to
     one's share; partake; share; get; approach; love; use.”
 ------------------------------------------------------------------------
-- *patho* \< *pathaḥ* \< *pathin*
+- *patho* ← *pathaḥ* ← *pathin*
 - \[noun\], accusative, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *vartanim* \< *vartani*
+- *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------
-- *patyamānaḥ* \< *paty*
+- *patyamānaḥ* ← *paty*
 - \[verb noun\], nominative, singular
 - “own; have; master.”
 ------------------------------------------------------------------------

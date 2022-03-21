@@ -6,49 +6,49 @@ title = "Rig Veda 5.22.1"
 - \[adverb\]
 - “towards; ahead.”
 ------------------------------------------------------------------------
-- *viśvasāmann* \< *viśvasāman*
+- *viśvasāmann* ← *viśvasāman*
 - \[noun\], vocative, singular, masculine
 ------------------------------------------------------------------------
-- *atrivad* \< *atri*
+- *atrivad* ← *atri*
 - \[noun\], masculine
 - “Atri; Atri; atri \[word\].”
 ------------------------------------------------------------------------
-- *atrivad* \< *vat*
+- *atrivad* ← *vat*
 - \[adverb\]
 - “equally; like.”
 ------------------------------------------------------------------------
-- *arcā* \< *arca* \< *arc*
+- *arcā* ← *arca* ← *arc*
 - \[verb\], singular, Present imperative
 - “sing; worship; honor; praise; welcome.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣe* \< *pāvaka*
+- *pāvakaśociṣe* ← *pāvaka*
 - \[noun\]
 - “pure; purifying; pure; āgneya; clear; bright; bright.”
 ------------------------------------------------------------------------
-- *pāvakaśociṣe* \< *śociṣe* \< *śocis*
+- *pāvakaśociṣe* ← *śociṣe* ← *śocis*
 - \[noun\], dative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *adhvareṣv* \< *adhvareṣu* \< *adhvara*
+- *adhvareṣv* ← *adhvareṣu* ← *adhvara*
 - \[noun\], locative, plural, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *īḍyo* \< *īḍyaḥ* \< *īḍ*
+- *īḍyo* ← *īḍyaḥ* ← *īḍ*
 - \[verb noun\], nominative, singular
 - “praise; invite; raise.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *mandratamo* \< *mandratamaḥ* \< *mandratama*
+- *mandratamo* ← *mandratamaḥ* ← *mandratama*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *viśi* \< *viś*
+- *viśi* ← *viś*
 - \[noun\], locative, singular, feminine
 - “people; tribe; Vaisya; national; viś; real property; Vaisya.”
 ------------------------------------------------------------------------

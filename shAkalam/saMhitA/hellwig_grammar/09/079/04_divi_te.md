@@ -2,67 +2,67 @@
 title = "Rig Veda 9.79.4"
 
 +++
--   *divi* \< *div*
+-   *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *nābhā* \< *nābhi*
+- *nābhā* ← *nābhi*
 - \[noun\], locative, singular, feminine
 - “navel; hub; kinship; beginning; origin; umbilical cord; nābhi
     \[word\]; friendship; center.”
 ------------------------------------------------------------------------
-- *paramo* \< *paramaḥ* \< *parama*
+- *paramo* ← *paramaḥ* ← *parama*
 - \[noun\], nominative, singular, masculine
 - “extreme; best; excellent; highest; highest; devoted(p); maximal;
     distant; parama \[word\]; very; farthermost.”
 ------------------------------------------------------------------------
-- *ya* \< *yaḥ* \< *yad*
+- *ya* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *ādade* \< *ādā* \< *√dā*
+- *ādade* ← *ādā* ← *√dā*
 - \[verb\], singular, Perfect indicative
 - “take; take away; take out; pick; extract; drink; grasp; put;
     collect; accept; get; choose; remove; steal; bring; press out;
     impound; keep; eat; use; distill.”
 ------------------------------------------------------------------------
-- *pṛthivyās* \< *pṛthivyāḥ* \< *pṛthivī*
+- *pṛthivyās* ← *pṛthivyāḥ* ← *pṛthivī*
 - \[noun\], genitive, singular, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *ruruhuḥ* \< *ruh*
+- *ruruhuḥ* ← *ruh*
 - \[verb\], plural, Perfect indicative
 - “heal; grow; cicatrize; climb; board; ascend; grow.”
 ------------------------------------------------------------------------
-- *sānavi* \< *sānu*
+- *sānavi* ← *sānu*
 - \[noun\], locative, singular, masculine
 - “tableland; ridge; peak; back; ridge; guru.”
 ------------------------------------------------------------------------
-- *kṣipaḥ* \< *kṣip*
+- *kṣipaḥ* ← *kṣip*
 - \[noun\], nominative, plural, feminine
 - “finger.”
 ------------------------------------------------------------------------
-- *adrayas* \< *adrayaḥ* \< *adri*
+- *adrayas* ← *adrayaḥ* ← *adri*
 - \[noun\], nominative, plural, masculine
 - “mountain; rock; seven; stone; adri; grindstone; adri; rock.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *bapsati* \< *bhas*
+- *bapsati* ← *bhas*
 - \[verb\], plural, Present indikative
 - “chew; snatch.”
 ------------------------------------------------------------------------
-- *gor* \< *goḥ* \< *go*
+- *gor* ← *goḥ* ← *go*
 - \[noun\], genitive, singular, masculine
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
@@ -71,27 +71,27 @@ title = "Rig Veda 9.79.4"
 - \[adverb\]
 - “on; from; accordingly.”
 ------------------------------------------------------------------------
-- *tvacy* \< *tvaci* \< *tvac*
+- *tvacy* ← *tvaci* ← *tvac*
 - \[noun\], locative, singular, feminine
 - “skin; bark; peel; hide; complexion; hide; Rasa; rind.”
 ------------------------------------------------------------------------
-- *apsu* \< *ap*
+- *apsu* ← *ap*
 - \[noun\], locative, plural, feminine
 - “water; body of water; water; ap \[word\]; juice; jala.”
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *hastair* \< *hastaiḥ* \< *hasta*
+- *hastair* ← *hastaiḥ* ← *hasta*
 - \[noun\], instrumental, plural, masculine
 - “hand; hand; proboscis; hasta \[word\]; autograph.”
 ------------------------------------------------------------------------
-- *duduhur* \< *duduhuḥ* \< *duh*
+- *duduhur* ← *duduhuḥ* ← *duh*
 - \[verb\], plural, Perfect indicative
 - “milk.”
 ------------------------------------------------------------------------
-- *manīṣiṇaḥ* \< *manīṣin*
+- *manīṣiṇaḥ* ← *manīṣin*
 - \[noun\], nominative, plural, masculine
 - “sage; expert; devout.”
 ------------------------------------------------------------------------

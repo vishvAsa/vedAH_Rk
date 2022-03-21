@@ -2,18 +2,18 @@
 title = "Rig Veda 10.140.5"
 
 +++
--   *iṣkartāram* \< *iṣkartṛ*
+-   *iṣkartāram* ← *iṣkartṛ*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *adhvarasya* \< *adhvara*
+- *adhvarasya* ← *adhvara*
 - \[noun\], genitive, singular, masculine
 - “yajña; ceremony; adhvara \[word\].”
 ------------------------------------------------------------------------
-- *pracetasaṃ* \< *pracetasam* \< *pracetas*
+- *pracetasaṃ* ← *pracetasam* ← *pracetas*
 - \[noun\], accusative, singular, masculine
 - “intelligent; mindful; attentive; wise; apt; observant.”
 ------------------------------------------------------------------------
-- *kṣayantaṃ* \< *kṣayantam* \< *kṣi*
+- *kṣayantaṃ* ← *kṣayantam* ← *kṣi*
 - \[verb noun\], accusative, singular
 - “govern; inhabit; dwell; stay; predominate; bide; own.”
 ------------------------------------------------------------------------

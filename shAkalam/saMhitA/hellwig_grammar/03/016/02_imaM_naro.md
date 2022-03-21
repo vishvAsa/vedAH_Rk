@@ -2,36 +2,36 @@
 title = "Rig Veda 3.16.2"
 
 +++
--   *imaṃ* \< *imam* \< *idam*
+-   *imaṃ* ← *imam* ← *idam*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *naro* \< *naraḥ* \< *nṛ*
+- *naro* ← *naraḥ* ← *nṛ*
 - \[noun\], nominative, plural, masculine
 - “man; man; nṛ \[word\]; crew; masculine.”
 ------------------------------------------------------------------------
-- *marutaḥ* \< *marut*
+- *marutaḥ* ← *marut*
 - \[noun\], nominative, plural, masculine
 - “Marut; vāta; wind; Vayu.”
 ------------------------------------------------------------------------
-- *saścatā* \< *sac*
+- *saścatā* ← *sac*
 - \[verb\], plural, Present injunctive
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *vṛdhaṃ* \< *vṛdham* \< *vṛdh*
+- *vṛdhaṃ* ← *vṛdham* ← *vṛdh*
 - \[verb noun\]
 - “increase; grow; vṛdh; increase; succeed; strengthen; grow up;
     spread.”
 ------------------------------------------------------------------------
-- *yasmin* \< *yad*
+- *yasmin* ← *yad*
 - \[noun\], locative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *rāyaḥ* \< *rai*
+- *rāyaḥ* ← *rai*
 - \[noun\], nominative, plural, masculine
 - “wealth; possession; rai \[word\]; gold.”
 ------------------------------------------------------------------------
-- *śevṛdhāsaḥ* \< *śevṛdha*
+- *śevṛdhāsaḥ* ← *śevṛdha*
 - \[noun\], nominative, plural, masculine
 - “precious.”
 ------------------------------------------------------------------------
@@ -39,20 +39,20 @@ title = "Rig Veda 3.16.2"
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *ye* \< *yad*
+- *ye* ← *yad*
 - \[noun\], nominative, plural, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *santi* \< *as*
+- *santi* ← *as*
 - \[verb\], plural, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pṛtanāsu* \< *pṛtanā*
+- *pṛtanāsu* ← *pṛtanā*
 - \[noun\], locative, plural, feminine
 - “army; battle; pṛtanā \[word\]; pṛtanā.”
 ------------------------------------------------------------------------
-- *dūḍhyo* \< *dūḍhyaḥ* \< *dūḍhī*
+- *dūḍhyo* ← *dūḍhyaḥ* ← *dūḍhī*
 - \[noun\], accusative, plural, masculine
 - “malevolent.”
 ------------------------------------------------------------------------
@@ -60,10 +60,10 @@ title = "Rig Veda 3.16.2"
 - \[adverb\]
 - “always.”
 ------------------------------------------------------------------------
-- *śatrum* \< *śatru*
+- *śatrum* ← *śatru*
 - \[noun\], accusative, singular, masculine
 - “enemy; foe; enemy; Asura.”
 ------------------------------------------------------------------------
-- *ādabhuḥ* \< *ādabh* \< *√dabh*
+- *ādabhuḥ* ← *ādabh* ← *√dabh*
 - \[verb\], plural, Root aorist (Ind.)
 ------------------------------------------------------------------------

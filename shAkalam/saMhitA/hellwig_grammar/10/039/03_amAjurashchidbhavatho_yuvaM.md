@@ -2,42 +2,42 @@
 title = "Rig Veda 10.39.3"
 
 +++
--   *amājuraś* \< *amājuraḥ* \< *amājur*
+-   *amājuraś* ← *amājuraḥ* ← *amājur*
 - \[noun\], genitive, singular, feminine
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *bhavatho* \< *bhavathaḥ* \< *bhū*
+- *bhavatho* ← *bhavathaḥ* ← *bhū*
 - \[verb\], dual, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *yuvam* \< *tvad*
+- *yuvam* ← *tvad*
 - \[noun\], nominative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
-- *bhago* \< *bhagaḥ* \< *bhaga*
+- *bhago* ← *bhagaḥ* ← *bhaga*
 - \[noun\], nominative, singular, masculine
 - “Bhaga; vulva; good fortune; vagina; bhaga \[word\]; sun;
     well-being; happiness; overlord.”
 ------------------------------------------------------------------------
-- *'nāśoś* \< *anāśoḥ* \< *anāśu*
+- *'nāśoś* ← *anāśoḥ* ← *anāśu*
 - \[noun\], genitive, singular, masculine
 - “slow.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *avitārāpamasya* \< *avitārā* \< *avitṛ*
+- *avitārāpamasya* ← *avitārā* ← *avitṛ*
 - \[noun\], nominative, dual, masculine
 - “favorable.”
 ------------------------------------------------------------------------
-- *avitārāpamasya* \< *apamasya* \< *apama*
+- *avitārāpamasya* ← *apamasya* ← *apama*
 - \[noun\], genitive, singular, masculine
 - “last.”
 ------------------------------------------------------------------------
@@ -45,27 +45,27 @@ title = "Rig Veda 10.39.3"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *andhasya* \< *andha*
+- *andhasya* ← *andha*
 - \[noun\], genitive, singular, masculine
 - “blind; andha \[word\]; andha; blind; complete; dark.”
 ------------------------------------------------------------------------
-- *cin* \< *cit*
+- *cin* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *nāsatyā* \< *nāsatya*
+- *nāsatyā* ← *nāsatya*
 - \[noun\], vocative, dual, masculine
 - “Asvins; nāsatya \[word\].”
 ------------------------------------------------------------------------
-- *kṛśasya* \< *kṛśa*
+- *kṛśasya* ← *kṛśa*
 - \[noun\], genitive, singular, masculine
 - “thin; low; bony; kṛśa \[word\]; insignificant; forceless.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yuvām* \< *tvad*
+- *yuvām* ← *tvad*
 - \[noun\], accusative, dual, masculine
 - “you.”
 ------------------------------------------------------------------------
@@ -73,16 +73,16 @@ title = "Rig Veda 10.39.3"
 - \[adverb\]
 - “indeed; assuredly; entirely.”
 ------------------------------------------------------------------------
-- *āhur* \< *āhuḥ* \< *ah*
+- *āhur* ← *āhuḥ* ← *ah*
 - \[verb\], plural, Perfect indicative
 - “describe; state; say; enumerate; call; name; teach; tell; deem;
     explain; say; define.”
 ------------------------------------------------------------------------
-- *bhiṣajā* \< *bhiṣaj*
+- *bhiṣajā* ← *bhiṣaj*
 - \[noun\], accusative, dual, masculine
 - “doctor; alchemist; therapist; medicine.”
 ------------------------------------------------------------------------
-- *rutasya* \< *ru*
+- *rutasya* ← *ru*
 - \[verb noun\], genitive, singular
 - “break; hurt.”
 ------------------------------------------------------------------------

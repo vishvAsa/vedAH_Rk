@@ -2,11 +2,11 @@
 title = "Rig Veda 1.63.1"
 
 +++
--   *tvam* \< *tvad*
+-   *tvam* ← *tvad*
 - \[noun\], nominative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *mahāṃ* \< *mahat*
+- *mahāṃ* ← *mahat*
 - \[noun\], nominative, singular, masculine
 - “large; eminent; great; loud; dangerous; strong; long; high;
     much(a); mahant \[word\]; ample; very; great; adult; important;
@@ -17,7 +17,7 @@ title = "Rig Veda 1.63.1"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -25,15 +25,15 @@ title = "Rig Veda 1.63.1"
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *śuṣmair* \< *śuṣmaiḥ* \< *śuṣma*
+- *śuṣmair* ← *śuṣmaiḥ* ← *śuṣma*
 - \[noun\], instrumental, plural, masculine
 - “vigor; energy; fire; hiss; courage.”
 ------------------------------------------------------------------------
-- *dyāvā* \< *div*
+- *dyāvā* ← *div*
 - \[noun\], accusative, dual, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
-- *jajñānaḥ* \< *jan*
+- *jajñānaḥ* ← *jan*
 - \[verb noun\], nominative, singular
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
@@ -43,63 +43,63 @@ title = "Rig Veda 1.63.1"
 - \[noun\], accusative, dual, feminine
 - “Earth; pṛthivī; floor; Earth; earth; pṛthivī \[word\]; land.”
 ------------------------------------------------------------------------
-- *ame* \< *ama*
+- *ame* ← *ama*
 - \[noun\], locative, singular, masculine
 - “am; panic; power; ferocity.”
 ------------------------------------------------------------------------
-- *dhāḥ* \< *dhā*
+- *dhāḥ* ← *dhā*
 - \[verb\], singular, Aorist inj. (proh.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *yaddha* \< *yat*
+- *yaddha* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *yaddha* \< *ha*
+- *yaddha* ← *ha*
 - \[adverb\]
 - “indeed; ha \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *viśvā* \< *viśva*
+- *viśvā* ← *viśva*
 - \[noun\], nominative, plural, neuter
 - “all(a); whole; complete; each(a); viśva \[word\]; completely;
     wholly.”
 ------------------------------------------------------------------------
-- *girayaś* \< *girayaḥ* \< *giri*
+- *girayaś* ← *girayaḥ* ← *giri*
 - \[noun\], nominative, plural, masculine
 - “mountain; adri; rock; giri \[word\]; hill; śilājatu.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *abhvā* \< *abhva*
+- *abhvā* ← *abhva*
 - \[noun\], nominative, plural, neuter
 - “monstrosity; nothingness; void; force.”
 ------------------------------------------------------------------------
-- *bhiyā* \< *bhī*
+- *bhiyā* ← *bhī*
 - \[noun\], instrumental, singular, feminine
 - “fear; bhī; alarm.”
 ------------------------------------------------------------------------
-- *dṛḍhāsaḥ* \< *dṛḍha*
+- *dṛḍhāsaḥ* ← *dṛḍha*
 - \[noun\], nominative, plural, masculine
 - “hard; intense; firm; fixed; resolute; mesomorphic; grim; dṛḍha
     \[word\]; rainproof; sturdy; shut; firm; insoluble; strong; tough;
     tight.”
 ------------------------------------------------------------------------
-- *kiraṇā* \< *kiraṇāḥ* \< *kiraṇa*
+- *kiraṇā* ← *kiraṇāḥ* ← *kiraṇa*
 - \[noun\], nominative, plural, masculine
 - “beam; sunbeam; Kiraṇa; dust; sun; chapter.”
 ------------------------------------------------------------------------
-- *naijan* \< *na*
+- *naijan* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *naijan* \< *aijan* \< *ej*
+- *naijan* ← *aijan* ← *ej*
 - \[verb\], plural, Imperfect
 - “move; stir; tremble; travel.”
 ------------------------------------------------------------------------

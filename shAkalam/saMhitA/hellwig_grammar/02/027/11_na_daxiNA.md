@@ -6,7 +6,7 @@ title = "Rig Veda 2.27.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dakṣiṇā* \< *dakṣiṇa*
+- *dakṣiṇā* ← *dakṣiṇa*
 - \[noun\], accusative, plural, neuter
 - “southern; right; south; southerly; dakṣiṇa \[word\]; sincere;
     clockwise; deft.”
@@ -15,7 +15,7 @@ title = "Rig Veda 2.27.11"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *cikite* \< *cit*
+- *cikite* ← *cit*
 - \[verb\], singular, Perfect indicative
 - “notice; observe; attend to; intend.”
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ title = "Rig Veda 2.27.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *savyā* \< *savya*
+- *savyā* ← *savya*
 - \[noun\], accusative, plural, neuter
 - “left; savya \[word\].”
 ------------------------------------------------------------------------
@@ -31,23 +31,23 @@ title = "Rig Veda 2.27.11"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *prācīnam* \< *prācīna*
+- *prācīnam* ← *prācīna*
 - \[noun\], accusative, singular, neuter
 - “eastern; frontal.”
 ------------------------------------------------------------------------
-- *ādityā* \< *ādityāḥ* \< *āditya*
+- *ādityā* ← *ādityāḥ* ← *āditya*
 - \[noun\], vocative, plural, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *nota* \< *na*
+- *nota* ← *na*
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *nota* \< *uta*
+- *nota* ← *uta*
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *paścā* \< *paśca*
+- *paścā* ← *paśca*
 - \[noun\], accusative, plural, neuter
 - “paśca \[word\].”
 ------------------------------------------------------------------------
@@ -55,34 +55,34 @@ title = "Rig Veda 2.27.11"
 - \[noun\], instrumental, singular, feminine
 - “naivete.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *vasavo* \< *vasavaḥ* \< *vasu*
+- *vasavo* ← *vasavaḥ* ← *vasu*
 - \[noun\], vocative, plural, masculine
 - “Vasu; Vasu; eight; vas; audbhida; Deva; sun; pāṃśuja; Agni.”
 ------------------------------------------------------------------------
-- *dhīryā* \< *dhīrya*
+- *dhīryā* ← *dhīrya*
 - \[noun\], instrumental, singular, neuter
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *yuṣmānīto* \< *yuṣmānītaḥ* \< *yuṣmānīta*
+- *yuṣmānīto* ← *yuṣmānītaḥ* ← *yuṣmānīta*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *abhayaṃ* \< *abhayam* \< *abhaya*
+- *abhayaṃ* ← *abhayam* ← *abhaya*
 - \[noun\], accusative, singular, neuter
 - “safe.”
 ------------------------------------------------------------------------
-- *jyotir* \< *jyotiḥ* \< *jyotis*
+- *jyotir* ← *jyotiḥ* ← *jyotis*
 - \[noun\], accusative, singular, neuter
 - “light; star; luminosity; fire; jyotis \[word\]; digestion; planet;
     light; sunlight.”
 ------------------------------------------------------------------------
-- *aśyām* \< *aś*
+- *aśyām* ← *aś*
 - \[verb\], singular, Aorist optative
 - “get; reach; enter (a state).”
 ------------------------------------------------------------------------

@@ -2,7 +2,7 @@
 title = "Rig Veda 3.28.4"
 
 +++
--   *mādhyandine* \< *mādhyaṃdina*
+-   *mādhyandine* ← *mādhyaṃdina*
 - \[noun\], locative, singular, neuter
 - “midday.”
 ------------------------------------------------------------------------

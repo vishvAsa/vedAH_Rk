@@ -2,7 +2,7 @@
 title = "Rig Veda 1.58.1"
 
 +++
--   *nū* \< *nu*
+-   *nū* ← *nu*
 - \[adverb\]
 - “now; already.”
 ------------------------------------------------------------------------
@@ -10,15 +10,15 @@ title = "Rig Veda 1.58.1"
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *sahojā* \< *sahaḥ* \< *sahas*
+- *sahojā* ← *sahaḥ* ← *sahas*
 - \[noun\], neuter
 - “force; strength; might; sahas \[word\]; conquest.”
 ------------------------------------------------------------------------
-- *sahojā* \< *jāḥ* \< *jā*
+- *sahojā* ← *jāḥ* ← *jā*
 - \[noun\], nominative, singular, masculine
 - “born.”
 ------------------------------------------------------------------------
-- *amṛto* \< *amṛtaḥ* \< *amṛta*
+- *amṛto* ← *amṛtaḥ* ← *amṛta*
 - \[noun\], nominative, singular, masculine
 - “immortal; amṛta; imperishable.”
 ------------------------------------------------------------------------
@@ -26,30 +26,30 @@ title = "Rig Veda 1.58.1"
 - \[adverb\]
 - “back; down.”
 ------------------------------------------------------------------------
-- *tundate* \< *tud*
+- *tundate* ← *tud*
 - \[verb\], singular, Present indikative
 - “push; ache.”
 ------------------------------------------------------------------------
-- *hotā* \< *hotṛ*
+- *hotā* ← *hotṛ*
 - \[noun\], nominative, singular, masculine
 - “Hotṛ.”
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *dūto* \< *dūtaḥ* \< *dūta*
+- *dūto* ← *dūtaḥ* ← *dūta*
 - \[noun\], nominative, singular, masculine
 - “messenger; emissary; dūta \[word\].”
 ------------------------------------------------------------------------
-- *abhavad* \< *abhavat* \< *bhū*
+- *abhavad* ← *abhavat* ← *bhū*
 - \[verb\], singular, Imperfect
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *vivasvataḥ* \< *vivasvant*
+- *vivasvataḥ* ← *vivasvant*
 - \[noun\], genitive, singular, masculine
 - “Surya; sun; Vivasvant; Vivasvant.”
 ------------------------------------------------------------------------
@@ -57,19 +57,19 @@ title = "Rig Veda 1.58.1"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *sādhiṣṭhebhiḥ* \< *sādhiṣṭha*
+- *sādhiṣṭhebhiḥ* ← *sādhiṣṭha*
 - \[noun\], instrumental, plural, masculine
 ------------------------------------------------------------------------
-- *pathibhī* \< *pathibhiḥ* \< *pathin*
+- *pathibhī* ← *pathibhiḥ* ← *pathin*
 - \[noun\], instrumental, plural, masculine
 - “way; road; path \[word\]; journey; method.”
 ------------------------------------------------------------------------
-- *rajo* \< *rajaḥ* \< *rajas*
+- *rajo* ← *rajaḥ* ← *rajas*
 - \[noun\], accusative, singular, neuter
 - “powder; menorrhea; dust; Rajas; atmosphere; rajas; pollen; passion;
     rajas \[word\]; sindūra; rust; tin; impurity; dark; sky.”
 ------------------------------------------------------------------------
-- *mama* \< *mame* \< *mā*
+- *mama* ← *mame* ← *mā*
 - \[verb\], singular, Perfect indicative
 - “weigh; measure; total; last; weigh; measure; give away; transform.”
 ------------------------------------------------------------------------
@@ -77,15 +77,15 @@ title = "Rig Veda 1.58.1"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *devatātā* \< *devatāti*
+- *devatātā* ← *devatāti*
 - \[noun\], locative, singular, feminine
 - “deity; Deva.”
 ------------------------------------------------------------------------
-- *haviṣā* \< *havis*
+- *haviṣā* ← *havis*
 - \[noun\], instrumental, singular, neuter
 - “Havya; offering; ghee; havis \[word\].”
 ------------------------------------------------------------------------
-- *vivāsati* \< *vivās* \< *√van*
+- *vivāsati* ← *vivās* ← *√van*
 - \[verb\], singular, Present indikative
 - “invite; endeavor; try for.”
 ------------------------------------------------------------------------

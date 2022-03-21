@@ -6,14 +6,14 @@ title = "Rig Veda 8.13.27"
 - \[adverb\]
 - “here; now; in this world; now; below; there; here; just.”
 ------------------------------------------------------------------------
-- *tyā* \< *tya*
+- *tyā* ← *tya*
 - \[noun\], accusative, dual, masculine
 - “that.”
 ------------------------------------------------------------------------
-- *sadhamādyā* \< *sadhamādya*
+- *sadhamādyā* ← *sadhamādya*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
-- *yujānaḥ* \< *yuj*
+- *yujānaḥ* ← *yuj*
 - \[verb noun\], nominative, singular
 - “mix; use; endow; yoke; accompany; to practice Yoga; connect; hire;
     administer; compound; affect; add; concentrate; unite; join;
@@ -21,15 +21,15 @@ title = "Rig Veda 8.13.27"
     process; mobilize; mount; complement; eat; join; treat; coincide;
     affect; challenge.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *soma*
+- *somapītaye* ← *soma*
 - \[noun\], masculine
 - “Soma; moon; soma \[word\]; Candra.”
 ------------------------------------------------------------------------
-- *somapītaye* \< *pītaye* \< *pīti*
+- *somapītaye* ← *pītaye* ← *pīti*
 - \[noun\], dative, singular, feminine
 - “drinking; haritāla.”
 ------------------------------------------------------------------------
-- *harī* \< *hari*
+- *harī* ← *hari*
 - \[noun\], accusative, dual, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
@@ -39,14 +39,14 @@ title = "Rig Veda 8.13.27"
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *pratadvasū* \< *pratadvasu*
+- *pratadvasū* ← *pratadvasu*
 - \[noun\], accusative, dual, masculine
 ------------------------------------------------------------------------
 - *abhi*
 - \[adverb\]
 - “towards; on.”
 ------------------------------------------------------------------------
-- *svara* \< *svar*
+- *svara* ← *svar*
 - \[verb\], singular, Present imperative
 - “sing.”
 ------------------------------------------------------------------------

@@ -2,15 +2,15 @@
 title = "Rig Veda 3.52.6"
 
 +++
--   *tṛtīye* \< *tṛtīya*
+-   *tṛtīye* ← *tṛtīya*
 - \[noun\], locative, singular, neuter
 - “third; neuter; tṛtīya \[word\]; homosexual.”
 ------------------------------------------------------------------------
-- *dhānāḥ* \< *dhānā*
+- *dhānāḥ* ← *dhānā*
 - \[noun\], accusative, plural, feminine
 - “Dhānā; Coriander; corn; grain.”
 ------------------------------------------------------------------------
-- *savane* \< *savana*
+- *savane* ← *savana*
 - \[noun\], locative, singular, neuter
 - “yajña; savana \[word\]; Snāna; Soma sacrifice; press.”
 ------------------------------------------------------------------------
@@ -18,39 +18,39 @@ title = "Rig Veda 3.52.6"
 - \[noun\], vocative, singular, masculine
 - “Indra; Vishnu; Agni.”
 ------------------------------------------------------------------------
-- *puroﾱāśam* \< *puroḍāś*
+- *puroﾱāśam* ← *puroḍāś*
 - \[noun\], accusative, singular, masculine
 - “puroḍāśa.”
 ------------------------------------------------------------------------
-- *āhutam* \< *āhu* \< *√hu*
+- *āhutam* ← *āhu* ← *√hu*
 - \[verb noun\], accusative, singular
 - “sacrifice; sprinkle.”
 ------------------------------------------------------------------------
-- *māmahasva* \< *mah*
+- *māmahasva* ← *mah*
 - \[verb\], singular, Perfect imperative
 - “give; accord.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *ṛbhumantaṃ* \< *ṛbhumantam* \< *ṛbhumat*
+- *ṛbhumantaṃ* ← *ṛbhumantam* ← *ṛbhumat*
 - \[noun\], accusative, singular, masculine
 - “prudent.”
 ------------------------------------------------------------------------
-- *vājavantaṃ* \< *vājavantam* \< *vājavat*
+- *vājavantaṃ* ← *vājavantam* ← *vājavat*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *tvā* \< *tvad*
+- *tvā* ← *tvad*
 - \[noun\], accusative, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kave* \< *kavi*
+- *kave* ← *kavi*
 - \[noun\], vocative, singular, masculine
 - “poet; wise man; bard; Venus; Uśanas; kavi \[word\]; Kavi; prophet;
     guru; Brahma.”
 ------------------------------------------------------------------------
-- *prayasvanta* \< *prayasvantaḥ* \< *prayasvat*
+- *prayasvanta* ← *prayasvantaḥ* ← *prayasvat*
 - \[noun\], nominative, plural, masculine
 - “offering.”
 ------------------------------------------------------------------------
@@ -58,11 +58,11 @@ title = "Rig Veda 3.52.6"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *śikṣema* \< *śikṣ*
+- *śikṣema* ← *śikṣ*
 - \[verb\], plural, Present optative
 - “help; give.”
 ------------------------------------------------------------------------
-- *dhītibhiḥ* \< *dhīti*
+- *dhītibhiḥ* ← *dhīti*
 - \[noun\], instrumental, plural, feminine
 - “thinking; prayer; understanding.”
 ------------------------------------------------------------------------

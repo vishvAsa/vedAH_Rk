@@ -2,51 +2,51 @@
 title = "Rig Veda 10.14.6"
 
 +++
--   *aṅgiraso* \< *aṅgirasaḥ* \< *aṅgiras*
+-   *aṅgiraso* ← *aṅgirasaḥ* ← *aṅgiras*
 - \[noun\], nominative, plural, masculine
 - “Aṅgiras; Aṅgiras; Brahman; Atharva-Veda; aṅgiras \[word\];
     Aṅgiras.”
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *pitaro* \< *pitaraḥ* \< *pitṛ*
+- *pitaro* ← *pitaraḥ* ← *pitṛ*
 - \[noun\], nominative, plural
 - “father; Pitṛ; ancestor; parent; paternal ancestor; pitṛ \[word\];
     forefather.”
 ------------------------------------------------------------------------
-- *navagvā* \< *navagvāḥ* \< *navagva*
+- *navagvā* ← *navagvāḥ* ← *navagva*
 - \[noun\], nominative, plural, masculine
 - “Navagva.”
 ------------------------------------------------------------------------
-- *atharvāṇo* \< *atharvāṇaḥ* \< *atharvan*
+- *atharvāṇo* ← *atharvāṇaḥ* ← *atharvan*
 - \[noun\], nominative, plural, masculine
 - “Atharvan; Atharvavedin.”
 ------------------------------------------------------------------------
-- *bhṛgavaḥ* \< *bhṛgu*
+- *bhṛgavaḥ* ← *bhṛgu*
 - \[noun\], nominative, plural, masculine
 - “Bhṛgu; precipice; Bhṛgu; Bhṛgu; Venus; bhṛgu \[word\].”
 ------------------------------------------------------------------------
-- *somyāsaḥ* \< *somya*
+- *somyāsaḥ* ← *somya*
 - \[noun\], nominative, plural, masculine
 - “saumya.”
 ------------------------------------------------------------------------
-- *teṣāṃ* \< *teṣām* \< *tad*
+- *teṣāṃ* ← *teṣām* ← *tad*
 - \[noun\], genitive, plural, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vayaṃ* \< *vayam* \< *mad*
+- *vayaṃ* ← *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sumatau* \< *sumati*
+- *sumatau* ← *sumati*
 - \[noun\], locative, singular, feminine
 - “benevolence; favor; Sumati.”
 ------------------------------------------------------------------------
-- *yajñiyānām* \< *yajñiya*
+- *yajñiyānām* ← *yajñiya*
 - \[noun\], genitive, plural, neuter
 - “sacrificial; divine; devoted.”
 ------------------------------------------------------------------------
@@ -55,16 +55,16 @@ title = "Rig Veda 10.14.6"
 - “besides; even; surely; though; furthermore; among; contrastingly;
     assuredly.”
 ------------------------------------------------------------------------
-- *bhadre* \< *bhadra*
+- *bhadre* ← *bhadra*
 - \[noun\], locative, singular, neuter
 - “auspicious; lovely; good; happy; bhadra \[word\]; lucky;
     fine-looking; beautiful.”
 ------------------------------------------------------------------------
-- *saumanase* \< *saumanasa*
+- *saumanase* ← *saumanasa*
 - \[noun\], locative, singular, neuter
 - “favor; satisfaction.”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

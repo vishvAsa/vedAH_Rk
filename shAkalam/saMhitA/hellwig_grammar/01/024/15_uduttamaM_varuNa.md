@@ -6,7 +6,7 @@ title = "Rig Veda 1.24.15"
 - \[adverb\]
 - “up.”
 ------------------------------------------------------------------------
-- *uttamaṃ* \< *uttamam* \< *uttama*
+- *uttamaṃ* ← *uttamam* ← *uttama*
 - \[noun\], accusative, singular, masculine
 - “best; excellent; highest; better; extreme; last; first; topmost;
     chief(a); higher; highest; maximal; uttama \[word\]; prevailing;
@@ -17,19 +17,19 @@ title = "Rig Veda 1.24.15"
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *pāśam* \< *pāśa*
+- *pāśam* ← *pāśa*
 - \[noun\], accusative, singular, masculine
 - “noose; shackle; eye; pāśa \[word\]; fetter.”
 ------------------------------------------------------------------------
-- *asmad* \< *asmat* \< *mad*
+- *asmad* ← *asmat* ← *mad*
 - \[noun\], ablative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *avādhamaṃ* \< *ava*
+- *avādhamaṃ* ← *ava*
 - \[adverb\]
 - “down.”
 ------------------------------------------------------------------------
-- *avādhamaṃ* \< *adhamam* \< *adhama*
+- *avādhamaṃ* ← *adhamam* ← *adhama*
 - \[noun\], accusative, singular, masculine
 - “worst; bottom; despicable; worse; adhama \[word\]; last.”
 ------------------------------------------------------------------------
@@ -37,19 +37,19 @@ title = "Rig Veda 1.24.15"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *madhyamaṃ* \< *madhyamam* \< *madhyama*
+- *madhyamaṃ* ← *madhyamam* ← *madhyama*
 - \[noun\], accusative, singular, masculine
 - “intermediate; middle; average; second; average; adult; central;
     moderate; mean; center(a).”
 ------------------------------------------------------------------------
-- *śrathāya* \< *śrathāy* \< *√śrath*
+- *śrathāya* ← *śrathāy* ← *√śrath*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *athā* \< *atha*
+- *athā* ← *atha*
 - \[adverb\]
 - “now; then; furthermore; now; then.”
 ------------------------------------------------------------------------
-- *vayam* \< *mad*
+- *vayam* ← *mad*
 - \[noun\], nominative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
@@ -57,24 +57,24 @@ title = "Rig Veda 1.24.15"
 - \[noun\], vocative, singular, masculine
 - “sun; Aditya; Surya; āditya \[word\].”
 ------------------------------------------------------------------------
-- *vrate* \< *vrata*
+- *vrate* ← *vrata*
 - \[noun\], locative, singular, neuter
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”
 ------------------------------------------------------------------------
-- *tavānāgaso* \< *tava* \< *tvad*
+- *tavānāgaso* ← *tava* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *tavānāgaso* \< *anāgasaḥ* \< *anāgas*
+- *tavānāgaso* ← *anāgasaḥ* ← *anāgas*
 - \[noun\], nominative, plural, masculine
 - “blameless; impeccant.”
 ------------------------------------------------------------------------
-- *aditaye* \< *aditi*
+- *aditaye* ← *aditi*
 - \[noun\], dative, singular, feminine
 - “Aditi; aditi \[word\].”
 ------------------------------------------------------------------------
-- *syāma* \< *as*
+- *syāma* ← *as*
 - \[verb\], plural, Present optative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

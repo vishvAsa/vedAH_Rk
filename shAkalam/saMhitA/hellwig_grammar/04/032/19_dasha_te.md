@@ -2,36 +2,36 @@
 title = "Rig Veda 4.32.19"
 
 +++
--   *daśa* \< *daśan*
+-   *daśa* ← *daśan*
 - \[noun\], accusative, singular, neuter
 - “ten; tenth; daśan \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *kalaśānāṃ* \< *kalaśānām* \< *kalaśa*
+- *kalaśānāṃ* ← *kalaśānām* ← *kalaśa*
 - \[noun\], genitive, plural, neuter
 - “jar.”
 ------------------------------------------------------------------------
-- *hiraṇyānām* \< *hiraṇya*
+- *hiraṇyānām* ← *hiraṇya*
 - \[noun\], genitive, plural, neuter
 - “gold; jewelry; hiraṇya \[word\]; gold.”
 ------------------------------------------------------------------------
-- *adhīmahi* \< *dhā*
+- *adhīmahi* ← *dhā*
 - \[verb\], plural, Root aorist (Ind.)
 - “put; give; cause; get; hold; make; provide; lend; wear; install;
     have; enter (a state); supply; hold; take; show.”
 ------------------------------------------------------------------------
-- *bhūridā* \< *bhūri*
+- *bhūridā* ← *bhūri*
 - \[noun\]
 - “much; many; much(a); abundant; rich; mighty; distinguished.”
 ------------------------------------------------------------------------
-- *bhūridā* \< *dāḥ* \< *dā*
+- *bhūridā* ← *dāḥ* ← *dā*
 - \[noun\], nominative, singular, masculine
 - “giving.”
 ------------------------------------------------------------------------
-- *asi* \< *as*
+- *asi* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”

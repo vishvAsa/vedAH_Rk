@@ -6,17 +6,17 @@ title = "Rig Veda 10.117.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *sa* \< *tad*
+- *sa* ← *tad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *sakhā* \< *sakhi*
+- *sakhā* ← *sakhi*
 - \[noun\], nominative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -24,38 +24,38 @@ title = "Rig Veda 10.117.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *dadāti* \< *dā*
+- *dadāti* ← *dā*
 - \[verb\], singular, Present indikative
 - “give; add; perform; put; administer; fill into; give; ignite; put
     on; offer; use; fuel; pour; grant; feed; teach; construct; insert;
     drip; wrap; pay; hand over; lend; inflict; concentrate; sacrifice;
     splint; poultice; create.”
 ------------------------------------------------------------------------
-- *sakhye* \< *sakhi*
+- *sakhye* ← *sakhi*
 - \[noun\], dative, singular
 - “friend; companion; sakhi \[word\].”
 ------------------------------------------------------------------------
-- *sacābhuve* \< *sacābhū*
+- *sacābhuve* ← *sacābhū*
 - \[noun\], dative, singular, masculine
 - “ally.”
 ------------------------------------------------------------------------
-- *sacamānāya* \< *sac*
+- *sacamānāya* ← *sac*
 - \[verb noun\], dative, singular
 - “accompany; follow; company; obey; participate; enter.”
 ------------------------------------------------------------------------
-- *pitvaḥ* \< *pā*
+- *pitvaḥ* ← *pā*
 - \[verb noun\]
 - “drink; gulp; soak; drink; suck; inhale.”
 ------------------------------------------------------------------------
-- *apāsmāt* \< *apa*
+- *apāsmāt* ← *apa*
 - \[adverb\]
 - “away.”
 ------------------------------------------------------------------------
-- *apāsmāt* \< *asmāt* \< *idam*
+- *apāsmāt* ← *asmāt* ← *idam*
 - \[noun\], ablative, singular, masculine
 - “this; he,she,it (pers. pron.); here.”
 ------------------------------------------------------------------------
-- *preyān* \< *preyāt* \< *pre* \< *√i*
+- *preyān* ← *preyāt* ← *pre* ← *√i*
 - \[verb\], singular, Present optative
 - “die; proceed; advance; continue; begin; depart.”
 ------------------------------------------------------------------------
@@ -63,40 +63,40 @@ title = "Rig Veda 10.117.4"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *tad* \< *tat* \< *tad*
+- *tad* ← *tat* ← *tad*
 - \[noun\], nominative, singular, neuter
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *oko* \< *okaḥ* \< *oka*
+- *oko* ← *okaḥ* ← *oka*
 - \[noun\], nominative, singular, neuter
 - “home; house; oka \[word\].”
 ------------------------------------------------------------------------
-- *asti* \< *as*
+- *asti* ← *as*
 - \[verb\], singular, Present indikative
 - “be; exist; become; originate; happen; result; be; dwell; be born;
     stay; be; equal; exist; transform.”
 ------------------------------------------------------------------------
-- *pṛṇantam* \< *pṛ*
+- *pṛṇantam* ← *pṛ*
 - \[verb noun\], accusative, singular
 - “fill; elapse; pull back; fill; satisfy; bestow; meet; stuff; load;
     mix; complete.”
 ------------------------------------------------------------------------
-- *anyam* \< *anya*
+- *anyam* ← *anya*
 - \[noun\], accusative, singular, masculine
 - “other; another(a); remaining; different; anya \[word\]; other than;
     more(a); fresh; any(a).”
 ------------------------------------------------------------------------
-- *araṇaṃ* \< *araṇam* \< *araṇa*
+- *araṇaṃ* ← *araṇam* ← *araṇa*
 - \[noun\], accusative, singular, masculine
 - “foreign; unrelated.”
 ------------------------------------------------------------------------
-- *cid* \< *cit*
+- *cid* ← *cit*
 - \[adverb\]
 - “even; indeed.”
 ------------------------------------------------------------------------
-- *icchet* \< *iṣ*
+- *icchet* ← *iṣ*
 - \[verb\], singular, Present optative
 - “desire; recommend; approve; seek; call; search; try; prefer; love;
     commend; assent; permit; choose.”

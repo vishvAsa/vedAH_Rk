@@ -6,29 +6,29 @@ title = "Rig Veda 8.93.32"
 - \[adverb\]
 - “again.”
 ------------------------------------------------------------------------
-- *yo* \< *yaḥ* \< *yad*
+- *yo* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛtrahantamo* \< *vṛtra*
+- *vṛtrahantamo* ← *vṛtra*
 - \[noun\], masculine
 - “enemy.”
 ------------------------------------------------------------------------
-- *vṛtrahantamo* \< *hantamaḥ* \< *hantama*
+- *vṛtrahantamo* ← *hantamaḥ* ← *hantama*
 - \[noun\], nominative, singular, masculine
 - “killing.”
 ------------------------------------------------------------------------
-- *vida* \< *vide* \< *vid*
+- *vida* ← *vide* ← *vid*
 - \[verb\], singular, Present indikative
 - “know; diagnose; perceive; know; accord; notice; deem; mind; learn;
     specify; watch; recognize; detect; call.”
 ------------------------------------------------------------------------
-- *indraḥ* \< *indra*
+- *indraḥ* ← *indra*
 - \[noun\], nominative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *śatakratuḥ* \< *śatakratu*
+- *śatakratuḥ* ← *śatakratu*
 - \[noun\], nominative, singular, masculine
 - “Indra.”
 ------------------------------------------------------------------------
@@ -36,16 +36,16 @@ title = "Rig Veda 8.93.32"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *no* \< *naḥ* \< *mad*
+- *no* ← *naḥ* ← *mad*
 - \[noun\], genitive, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *haribhiḥ* \< *hari*
+- *haribhiḥ* ← *hari*
 - \[noun\], instrumental, plural, masculine
 - “Vishnu; monkey; Krishna; horse; lion; Indra; Hari; Surya; Hari;
     haritāla; Hari; snake; frog.”
 ------------------------------------------------------------------------
-- *sutam* \< *suta*
+- *sutam* ← *suta*
 - \[noun\], accusative, singular, masculine
 - “Soma.”
 ------------------------------------------------------------------------

@@ -2,18 +2,18 @@
 title = "Rig Veda 10.48.8"
 
 +++
--   *ahaṃ* \< *aham* \< *mad*
+-   *ahaṃ* ← *aham* ← *mad*
 - \[noun\], nominative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *guṅgubhyo* \< *guṅgubhyaḥ* \< *guṅgu*
+- *guṅgubhyo* ← *guṅgubhyaḥ* ← *guṅgu*
 - \[noun\], dative, plural, masculine
 - “Guṅgu.”
 ------------------------------------------------------------------------
-- *atithigvam* \< *atithigva*
+- *atithigvam* ← *atithigva*
 - \[noun\], accusative, singular, masculine
 ------------------------------------------------------------------------
-- *iṣkaram* \< *iṣkṛ* \< *√kṛ*
+- *iṣkaram* ← *iṣkṛ* ← *√kṛ*
 - \[verb\], singular, Root aorist (Ind.)
 - “prepare.”
 ------------------------------------------------------------------------

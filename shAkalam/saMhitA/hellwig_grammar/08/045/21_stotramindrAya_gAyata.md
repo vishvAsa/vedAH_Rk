@@ -2,28 +2,28 @@
 title = "Rig Veda 8.45.21"
 
 +++
--   *stotram* \< *stotra*
+-   *stotram* ← *stotra*
 - \[noun\], accusative, singular, neuter
 - “hymn; praise.”
 ------------------------------------------------------------------------
-- *indrāya* \< *indra*
+- *indrāya* ← *indra*
 - \[noun\], dative, singular, masculine
 - “Indra; leader; best; king; first; head; self; indra \[word\];
     Indra; sapphire; fourteen; guru.”
 ------------------------------------------------------------------------
-- *gāyata* \< *gā*
+- *gāyata* ← *gā*
 - \[verb\], plural, Present imperative
 - “sing; praise; jap; recite; describe.”
 ------------------------------------------------------------------------
-- *purunṛmṇāya* \< *puru*
+- *purunṛmṇāya* ← *puru*
 - \[noun\]
 - “many; much(a); very.”
 ------------------------------------------------------------------------
-- *purunṛmṇāya* \< *nṛmṇāya* \< *nṛmṇa*
+- *purunṛmṇāya* ← *nṛmṇāya* ← *nṛmṇa*
 - \[noun\], dative, singular, masculine
 - “manhood; power.”
 ------------------------------------------------------------------------
-- *satvane* \< *satvan*
+- *satvane* ← *satvan*
 - \[noun\], dative, singular, masculine
 - “warrior.”
 ------------------------------------------------------------------------
@@ -31,16 +31,16 @@ title = "Rig Veda 8.45.21"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *yaṃ* \< *yam* \< *yad*
+- *yaṃ* ← *yam* ← *yad*
 - \[noun\], accusative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *vṛṇvate* \< *vṛ*
+- *vṛṇvate* ← *vṛ*
 - \[verb\], plural, Present indikative
 - “surround; accompany; cover; cover; obstruct; check; spread;
     envelop.”
 ------------------------------------------------------------------------
-- *yudhi* \< *yudh*
+- *yudhi* ← *yudh*
 - \[noun\], locative, singular, feminine
 - “battle; fight; war; combat.”
 ------------------------------------------------------------------------

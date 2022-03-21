@@ -6,19 +6,19 @@ title = "Rig Veda 5.61.9"
 - \[adverb\]
 - “and; besides; uta \[indecl.\]; similarly; alike; even.”
 ------------------------------------------------------------------------
-- *me* \< *mad*
+- *me* ← *mad*
 - \[noun\], dative, singular
 - “I; mine.”
 ------------------------------------------------------------------------
-- *'rapad* \< *arapat* \< *rap*
+- *'rapad* ← *arapat* ← *rap*
 - \[verb\], singular, Imperfect
 - “whisper.”
 ------------------------------------------------------------------------
-- *yuvatir* \< *yuvatiḥ* \< *yuvati*
+- *yuvatir* ← *yuvatiḥ* ← *yuvati*
 - \[noun\], nominative, singular, feminine
 - “girl; woman.”
 ------------------------------------------------------------------------
-- *mamanduṣī* \< *mand*
+- *mamanduṣī* ← *mand*
 - \[verb noun\], nominative, singular
 - “rejoice; exhilarate.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 5.61.9"
 - \[adverb\]
 - “towards; per; regarding; respectively; according to; until.”
 ------------------------------------------------------------------------
-- *śyāvāya* \< *śyāva*
+- *śyāvāya* ← *śyāva*
 - \[noun\], dative, singular, masculine
 - “śyāva; Śyāva.”
 ------------------------------------------------------------------------
-- *vartanim* \< *vartani*
+- *vartanim* ← *vartani*
 - \[noun\], accusative, singular, feminine
 - “path; East; way.”
 ------------------------------------------------------------------------
@@ -38,27 +38,27 @@ title = "Rig Veda 5.61.9"
 - \[adverb\]
 - “apart; away; away.”
 ------------------------------------------------------------------------
-- *rohitā* \< *rohita*
+- *rohitā* ← *rohita*
 - \[noun\], nominative, dual, masculine
 - “red.”
 ------------------------------------------------------------------------
-- *purumīﾱhāya* \< *purumīḍha*
+- *purumīﾱhāya* ← *purumīḍha*
 - \[noun\], dative, singular, masculine
 - “Purumīḍha.”
 ------------------------------------------------------------------------
-- *yematur* \< *yematuḥ* \< *yam*
+- *yematur* ← *yematuḥ* ← *yam*
 - \[verb\], dual, Perfect indicative
 - “concentrate; grant; restrain; cause; control; offer; cover; raise.”
 ------------------------------------------------------------------------
-- *viprāya* \< *vipra*
+- *viprāya* ← *vipra*
 - \[noun\], dative, singular, masculine
 - “Brahmin; poet; singer; priest; guru; Vipra.”
 ------------------------------------------------------------------------
-- *dīrghayaśase* \< *dīrgha*
+- *dīrghayaśase* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghayaśase* \< *yaśase* \< *yaśas*
+- *dīrghayaśase* ← *yaśase* ← *yaśas*
 - \[noun\], dative, singular, masculine
 - “fame; Yaśas.”
 ------------------------------------------------------------------------

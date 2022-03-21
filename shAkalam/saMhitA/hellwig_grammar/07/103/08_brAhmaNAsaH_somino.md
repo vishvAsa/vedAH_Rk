@@ -2,20 +2,20 @@
 title = "Rig Veda 7.103.8"
 
 +++
--   *brāhmaṇāsaḥ* \< *brāhmaṇa*
+-   *brāhmaṇāsaḥ* ← *brāhmaṇa*
 - \[noun\], nominative, plural, masculine
 - “Brahmin; Brahmin; brāhmaṇa \[word\]; Brahma.”
 ------------------------------------------------------------------------
-- *somino* \< *sominaḥ* \< *somin*
+- *somino* ← *sominaḥ* ← *somin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *vācam* \< *vāc*
+- *vācam* ← *vāc*
 - \[noun\], accusative, singular, feminine
 - “speech; statement; voice; voice; speech; language; vāc \[word\];
     word; literary composition; conversation; sound; Sarasvati; cry;
     assurance; spell.”
 ------------------------------------------------------------------------
-- *akrata* \< *kṛ*
+- *akrata* ← *kṛ*
 - \[verb\], plural, Root aorist (Ind.)
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -26,12 +26,12 @@ title = "Rig Veda 7.103.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *brahma* \< *brahman*
+- *brahma* ← *brahman*
 - \[noun\], accusative, singular, neuter
 - “brahman; mantra; prayer; spell; Veda; Brahmin; sacred text; final
     emancipation; hymn; brahman \[word\]; Brāhmaṇa; study.”
 ------------------------------------------------------------------------
-- *kṛṇvantaḥ* \< *kṛ*
+- *kṛṇvantaḥ* ← *kṛ*
 - \[verb noun\], nominative, plural
 - “make; perform; cause; produce; shape; construct; do; put; fill
     into; use; fuel; transform; bore; act; write; create; prepare;
@@ -42,32 +42,32 @@ title = "Rig Veda 7.103.8"
     duplicate; plant; kṛ; concentrate; mix; knot; join; take; provide;
     utter; compose.”
 ------------------------------------------------------------------------
-- *parivatsarīṇam* \< *parivatsarīṇa*
+- *parivatsarīṇam* ← *parivatsarīṇa*
 - \[noun\], accusative, singular, neuter
 ------------------------------------------------------------------------
-- *adhvaryavo* \< *adhvaryavaḥ* \< *adhvaryu*
+- *adhvaryavo* ← *adhvaryavaḥ* ← *adhvaryu*
 - \[noun\], nominative, plural, masculine
 - “Adhvaryu; adhvaryu \[word\]; Yajur-Veda.”
 ------------------------------------------------------------------------
-- *gharmiṇaḥ* \< *gharmin*
+- *gharmiṇaḥ* ← *gharmin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *siṣvidānā* \< *siṣvidānāḥ* \< *svid*
+- *siṣvidānā* ← *siṣvidānāḥ* ← *svid*
 - \[verb noun\], nominative, plural
 - “sveday; svid; sweat; heat; macerate.”
 ------------------------------------------------------------------------
-- *āvir* \< *āvis*
+- *āvir* ← *āvis*
 - \[adverb\]
 - “openly; obviously.”
 ------------------------------------------------------------------------
-- *bhavanti* \< *bhū*
+- *bhavanti* ← *bhū*
 - \[verb\], plural, Present indikative
 - “become; be; originate; transform; happen; result; exist; be born;
     be; be; come to life; grow; elapse; come to mind; thrive; become;
     impend; show; conceive; understand; stand; constitute; serve; apply;
     behave.”
 ------------------------------------------------------------------------
-- *guhyā* \< *guhyāḥ* \< *guh*
+- *guhyā* ← *guhyāḥ* ← *guh*
 - \[verb noun\], nominative, plural
 - “hide; cover; conceal; shroud; obscure.”
 ------------------------------------------------------------------------
@@ -75,7 +75,7 @@ title = "Rig Veda 7.103.8"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *ke* \< *ka*
+- *ke* ← *ka*
 - \[noun\], nominative, plural, masculine
 - “what; who; ka \[pronoun\].”
 ------------------------------------------------------------------------

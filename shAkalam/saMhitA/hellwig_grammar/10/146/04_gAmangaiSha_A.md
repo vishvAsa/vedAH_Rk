@@ -2,16 +2,16 @@
 title = "Rig Veda 10.146.4"
 
 +++
--   *gām* \< *go*
+-   *gām* ← *go*
 - \[noun\], accusative, singular
 - “cow; cattle; go \[word\]; Earth; bull; floor; milk; beam; sunbeam;
     leather; hide; horn; language; bowstring; earth; ox; Svarga.”
 ------------------------------------------------------------------------
-- *aṅgaiṣa* \< *aṅga*
+- *aṅgaiṣa* ← *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *aṅgaiṣa* \< *eṣa* \< *etad*
+- *aṅgaiṣa* ← *eṣa* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
@@ -19,30 +19,30 @@ title = "Rig Veda 10.146.4"
 - \[adverb\]
 - “towards; ākāra; until; ā; since; according to; ā \[suffix\].”
 ------------------------------------------------------------------------
-- *hvayati* \< *hvā*
+- *hvayati* ← *hvā*
 - \[verb\], singular, Present indikative
 - “raise; call on; call; summon.”
 ------------------------------------------------------------------------
-- *dārv* \< *dārū* \< *dāru*
+- *dārv* ← *dārū* ← *dāru*
 - \[noun\], accusative, plural, neuter
 - “wood; log; lumber.”
 ------------------------------------------------------------------------
-- *aṅgaiṣo* \< *aṅga*
+- *aṅgaiṣo* ← *aṅga*
 - \[adverb\]
 - “in truth; aṅga \[word\]; entirely; merely.”
 ------------------------------------------------------------------------
-- *aṅgaiṣo* \< *eṣaḥ* \< *etad*
+- *aṅgaiṣo* ← *eṣaḥ* ← *etad*
 - \[noun\], nominative, singular, masculine
 - “this; he,she,it (pers. pron.); etad \[word\].”
 ------------------------------------------------------------------------
-- *apāvadhīt* \< *apavadh* \< *√vadh*
+- *apāvadhīt* ← *apavadh* ← *√vadh*
 - \[verb\], singular, Athematic is aor. (Ind.)
 ------------------------------------------------------------------------
-- *vasann* \< *vasan* \< *vas*
+- *vasann* ← *vasan* ← *vas*
 - \[verb noun\], nominative, singular
 - “stay; dwell; get stale; be situated; exist; continue; bide.”
 ------------------------------------------------------------------------
-- *araṇyānyāṃ* \< *araṇyānyām* \< *araṇyānī*
+- *araṇyānyāṃ* ← *araṇyānyām* ← *araṇyānī*
 - \[noun\], locative, singular, feminine
 - “forest.”
 ------------------------------------------------------------------------
@@ -50,7 +50,7 @@ title = "Rig Veda 10.146.4"
 - \[adverb\]
 - “in the evening; sāyam \[word\].”
 ------------------------------------------------------------------------
-- *akrukṣad* \< *akrukṣat* \< *kruś*
+- *akrukṣad* ← *akrukṣat* ← *kruś*
 - \[verb\], singular, sa aorist (Ind.)
 - “cry; shout; lament.”
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ title = "Rig Veda 10.146.4"
 - \[adverb\]
 - “thus; so; iti \[word\].”
 ------------------------------------------------------------------------
-- *manyate* \< *man*
+- *manyate* ← *man*
 - \[verb\], singular, Present indikative
 - “think of; name; believe; teach; honor; deem; recommend; approve;
     think; define; call; respect; believe; enumerate; understand; see;

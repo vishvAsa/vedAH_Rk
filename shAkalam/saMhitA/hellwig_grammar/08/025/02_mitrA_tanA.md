@@ -2,11 +2,11 @@
 title = "Rig Veda 8.25.2"
 
 +++
--   *mitrā* \< *mitra*
+-   *mitrā* ← *mitra*
 - \[noun\], nominative, dual, masculine
 - “friend; Mitra; mitra \[word\]; sun; ally.”
 ------------------------------------------------------------------------
-- *tanā* \< *tan*
+- *tanā* ← *tan*
 - \[noun\], instrumental, singular, feminine
 - “continuity; sequence; longevity.”
 ------------------------------------------------------------------------
@@ -14,15 +14,15 @@ title = "Rig Veda 8.25.2"
 - \[adverb\]
 - “not; like; no; na \[word\].”
 ------------------------------------------------------------------------
-- *rathyā* \< *rathya*
+- *rathyā* ← *rathya*
 - \[noun\], nominative, dual, masculine
 ------------------------------------------------------------------------
-- *varuṇo* \< *varuṇaḥ* \< *varuṇa*
+- *varuṇo* ← *varuṇaḥ* ← *varuṇa*
 - \[noun\], nominative, singular, masculine
 - “Varuna; varuṇa \[word\]; Crataeva religiosa Forst.; Varuṇa;
     varuṇādi.”
 ------------------------------------------------------------------------
-- *yaś* \< *yaḥ* \< *yad*
+- *yaś* ← *yaḥ* ← *yad*
 - \[noun\], nominative, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
@@ -30,11 +30,11 @@ title = "Rig Veda 8.25.2"
 - \[adverb\]
 - “and; besides; then; now; even.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *su*
+- *sukratuḥ* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sukratuḥ* \< *kratuḥ* \< *kratu*
+- *sukratuḥ* ← *kratuḥ* ← *kratu*
 - \[noun\], nominative, singular, masculine
 - “yajña; decision; plan; deliberation; intelligence; Kratu; will;
     kratu \[word\]; desire; resoluteness; ritual.”
@@ -42,26 +42,26 @@ title = "Rig Veda 8.25.2"
 - *sanāt*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *sujātā* \< *su*
+- *sujātā* ← *su*
 - \[adverb\]
 - “very; well; good; nicely; beautiful; su; early; quite.”
 ------------------------------------------------------------------------
-- *sujātā* \< *jātā* \< *jan*
+- *sujātā* ← *jātā* ← *jan*
 - \[verb noun\], nominative, dual
 - “become; originate; be born; transform; happen; result; grow; beget;
     produce; create; conceive; separate; cause; give birth; grow;
     produce; generate; be; become; arise; come on.”
 ------------------------------------------------------------------------
-- *tanayā* \< *tanaya*
+- *tanayā* ← *tanaya*
 - \[noun\], nominative, dual, masculine
 - “biological.”
 ------------------------------------------------------------------------
-- *dhṛtavratā* \< *dhṛta* \< *dhṛ*
+- *dhṛtavratā* ← *dhṛta* ← *dhṛ*
 - \[verb noun\]
 - “keep; put; hold; assume; wear; take; promise; stay; exist; hold;
     begin; dip.”
 ------------------------------------------------------------------------
-- *dhṛtavratā* \< *vratā* \< *vrata*
+- *dhṛtavratā* ← *vratā* ← *vrata*
 - \[noun\], nominative, dual, masculine
 - “vrata (vote); commandment; law; oath; command; rule; custom; vrata
     \[word\]; rule; behavior.”

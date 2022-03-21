@@ -9,11 +9,11 @@ title = "Rig Veda 5.9.5"
 - *sma*
 - \[adverb\]
 ------------------------------------------------------------------------
-- *yasyārcayaḥ* \< *yasya* \< *yad*
+- *yasyārcayaḥ* ← *yasya* ← *yad*
 - \[noun\], genitive, singular, masculine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *yasyārcayaḥ* \< *arcayaḥ* \< *arci*
+- *yasyārcayaḥ* ← *arcayaḥ* ← *arci*
 - \[noun\], nominative, plural, masculine
 - “flare.”
 ------------------------------------------------------------------------
@@ -21,29 +21,29 @@ title = "Rig Veda 5.9.5"
 - \[adverb\]
 - “correctly.”
 ------------------------------------------------------------------------
-- *saṃyanti* \< *sami* \< *√i*
+- *saṃyanti* ← *sami* ← *√i*
 - \[verb\], plural, Present indikative
 - “meet.”
 ------------------------------------------------------------------------
-- *dhūminaḥ* \< *dhūmin*
+- *dhūminaḥ* ← *dhūmin*
 - \[noun\], nominative, plural, masculine
 ------------------------------------------------------------------------
-- *yad* \< *yat*
+- *yad* ← *yat*
 - \[adverb\]
 - “once \[when\]; because; that; if; how.”
 ------------------------------------------------------------------------
-- *īm* \< *īṃ*
+- *īm* ← *īṃ*
 - \[adverb\]
 ------------------------------------------------------------------------
 - *aha*
 - \[adverb\]
 - “aha \[word\]; indeed.”
 ------------------------------------------------------------------------
-- *trito* \< *tritaḥ* \< *trita*
+- *trito* ← *tritaḥ* ← *trita*
 - \[noun\], nominative, singular, masculine
 - “Trita.”
 ------------------------------------------------------------------------
-- *divy* \< *divi* \< *div*
+- *divy* ← *divi* ← *div*
 - \[noun\], locative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -51,22 +51,22 @@ title = "Rig Veda 5.9.5"
 - \[adverb\]
 - “towards; on; next.”
 ------------------------------------------------------------------------
-- *dhmāteva* \< *dhmātā* \< *dhmātṛ*
+- *dhmāteva* ← *dhmātā* ← *dhmātṛ*
 - \[noun\], nominative, singular, masculine
 ------------------------------------------------------------------------
-- *dhmāteva* \< *iva*
+- *dhmāteva* ← *iva*
 - \[adverb\]
 - “like; as it were; somehow; just so.”
 ------------------------------------------------------------------------
-- *dhamati* \< *dham*
+- *dhamati* ← *dham*
 - \[verb\], singular, Present indikative
 - “heat; blow; fan; blow; ignite; blow; inflate.”
 ------------------------------------------------------------------------
-- *śiśīte* \< *śā*
+- *śiśīte* ← *śā*
 - \[verb\], singular, Present indikative
 - “sharpen; whet; strengthen.”
 ------------------------------------------------------------------------
-- *dhmātarī* \< *dhmātṛ*
+- *dhmātarī* ← *dhmātṛ*
 - \[noun\], locative, singular, masculine
 ------------------------------------------------------------------------
 - *yathā*

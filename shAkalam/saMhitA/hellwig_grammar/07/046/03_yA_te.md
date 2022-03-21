@@ -2,23 +2,23 @@
 title = "Rig Veda 7.46.3"
 
 +++
--   *yā* \< *yad*
+-   *yā* ← *yad*
 - \[noun\], nominative, singular, feminine
 - “who; which; yat \[pronoun\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
-- *didyud* \< *didyut*
+- *didyud* ← *didyut*
 - \[noun\], nominative, singular, feminine
 - “arrow; Didyut.”
 ------------------------------------------------------------------------
-- *avasṛṣṭā* \< *avasṛj* \< *√sṛj*
+- *avasṛṣṭā* ← *avasṛj* ← *√sṛj*
 - \[verb noun\], nominative, singular
 - “free; shoot; ejaculate.”
 ------------------------------------------------------------------------
-- *divas* \< *divaḥ* \< *div*
+- *divas* ← *divaḥ* ← *div*
 - \[noun\], ablative, singular, masculine
 - “sky; Svarga; day; div \[word\]; heaven and earth; day; dawn.”
 ------------------------------------------------------------------------
@@ -26,11 +26,11 @@ title = "Rig Veda 7.46.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *kṣmayā* \< *kṣmā*
+- *kṣmayā* ← *kṣmā*
 - \[noun\], instrumental, singular, feminine
 - “Earth; Earth; land.”
 ------------------------------------------------------------------------
-- *carati* \< *car*
+- *carati* ← *car*
 - \[verb\], singular, Present indikative
 - “car; wander; perform; travel; bore; produce; make; dwell; dig; act;
     observe; enter (a state); observe; cause; crop; behave; practice;
@@ -40,24 +40,24 @@ title = "Rig Veda 7.46.3"
 - \[adverb\]
 - “from; about; around.”
 ------------------------------------------------------------------------
-- *sā* \< *tad*
+- *sā* ← *tad*
 - \[noun\], nominative, singular, feminine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vṛṇaktu* \< *vṛj*
+- *vṛṇaktu* ← *vṛj*
 - \[verb\], singular, Present imperative
 ------------------------------------------------------------------------
-- *naḥ* \< *mad*
+- *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *sahasraṃ* \< *sahasram* \< *sahasra*
+- *sahasraṃ* ← *sahasram* ← *sahasra*
 - \[noun\], nominative, singular, neuter
 - “thousand; one-thousandth; sahasra \[word\].”
 ------------------------------------------------------------------------
-- *te* \< *tvad*
+- *te* ← *tvad*
 - \[noun\], genitive, singular
 - “you.”
 ------------------------------------------------------------------------
@@ -65,7 +65,7 @@ title = "Rig Veda 7.46.3"
 - \[noun\], vocative, singular, masculine
 - “sympathetic.”
 ------------------------------------------------------------------------
-- *bheṣajā* \< *bheṣaja*
+- *bheṣajā* ← *bheṣaja*
 - \[noun\], nominative, plural, neuter
 - “drug; medicine; herb; bheṣaja \[word\]; remedy; reagent.”
 ------------------------------------------------------------------------
@@ -73,19 +73,19 @@ title = "Rig Veda 7.46.3"
 - \[adverb\]
 - “not.”
 ------------------------------------------------------------------------
-- *nas* \< *naḥ* \< *mad*
+- *nas* ← *naḥ* ← *mad*
 - \[noun\], accusative, plural
 - “I; mine.”
 ------------------------------------------------------------------------
-- *tokeṣu* \< *toka*
+- *tokeṣu* ← *toka*
 - \[noun\], locative, plural, neuter
 - “offspring.”
 ------------------------------------------------------------------------
-- *tanayeṣu* \< *tanaya*
+- *tanayeṣu* ← *tanaya*
 - \[noun\], locative, plural, neuter
 - “biological.”
 ------------------------------------------------------------------------
-- *rīriṣaḥ* \< *riṣ*
+- *rīriṣaḥ* ← *riṣ*
 - \[verb\], singular, Aorist inj. (proh.)
 - “suffer; harm.”
 ------------------------------------------------------------------------

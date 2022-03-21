@@ -2,24 +2,24 @@
 title = "Rig Veda 5.18.3"
 
 +++
--   *taṃ* \< *tam* \< *tad*
+-   *taṃ* ← *tam* ← *tad*
 - \[noun\], accusative, singular, masculine
 - “this; he,she,it (pers. pron.); respective(a); that; nominative;
     then; particular(a); genitive; instrumental; accusative; there; tad
     \[word\]; dative; once; same.”
 ------------------------------------------------------------------------
-- *vo* \< *vaḥ* \< *tvad*
+- *vo* ← *vaḥ* ← *tvad*
 - \[noun\], genitive, plural
 - “you.”
 ------------------------------------------------------------------------
-- *dīrghāyuśociṣaṃ* \< *dīrgha*
+- *dīrghāyuśociṣaṃ* ← *dīrgha*
 - \[noun\]
 - “long; long; long; large; far; deep; dīrgha \[word\].”
 ------------------------------------------------------------------------
-- *dīrghāyuśociṣaṃ* \< *āyu*
+- *dīrghāyuśociṣaṃ* ← *āyu*
 - \[noun\], masculine
 ------------------------------------------------------------------------
-- *dīrghāyuśociṣaṃ* \< *śociṣam* \< *śocis*
+- *dīrghāyuśociṣaṃ* ← *śociṣam* \< *śocis*
 - \[noun\], accusative, singular, masculine
 - “fire; flare; burn; radiance.”
 ------------------------------------------------------------------------
